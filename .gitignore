@@ -207,3 +207,7 @@ marimo/_lsp/
 __marimo__/
 scripts/scrobble_library_metadata (4).json
 scrobble_library_metadata_2026-02-21.zip
+.wrangler/*
+node_modules/*
+scrobex-worker/*
+scratch/*

@@ -1,0 +1,21 @@
+{
+  "builtAt": 1776187946017,
+  "stats": {
+    "discogsArtistsParsed": 9999883,
+    "metalRelevantArtists": 195996,
+    "matchedExistingEntries": 60273,
+    "newMetalCatalogEntries": 133102,
+    "stubsWritten": 50890,
+    "shardsModified": 256,
+    "mbidConflictsSkipped": 1,
+    "multiMatchSkipped": 0,
+    "albumsAddedToExistingEntries": 159131
+  },
+  "warnings": [
+    {
+      "type": "mbid_conflict",
+      "normalizedName": "matvey",
+      "detail": "existing=82fa3110-6b25-4737-b5f3-911be151ae14 discogs=bcff7d96-3856-4f1b-8303-ea28fc131d69"
+    }
+  ]
+}

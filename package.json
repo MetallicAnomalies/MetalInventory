@@ -1,0 +1,32 @@
+{
+  "name": "metalinventory",
+  "version": "1.0.0",
+  "description": "Every data my app needs, test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetallicAnomalies/MetalInventory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MetallicAnomalies/MetalInventory/issues"
+  },
+  "homepage": "https://github.com/MetallicAnomalies/MetalInventory#readme",
+  "devDependencies": {
+    "@types/node": "^25.5.2",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  },
+  "dependencies": {
+    "esbuild": "^0.27.7",
+    "get-tsconfig": "^4.13.7",
+    "resolve-pkg-maps": "^1.0.0",
+    "undici-types": "^7.18.2"
+  }
+}

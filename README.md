@@ -1,2 +1,2 @@
 # MetalInventory
-Every data my app needs, test
+Every data my app needs
