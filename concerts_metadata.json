@@ -2186,5 +2186,45 @@
       "city": "Groningen",
       "event": "Nona Tour"
     }
+  ],
+  "Infected Rain": [
+    {
+      "date": "04/04/2026",
+      "venue": "Doornroosje",
+      "city": "Nijmegen",
+      "event": "Mutation Phase In Europe Tour 2026"
+    }
+  ],
+  "Butcher Babies": [
+    {
+      "date": "04/04/2026",
+      "venue": "Doornroosje",
+      "city": "Nijmegen",
+      "event": "Mutation Phase In Europe Tour 2026"
+    }
+  ],
+  "Black Spikes": [
+    {
+      "date": "04/04/2026",
+      "venue": "Doornroosje",
+      "city": "Nijmegen",
+      "event": "Mutation Phase In Europe Tour 2026"
+    }
+  ],
+  "Ancient Fragments": [
+    {
+      "date": "18/04/2026",
+      "venue": "Willemeen",
+      "city": "Arnhem",
+      "event": "Ancient Fragments + Traversus"
+    }
+  ],
+  "Traversus": [
+    {
+      "date": "18/04/2026",
+      "venue": "Willemeen",
+      "city": "Arnhem",
+      "event": "Support for Ancient Fragments"
+    }
   ]
 }
