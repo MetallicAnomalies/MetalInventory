@@ -67,12 +67,39 @@ def open_xml(path: str):
 # Name normalisation & shard key
 # ---------------------------------------------------------------------------
 def normalize(name: str) -> str:
-    return re.sub(r"[^a-z0-9]", "", name.lower())
+    return re.sub(r"[^a-z0-9\u05D0-\u05EA\uFB1D-\uFB4F]", "", name.lower())
 
 
 def shard_key(normalized_name: str) -> str:
     return hashlib.sha256(normalized_name.encode()).hexdigest()[:2]
 
+_EDITION_STRIP = re.compile(
+    r"[\(\[‐\-–—]?\s*("
+    r"deluxe|expanded|anniversary|remaster(ed)?|reissue|limited|special"
+    r"|collector'?s?|bonus|super|ultimate|definitive|platinum|gold"
+    r"|\d+(th|st|nd|rd)\s+anniversary"
+    r")\b.*",
+    re.IGNORECASE,
+)
+
+def normalize_album_key(title: str) -> str:
+    """Strip edition markers before normalizing — for dedup keys only."""
+    stripped = _EDITION_STRIP.sub("", title).strip(" ([")
+    return normalize(stripped)
+
+
+DISTINCT_FORMAT_NAMES: set[str] = {
+    "ep", "single", "live", "compilation", "demo", "mixtape/street",
+    "interview", "bootleg",
+}
+
+def is_distinct_release(elem) -> bool:
+    """True for EPs, singles, live albums etc. — always stored as separate entries."""
+    for fmt in elem.findall("./formats/format"):
+        name = (fmt.get("name") or "").lower().strip()
+        if name in DISTINCT_FORMAT_NAMES:
+            return True
+    return False
 
 # ---------------------------------------------------------------------------
 # Profile truncation
@@ -285,6 +312,67 @@ def merge_album_records(
     existing_albums: list[dict] | None,
     new_albums: list[dict],
 ) -> tuple[list[dict], int]:
+    album_map: dict[str, dict] = {}
+    added_count = 0
+
+    for album in existing_albums or []:
+        name = str(album.get("name", "")).strip()
+        if not name:
+            continue
+        key = normalize_album_key(name)
+        if not key:
+            continue
+        genres = album.get("genres")
+        if not isinstance(genres, list):
+            genres = []
+        year = album.get("year")
+        album_map[key] = {
+            "name": name,
+            "year": "" if year is None else str(year),
+            "genres": sorted({str(g) for g in genres if str(g).strip()}),
+        }
+
+    for album in new_albums:
+        name = str(album.get("name", "")).strip()
+        if not name:
+            continue
+        key = normalize_album_key(name)
+        if not key:
+            continue
+        new_genres = {str(g) for g in album.get("genres", []) if str(g).strip()}
+        new_year = str(album.get("year") or "")
+
+        if key not in album_map:
+            album_map[key] = {
+                "name": name,
+                "year": new_year,
+                "genres": sorted(new_genres),
+            }
+            added_count += 1
+            continue
+
+        merged = album_map[key]
+
+        # Prefer shortest display name (closest to canonical)
+        if name and (not merged["name"] or len(name) < len(merged["name"])):
+            merged["name"] = name
+
+        # Always keep the earliest known year
+        existing_year = merged.get("year")
+        if new_year:
+            if not existing_year or new_year < existing_year:
+                merged["year"] = new_year
+
+        merged["genres"] = sorted(set(merged.get("genres", [])) | new_genres)
+
+    merged_albums = sorted(
+        album_map.values(),
+        key=lambda album: (
+            album.get("year", ""),
+            album.get("name", "").lower(),
+        ),
+    )
+    return merged_albums, added_count
     """
     Merge album entries by normalized album name.
 
@@ -400,10 +488,14 @@ def parse_releases(
 
             # Determine whether any style is metal-relevant
             metal_on_release = any(is_metal_style(s) for s in release_styles)
-            album_key = normalize(release_title) if metal_on_release and release_title else ""
+            distinct = is_distinct_release(elem) if metal_on_release else False
+
+            if metal_on_release and release_title:
+                album_key = normalize(release_title) if distinct else normalize_album_key(release_title)
+            else:
+                album_key = ""
 
             if metal_on_release:
-                # Collect all artist IDs on this release
                 for artist_node in elem.findall("./artists/artist"):
                     id_elem = artist_node.find("id")
                     if id_elem is None or not id_elem.text:
@@ -434,8 +526,17 @@ def parse_releases(
                         }
                     else:
                         album_entry = artist_albums_map[aid][album_key]
-                        if not album_entry.get("year") and release_year:
-                            album_entry["year"] = release_year
+
+                        # Prefer shortest display name (closest to canonical)
+                        if len(release_title) < len(album_entry["name"]):
+                            album_entry["name"] = release_title
+
+                        # Always keep the earliest known year
+                        if release_year:
+                            existing_year = album_entry.get("year")
+                            if not existing_year or release_year < existing_year:
+                                album_entry["year"] = release_year
+
                         album_entry["genres"] = sorted(
                             set(album_entry.get("genres", [])) | set(release_genres)
                         )

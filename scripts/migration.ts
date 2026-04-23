@@ -196,13 +196,23 @@ interface MetadataShardEntry {
 }
 
 function normalize(name: string): string {
-    return name.toLowerCase().replace(/[^a-z0-9]/g, '');
+    return name.toLowerCase().replace(/[^a-z0-9\u05D0-\u05EA\uFB1D-\uFB4F]/g, '');
 }
 
 function shardKey(normalizedName: string): string {
     return createHash('sha256').update(normalizedName).digest('hex').slice(0, 2);
 }
+const EDITION_STRIP = /[\(\[‐\-–—]?\s*(deluxe|expanded|anniversary|remaster(?:ed)?|reissue|limited|special|collector'?s?|bonus|super|ultimate|definitive|platinum|gold|\d+(?:th|st|nd|rd)\s+anniversary)\b.*/i;
 
+function normalizeAlbumKey(title: string): string {
+    return normalize(title.replace(EDITION_STRIP, '').replace(/^[\s(\[]+/, ''));
+}
+
+const DISTINCT_FORMAT_PATTERN = /\b(ep|live|demo|acoustic|instrumental|unplugged|split|bootleg|compilation|single)\b/i;
+
+function isDistinctRelease(albumName: string): boolean {
+    return DISTINCT_FORMAT_PATTERN.test(albumName);
+}
 function mergeEntries(group: MetadataShardEntry[]): MetadataShardEntry {
     if (group.length === 1) return group[0];
 
@@ -212,12 +222,28 @@ function mergeEntries(group: MetadataShardEntry[]): MetadataShardEntry {
         return score(e.displayName) >= score(best.displayName) ? e : best;
     }, group[0]);
 
-    // Merge albums — deduplicate by normalized album name
+    // Merge albums — deduplicate by normalized album key, preserving distinct releases
     const albumMap = new Map<string, MetadataShardEntry['albums'][0]>();
     for (const entry of group) {
         for (const album of entry.albums) {
-            const key = album.name.toLowerCase().trim();
-            if (!albumMap.has(key)) albumMap.set(key, album);
+            const key = isDistinctRelease(album.name)
+                ? normalize(album.name)
+                : normalizeAlbumKey(album.name);
+            if (!albumMap.has(key)) {
+                albumMap.set(key, { ...album });
+            } else {
+                const existing = albumMap.get(key)!;
+                // Prefer shortest display name (closest to canonical)
+                if (album.name.length < existing.name.length) {
+                    existing.name = album.name;
+                }
+                // Always keep the earliest known year
+                if (album.year && (!existing.year || album.year < existing.year)) {
+                    existing.year = album.year;
+                }
+                // Union genres
+                existing.genres = [...new Set([...existing.genres, ...album.genres])];
+            }
         }
     }
 
