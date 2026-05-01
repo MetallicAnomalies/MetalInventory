@@ -17,6 +17,7 @@ import json
 import os
 import re
 import time
+import unicodedata
 import xml.etree.ElementTree as ET
 
 # ---------------------------------------------------------------------------
@@ -67,7 +68,17 @@ def open_xml(path: str):
 # Name normalisation & shard key
 # ---------------------------------------------------------------------------
 def normalize(name: str) -> str:
-    return re.sub(r"[^a-z0-9\u05D0-\u05EA\uFB1D-\uFB4F]", "", name.lower())
+    # Unicode-aware: keep letters/digits from any script, strip accents/marks and punctuation.
+    folded = unicodedata.normalize("NFKD", name).casefold()
+    out: list[str] = []
+    for ch in folded:
+        if unicodedata.category(ch) == "Mn":
+            continue
+        if ch.isalnum():
+            out.append(ch)
+    normalized = "".join(out)
+    # Avoid collapsing purely-symbol names (e.g. ".", "...?") into the same empty key.
+    return normalized or hashlib.sha256(name.encode("utf-8")).hexdigest()[:16]
 
 
 def shard_key(normalized_name: str) -> str:
@@ -88,18 +99,59 @@ def normalize_album_key(title: str) -> str:
     return normalize(stripped)
 
 
-DISTINCT_FORMAT_NAMES: set[str] = {
-    "ep", "single", "live", "compilation", "demo", "mixtape/street",
-    "interview", "bootleg",
+_NOISY_EDITION_PATTERN = re.compile(
+    r"(?:\s*[\(\[\-:]\s*|\s+)(deluxe|expanded|anniversary|remaster(ed)?|reissue|limited|special|collector'?s?|bonus|super|ultimate|definitive|platinum|gold|edition|version|issue|hd\s+upgrade|4k\s+upgrade|full\s+version|\d+(th|st|nd|rd)\s+anniversary)\b.*",
+    re.IGNORECASE,
+)
+_EXCLUDED_RELEASE_PATTERN = re.compile(
+    r"\b(single|live|demo|acoustic|instrumental|unplugged|split|bootleg|compilation|greatest hits|best of|anthology|sampler|interview|remix|remixes|karaoke|a cappella|instrumentals?)\b",
+    re.IGNORECASE,
+)
+_EP_PATTERN = re.compile(r"\bep\b", re.IGNORECASE)
+
+
+OFFICIAL_ALBUM_DESCRIPTIONS = {"Album", "LP", "CD", "Cassette"}
+FORBIDDEN_ALBUM_DESCRIPTIONS = {
+    "single", "maxi-single", "promo", "compilation", "live", "demo",
+    "mixtape/street", "interview", "bootleg", "sampler"
 }
 
-def is_distinct_release(elem) -> bool:
-    """True for EPs, singles, live albums etc. — always stored as separate entries."""
+
+def is_relevant_release_title(title: str) -> bool:
+    return bool(_EP_PATTERN.search(title)) or not _EXCLUDED_RELEASE_PATTERN.search(title)
+
+
+def album_preference_score(title: str) -> int:
+    score = len(title)
+    if not is_relevant_release_title(title):
+        score += 10_000
+    if _NOISY_EDITION_PATTERN.search(title):
+        score += 1_000
+    if _EXCLUDED_RELEASE_PATTERN.search(title) and not _EP_PATTERN.search(title):
+        score += 500
+    return score
+
+def is_official_catalog_release(elem) -> bool:
+    """True for official album/EP releases. False for singles, live, splits and noisy editions."""
+    # Check artist count (ignore splits)
+    artists = elem.findall("./artists/artist")
+    if len(artists) != 1:
+        return False
+
+    title = (elem.findtext("title") or "").strip()
+    if not title or not is_relevant_release_title(title):
+        return False
+
+    is_album = False
     for fmt in elem.findall("./formats/format"):
-        name = (fmt.get("name") or "").lower().strip()
-        if name in DISTINCT_FORMAT_NAMES:
-            return True
-    return False
+        for desc in fmt.findall("./descriptions/description"):
+            d_text = (desc.text or "").strip().lower()
+            if d_text in FORBIDDEN_ALBUM_DESCRIPTIONS:
+                return False
+            if d_text in {"album", "ep", "mini-album"}:
+                is_album = True
+    
+    return is_album
 
 # ---------------------------------------------------------------------------
 # Profile truncation
@@ -312,121 +364,62 @@ def merge_album_records(
     existing_albums: list[dict] | None,
     new_albums: list[dict],
 ) -> tuple[list[dict], int]:
-    album_map: dict[str, dict] = {}
-    added_count = 0
-
-    for album in existing_albums or []:
-        name = str(album.get("name", "")).strip()
-        if not name:
-            continue
-        key = normalize_album_key(name)
-        if not key:
-            continue
-        genres = album.get("genres")
-        if not isinstance(genres, list):
-            genres = []
-        year = album.get("year")
-        album_map[key] = {
-            "name": name,
-            "year": "" if year is None else str(year),
-            "genres": sorted({str(g) for g in genres if str(g).strip()}),
-        }
-
-    for album in new_albums:
-        name = str(album.get("name", "")).strip()
-        if not name:
-            continue
-        key = normalize_album_key(name)
-        if not key:
-            continue
-        new_genres = {str(g) for g in album.get("genres", []) if str(g).strip()}
-        new_year = str(album.get("year") or "")
-
-        if key not in album_map:
-            album_map[key] = {
-                "name": name,
-                "year": new_year,
-                "genres": sorted(new_genres),
-            }
-            added_count += 1
-            continue
-
-        merged = album_map[key]
-
-        # Prefer shortest display name (closest to canonical)
-        if name and (not merged["name"] or len(name) < len(merged["name"])):
-            merged["name"] = name
-
-        # Always keep the earliest known year
-        existing_year = merged.get("year")
-        if new_year:
-            if not existing_year or new_year < existing_year:
-                merged["year"] = new_year
-
-        merged["genres"] = sorted(set(merged.get("genres", [])) | new_genres)
-
-    merged_albums = sorted(
-        album_map.values(),
-        key=lambda album: (
-            album.get("year", ""),
-            album.get("name", "").lower(),
-        ),
-    )
-    return merged_albums, added_count
     """
     Merge album entries by normalized album name.
-
-    Existing albums stay in place; new genres and years only fill gaps or add
-    truly missing albums.
+    STRICT NO OVERRIDE: Existing albums are sacred. 
+    Only truly missing official albums are added.
     """
     album_map: dict[str, dict] = {}
     added_count = 0
+    official_keys = {
+        normalize_album_key(str(album.get("name", "")).strip())
+        for album in new_albums
+        if str(album.get("name", "")).strip()
+    }
 
+    # Load existing albums
     for album in existing_albums or []:
         name = str(album.get("name", "")).strip()
         if not name:
             continue
-
-        key = normalize(name)
+        if not is_relevant_release_title(name):
+            continue
+        key = normalize_album_key(name)
         if not key:
             continue
+        if official_keys and key not in official_keys and not _EP_PATTERN.search(name):
+            continue
+        album_map[key] = album
 
-        genres = album.get("genres")
-        if not isinstance(genres, list):
-            genres = []
-
-        year = album.get("year")
-        album_map[key] = {
-            "name": name,
-            "year": "" if year is None else str(year),
-            "genres": sorted({str(g) for g in genres if str(g).strip()}),
-        }
-
+    # Only add new ones that don't exist
     for album in new_albums:
         name = str(album.get("name", "")).strip()
         if not name:
             continue
-
-        key = normalize(name)
+        if not is_relevant_release_title(name):
+            continue
+        key = normalize_album_key(name)
         if not key:
             continue
-
-        new_genres = {str(g) for g in album.get("genres", []) if str(g).strip()}
-        new_year = str(album.get("year") or "")
 
         if key not in album_map:
             album_map[key] = {
                 "name": name,
-                "year": new_year,
-                "genres": sorted(new_genres),
+                "year": str(album.get("year") or ""),
+                "genres": sorted({str(g) for g in album.get("genres", []) if str(g).strip()}),
             }
             added_count += 1
-            continue
-
-        merged = album_map[key]
-        if not merged.get("year") and new_year:
-            merged["year"] = new_year
-        merged["genres"] = sorted(set(merged.get("genres", [])) | new_genres)
+        else:
+            existing = album_map[key]
+            if album_preference_score(name) < album_preference_score(str(existing.get("name", "")).strip()):
+                existing["name"] = name
+            year = str(album.get("year") or "")
+            if year and (not existing.get("year") or year < str(existing.get("year"))):
+                existing["year"] = year
+            existing["genres"] = sorted(
+                set(str(g) for g in existing.get("genres", []) if str(g).strip())
+                | {str(g) for g in album.get("genres", []) if str(g).strip()}
+            )
 
     merged_albums = sorted(
         album_map.values(),
@@ -488,12 +481,26 @@ def parse_releases(
 
             # Determine whether any style is metal-relevant
             metal_on_release = any(is_metal_style(s) for s in release_styles)
-            distinct = is_distinct_release(elem) if metal_on_release else False
+            if not metal_on_release:
+                elem.clear()
+                continue
 
-            if metal_on_release and release_title:
-                album_key = normalize(release_title) if distinct else normalize_album_key(release_title)
-            else:
-                album_key = ""
+            if not is_official_catalog_release(elem):
+                elem.clear()
+                continue
+
+            if not release_title:
+                elem.clear()
+                continue
+
+            if not is_relevant_release_title(release_title):
+                elem.clear()
+                continue
+
+            album_key = normalize_album_key(release_title)
+            if not album_key:
+                elem.clear()
+                continue
 
             if metal_on_release:
                 for artist_node in elem.findall("./artists/artist"):
@@ -527,8 +534,8 @@ def parse_releases(
                     else:
                         album_entry = artist_albums_map[aid][album_key]
 
-                        # Prefer shortest display name (closest to canonical)
-                        if len(release_title) < len(album_entry["name"]):
+                        # Prefer the plainest canonical title over deluxe/reissue variants.
+                        if album_preference_score(release_title) < album_preference_score(album_entry["name"]):
                             album_entry["name"] = release_title
 
                         # Always keep the earliest known year
@@ -748,38 +755,30 @@ def parse_artists_and_enrich(
                 stats["newMetalCatalogEntries"] += 1
 
             elif len(matches) == 1:
-                # --- Enrich in-place ---
+                # --- Enrich in-place (STRICT NO OVERRIDE) ---
                 entry = matches[0]
 
-                # mbid handling
-                existing_mbid = entry.get("mbid")
-                if discogs_mbid:
-                    if existing_mbid and existing_mbid != discogs_mbid:
-                        # Conflict — log warning, skip mbid update only
-                        warnings.append({
-                            "type": "mbid_conflict",
-                            "normalizedName": norm_name,
-                            "detail": (
-                                f"existing={existing_mbid} discogs={discogs_mbid}"
-                            ),
-                        })
-                        stats["mbidConflictsSkipped"] += 1
-                    elif not existing_mbid:
-                        entry["mbid"] = discogs_mbid
+                # mbid handling (fill if missing)
+                if discogs_mbid and not entry.get("mbid"):
+                    entry["mbid"] = discogs_mbid
 
-                # Backfill remaining fields (never overwrite non-None values)
-                entry["discogsArtistId"] = aid
-                entry["styles"] = computed_styles
+                # Fill missing fields
+                if "discogsArtistId" not in entry:
+                    entry["discogsArtistId"] = aid
+                if not entry.get("styles"):
+                    entry["styles"] = computed_styles
+                
                 merged_albums, added_albums = merge_album_records(
                     entry.get("albums"),
                     computed_albums,
                 )
                 entry["albums"] = merged_albums
                 stats["albumsAddedToExistingEntries"] += added_albums
-                entry["aliases"] = aliases if aliases else entry.get("aliases")
-                entry["nameVariations"] = (
-                    name_variations if name_variations else entry.get("nameVariations")
-                )
+                
+                if not entry.get("aliases"):
+                    entry["aliases"] = aliases
+                if not entry.get("nameVariations"):
+                    entry["nameVariations"] = name_variations
                 if profile and not entry.get("profile"):
                     entry["profile"] = profile
 
@@ -818,18 +817,24 @@ def parse_artists_and_enrich(
                     continue
 
                 entry = mbid_matches[0]
-                entry["discogsArtistId"] = aid
-                entry["styles"] = computed_styles
+                
+                # STRICT NO OVERRIDE
+                if "discogsArtistId" not in entry:
+                    entry["discogsArtistId"] = aid
+                if not entry.get("styles"):
+                    entry["styles"] = computed_styles
+                
                 merged_albums, added_albums = merge_album_records(
                     entry.get("albums"),
                     computed_albums,
                 )
                 entry["albums"] = merged_albums
                 stats["albumsAddedToExistingEntries"] += added_albums
-                entry["aliases"] = aliases if aliases else entry.get("aliases")
-                entry["nameVariations"] = (
-                    name_variations if name_variations else entry.get("nameVariations")
-                )
+                
+                if not entry.get("aliases"):
+                    entry["aliases"] = aliases
+                if not entry.get("nameVariations"):
+                    entry["nameVariations"] = name_variations
                 if profile and not entry.get("profile"):
                     entry["profile"] = profile
 

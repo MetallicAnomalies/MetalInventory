@@ -1,6 +1,6 @@
 // migrate.ts
 import { createHash } from 'node:crypto';
-import { writeFileSync, readFileSync, readdirSync, mkdirSync } from 'node:fs';
+import { writeFileSync, readFileSync, readdirSync, mkdirSync, unlinkSync } from 'node:fs';
 import { join } from 'node:path';
 
 // ─── Genre / style normalisation ─────────────────────────────────────────────
@@ -189,6 +189,8 @@ interface SourceEntry {
 interface MetadataShardEntry {
     normalizedName: string;
     displayName: string;
+    /** Alternate display names seen in source metadata keys. */
+    aliases?: string[];
     mbid?: string;
     albums: Array<{ name: string; year: string; genres: string[] }>;
     tags: string[];
@@ -196,36 +198,101 @@ interface MetadataShardEntry {
 }
 
 function normalize(name: string): string {
-    return name.toLowerCase().replace(/[^a-z0-9\u05D0-\u05EA\uFB1D-\uFB4F]/g, '');
+    // Unicode-aware: keep letters/digits from any script, strip accents/marks and punctuation.
+    const normalized = name
+        .normalize('NFKD')
+        .toLowerCase()
+        .replace(/\p{M}/gu, '')
+        .replace(/[^\p{L}\p{N}]/gu, '');
+
+    // Avoid collapsing purely-symbol names (e.g. ".", "...?") into the same empty key.
+    return normalized.length > 0
+        ? normalized
+        : createHash('sha256').update(name).digest('hex').slice(0, 16);
 }
 
 function shardKey(normalizedName: string): string {
     return createHash('sha256').update(normalizedName).digest('hex').slice(0, 2);
 }
-const EDITION_STRIP = /[\(\[‐\-–—]?\s*(deluxe|expanded|anniversary|remaster(?:ed)?|reissue|limited|special|collector'?s?|bonus|super|ultimate|definitive|platinum|gold|\d+(?:th|st|nd|rd)\s+anniversary)\b.*/i;
+const EDITION_STRIP = /(?:\s*[\(\[\-:]\s*|\s+)(deluxe|expanded|anniversary|remaster(?:ed)?|reissue|limited|special|collector'?s?|bonus|super|ultimate|definitive|platinum|gold|edition|version|issue|\d+(?:th|st|nd|rd)\s+anniversary|hd\s+upgrade|4k\s+upgrade|full\s+version)\b.*/i;
+const EXCLUDED_RELEASE_PATTERN = /\b(single|live|demo|acoustic|instrumental|unplugged|split|bootleg|compilation|greatest hits|best of|anthology|sampler|interview|remix|remixes|karaoke|a cappella|instrumentals?)\b/i;
+const EP_PATTERN = /\bep\b/i;
 
 function normalizeAlbumKey(title: string): string {
     return normalize(title.replace(EDITION_STRIP, '').replace(/^[\s(\[]+/, ''));
 }
 
-const DISTINCT_FORMAT_PATTERN = /\b(ep|live|demo|acoustic|instrumental|unplugged|split|bootleg|compilation|single)\b/i;
+const DISTINCT_FORMAT_PATTERN = /\b(ep|live|demo|acoustic|instrumental|unplugged|split|bootleg|compilation|single|remix)\b/i;
 
 function isDistinctRelease(albumName: string): boolean {
     return DISTINCT_FORMAT_PATTERN.test(albumName);
 }
-function mergeEntries(group: MetadataShardEntry[]): MetadataShardEntry {
-    if (group.length === 1) return group[0];
 
-    // Canonical display name: prefer the one with most mixed-case chars (most intentional casing)
+function isRelevantRelease(albumName: string): boolean {
+    return EP_PATTERN.test(albumName) || !EXCLUDED_RELEASE_PATTERN.test(albumName);
+}
+
+function albumPreferenceScore(albumName: string): number {
+    let score = 0;
+    if (!isRelevantRelease(albumName)) score += 10_000;
+    if (EDITION_STRIP.test(albumName)) score += 1_000;
+    if (EXCLUDED_RELEASE_PATTERN.test(albumName) && !EP_PATTERN.test(albumName)) score += 500;
+    score += albumName.length;
+    return score;
+}
+
+function displayNameScore(name: string): number {
+    const chars = [...name];
+    const mixedCase = chars.filter(c => c !== c.toLowerCase()).length;
+    const nonAscii = chars.filter(c => c.charCodeAt(0) > 0x7f).length;
+    const punctuation = chars.filter(c => /[^\p{L}\p{N}\s]/u.test(c)).length;
+    return nonAscii * 1000 + punctuation * 100 + mixedCase * 10 + chars.length;
+}
+
+function mergeAlbums(albums: MetadataShardEntry['albums']): MetadataShardEntry['albums'] {
+    const albumMap = new Map<string, MetadataShardEntry['albums'][0]>();
+
+    for (const album of albums) {
+        if (!isRelevantRelease(album.name)) continue;
+
+        const key = isDistinctRelease(album.name)
+            ? normalize(album.name)
+            : normalizeAlbumKey(album.name);
+
+        if (!albumMap.has(key)) {
+            albumMap.set(key, { ...album });
+            continue;
+        }
+
+        const existing = albumMap.get(key)!;
+        if (albumPreferenceScore(album.name) < albumPreferenceScore(existing.name)) {
+            existing.name = album.name;
+        }
+        if (album.year && (!existing.year || album.year < existing.year)) {
+            existing.year = album.year;
+        }
+        existing.genres = [...new Set([...existing.genres, ...album.genres])];
+    }
+
+    return [...albumMap.values()].sort((a, b) => {
+        const yearCompare = (a.year || '').localeCompare(b.year || '');
+        return yearCompare !== 0 ? yearCompare : a.name.localeCompare(b.name);
+    });
+}
+
+function mergeEntries(group: MetadataShardEntry[]): MetadataShardEntry {
+    if (group.length === 1) return { ...group[0], albums: mergeAlbums(group[0].albums) };
+
+    // Canonical display name: prefer the richest spelling (diacritics/punctuation/casing), then length
     const canonical = group.reduce((best, e) => {
-        const score = (name: string) => name.split('').filter(c => c !== c.toLowerCase()).length;
-        return score(e.displayName) >= score(best.displayName) ? e : best;
+        return displayNameScore(e.displayName) >= displayNameScore(best.displayName) ? e : best;
     }, group[0]);
 
     // Merge albums — deduplicate by normalized album key, preserving distinct releases
     const albumMap = new Map<string, MetadataShardEntry['albums'][0]>();
     for (const entry of group) {
         for (const album of entry.albums) {
+            if (!isRelevantRelease(album.name)) continue;
             const key = isDistinctRelease(album.name)
                 ? normalize(album.name)
                 : normalizeAlbumKey(album.name);
@@ -233,11 +300,11 @@ function mergeEntries(group: MetadataShardEntry[]): MetadataShardEntry {
                 albumMap.set(key, { ...album });
             } else {
                 const existing = albumMap.get(key)!;
-                // Prefer shortest display name (closest to canonical)
-                if (album.name.length < existing.name.length) {
+                // Prefer the plainest canonical title over deluxe/remix/live variants.
+                if (albumPreferenceScore(album.name) < albumPreferenceScore(existing.name)) {
                     existing.name = album.name;
                 }
-                // Always keep the earliest known year
+                // Always keep earliest year
                 if (album.year && (!existing.year || album.year < existing.year)) {
                     existing.year = album.year;
                 }
@@ -253,12 +320,18 @@ function mergeEntries(group: MetadataShardEntry[]): MetadataShardEntry {
         for (const tag of entry.tags) tagSet.add(tag);
     }
 
+    const aliasSet = new Set<string>();
+    for (const entry of group) aliasSet.add(entry.displayName);
+    aliasSet.delete(canonical.displayName);
+    const aliases = [...aliasSet].sort((a, b) => a.localeCompare(b));
+
     return {
         normalizedName: canonical.normalizedName,
         displayName: canonical.displayName,
+        ...(aliases.length > 0 && { aliases }),
         ...(group.find(e => e.mbid) && { mbid: group.find(e => e.mbid)!.mbid }),
         ...(group.find(e => e.origin) && { origin: group.find(e => e.origin)!.origin }),
-        albums: [...albumMap.values()],
+        albums: mergeAlbums([...albumMap.values()]),
         tags: [...tagSet],
     };
 }
@@ -266,11 +339,13 @@ function mergeEntries(group: MetadataShardEntry[]): MetadataShardEntry {
 // ─── Load ─────────────────────────────────────────────────────────────────────
 
 const raw: MetadataShardEntry[] = [];
+const sourceDisplayNames = new Set<string>();
 const files = readdirSync(SOURCE_DIR).filter(f => f.endsWith('.json'));
 
 for (const file of files) {
     const source = JSON.parse(readFileSync(join(SOURCE_DIR, file), 'utf-8')) as Record<string, SourceEntry>;
     for (const [displayName, data] of Object.entries(source)) {
+        sourceDisplayNames.add(displayName);
         raw.push({
             normalizedName: normalize(displayName),
             displayName,
@@ -308,6 +383,19 @@ for (const [, group] of grouped) {
 }
 
 console.log(`After merge: ${merged.length} artists (collapsed ${mergeCount} duplicate groups)`);
+
+const preservedNames = new Set<string>();
+for (const entry of merged) {
+    preservedNames.add(entry.displayName);
+    for (const alias of entry.aliases ?? []) preservedNames.add(alias);
+}
+
+const dropped = [...sourceDisplayNames].filter(n => !preservedNames.has(n));
+if (dropped.length > 0) {
+    console.error(`ERROR: ${dropped.length} source displayName(s) missing from output displayName+aliases`);
+    console.error(dropped.slice(0, 50).map(s => `- ${JSON.stringify(s)}`).join('\n'));
+    process.exit(1);
+}
 
 // ─── Validate true collisions ─────────────────────────────────────────────────
 // At this point every normalizedName is unique — a collision here means
@@ -354,8 +442,15 @@ for (const entry of merged) {
 
 mkdirSync(OUTPUT_DIR, { recursive: true });
 
+for (const file of readdirSync(OUTPUT_DIR)) {
+    if (/^base-[0-9a-f]{2}\.json$/i.test(file)) {
+        unlinkSync(join(OUTPUT_DIR, file));
+    }
+}
+
 for (const [key, bucket] of shards) {
-    writeFileSync(join(OUTPUT_DIR, `base-${key}.json`), JSON.stringify(bucket));
+    bucket.sort((a, b) => a.normalizedName.localeCompare(b.normalizedName));
+    writeFileSync(join(OUTPUT_DIR, `base-${key}.json`), JSON.stringify(bucket, null, 2) + '\n');
 }
 
 const manifest = {
@@ -370,7 +465,7 @@ const manifest = {
     ),
 };
 
-writeFileSync('./output/cache-manifest.json', JSON.stringify(manifest));
+writeFileSync('./output/cache-manifest.json', JSON.stringify(manifest, null, 2) + '\n');
 
 console.log(`\nWritten ${shards.size} shards + cache-manifest.json`);
 console.log(`\nPush to R2:\n`);
