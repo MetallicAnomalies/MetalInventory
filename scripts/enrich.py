@@ -1,5 +1,5 @@
-"""
-enrich.py — Enrich shard metadata from Discogs XML data dumps.
+﻿"""
+enrich.py â€” Enrich shard metadata from Discogs XML data dumps.
 
 Usage:
     python enrich.py
@@ -21,10 +21,11 @@ import unicodedata
 import xml.etree.ElementTree as ET
 
 # ---------------------------------------------------------------------------
-# Constants — edit these to point at your local Discogs dump files
+# Constants â€” edit these to point at your local Discogs dump files
 # ---------------------------------------------------------------------------
-DISCOGS_RELEASES_DUMP_PATH = "./discogs_20260401_releases.xml.gz"
-DISCOGS_ARTISTS_DUMP_PATH  = "./discogs_20260401_artists.xml.gz"
+DISCOGS_RELEASES_DUMP_PATH = "./discogs_20260501_releases.xml.gz"
+DISCOGS_MASTERS_DUMP_PATH = "./discogs_20260501_masters.xml.gz"
+DISCOGS_ARTISTS_DUMP_PATH  = "./discogs_20260501_artists.xml.gz"
 
 SHARDS_DIR       = "./output/shards"
 MANIFEST_PATH    = "./output/cache-manifest.json"
@@ -34,7 +35,7 @@ PROFILE_MAX_CHARS = 500
 PROGRESS_INTERVAL = 100_000
 
 # ---------------------------------------------------------------------------
-# Metal style detection — exact-match set + endswith("metal") catch-all
+# Metal style detection â€” exact-match set + endswith("metal") catch-all
 # ---------------------------------------------------------------------------
 METAL_STYLE_KEYWORDS: set[str] = {
     "metal", "doom", "sludge", "drone metal", "grindcore",
@@ -85,7 +86,7 @@ def shard_key(normalized_name: str) -> str:
     return hashlib.sha256(normalized_name.encode()).hexdigest()[:2]
 
 _EDITION_STRIP = re.compile(
-    r"[\(\[‐\-–—]?\s*("
+    r"[\(\[â€\-â€“â€”]?\s*("
     r"deluxe|expanded|anniversary|remaster(ed)?|reissue|limited|special"
     r"|collector'?s?|bonus|super|ultimate|definitive|platinum|gold"
     r"|\d+(th|st|nd|rd)\s+anniversary"
@@ -94,13 +95,23 @@ _EDITION_STRIP = re.compile(
 )
 
 def normalize_album_key(title: str) -> str:
-    """Strip edition markers before normalizing — for dedup keys only."""
+    """Strip edition markers before normalizing â€” for dedup keys only."""
     stripped = _EDITION_STRIP.sub("", title).strip(" ([")
     return normalize(stripped)
 
 
 _NOISY_EDITION_PATTERN = re.compile(
     r"(?:\s*[\(\[\-:]\s*|\s+)(deluxe|expanded|anniversary|remaster(ed)?|reissue|limited|special|collector'?s?|bonus|super|ultimate|definitive|platinum|gold|edition|version|issue|hd\s+upgrade|4k\s+upgrade|full\s+version|\d+(th|st|nd|rd)\s+anniversary)\b.*",
+    re.IGNORECASE,
+)
+_NOISY_RELEASE_TEXT_PATTERN = re.compile(
+    r"\b("
+    r"deluxe|expanded|anniversary|remaster(?:ed)?|reissue(?:d)?|re-record(?:ed|ing)?"
+    r"|rerecord(?:ed|ing)?|redux|revisited|special edition|collector'?s edition"
+    r"|limited edition|bonus disc|bonus cd|bonus tracks?|alternate version"
+    r"|alternate take|new version|new recording|new mix|reconstructed|reimagined"
+    r"|reimagining|reworked|revisited|202\d mix|201\d mix"
+    r")\b",
     re.IGNORECASE,
 )
 _EXCLUDED_RELEASE_PATTERN = re.compile(
@@ -131,6 +142,77 @@ def album_preference_score(title: str) -> int:
         score += 500
     return score
 
+def collect_release_descriptions(elem) -> list[str]:
+    descriptions: list[str] = []
+    for fmt in elem.findall("./formats/format"):
+        fmt_name = (fmt.get("name") or "").strip()
+        if fmt_name:
+            descriptions.append(fmt_name)
+        for desc in fmt.findall("./descriptions/description"):
+            d_text = (desc.text or "").strip()
+            if d_text:
+                descriptions.append(d_text)
+    return descriptions
+
+
+def collect_release_variant_text(elem) -> str:
+    title = (elem.findtext("title") or "").strip()
+    notes = (elem.findtext("notes") or "").strip()
+    descriptions = " ".join(collect_release_descriptions(elem))
+    return " ".join(part for part in (title, descriptions, notes) if part)
+
+
+def is_original_issue_candidate(elem) -> bool:
+    return not _NOISY_RELEASE_TEXT_PATTERN.search(collect_release_variant_text(elem))
+
+
+def release_sort_date(elem) -> str:
+    released = (elem.findtext("released") or "").strip()
+    if released:
+        parts = released.split("-")
+        if len(parts) == 3 and parts[0].isdigit():
+            year = parts[0]
+            month = parts[1] if parts[1].isdigit() and parts[1] != "00" else "99"
+            day = parts[2] if parts[2].isdigit() and parts[2] != "00" else "99"
+            return f"{year}-{month}-{day}"
+
+    year = clean_release_year(elem.findtext("year") or elem.get("year"))
+    if year:
+        return f"{year}-99-99"
+    return "9999-99-99"
+
+
+def extract_release_year(elem) -> str | None:
+    """
+    Extract the best available 4-digit year from a Discogs release element.
+
+    Discogs sometimes leaves <year> empty or set to 0 while <released> still
+    contains a usable YYYY-MM-DD date. Use <year> first, then fall back to the
+    year embedded in <released>.
+    """
+    year = clean_release_year(elem.findtext("year") or elem.get("year"))
+    if year:
+        return year
+    return clean_release_year(elem.findtext("released"))
+
+
+def release_preference_score(elem, title: str) -> tuple[int, str, int, int]:
+    descriptions = collect_release_descriptions(elem)
+    special_descriptions = {
+        d.lower()
+        for d in descriptions
+        if d and d.lower() not in {"album", "ep", "mini-album", "lp", "cd", "cassette", "stereo", "mono"}
+    }
+    noisy_penalty = 1 if not is_original_issue_candidate(elem) else 0
+    format_penalty = len(special_descriptions)
+    return (
+        noisy_penalty,
+        release_sort_date(elem),
+        format_penalty,
+        album_preference_score(title),
+    )
+
+
 def is_official_catalog_release(elem) -> bool:
     """True for official album/EP releases. False for singles, live, splits and noisy editions."""
     # Check artist count (ignore splits)
@@ -150,7 +232,7 @@ def is_official_catalog_release(elem) -> bool:
                 return False
             if d_text in {"album", "ep", "mini-album"}:
                 is_album = True
-    
+
     return is_album
 
 # ---------------------------------------------------------------------------
@@ -407,12 +489,23 @@ def merge_album_records(
                 "name": name,
                 "year": str(album.get("year") or ""),
                 "genres": sorted({str(g) for g in album.get("genres", []) if str(g).strip()}),
+                "_releasePreference": tuple(album.get("_releasePreference", (0, "9999-99-99", 0, album_preference_score(name)))),
             }
             added_count += 1
         else:
             existing = album_map[key]
-            if album_preference_score(name) < album_preference_score(str(existing.get("name", "")).strip()):
+            incoming_preference = tuple(
+                album.get("_releasePreference", (0, "9999-99-99", 0, album_preference_score(name)))
+            )
+            existing_preference = tuple(
+                existing.get(
+                    "_releasePreference",
+                    (0, "9999-99-99", 0, album_preference_score(str(existing.get("name", "")).strip())),
+                )
+            )
+            if incoming_preference < existing_preference:
                 existing["name"] = name
+                existing["_releasePreference"] = incoming_preference
             year = str(album.get("year") or "")
             if year and (not existing.get("year") or year < str(existing.get("year"))):
                 existing["year"] = year
@@ -422,7 +515,14 @@ def merge_album_records(
             )
 
     merged_albums = sorted(
-        album_map.values(),
+        (
+            {
+                k: v
+                for k, v in album.items()
+                if k != "_releasePreference"
+            }
+            for album in album_map.values()
+        ),
         key=lambda album: (
             album.get("year", ""),
             album.get("name", "").lower(),
@@ -432,21 +532,118 @@ def merge_album_records(
 
 
 # ---------------------------------------------------------------------------
+# Step 0 — Parse masters dump
+# ---------------------------------------------------------------------------
+def parse_masters(
+    masters_path: str,
+) -> dict[int, list[dict]]:
+    """
+    Stream-parse masters.xml.
+
+    Returns:
+        artist_master_albums : dict[int, list[dict]] — artist ID -> canonical album list
+    """
+    artist_master_albums_map: dict[int, dict[str, dict]] = {}
+
+    print(f"[Step 0] Parsing masters: {masters_path}")
+
+    master_count = 0
+    context = ET.iterparse(open_xml(masters_path), events=("end",))
+
+    try:
+        for _event, elem in context:
+            if elem.tag != "master":
+                continue
+
+            master_count += 1
+            if master_count % PROGRESS_INTERVAL == 0:
+                print(f"  ... {master_count:,} masters processed")
+
+            title = (elem.findtext("title") or "").strip()
+            if not title:
+                elem.clear()
+                continue
+            if not is_relevant_release_title(title):
+                elem.clear()
+                continue
+
+            album_key = normalize_album_key(title)
+            if not album_key:
+                elem.clear()
+                continue
+
+            year = clean_release_year(elem.findtext("year")) or ""
+            genres = [
+                g.text.strip()
+                for g in elem.findall("./genres/genre")
+                if g.text and g.text.strip()
+            ]
+
+            for artist_node in elem.findall("./artists/artist"):
+                id_text = (artist_node.findtext("id") or "").strip()
+                if not id_text:
+                    continue
+                try:
+                    aid = int(id_text)
+                except ValueError:
+                    continue
+
+                if aid not in artist_master_albums_map:
+                    artist_master_albums_map[aid] = {}
+
+                if album_key not in artist_master_albums_map[aid]:
+                    artist_master_albums_map[aid][album_key] = {
+                        "name": title,
+                        "year": year,
+                        "genres": sorted(set(genres)),
+                    }
+                else:
+                    existing = artist_master_albums_map[aid][album_key]
+                    existing_year = str(existing.get("year") or "")
+                    if year and (not existing_year or year < existing_year):
+                        existing["year"] = year
+                    existing["genres"] = sorted(
+                        set(str(g) for g in existing.get("genres", []) if str(g).strip())
+                        | set(genres)
+                    )
+
+            elem.clear()
+
+    except (ET.ParseError, gzip.BadGzipFile, EOFError, OSError) as exc:
+        print(
+            f"  [Step 0] Warning: gzip stream ended early after "
+            f"{master_count:,} masters ({type(exc).__name__}: {exc}). "
+            "Continuing with data collected so far."
+        )
+
+    print(f"[Step 0] Done. {master_count:,} masters parsed.")
+    return {
+        aid: sorted(
+            albums.values(),
+            key=lambda album: (
+                album.get("year", ""),
+                album.get("name", "").lower(),
+            ),
+        )
+        for aid, albums in artist_master_albums_map.items()
+    }
+
+
+# ---------------------------------------------------------------------------
 # Step 1 — Parse releases dump
 # ---------------------------------------------------------------------------
 def parse_releases(
     releases_path: str,
-) -> tuple[set[int], dict[int, set[str]], dict[int, list[dict]]]:
+) -> tuple[set[int], dict[int, set[str]]]:
     """
     Stream-parse releases.xml.
 
     Returns:
-        metal_artist_ids : set[int]           — artist IDs with ≥1 metal release
-        artist_styles    : dict[int, set[str]] — artist ID → accumulated styles
+        metal_artist_ids : set[int]             — artist IDs with >=1 metal release
+        artist_styles    : dict[int, set[str]]  — artist ID -> accumulated styles
     """
     metal_artist_ids: set[int] = set()
     artist_styles: dict[int, set[str]] = {}
-    artist_albums_map: dict[int, dict[str, dict]] = {}
 
     print(f"[Step 1] Parsing releases: {releases_path}")
 
@@ -460,93 +657,31 @@ def parse_releases(
 
             release_count += 1
             if release_count % PROGRESS_INTERVAL == 0:
-                print(f"  … {release_count:,} releases processed")
+                print(f"  ... {release_count:,} releases processed")
 
-            # Collect styles for this release
             release_styles: list[str] = []
             for style_elem in elem.findall("./styles/style"):
                 if style_elem.text:
                     release_styles.append(style_elem.text.strip())
 
-            release_genres = normalise_styles(set(release_styles))
-            title_elem = elem.find("title")
-            release_title = (
-                title_elem.text.strip()
-                if title_elem is not None and title_elem.text
-                else ""
-            )
-            release_year = clean_release_year(
-                elem.findtext("year") or elem.get("year")
-            )
-
-            # Determine whether any style is metal-relevant
-            metal_on_release = any(is_metal_style(s) for s in release_styles)
-            if not metal_on_release:
+            if not any(is_metal_style(s) for s in release_styles):
                 elem.clear()
                 continue
 
-            if not is_official_catalog_release(elem):
-                elem.clear()
-                continue
+            for artist_node in elem.findall("./artists/artist"):
+                id_elem = artist_node.find("id")
+                if id_elem is None or not id_elem.text:
+                    continue
+                try:
+                    aid = int(id_elem.text.strip())
+                except ValueError:
+                    continue
 
-            if not release_title:
-                elem.clear()
-                continue
-
-            if not is_relevant_release_title(release_title):
-                elem.clear()
-                continue
-
-            album_key = normalize_album_key(release_title)
-            if not album_key:
-                elem.clear()
-                continue
-
-            if metal_on_release:
-                for artist_node in elem.findall("./artists/artist"):
-                    id_elem = artist_node.find("id")
-                    if id_elem is None or not id_elem.text:
-                        continue
-                    try:
-                        aid = int(id_elem.text.strip())
-                    except ValueError:
-                        continue
-
-                    metal_artist_ids.add(aid)
-
-                    if aid not in artist_styles:
-                        artist_styles[aid] = set()
-                    for s in release_styles:
-                        artist_styles[aid].add(s)
-
-                    if not album_key:
-                        continue
-
-                    if aid not in artist_albums_map:
-                        artist_albums_map[aid] = {}
-
-                    if album_key not in artist_albums_map[aid]:
-                        artist_albums_map[aid][album_key] = {
-                            "name": release_title,
-                            "year": release_year or "",
-                            "genres": list(release_genres),
-                        }
-                    else:
-                        album_entry = artist_albums_map[aid][album_key]
-
-                        # Prefer the plainest canonical title over deluxe/reissue variants.
-                        if album_preference_score(release_title) < album_preference_score(album_entry["name"]):
-                            album_entry["name"] = release_title
-
-                        # Always keep the earliest known year
-                        if release_year:
-                            existing_year = album_entry.get("year")
-                            if not existing_year or release_year < existing_year:
-                                album_entry["year"] = release_year
-
-                        album_entry["genres"] = sorted(
-                            set(album_entry.get("genres", [])) | set(release_genres)
-                        )
+                metal_artist_ids.add(aid)
+                if aid not in artist_styles:
+                    artist_styles[aid] = set()
+                for s in release_styles:
+                    artist_styles[aid].add(s)
 
             elem.clear()
 
@@ -561,32 +696,21 @@ def parse_releases(
         f"[Step 1] Done. {release_count:,} releases parsed. "
         f"{len(metal_artist_ids):,} metal-relevant artist IDs collected."
     )
-    artist_albums = {
-        aid: sorted(
-            albums.values(),
-            key=lambda album: (
-                album.get("year", ""),
-                album.get("name", "").lower(),
-            ),
-        )
-        for aid, albums in artist_albums_map.items()
-    }
-    return metal_artist_ids, artist_styles, artist_albums
-
+    return metal_artist_ids, artist_styles
 
 # ---------------------------------------------------------------------------
-# Step 2 — Load all shards into memory
+# Step 2 â€” Load all shards into memory
 # ---------------------------------------------------------------------------
 def load_shards(shards_dir: str) -> tuple[dict[str, list[dict]], set[str]]:
     """
     Read every base-{xx}.json from shards_dir.
 
     Returns:
-        shards          : dict[str, list[dict]]  — shard key → entries
-        modified_shards : set[str]               — initially empty
+        shards          : dict[str, list[dict]]  â€” shard key â†’ entries
+        modified_shards : set[str]               â€” initially empty
     """
     shards: dict[str, list[dict]] = {}
-    print(f"[Step 2] Loading shards from {shards_dir} …")
+    print(f"[Step 2] Loading shards from {shards_dir} â€¦")
 
     for filename in os.listdir(shards_dir):
         if not (filename.startswith("base-") and filename.endswith(".json")):
@@ -619,7 +743,7 @@ def extract_mbid_from_urls(urls: list[str]) -> str | None:
 
 
 # ---------------------------------------------------------------------------
-# Step 3 + 4 — Stream-parse artists dump, enrich shards, write stubs
+# Step 3 + 4 â€” Stream-parse artists dump, enrich shards, write stubs
 # ---------------------------------------------------------------------------
 def parse_artists_and_enrich(
     artists_path: str,
@@ -655,7 +779,7 @@ def parse_artists_and_enrich(
     try:
         for _event, elem in context:
             if elem.tag != "artist":
-                continue  # do NOT clear — child elements must survive until <artist> ends
+                continue  # do NOT clear â€” child elements must survive until <artist> ends
 
             stats["discogsArtistsParsed"] += 1
 
@@ -786,14 +910,14 @@ def parse_artists_and_enrich(
                 stats["matchedExistingEntries"] += 1
 
             else:
-                # Multiple matches — need mbid to disambiguate
+                # Multiple matches â€” need mbid to disambiguate
                 if not discogs_mbid:
                     warnings.append({
                         "type": "multi_match",
                         "normalizedName": norm_name,
                         "detail": (
                             f"Discogs artist {aid} has no mbid; "
-                            f"{len(matches)} shard entries found — skipping."
+                            f"{len(matches)} shard entries found â€” skipping."
                         ),
                     })
                     stats["multiMatchSkipped"] += 1
@@ -809,7 +933,7 @@ def parse_artists_and_enrich(
                         "normalizedName": norm_name,
                         "detail": (
                             f"Discogs artist {aid} mbid={discogs_mbid}; "
-                            f"{len(mbid_matches)} shard entries with that mbid — skipping."
+                            f"{len(mbid_matches)} shard entries with that mbid â€” skipping."
                         ),
                     })
                     stats["multiMatchSkipped"] += 1
@@ -842,7 +966,7 @@ def parse_artists_and_enrich(
                 stats["matchedExistingEntries"] += 1
 
             # ----------------------------------------------------------------
-            # Step 4 — Write stub entries for aliases and nameVariations
+            # Step 4 â€” Write stub entries for aliases and nameVariations
             # ----------------------------------------------------------------
             all_alt_names: list[str] = []
             for n in aliases:
@@ -900,14 +1024,14 @@ def parse_artists_and_enrich(
 
 
 # ---------------------------------------------------------------------------
-# Step 5 — Write back modified shards (atomic)
+# Step 5 â€” Write back modified shards (atomic)
 # ---------------------------------------------------------------------------
 def write_modified_shards(
     shards: dict[str, list[dict]],
     modified_shards: set[str],
     shards_dir: str,
 ) -> None:
-    print(f"[Step 5] Writing {len(modified_shards)} modified shards …")
+    print(f"[Step 5] Writing {len(modified_shards)} modified shards â€¦")
 
     for sk in modified_shards:
         filename = f"base-{sk}.json"
@@ -923,7 +1047,7 @@ def write_modified_shards(
 
 
 # ---------------------------------------------------------------------------
-# Step 5b — Update cache-manifest.json (builtAt only)
+# Step 5b â€” Update cache-manifest.json (builtAt only)
 # ---------------------------------------------------------------------------
 def update_manifest(manifest_path: str, built_at_ms: int) -> None:
     with open(manifest_path, "r", encoding="utf-8") as fh:
@@ -940,7 +1064,7 @@ def update_manifest(manifest_path: str, built_at_ms: int) -> None:
 
 
 # ---------------------------------------------------------------------------
-# Step 6 — Write enrichment report
+# Step 6 â€” Write enrichment report
 # ---------------------------------------------------------------------------
 def write_report(
     report_path: str,
@@ -987,23 +1111,28 @@ def main() -> None:
     built_at_ms = int(time.time() * 1000)
 
     # ------------------------------------------------------------------
-    # Step 1 — Build metal artist ID set and styles map from releases dump
+    # Step 0 â€” Build canonical artist albums from masters dump
     # ------------------------------------------------------------------
-    metal_artist_ids, artist_styles, artist_albums = parse_releases(DISCOGS_RELEASES_DUMP_PATH)
+    artist_master_albums = parse_masters(DISCOGS_MASTERS_DUMP_PATH)
 
     # ------------------------------------------------------------------
-    # Step 2 — Load all existing shards into memory
+    # Step 1 â€” Build metal artist ID set and styles map from releases dump
+    # ------------------------------------------------------------------
+    metal_artist_ids, artist_styles = parse_releases(DISCOGS_RELEASES_DUMP_PATH)
+
+    # ------------------------------------------------------------------
+    # Step 2 â€” Load all existing shards into memory
     # ------------------------------------------------------------------
     shards, modified_shards = load_shards(SHARDS_DIR)
 
     # ------------------------------------------------------------------
-    # Steps 3 & 4 — Enrich from artists dump + write stubs
+    # Steps 3 & 4 â€” Enrich from artists dump + write stubs
     # ------------------------------------------------------------------
     result = parse_artists_and_enrich(
         DISCOGS_ARTISTS_DUMP_PATH,
         metal_artist_ids,
         artist_styles,
-        artist_albums,
+        artist_master_albums,
         shards,
         modified_shards,
     )
@@ -1015,13 +1144,13 @@ def main() -> None:
     stats["shardsModified"] = len(modified_shards)
 
     # ------------------------------------------------------------------
-    # Step 5 — Write back modified shards (atomic) + update manifest
+    # Step 5 â€” Write back modified shards (atomic) + update manifest
     # ------------------------------------------------------------------
     write_modified_shards(shards, modified_shards, SHARDS_DIR)
     update_manifest(MANIFEST_PATH, built_at_ms)
 
     # ------------------------------------------------------------------
-    # Step 6 — Write enrichment report
+    # Step 6 â€” Write enrichment report
     # ------------------------------------------------------------------
     write_report(REPORT_PATH, built_at_ms, stats, warnings)
 
