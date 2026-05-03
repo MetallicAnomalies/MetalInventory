@@ -1,4 +1,4 @@
-﻿"""
+"""
 enrich.py â€” Enrich shard metadata from Discogs XML data dumps.
 
 Usage:
@@ -469,8 +469,6 @@ def merge_album_records(
         key = normalize_album_key(name)
         if not key:
             continue
-        if official_keys and key not in official_keys and not _EP_PATTERN.search(name):
-            continue
         album_map[key] = album
 
     # Only add new ones that don't exist
@@ -857,36 +855,46 @@ def parse_artists_and_enrich(
 
             # ----------------------------------------------------------------
             # Match & merge logic
-            # ----------------------------------------------------------------
-            if len(matches) == 0:
-                # --- Insert new metal-catalog entry ---
-                new_entry: dict = {
-                    "normalizedName": norm_name,
-                    "displayName": display_name,
-                    "mbid": discogs_mbid,
-                    "albums": computed_albums,
-                    "tags": [],
-                    "origin": None,
-                    "discogsArtistId": aid,
-                    "styles": computed_styles,
-                    "aliases": aliases if aliases else None,
-                    "nameVariations": name_variations if name_variations else None,
-                    "profile": profile,
-                    "source": "metal-catalog",
-                }
-                shard_entries.append(new_entry)
-                modified_shards.add(sk)
-                stats["newMetalCatalogEntries"] += 1
+            best_match = None
+            
+            if len(matches) > 0:
+                # 1. Try to match by MBID
+                if discogs_mbid:
+                    mbid_matches = [e for e in matches if e.get("mbid") == discogs_mbid]
+                    if len(mbid_matches) == 1:
+                        best_match = mbid_matches[0]
+                
+                # 2. Try to match by shared albums
+                if not best_match:
+                    discogs_album_keys = {normalize_album_key(str(a.get("name", "")).strip()) for a in computed_albums if str(a.get("name", "")).strip()}
+                    album_matches = []
+                    for e in matches:
+                        existing_album_keys = {normalize_album_key(str(a.get("name", "")).strip()) for a in e.get("albums", []) if str(a.get("name", "")).strip()}
+                        if existing_album_keys and discogs_album_keys:
+                            if existing_album_keys.intersection(discogs_album_keys):
+                                album_matches.append(e)
+                    
+                    if len(album_matches) == 1:
+                        best_match = album_matches[0]
+                
+                # 3. If there is only 1 match overall, and it's not a mismatch
+                if not best_match and len(matches) == 1:
+                    entry = matches[0]
+                    existing_album_keys = {normalize_album_key(str(a.get("name", "")).strip()) for a in entry.get("albums", []) if str(a.get("name", "")).strip()}
+                    discogs_album_keys = {normalize_album_key(str(a.get("name", "")).strip()) for a in computed_albums if str(a.get("name", "")).strip()}
+                    
+                    # If they both have albums but share NONE, it's a mismatch -> don't merge
+                    if existing_album_keys and discogs_album_keys:
+                        pass # Mismatch
+                    else:
+                        best_match = entry
 
-            elif len(matches) == 1:
+            if best_match is not None:
+                entry = best_match
                 # --- Enrich in-place (STRICT NO OVERRIDE) ---
-                entry = matches[0]
-
-                # mbid handling (fill if missing)
                 if discogs_mbid and not entry.get("mbid"):
                     entry["mbid"] = discogs_mbid
 
-                # Fill missing fields
                 if "discogsArtistId" not in entry:
                     entry["discogsArtistId"] = aid
                 if not entry.get("styles"):
@@ -910,63 +918,27 @@ def parse_artists_and_enrich(
                 stats["matchedExistingEntries"] += 1
 
             else:
-                # Multiple matches â€” need mbid to disambiguate
-                if not discogs_mbid:
-                    warnings.append({
-                        "type": "multi_match",
-                        "normalizedName": norm_name,
-                        "detail": (
-                            f"Discogs artist {aid} has no mbid; "
-                            f"{len(matches)} shard entries found â€” skipping."
-                        ),
-                    })
-                    stats["multiMatchSkipped"] += 1
-                    elem.clear()
-                    continue
-
-                # Try to find the shard entry whose mbid matches Discogs mbid
-                mbid_matches = [e for e in matches if e.get("mbid") == discogs_mbid]
-
-                if len(mbid_matches) != 1:
-                    warnings.append({
-                        "type": "multi_match",
-                        "normalizedName": norm_name,
-                        "detail": (
-                            f"Discogs artist {aid} mbid={discogs_mbid}; "
-                            f"{len(mbid_matches)} shard entries with that mbid â€” skipping."
-                        ),
-                    })
-                    stats["multiMatchSkipped"] += 1
-                    elem.clear()
-                    continue
-
-                entry = mbid_matches[0]
-                
-                # STRICT NO OVERRIDE
-                if "discogsArtistId" not in entry:
-                    entry["discogsArtistId"] = aid
-                if not entry.get("styles"):
-                    entry["styles"] = computed_styles
-                
-                merged_albums, added_albums = merge_album_records(
-                    entry.get("albums"),
-                    computed_albums,
-                )
-                entry["albums"] = merged_albums
-                stats["albumsAddedToExistingEntries"] += added_albums
-                
-                if not entry.get("aliases"):
-                    entry["aliases"] = aliases
-                if not entry.get("nameVariations"):
-                    entry["nameVariations"] = name_variations
-                if profile and not entry.get("profile"):
-                    entry["profile"] = profile
-
+                # --- Insert new metal-catalog entry (collision or brand new) ---
+                new_entry: dict = {
+                    "normalizedName": norm_name,
+                    "displayName": display_name,
+                    "mbid": discogs_mbid,
+                    "albums": computed_albums,
+                    "tags": [],
+                    "origin": None,
+                    "discogsArtistId": aid,
+                    "styles": computed_styles,
+                    "aliases": aliases if aliases else None,
+                    "nameVariations": name_variations if name_variations else None,
+                    "profile": profile,
+                    "source": "metal-catalog",
+                }
+                shard_entries.append(new_entry)
                 modified_shards.add(sk)
-                stats["matchedExistingEntries"] += 1
+                stats["newMetalCatalogEntries"] += 1
 
             # ----------------------------------------------------------------
-            # Step 4 â€” Write stub entries for aliases and nameVariations
+            # Step 4 — Write stub entries for aliases and nameVariations
             # ----------------------------------------------------------------
             all_alt_names: list[str] = []
             for n in aliases:
