@@ -99,6 +99,17 @@ def normalize_album_key(title: str) -> str:
     stripped = _EDITION_STRIP.sub("", title).strip(" ([")
     return normalize(stripped)
 
+_DISTINCT_FORMAT_PATTERN = re.compile(
+    r"\b(ep|live|demo|acoustic|instrumental|unplugged|split|bootleg|compilation|single|remix)\b",
+    re.IGNORECASE,
+)
+
+def is_distinct_release(album_name: str) -> bool:
+    return bool(_DISTINCT_FORMAT_PATTERN.search(album_name))
+
+def get_album_key(title: str) -> str:
+    return normalize(title) if is_distinct_release(title) else normalize_album_key(title)
+
 
 _NOISY_EDITION_PATTERN = re.compile(
     r"(?:\s*[\(\[\-:]\s*|\s+)(deluxe|expanded|anniversary|remaster(ed)?|reissue|limited|special|collector'?s?|bonus|super|ultimate|definitive|platinum|gold|edition|version|issue|hd\s+upgrade|4k\s+upgrade|full\s+version|\d+(th|st|nd|rd)\s+anniversary)\b.*",
@@ -115,7 +126,7 @@ _NOISY_RELEASE_TEXT_PATTERN = re.compile(
     re.IGNORECASE,
 )
 _EXCLUDED_RELEASE_PATTERN = re.compile(
-    r"\b(single|live|demo|acoustic|instrumental|unplugged|split|bootleg|compilation|greatest hits|best of|anthology|sampler|interview|remix|remixes|karaoke|a cappella|instrumentals?)\b",
+    r"\b(single|demo|acoustic|instrumental|unplugged|split|bootleg|compilation|greatest hits|best of|anthology|sampler|interview|remix|remixes|karaoke|a cappella|instrumentals?)\b",
     re.IGNORECASE,
 )
 _EP_PATTERN = re.compile(r"\bep\b", re.IGNORECASE)
@@ -454,7 +465,7 @@ def merge_album_records(
     album_map: dict[str, dict] = {}
     added_count = 0
     official_keys = {
-        normalize_album_key(str(album.get("name", "")).strip())
+        get_album_key(str(album.get("name", "")).strip())
         for album in new_albums
         if str(album.get("name", "")).strip()
     }
@@ -464,9 +475,7 @@ def merge_album_records(
         name = str(album.get("name", "")).strip()
         if not name:
             continue
-        if not is_relevant_release_title(name):
-            continue
-        key = normalize_album_key(name)
+        key = get_album_key(name)
         if not key:
             continue
         album_map[key] = album
@@ -478,7 +487,7 @@ def merge_album_records(
             continue
         if not is_relevant_release_title(name):
             continue
-        key = normalize_album_key(name)
+        key = get_album_key(name)
         if not key:
             continue
 
@@ -490,27 +499,6 @@ def merge_album_records(
                 "_releasePreference": tuple(album.get("_releasePreference", (0, "9999-99-99", 0, album_preference_score(name)))),
             }
             added_count += 1
-        else:
-            existing = album_map[key]
-            incoming_preference = tuple(
-                album.get("_releasePreference", (0, "9999-99-99", 0, album_preference_score(name)))
-            )
-            existing_preference = tuple(
-                existing.get(
-                    "_releasePreference",
-                    (0, "9999-99-99", 0, album_preference_score(str(existing.get("name", "")).strip())),
-                )
-            )
-            if incoming_preference < existing_preference:
-                existing["name"] = name
-                existing["_releasePreference"] = incoming_preference
-            year = str(album.get("year") or "")
-            if year and (not existing.get("year") or year < str(existing.get("year"))):
-                existing["year"] = year
-            existing["genres"] = sorted(
-                set(str(g) for g in existing.get("genres", []) if str(g).strip())
-                | {str(g) for g in album.get("genres", []) if str(g).strip()}
-            )
 
     merged_albums = sorted(
         (

@@ -215,7 +215,7 @@ function shardKey(normalizedName: string): string {
     return createHash('sha256').update(normalizedName).digest('hex').slice(0, 2);
 }
 const EDITION_STRIP = /(?:\s*[\(\[\-:]\s*|\s+)(deluxe|expanded|anniversary|remaster(?:ed)?|reissue|limited|special|collector'?s?|bonus|super|ultimate|definitive|platinum|gold|edition|version|issue|\d+(?:th|st|nd|rd)\s+anniversary|hd\s+upgrade|4k\s+upgrade|full\s+version)\b.*/i;
-const EXCLUDED_RELEASE_PATTERN = /\b(single|live|demo|acoustic|instrumental|unplugged|split|bootleg|compilation|greatest hits|best of|anthology|sampler|interview|remix|remixes|karaoke|a cappella|instrumentals?)\b/i;
+const EXCLUDED_RELEASE_PATTERN = /\b(single|demo|instrumental|split|bootleg|compilation|greatest hits|best of|anthology|sampler|interview|remix|remixes|karaoke|a cappella|instrumentals?)\b/i;
 const EP_PATTERN = /\bep\b/i;
 
 function normalizeAlbumKey(title: string): string {
@@ -253,8 +253,6 @@ function mergeAlbums(albums: MetadataShardEntry['albums']): MetadataShardEntry['
     const albumMap = new Map<string, MetadataShardEntry['albums'][0]>();
 
     for (const album of albums) {
-        if (!isRelevantRelease(album.name)) continue;
-
         const key = isDistinctRelease(album.name)
             ? normalize(album.name)
             : normalizeAlbumKey(album.name);
