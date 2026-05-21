@@ -55,6 +55,65 @@ def _extract_ma_link(raw: str) -> str:
     return tag["href"] if tag and tag.get("href") else ""
 
 
+def _parse_genres(raw: str) -> list[str]:
+    """
+    Split a Metal Archives genre string into individual genres.
+
+    MA uses both '/' and ';' as separators, and sometimes appends
+    time qualifiers like '(early)' or '(later)' that are discarded.
+
+    Examples:
+      "Gothic/Doom Metal"                              -> ["Gothic Metal", "Doom Metal"]
+      "Stoner/Doom Metal"                              -> ["Stoner Metal", "Doom Metal"]
+      "Metalcore (early); Prog/Melodic Black Metal"    -> ["Metalcore", "Prog Metal", "Melodic Black Metal"]
+    """
+    # Strip time qualifiers like (early), (later), (early-mid), etc.
+    cleaned = re.sub(r'\(\s*[^)]*\)', '', raw)
+
+    # Split on ; first (phrase-level separator)
+    phrases = [p.strip() for p in cleaned.split(';') if p.strip()]
+
+    genres: list[str] = []
+    for phrase in phrases:
+        # Split on / within each phrase
+        parts = [p.strip() for p in phrase.split('/') if p.strip()]
+
+        if len(parts) == 1:
+            # No slash — keep as-is
+            genres.append(parts[0])
+        else:
+            # Re-attach trailing shared word(s) to each prefix.
+            # e.g. "Gothic/Doom Metal" -> parts = ["Gothic", "Doom Metal"]
+            # The last part already carries the suffix; prepend it to earlier parts.
+            suffix_words = parts[-1].split()
+            # Find how many trailing words are shared by inspecting the last segment
+            # Strategy: the last segment is already the full genre name;
+            # for earlier segments that lack a noun, append the suffix from the last.
+            for i, part in enumerate(parts):
+                if i == len(parts) - 1:
+                    # Last part: use as-is (e.g. "Doom Metal")
+                    genres.append(part)
+                else:
+                    # Earlier parts: if they look like a bare adjective (no 'Metal'
+                    # or known noun at the end), append the suffix from the last part.
+                    last_word = part.split()[-1] if part.split() else ""
+                    if last_word.lower() not in ('metal', 'core', 'grind', 'punk', 'rock', 'djent'):
+                        genres.append(f"{part} {' '.join(suffix_words)}")
+                    else:
+                        genres.append(part)
+
+    # Deduplicate while preserving order
+    seen: set[str] = set()
+    unique: list[str] = []
+    for g in genres:
+        key = g.lower()
+        if key not in seen:
+            seen.add(key)
+            unique.append(g)
+
+    return unique
+
+
 def _build_date_range() -> tuple[str, str]:
     """
     Returns (from_date, to_date) as 'YYYY-MM-DD' strings.
@@ -136,11 +195,14 @@ def _parse_rows(rows: list[list]) -> list[dict]:
                 # If date is ambiguous (e.g. only year), skip
                 continue
 
+            genre_list = _parse_genres(genre)
+
             results.append({
                 "artist":       artist,
                 "album":        album,
                 "release_date": date_str,
-                "genre":        genre,
+                "genre":        ", ".join(genre_list),
+                "genre_list":   genre_list,
                 "type":         rel_type,
                 "added_on":     added_on,
                 "url":          album_url or artist_url,
