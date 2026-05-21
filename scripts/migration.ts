@@ -82,6 +82,7 @@ const SHORTHAND_METAL: Record<string, string> = {
     'math': 'Math Metal',
     'djent': 'Djent',
     'progressive power metal': 'Progressive Power Metal',
+    'progressive thrash': 'Progressive Thrash Metal',
 
     // Atmospheric / Post
     'post-metal': 'Post-Metal',

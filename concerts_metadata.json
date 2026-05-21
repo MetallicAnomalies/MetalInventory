@@ -4,13 +4,17 @@
       "date": "21/11/2025",
       "venue": "Iduna",
       "city": "Drachten",
-      "event": "Cobra The Impaler + My Diligence"
+      "event": "Cobra The Impaler + My Diligence",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "08/03/2025",
       "venue": "Vera",
       "city": "Groningen",
-      "event": "Hippotraktor + Cobra The Impaler"
+      "event": "Hippotraktor + Cobra The Impaler",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "My Diligence": [
@@ -18,7 +22,9 @@
       "date": "21/11/2025",
       "venue": "Iduna",
       "city": "Drachten",
-      "event": "Cobra The Impaler + My Diligence"
+      "event": "Cobra The Impaler + My Diligence",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "For I Am King": [
@@ -26,13 +32,17 @@
       "date": "15/11/2025",
       "venue": "Iduna",
       "city": "Drachten",
-      "event": "Tour 2025"
+      "event": "Tour 2025",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "11/02/2023",
       "venue": "Simplon",
       "city": "Groningen",
-      "event": "Tour 2023"
+      "event": "Tour 2023",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "As I Lay Dying": [
@@ -40,7 +50,9 @@
       "date": "13/11/2025",
       "venue": "Het Bolwerk",
       "city": "Sneek",
-      "event": "Tour 2025"
+      "event": "Tour 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Cryptosis": [
@@ -48,13 +60,17 @@
       "date": "25/10/2025",
       "venue": "Hedon",
       "city": "Zwolle",
-      "event": "Cryptosis + Nephylim"
+      "event": "Cryptosis + Nephylim",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "14/02/2026",
       "venue": "Vera",
       "city": "Groningen",
-      "event": "Album Release Show / Double Bill"
+      "event": "Album Release Show / Double Bill",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Nephylim": [
@@ -62,7 +78,9 @@
       "date": "25/10/2025",
       "venue": "Hedon",
       "city": "Zwolle",
-      "event": "Cryptosis + Nephylim"
+      "event": "Cryptosis + Nephylim",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Disturbed": [
@@ -70,13 +88,17 @@
       "date": "14/10/2025",
       "venue": "Ziggo Dome",
       "city": "Amsterdam",
-      "event": "The Sickness 25th Anniversary Tour"
+      "event": "The Sickness 25th Anniversary Tour",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "17/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Megadeth": [
@@ -84,25 +106,33 @@
       "date": "14/10/2025",
       "venue": "Ziggo Dome",
       "city": "Amsterdam",
-      "event": "Special Guest for Disturbed"
+      "event": "Special Guest for Disturbed",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "14/06/2016",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Megadeth + Trivium"
+      "event": "Megadeth + Trivium",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "24/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     },
     {
       "date": "17/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Antimatter": [
@@ -110,7 +140,9 @@
       "date": "03/10/2025",
       "venue": "Iduna",
       "city": "Drachten",
-      "event": "Tour 2025"
+      "event": "Tour 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Dark Tranquillity": [
@@ -118,7 +150,9 @@
       "date": "29/09/2025",
       "venue": "TivoliVredenburg",
       "city": "Utrecht",
-      "event": "Ultima Ratio Fest 2025"
+      "event": "Ultima Ratio Fest 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Soen": [
@@ -126,19 +160,25 @@
       "date": "29/09/2025",
       "venue": "TivoliVredenburg",
       "city": "Utrecht",
-      "event": "Ultima Ratio Fest 2025"
+      "event": "Ultima Ratio Fest 2025",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "04/10/2024",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Memorial Tour 2024"
+      "event": "Memorial Tour 2024",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "06/10/2017",
       "venue": "Neushoorn",
       "city": "Leeuwarden",
-      "event": "Lykaia Tour"
+      "event": "Lykaia Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Equilibrium": [
@@ -146,13 +186,17 @@
       "date": "29/09/2025",
       "venue": "TivoliVredenburg",
       "city": "Utrecht",
-      "event": "Ultima Ratio Fest 2025"
+      "event": "Ultima Ratio Fest 2025",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "05/10/2024",
       "venue": "Iduna",
       "city": "Drachten",
-      "event": "Support for Septicflesh"
+      "event": "Support for Septicflesh",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Iotunn": [
@@ -160,7 +204,9 @@
       "date": "29/09/2025",
       "venue": "TivoliVredenburg",
       "city": "Utrecht",
-      "event": "Ultima Ratio Fest 2025"
+      "event": "Ultima Ratio Fest 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Aephanemer": [
@@ -168,7 +214,9 @@
       "date": "28/06/2025",
       "venue": "Willemeen",
       "city": "Arnhem",
-      "event": "Tour 2025"
+      "event": "Tour 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Linkin Park": [
@@ -176,7 +224,9 @@
       "date": "26/06/2025",
       "venue": "GelreDome",
       "city": "Arnhem",
-      "event": "From Zero World Tour 2025"
+      "event": "From Zero World Tour 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Alien Ant Farm": [
@@ -184,7 +234,9 @@
       "date": "20/06/2025",
       "venue": "Kleine zaal",
       "city": "Groningen",
-      "event": "Tour 2025"
+      "event": "Tour 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Tigress": [
@@ -192,7 +244,9 @@
       "date": "20/06/2025",
       "venue": "Kleine zaal",
       "city": "Groningen",
-      "event": "Support for Alien Ant Farm"
+      "event": "Support for Alien Ant Farm",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "The Hu": [
@@ -200,7 +254,9 @@
       "date": "18/06/2025",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Hishigten Tour 2025"
+      "event": "Hishigten Tour 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Shireen": [
@@ -208,7 +264,9 @@
       "date": "18/06/2025",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Support for The Hu"
+      "event": "Support for The Hu",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Dvne": [
@@ -216,7 +274,9 @@
       "date": "07/05/2025",
       "venue": "Vera",
       "city": "Groningen",
-      "event": "Tour 2025"
+      "event": "Tour 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Pothamus": [
@@ -224,7 +284,9 @@
       "date": "07/05/2025",
       "venue": "Vera",
       "city": "Groningen",
-      "event": "Support for Dvne"
+      "event": "Support for Dvne",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Frozen Crown": [
@@ -232,13 +294,17 @@
       "date": "18/04/2025",
       "venue": "Willemeen",
       "city": "Arnhem",
-      "event": "War Hearts Tour 2025"
+      "event": "War Hearts Tour 2025",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "12/10/2024",
       "venue": "Tivoli",
       "city": "Utrecht",
-      "event": "Support for Kamelot"
+      "event": "Support for Kamelot",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Hippotraktor": [
@@ -246,7 +312,9 @@
       "date": "08/03/2025",
       "venue": "Vera",
       "city": "Groningen",
-      "event": "Hippotraktor + Cobra The Impaler"
+      "event": "Hippotraktor + Cobra The Impaler",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Opeth": [
@@ -254,25 +322,33 @@
       "date": "22/02/2025",
       "venue": "AFAS Live",
       "city": "Amsterdam",
-      "event": "The Last Will And Testament Tour"
+      "event": "The Last Will And Testament Tour",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "10/11/2009",
       "venue": "Hangar 11",
       "city": "Tel Aviv",
-      "event": "Blackwater Park Tour"
+      "event": "Blackwater Park Tour",
+      "country": "Israel",
+      "endDate": ""
     },
     {
       "date": "01/08/2008",
       "venue": "Wacken Open Air",
       "city": "Wacken",
-      "event": "Wacken Open Air 2008"
+      "event": "Wacken Open Air 2008",
+      "country": "Germany",
+      "endDate": ""
     },
     {
       "date": "15/08/2009",
       "venue": "Summer Breeze",
       "city": "Dinkelsbühl",
-      "event": "Summer Breeze 2009"
+      "event": "Summer Breeze 2009",
+      "country": "Germany",
+      "endDate": ""
     }
   ],
   "Grand Magus": [
@@ -280,13 +356,17 @@
       "date": "22/02/2025",
       "venue": "AFAS Live",
       "city": "Amsterdam",
-      "event": "Support for Opeth"
+      "event": "Support for Opeth",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "17/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Bullet For My Valentine": [
@@ -294,13 +374,17 @@
       "date": "11/02/2025",
       "venue": "Afas Live",
       "city": "Amsterdam",
-      "event": "The Poisoned Ascendancy Tour"
+      "event": "The Poisoned Ascendancy Tour",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "18/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Trivium": [
@@ -308,19 +392,25 @@
       "date": "11/02/2025",
       "venue": "Afas Live",
       "city": "Amsterdam",
-      "event": "The Poisoned Ascendancy Tour"
+      "event": "The Poisoned Ascendancy Tour",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "14/06/2016",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Megadeth + Trivium"
+      "event": "Megadeth + Trivium",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "19/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Orbit Culture": [
@@ -328,7 +418,9 @@
       "date": "11/02/2025",
       "venue": "Afas Live",
       "city": "Amsterdam",
-      "event": "Support for BFMV + Trivium"
+      "event": "Support for BFMV + Trivium",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Alestorm": [
@@ -336,7 +428,9 @@
       "date": "09/01/2025",
       "venue": "Oosterpoort",
       "city": "Groningen",
-      "event": "Paganfest 2025"
+      "event": "Paganfest 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Ensiferum": [
@@ -344,7 +438,9 @@
       "date": "09/01/2025",
       "venue": "Oosterpoort",
       "city": "Groningen",
-      "event": "Paganfest 2025"
+      "event": "Paganfest 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Týr": [
@@ -352,7 +448,9 @@
       "date": "09/01/2025",
       "venue": "Oosterpoort",
       "city": "Groningen",
-      "event": "Paganfest 2025"
+      "event": "Paganfest 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Heidevolk": [
@@ -360,7 +458,9 @@
       "date": "09/01/2025",
       "venue": "Oosterpoort",
       "city": "Groningen",
-      "event": "Paganfest 2025"
+      "event": "Paganfest 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Elvenking": [
@@ -368,7 +468,9 @@
       "date": "09/01/2025",
       "venue": "Oosterpoort",
       "city": "Groningen",
-      "event": "Paganfest 2025"
+      "event": "Paganfest 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Fit For An Autopsy": [
@@ -376,7 +478,9 @@
       "date": "30/11/2024",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Tour 2024"
+      "event": "Tour 2024",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Sylosis": [
@@ -384,7 +488,9 @@
       "date": "30/11/2024",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Support for Fit For An Autopsy"
+      "event": "Support for Fit For An Autopsy",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Darkest Hour": [
@@ -392,7 +498,9 @@
       "date": "30/11/2024",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Support for Fit For An Autopsy"
+      "event": "Support for Fit For An Autopsy",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Heriot": [
@@ -400,7 +508,9 @@
       "date": "30/11/2024",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Support for Fit For An Autopsy"
+      "event": "Support for Fit For An Autopsy",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Solstafir": [
@@ -408,7 +518,9 @@
       "date": "13/11/2024",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Nordic Descent Tour"
+      "event": "Nordic Descent Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Oranssi Pazuzu": [
@@ -416,7 +528,9 @@
       "date": "13/11/2024",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Nordic Descent Tour"
+      "event": "Nordic Descent Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Hamferð": [
@@ -424,7 +538,9 @@
       "date": "13/11/2024",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Support for Solstafir"
+      "event": "Support for Solstafir",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Draconian": [
@@ -432,19 +548,25 @@
       "date": "08/11/2024",
       "venue": "Metropool Enschede",
       "city": "Enschede",
-      "event": "Tour 2024"
+      "event": "Tour 2024",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "06/04/2023",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Tour 2023"
+      "event": "Tour 2023",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "30/08/2007",
       "venue": "Israel Trade Fairs & Convention Center",
       "city": "Tel Aviv",
-      "event": "Support for Therion"
+      "event": "Support for Therion",
+      "country": "Israel",
+      "endDate": ""
     }
   ],
   "Nailed To Obscurity": [
@@ -452,7 +574,9 @@
       "date": "08/11/2024",
       "venue": "Metropool Enschede",
       "city": "Enschede",
-      "event": "Support for Draconian"
+      "event": "Support for Draconian",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Eleine": [
@@ -460,7 +584,9 @@
       "date": "17/10/2024",
       "venue": "Iduna",
       "city": "Drachten",
-      "event": "We Shall Remain Tour"
+      "event": "We Shall Remain Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "In Flames": [
@@ -468,7 +594,9 @@
       "date": "13/10/2024",
       "venue": "Mainstage",
       "city": "Den Bosch",
-      "event": "Rising From The North Tour"
+      "event": "Rising From The North Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Arch Enemy": [
@@ -476,13 +604,17 @@
       "date": "13/10/2024",
       "venue": "Mainstage",
       "city": "Den Bosch",
-      "event": "Rising From The North Tour"
+      "event": "Rising From The North Tour",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "28/01/2018",
       "venue": "013",
       "city": "Tilburg",
-      "event": "Will To Power Tour"
+      "event": "Will To Power Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Soilwork": [
@@ -490,25 +622,33 @@
       "date": "13/10/2024",
       "venue": "Mainstage",
       "city": "Den Bosch",
-      "event": "Rising From The North Tour"
+      "event": "Rising From The North Tour",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "27/04/2023",
       "venue": "Poppodium Iduna",
       "city": "Drachten",
-      "event": "Tour 2023"
+      "event": "Tour 2023",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "01/08/2008",
       "venue": "Wacken Open Air",
       "city": "Wacken",
-      "event": "Wacken Open Air 2008"
+      "event": "Wacken Open Air 2008",
+      "country": "Germany",
+      "endDate": ""
     },
     {
       "date": "17/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Kamelot": [
@@ -516,7 +656,9 @@
       "date": "12/10/2024",
       "venue": "Tivoli",
       "city": "Utrecht",
-      "event": "Awaken The World Tour"
+      "event": "Awaken The World Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Ad Infinitum": [
@@ -524,7 +666,9 @@
       "date": "12/10/2024",
       "venue": "Tivoli",
       "city": "Utrecht",
-      "event": "Support for Kamelot"
+      "event": "Support for Kamelot",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Blackbriar": [
@@ -532,7 +676,9 @@
       "date": "12/10/2024",
       "venue": "Tivoli",
       "city": "Utrecht",
-      "event": "Support for Kamelot"
+      "event": "Support for Kamelot",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Septicflesh": [
@@ -540,7 +686,9 @@
       "date": "05/10/2024",
       "venue": "Iduna",
       "city": "Drachten",
-      "event": "Modern Primitive Tour"
+      "event": "Modern Primitive Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Oceans": [
@@ -548,7 +696,9 @@
       "date": "05/10/2024",
       "venue": "Iduna",
       "city": "Drachten",
-      "event": "Support for Septicflesh"
+      "event": "Support for Septicflesh",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Scar of the Sun": [
@@ -556,7 +706,9 @@
       "date": "05/10/2024",
       "venue": "Iduna",
       "city": "Drachten",
-      "event": "Support for Septicflesh"
+      "event": "Support for Septicflesh",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Orphaned Land": [
@@ -564,13 +716,17 @@
       "date": "26/09/2024",
       "venue": "Neushoorn",
       "city": "Leeuwarden",
-      "event": "A Heaven You May Create Tour"
+      "event": "A Heaven You May Create Tour",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "10/11/2009",
       "venue": "Hangar 11",
       "city": "Tel Aviv",
-      "event": "Support for Opeth"
+      "event": "Support for Opeth",
+      "country": "Israel",
+      "endDate": ""
     }
   ],
   "Epica": [
@@ -578,13 +734,17 @@
       "date": "19/09/2024",
       "venue": "AFAS Live",
       "city": "Amsterdam",
-      "event": "The Symphonic Synergy"
+      "event": "The Symphonic Synergy",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "15/08/2009",
       "venue": "Summer Breeze",
       "city": "Dinkelsbühl",
-      "event": "Summer Breeze 2009"
+      "event": "Summer Breeze 2009",
+      "country": "Germany",
+      "endDate": ""
     }
   ],
   "Tarja Turunen": [
@@ -592,7 +752,9 @@
       "date": "16/09/2024",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Living The Dream Together Tour"
+      "event": "Living The Dream Together Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Marko Hietala": [
@@ -600,7 +762,9 @@
       "date": "16/09/2024",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Living The Dream Together Tour"
+      "event": "Living The Dream Together Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Born Of Osiris": [
@@ -608,7 +772,9 @@
       "date": "28/08/2024",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Tour 2024"
+      "event": "Tour 2024",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Machine Head": [
@@ -616,25 +782,33 @@
       "date": "02/06/2024",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Slaughter The Martøur"
+      "event": "Slaughter The Martøur",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "06/05/2018",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Catharsis Tour"
+      "event": "Catharsis Tour",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "10/03/2008",
       "venue": "Theatre Club",
       "city": "Tel Aviv",
-      "event": "The Blackening Tour"
+      "event": "The Blackening Tour",
+      "country": "Israel",
+      "endDate": ""
     },
     {
       "date": "22/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     }
   ],
   "Bruce Dickinson": [
@@ -642,7 +816,9 @@
       "date": "29/05/2024",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "The Mandrake Project Tour"
+      "event": "The Mandrake Project Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Ingested": [
@@ -650,7 +826,9 @@
       "date": "18/05/2024",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "The Tide Of Death And Fractured Dreams Tour"
+      "event": "The Tide Of Death And Fractured Dreams Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Fallujah": [
@@ -658,13 +836,17 @@
       "date": "18/05/2024",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Support for Ingested"
+      "event": "Support for Ingested",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "05/03/2026",
       "venue": "TivoliVredenburg",
       "city": "Utrecht",
-      "event": "Omnium Gatherum + Fallujah + In Mourning"
+      "event": "Omnium Gatherum + Fallujah + In Mourning",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Vulvodynia": [
@@ -672,7 +854,9 @@
       "date": "18/05/2024",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Support for Ingested"
+      "event": "Support for Ingested",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Mélancolia": [
@@ -680,7 +864,9 @@
       "date": "18/05/2024",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Support for Ingested"
+      "event": "Support for Ingested",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Carnifex": [
@@ -688,7 +874,9 @@
       "date": "22/03/2024",
       "venue": "Metropool",
       "city": "Hengelo",
-      "event": "Necromanteum Tour"
+      "event": "Necromanteum Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Aborted": [
@@ -696,7 +884,9 @@
       "date": "22/03/2024",
       "venue": "Metropool",
       "city": "Hengelo",
-      "event": "Support for Carnifex"
+      "event": "Support for Carnifex",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Revocation": [
@@ -704,7 +894,9 @@
       "date": "22/03/2024",
       "venue": "Metropool",
       "city": "Hengelo",
-      "event": "Support for Carnifex"
+      "event": "Support for Carnifex",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Vexed": [
@@ -712,7 +904,9 @@
       "date": "22/03/2024",
       "venue": "Metropool",
       "city": "Hengelo",
-      "event": "Support for Carnifex"
+      "event": "Support for Carnifex",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Cattle Decapitation": [
@@ -720,7 +914,9 @@
       "date": "01/03/2024",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Terrasite Tour"
+      "event": "Terrasite Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Signs of the Swarm": [
@@ -728,7 +924,9 @@
       "date": "01/03/2024",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Support for Cattle Decapitation"
+      "event": "Support for Cattle Decapitation",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "200 Stab Wounds": [
@@ -736,7 +934,9 @@
       "date": "01/03/2024",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Support for Cattle Decapitation"
+      "event": "Support for Cattle Decapitation",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Vomit Forth": [
@@ -744,7 +944,9 @@
       "date": "01/03/2024",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Support for Cattle Decapitation"
+      "event": "Support for Cattle Decapitation",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Architects": [
@@ -752,7 +954,9 @@
       "date": "26/01/2024",
       "venue": "AFAS Live",
       "city": "Amsterdam",
-      "event": "European Tour 2024"
+      "event": "European Tour 2024",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Spiritbox": [
@@ -760,7 +964,9 @@
       "date": "26/01/2024",
       "venue": "AFAS Live",
       "city": "Amsterdam",
-      "event": "Support for Architects"
+      "event": "Support for Architects",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Loathe": [
@@ -768,7 +974,9 @@
       "date": "26/01/2024",
       "venue": "AFAS Live",
       "city": "Amsterdam",
-      "event": "Support for Architects"
+      "event": "Support for Architects",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "The Ocean": [
@@ -776,13 +984,17 @@
       "date": "30/09/2023",
       "venue": "Vera",
       "city": "Groningen",
-      "event": "Co-Headline with This Will Destroy You"
+      "event": "Co-Headline with This Will Destroy You",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "02/11/2019",
       "venue": "Hedon",
       "city": "Zwolle",
-      "event": "Support for Leprous"
+      "event": "Support for Leprous",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "This Will Destroy You": [
@@ -790,7 +1002,9 @@
       "date": "30/09/2023",
       "venue": "Vera",
       "city": "Groningen",
-      "event": "Co-Headline with The Ocean"
+      "event": "Co-Headline with The Ocean",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "As Everything Unfolds": [
@@ -798,7 +1012,9 @@
       "date": "28/09/2023",
       "venue": "Iduna",
       "city": "Drachten",
-      "event": "Ultraviolet Tour"
+      "event": "Ultraviolet Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Iron Maiden": [
@@ -806,19 +1022,25 @@
       "date": "11/07/2023",
       "venue": "Ziggo Dome",
       "city": "Amsterdam",
-      "event": "The Future Past Tour"
+      "event": "The Future Past Tour",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "31/07/2008",
       "venue": "Wacken Open Air",
       "city": "Wacken",
-      "event": "Wacken Open Air 2008"
+      "event": "Wacken Open Air 2008",
+      "country": "Germany",
+      "endDate": ""
     },
     {
       "date": "19/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "The Raven Age": [
@@ -826,7 +1048,9 @@
       "date": "11/07/2023",
       "venue": "Ziggo Dome",
       "city": "Amsterdam",
-      "event": "Support for Iron Maiden"
+      "event": "Support for Iron Maiden",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Rammstein": [
@@ -834,13 +1058,17 @@
       "date": "06/07/2023",
       "venue": "Stadspark",
       "city": "Groningen",
-      "event": "Europe Stadium Tour 2023"
+      "event": "Europe Stadium Tour 2023",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "04/07/2022",
       "venue": "Goffertpark",
       "city": "Nijmegen",
-      "event": "Europe Stadium Tour 2022"
+      "event": "Europe Stadium Tour 2022",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Abélard": [
@@ -848,13 +1076,17 @@
       "date": "06/07/2023",
       "venue": "Stadspark",
       "city": "Groningen",
-      "event": "Support for Rammstein"
+      "event": "Support for Rammstein",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "04/07/2022",
       "venue": "Goffertpark",
       "city": "Nijmegen",
-      "event": "Support for Rammstein"
+      "event": "Support for Rammstein",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Muse": [
@@ -862,7 +1094,9 @@
       "date": "07/06/2023",
       "venue": "Malieveld",
       "city": "The Hague",
-      "event": "Will of the People World Tour"
+      "event": "Will of the People World Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Royal Blood": [
@@ -870,7 +1104,9 @@
       "date": "07/06/2023",
       "venue": "Malieveld",
       "city": "The Hague",
-      "event": "Support for Muse"
+      "event": "Support for Muse",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Kataklysm": [
@@ -878,7 +1114,9 @@
       "date": "27/04/2023",
       "venue": "Poppodium Iduna",
       "city": "Drachten",
-      "event": "Tour 2023"
+      "event": "Tour 2023",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Wilderun": [
@@ -886,7 +1124,9 @@
       "date": "27/04/2023",
       "venue": "Poppodium Iduna",
       "city": "Drachten",
-      "event": "Support for Soilwork + Kataklysm"
+      "event": "Support for Soilwork + Kataklysm",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Brutus": [
@@ -894,7 +1134,9 @@
       "date": "20/04/2023",
       "venue": "Vera",
       "city": "Groningen",
-      "event": "Double Bill with Psychonaut"
+      "event": "Double Bill with Psychonaut",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Psychonaut": [
@@ -902,7 +1144,9 @@
       "date": "20/04/2023",
       "venue": "Vera",
       "city": "Groningen",
-      "event": "Double Bill with Brutus"
+      "event": "Double Bill with Brutus",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Igorrr": [
@@ -910,7 +1154,9 @@
       "date": "13/04/2023",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Distortion Tour"
+      "event": "Distortion Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Amenra": [
@@ -918,7 +1164,9 @@
       "date": "13/04/2023",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Support for Igorrr"
+      "event": "Support for Igorrr",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Der Weg Einer Freiheit": [
@@ -926,7 +1174,9 @@
       "date": "13/04/2023",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Support for Igorrr"
+      "event": "Support for Igorrr",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Hangman's Chair": [
@@ -934,7 +1184,9 @@
       "date": "13/04/2023",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Support for Igorrr"
+      "event": "Support for Igorrr",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Swallow The Sun": [
@@ -942,7 +1194,9 @@
       "date": "06/04/2023",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Tour 2023"
+      "event": "Tour 2023",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Shores of Null": [
@@ -950,7 +1204,9 @@
       "date": "06/04/2023",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Support for Swallow The Sun + Draconian"
+      "event": "Support for Swallow The Sun + Draconian",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Dream Theater": [
@@ -958,19 +1214,25 @@
       "date": "10/02/2023",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Top of the World Tour"
+      "event": "Top of the World Tour",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "24/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     },
     {
       "date": "19/07/2011",
       "venue": "Exhibition Grounds (Pavilion 3)",
       "city": "Tel Aviv",
-      "event": "Summer Tour 2011"
+      "event": "Summer Tour 2011",
+      "country": "Israel",
+      "endDate": ""
     }
   ],
   "Arion": [
@@ -978,7 +1240,9 @@
       "date": "10/02/2023",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Support for Dream Theater"
+      "event": "Support for Dream Theater",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Fleshgod Apocalypse": [
@@ -986,13 +1250,17 @@
       "date": "13/01/2023",
       "venue": "Neushoorn",
       "city": "Leeuwarden",
-      "event": "Motocultor Across Europe Tour 2023"
+      "event": "Motocultor Across Europe Tour 2023",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "17/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Omnium Gatherum": [
@@ -1000,13 +1268,17 @@
       "date": "13/01/2023",
       "venue": "Neushoorn",
       "city": "Leeuwarden",
-      "event": "Motocultor Across Europe Tour 2023"
+      "event": "Motocultor Across Europe Tour 2023",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "05/03/2026",
       "venue": "TivoliVredenburg",
       "city": "Utrecht",
-      "event": "Omnium Gatherum + Fallujah + In Mourning"
+      "event": "Omnium Gatherum + Fallujah + In Mourning",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "W.E.B.": [
@@ -1014,7 +1286,9 @@
       "date": "13/01/2023",
       "venue": "Neushoorn",
       "city": "Leeuwarden",
-      "event": "Motocultor Across Europe Tour 2023"
+      "event": "Motocultor Across Europe Tour 2023",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Dark Mirror Ov Tragedy": [
@@ -1022,7 +1296,9 @@
       "date": "13/01/2023",
       "venue": "Neushoorn",
       "city": "Leeuwarden",
-      "event": "Motocultor Across Europe Tour 2023"
+      "event": "Motocultor Across Europe Tour 2023",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Evergrey": [
@@ -1030,13 +1306,17 @@
       "date": "16/09/2022",
       "venue": "Dynamo",
       "city": "Eindhoven",
-      "event": "A Heartless Portrait Tour"
+      "event": "A Heartless Portrait Tour",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "21/04/2007",
       "venue": "Barby Club",
       "city": "Tel Aviv",
-      "event": "Monday Morning Apocalypse Tour"
+      "event": "Monday Morning Apocalypse Tour",
+      "country": "Israel",
+      "endDate": ""
     }
   ],
   "Fractal Universe": [
@@ -1044,7 +1324,9 @@
       "date": "16/09/2022",
       "venue": "Dynamo",
       "city": "Eindhoven",
-      "event": "Support for Evergrey"
+      "event": "Support for Evergrey",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Virtual Symmetry": [
@@ -1052,7 +1334,9 @@
       "date": "16/09/2022",
       "venue": "Dynamo",
       "city": "Eindhoven",
-      "event": "Support for Evergrey"
+      "event": "Support for Evergrey",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Slipknot": [
@@ -1060,7 +1344,9 @@
       "date": "28/01/2020",
       "venue": "Ziggo Dome",
       "city": "Amsterdam",
-      "event": "We Are Not Your Kind Tour"
+      "event": "We Are Not Your Kind Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Behemoth": [
@@ -1068,7 +1354,9 @@
       "date": "28/01/2020",
       "venue": "Ziggo Dome",
       "city": "Amsterdam",
-      "event": "Support for Slipknot"
+      "event": "Support for Slipknot",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Leprous": [
@@ -1076,7 +1364,9 @@
       "date": "02/11/2019",
       "venue": "Hedon",
       "city": "Zwolle",
-      "event": "Pitfalls Tour"
+      "event": "Pitfalls Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Port Noir": [
@@ -1084,7 +1374,9 @@
       "date": "02/11/2019",
       "venue": "Hedon",
       "city": "Zwolle",
-      "event": "Support for Leprous"
+      "event": "Support for Leprous",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Tool": [
@@ -1092,7 +1384,9 @@
       "date": "18/06/2019",
       "venue": "Ziggo Dome",
       "city": "Amsterdam",
-      "event": "Fear Inoculum Tour"
+      "event": "Fear Inoculum Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Fiend": [
@@ -1100,7 +1394,9 @@
       "date": "18/06/2019",
       "venue": "Ziggo Dome",
       "city": "Amsterdam",
-      "event": "Support for Tool"
+      "event": "Support for Tool",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Pearl Jam": [
@@ -1108,7 +1404,9 @@
       "date": "12/06/2018",
       "venue": "Ziggo Dome",
       "city": "Amsterdam",
-      "event": "Live 2018"
+      "event": "Live 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Wintersun": [
@@ -1116,7 +1414,9 @@
       "date": "28/01/2018",
       "venue": "013",
       "city": "Tilburg",
-      "event": "Support for Arch Enemy"
+      "event": "Support for Arch Enemy",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Tribulation": [
@@ -1124,13 +1424,17 @@
       "date": "28/01/2018",
       "venue": "013",
       "city": "Tilburg",
-      "event": "Support for Arch Enemy"
+      "event": "Support for Arch Enemy",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "12/08/2016",
       "venue": "Into The Grave 2016",
       "city": "Leeuwarden",
-      "event": "Into The Grave Festival"
+      "event": "Into The Grave Festival",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Jinjer": [
@@ -1138,7 +1442,9 @@
       "date": "28/01/2018",
       "venue": "013",
       "city": "Tilburg",
-      "event": "Support for Arch Enemy"
+      "event": "Support for Arch Enemy",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Metallica": [
@@ -1146,7 +1452,9 @@
       "date": "04/09/2017",
       "venue": "Ziggo Dome",
       "city": "Amsterdam",
-      "event": "WorldWired Tour"
+      "event": "WorldWired Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Kvelertak": [
@@ -1154,7 +1462,9 @@
       "date": "04/09/2017",
       "venue": "Ziggo Dome",
       "city": "Amsterdam",
-      "event": "Support for Metallica"
+      "event": "Support for Metallica",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Slayer": [
@@ -1162,19 +1472,25 @@
       "date": "12/08/2016",
       "venue": "Into The Grave 2016",
       "city": "Leeuwarden",
-      "event": "Into The Grave Festival"
+      "event": "Into The Grave Festival",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "22/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     },
     {
       "date": "18/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Kreator": [
@@ -1182,7 +1498,9 @@
       "date": "12/08/2016",
       "venue": "Into The Grave 2016",
       "city": "Leeuwarden",
-      "event": "Into The Grave Festival"
+      "event": "Into The Grave Festival",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Carcass": [
@@ -1190,7 +1508,9 @@
       "date": "12/08/2016",
       "venue": "Into The Grave 2016",
       "city": "Leeuwarden",
-      "event": "Into The Grave Festival"
+      "event": "Into The Grave Festival",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Exodus": [
@@ -1198,7 +1518,9 @@
       "date": "12/08/2016",
       "venue": "Into The Grave 2016",
       "city": "Leeuwarden",
-      "event": "Into The Grave Festival"
+      "event": "Into The Grave Festival",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Gruesome": [
@@ -1206,7 +1528,9 @@
       "date": "12/08/2016",
       "venue": "Into The Grave 2016",
       "city": "Leeuwarden",
-      "event": "Into The Grave Festival"
+      "event": "Into The Grave Festival",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Vektor": [
@@ -1214,7 +1538,9 @@
       "date": "12/08/2016",
       "venue": "Into The Grave 2016",
       "city": "Leeuwarden",
-      "event": "Into The Grave Festival"
+      "event": "Into The Grave Festival",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Voivod": [
@@ -1222,7 +1548,9 @@
       "date": "12/08/2016",
       "venue": "Into The Grave 2016",
       "city": "Leeuwarden",
-      "event": "Into The Grave Festival"
+      "event": "Into The Grave Festival",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Scar Symmetry": [
@@ -1230,7 +1558,9 @@
       "date": "12/08/2016",
       "venue": "Into The Grave 2016",
       "city": "Leeuwarden",
-      "event": "Into The Grave Festival"
+      "event": "Into The Grave Festival",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Novembers Doom": [
@@ -1238,7 +1568,9 @@
       "date": "04/12/2017",
       "venue": "Baroeg",
       "city": "Rotterdam",
-      "event": "Hamartia European Tour"
+      "event": "Hamartia European Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Anciients": [
@@ -1246,7 +1578,9 @@
       "date": "02/03/2018",
       "venue": "Innocent",
       "city": "Hengelo",
-      "event": "European Tour 2018"
+      "event": "European Tour 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Black Wizard": [
@@ -1254,7 +1588,9 @@
       "date": "02/03/2018",
       "venue": "Innocent",
       "city": "Hengelo",
-      "event": "Co-Headline with Anciients"
+      "event": "Co-Headline with Anciients",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Insomnium": [
@@ -1262,7 +1598,9 @@
       "date": "05/12/2019",
       "venue": "Neushoorn",
       "city": "Leeuwarden",
-      "event": "Tour Like A Grave 2019"
+      "event": "Tour Like A Grave 2019",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "The Black Dahlia Murder": [
@@ -1270,7 +1608,9 @@
       "date": "05/12/2019",
       "venue": "Neushoorn",
       "city": "Leeuwarden",
-      "event": "Tour Like A Grave 2019"
+      "event": "Tour Like A Grave 2019",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Stam1na": [
@@ -1278,7 +1618,9 @@
       "date": "05/12/2019",
       "venue": "Neushoorn",
       "city": "Leeuwarden",
-      "event": "Tour Like A Grave 2019"
+      "event": "Tour Like A Grave 2019",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Hayehudim": [
@@ -1286,7 +1628,9 @@
       "date": "07/02/2025",
       "venue": "Brennerock",
       "city": "Givat Brenner",
-      "event": "Rock Show at Brennerock"
+      "event": "Rock Show at Brennerock",
+      "country": "Israel",
+      "endDate": ""
     }
   ],
   "The Agonist": [
@@ -1294,7 +1638,9 @@
       "date": "01/10/2013",
       "venue": "Reading 3",
       "city": "Tel Aviv",
-      "event": "Tel Aviv 2013"
+      "event": "Tel Aviv 2013",
+      "country": "Israel",
+      "endDate": ""
     }
   ],
   "Ferium": [
@@ -1302,7 +1648,9 @@
       "date": "01/10/2013",
       "venue": "Reading 3",
       "city": "Tel Aviv",
-      "event": "Support for The Agonist"
+      "event": "Support for The Agonist",
+      "country": "Israel",
+      "endDate": ""
     }
   ],
   "Faith No More": [
@@ -1310,7 +1658,9 @@
       "date": "01/09/2009",
       "venue": "Israel Trade Fairs & Convention Center",
       "city": "Tel Aviv",
-      "event": "The Second Coming Tour"
+      "event": "The Second Coming Tour",
+      "country": "Israel",
+      "endDate": ""
     }
   ],
   "Amorphis": [
@@ -1318,13 +1668,17 @@
       "date": "19/04/2013",
       "venue": "Barby Club",
       "city": "Tel Aviv",
-      "event": "Circle World Tour"
+      "event": "Circle World Tour",
+      "country": "Israel",
+      "endDate": ""
     },
     {
       "date": "14/08/2009",
       "venue": "Summer Breeze",
       "city": "Dinkelsbühl",
-      "event": "Summer Breeze 2009"
+      "event": "Summer Breeze 2009",
+      "country": "Germany",
+      "endDate": ""
     }
   ],
   "The Fading": [
@@ -1332,7 +1686,9 @@
       "date": "19/04/2013",
       "venue": "Barby Club",
       "city": "Tel Aviv",
-      "event": "Support for Amorphis"
+      "event": "Support for Amorphis",
+      "country": "Israel",
+      "endDate": ""
     }
   ],
   "Therion": [
@@ -1340,13 +1696,17 @@
       "date": "30/08/2007",
       "venue": "Israel Trade Fairs & Convention Center",
       "city": "Tel Aviv",
-      "event": "Gothic Metal Festival"
+      "event": "Gothic Metal Festival",
+      "country": "Israel",
+      "endDate": ""
     },
     {
       "date": "24/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     }
   ],
   "Distorted": [
@@ -1354,13 +1714,17 @@
       "date": "30/08/2007",
       "venue": "Israel Trade Fairs & Convention Center",
       "city": "Tel Aviv",
-      "event": "Support for Therion"
+      "event": "Support for Therion",
+      "country": "Israel",
+      "endDate": ""
     },
     {
       "date": "21/04/2007",
       "venue": "Barby Club",
       "city": "Tel Aviv",
-      "event": "Support for Evergrey"
+      "event": "Support for Evergrey",
+      "country": "Israel",
+      "endDate": ""
     }
   ],
   "Betzefer": [
@@ -1368,13 +1732,17 @@
       "date": "10/03/2008",
       "venue": "Theatre Club",
       "city": "Tel Aviv",
-      "event": "Support for Machine Head"
+      "event": "Support for Machine Head",
+      "country": "Israel",
+      "endDate": ""
     },
     {
       "date": "30/05/2012",
       "venue": "Hangar 11",
       "city": "Tel Aviv",
-      "event": "Support for Lamb of God"
+      "event": "Support for Lamb of God",
+      "country": "Israel",
+      "endDate": ""
     }
   ],
   "Lamb of God": [
@@ -1382,13 +1750,17 @@
       "date": "30/05/2012",
       "venue": "Hangar 11",
       "city": "Tel Aviv",
-      "event": "Resolution Tour"
+      "event": "Resolution Tour",
+      "country": "Israel",
+      "endDate": ""
     },
     {
       "date": "22/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     }
   ],
   "Within Temptation": [
@@ -1396,13 +1768,17 @@
       "date": "22/09/2024",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Bleed Out 2024 Tour (Warm-Up Show)"
+      "event": "Bleed Out 2024 Tour (Warm-Up Show)",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "24/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     }
   ],
   "Green Lizard": [
@@ -1410,7 +1786,9 @@
       "date": "22/09/2024",
       "venue": "De Oosterpoort",
       "city": "Groningen",
-      "event": "Support for Within Temptation"
+      "event": "Support for Within Temptation",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Bloodbath": [
@@ -1418,7 +1796,9 @@
       "date": "04/01/2025",
       "venue": "Hedon",
       "city": "Zwolle",
-      "event": "Hedon Zwaar Nieuwjaar 2025"
+      "event": "Hedon Zwaar Nieuwjaar 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Berzerker Legion": [
@@ -1426,7 +1806,9 @@
       "date": "04/01/2025",
       "venue": "Hedon",
       "city": "Zwolle",
-      "event": "Hedon Zwaar Nieuwjaar 2025"
+      "event": "Hedon Zwaar Nieuwjaar 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Haliphron": [
@@ -1434,7 +1816,9 @@
       "date": "04/01/2025",
       "venue": "Hedon",
       "city": "Zwolle",
-      "event": "Hedon Zwaar Nieuwjaar 2025"
+      "event": "Hedon Zwaar Nieuwjaar 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Teethgrinder": [
@@ -1442,7 +1826,9 @@
       "date": "04/01/2025",
       "venue": "Hedon",
       "city": "Zwolle",
-      "event": "Hedon Zwaar Nieuwjaar 2025"
+      "event": "Hedon Zwaar Nieuwjaar 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Keitzer": [
@@ -1450,7 +1836,9 @@
       "date": "04/01/2025",
       "venue": "Hedon",
       "city": "Zwolle",
-      "event": "Hedon Zwaar Nieuwjaar 2025"
+      "event": "Hedon Zwaar Nieuwjaar 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Insurrection": [
@@ -1458,7 +1846,9 @@
       "date": "04/01/2025",
       "venue": "Hedon",
       "city": "Zwolle",
-      "event": "Hedon Zwaar Nieuwjaar 2025"
+      "event": "Hedon Zwaar Nieuwjaar 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Hesken": [
@@ -1466,7 +1856,9 @@
       "date": "04/01/2025",
       "venue": "Hedon",
       "city": "Zwolle",
-      "event": "Hedon Zwaar Nieuwjaar 2025"
+      "event": "Hedon Zwaar Nieuwjaar 2025",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "SikTh": [
@@ -1474,7 +1866,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "The Faceless": [
@@ -1482,7 +1876,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Dødheimsgard": [
@@ -1490,7 +1886,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "VOLA": [
@@ -1498,7 +1896,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Three Trapped Tigers": [
@@ -1506,7 +1906,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Sithu Aye": [
@@ -1514,7 +1916,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Employed To Serve": [
@@ -1522,7 +1926,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "God Mother": [
@@ -1530,7 +1936,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "The Hirsch Effekt": [
@@ -1538,7 +1946,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Toska": [
@@ -1546,7 +1956,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Cabal": [
@@ -1554,7 +1966,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Blanck Mass": [
@@ -1562,7 +1976,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Knalpot": [
@@ -1570,7 +1986,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "PoiL": [
@@ -1578,7 +1996,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Barst": [
@@ -1586,7 +2006,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "The Voynich Code": [
@@ -1594,7 +2016,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Helium Horse Fly": [
@@ -1602,7 +2026,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Chiraw": [
@@ -1610,7 +2036,9 @@
       "date": "24/02/2018",
       "venue": "Patronaat",
       "city": "Haarlem",
-      "event": "Complexity Fest 2018"
+      "event": "Complexity Fest 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Ayreon": [
@@ -1618,7 +2046,9 @@
       "date": "16/09/2023",
       "venue": "013",
       "city": "Tilburg",
-      "event": "01011001 - Live Beneath the Waves"
+      "event": "01011001 - Live Beneath the Waves",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Napalm Death": [
@@ -1626,7 +2056,9 @@
       "date": "05/04/2018",
       "venue": "Iduna",
       "city": "Drachten",
-      "event": "Tour 2018"
+      "event": "Tour 2018",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Hatebreed": [
@@ -1634,7 +2066,9 @@
       "date": "22/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     }
   ],
   "Mastodon": [
@@ -1642,7 +2076,9 @@
       "date": "22/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     }
   ],
   "Chimaira": [
@@ -1650,7 +2086,9 @@
       "date": "22/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     }
   ],
   "Walls of Jericho": [
@@ -1658,13 +2096,17 @@
       "date": "22/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     },
     {
       "date": "13/08/2009",
       "venue": "Summer Breeze",
       "city": "Dinkelsbühl",
-      "event": "Summer Breeze 2009"
+      "event": "Summer Breeze 2009",
+      "country": "Germany",
+      "endDate": ""
     }
   ],
   "Type O Negative": [
@@ -1672,7 +2114,9 @@
       "date": "23/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     }
   ],
   "Children of Bodom": [
@@ -1680,13 +2124,17 @@
       "date": "23/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     },
     {
       "date": "01/08/2008",
       "venue": "Wacken Open Air",
       "city": "Wacken",
-      "event": "Wacken Open Air 2008"
+      "event": "Wacken Open Air 2008",
+      "country": "Germany",
+      "endDate": ""
     }
   ],
   "Amon Amarth": [
@@ -1694,19 +2142,25 @@
       "date": "23/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     },
     {
       "date": "14/08/2009",
       "venue": "Summer Breeze",
       "city": "Dinkelsbühl",
-      "event": "Summer Breeze 2009"
+      "event": "Summer Breeze 2009",
+      "country": "Germany",
+      "endDate": ""
     },
     {
       "date": "17/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Brujeria": [
@@ -1714,7 +2168,9 @@
       "date": "23/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     }
   ],
   "Salem": [
@@ -1722,7 +2178,9 @@
       "date": "23/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     }
   ],
   "Blind Guardian": [
@@ -1730,7 +2188,9 @@
       "date": "24/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     }
   ],
   "Edguy": [
@@ -1738,7 +2198,9 @@
       "date": "24/06/2007",
       "venue": "Hellfest",
       "city": "Clisson",
-      "event": "Hellfest 2007"
+      "event": "Hellfest 2007",
+      "country": "France",
+      "endDate": ""
     }
   ],
   "Job for a Cowboy": [
@@ -1746,7 +2208,9 @@
       "date": "01/08/2008",
       "venue": "Wacken Open Air",
       "city": "Wacken",
-      "event": "Wacken Open Air 2008"
+      "event": "Wacken Open Air 2008",
+      "country": "Germany",
+      "endDate": ""
     }
   ],
   "Unearth": [
@@ -1754,7 +2218,9 @@
       "date": "01/08/2008",
       "venue": "Wacken Open Air",
       "city": "Wacken",
-      "event": "Wacken Open Air 2008"
+      "event": "Wacken Open Air 2008",
+      "country": "Germany",
+      "endDate": ""
     }
   ],
   "Killswitch Engage": [
@@ -1762,13 +2228,17 @@
       "date": "02/08/2008",
       "venue": "Wacken Open Air",
       "city": "Wacken",
-      "event": "Wacken Open Air 2008"
+      "event": "Wacken Open Air 2008",
+      "country": "Germany",
+      "endDate": ""
     },
     {
       "date": "18/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Nightwish": [
@@ -1776,19 +2246,25 @@
       "date": "02/08/2008",
       "venue": "Wacken Open Air",
       "city": "Wacken",
-      "event": "Wacken Open Air 2008"
+      "event": "Wacken Open Air 2008",
+      "country": "Germany",
+      "endDate": ""
     },
     {
       "date": "06/10/2007",
       "venue": "Hangar 11",
       "city": "Tel Aviv",
-      "event": "Dark Passion Play World Tour"
+      "event": "Dark Passion Play World Tour",
+      "country": "Israel",
+      "endDate": ""
     },
     {
       "date": "18/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Katatonia": [
@@ -1796,7 +2272,9 @@
       "date": "13/08/2009",
       "venue": "Summer Breeze",
       "city": "Dinkelsbühl",
-      "event": "Summer Breeze 2009"
+      "event": "Summer Breeze 2009",
+      "country": "Germany",
+      "endDate": ""
     }
   ],
   "Vader": [
@@ -1804,7 +2282,9 @@
       "date": "13/08/2009",
       "venue": "Summer Breeze",
       "city": "Dinkelsbühl",
-      "event": "Summer Breeze 2009"
+      "event": "Summer Breeze 2009",
+      "country": "Germany",
+      "endDate": ""
     }
   ],
   "Deadlock": [
@@ -1812,7 +2292,9 @@
       "date": "13/08/2009",
       "venue": "Summer Breeze",
       "city": "Dinkelsbühl",
-      "event": "Summer Breeze 2009"
+      "event": "Summer Breeze 2009",
+      "country": "Germany",
+      "endDate": ""
     }
   ],
   "Hate Eternal": [
@@ -1820,7 +2302,9 @@
       "date": "13/08/2009",
       "venue": "Summer Breeze",
       "city": "Dinkelsbühl",
-      "event": "Summer Breeze 2009"
+      "event": "Summer Breeze 2009",
+      "country": "Germany",
+      "endDate": ""
     }
   ],
   "Sabaton": [
@@ -1828,7 +2312,9 @@
       "date": "14/08/2009",
       "venue": "Summer Breeze",
       "city": "Dinkelsbühl",
-      "event": "Summer Breeze 2009"
+      "event": "Summer Breeze 2009",
+      "country": "Germany",
+      "endDate": ""
     }
   ],
   "Haggard": [
@@ -1836,7 +2322,9 @@
       "date": "14/08/2009",
       "venue": "Summer Breeze",
       "city": "Dinkelsbühl",
-      "event": "Summer Breeze 2009"
+      "event": "Summer Breeze 2009",
+      "country": "Germany",
+      "endDate": ""
     }
   ],
   "Suicide Silence": [
@@ -1844,7 +2332,9 @@
       "date": "14/08/2009",
       "venue": "Summer Breeze",
       "city": "Dinkelsbühl",
-      "event": "Summer Breeze 2009"
+      "event": "Summer Breeze 2009",
+      "country": "Germany",
+      "endDate": ""
     }
   ],
   "Volbeat": [
@@ -1852,13 +2342,17 @@
       "date": "15/08/2009",
       "venue": "Summer Breeze",
       "city": "Dinkelsbühl",
-      "event": "Summer Breeze 2009"
+      "event": "Summer Breeze 2009",
+      "country": "Germany",
+      "endDate": ""
     },
     {
       "date": "18/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Moonspell": [
@@ -1866,7 +2360,9 @@
       "date": "15/08/2009",
       "venue": "Summer Breeze",
       "city": "Dinkelsbühl",
-      "event": "Summer Breeze 2009"
+      "event": "Summer Breeze 2009",
+      "country": "Germany",
+      "endDate": ""
     }
   ],
   "Deathstars": [
@@ -1874,7 +2370,9 @@
       "date": "15/08/2009",
       "venue": "Summer Breeze",
       "city": "Dinkelsbühl",
-      "event": "Summer Breeze 2009"
+      "event": "Summer Breeze 2009",
+      "country": "Germany",
+      "endDate": ""
     }
   ],
   "Black Sabbath": [
@@ -1882,7 +2380,9 @@
       "date": "17/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Heaven Shall Burn": [
@@ -1890,7 +2390,9 @@
       "date": "17/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Testament": [
@@ -1898,7 +2400,9 @@
       "date": "18/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Halestorm": [
@@ -1906,7 +2410,9 @@
       "date": "18/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "God Dethroned": [
@@ -1914,7 +2420,9 @@
       "date": "18/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Collibus": [
@@ -1922,7 +2430,9 @@
       "date": "18/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Anthrax": [
@@ -1930,7 +2440,9 @@
       "date": "19/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Tremonti": [
@@ -1938,7 +2450,9 @@
       "date": "19/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Twisted Sister": [
@@ -1946,7 +2460,9 @@
       "date": "19/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Saxon": [
@@ -1954,7 +2470,9 @@
       "date": "19/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "The Algorithm": [
@@ -1962,7 +2480,9 @@
       "date": "19/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Dirkschneider": [
@@ -1970,7 +2490,9 @@
       "date": "16/06/2016",
       "venue": "Graspop Metal Meeting",
       "city": "Dessel",
-      "event": "Graspop Metal Meeting 2016"
+      "event": "Graspop Metal Meeting 2016",
+      "country": "Belgium",
+      "endDate": ""
     }
   ],
   "Sisters of Suffocation": [
@@ -1978,13 +2500,17 @@
       "date": "16/03/2018",
       "venue": "Vera",
       "city": "Groningen",
-      "event": "Anthology of Curiosities Tour"
+      "event": "Anthology of Curiosities Tour",
+      "country": "Netherlands",
+      "endDate": ""
     },
     {
       "date": "13/01/2017",
       "venue": "De Witte Wolf",
       "city": "Groningen",
-      "event": "Wolfsonic 2017"
+      "event": "Wolfsonic 2017",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Fumes of Decay": [
@@ -1992,7 +2518,9 @@
       "date": "16/03/2018",
       "venue": "Vera",
       "city": "Groningen",
-      "event": "Support for Sisters of Suffocation"
+      "event": "Support for Sisters of Suffocation",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Off The Cross": [
@@ -2000,7 +2528,9 @@
       "date": "13/01/2017",
       "venue": "De Witte Wolf",
       "city": "Groningen",
-      "event": "Wolfsonic 2017"
+      "event": "Wolfsonic 2017",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Rene SG": [
@@ -2008,7 +2538,9 @@
       "date": "13/01/2017",
       "venue": "De Witte Wolf",
       "city": "Groningen",
-      "event": "Wolfsonic 2017"
+      "event": "Wolfsonic 2017",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "The Charm The Fury": [
@@ -2016,7 +2548,9 @@
       "date": "11/01/2017",
       "venue": "De Drie Gezusters",
       "city": "Groningen",
-      "event": "Altersonic 2017"
+      "event": "Altersonic 2017",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Drive By Wire": [
@@ -2024,7 +2558,9 @@
       "date": "11/01/2017",
       "venue": "De Drie Gezusters",
       "city": "Groningen",
-      "event": "Altersonic 2017"
+      "event": "Altersonic 2017",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Chris Cornell": [
@@ -2032,7 +2568,9 @@
       "date": "17/06/2009",
       "venue": "Israel Trade Fairs and Convention Center",
       "city": "Tel Aviv",
-      "event": "Scream World Tour"
+      "event": "Scream World Tour",
+      "country": "Israel",
+      "endDate": ""
     }
   ],
   "Lights": [
@@ -2040,7 +2578,9 @@
       "date": "17/06/2009",
       "venue": "Israel Trade Fairs and Convention Center",
       "city": "Tel Aviv",
-      "event": "Support for Chris Cornell"
+      "event": "Support for Chris Cornell",
+      "country": "Israel",
+      "endDate": ""
     }
   ],
   "Paradise Lost": [
@@ -2048,7 +2588,9 @@
       "date": "06/02/2026",
       "venue": "Neushoorn",
       "city": "Leeuwarden",
-      "event": "Ascension of Europe Tour 2026"
+      "event": "Ascension of Europe Tour 2026",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Saturnus": [
@@ -2056,7 +2598,9 @@
       "date": "06/02/2026",
       "venue": "Neushoorn",
       "city": "Leeuwarden",
-      "event": "Support for Paradise Lost"
+      "event": "Support for Paradise Lost",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Cwfen": [
@@ -2064,7 +2608,9 @@
       "date": "06/02/2026",
       "venue": "Neushoorn",
       "city": "Leeuwarden",
-      "event": "Support for Paradise Lost"
+      "event": "Support for Paradise Lost",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "BAEST": [
@@ -2072,7 +2618,9 @@
       "date": "07/02/2026",
       "venue": "Iduna",
       "city": "Drachten",
-      "event": "Drachten Deathfest 2"
+      "event": "Drachten Deathfest 2",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Pentacle": [
@@ -2080,7 +2628,9 @@
       "date": "07/02/2026",
       "venue": "Iduna",
       "city": "Drachten",
-      "event": "Drachten Deathfest 2"
+      "event": "Drachten Deathfest 2",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Messiah": [
@@ -2088,7 +2638,9 @@
       "date": "07/02/2026",
       "venue": "Iduna",
       "city": "Drachten",
-      "event": "Drachten Deathfest 2"
+      "event": "Drachten Deathfest 2",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Massgrav": [
@@ -2096,7 +2648,9 @@
       "date": "07/02/2026",
       "venue": "Iduna",
       "city": "Drachten",
-      "event": "Drachten Deathfest 2"
+      "event": "Drachten Deathfest 2",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Unleashed": [
@@ -2104,7 +2658,9 @@
       "date": "07/02/2026",
       "venue": "Iduna",
       "city": "Drachten",
-      "event": "Drachten Deathfest 2"
+      "event": "Drachten Deathfest 2",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Lorna Shore": [
@@ -2112,7 +2668,9 @@
       "date": "12/02/2026",
       "venue": "AFAS Live",
       "city": "Amsterdam",
-      "event": "Tour 2026"
+      "event": "Tour 2026",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Whitechapel": [
@@ -2120,7 +2678,9 @@
       "date": "12/02/2026",
       "venue": "AFAS Live",
       "city": "Amsterdam",
-      "event": "Support for Lorna Shore"
+      "event": "Support for Lorna Shore",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Shadow Of Intent": [
@@ -2128,7 +2688,9 @@
       "date": "12/02/2026",
       "venue": "AFAS Live",
       "city": "Amsterdam",
-      "event": "Support for Lorna Shore"
+      "event": "Support for Lorna Shore",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Humanity's Last Breath": [
@@ -2136,7 +2698,9 @@
       "date": "12/02/2026",
       "venue": "AFAS Live",
       "city": "Amsterdam",
-      "event": "Support for Lorna Shore"
+      "event": "Support for Lorna Shore",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Sad Whisperings": [
@@ -2144,7 +2708,9 @@
       "date": "14/02/2026",
       "venue": "Vera",
       "city": "Groningen",
-      "event": "Album Release Show / Double Bill"
+      "event": "Album Release Show / Double Bill",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Alter Bridge": [
@@ -2152,7 +2718,9 @@
       "date": "22/02/2026",
       "venue": "Ziggo Dome",
       "city": "Amsterdam",
-      "event": "What Lies Within Tour"
+      "event": "What Lies Within Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Daughtry": [
@@ -2160,7 +2728,9 @@
       "date": "22/02/2026",
       "venue": "Ziggo Dome",
       "city": "Amsterdam",
-      "event": "Support for Alter Bridge"
+      "event": "Support for Alter Bridge",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Sevendust": [
@@ -2168,7 +2738,9 @@
       "date": "22/02/2026",
       "venue": "Ziggo Dome",
       "city": "Amsterdam",
-      "event": "Support for Alter Bridge"
+      "event": "Support for Alter Bridge",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "In Mourning": [
@@ -2176,7 +2748,9 @@
       "date": "05/03/2026",
       "venue": "TivoliVredenburg",
       "city": "Utrecht",
-      "event": "Omnium Gatherum + Fallujah + In Mourning"
+      "event": "Omnium Gatherum + Fallujah + In Mourning",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Nona": [
@@ -2184,7 +2758,9 @@
       "date": "21/03/2026",
       "venue": "Oosterpoort",
       "city": "Groningen",
-      "event": "Nona Tour"
+      "event": "Nona Tour",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Infected Rain": [
@@ -2192,7 +2768,9 @@
       "date": "04/04/2026",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Mutation Phase In Europe Tour 2026"
+      "event": "Mutation Phase In Europe Tour 2026",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Butcher Babies": [
@@ -2200,7 +2778,9 @@
       "date": "04/04/2026",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Mutation Phase In Europe Tour 2026"
+      "event": "Mutation Phase In Europe Tour 2026",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Black Spikes": [
@@ -2208,7 +2788,9 @@
       "date": "04/04/2026",
       "venue": "Doornroosje",
       "city": "Nijmegen",
-      "event": "Mutation Phase In Europe Tour 2026"
+      "event": "Mutation Phase In Europe Tour 2026",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Ancient Fragments": [
@@ -2216,7 +2798,9 @@
       "date": "18/04/2026",
       "venue": "Willemeen",
       "city": "Arnhem",
-      "event": "Ancient Fragments + Traversus"
+      "event": "Ancient Fragments + Traversus",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ],
   "Traversus": [
@@ -2224,7 +2808,9 @@
       "date": "18/04/2026",
       "venue": "Willemeen",
       "city": "Arnhem",
-      "event": "Support for Ancient Fragments"
+      "event": "Support for Ancient Fragments",
+      "country": "Netherlands",
+      "endDate": ""
     }
   ]
 }
