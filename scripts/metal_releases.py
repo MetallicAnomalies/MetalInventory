@@ -165,7 +165,7 @@ def scrape_releases():
     # We update the headers on the scraper specifically for MB requests
     # Use a real-looking email or keep it formatted correctly
     mb_headers = {
-        'User-Agent': 'MetalReleasesApp/1.0 ( action@github.com )',
+        'User-Agent': 'scrobex/1.0 ( action@github.com )',
         'Accept': 'application/json'
     }
 

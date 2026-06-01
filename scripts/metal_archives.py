@@ -24,7 +24,7 @@ MA_AJAX_URL = (
 MA_HEADERS = {
     # Metal Archives requires a browser-like User-Agent to avoid 403s
     "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "scrobex/1.0 ( action@github.com ) Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/124.0.0.0 Safari/537.36"
     ),

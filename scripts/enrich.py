@@ -19,13 +19,18 @@ import re
 import time
 import unicodedata
 import xml.etree.ElementTree as ET
+import glob
 
 # ---------------------------------------------------------------------------
-# Constants â€” edit these to point at your local Discogs dump files
+# Constants — edit these to point at your local Discogs dump files
 # ---------------------------------------------------------------------------
-DISCOGS_RELEASES_DUMP_PATH = "./discogs_20260501_releases.xml.gz"
-DISCOGS_MASTERS_DUMP_PATH = "./discogs_20260501_masters.xml.gz"
-DISCOGS_ARTISTS_DUMP_PATH  = "./discogs_20260501_artists.xml.gz"
+def get_latest_dump(pattern: str) -> str:
+    matches = glob.glob(pattern)
+    return max(matches) if matches else ""
+
+DISCOGS_RELEASES_DUMP_PATH = get_latest_dump("./discogs_*_releases.xml.gz")
+DISCOGS_MASTERS_DUMP_PATH = get_latest_dump("./discogs_*_masters.xml.gz")
+DISCOGS_ARTISTS_DUMP_PATH  = get_latest_dump("./discogs_*_artists.xml.gz")
 
 SHARDS_DIR       = "./output/shards"
 MANIFEST_PATH    = "./output/cache-manifest.json"
