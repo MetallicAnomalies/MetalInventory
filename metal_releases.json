@@ -168,6 +168,14 @@
         "source": "Heavy Music HQ"
     },
     {
+        "artist": "Metalite",
+        "album": "Discovery",
+        "release_date": "2026-09-25",
+        "genre": "",
+        "url": "",
+        "source": "Heavy Music HQ"
+    },
+    {
         "artist": "The Ocean",
         "album": "Solaris",
         "release_date": "2026-09-25",
@@ -896,6 +904,14 @@
         "source": "Heavy Music HQ"
     },
     {
+        "artist": "Future Palace",
+        "album": "Resurgence",
+        "release_date": "2026-07-31",
+        "genre": "",
+        "url": "",
+        "source": "Heavy Music HQ"
+    },
+    {
         "artist": "Iconic",
         "album": "II",
         "release_date": "2026-07-31",
@@ -1208,6 +1224,14 @@
         "source": "Heavy Music HQ"
     },
     {
+        "artist": "Eaten By Sharks",
+        "album": "The Undertow Of Hate",
+        "release_date": "2026-07-17",
+        "genre": "",
+        "url": "",
+        "source": "Heavy Music HQ"
+    },
+    {
         "artist": "Emptiness",
         "album": "Nowhere Speaks",
         "release_date": "2026-07-17",
@@ -1306,6 +1330,22 @@
     {
         "artist": "Poison The Preacher",
         "album": "Things I Want EP",
+        "release_date": "2026-07-17",
+        "genre": "",
+        "url": "",
+        "source": "Heavy Music HQ"
+    },
+    {
+        "artist": "Post Death Soundtrack",
+        "album": "Barren Mother Of All",
+        "release_date": "2026-07-17",
+        "genre": "",
+        "url": "",
+        "source": "Heavy Music HQ"
+    },
+    {
+        "artist": "Psycroptic",
+        "album": "The Pulse Of Annihilation",
         "release_date": "2026-07-17",
         "genre": "",
         "url": "",
@@ -1864,6 +1904,14 @@
         "source": "Heavy Music HQ"
     },
     {
+        "artist": "Recluse",
+        "album": "Atrocity Parade",
+        "release_date": "2026-07-03",
+        "genre": "",
+        "url": "",
+        "source": "Heavy Music HQ"
+    },
+    {
         "artist": "Solace",
         "album": "Fading Failing Ruin",
         "release_date": "2026-07-03",
@@ -1954,6 +2002,22 @@
     {
         "artist": "Autumnblaze",
         "album": "Glut",
+        "release_date": "2026-06-26",
+        "genre": "",
+        "url": "",
+        "source": "Heavy Music HQ"
+    },
+    {
+        "artist": "Aydra",
+        "album": "Icon Of Sin",
+        "release_date": "2026-06-26",
+        "genre": "",
+        "url": "",
+        "source": "Heavy Music HQ"
+    },
+    {
+        "artist": "Azel’s Mountain",
+        "album": "Echa Krwi",
         "release_date": "2026-06-26",
         "genre": "",
         "url": "",
@@ -2378,6 +2442,14 @@
     {
         "artist": "Speedslut",
         "album": "Cimbrian Rites",
+        "release_date": "2026-06-26",
+        "genre": "",
+        "url": "",
+        "source": "Heavy Music HQ"
+    },
+    {
+        "artist": "Stonecast",
+        "album": "Expand Crimson Chaos",
         "release_date": "2026-06-26",
         "genre": "",
         "url": "",
@@ -4080,6 +4152,14 @@
         "source": "Heavy Music HQ"
     },
     {
+        "artist": "Unlucky Morpheus",
+        "album": "Gate of Hell",
+        "release_date": "2026-06-03",
+        "genre": "Power Metal, Symphonic Metal, Metal",
+        "url": "https://www.albumoftheyear.org/album/1845570-unlucky-morpheus-gate-of-hell.php",
+        "source": "AOTY"
+    },
+    {
         "artist": "Sleepbomb",
         "album": "Songs in the Key of Conan",
         "release_date": "2026-06-03",
@@ -4088,10 +4168,18 @@
         "source": "MusicBrainz"
     },
     {
+        "artist": "xmemoriestoburnx",
+        "album": "Self-Portrait as Healing Wounds",
+        "release_date": "2026-06-01",
+        "genre": "Metalcore, Metal",
+        "url": "https://www.albumoftheyear.org/album/1851407-xmemoriestoburnx-self-portrait-as-healing-wounds.php",
+        "source": "AOTY"
+    },
+    {
         "artist": "Firepfote",
         "album": "Wildness",
         "release_date": "2026-05-30",
-        "genre": "Metalcore, Industrial Metal",
+        "genre": "Metalcore, Metal, Industrial Metal",
         "url": "https://musicbrainz.org/release/e1948a4c-58f6-465e-aa51-a54c06ab46b1",
         "source": "MusicBrainz"
     },
@@ -4168,6 +4256,14 @@
         "source": "AOTY"
     },
     {
+        "artist": "Dark Divine",
+        "album": "Undead Melody",
+        "release_date": "2026-05-29",
+        "genre": "Metalcore, Metal",
+        "url": "https://www.albumoftheyear.org/album/1699249-dark-divine-undead-melody.php",
+        "source": "AOTY"
+    },
+    {
         "artist": "Balmora",
         "album": "These Graven Halls",
         "release_date": "2026-05-29",
@@ -4208,12 +4304,20 @@
         "source": "AOTY"
     },
     {
-        "artist": "Dark Divine",
-        "album": "Undead Melody",
+        "artist": "Leatherwitch",
+        "album": "First Spell",
         "release_date": "2026-05-29",
         "genre": "Metal",
-        "url": "https://www.albumoftheyear.org/album/1699249-dark-divine-undead-melody.php",
+        "url": "https://www.albumoftheyear.org/album/1788651-leatherwitch-first-spell.php",
         "source": "AOTY"
+    },
+    {
+        "artist": "Chronic Hate",
+        "album": "Defeating The Oblivion Of Life",
+        "release_date": "2026-05-29",
+        "genre": "Death Metal",
+        "url": "https://musicbrainz.org/release/2476a70c-ebc9-447e-8f30-84feacb2f930",
+        "source": "MusicBrainz"
     },
     {
         "artist": "The Scalar Process",
@@ -4230,686 +4334,6 @@
         "genre": "Metalcore, Industrial Metal",
         "url": "https://musicbrainz.org/release/601b8c40-1b9a-412d-80fd-67503c83f307",
         "source": "MusicBrainz"
-    },
-    {
-        "artist": "Abrasive Trees",
-        "album": "Light Remaining",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Acacia Avenue",
-        "album": "Chapter V",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "AfterWinter",
-        "album": "Boundless",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Albion",
-        "album": "It Was In The Month Of May",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Ana",
-        "album": "Motivated By Death",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Ater Era",
-        "album": "Sinistria",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Bjørn Riis",
-        "album": "Lifandi EP",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "BlackMarket",
-        "album": "Radical Views EP",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Black Rose Rebellion",
-        "album": "Hail The Rebel Queen",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Bleeth",
-        "album": "Lazara EP",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Brian Robertson",
-        "album": "Diamonds And Dirt Re-Release",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Cambrian",
-        "album": "Oceans Away",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Cavity",
-        "album": "Human Abjection Re-Release",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Chroma",
-        "album": "25 Forever",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Chronic Hate",
-        "album": "Defeating The Oblivion Of Life",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Consecration",
-        "album": "Exanimis",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Crocell",
-        "album": "Swarm Of Insects",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "The Cruel Intentions",
-        "album": "All Hail Hypocrisy",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Dauþuz",
-        "album": "Todeswerk: Uranium II",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Decanon",
-        "album": "Planet Decanon",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Deus Saboath",
-        "album": "Distortion Of Lies",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Diminishing",
-        "album": "The Outcome",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Dogstar",
-        "album": "All In Now",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Dysthen",
-        "album": "Dysthen EP",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Eaten By Sharks",
-        "album": "The Undertow Of Hate",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Elder",
-        "album": "Through Zero",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Erdve",
-        "album": "Epigrama",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "The Fifth Alliance",
-        "album": "Stenahoria",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "The Freqs",
-        "album": "No God On The Gold Coast",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Furnace",
-        "album": "Echoes Of A Distant Future",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Graveir",
-        "album": "The Festering Triad",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Hanry",
-        "album": "What Came From Silence",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Harboured",
-        "album": "We’re Only The Love That We Lead",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Horizon Of Aeons",
-        "album": "Timeless Forms Of Desolation",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Hypnosaur",
-        "album": "Afterlife",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "I Will Destroy You",
-        "album": "Dead Before Dawn EP",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Jayler",
-        "album": "Voices Unheard",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Kid Feral",
-        "album": "2019",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Kristoffer Gildenlöw",
-        "album": "[Humanised]",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Lazara",
-        "album": "Lazara EP",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Leatherwitch",
-        "album": "First Spell",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Liva",
-        "album": "Ecce Mundus",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Lock Up",
-        "album": "Brethren Of The Pentagram",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Lowcard De La Morte/Killseduction",
-        "album": "Kill De La Morte Split",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Lufeh",
-        "album": "Overwhelmed",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Maladie",
-        "album": "The Dance Of Tragedies",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Malebeste",
-        "album": "Monestherou",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Malummeh",
-        "album": "Malummeh EP",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Mandy Manala",
-        "album": "Something Wicked",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Manraze",
-        "album": "Lock, Stock & Barrel (Complete Recordings 2008-2011)",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Masquerage",
-        "album": "Atomic Spies",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Meltification",
-        "album": "Meltification",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Melting",
-        "album": "A Pathetic Excuse For A Life EP",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Mzztr",
-        "album": "Pronounced Mis-Ter EP",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Narnia",
-        "album": "X",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Necrobeast",
-        "album": "Iron Baphomet",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Nidelgret",
-        "album": "Traüerlarm",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Oathbreaker",
-        "album": "Rheia (Redux)",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "On Borrowed Time",
-        "album": "In The Dark Before The Dawn",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Rakinua",
-        "album": "Esi Um Nina – Heal Us, Mother",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Redshift",
-        "album": "Down The Wire",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Red Sky",
-        "album": "Nostalgia del Futuro",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Sahara",
-        "album": "Sahara Re-Release",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Sarcasm",
-        "album": "Lifeforce Omnibound",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Se, Josta Ei Puhuta",
-        "album": "Syvyyden Portit On Saatava Auki",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Serpent Lord",
-        "album": "The Once Forgotten Ways Of Old",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Seven Crowns",
-        "album": "Haunted Head",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "SeventhString",
-        "album": "An Ocean Laced With Glass",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Shinedown",
-        "album": "Ei8ht",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Somnia Finem",
-        "album": "Desassossego",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Sparta",
-        "album": "Cut A Silhouette",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "TDW",
-        "album": "Bane Of The Talebearer OST",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Tooms",
-        "album": "Karst",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Treacher",
-        "album": "Hibernation Of Death",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Trelldom",
-        "album": "…by the word…",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Trueandtrue",
-        "album": "Nosedive",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Tyrann",
-        "album": "Tyrann Forever",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Valar Morghulis",
-        "album": "The Call Of The Void",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Victory Kid",
-        "album": "Catalyst",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Vimbullnat",
-        "album": "Der Dunklen Tugenden; Echos",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Vintregal",
-        "album": "Назустріч Останньому Світанку EP",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Voidmaker",
-        "album": "A Cold, Unyielding Universe",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "The Who",
-        "album": "Live At Eden Project",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Wyrmhaven",
-        "album": "Seasons Of Gloom",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
-    },
-    {
-        "artist": "Yawning Balch",
-        "album": "Volume Four",
-        "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
     },
     {
         "artist": "Sulfuric Cautery",
@@ -4960,6 +4384,14 @@
         "source": "AOTY"
     },
     {
+        "artist": "Opera IX",
+        "album": "Veneficium",
+        "release_date": "2026-05-22",
+        "genre": "Black Metal, Metal",
+        "url": "https://www.albumoftheyear.org/album/1742571-opera-ix-veneficium.php",
+        "source": "AOTY"
+    },
+    {
         "artist": "Piołun",
         "album": "Exolvuntur",
         "release_date": "2026-05-22",
@@ -4992,11 +4424,11 @@
         "source": "AOTY"
     },
     {
-        "artist": "Your Spirit Dies",
-        "album": "It Is Well...",
+        "artist": "Ecotage",
+        "album": "Redemption",
         "release_date": "2026-05-22",
         "genre": "Metalcore, Metal",
-        "url": "https://www.albumoftheyear.org/album/1785368-your-spirit-dies-it-is-well.php",
+        "url": "https://www.albumoftheyear.org/album/1832689-ecotage-redemption.php",
         "source": "AOTY"
     },
     {
@@ -5008,11 +4440,11 @@
         "source": "AOTY"
     },
     {
-        "artist": "Ecotage",
-        "album": "Redemption",
+        "artist": "Your Spirit Dies",
+        "album": "It Is Well...",
         "release_date": "2026-05-22",
         "genre": "Metalcore, Metal",
-        "url": "https://www.albumoftheyear.org/album/1832689-ecotage-redemption.php",
+        "url": "https://www.albumoftheyear.org/album/1785368-your-spirit-dies-it-is-well.php",
         "source": "AOTY"
     },
     {
@@ -5040,19 +4472,19 @@
         "source": "AOTY"
     },
     {
-        "artist": "Curveless",
-        "album": "A Place I Never Left",
-        "release_date": "2026-05-22",
-        "genre": "Metal",
-        "url": "https://www.albumoftheyear.org/album/1833495-curveless-a-place-i-never-left.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "Blue Jay Morales",
         "album": "Morales",
         "release_date": "2026-05-22",
         "genre": "Metal",
         "url": "https://www.albumoftheyear.org/album/1803655-blue-jay-morales-morales.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Curveless",
+        "album": "A Place I Never Left",
+        "release_date": "2026-05-22",
+        "genre": "Metal",
+        "url": "https://www.albumoftheyear.org/album/1833495-curveless-a-place-i-never-left.php",
         "source": "AOTY"
     },
     {
@@ -5104,6 +4536,14 @@
         "source": "MusicBrainz"
     },
     {
+        "artist": "my precious solitude",
+        "album": "my precious solitude",
+        "release_date": "2026-05-22",
+        "genre": "Metalcore",
+        "url": "https://musicbrainz.org/release/82111886-a6f1-4958-bfbc-e08be722f135",
+        "source": "MusicBrainz"
+    },
+    {
         "artist": "Hex A.D.",
         "album": "Surgical Cuts in the Cosmos",
         "release_date": "2026-05-22",
@@ -5120,11 +4560,27 @@
         "source": "MusicBrainz"
     },
     {
+        "artist": "Hands Like Houses",
+        "album": "Lótus",
+        "release_date": "2026-05-22",
+        "genre": "Metal",
+        "url": "https://musicbrainz.org/release/61a3d508-999e-4545-826b-401f2423dd6a",
+        "source": "MusicBrainz"
+    },
+    {
         "artist": "Heaven Is Sleeping",
         "album": "Heaven Is Sleeping",
         "release_date": "2026-05-21",
         "genre": "Metal",
         "url": "https://www.albumoftheyear.org/album/1836304-heaven-is-sleeping-heaven-is-sleeping.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Whalefall",
+        "album": "Is it all a dream?",
+        "release_date": "2026-05-21",
+        "genre": "Metal, Djent",
+        "url": "https://www.albumoftheyear.org/album/1852157-whalefall-is-it-all-a-dream.php",
         "source": "AOTY"
     },
     {
@@ -5195,7 +4651,7 @@
         "artist": "MIRAR",
         "album": "Gradus ad Parnassum",
         "release_date": "2026-05-16",
-        "genre": "Metal",
+        "genre": "Metal, Djent",
         "url": "https://www.albumoftheyear.org/album/1823483-mirar-gradus-ad-parnassum.php",
         "source": "AOTY"
     },
@@ -5259,7 +4715,7 @@
         "artist": "silverlake murder",
         "album": "Impurity",
         "release_date": "2026-05-15",
-        "genre": "Metalcore, Metal",
+        "genre": "Metalcore",
         "url": "https://www.albumoftheyear.org/album/1821403-silverlake-murder-impurity.php",
         "source": "AOTY"
     },
@@ -5275,7 +4731,7 @@
         "artist": "Artillery",
         "album": "Made In Hell",
         "release_date": "2026-05-15",
-        "genre": "Thrash Metal, Metal",
+        "genre": "Thrash Metal",
         "url": "https://www.albumoftheyear.org/album/1692999-artillery-made-in-hell.php",
         "source": "AOTY"
     },
@@ -5307,16 +4763,8 @@
         "artist": "Periphery",
         "album": "A Pale White Dot",
         "release_date": "2026-05-15",
-        "genre": "Metal",
+        "genre": "Metal, Djent",
         "url": "https://www.albumoftheyear.org/album/1750272-periphery-a-pale-white-dot.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Primus",
-        "album": "A Handful of Nuggs",
-        "release_date": "2026-05-15",
-        "genre": "Metal",
-        "url": "https://www.albumoftheyear.org/album/1820427-primus-a-handful-of-nuggs.php",
         "source": "AOTY"
     },
     {
@@ -5379,7 +4827,7 @@
         "artist": "Antichrist Siege Machine",
         "album": "Promo MMXXVI",
         "release_date": "2026-05-14",
-        "genre": "Black Metal, Metal",
+        "genre": "Black Metal",
         "url": "https://www.albumoftheyear.org/album/1820411-antichrist-siege-machine-promo-mmxxvi.php",
         "source": "AOTY"
     },
@@ -5387,7 +4835,7 @@
         "artist": "Nedgravd",
         "album": "Ascension",
         "release_date": "2026-05-14",
-        "genre": "Death Metal, Metal",
+        "genre": "Death Metal",
         "url": "https://www.albumoftheyear.org/album/1810365-nedgravd-ascension.php",
         "source": "AOTY"
     },
@@ -5560,19 +5008,19 @@
         "source": "AOTY"
     },
     {
-        "artist": "Crowquill",
-        "album": "Erase The File",
-        "release_date": "2026-05-08",
-        "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1807737-crowquill-erase-the-file.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "God's Last Wish",
         "album": "On Times of Promising End...",
         "release_date": "2026-05-08",
         "genre": "Metalcore",
         "url": "https://www.albumoftheyear.org/album/1810485-gods-last-wish-on-times-of-promising-end.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Crowquill",
+        "album": "Erase The File",
+        "release_date": "2026-05-08",
+        "genre": "Metalcore",
+        "url": "https://www.albumoftheyear.org/album/1807737-crowquill-erase-the-file.php",
         "source": "AOTY"
     },
     {
@@ -5589,6 +5037,22 @@
         "release_date": "2026-05-08",
         "genre": "Power Metal",
         "url": "https://www.albumoftheyear.org/album/1811122-rexoria-fallen-dimension.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Karmanjakah",
+        "album": "Diamond Morning",
+        "release_date": "2026-05-08",
+        "genre": "Djent",
+        "url": "https://www.albumoftheyear.org/album/1702434-karmanjakah-diamond-morning.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "sace6",
+        "album": "brutalist",
+        "release_date": "2026-05-08",
+        "genre": "Djent",
+        "url": "https://www.albumoftheyear.org/album/1722694-sace6-brutalist.php",
         "source": "AOTY"
     },
     {
@@ -5613,6 +5077,14 @@
         "release_date": "2026-05-08",
         "genre": "Progressive Metal, Power Metal, Thrash Metal, Metal",
         "url": "https://musicbrainz.org/release/15cb217c-4f1b-4b9a-aa9a-21e1f5e20586",
+        "source": "MusicBrainz"
+    },
+    {
+        "artist": "Skull Servant",
+        "album": "Seven Trumpets",
+        "release_date": "2026-05-08",
+        "genre": "Metal",
+        "url": "https://musicbrainz.org/release/e61d973e-c28e-4d67-964d-291783758ccb",
         "source": "MusicBrainz"
     },
     {
@@ -5646,6 +5118,14 @@
         "genre": "Black Metal, Death Metal, Metal",
         "url": "https://musicbrainz.org/release/5c39bcb1-4e13-4204-8b9f-397f15109c5b",
         "source": "MusicBrainz"
+    },
+    {
+        "artist": "satellites were set alight",
+        "album": "A Selfish Endeavour",
+        "release_date": "2026-05-04",
+        "genre": "Metalcore",
+        "url": "https://www.albumoftheyear.org/album/1803144-satellites-were-set-alight-a-selfish-endeavour.php",
+        "source": "AOTY"
     },
     {
         "artist": "Charles Baskerville",
@@ -5728,11 +5208,11 @@
         "source": "AOTY"
     },
     {
-        "artist": "septemberistheonlytimeidontthinkofyou",
-        "album": "scars like kimberly",
+        "artist": "Sevalynn",
+        "album": "I Wish It Didn't Have To Come To This",
         "release_date": "2026-05-01",
         "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1799749-septemberistheonlytimeidontthinkofyou-scars-like-kimberly.php",
+        "url": "https://www.albumoftheyear.org/album/1771335-sevalynn-i-wish-it-didnt-have-to-come-to-this.php",
         "source": "AOTY"
     },
     {
@@ -5752,11 +5232,11 @@
         "source": "AOTY"
     },
     {
-        "artist": "Sevalynn",
-        "album": "I Wish It Didn't Have To Come To This",
+        "artist": "septemberistheonlytimeidontthinkofyou",
+        "album": "scars like kimberly",
         "release_date": "2026-05-01",
         "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1771335-sevalynn-i-wish-it-didnt-have-to-come-to-this.php",
+        "url": "https://www.albumoftheyear.org/album/1799749-septemberistheonlytimeidontthinkofyou-scars-like-kimberly.php",
         "source": "AOTY"
     },
     {
@@ -5936,11 +5416,11 @@
         "source": "AOTY"
     },
     {
-        "artist": "Volcandra",
-        "album": "Beyond The Will of Mortals",
+        "artist": "Riverflame",
+        "album": "Lunar Crusades",
         "release_date": "2026-04-24",
-        "genre": "Black Metal",
-        "url": "https://www.albumoftheyear.org/album/1700483-volcandra-beyond-the-will-of-mortals.php",
+        "genre": "Black Metal, Metal",
+        "url": "https://www.albumoftheyear.org/album/1780571-riverflame-lunar-crusades.php",
         "source": "AOTY"
     },
     {
@@ -5949,6 +5429,14 @@
         "release_date": "2026-04-24",
         "genre": "Black Metal",
         "url": "https://www.albumoftheyear.org/album/1780572-scimitar-scimitarium-ii.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Volcandra",
+        "album": "Beyond The Will of Mortals",
+        "release_date": "2026-04-24",
+        "genre": "Black Metal",
+        "url": "https://www.albumoftheyear.org/album/1700483-volcandra-beyond-the-will-of-mortals.php",
         "source": "AOTY"
     },
     {
@@ -6024,22 +5512,6 @@
         "source": "AOTY"
     },
     {
-        "artist": "157frq",
-        "album": "A World I Was Never A Part Of",
-        "release_date": "2026-04-24",
-        "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1790284-157frq-a-world-i-was-never-a-part-of.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Waste",
-        "album": "The Weight of Everything",
-        "release_date": "2026-04-24",
-        "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1702859-waste-the-weight-of-everything.php",
-        "source": "AOTY"
-    },
-    {
         "artist": ".Dawn of Sorrow.",
         "album": "Where Reflection Meets Serenity",
         "release_date": "2026-04-24",
@@ -6048,11 +5520,11 @@
         "source": "AOTY"
     },
     {
-        "artist": "OPENMIND",
-        "album": "All The Good Things Fade Away",
+        "artist": "Waste",
+        "album": "The Weight of Everything",
         "release_date": "2026-04-24",
         "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1769105-openmind-all-the-good-things-fade-away.php",
+        "url": "https://www.albumoftheyear.org/album/1702859-waste-the-weight-of-everything.php",
         "source": "AOTY"
     },
     {
@@ -6072,11 +5544,27 @@
         "source": "AOTY"
     },
     {
+        "artist": "157frq",
+        "album": "A World I Was Never A Part Of",
+        "release_date": "2026-04-24",
+        "genre": "Metalcore",
+        "url": "https://www.albumoftheyear.org/album/1790284-157frq-a-world-i-was-never-a-part-of.php",
+        "source": "AOTY"
+    },
+    {
         "artist": "Despite Exile",
         "album": "Where Hope Goes To Die (Deluxe Edition)",
         "release_date": "2026-04-24",
         "genre": "Metalcore",
         "url": "https://www.albumoftheyear.org/album/1796432-despite-exile-where-hope-goes-to-die-deluxe-edition.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "OPENMIND",
+        "album": "All The Good Things Fade Away",
+        "release_date": "2026-04-24",
+        "genre": "Metalcore",
+        "url": "https://www.albumoftheyear.org/album/1769105-openmind-all-the-good-things-fade-away.php",
         "source": "AOTY"
     },
     {
@@ -6093,14 +5581,6 @@
         "release_date": "2026-04-24",
         "genre": "Black Metal, Metal",
         "url": "https://musicbrainz.org/release/48f7c995-5a43-4dcb-b682-842df8fc333c",
-        "source": "MusicBrainz"
-    },
-    {
-        "artist": "Riverflame",
-        "album": "Lunar Crusades",
-        "release_date": "2026-04-24",
-        "genre": "Black Metal, Metal",
-        "url": "https://musicbrainz.org/release/d8d929c3-3c82-44d2-a4ae-06a429fb729e",
         "source": "MusicBrainz"
     },
     {
@@ -6192,6 +5672,14 @@
         "source": "AOTY"
     },
     {
+        "artist": "Karmanjakah",
+        "album": "Sun, astray",
+        "release_date": "2026-04-23",
+        "genre": "Djent",
+        "url": "https://www.albumoftheyear.org/album/1796561-karmanjakah-sun-astray.php",
+        "source": "AOTY"
+    },
+    {
         "artist": "INHALE",
         "album": "BLUE MOMENT",
         "release_date": "2026-04-22",
@@ -6256,19 +5744,19 @@
         "source": "AOTY"
     },
     {
-        "artist": "Vargrav",
-        "album": "Dimension: Daemonium",
-        "release_date": "2026-04-17",
-        "genre": "Black Metal",
-        "url": "https://www.albumoftheyear.org/album/1697020-vargrav-dimension-daemonium.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "Sznur",
         "album": "Cwel",
         "release_date": "2026-04-17",
         "genre": "Black Metal",
         "url": "https://www.albumoftheyear.org/album/1752928-sznur-cwel.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Mylingar",
+        "album": "Út",
+        "release_date": "2026-04-17",
+        "genre": "Black Metal",
+        "url": "https://www.albumoftheyear.org/album/1698484-mylingar-ut.php",
         "source": "AOTY"
     },
     {
@@ -6280,19 +5768,19 @@
         "source": "AOTY"
     },
     {
+        "artist": "Vargrav",
+        "album": "Dimension: Daemonium",
+        "release_date": "2026-04-17",
+        "genre": "Black Metal",
+        "url": "https://www.albumoftheyear.org/album/1697020-vargrav-dimension-daemonium.php",
+        "source": "AOTY"
+    },
+    {
         "artist": "Prayer Position",
         "album": "Devotion",
         "release_date": "2026-04-17",
         "genre": "Black Metal",
         "url": "https://www.albumoftheyear.org/album/1787460-prayer-position-devotion.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Mylingar",
-        "album": "Út",
-        "release_date": "2026-04-17",
-        "genre": "Black Metal",
-        "url": "https://www.albumoftheyear.org/album/1698484-mylingar-ut.php",
         "source": "AOTY"
     },
     {
@@ -6368,11 +5856,11 @@
         "source": "AOTY"
     },
     {
-        "artist": ".gif from god",
-        "album": "Dissimulation",
+        "artist": "Mindfull",
+        "album": "If I Could Synthesize...",
         "release_date": "2026-04-17",
         "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1739584-gif-from-god-dissimulation.php",
+        "url": "https://www.albumoftheyear.org/album/1851789-mindfull-if-i-could-synthesize.php",
         "source": "AOTY"
     },
     {
@@ -6381,6 +5869,14 @@
         "release_date": "2026-04-17",
         "genre": "Metalcore",
         "url": "https://www.albumoftheyear.org/album/1784382-field-of-vision-field-of-vision.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": ".gif from god",
+        "album": "Dissimulation",
+        "release_date": "2026-04-17",
+        "genre": "Metalcore",
+        "url": "https://www.albumoftheyear.org/album/1739584-gif-from-god-dissimulation.php",
         "source": "AOTY"
     },
     {
@@ -6443,7 +5939,7 @@
         "artist": "Midwinter",
         "album": "A Love I Hope Will Haunt Me Forever",
         "release_date": "2026-04-16",
-        "genre": "Metalcore",
+        "genre": "Metalcore, Djent",
         "url": "https://www.albumoftheyear.org/album/1757897-midwinter-a-love-i-hope-will-haunt-me-forever.php",
         "source": "AOTY"
     },
@@ -6451,7 +5947,7 @@
         "artist": "Maria of Copper Mountains",
         "album": "В чёрны омуты",
         "release_date": "2026-04-16",
-        "genre": "Black Metal",
+        "genre": "Black Metal, Metal",
         "url": "https://musicbrainz.org/release/f480d8ef-0d7c-4f07-ae7a-46301a1b5937",
         "source": "MusicBrainz"
     },
@@ -6504,19 +6000,19 @@
         "source": "AOTY"
     },
     {
-        "artist": "Eyes of The Beholder",
-        "album": "In The Eyes of The Beholder",
-        "release_date": "2026-04-13",
-        "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1777490-eyes-of-the-beholder-in-the-eyes-of-the-beholder.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "Unbroken Reign",
         "album": "The Sins We Keep Alive",
         "release_date": "2026-04-13",
         "genre": "Metalcore",
         "url": "https://www.albumoftheyear.org/album/1731692-unbroken-reign-the-sins-we-keep-alive.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Eyes of The Beholder",
+        "album": "In The Eyes of The Beholder",
+        "release_date": "2026-04-13",
+        "genre": "Metalcore",
+        "url": "https://www.albumoftheyear.org/album/1777490-eyes-of-the-beholder-in-the-eyes-of-the-beholder.php",
         "source": "AOTY"
     },
     {
@@ -6528,19 +6024,19 @@
         "source": "MusicBrainz"
     },
     {
-        "artist": "Melechesh",
-        "album": "Sentinels of Shamash",
-        "release_date": "2026-04-10",
-        "genre": "Black Metal",
-        "url": "https://www.albumoftheyear.org/album/1677562-melechesh-sentinels-of-shamash.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "Silaera",
         "album": "An Aberration of the Void",
         "release_date": "2026-04-10",
         "genre": "Black Metal",
         "url": "https://www.albumoftheyear.org/album/1689865-silaera-an-aberration-of-the-void.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Melechesh",
+        "album": "Sentinels of Shamash",
+        "release_date": "2026-04-10",
+        "genre": "Black Metal",
+        "url": "https://www.albumoftheyear.org/album/1677562-melechesh-sentinels-of-shamash.php",
         "source": "AOTY"
     },
     {
@@ -6608,19 +6104,27 @@
         "source": "AOTY"
     },
     {
+        "artist": "A Knife In The Dark",
+        "album": "Songs Without Witness",
+        "release_date": "2026-04-10",
+        "genre": "Metalcore",
+        "url": "https://www.albumoftheyear.org/album/1767981-a-knife-in-the-dark-songs-without-witness.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Hamadryas",
+        "album": "Hamadryas",
+        "release_date": "2026-04-10",
+        "genre": "Metalcore, Djent",
+        "url": "https://www.albumoftheyear.org/album/1789117-hamadryas-hamadryas.php",
+        "source": "AOTY"
+    },
+    {
         "artist": "MIRE",
         "album": "Pale Reflection",
         "release_date": "2026-04-10",
         "genre": "Metalcore, Progressive Metal",
         "url": "https://www.albumoftheyear.org/album/1693733-mire-pale-reflection.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "The Mechanist",
-        "album": "Synthetic Sun",
-        "release_date": "2026-04-10",
-        "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1768476-the-mechanist-synthetic-sun.php",
         "source": "AOTY"
     },
     {
@@ -6640,19 +6144,11 @@
         "source": "AOTY"
     },
     {
-        "artist": "Hamadryas",
-        "album": "Hamadryas",
+        "artist": "The Mechanist",
+        "album": "Synthetic Sun",
         "release_date": "2026-04-10",
-        "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1789117-hamadryas-hamadryas.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "A Knife In The Dark",
-        "album": "Songs Without Witness",
-        "release_date": "2026-04-10",
-        "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1767981-a-knife-in-the-dark-songs-without-witness.php",
+        "genre": "Metalcore, Djent",
+        "url": "https://www.albumoftheyear.org/album/1768476-the-mechanist-synthetic-sun.php",
         "source": "AOTY"
     },
     {
@@ -6672,14 +6168,6 @@
         "source": "AOTY"
     },
     {
-        "artist": "Nukem",
-        "album": "The Grave Remains",
-        "release_date": "2026-04-10",
-        "genre": "Thrash Metal",
-        "url": "https://www.albumoftheyear.org/album/1766350-nukem-the-grave-remains.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "Metal Church",
         "album": "Dead To Rights",
         "release_date": "2026-04-10",
@@ -6688,10 +6176,26 @@
         "source": "AOTY"
     },
     {
+        "artist": "Nukem",
+        "album": "The Grave Remains",
+        "release_date": "2026-04-10",
+        "genre": "Thrash Metal",
+        "url": "https://www.albumoftheyear.org/album/1766350-nukem-the-grave-remains.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Warsenal",
+        "album": "Endless Beginnings",
+        "release_date": "2026-04-10",
+        "genre": "Thrash Metal",
+        "url": "https://www.albumoftheyear.org/album/1650451-warsenal-endless-beginnings.php",
+        "source": "AOTY"
+    },
+    {
         "artist": "Astral Spectre",
         "album": "Cosmic Mirage",
         "release_date": "2026-04-10",
-        "genre": "Black Metal",
+        "genre": "Black Metal, Metal",
         "url": "https://musicbrainz.org/release/31e12807-2d08-4201-9953-5e19f9bd1213",
         "source": "MusicBrainz"
     },
@@ -6715,7 +6219,7 @@
         "artist": "Godspear",
         "album": "Turn to the Light",
         "release_date": "2026-04-10",
-        "genre": "Power Metal",
+        "genre": "Power Metal, Metal",
         "url": "https://musicbrainz.org/release/954900ef-181d-48c7-b3f7-167a7fcd5732",
         "source": "MusicBrainz"
     },
@@ -6837,190 +6341,6 @@
         "release_date": "2026-04-05",
         "genre": "Metalcore",
         "url": "https://musicbrainz.org/release/7632291a-086e-4741-9d60-171efae4bdbd",
-        "source": "MusicBrainz"
-    },
-    {
-        "artist": "Hiiden Hirvi",
-        "album": "Fallen Stars",
-        "release_date": "2026-04-04",
-        "genre": "Black Metal, Metal",
-        "url": "https://musicbrainz.org/release/77610a6c-8b6b-45d1-a02f-c30f59ba7aac",
-        "source": "MusicBrainz"
-    },
-    {
-        "artist": "I-V-f-Y",
-        "album": "RE-IMAGINED FORMS",
-        "release_date": "2026-04-04",
-        "genre": "Death Metal, Metalcore, Metal, Djent",
-        "url": "https://musicbrainz.org/release/2b6ef8bc-6a2b-41cd-806d-f0cd33c957e1",
-        "source": "MusicBrainz"
-    },
-    {
-        "artist": "Parade the Bug",
-        "album": "Ascension",
-        "release_date": "2026-04-04",
-        "genre": "Doom Metal, Thrash Metal, Metal",
-        "url": "https://musicbrainz.org/release/f5f0add9-8b49-43c3-8384-bb9f627e5d26",
-        "source": "MusicBrainz"
-    },
-    {
-        "artist": "Non Est Deus",
-        "album": "Blessings and Curses",
-        "release_date": "2026-04-03",
-        "genre": "Black Metal",
-        "url": "https://www.albumoftheyear.org/album/1657859-non-est-deus-blessings-and-curses.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Crotaline",
-        "album": "The Embrace of Cloacal Desire",
-        "release_date": "2026-04-03",
-        "genre": "Black Metal",
-        "url": "https://www.albumoftheyear.org/album/1693184-crotaline-the-embrace-of-cloacal-desire.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Vertige",
-        "album": "Chute-Libre",
-        "release_date": "2026-04-03",
-        "genre": "Black Metal",
-        "url": "https://www.albumoftheyear.org/album/1741136-vertige-chute-libre.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "DIM",
-        "album": "The Veins of A Hidden Stair",
-        "release_date": "2026-04-03",
-        "genre": "Black Metal, Metal",
-        "url": "https://www.albumoftheyear.org/album/1768066-dim-the-veins-of-a-hidden-stair.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Nervosa",
-        "album": "Slave Machine",
-        "release_date": "2026-04-03",
-        "genre": "Death Metal, Melodic Death Metal",
-        "url": "https://www.albumoftheyear.org/album/1653040-nervosa-slave-machine.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Onchocerciasis Esophagogastroduodenoscopy",
-        "album": "Fugue Gnawed From the Scabbed God Cerebrum",
-        "release_date": "2026-04-03",
-        "genre": "Death Metal",
-        "url": "https://www.albumoftheyear.org/album/1742480-onchocerciasis-esophagogastroduodenoscopy-fugue-gnawed-from-the-scabbed-god-cerebrum.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Towering",
-        "album": "The Oblation of Man",
-        "release_date": "2026-04-03",
-        "genre": "Death Metal",
-        "url": "https://www.albumoftheyear.org/album/1689861-towering-the-oblation-of-man.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Solnegre",
-        "album": "Anthems for the Grand Collapse",
-        "release_date": "2026-04-03",
-        "genre": "Doom Metal",
-        "url": "https://www.albumoftheyear.org/album/1742524-solnegre-anthems-for-the-grand-collapse.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Splendidula",
-        "album": "Absentia",
-        "release_date": "2026-04-03",
-        "genre": "Doom Metal, Gothic Metal",
-        "url": "https://www.albumoftheyear.org/album/1715259-splendidula-absentia.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Unearthly Rites",
-        "album": "Tortural Symphony Of The Flesh",
-        "release_date": "2026-04-03",
-        "genre": "Doom Metal",
-        "url": "https://www.albumoftheyear.org/album/1742522-unearthly-rites-tortural-symphony-of-the-flesh.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Green Carnation",
-        "album": "A Dark Poem, Part II: Saguis",
-        "release_date": "2026-04-03",
-        "genre": "Gothic Metal, Progressive Metal",
-        "url": "https://www.albumoftheyear.org/album/1674506-green-carnation-a-dark-poem-part-ii-saguis.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Division of Mind",
-        "album": "Exoterror",
-        "release_date": "2026-04-03",
-        "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1746981-division-of-mind-exoterror.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Houses We Die In",
-        "album": "A Brief Glimpse of Solace",
-        "release_date": "2026-04-03",
-        "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1678609-houses-we-die-in-a-brief-glimpse-of-solace.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Malauriu",
-        "album": "The Third Nail",
-        "release_date": "2026-04-03",
-        "genre": "Black Metal",
-        "url": "https://musicbrainz.org/release/4a936d30-e2ba-402e-a406-f94bb8e82b50",
-        "source": "MusicBrainz"
-    },
-    {
-        "artist": "The Lonely",
-        "album": "Beyond The Wounds",
-        "release_date": "2026-04-03",
-        "genre": "Black Metal, Metal",
-        "url": "https://musicbrainz.org/release/cbd394e9-231a-4320-8ecd-b7fb56de59cd",
-        "source": "MusicBrainz"
-    },
-    {
-        "artist": "Edge of Sanity",
-        "album": "Elegy – Chapter II",
-        "release_date": "2026-04-03",
-        "genre": "Death Metal, Melodic Death Metal",
-        "url": "https://musicbrainz.org/release/52b56413-b2ab-40de-b5a9-0e3dea858310",
-        "source": "MusicBrainz"
-    },
-    {
-        "artist": "Edge of Sanity",
-        "album": "Cryptic",
-        "release_date": "2026-04-03",
-        "genre": "Death Metal, Melodic Death Metal",
-        "url": "https://musicbrainz.org/release/6e993961-f8f8-449b-b990-a39a5a934678",
-        "source": "MusicBrainz"
-    },
-    {
-        "artist": "Various Artists",
-        "album": "Weedian: The Best Releases of March 2026",
-        "release_date": "2026-04-03",
-        "genre": "Doom Metal, Metal",
-        "url": "https://musicbrainz.org/release/a7a483ab-2807-49d0-a0e1-e76fe93cc857",
-        "source": "MusicBrainz"
-    },
-    {
-        "artist": "Sunn O)))",
-        "album": "Sunn O)))",
-        "release_date": "2026-04-03",
-        "genre": "Doom Metal, Metal",
-        "url": "https://musicbrainz.org/release/433b8461-1588-4042-ba2c-f7c83917e82d",
-        "source": "MusicBrainz"
-    },
-    {
-        "artist": "Doodseskader",
-        "album": "The Change Is Me",
-        "release_date": "2026-04-03",
-        "genre": "Metalcore",
-        "url": "https://musicbrainz.org/release/bfc8581a-e50b-43c7-b37b-52261420026a",
         "source": "MusicBrainz"
     }
 ]
