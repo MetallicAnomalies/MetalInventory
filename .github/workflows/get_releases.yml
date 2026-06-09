@@ -2,7 +2,7 @@ name: Get Metal Releases
 
 on:
   schedule:
-    - cron: '0 6 * * 1,3,5'
+    - cron: '0 6 * * 3,5'
   workflow_dispatch:
 
 jobs:
@@ -35,7 +35,7 @@ jobs:
         run: |
           python scripts/metal_releases.py
           python scripts/heavy_metal_calendar.py
-          # python scripts/metal_archives.py
+          python scripts/metal_archives.py
 
       - name: 5. Commit and Push Results
         run: |

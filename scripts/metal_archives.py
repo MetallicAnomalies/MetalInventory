@@ -4,9 +4,18 @@ Metal Archives Upcoming Releases Scraper
 Fetches upcoming metal releases from the Metal Archives AJAX endpoint
 and merges them into the existing metal_releases.json file.
 
-Date range: last 2 weeks → next 2 months (relative to today at runtime).
+Modes:
+  pipeline (default) – today → +60 days.  Used in CI; avoids hammering
+                       the site for already-committed historical data.
+  backfill           – today -14 days → +60 days.  Run locally once to
+                       seed the JSON with recently-released albums.
+
+Usage:
+  python metal_archives.py                  # pipeline mode
+  python metal_archives.py --mode backfill  # local back-fill
 """
 
+import argparse
 import json
 import time
 import re
@@ -22,12 +31,8 @@ MA_AJAX_URL = (
 )
 
 MA_HEADERS = {
-    # Metal Archives requires a browser-like User-Agent to avoid 403s
-    "User-Agent": (
-        "scrobex/1.0 ( action@github.com ) Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/124.0.0.0 Safari/537.36"
-    ),
+    # "Scrobex" is whitelisted by the Metal Archives admin (HellBlazer) to bypass Cloudflare
+    "User-Agent": "Scrobex",
     "Accept": "application/json, text/javascript, */*; q=0.01",
     "X-Requested-With": "XMLHttpRequest",
     "Referer": "https://www.metal-archives.com/",
@@ -114,16 +119,19 @@ def _parse_genres(raw: str) -> list[str]:
     return unique
 
 
-def _build_date_range() -> tuple[str, str]:
+def _build_date_range(mode: str = "pipeline") -> tuple[str, str]:
     """
     Returns (from_date, to_date) as 'YYYY-MM-DD' strings.
 
-    from_date : today  -  14 days  (last 2 weeks)
-    to_date   : today  +  60 days  (next 2 months)
+    pipeline  – today → +60 days (no lookback; CI-safe)
+    backfill  – today -14 days → +60 days (local seeding run)
     """
     today = datetime.utcnow()
-    from_date = (today - timedelta(weeks=2)).strftime("%Y-%m-%d")
-    to_date   = (today + timedelta(days=60)).strftime("%Y-%m-%d")
+    if mode == "backfill":
+        from_date = (today - timedelta(days=14)).strftime("%Y-%m-%d")
+    else:
+        from_date = today.strftime("%Y-%m-%d")
+    to_date = (today + timedelta(days=60)).strftime("%Y-%m-%d")
     return from_date, to_date
 
 
@@ -157,7 +165,11 @@ def _fetch_page(session: requests.Session, from_date: str, to_date: str,
         "_":              int(datetime.utcnow().timestamp() * 1000),
     }
 
-    resp = session.get(MA_AJAX_URL, headers=MA_HEADERS, params=params, timeout=20)
+    req = requests.Request("GET", MA_AJAX_URL, headers=MA_HEADERS, params=params)
+    prepared = session.prepare_request(req)
+    print(f"[MetalArchives] Full URL: {prepared.url}")
+
+    resp = session.send(prepared, timeout=20)
     resp.raise_for_status()
     return resp.json()
 
@@ -218,13 +230,13 @@ def _parse_rows(rows: list[list]) -> list[dict]:
 # Main
 # ---------------------------------------------------------------------------
 
-def fetch_metal_archives_releases() -> list[dict]:
+def fetch_metal_archives_releases(mode: str = "pipeline") -> list[dict]:
     """
     Paginate through the Metal Archives upcoming-releases endpoint and
     return a list of normalised release dicts.
     """
-    from_date, to_date = _build_date_range()
-    print(f"[MetalArchives] Date range: {from_date} → {to_date}")
+    from_date, to_date = _build_date_range(mode)
+    print(f"[MetalArchives] Mode: {mode} | Date range: {from_date} → {to_date}")
 
     session = requests.Session()
     all_releases: list[dict] = []
@@ -237,6 +249,10 @@ def fetch_metal_archives_releases() -> list[dict]:
             data = _fetch_page(session, from_date, to_date, offset, echo)
         except requests.RequestException as exc:
             print(f"\n[MetalArchives] Request failed at offset={offset}: {exc}")
+            if exc.response is not None:
+                print(f"[MetalArchives] Response status : {exc.response.status_code}")
+                print(f"[MetalArchives] Response headers: {dict(exc.response.headers)}")
+                print(f"[MetalArchives] Response body   :\n{exc.response.text}")
             break
 
         rows        = data.get("aaData", [])
@@ -251,7 +267,7 @@ def fetch_metal_archives_releases() -> list[dict]:
             break
 
         # Be polite – Metal Archives rate-limits aggressively
-        time.sleep(1.5)
+        time.sleep(5)
 
     print(f"\n[MetalArchives] Fetched {len(all_releases)} releases.")
     return all_releases
@@ -301,7 +317,16 @@ def merge_into_output(new_releases: list[dict]) -> None:
 
 
 if __name__ == "__main__":
-    releases = fetch_metal_archives_releases()
+    parser = argparse.ArgumentParser(description="Metal Archives release scraper")
+    parser.add_argument(
+        "--mode",
+        choices=["pipeline", "backfill"],
+        default="pipeline",
+        help="pipeline: today→+60d (CI default).  backfill: -14d→+60d (local seeding).",
+    )
+    args = parser.parse_args()
+
+    releases = fetch_metal_archives_releases(mode=args.mode)
     if releases:
         merge_into_output(releases)
     else:
