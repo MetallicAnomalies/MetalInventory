@@ -6833,6 +6833,14 @@
         "source": "MetalArchives"
     },
     {
+        "artist": "ASTERICKS.0",
+        "album": "British Cigarette (Director's Cut)",
+        "release_date": "2026-06-08",
+        "genre": "Metal",
+        "url": "https://www.albumoftheyear.org/album/1860604-astericks0-british-cigarette-directors-cut.php",
+        "source": "AOTY"
+    },
+    {
         "artist": "Argahal",
         "album": "The Path of the Lonely Man",
         "release_date": "2026-06-07",
@@ -8495,9 +8503,9 @@
         "artist": "100 Demons",
         "album": "Embrace The Black Light",
         "release_date": "2026-06-05",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
+        "genre": "Metalcore, Metal",
+        "url": "https://www.albumoftheyear.org/album/1785373-100-demons-embrace-the-black-light.php",
+        "source": "AOTY"
     },
     {
         "artist": "The 69 Eyes",
@@ -8559,9 +8567,9 @@
         "artist": "Apostle",
         "album": "A Splinter In The Infinite Noumenon",
         "release_date": "2026-06-05",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
+        "genre": "Black Metal, Metal",
+        "url": "https://www.albumoftheyear.org/album/1714782-apostle-a-splinter-in-the-infinite-noumenon.php",
+        "source": "AOTY"
     },
     {
         "artist": "Art|est",
@@ -9185,15 +9193,9 @@
         "artist": "Bloody Falls",
         "album": "IV",
         "release_date": "2026-06-05",
-        "genre": "Groove Melodic Death Metal, Melodic Death Metal",
-        "genre_list": [
-            "Groove Melodic Death Metal",
-            "Melodic Death Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-03-16 13:12:34",
-        "url": "https://www.metal-archives.com/albums/Bloody_Falls/IV/1419950",
-        "source": "MetalArchives"
+        "genre": "Death Metal, Melodic Death Metal, Metal",
+        "url": "https://www.albumoftheyear.org/album/1729705-bloody-falls-iv.php",
+        "source": "AOTY"
     },
     {
         "artist": "Neishe",
@@ -11093,7 +11095,7 @@
         "release_date": "2026-06-03",
         "genre": "Doom Metal",
         "url": "https://musicbrainz.org/release/7087d8e0-c79e-4359-945a-21fb2aa10856",
-        "source": "MusicBrainz, MetalArchives"
+        "source": "MusicBrainz"
     },
     {
         "artist": "Curse Prayer",
@@ -12976,6 +12978,14 @@
         "source": "MusicBrainz"
     },
     {
+        "artist": "Floccinaucinihilipilification",
+        "album": "Self Induced Extracranial Hemorrhaging",
+        "release_date": "2026-06-01",
+        "genre": "Metal",
+        "url": "https://www.albumoftheyear.org/album/1852278-floccinaucinihilipilification-self-induced-extracranial-hemorrhaging.php",
+        "source": "AOTY"
+    },
+    {
         "artist": "Phlegethon Temple",
         "album": "Crossing the Ancient Empire of Mysticism",
         "release_date": "2026-05-31",
@@ -14000,7 +14010,7 @@
         "album": "...by The Word...",
         "release_date": "2026-05-29",
         "genre": "Black Metal, Metal",
-        "url": "https://www.albumoftheyear.org/album/1667512-hecate-enthroned-the-corpse-of-a-titan-a-lament-long-buried.php",
+        "url": "https://www.albumoftheyear.org/album/1743814-trelldom-by-the-word.php",
         "source": "AOTY"
     },
     {
@@ -14016,7 +14026,7 @@
         "album": "The Corpse of a Titan, A Lament Long Buried",
         "release_date": "2026-05-29",
         "genre": "Black Metal, Metal",
-        "url": "https://www.albumoftheyear.org/album/1743814-trelldom-by-the-word.php",
+        "url": "https://www.albumoftheyear.org/album/1667512-hecate-enthroned-the-corpse-of-a-titan-a-lament-long-buried.php",
         "source": "AOTY"
     },
     {
@@ -14025,7 +14035,7 @@
         "release_date": "2026-05-29",
         "genre": "Black Metal, Metal",
         "url": "https://www.albumoftheyear.org/album/1822929-windswept-howling-in-baptismal-filth.php",
-        "source": "AOTY, MetalArchives"
+        "source": "AOTY"
     },
     {
         "artist": "Funebrarum",
@@ -14033,7 +14043,7 @@
         "release_date": "2026-05-29",
         "genre": "Death Metal, Metal",
         "url": "https://www.albumoftheyear.org/album/1729521-funebrarum-beckoning-the-void-of-eternal-silence.php",
-        "source": "AOTY, MetalArchives"
+        "source": "AOTY"
     },
     {
         "artist": "Pharmacist",
@@ -14041,7 +14051,7 @@
         "release_date": "2026-05-29",
         "genre": "Death Metal, Metal",
         "url": "https://www.albumoftheyear.org/album/1801543-pharmacist-vertebrae-after-vertebrae.php",
-        "source": "AOTY, MetalArchives"
+        "source": "AOTY"
     },
     {
         "artist": "The Scalar Process",
@@ -14057,7 +14067,7 @@
         "release_date": "2026-05-29",
         "genre": "Death Metal, Metal",
         "url": "https://www.albumoftheyear.org/album/1765098-ablation-lethal-abuse.php",
-        "source": "AOTY, MetalArchives"
+        "source": "AOTY"
     },
     {
         "artist": "GUTRECTOMY",
@@ -14073,7 +14083,7 @@
         "release_date": "2026-05-29",
         "genre": "Doom Metal, Metal",
         "url": "https://www.albumoftheyear.org/album/1751689-monolord-neverending.php",
-        "source": "AOTY, MetalArchives"
+        "source": "AOTY"
     },
     {
         "artist": "Godthrymm",
@@ -14081,7 +14091,7 @@
         "release_date": "2026-05-29",
         "genre": "Doom Metal, Metal",
         "url": "https://www.albumoftheyear.org/album/1745697-godthrymm-projections.php",
-        "source": "AOTY, MetalArchives"
+        "source": "AOTY"
     },
     {
         "artist": "Dark Divine",
@@ -14097,7 +14107,7 @@
         "release_date": "2026-05-29",
         "genre": "Metalcore, Metal",
         "url": "https://www.albumoftheyear.org/album/1749943-balmora-these-graven-halls.php",
-        "source": "AOTY, MetalArchives"
+        "source": "AOTY"
     },
     {
         "artist": "Healing Wound",
@@ -14113,7 +14123,7 @@
         "release_date": "2026-05-29",
         "genre": "Thrash Metal, Metal",
         "url": "https://www.albumoftheyear.org/album/1746760-eternal-evil-forever-feared.php",
-        "source": "AOTY, MetalArchives"
+        "source": "AOTY"
     },
     {
         "artist": "Devin Townsend",
@@ -14121,7 +14131,7 @@
         "release_date": "2026-05-29",
         "genre": "Symphonic Metal, Metal",
         "url": "https://www.albumoftheyear.org/album/1721777-devin-townsend-the-moth.php",
-        "source": "AOTY, MetalArchives"
+        "source": "AOTY"
     },
     {
         "artist": "ANA",
@@ -14160,7 +14170,7 @@
         "album": "Defeating The Oblivion Of Life",
         "release_date": "2026-05-29",
         "genre": "Death Metal",
-        "url": "https://musicbrainz.org/release/35bfafd4-2aca-41c9-84a0-c6a5ec541702",
+        "url": "https://musicbrainz.org/release/2476a70c-ebc9-447e-8f30-84feacb2f930",
         "source": "MusicBrainz"
     },
     {
@@ -14175,9 +14185,9 @@
         "artist": "Mitosis",
         "album": "FUBAR",
         "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
+        "genre": "Thrash Metal, Metal",
+        "url": "https://musicbrainz.org/release/5c5dfa34-8849-4bb9-8ceb-24c39fcd799a",
+        "source": "MusicBrainz"
     },
     {
         "artist": "Acacia Avenue",
@@ -14383,9 +14393,9 @@
         "artist": "Graveir",
         "album": "The Festering Triad",
         "release_date": "2026-05-29",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
+        "genre": "Black Metal, Metal",
+        "url": "https://www.albumoftheyear.org/album/1807339-graveir-the-festering-triad.php",
+        "source": "AOTY"
     },
     {
         "artist": "Hanry",
@@ -16478,6 +16488,14 @@
         "source": "MetalArchives"
     },
     {
+        "artist": "Joel H Bulsara",
+        "album": "Hastur The King",
+        "release_date": "2026-05-29",
+        "genre": "Doom Metal, Progressive Metal",
+        "url": "https://musicbrainz.org/release/4f5fc5fb-3c7e-42a6-b416-51e02c40c33c",
+        "source": "MusicBrainz"
+    },
+    {
         "artist": "Sulfuric Cautery",
         "album": "Sulfuric Cautery / Tolerance",
         "release_date": "2026-05-28",
@@ -17145,7 +17163,7 @@
         "release_date": "2026-05-27",
         "genre": "Black Metal, Metal",
         "url": "https://www.albumoftheyear.org/album/1760768-fields-of-agony-fields-of-agony.php",
-        "source": "AOTY, MetalArchives"
+        "source": "AOTY"
     },
     {
         "artist": "Galvanist",
@@ -17153,7 +17171,7 @@
         "release_date": "2026-05-27",
         "genre": "Doom Metal, Metal",
         "url": "https://www.albumoftheyear.org/album/1840159-galvanist-the-silence-between-stars.php",
-        "source": "AOTY, MetalArchives"
+        "source": "AOTY"
     },
     {
         "artist": "Albion",
@@ -18314,7 +18332,7 @@
         "artist": "Deathstorm",
         "album": "Cascophonies",
         "release_date": "2026-05-22",
-        "genre": "Death Metal, Thrash Metal, Metal",
+        "genre": "Death Metal, Thrash Metal",
         "url": "https://www.albumoftheyear.org/album/1832605-deathstorm-cascophonies.php",
         "source": "AOTY"
     },
@@ -18322,7 +18340,7 @@
         "artist": "Fournier",
         "album": "Fournier",
         "release_date": "2026-05-22",
-        "genre": "Death Metal, Metal",
+        "genre": "Death Metal",
         "url": "https://www.albumoftheyear.org/album/1755620-fournier-fournier.php",
         "source": "AOTY"
     },
@@ -18330,7 +18348,7 @@
         "artist": "Impure Conception",
         "album": "Prelude to Agony...",
         "release_date": "2026-05-22",
-        "genre": "Death Metal, Metal",
+        "genre": "Death Metal",
         "url": "https://www.albumoftheyear.org/album/1833082-impure-conception-prelude-to-agony.php",
         "source": "AOTY"
     },
@@ -18509,6 +18527,14 @@
         "genre": "Metalcore, Metal",
         "url": "https://musicbrainz.org/release/597e89ec-b144-4362-9c11-dde9560a1320",
         "source": "MusicBrainz"
+    },
+    {
+        "artist": "The Crimson Armada",
+        "album": "Elements Volume I: The Abyssal Depths",
+        "release_date": "2026-05-20",
+        "genre": "Death Metal, Melodic Death Metal, Metalcore",
+        "url": "https://www.albumoftheyear.org/album/1832171-the-crimson-armada-elements-volume-i-the-abyssal-depths.php",
+        "source": "AOTY"
     },
     {
         "artist": "Saint Delirium",
