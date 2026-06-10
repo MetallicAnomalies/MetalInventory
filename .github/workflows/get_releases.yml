@@ -36,6 +36,7 @@ jobs:
           python scripts/metal_releases.py
           python scripts/heavy_metal_calendar.py
           python scripts/metal_archives.py
+          python scripts/cleanup_old_releases.py
 
       - name: 5. Commit and Push Results
         run: |

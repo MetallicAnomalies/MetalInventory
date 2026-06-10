@@ -287,13 +287,13 @@ def merge_into_output(new_releases: list[dict]) -> None:
 
     # Build dedup map keyed on (lower artist, lower album)
     albums_map: dict[tuple, dict] = {
-        (item["artist"].lower(), item["album"].lower()): item
+        (item["artist"].strip().lower(), item["album"].strip().lower()): item
         for item in existing
     }
 
     added = 0
     for rel in new_releases:
-        key = (rel["artist"].lower(), rel["album"].lower())
+        key = (rel["artist"].strip().lower(), rel["album"].strip().lower())
         if key not in albums_map:
             albums_map[key] = rel
             added += 1

@@ -249,13 +249,32 @@ def scrape_releases():
     # =========================================================================
     # SAVE OUTPUT
     # =========================================================================
-    final_output = []
+    try:
+        with open('metal_releases.json', 'r', encoding='utf-8') as f:
+            existing_data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        existing_data = []
+
+    existing_map = {}
+    for item in existing_data:
+        artist_norm = item.get('artist', '').lower().strip()
+        album_norm = item.get('album', '').lower().strip()
+        if artist_norm and album_norm:
+            existing_map[(artist_norm, album_norm)] = item
+
     for item in albums_map.values():
         item_copy = item.copy()
-        del item_copy['genre_list'] 
-        final_output.append(item_copy)
-    
-    final_output.sort(key=lambda x: x['release_date'], reverse=True)
+        if 'genre_list' in item_copy:
+            del item_copy['genre_list']
+        
+        artist_norm = item_copy.get('artist', '').lower().strip()
+        album_norm = item_copy.get('album', '').lower().strip()
+        
+        # Overwrite or add
+        existing_map[(artist_norm, album_norm)] = item_copy
+
+    final_output = list(existing_map.values())
+    final_output.sort(key=lambda x: x.get('release_date', '0000-00-00'), reverse=True)
 
     with open('metal_releases.json', 'w', encoding='utf-8') as f:
         json.dump(final_output, f, indent=4, ensure_ascii=False)
