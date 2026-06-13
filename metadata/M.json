@@ -21158,7 +21158,6 @@
         "year": "2004",
         "genres": [
           "Pop Rock",
-          "Non-music",
           "Alternative Rock",
           "Rock",
           "Interview"
@@ -21186,7 +21185,6 @@
       "Pop Rock",
       "Soft Rock",
       "Rock",
-      "Non-music",
       "Interview",
       "Post-grunge"
     ]
@@ -29305,7 +29303,6 @@
           "Experimental",
           "Electronic",
           "Punk",
-          "Non-music",
           "Alternative Metal",
           "Thrash Metal",
           "Spoken Word",
@@ -29321,7 +29318,6 @@
       "Experimental",
       "Electronic",
       "Punk",
-      "Non-music",
       "Alternative Metal",
       "Thrash Metal",
       "Spoken Word"
@@ -32273,7 +32269,6 @@
           "Dark Ambient",
           "Electronic",
           "Experimental",
-          "Non-music",
           "Spoken Word"
         ]
       }
@@ -32283,7 +32278,6 @@
       "Dark Ambient",
       "Electronic",
       "Experimental",
-      "Non-music",
       "Spoken Word"
     ]
   },
@@ -44421,23 +44415,20 @@
         "name": "משהו טוב לילדים",
         "year": "1987",
         "genres": [
-          "Children's",
-          "Non-music"
+          "Children's"
         ]
       },
       {
         "name": "שירי הילדים הגדולים בכל הזמנים",
         "year": "1987",
         "genres": [
-          "Children's",
-          "Non-music"
+          "Children's"
         ]
       }
     ],
     "origin": "US",
     "tags": [
-      "Children's",
-      "Non-music"
+      "Children's"
     ]
   },
   "Miksha": {

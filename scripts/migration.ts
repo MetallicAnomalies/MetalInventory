@@ -164,6 +164,14 @@ const SHORTHAND_METAL: Record<string, string> = {
 };
 
 /**
+ * Genre values that are Discogs classifications rather than music genres.
+ * These are stripped wherever genres/tags are normalised.
+ */
+const BLOCKED_GENRES = new Set([
+    'Non-music',
+]);
+
+/**
  * Expand a single genre/tag string using the shorthand map.
  * Returns the canonical form if found, otherwise the original string.
  */
@@ -172,9 +180,9 @@ function normaliseGenre(genre: string): string {
     return SHORTHAND_METAL[key] ?? genre;
 }
 
-/** Apply normaliseGenre() to every entry in an array, removing duplicates. */
+/** Apply normaliseGenre() to every entry in an array, removing duplicates and blocked genres. */
 function normaliseGenres(genres: string[]): string[] {
-    return [...new Set(genres.map(normaliseGenre))];
+    return [...new Set(genres.map(normaliseGenre).filter(g => !BLOCKED_GENRES.has(g)))];
 }
 
 const SOURCE_DIR = './metadata';

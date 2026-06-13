@@ -54,6 +54,9 @@ METAL_STYLE_KEYWORDS: set[str] = {
 
 GENERIC_METAL: set[str] = {"metal"}
 
+# Discogs content classifications that are not actual music genres.
+BLOCKED_GENRES: set[str] = {"Non-music"}
+
 
 def is_metal_style(style: str) -> bool:
     s = style.lower().strip()
@@ -575,10 +578,13 @@ def normalise_styles(styles: set[str]) -> list[str]:
     """
     Expand shorthand styles to full metal names (e.g. 'Thrash' -> 'Thrash Metal').
     Drop the generic 'Metal' entry when a more specific metal subgenre is
-    present.
+    present. Also strips Discogs content classifications (BLOCKED_GENRES).
     """
     formatted_styles = set()
     for s in styles:
+        # Drop blocked Discogs classifications (e.g. 'Non-music')
+        if s in BLOCKED_GENRES:
+            continue
         s_lower = s.lower().strip()
         if s_lower in _SHORTHAND_METAL:
             formatted_styles.add(_SHORTHAND_METAL[s_lower])
