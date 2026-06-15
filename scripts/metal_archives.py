@@ -16,6 +16,7 @@ Usage:
 """
 
 import argparse
+import sys
 import json
 import time
 import re
@@ -253,7 +254,11 @@ def fetch_metal_archives_releases(mode: str = "pipeline") -> list[dict]:
                 print(f"[MetalArchives] Response status : {exc.response.status_code}")
                 print(f"[MetalArchives] Response headers: {dict(exc.response.headers)}")
                 print(f"[MetalArchives] Response body   :\n{exc.response.text}")
-            break
+                # Cloudflare challenge — datacenter IP blocked, not a transient error
+                if exc.response.status_code == 403 and "cf-mitigated" in exc.response.headers:
+                    print("[MetalArchives] Cloudflare bot-fight-mode challenge detected. "
+                          "Requests must originate from a residential IP (self-hosted runner).")
+            sys.exit(1)
 
         rows        = data.get("aaData", [])
         total       = data.get("iTotalRecords", 0)
