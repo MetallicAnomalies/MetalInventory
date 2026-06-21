@@ -108,6 +108,22 @@
     ]
   },
   {
+    "normalizedName": "armaggedon",
+    "displayName": "Armaggedon",
+    "albums": [
+      {
+        "name": "Black Cult of Eternal Hate (Desecrate their Prophets)",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "aslightdies",
     "displayName": "As Light Dies",
     "albums": [
@@ -313,6 +329,18 @@
       "Heavy Metal",
       "Speed Metal"
     ]
+  },
+  {
+    "normalizedName": "blodtar",
+    "displayName": "Blodtår",
+    "albums": [
+      {
+        "name": "Monark",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "blueheron",
@@ -886,7 +914,7 @@
       },
       {
         "name": "Foundling",
-        "year": "2010-08-16",
+        "year": "2010",
         "genres": [
           "Pop"
         ]
@@ -1054,6 +1082,18 @@
     "tags": [
       "Melodic Death Metal"
     ]
+  },
+  {
+    "normalizedName": "ded",
+    "displayName": "Ded",
+    "albums": [
+      {
+        "name": "Resent Deluxe Edition",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "dermotkennedy",
@@ -1599,6 +1639,24 @@
     "tags": [
       "Black Metal",
       "Grindcore"
+    ]
+  },
+  {
+    "normalizedName": "graveworms",
+    "displayName": "Graveworms",
+    "albums": [
+      {
+        "name": "Rotten to the Core",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Hardcore Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Hardcore Punk"
     ]
   },
   {
@@ -2276,6 +2334,22 @@
     "tags": [
       "Gothic Rock",
       "Gothic Metal"
+    ]
+  },
+  {
+    "normalizedName": "kaevumorderofthedeathshead",
+    "displayName": "Kaevum/Order of the Death's Head",
+    "albums": [
+      {
+        "name": "Décomposition / Abstand",
+        "year": "2026",
+        "genres": [
+          "Black Metal | Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal | Black Metal"
     ]
   },
   {
@@ -3503,6 +3577,22 @@
     ]
   },
   {
+    "normalizedName": "routahauta",
+    "displayName": "Routahauta",
+    "albums": [
+      {
+        "name": "22 vuotta routaa",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "rowsdower",
     "displayName": "Rowsdower",
     "albums": [
@@ -4626,6 +4716,11 @@
         "genres": [
           "Rock"
         ]
+      },
+      {
+        "name": "Dear God",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

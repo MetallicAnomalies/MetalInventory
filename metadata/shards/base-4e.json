@@ -133,33 +133,6 @@
     ]
   },
   {
-    "normalizedName": "æmber",
-    "displayName": "Æmber",
-    "origin": "CH",
-    "albums": [
-      {
-        "name": "Melancholia",
-        "year": "2018",
-        "genres": [
-          "Gothic Metal",
-          "Melodic Death Metal"
-        ]
-      },
-      {
-        "name": "Demonic",
-        "year": "2020",
-        "genres": [
-          "Gothic Metal",
-          "Melodic Death Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Gothic Metal",
-      "Melodic Death Metal"
-    ]
-  },
-  {
     "normalizedName": "aerosmith",
     "displayName": "Aerosmith",
     "origin": "US",
@@ -1708,6 +1681,22 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "gravetothehope",
+    "displayName": "Grave to the Hope",
+    "albums": [
+      {
+        "name": "Living in Despair",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {
@@ -3337,7 +3326,7 @@
     "albums": [
       {
         "name": "A Paris",
-        "year": "2012-08",
+        "year": "2012",
         "genres": [
           "Folk, World, & Country"
         ]
@@ -4474,6 +4463,18 @@
     ]
   },
   {
+    "normalizedName": "treacher",
+    "displayName": "Treacher",
+    "albums": [
+      {
+        "name": "Hibernation Of Death",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "tristania",
     "displayName": "Tristania",
     "origin": "NO",
@@ -4832,6 +4833,33 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "æmber",
+    "displayName": "Æmber",
+    "origin": "CH",
+    "albums": [
+      {
+        "name": "Melancholia",
+        "year": "2018",
+        "genres": [
+          "Gothic Metal",
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Demonic",
+        "year": "2020",
+        "genres": [
+          "Gothic Metal",
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Metal",
+      "Melodic Death Metal"
     ]
   }
 ]

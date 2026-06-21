@@ -466,6 +466,18 @@
     ]
   },
   {
+    "normalizedName": "azelsmountain",
+    "displayName": "Azel’s Mountain",
+    "albums": [
+      {
+        "name": "Echa Krwi",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "benelkayam",
     "displayName": "Ben Elkayam",
     "origin": "US",
@@ -607,6 +619,18 @@
       "Soft Rock",
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "bulentceylan",
+    "displayName": "Bülent Ceylan",
+    "albums": [
+      {
+        "name": "B.L.N.T.",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "citiesoftheplain",
@@ -826,6 +850,24 @@
       }
     ],
     "tags": [
+      "Metal"
+    ]
+  },
+  {
+    "normalizedName": "darkdivine",
+    "displayName": "Dark Divine",
+    "albums": [
+      {
+        "name": "Undead Melody",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
       "Metal"
     ]
   },
@@ -1178,13 +1220,22 @@
         "genres": [
           "Symphonic Black Metal"
         ]
+      },
+      {
+        "name": "Grand Serpent Rising",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
       "Symphonic Black Metal",
       "Symphonic Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Metal"
     ]
   },
   {
@@ -1258,6 +1309,24 @@
       "Hip Hop",
       "Nederpop",
       "Hollands"
+    ]
+  },
+  {
+    "normalizedName": "doomantra",
+    "displayName": "Doomantra",
+    "albums": [
+      {
+        "name": "Lodo",
+        "year": "2026",
+        "genres": [
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {
@@ -1392,6 +1461,11 @@
           "Psychedelic Rock",
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Through Zero",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1702,6 +1776,18 @@
     ]
   },
   {
+    "normalizedName": "holystone",
+    "displayName": "Holystone",
+    "albums": [
+      {
+        "name": "Accepting Omega",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "ignorethesign",
     "displayName": "Ignore The Sign",
     "origin": "DE",
@@ -1740,6 +1826,18 @@
     "tags": [
       "Thrash Metal"
     ]
+  },
+  {
+    "normalizedName": "jayler",
+    "displayName": "Jayler",
+    "albums": [
+      {
+        "name": "Voices Unheard",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "jodis",
@@ -2431,11 +2529,26 @@
           "Black Metal",
           "Folk Metal"
         ]
+      },
+      {
+        "name": "Hustasuna – Oroitzapen Galduen Putzua",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Erre",
+        "year": "2026",
+        "genres": [
+          "Black Folk Metal",
+          "Folk Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Folk Metal"
+      "Folk Metal",
+      "Black Folk Metal"
     ]
   },
   {
@@ -2724,10 +2837,23 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Hydrophilous Blood",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Hydrophilous Brood",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Progressive Death Metal"
     ]
   },
   {
@@ -2922,6 +3048,24 @@
     "tags": [
       "Thrash Metal",
       "Speed Metal"
+    ]
+  },
+  {
+    "normalizedName": "senttoslaughter",
+    "displayName": "Sent to Slaughter",
+    "albums": [
+      {
+        "name": "Sent to Slaughter",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -3846,6 +3990,11 @@
         "genres": [
           "Epic Doom Metal"
         ]
+      },
+      {
+        "name": "Rituals Of Shame",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4096,6 +4245,18 @@
       "Blackened Speed",
       "Crust Punk"
     ]
+  },
+  {
+    "normalizedName": "wyrdstaef",
+    "displayName": "Wyrdstaef",
+    "albums": [
+      {
+        "name": "Primordial Bloodlines",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "yehudittamir",

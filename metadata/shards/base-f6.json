@@ -588,6 +588,22 @@
     ]
   },
   {
+    "normalizedName": "azrahell",
+    "displayName": "Azrahell",
+    "albums": [
+      {
+        "name": "Death Does Not Lie",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "bell",
     "displayName": "Bell",
     "albums": [
@@ -1595,7 +1611,7 @@
       },
       {
         "name": "Days Of The New Iii",
-        "year": "2008-11-11",
+        "year": "2001",
         "genres": [
           "Alternative Rock",
           "Acoustic",
@@ -1812,29 +1828,6 @@
     ]
   },
   {
-    "normalizedName": "ðubrivo",
-    "displayName": "ðUbrivo",
-    "albums": [
-      {
-        "name": "100% Prirodno",
-        "year": "2007",
-        "genres": [
-          "Heavy Metal"
-        ]
-      },
-      {
-        "name": "Krvave Bajke",
-        "year": "2014",
-        "genres": [
-          "Heavy Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Heavy Metal"
-    ]
-  },
-  {
     "normalizedName": "duke",
     "displayName": "Duke",
     "albums": [
@@ -1923,11 +1916,19 @@
           "Power Metal",
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Mi'raj",
+        "year": "2026",
+        "genres": [
+          "Progressive Power Metal"
+        ]
       }
     ],
     "tags": [
       "Power Metal",
-      "Progressive Metal"
+      "Progressive Metal",
+      "Progressive Power Metal"
     ]
   },
   {
@@ -2089,10 +2090,18 @@
         "genres": [
           "Groove Thrash"
         ]
+      },
+      {
+        "name": "The Ariba War Honkle",
+        "year": "2026",
+        "genres": [
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash",
+      "Groove Metal"
     ]
   },
   {
@@ -2746,6 +2755,11 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Eternal Echo Of The Fall",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3084,11 +3098,20 @@
           "Power Metal",
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Voiceless Sonneteer",
+        "year": "2026",
+        "genres": [
+          "Progressive Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Power Metal",
-      "Progressive Metal"
+      "Progressive Metal",
+      "Progressive Power Metal"
     ]
   },
   {
@@ -4294,6 +4317,22 @@
     ]
   },
   {
+    "normalizedName": "sevenmetalsins",
+    "displayName": "Seven Metal Sins",
+    "albums": [
+      {
+        "name": "Legacy of Chaos",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "seventhsealbra",
     "displayName": "Seventh Seal (Bra)",
     "albums": [
@@ -4681,6 +4720,13 @@
       {
         "name": "The Flame Still Burns",
         "year": "2023",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "My Destiny (Epilogue)",
+        "year": "2026",
         "genres": [
           "Heavy Metal"
         ]
@@ -5498,5 +5544,29 @@
     "tags": [
       "Mizrahi"
     ]
+  },
+  {
+    "normalizedName": "ðubrivo",
+    "displayName": "ðUbrivo",
+    "albums": [
+      {
+        "name": "100% Prirodno",
+        "year": "2007",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "Krvave Bajke",
+        "year": "2014",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ],
+    "origin": "HR"
   }
 ]

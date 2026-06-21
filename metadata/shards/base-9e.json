@@ -476,6 +476,22 @@
     ]
   },
   {
+    "normalizedName": "belcebupace",
+    "displayName": "Belcebú Pace",
+    "albums": [
+      {
+        "name": "Galizan Black Metal (Single Version)",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "beornshall",
     "displayName": "Beorn's Hall",
     "albums": [
@@ -565,7 +581,7 @@
       },
       {
         "name": "Bedtime Prayers",
-        "year": "2006-12-20",
+        "year": "2006",
         "genres": [
           "Death Metal"
         ]
@@ -1933,7 +1949,7 @@
       },
       {
         "name": "Welcome Home Armageddon",
-        "year": "2011-03-14",
+        "year": "2011",
         "genres": [
           "Alternative Rock",
           "Post-hardcore"
@@ -2707,7 +2723,7 @@
       },
       {
         "name": "They Said A Storm Was Coming",
-        "year": "2011-04-04",
+        "year": "2010",
         "genres": [
           "Post-hardcore"
         ]
@@ -4474,6 +4490,18 @@
     "tags": [
       "Gothic Metal"
     ]
+  },
+  {
+    "normalizedName": "victorykid",
+    "displayName": "Victory Kid",
+    "albums": [
+      {
+        "name": "Catalyst",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "vilediscectomy",

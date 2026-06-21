@@ -380,7 +380,7 @@
       },
       {
         "name": "A Book Like This",
-        "year": "2011-04-04",
+        "year": "2007",
         "genres": [
           "Music Video",
           "Acoustic",
@@ -547,6 +547,29 @@
     ]
   },
   {
+    "normalizedName": "aven",
+    "displayName": "Aven",
+    "albums": [
+      {
+        "name": "Demo",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Froth",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "bandmaid",
     "displayName": "BAND-MAID",
     "origin": "US",
@@ -569,6 +592,24 @@
       "Hard Rock",
       "Rock",
       "J-rock"
+    ]
+  },
+  {
+    "normalizedName": "bangkai",
+    "displayName": "Bangkai",
+    "albums": [
+      {
+        "name": "Bangkai",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Punk"
     ]
   },
   {
@@ -1746,6 +1787,35 @@
     ],
     "tags": [
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "evisceromamorphogenic",
+    "displayName": "Evisceromamorphogenic",
+    "albums": [
+      {
+        "name": "Slamophobia Euphoric",
+        "year": "2026",
+        "genres": [
+          "Slam Hardcore",
+          "Brutal Death Metal",
+          "Hardcore"
+        ]
+      },
+      {
+        "name": "Demo 2026",
+        "year": "2026",
+        "genres": [
+          "Slam Hardcore",
+          "Brutal Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Hardcore",
+      "Brutal Death Metal",
+      "Hardcore"
     ]
   },
   {
@@ -3018,6 +3088,22 @@
     ]
   },
   {
+    "normalizedName": "lomp",
+    "displayName": "Lomp",
+    "albums": [
+      {
+        "name": "Waanzin",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "luctus",
     "displayName": "Luctus",
     "origin": "LT",
@@ -3464,12 +3550,21 @@
           "Symphonic Metal",
           "Mexican Rock"
         ]
+      },
+      {
+        "name": "Violets",
+        "year": "2026",
+        "genres": [
+          "Symphonic Heavy Gothic Metal",
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
       "Gothic Metal",
       "Symphonic Metal",
-      "Mexican Rock"
+      "Mexican Rock",
+      "Symphonic Heavy Gothic Metal"
     ]
   },
   {
@@ -5138,10 +5233,20 @@
         "genres": [
           "Ambient Black Metal"
         ]
+      },
+      {
+        "name": "Renacer",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
-      "Ambient Black Metal"
+      "Ambient Black Metal",
+      "Heavy Metal",
+      "Hard Rock"
     ]
   },
   {

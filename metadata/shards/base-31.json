@@ -292,10 +292,24 @@
         "genres": [
           "Gothic Metal"
         ]
+      },
+      {
+        "name": "Future. Present. Past",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Hesitation",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
-      "Gothic Metal"
+      "Gothic Metal",
+      "Rock"
     ]
   },
   {
@@ -364,6 +378,38 @@
     "tags": [
       "Metalcore"
     ]
+  },
+  {
+    "normalizedName": "cannibe",
+    "displayName": "Cannibe",
+    "albums": [
+      {
+        "name": "Medical Teratocarcinoma Anus / Cannibe",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore Goregrind",
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore Goregrind",
+      "Goregrind"
+    ]
+  },
+  {
+    "normalizedName": "cavity",
+    "displayName": "Cavity",
+    "albums": [
+      {
+        "name": "Human Abjection Re-Release",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "cerebralfix",
@@ -812,10 +858,20 @@
         "genres": [
           "Electro Industrial"
         ]
+      },
+      {
+        "name": "State Of Invocation",
+        "year": "2026",
+        "genres": [
+          "Doom Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
-      "Electro Industrial"
+      "Electro Industrial",
+      "Doom Metal",
+      "Metal"
     ]
   },
   {
@@ -1245,29 +1301,6 @@
     ]
   },
   {
-    "normalizedName": "føg",
-    "displayName": "Føg",
-    "origin": "US",
-    "albums": [
-      {
-        "name": "La Niebla De Las Animas",
-        "year": "2020",
-        "genres": [
-          "Death Metal",
-          "Doom Metal",
-          "Melodic Death Metal",
-          "Melodic Doom"
-        ]
-      }
-    ],
-    "tags": [
-      "Melodic Doom",
-      "Melodic Death Metal",
-      "Death Metal",
-      "Doom Metal"
-    ]
-  },
-  {
     "normalizedName": "forestnocturne",
     "displayName": "Forest Nocturne",
     "albums": [
@@ -1334,6 +1367,29 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "føg",
+    "displayName": "Føg",
+    "origin": "US",
+    "albums": [
+      {
+        "name": "La Niebla De Las Animas",
+        "year": "2020",
+        "genres": [
+          "Death Metal",
+          "Doom Metal",
+          "Melodic Death Metal",
+          "Melodic Doom"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Doom",
+      "Melodic Death Metal",
+      "Death Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -1718,7 +1774,7 @@
     "albums": [
       {
         "name": "Distort Yourself",
-        "year": "2005-09-09",
+        "year": "2005",
         "genres": [
           "Alternative Rock",
           "Rock"
@@ -2892,6 +2948,34 @@
     ]
   },
   {
+    "normalizedName": "propheticage",
+    "displayName": "Prophetic Age",
+    "albums": [
+      {
+        "name": "Evolution's Decay",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "pseudobiblion",
+    "displayName": "Pseudobiblion",
+    "albums": [
+      {
+        "name": "Index I",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "rain",
     "displayName": "Rain",
     "origin": "KR",
@@ -3301,6 +3385,11 @@
           "Hard Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Medusa",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3919,6 +4008,18 @@
       "Hardcore Metal",
       "Metalcore"
     ]
+  },
+  {
+    "normalizedName": "thexcerts",
+    "displayName": "The Xcerts",
+    "albums": [
+      {
+        "name": "I Think I Want To Go Home Now",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "thiswhitemountain",

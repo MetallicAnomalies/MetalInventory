@@ -120,10 +120,23 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "It Was In The Month Of May",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "It Was In The Month of May I",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Metal"
     ]
   },
   {
@@ -348,6 +361,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "betongrave",
+    "displayName": "BetonGrave",
+    "albums": [
+      {
+        "name": "Factorifest 2026",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -1089,6 +1120,11 @@
         "genres": [
           "Alternative"
         ]
+      },
+      {
+        "name": "Sinner Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1510,11 +1546,20 @@
           "Sludge Metal",
           "Post-Metal"
         ]
+      },
+      {
+        "name": "Bortom",
+        "year": "2026",
+        "genres": [
+          "Sludge Post-Metal",
+          "Post-Metal"
+        ]
       }
     ],
     "tags": [
       "Sludge Metal",
-      "Post-Metal"
+      "Post-Metal",
+      "Sludge Post-Metal"
     ]
   },
   {

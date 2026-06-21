@@ -928,6 +928,24 @@
     ]
   },
   {
+    "normalizedName": "dannahproject",
+    "displayName": "DannaH Project",
+    "albums": [
+      {
+        "name": "A Tempestade",
+        "year": "2026",
+        "genres": [
+          "Heavy Post-Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Post-Metal",
+      "Post-Metal"
+    ]
+  },
+  {
     "normalizedName": "daydreamxi",
     "displayName": "Daydream Xi",
     "albums": [
@@ -1477,6 +1495,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "fadead",
+    "displayName": "Fadead",
+    "albums": [
+      {
+        "name": "Capitalizing on Suffering",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore"
     ]
   },
   {
@@ -4167,6 +4201,11 @@
         "genres": [
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Bane Of The Talebearer OST",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

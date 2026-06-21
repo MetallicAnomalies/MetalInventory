@@ -191,6 +191,22 @@
     ]
   },
   {
+    "normalizedName": "alfarquest",
+    "displayName": "Àlfar Quest",
+    "albums": [
+      {
+        "name": "Carry On",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Power Metal"
+    ]
+  },
+  {
     "normalizedName": "arcanar",
     "displayName": "Arcanar",
     "albums": [
@@ -570,6 +586,28 @@
     ]
   },
   {
+    "normalizedName": "bloodyvengeanceinfaustes",
+    "displayName": "Bloody Vengeance/Infaustes",
+    "albums": [
+      {
+        "name": "Apocalyptic Crusades of Doom",
+        "year": "2026",
+        "genres": [
+          "Thrash Thrash Metal",
+          "Death Thrash Metal",
+          "Black Metal | Black Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Thrash Metal",
+      "Death Thrash Metal",
+      "Black Metal | Black Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "breed",
     "displayName": "Breed",
     "albums": [
@@ -692,6 +730,11 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Show No Fear",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2616,6 +2659,13 @@
       {
         "name": "Shadowreaper",
         "year": "2024",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "The Iron Maiden",
+        "year": "2026",
         "genres": [
           "Melodic Death Metal"
         ]

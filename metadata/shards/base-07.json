@@ -816,6 +816,18 @@
     ]
   },
   {
+    "normalizedName": "cryingsteel",
+    "displayName": "Crying Steel",
+    "albums": [
+      {
+        "name": "Agent Steel",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "crypticslaughter",
     "displayName": "Cryptic Slaughter",
     "albums": [
@@ -1256,6 +1268,13 @@
           "Heavy Metal",
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Shadows from Afar",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
       }
     ],
     "tags": [
@@ -1463,6 +1482,22 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "fache",
+    "displayName": "Fâché",
+    "albums": [
+      {
+        "name": "Crampe au cerveau",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore"
     ]
   },
   {
@@ -1675,11 +1710,21 @@
         "genres": [
           "Hardcore Metal"
         ]
+      },
+      {
+        "name": "Lights Out",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Groove Thrash",
-      "Hardcore Metal"
+      "Hardcore Metal",
+      "Metalcore",
+      "Metal"
     ]
   },
   {
@@ -1769,6 +1814,22 @@
     "tags": [
       "Doom Metal",
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "heavenissleeping",
+    "displayName": "Heaven Is Sleeping",
+    "albums": [
+      {
+        "name": "Heaven Is Sleeping",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metal"
     ]
   },
   {
@@ -2120,10 +2181,7 @@
     "normalizedName": "leadingtheplagueofyahwehtoitsgrave",
     "displayName": "Leading The Plague Of Yahweh To Its Grave...",
     "albums": [],
-    "tags": [
-      "Black Metal",
-      "Blackened Doom Metal"
-    ]
+    "tags": []
   },
   {
     "normalizedName": "lesbiantribbingsquirt",
@@ -3163,6 +3221,34 @@
       {
         "name": "As Gods Devour",
         "year": "2025",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "riena",
+    "displayName": "Riena",
+    "albums": [
+      {
+        "name": "Miekka ja Varjo EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
+    "normalizedName": "rottenimmortals",
+    "displayName": "Rotten Immortals",
+    "albums": [
+      {
+        "name": "Sound of Feast",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]

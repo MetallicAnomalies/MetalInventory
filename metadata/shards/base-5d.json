@@ -692,6 +692,24 @@
     ]
   },
   {
+    "normalizedName": "darkcalamity",
+    "displayName": "Dark Calamity",
+    "albums": [
+      {
+        "name": "Proscription ov the Evil End",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dungeon Synth"
+    ]
+  },
+  {
     "normalizedName": "darkfall",
     "displayName": "Darkfall",
     "origin": "AT",
@@ -1106,6 +1124,14 @@
         "genres": [
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "The Moth",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
@@ -1113,7 +1139,9 @@
       "Progressive Metal",
       "Country Rock",
       "New-age",
-      "Experimental Metal"
+      "Experimental Metal",
+      "Symphonic Metal",
+      "Metal"
     ]
   },
   {
@@ -1291,6 +1319,22 @@
     ]
   },
   {
+    "normalizedName": "eternalsacrifice",
+    "displayName": "Eternal Sacrifice",
+    "albums": [
+      {
+        "name": "Hierophant",
+        "year": "2026",
+        "genres": [
+          "Epic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Epic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "evidenceone",
     "displayName": "Evidence One",
     "albums": [
@@ -1396,6 +1440,22 @@
     "tags": [
       "Sludge Metal",
       "Noise Metal"
+    ]
+  },
+  {
+    "normalizedName": "floccinaucinihilipilification",
+    "displayName": "Floccinaucinihilipilification",
+    "albums": [
+      {
+        "name": "Self Induced Extracranial Hemorrhaging",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metal"
     ]
   },
   {
@@ -2858,7 +2918,7 @@
       },
       {
         "name": "Stadium Arcadium",
-        "year": "2008-08-08",
+        "year": "2006",
         "genres": [
           "Alternative Rock",
           "Funk Metal"
@@ -3488,6 +3548,22 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "swinechrist",
+    "displayName": "Swine Christ",
+    "albums": [
+      {
+        "name": "Sadistic Offerings",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

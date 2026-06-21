@@ -206,6 +206,22 @@
     ]
   },
   {
+    "normalizedName": "avolition",
+    "displayName": "Avolition",
+    "albums": [
+      {
+        "name": "Monument to the Forsaken",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "barrenpath",
     "displayName": "Barren Path",
     "albums": [
@@ -315,6 +331,22 @@
     ],
     "tags": [
       "Neo-psychedelic"
+    ]
+  },
+  {
+    "normalizedName": "bluntforcekarma",
+    "displayName": "Blunt Force Karma",
+    "albums": [
+      {
+        "name": "Snake Eyes",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {
@@ -885,6 +917,11 @@
           "Death Metal",
           "Black Metal"
         ]
+      },
+      {
+        "name": "Putrescence",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2004,6 +2041,18 @@
     ]
   },
   {
+    "normalizedName": "kindrednorth",
+    "displayName": "Kindred North",
+    "albums": [
+      {
+        "name": "Kindred North",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "kombat",
     "displayName": "Kombat",
     "albums": [
@@ -2774,6 +2823,11 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Sermon Of Mockery Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3152,6 +3206,11 @@
           "Black Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Quantifying Cosmic Doom",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3747,7 +3806,7 @@
       },
       {
         "name": "Achtung Baby",
-        "year": "2008-10-10",
+        "year": "1991",
         "genres": [
           "Leftfield",
           "Pop Rock",
@@ -3919,6 +3978,11 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Monument Aux Morts",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

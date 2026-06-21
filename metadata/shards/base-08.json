@@ -1047,10 +1047,23 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Incendiary Re-Release",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Hellforged Warpath",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -2285,6 +2298,13 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Fifth Generation Warfare",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -3038,6 +3058,24 @@
     "tags": []
   },
   {
+    "normalizedName": "morgu",
+    "displayName": "Morgu",
+    "albums": [
+      {
+        "name": "Offerings",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "motorjesus",
     "displayName": "Motorjesus",
     "albums": [
@@ -3750,6 +3788,11 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Septic Tomb EP",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

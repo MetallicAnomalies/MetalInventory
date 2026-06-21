@@ -13,7 +13,7 @@
       },
       {
         "name": "Revision:revise",
-        "year": "2010-11-09",
+        "year": "2010",
         "genres": [
           "Metalcore",
           "Post-hardcore"
@@ -789,6 +789,11 @@
         "genres": [
           "Post-Metal"
         ]
+      },
+      {
+        "name": "Epiphanic Perdition",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -905,6 +910,24 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "corruptionpact",
+    "displayName": "Corruption Pact",
+    "albums": [
+      {
+        "name": "Unanswered cries",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Hardcore"
+    ]
   },
   {
     "normalizedName": "corvuscorax",
@@ -1398,7 +1421,7 @@
       },
       {
         "name": "South Of Sideways",
-        "year": "2004-04-06",
+        "year": "2004",
         "genres": [
           "Post-grunge",
           "Nu Metal",
@@ -2559,10 +2582,20 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Todeshochzeit",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Symphonic Power Metal",
+      "Power Metal"
     ]
   },
   {
@@ -4834,11 +4867,20 @@
           "Death Metal",
           "Black Metal"
         ]
+      },
+      {
+        "name": "Precipicio",
+        "year": "2026",
+        "genres": [
+          "Death Black Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Black Metal"
+      "Black Metal",
+      "Death Black Metal"
     ]
   },
   {

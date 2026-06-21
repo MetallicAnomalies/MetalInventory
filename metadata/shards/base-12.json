@@ -317,6 +317,24 @@
     ]
   },
   {
+    "normalizedName": "aromatripassangrientas",
+    "displayName": "Aroma/Tripas Sangrientas",
+    "albums": [
+      {
+        "name": "Tripas Sangrientas / Aroma",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Goregrind | Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal",
+      "Goregrind | Goregrind"
+    ]
+  },
+  {
     "normalizedName": "asidie",
     "displayName": "ASIDIE",
     "origin": "IT",
@@ -549,6 +567,18 @@
     ]
   },
   {
+    "normalizedName": "blackspikes",
+    "displayName": "Black Spikes",
+    "albums": [
+      {
+        "name": "Ydos",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "bloodofkingu",
     "displayName": "Blood Of Kingu",
     "albums": [
@@ -592,6 +622,22 @@
     "tags": []
   },
   {
+    "normalizedName": "catatomb",
+    "displayName": "Catatomb",
+    "albums": [
+      {
+        "name": "Flesh is Hell",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "cebrenkhal",
     "displayName": "Cebren-khal",
     "albums": [
@@ -610,13 +656,25 @@
     ]
   },
   {
+    "normalizedName": "cjwildheart",
+    "displayName": "CJ Wildheart",
+    "albums": [
+      {
+        "name": "Devil",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "clintmansell",
     "displayName": "Clint Mansell",
     "origin": "GB",
     "albums": [
       {
         "name": "Requiem For A Dream",
-        "year": "2000-10-10",
+        "year": "2000",
         "genres": [
           "Leftfield",
           "Electronic",
@@ -1016,6 +1074,24 @@
     ]
   },
   {
+    "normalizedName": "exquisitecorpse",
+    "displayName": "Exquisite Corpse",
+    "albums": [
+      {
+        "name": "Burial at Sea",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Death Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Death Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "eyeofdoom",
     "displayName": "Eye Of Doom",
     "albums": [
@@ -1221,6 +1297,22 @@
     ],
     "tags": [
       "Death Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "gravespawn",
+    "displayName": "Gravespawn",
+    "albums": [
+      {
+        "name": "Sword Hand Path",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -1695,7 +1787,7 @@
       },
       {
         "name": "Ed Hunter",
-        "year": "1999-07",
+        "year": "1999",
         "genres": [
           "Heavy Metal"
         ]
@@ -2433,6 +2525,22 @@
     ],
     "tags": [
       "Symphonic Metal"
+    ]
+  },
+  {
+    "normalizedName": "nocturnalenchantment",
+    "displayName": "Nocturnal Enchantment",
+    "albums": [
+      {
+        "name": "As darkness retreat",
+        "year": "2026",
+        "genres": [
+          "Raw Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Atmospheric Black Metal"
     ]
   },
   {
@@ -3687,7 +3795,8 @@
     ],
     "tags": [
       "Progressive Metal"
-    ]
+    ],
+    "origin": "RU"
   },
   {
     "normalizedName": "vosforis",
@@ -3851,6 +3960,22 @@
       "Blackened Thrash Metal",
       "Thrash Metal",
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "wylk",
+    "displayName": "Wylk",
+    "albums": [
+      {
+        "name": "Archaica",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {

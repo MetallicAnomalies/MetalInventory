@@ -340,6 +340,24 @@
     ]
   },
   {
+    "normalizedName": "askegraf",
+    "displayName": "Askegraf",
+    "albums": [
+      {
+        "name": "Järn, Minne & Aska",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "autumnbride",
     "displayName": "Autumn Bride",
     "albums": [
@@ -1234,79 +1252,6 @@
     ]
   },
   {
-    "normalizedName": "dødsengel",
-    "displayName": "Dødsengel",
-    "origin": "NO",
-    "albums": [
-      {
-        "name": "Visionary",
-        "year": "2009",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Alongside Choronzon",
-        "year": "2010",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Arkaik",
-        "year": "2010",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Ecstatic Horror",
-        "year": "2010",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Mirium Occultum",
-        "year": "2010",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Dødsengel",
-        "year": "2011",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Imperator",
-        "year": "2012",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Interequinox",
-        "year": "2017",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Bab Al On",
-        "year": "2022",
-        "genres": [
-          "Black Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Black Metal"
-    ]
-  },
-  {
     "normalizedName": "doesitmatter",
     "displayName": "Does It Matter",
     "origin": "DE",
@@ -1480,6 +1425,79 @@
     ]
   },
   {
+    "normalizedName": "dødsengel",
+    "displayName": "Dødsengel",
+    "origin": "NO",
+    "albums": [
+      {
+        "name": "Visionary",
+        "year": "2009",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Alongside Choronzon",
+        "year": "2010",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Arkaik",
+        "year": "2010",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Ecstatic Horror",
+        "year": "2010",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Mirium Occultum",
+        "year": "2010",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Dødsengel",
+        "year": "2011",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Imperator",
+        "year": "2012",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Interequinox",
+        "year": "2017",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Bab Al On",
+        "year": "2022",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "encircle",
     "displayName": "Encircle",
     "origin": "US",
@@ -1531,6 +1549,27 @@
     ]
   },
   {
+    "normalizedName": "eternalrecurrence",
+    "displayName": "Eternal Recurrence",
+    "albums": [
+      {
+        "name": "Eternal Recurrence EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Eternal Recurrence",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Metal"
+    ]
+  },
+  {
     "normalizedName": "etherealembrace",
     "displayName": "Ethereal Embrace",
     "origin": "RU",
@@ -1545,6 +1584,22 @@
     ],
     "tags": [
       "Drone Metal"
+    ]
+  },
+  {
+    "normalizedName": "fark",
+    "displayName": "Fark",
+    "albums": [
+      {
+        "name": "Demo II",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -2802,22 +2857,6 @@
     ]
   },
   {
-    "normalizedName": "øxn",
-    "displayName": "øXn",
-    "albums": [
-      {
-        "name": "Cyrm",
-        "year": "2023",
-        "genres": [
-          "Post-Rock"
-        ]
-      }
-    ],
-    "tags": [
-      "Post-Rock"
-    ]
-  },
-  {
     "normalizedName": "pagansmind",
     "displayName": "Pagan's Mind",
     "origin": "NO",
@@ -3532,6 +3571,18 @@
     ]
   },
   {
+    "normalizedName": "thesecrecy",
+    "displayName": "The Secrecy",
+    "albums": [
+      {
+        "name": "Pins & Needles",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "thrasher",
     "displayName": "Thrasher",
     "albums": [
@@ -3888,6 +3939,11 @@
           "Sludge Metal",
           "Post-Metal"
         ]
+      },
+      {
+        "name": "A Tranquil Void",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4258,5 +4314,22 @@
       "Ebm",
       "Industrial Metal"
     ]
+  },
+  {
+    "normalizedName": "øxn",
+    "displayName": "øXn",
+    "albums": [
+      {
+        "name": "Cyrm",
+        "year": "2023",
+        "genres": [
+          "Post-Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Rock"
+    ],
+    "origin": "IE"
   }
 ]

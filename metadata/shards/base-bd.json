@@ -365,6 +365,24 @@
     ]
   },
   {
+    "normalizedName": "ambarvalium",
+    "displayName": "Ambarvalium",
+    "albums": [
+      {
+        "name": "Pleasures",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "arditi",
     "displayName": "Arditi",
     "albums": [
@@ -672,6 +690,24 @@
     "tags": [
       "Black Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "blodhren",
+    "displayName": "Blödhren",
+    "albums": [
+      {
+        "name": "No Words",
+        "year": "2026",
+        "genres": [
+          "Groove Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -1673,6 +1709,18 @@
     ]
   },
   {
+    "normalizedName": "harsh",
+    "displayName": "Harsh",
+    "albums": [
+      {
+        "name": "Feels",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "hatebeyond",
     "displayName": "Hate Beyond",
     "albums": [
@@ -1871,6 +1919,18 @@
       "Sludge Metal",
       "Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "hrothgar",
+    "displayName": "Hrothgar",
+    "albums": [
+      {
+        "name": "Tales Of Valholl",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "ignescent",
@@ -2594,10 +2654,7 @@
     "normalizedName": "metalmessageiv",
     "displayName": "Metal Message Iv",
     "albums": [],
-    "tags": [
-      "Black Metal",
-      "Blackened Doom Metal"
-    ]
+    "tags": []
   },
   {
     "normalizedName": "metide",
@@ -2782,6 +2839,18 @@
     ]
   },
   {
+    "normalizedName": "nightfreak",
+    "displayName": "NightFreak",
+    "albums": [
+      {
+        "name": "Midwest Rattlesnakes",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "nordicraid",
     "displayName": "Nordic Raid",
     "origin": "DE",
@@ -2943,6 +3012,18 @@
     "tags": [
       "Melodic Death Metal"
     ]
+  },
+  {
+    "normalizedName": "piebald",
+    "displayName": "Piebald",
+    "albums": [
+      {
+        "name": "Tales For The Rages",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "primus",
@@ -3347,6 +3428,22 @@
     ]
   },
   {
+    "normalizedName": "sar",
+    "displayName": "Sår",
+    "albums": [
+      {
+        "name": "Жилищный вопрос",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "semisonic",
     "displayName": "Semisonic",
     "origin": "US",
@@ -3553,6 +3650,11 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Tyrann Forever",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3833,6 +3935,26 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "wolfandraven",
+    "displayName": "Wolf and Raven",
+    "albums": [
+      {
+        "name": "Lap of Luxury II",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock",
+          "Synthwave"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock",
+      "Synthwave"
     ]
   }
 ]

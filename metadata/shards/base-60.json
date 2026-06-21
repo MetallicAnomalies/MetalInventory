@@ -1507,6 +1507,14 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Cascophonies",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -1859,6 +1867,22 @@
     ]
   },
   {
+    "normalizedName": "excomulgacion",
+    "displayName": "Excomulgación",
+    "albums": [
+      {
+        "name": "Azote de escorpión",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "exiteden",
     "displayName": "Exit Eden",
     "albums": [
@@ -1997,6 +2021,11 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Elemental Part One: Mourning Earth",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3484,12 +3513,29 @@
         "genres": [
           "Dungeon Synth"
         ]
+      },
+      {
+        "name": "Ghosts Of Europa",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
       "Gothic Industrial",
       "Dungeon Synth"
     ]
+  },
+  {
+    "normalizedName": "movements",
+    "displayName": "Movements",
+    "albums": [
+      {
+        "name": "Happier Now",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "nachtreich",
@@ -5355,10 +5401,18 @@
         "genres": [
           "Psychedelic Rock"
         ]
+      },
+      {
+        "name": "Fantasia",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
       }
     ],
     "tags": [
-      "Psychedelic Rock"
+      "Psychedelic Rock",
+      "Metal"
     ]
   },
   {
@@ -5610,6 +5664,22 @@
     ]
   },
   {
+    "normalizedName": "strelnieks",
+    "displayName": "Strelnieks",
+    "albums": [
+      {
+        "name": "Whoreson Against Bastard",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "syrence",
     "displayName": "Syrence",
     "albums": [
@@ -5630,6 +5700,24 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "tabu",
+    "displayName": "Tābū",
+    "albums": [
+      {
+        "name": "Midnite Sun",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
     ]
   },
   {
@@ -5957,6 +6045,11 @@
           "Gothic Metal",
           "Gothic Rock"
         ]
+      },
+      {
+        "name": "Obscured Horizons",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -6346,6 +6439,29 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "uwelulisproject",
+    "displayName": "Uwe Lulis Project",
+    "albums": [
+      {
+        "name": "Analog",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "Midnight in the Night of Ghosts",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {

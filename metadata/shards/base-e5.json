@@ -596,6 +596,30 @@
     ]
   },
   {
+    "normalizedName": "buttholesurfers",
+    "displayName": "Butthole Surfers",
+    "origin": "US",
+    "albums": [
+      {
+        "name": "Electriclarryland",
+        "year": "1996",
+        "genres": [
+          "Alternative Rock",
+          "Rock"
+        ]
+      },
+      {
+        "name": "After The Astronaut",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": [
+      "Alternative Rock",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "bølzer",
     "displayName": "Bølzer",
     "albums": [
@@ -635,25 +659,6 @@
     "tags": [
       "Black Metal",
       "Death Metal"
-    ]
-  },
-  {
-    "normalizedName": "buttholesurfers",
-    "displayName": "Butthole Surfers",
-    "origin": "US",
-    "albums": [
-      {
-        "name": "Electriclarryland",
-        "year": "1996",
-        "genres": [
-          "Alternative Rock",
-          "Rock"
-        ]
-      }
-    ],
-    "tags": [
-      "Alternative Rock",
-      "Rock"
     ]
   },
   {
@@ -2073,6 +2078,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Crucificial Imprecations",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2227,6 +2237,18 @@
       {
         "name": "Bar Mitzvah Songs",
         "year": "2021",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
+    "normalizedName": "kalamata",
+    "displayName": "Kalamata",
+    "albums": [
+      {
+        "name": "Zenosyne",
+        "year": "2026",
         "genres": []
       }
     ],
@@ -2609,11 +2631,28 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Nous, le venin",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "necromonger",
+    "displayName": "Necromonger",
+    "albums": [
+      {
+        "name": "Emanation Of The Dying Perceptions",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "nelbuio",
@@ -3459,6 +3498,22 @@
     ]
   },
   {
+    "normalizedName": "sfregio",
+    "displayName": "Sfregio",
+    "albums": [
+      {
+        "name": "Burqa ma donna",
+        "year": "2026",
+        "genres": [
+          "Thrash 'n' Roll"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash 'n' Roll"
+    ]
+  },
+  {
     "normalizedName": "shawnmendes",
     "displayName": "Shawn Mendes",
     "origin": "CA",
@@ -3566,7 +3621,8 @@
     ],
     "tags": [
       "Blackened Death Metal"
-    ]
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "skinher",

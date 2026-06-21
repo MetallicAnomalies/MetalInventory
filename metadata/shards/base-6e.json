@@ -775,6 +775,11 @@
           "Punk",
           "Emo"
         ]
+      },
+      {
+        "name": "Halcyon Blues",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1352,6 +1357,24 @@
       "Emo",
       "Alternative Rock",
       "Pop"
+    ]
+  },
+  {
+    "normalizedName": "esodic",
+    "displayName": "Esodic",
+    "albums": [
+      {
+        "name": "Torment of the Djinn",
+        "year": "2026",
+        "genres": [
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -2075,6 +2098,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Rise of the Damned...",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2368,6 +2398,24 @@
     ]
   },
   {
+    "normalizedName": "joelhbulsara",
+    "displayName": "Joel H. Bulsara",
+    "albums": [
+      {
+        "name": "Hastur the King",
+        "year": "2026",
+        "genres": [
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Stoner Metal",
+      "Stoner Metal"
+    ]
+  },
+  {
     "normalizedName": "katastrof",
     "displayName": "Katastrof",
     "albums": [
@@ -2513,7 +2561,8 @@
         "name": "Mask Of Judas",
         "genres": [
           "Rock"
-        ]
+        ],
+        "year": "2011"
       },
       {
         "name": "Axis 2013 - Ep",
@@ -3631,12 +3680,33 @@
           "Avantgarde Metal",
           "Black Metal"
         ]
+      },
+      {
+        "name": "...by The Word...",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Avantgarde Metal"
+      "Avantgarde Metal",
+      "Metal"
     ]
+  },
+  {
+    "normalizedName": "trueandtrue",
+    "displayName": "Trueandtrue",
+    "albums": [
+      {
+        "name": "Nosedive",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "tysondog",
@@ -4002,12 +4072,21 @@
           "Gothic Metal",
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Stay on your Feet",
+        "year": "2026",
+        "genres": [
+          "Symphonic Gothic Metal",
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
       "Gothic Metal",
       "Symphonic Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Symphonic Gothic Metal"
     ]
   },
   {

@@ -672,6 +672,24 @@
     ]
   },
   {
+    "normalizedName": "chernobyl",
+    "displayName": "Chernobyl",
+    "albums": [
+      {
+        "name": "Decay of the Western Civilization",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "cinemastrange",
     "displayName": "Cinema Strange",
     "albums": [
@@ -1076,6 +1094,18 @@
     "tags": [
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "entropist",
+    "displayName": "Entropist",
+    "albums": [
+      {
+        "name": "The Vision",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "erykahbadu",
@@ -1772,6 +1802,11 @@
         "genres": [
           "Stoner Doom Metal"
         ]
+      },
+      {
+        "name": "Arcane Desert Rituals Vol. 2",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2016,6 +2051,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "nathair",
+    "displayName": "Nathair",
+    "albums": [
+      {
+        "name": "The Fanged Deceiver",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {
@@ -2618,6 +2669,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "pisara",
+    "displayName": "Pisara",
+    "albums": [
+      {
+        "name": "Mustaa lunta",
+        "year": "2026",
+        "genres": [
+          "Melodic Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -3299,6 +3366,24 @@
     ]
   },
   {
+    "normalizedName": "subcutkinoglassforgeteverything",
+    "displayName": "Subcut/Kinoglass/Forget Everything",
+    "albums": [
+      {
+        "name": "Desgraça de Oeste",
+        "year": "2026",
+        "genres": [
+          "Grindcore | Experimental Thrash Groove Metal | Thrash Metal",
+          "Groove Metal | Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore | Experimental Thrash Groove Metal | Thrash Metal",
+      "Groove Metal | Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "summit",
     "displayName": "Summit",
     "albums": [
@@ -3598,6 +3683,29 @@
       "Mathcore",
       "Grindcore",
       "Math Rock"
+    ]
+  },
+  {
+    "normalizedName": "thyocian",
+    "displayName": "Thyocian",
+    "albums": [
+      {
+        "name": "Desolation",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Disillusioned Manifestation",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -4073,7 +4181,8 @@
     ],
     "tags": [
       "Melodic Death Metal"
-    ]
+    ],
+    "origin": "DE"
   },
   {
     "normalizedName": "warpathire",
@@ -4298,7 +4407,8 @@
     ],
     "tags": [
       "Folk Metal"
-    ]
+    ],
+    "origin": "RU"
   },
   {
     "normalizedName": "орендъ",

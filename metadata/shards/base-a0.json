@@ -687,6 +687,18 @@
     ]
   },
   {
+    "normalizedName": "deathspiralofinheritedsufferingelysianblazepanegryistmaerund",
+    "displayName": "Deathspiral Of Inherited Suffering/Elysian Blaze/Panegryist/Maerund",
+    "albums": [
+      {
+        "name": "Sunthema",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "deifecation",
     "displayName": "Deifecation",
     "albums": [
@@ -2314,6 +2326,18 @@
     ]
   },
   {
+    "normalizedName": "ljuset",
+    "displayName": "Ljuset",
+    "albums": [
+      {
+        "name": "Ljuset",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "lordbyfire",
     "displayName": "Lord By Fire",
     "albums": [
@@ -2619,6 +2643,22 @@
     ]
   },
   {
+    "normalizedName": "neishe",
+    "displayName": "Neishe",
+    "albums": [
+      {
+        "name": "Felüth Veinja",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "nirarabinovich",
     "displayName": "Nira Rabinovich",
     "origin": "JP",
@@ -2918,6 +2958,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Vestiges Of Tortured Souls",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

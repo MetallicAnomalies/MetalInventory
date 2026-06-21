@@ -496,6 +496,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Holókauston Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -552,6 +557,11 @@
           "Death Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Sons Of The Abandoned",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -768,6 +778,13 @@
       {
         "name": "The Threshold Of Death",
         "year": "2024",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Masquerade",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]
@@ -1664,7 +1681,7 @@
       },
       {
         "name": "Rumours",
-        "year": "2013-01-01",
+        "year": "1977",
         "genres": [
           "Pop",
           "Pop Rock",
@@ -2295,6 +2312,11 @@
           "Stoner Metal",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Necropolitan",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2784,6 +2806,11 @@
           "Avantgarde Metal",
           "Instrumental"
         ]
+      },
+      {
+        "name": "Ten Billion Years (Excursus>",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4212,7 +4239,7 @@
       },
       {
         "name": "Death Resonance",
-        "year": "2016-08-19",
+        "year": "2016",
         "genres": [
           "Melodic Death Metal"
         ]
@@ -4438,6 +4465,13 @@
       {
         "name": "A Grim Menace From Beyond",
         "year": "2018",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "A Procession of the Dead",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]
@@ -4677,10 +4711,25 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Skyfall EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Skyfall",
+        "year": "2026",
+        "genres": [
+          "Post-Black Progressive Metal",
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
-      "Atmospheric Black Metal"
+      "Atmospheric Black Metal",
+      "Post-Black Progressive Metal",
+      "Progressive Metal"
     ]
   },
   {
@@ -5478,6 +5527,24 @@
     ]
   },
   {
+    "normalizedName": "цваихандер",
+    "displayName": "Цвайхандер",
+    "albums": [
+      {
+        "name": "Gaudeamus Igitur, Juvenes Dum Sumus",
+        "year": "2026",
+        "genres": [
+          "Thrash Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Heavy Metal",
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "эсента",
     "displayName": "эсента",
     "albums": [
@@ -5512,7 +5579,8 @@
     ],
     "tags": [
       "Symphonic Power"
-    ]
+    ],
+    "origin": "RU"
   },
   {
     "normalizedName": "עציוןמאיר",

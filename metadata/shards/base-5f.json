@@ -509,6 +509,11 @@
         "genres": [
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "Drowner EP",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1121,6 +1126,11 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Altered State",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1691,6 +1701,13 @@
       {
         "name": "Affliction",
         "year": "2022",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      },
+      {
+        "name": "Chrysalis of Astral Tears",
+        "year": "2026",
         "genres": [
           "Melodic Black Metal"
         ]
@@ -2339,6 +2356,22 @@
     ]
   },
   {
+    "normalizedName": "invasiveloneliness",
+    "displayName": "Invasive Loneliness",
+    "albums": [
+      {
+        "name": "Painful Pleasure",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "isleptonthemoon",
     "displayName": "Isleptonthemoon",
     "albums": [
@@ -2860,6 +2893,11 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Crowned In Grey Skies",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3164,22 +3202,6 @@
     ]
   },
   {
-    "normalizedName": "mørkwood",
-    "displayName": "Mørkwood",
-    "albums": [
-      {
-        "name": "The Eternal Suffering",
-        "year": "2021",
-        "genres": [
-          "Black Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Black Metal"
-    ]
-  },
-  {
     "normalizedName": "mysticforest",
     "displayName": "Mystic Forest",
     "albums": [
@@ -3221,6 +3243,22 @@
     ],
     "tags": [
       "Melodic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "mørkwood",
+    "displayName": "Mørkwood",
+    "albums": [
+      {
+        "name": "The Eternal Suffering",
+        "year": "2021",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -4210,6 +4248,24 @@
     ]
   },
   {
+    "normalizedName": "terromania",
+    "displayName": "Terromania",
+    "albums": [
+      {
+        "name": "Astral Traveller",
+        "year": "2026",
+        "genres": [
+          "Groove Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "terzijdehorde",
     "displayName": "Terzij De Horde",
     "origin": "NL",
@@ -4940,6 +4996,23 @@
     ],
     "tags": [
       "Power Metal"
+    ],
+    "origin": "RU"
+  },
+  {
+    "normalizedName": "савынкан",
+    "displayName": "Савынкан",
+    "albums": [
+      {
+        "name": "Шесть Ножей Тишины",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal"
     ]
   },
   {

@@ -81,45 +81,6 @@
     ]
   },
   {
-    "normalizedName": "auðn",
-    "displayName": "Auðn",
-    "origin": "IS",
-    "albums": [
-      {
-        "name": "Auðn",
-        "year": "2014",
-        "genres": [
-          "Atmospheric Black Metal"
-        ]
-      },
-      {
-        "name": "Farvegir Fyrndar",
-        "year": "2017",
-        "genres": [
-          "Atmospheric Black Metal"
-        ]
-      },
-      {
-        "name": "Skuggar",
-        "year": "2017",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Vökudraumsins Fangi",
-        "year": "2020",
-        "genres": [
-          "Atmospheric Black Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Atmospheric Black Metal",
-      "Black Metal"
-    ]
-  },
-  {
     "normalizedName": "automaticape",
     "displayName": "Automatic Ape",
     "origin": "IT",
@@ -167,6 +128,45 @@
     ],
     "tags": [
       "Depressive Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "auðn",
+    "displayName": "Auðn",
+    "origin": "IS",
+    "albums": [
+      {
+        "name": "Auðn",
+        "year": "2014",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "Farvegir Fyrndar",
+        "year": "2017",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "Skuggar",
+        "year": "2017",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Vökudraumsins Fangi",
+        "year": "2020",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -829,6 +829,22 @@
     ]
   },
   {
+    "normalizedName": "disfiguredhumanessence",
+    "displayName": "Disfigured Human Essence",
+    "albums": [
+      {
+        "name": "Self-anger and Personal Disfigurment",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind"
+    ]
+  },
+  {
     "normalizedName": "driftinline",
     "displayName": "Driftin'line",
     "albums": [
@@ -1353,6 +1369,24 @@
     ]
   },
   {
+    "normalizedName": "hydre",
+    "displayName": "Hydre",
+    "albums": [
+      {
+        "name": "Démo 2026",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "ikarie",
     "displayName": "Ikarie",
     "albums": [
@@ -1672,6 +1706,22 @@
     "tags": [
       "Industrial Black Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "latterdayexploits",
+    "displayName": "Latter Day Exploits",
+    "albums": [
+      {
+        "name": "Autumnal Fires",
+        "year": "2026",
+        "genres": [
+          "Industrial Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Industrial Black Metal"
     ]
   },
   {
@@ -2245,6 +2295,18 @@
       "Thrash Metal",
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "philippekalfon",
+    "displayName": "Philippe Kalfon",
+    "albums": [
+      {
+        "name": "My Co0nnection",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "pinkmass",
@@ -3074,6 +3136,24 @@
     ]
   },
   {
+    "normalizedName": "titane",
+    "displayName": "Titane",
+    "albums": [
+      {
+        "name": "The Last Ritual",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "triton",
     "displayName": "Tritón",
     "albums": [
@@ -3090,6 +3170,18 @@
       "Heavy Metal",
       "Hard Rock"
     ]
+  },
+  {
+    "normalizedName": "troytheband",
+    "displayName": "Troy The Band",
+    "albums": [
+      {
+        "name": "(Des)",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "turbomoses",

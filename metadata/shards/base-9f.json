@@ -313,6 +313,18 @@
     ]
   },
   {
+    "normalizedName": "akantophis",
+    "displayName": "Akantophis",
+    "albums": [
+      {
+        "name": "Erneuerung",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "aleynmord",
     "displayName": "Aleynmord",
     "albums": [
@@ -2446,6 +2458,18 @@
     ]
   },
   {
+    "normalizedName": "generationlandslide",
+    "displayName": "Generation Landslide",
+    "albums": [
+      {
+        "name": "Existence",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "girlschool",
     "displayName": "Girlschool",
     "origin": "GB",
@@ -2590,6 +2614,11 @@
           "Avantgarde Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Steps Into Shadow",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2676,6 +2705,22 @@
     "tags": [
       "Folk, World, & Country",
       "Mizrahi"
+    ]
+  },
+  {
+    "normalizedName": "handslikehouses",
+    "displayName": "Hands Like Houses",
+    "albums": [
+      {
+        "name": "Lótus",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metal"
     ]
   },
   {
@@ -5072,32 +5117,6 @@
     ]
   },
   {
-    "normalizedName": "vøidwomb",
-    "displayName": "Vøidwomb",
-    "albums": [
-      {
-        "name": "Altars Of Cosmic Devotion",
-        "year": "2021",
-        "genres": [
-          "Black Metal",
-          "Death Metal"
-        ]
-      },
-      {
-        "name": "Spiritual Apotheosis",
-        "year": "2024",
-        "genres": [
-          "Black Metal",
-          "Death Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Black Metal",
-      "Death Metal"
-    ]
-  },
-  {
     "normalizedName": "voltax",
     "displayName": "Voltax",
     "albums": [
@@ -5153,6 +5172,32 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "vøidwomb",
+    "displayName": "Vøidwomb",
+    "albums": [
+      {
+        "name": "Altars Of Cosmic Devotion",
+        "year": "2021",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Spiritual Apotheosis",
+        "year": "2024",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal"
     ]
   },
   {

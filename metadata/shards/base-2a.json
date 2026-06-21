@@ -2140,6 +2140,26 @@
     ]
   },
   {
+    "normalizedName": "hematuria",
+    "displayName": "H.E.M.A.T.U.R.I.A.",
+    "albums": [
+      {
+        "name": "Surgical Tragedies...",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Goregrind Grindcore",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Goregrind Grindcore",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "hostage",
     "displayName": "Hostage",
     "origin": "GB",
@@ -2694,6 +2714,18 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "White Shadows",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Jonah and the Whale",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -2879,35 +2911,6 @@
     ],
     "tags": [
       "Alternative",
-      "Rock"
-    ]
-  },
-  {
-    "normalizedName": "ørdøg",
-    "displayName": "Ørdøg",
-    "origin": "FI",
-    "albums": [
-      {
-        "name": "Tíz Fekete Dal",
-        "year": "2014",
-        "genres": [
-          "Rock"
-        ]
-      },
-      {
-        "name": "Sötétanyag",
-        "year": "2017",
-        "genres": [
-          "Avantgarde Metal",
-          "Nu Metal",
-          "Metalcore"
-        ]
-      }
-    ],
-    "tags": [
-      "Avantgarde Metal",
-      "Nu Metal",
-      "Metalcore",
       "Rock"
     ]
   },
@@ -3469,10 +3472,21 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Live: Eliminated",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Power Progressive Metal",
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
-      "Heavy Metal"
+      "Heavy Metal",
+      "Power Progressive Metal",
+      "Progressive Metal"
     ]
   },
   {
@@ -3862,6 +3876,18 @@
     ]
   },
   {
+    "normalizedName": "thaetas",
+    "displayName": "Thaetas",
+    "albums": [
+      {
+        "name": "The Irredeemable Age",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "thirteengoats",
     "displayName": "Thirteen Goats",
     "albums": [
@@ -4194,6 +4220,22 @@
     ]
   },
   {
+    "normalizedName": "wampyricritesdarkdivination",
+    "displayName": "Wampyric Rites/Dark Divination",
+    "albums": [
+      {
+        "name": "Finnish Ecuador Alliance",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal | Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal | Black Metal"
+    ]
+  },
+  {
     "normalizedName": "wardrum",
     "displayName": "Wardrum",
     "origin": "GR",
@@ -4466,6 +4508,35 @@
     ],
     "tags": [
       "Folk Rock",
+      "Rock"
+    ]
+  },
+  {
+    "normalizedName": "ørdøg",
+    "displayName": "Ørdøg",
+    "origin": "FI",
+    "albums": [
+      {
+        "name": "Tíz Fekete Dal",
+        "year": "2014",
+        "genres": [
+          "Rock"
+        ]
+      },
+      {
+        "name": "Sötétanyag",
+        "year": "2017",
+        "genres": [
+          "Avantgarde Metal",
+          "Nu Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Avantgarde Metal",
+      "Nu Metal",
+      "Metalcore",
       "Rock"
     ]
   }

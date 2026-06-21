@@ -224,37 +224,6 @@
     ]
   },
   {
-    "normalizedName": "æries",
-    "displayName": "ÆRIES",
-    "origin": "NZ",
-    "albums": [
-      {
-        "name": "Gisma",
-        "year": "2020",
-        "genres": [
-          "Industrial Rock"
-        ]
-      },
-      {
-        "name": "Arcanum",
-        "year": "2022",
-        "genres": [
-          "Industrial Rock"
-        ]
-      },
-      {
-        "name": "Mardi Gras",
-        "year": "2022",
-        "genres": [
-          "Industrial Rock"
-        ]
-      }
-    ],
-    "tags": [
-      "Industrial Rock"
-    ]
-  },
-  {
     "normalizedName": "alkalinetrio",
     "displayName": "Alkaline Trio",
     "origin": "US",
@@ -411,6 +380,13 @@
       {
         "name": "Written In Blood From The Blade",
         "year": "2023",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "The Old Spirit Remains",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]
@@ -1067,6 +1043,18 @@
     ]
   },
   {
+    "normalizedName": "ditheist",
+    "displayName": "Ditheist",
+    "albums": [
+      {
+        "name": "Cosmic Liar",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "drsin",
     "displayName": "Dr. Sin",
     "albums": [
@@ -1616,6 +1604,24 @@
     ],
     "tags": [
       "Us Heavy"
+    ]
+  },
+  {
+    "normalizedName": "fossile",
+    "displayName": "Fossile",
+    "albums": [
+      {
+        "name": "No King",
+        "year": "2026",
+        "genres": [
+          "Doom Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal",
+      "Metal"
     ]
   },
   {
@@ -4472,6 +4478,37 @@
     "tags": [
       "Melodic Heavy",
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "æries",
+    "displayName": "ÆRIES",
+    "origin": "NZ",
+    "albums": [
+      {
+        "name": "Gisma",
+        "year": "2020",
+        "genres": [
+          "Industrial Rock"
+        ]
+      },
+      {
+        "name": "Arcanum",
+        "year": "2022",
+        "genres": [
+          "Industrial Rock"
+        ]
+      },
+      {
+        "name": "Mardi Gras",
+        "year": "2022",
+        "genres": [
+          "Industrial Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Industrial Rock"
     ]
   },
   {

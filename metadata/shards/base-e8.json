@@ -507,6 +507,11 @@
           "Hard Rock",
           "Alternative Rock"
         ]
+      },
+      {
+        "name": "Achilles",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1429,6 +1434,18 @@
       "Heavy Metal",
       "Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "failaci",
+    "displayName": "Fai Laci",
+    "albums": [
+      {
+        "name": "Elephant In The Room",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "faiththemuse",
@@ -2802,6 +2819,22 @@
     "tags": [
       "Death Doom Metal",
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "oniria",
+    "displayName": "Oniria",
+    "albums": [
+      {
+        "name": "Vivir en ti",
+        "year": "2026",
+        "genres": [
+          "Symphonic Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Gothic Metal"
     ]
   },
   {

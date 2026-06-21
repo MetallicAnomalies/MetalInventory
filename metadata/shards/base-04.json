@@ -444,6 +444,24 @@
     ]
   },
   {
+    "normalizedName": "brand",
+    "displayName": "Brånd",
+    "albums": [
+      {
+        "name": "Tåg & Nåcht",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Punk"
+    ]
+  },
+  {
     "normalizedName": "bus",
     "displayName": "Bus",
     "albums": [
@@ -1890,6 +1908,11 @@
         "genres": [
           "Hard Rock"
         ]
+      },
+      {
+        "name": "II",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2500,6 +2523,18 @@
     "tags": [
       "Progressive Metal"
     ]
+  },
+  {
+    "normalizedName": "miracle",
+    "displayName": "Miracle",
+    "albums": [
+      {
+        "name": "The Living Likeness Of My Electric Daemon",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "miseryindex",
@@ -4685,6 +4720,22 @@
     ]
   },
   {
+    "normalizedName": "vacca",
+    "displayName": "Vacca",
+    "albums": [
+      {
+        "name": "Consort of the Moon",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "valianteabm",
     "displayName": "Valiant E.A.B.M",
     "origin": "US",
@@ -4959,6 +5010,11 @@
         "genres": [
           "Gothic Rock"
         ]
+      },
+      {
+        "name": "The Arsonist",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

@@ -355,6 +355,38 @@
     ]
   },
   {
+    "normalizedName": "bdsm",
+    "displayName": "BDSM",
+    "albums": [
+      {
+        "name": "In Devotion the Breasts",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Grindcore Noise",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Grindcore Noise",
+      "Noise"
+    ]
+  },
+  {
+    "normalizedName": "bewareofgods",
+    "displayName": "Beware Of Gods",
+    "albums": [
+      {
+        "name": "Upon Whom The Last Descends III: Behead The Oracle",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "bloodride",
     "displayName": "Bloodride",
     "albums": [
@@ -548,6 +580,11 @@
           "Gothic Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Revelations In Black",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -735,6 +772,11 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Swarm Of Insects",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1294,6 +1336,22 @@
       "Electronic",
       "Death Metal",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "forevercold",
+    "displayName": "Forevercold",
+    "albums": [
+      {
+        "name": "Bitterness of Life",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {
@@ -2989,6 +3047,24 @@
     ]
   },
   {
+    "normalizedName": "shiteater",
+    "displayName": "Shiteater",
+    "albums": [
+      {
+        "name": "Entrails in the Sky",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "sinira",
     "displayName": "Sinira",
     "albums": [
@@ -3530,7 +3606,7 @@
       },
       {
         "name": "A Shade Of My Former Self",
-        "year": "2013-07-07",
+        "year": "2013",
         "genres": [
           "Metalcore"
         ]
@@ -3728,6 +3804,18 @@
       "Rock",
       "Soft Rock"
     ]
+  },
+  {
+    "normalizedName": "totalis",
+    "displayName": "Totalis",
+    "albums": [
+      {
+        "name": "Griefstate EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "truda",

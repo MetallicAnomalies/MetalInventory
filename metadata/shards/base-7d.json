@@ -118,6 +118,18 @@
     ]
   },
   {
+    "normalizedName": "afterwinter",
+    "displayName": "AfterWinter",
+    "albums": [
+      {
+        "name": "Boundless",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "agiel",
     "displayName": "Agiel",
     "origin": "US",
@@ -139,6 +151,24 @@
     ],
     "tags": [
       "Blackened Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "ahreman",
+    "displayName": "Ahreman",
+    "albums": [
+      {
+        "name": "Cherish the Fallen",
+        "year": "2026",
+        "genres": [
+          "Sludge Post-Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Post-Metal",
+      "Post-Metal"
     ]
   },
   {
@@ -990,6 +1020,22 @@
     ],
     "tags": [
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "deathofthehumanrace",
+    "displayName": "Death of the Human Race",
+    "albums": [
+      {
+        "name": "Blackened Funeral Season",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -1965,10 +2011,28 @@
         "genres": [
           "Ambient Black Metal"
         ]
+      },
+      {
+        "name": "Molecular Clouds",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Ambient"
+        ]
+      },
+      {
+        "name": "Ash Grey Horizon",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Ambient"
+        ]
       }
     ],
     "tags": [
-      "Ambient Black Metal"
+      "Ambient Black Metal",
+      "Atmospheric Black Metal",
+      "Ambient"
     ]
   },
   {
@@ -5123,6 +5187,22 @@
     ]
   },
   {
+    "normalizedName": "torturerealm",
+    "displayName": "Torture Realm",
+    "albums": [
+      {
+        "name": "Altar of Punishment",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "totgeburt",
     "displayName": "Totgeburt",
     "albums": [
@@ -5315,6 +5395,11 @@
         "genres": [
           "Deathcore"
         ]
+      },
+      {
+        "name": "4. Assets For Psychedelic Warfare",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -5377,6 +5462,22 @@
       {
         "name": "Nightmother",
         "year": "2021",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "wretchedghoul",
+    "displayName": "Wretched Ghoul",
+    "albums": [
+      {
+        "name": "Wretched Ghoul",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

@@ -1504,6 +1504,11 @@
           "Hard Rock",
           "Blues Rock"
         ]
+      },
+      {
+        "name": "Fever",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3453,10 +3458,19 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Bootleg 2008 - Live at Old Brick 97.5",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Melodic Death Thrash Metal"
     ]
   },
   {
@@ -3957,12 +3971,22 @@
           "Thrash Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Warg",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Hardcore"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
       "Thrash Metal",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Brutal Death Metal",
+      "Hardcore"
     ]
   },
   {
@@ -4036,6 +4060,22 @@
     ]
   },
   {
+    "normalizedName": "witchhill",
+    "displayName": "Witch Hill",
+    "albums": [
+      {
+        "name": "Bury the Soul Within...",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "wizards",
     "displayName": "Wizards",
     "albums": [
@@ -4084,6 +4124,13 @@
       {
         "name": "Seven",
         "year": "2022",
+        "genres": [
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "Grand and Bold",
+        "year": "2026",
         "genres": [
           "Power Metal"
         ]

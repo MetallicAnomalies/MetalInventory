@@ -371,7 +371,7 @@
       },
       {
         "name": "Day One",
-        "year": "2007-02-02",
+        "year": "2007",
         "genres": [
           "Indie Rock",
           "Rock"
@@ -379,7 +379,7 @@
       },
       {
         "name": "Universes",
-        "year": "2008-07-05",
+        "year": "2008",
         "genres": [
           "Indie Rock",
           "Rock"
@@ -395,7 +395,7 @@
       },
       {
         "name": "The Broken Strings Tour",
-        "year": "2010-06-06",
+        "year": "2010",
         "genres": [
           "Alternative Rock",
           "Post Rock",
@@ -718,6 +718,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "deadlikeu",
+    "displayName": "Dead like U",
+    "albums": [
+      {
+        "name": "Dark Requiem",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -1498,6 +1514,22 @@
     ]
   },
   {
+    "normalizedName": "heexiststotempthumanstowardevil",
+    "displayName": "He Exists to Tempt Humans Toward Evil",
+    "albums": [
+      {
+        "name": "Carpocratian Rituals Below the Celestial Circle",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "hellstorm",
     "displayName": "Hellstorm",
     "albums": [
@@ -1787,6 +1819,22 @@
     ]
   },
   {
+    "normalizedName": "iruldeham",
+    "displayName": "Irul Deham",
+    "albums": [
+      {
+        "name": "Virodha Bhakti",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "iscuron",
     "displayName": "Iscuron",
     "origin": "IT",
@@ -1933,6 +1981,11 @@
         "genres": [
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "A Mythmaker’s Demise",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2584,6 +2637,18 @@
     ]
   },
   {
+    "normalizedName": "plaindrifter",
+    "displayName": "Plaindrifter",
+    "albums": [
+      {
+        "name": "Gestalt",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "predatory",
     "displayName": "Predatory",
     "albums": [
@@ -2598,6 +2663,18 @@
     "tags": [
       "Thrash Metal"
     ]
+  },
+  {
+    "normalizedName": "president",
+    "displayName": "President",
+    "albums": [
+      {
+        "name": "Blood Of Your Empire",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "protestusa",

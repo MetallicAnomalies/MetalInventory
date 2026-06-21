@@ -41,40 +41,6 @@
     ]
   },
   {
-    "normalizedName": "ænimusswe",
-    "displayName": "æNimus (Swe)",
-    "albums": [
-      {
-        "name": "Four Perspectives On Death",
-        "year": "2011",
-        "genres": [
-          "Heavy Metal",
-          "Power Metal"
-        ]
-      },
-      {
-        "name": "This Illusion",
-        "year": "2014",
-        "genres": [
-          "Heavy Metal",
-          "Power Metal"
-        ]
-      },
-      {
-        "name": "The Final Warning",
-        "year": "2018",
-        "genres": [
-          "Heavy Metal",
-          "Power Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Heavy Metal",
-      "Power Metal"
-    ]
-  },
-  {
     "normalizedName": "aevangelist",
     "displayName": "Aevangelist",
     "origin": "US",
@@ -508,6 +474,22 @@
     ],
     "tags": [
       "Symphonic Deathcore"
+    ]
+  },
+  {
+    "normalizedName": "benotbetrayed",
+    "displayName": "Be Not Betrayed",
+    "albums": [
+      {
+        "name": "Calling God His Own Father",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -1326,10 +1308,18 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Tragicus. Laetitia. Ira. Misericordia.",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {
@@ -1997,10 +1987,18 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Metal Quest",
+        "year": "2026",
+        "genres": [
+          "Melodic Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Melodic Power Metal"
     ]
   },
   {
@@ -2344,6 +2342,11 @@
           "Folk Metal",
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Monumental",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2856,7 +2859,7 @@
       },
       {
         "name": "44 - Bij Mij Thuis",
-        "year": "2023-09-22",
+        "year": "2023",
         "genres": [
           "Children's",
           "Pop"
@@ -3045,7 +3048,7 @@
     "albums": [
       {
         "name": "The Theft",
-        "year": "2007-01-24",
+        "year": "2006",
         "genres": [
           "Indie Rock",
           "Rock",
@@ -4203,6 +4206,11 @@
           "Heavy Metal",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "All Lights On",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4232,6 +4240,13 @@
       {
         "name": "A Dance With Tragedy",
         "year": "2021",
+        "genres": [
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "Of Sin and Ruin",
+        "year": "2026",
         "genres": [
           "Power Metal"
         ]
@@ -5415,6 +5430,32 @@
     ]
   },
   {
+    "normalizedName": "wyrdfromrunasstream",
+    "displayName": "Wyrd from Runa's Stream",
+    "albums": [
+      {
+        "name": "Prophesy to These Bones (Thursarian Death Rituals)",
+        "year": "2026",
+        "genres": [
+          "Raw Pagan Black Metal",
+          "Ambient"
+        ]
+      },
+      {
+        "name": "Agwta Current",
+        "year": "2026",
+        "genres": [
+          "Raw Pagan Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Pagan Black Metal",
+      "Ambient"
+    ]
+  },
+  {
     "normalizedName": "zombieattack",
     "displayName": "Zombie Attack",
     "albums": [
@@ -5449,6 +5490,40 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "ænimusswe",
+    "displayName": "æNimus (Swe)",
+    "albums": [
+      {
+        "name": "Four Perspectives On Death",
+        "year": "2011",
+        "genres": [
+          "Heavy Metal",
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "This Illusion",
+        "year": "2014",
+        "genres": [
+          "Heavy Metal",
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "The Final Warning",
+        "year": "2018",
+        "genres": [
+          "Heavy Metal",
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Power Metal"
     ]
   },
   {

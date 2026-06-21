@@ -676,6 +676,11 @@
           "Thrash Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Cursum Perficio",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2048,6 +2053,11 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Rats In The Temple",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3646,6 +3656,18 @@
     ]
   },
   {
+    "normalizedName": "sevenchains",
+    "displayName": "Seven Chains",
+    "albums": [
+      {
+        "name": "Swollen, In Flux",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "shining",
     "displayName": "Shining",
     "origin": "SE",
@@ -4033,6 +4055,24 @@
     ],
     "tags": [
       "Death Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "surrogoat",
+    "displayName": "Surrogoat",
+    "albums": [
+      {
+        "name": "Consumed by the Wrath of Time",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
       "Thrash Metal"
     ]
   },

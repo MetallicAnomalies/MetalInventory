@@ -1,5 +1,17 @@
 [
   {
+    "normalizedName": "afterinfinity",
+    "displayName": "After Infinity",
+    "albums": [
+      {
+        "name": "Beyond Eternity",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "aggression",
     "displayName": "Aggression",
     "origin": "CA",
@@ -996,7 +1008,7 @@
       },
       {
         "name": "Cloaca Maxima Iii",
-        "year": "2016-12-12",
+        "year": "2016",
         "genres": [
           "Hard Rock",
           "Rock"
@@ -1065,6 +1077,24 @@
     ],
     "tags": [
       "Death Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "combatevolved",
+    "displayName": "Combat Evolved",
+    "albums": [
+      {
+        "name": "The Unearthing of an Ancient Evil",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Hardcore"
     ]
   },
   {
@@ -3106,6 +3136,18 @@
     ]
   },
   {
+    "normalizedName": "nxmad",
+    "displayName": "Nxmad",
+    "albums": [
+      {
+        "name": "The Second Fall",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "omeryrising",
     "displayName": "Omery Rising",
     "albums": [
@@ -3233,6 +3275,11 @@
           "Death Metal",
           "Grindcore"
         ]
+      },
+      {
+        "name": "Snowbound Horror",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3337,6 +3384,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Wenn droben nachts der Frostmond thront",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -3395,6 +3449,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "saintdelirium",
+    "displayName": "Saint Delirium",
+    "albums": [
+      {
+        "name": "Oh, The Wonders Of Damnation",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal"
     ]
   },
   {
@@ -4227,6 +4299,11 @@
         "genres": [
           "Rock"
         ]
+      },
+      {
+        "name": "The Best Of Triumph",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

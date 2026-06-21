@@ -240,6 +240,22 @@
     ]
   },
   {
+    "normalizedName": "argahal",
+    "displayName": "Argahal",
+    "albums": [
+      {
+        "name": "The Path of the Lonely Man",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "artofsilence",
     "displayName": "Art Of Silence",
     "albums": [
@@ -2665,6 +2681,11 @@
           "Heavy Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "From Hell I Rise: Extended Deluxe Edition",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3207,6 +3228,18 @@
       "Gothic Metal",
       "Gothic Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "mimibarks",
+    "displayName": "Mimi Barks",
+    "albums": [
+      {
+        "name": "Dreamstate Of Fear EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "miners",
@@ -4520,6 +4553,24 @@
     ]
   },
   {
+    "normalizedName": "shovelheadad",
+    "displayName": "Shovelhead A.D.",
+    "albums": [
+      {
+        "name": "Gen Zealot",
+        "year": "2026",
+        "genres": [
+          "Thrash Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Groove Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "siegeseven",
     "displayName": "Sieges Even",
     "origin": "DE",
@@ -4804,6 +4855,26 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "theancientorder",
+    "displayName": "The Ancient Order",
+    "albums": [
+      {
+        "name": "The Sunken City Will Be Reborn",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Rock",
+          "Psychedelic Black Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Psychedelic Rock",
+      "Psychedelic Black Heavy Metal",
+      "Heavy Metal"
     ]
   },
   {
@@ -5583,9 +5654,7 @@
     "normalizedName": "wolfsnaechte2012tourep",
     "displayName": "Wolfsnaechte 2012 Tour Ep",
     "albums": [],
-    "tags": [
-      "Power Metal"
-    ]
+    "tags": []
   },
   {
     "normalizedName": "woodsofinfinity",
@@ -5771,6 +5840,22 @@
       "Hard Rock",
       "Prog Rock",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "новазора",
+    "displayName": "Новазора",
+    "albums": [
+      {
+        "name": "Новая заря",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
     ]
   }
 ]

@@ -640,6 +640,24 @@
     ]
   },
   {
+    "normalizedName": "danielgumoreiss",
+    "displayName": "Daniel Gumo Reiss",
+    "albums": [
+      {
+        "name": "Call of the Wildcats",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "deathofself",
     "displayName": "Death Of Self",
     "albums": [
@@ -690,6 +708,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "degradedspine",
+    "displayName": "Degraded Spine",
+    "albums": [
+      {
+        "name": "Withered Carcass (Demo 2026)",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {
@@ -1446,12 +1482,12 @@
     ]
   },
   {
-    "normalizedName": "hæthen",
-    "displayName": "Hæthen",
+    "normalizedName": "groteskh",
+    "displayName": "Groteskh",
     "albums": [
       {
-        "name": "Shaped By Aeolian Winds",
-        "year": "2015",
+        "name": "A Low Budget Horrorshow",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]
@@ -1694,6 +1730,22 @@
       {
         "name": "Terrorforming",
         "year": "2018",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "hæthen",
+    "displayName": "Hæthen",
+    "albums": [
+      {
+        "name": "Shaped By Aeolian Winds",
+        "year": "2015",
         "genres": [
           "Black Metal"
         ]
@@ -2352,6 +2404,26 @@
     ]
   },
   {
+    "normalizedName": "mistcrown",
+    "displayName": "Mist Crown",
+    "albums": [
+      {
+        "name": "Unconquerable Will",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Death Metal",
+          "Doom Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Death Metal",
+      "Doom Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "monasterypol",
     "displayName": "Monastery (Pol)",
     "albums": [
@@ -2438,6 +2510,14 @@
       {
         "name": "Inevitability",
         "year": "2022",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      },
+      {
+        "name": "Mastering the Disease",
+        "year": "2026",
         "genres": [
           "Death Metal",
           "Grindcore"
@@ -2694,16 +2774,15 @@
       }
     ],
     "tags": [
-      "Funk / Soul",
+      "Ballad",
       "Contemporary R&b",
+      "Downtempo",
       "Electro Metal",
       "Electronic",
-      "Ballad",
+      "Funk / Soul",
+      "Hip Hop",
       "Pop",
-      "Europop",
-      "Downtempo",
-      "Synth-pop",
-      "Hip Hop"
+      "Synth-pop"
     ]
   },
   {
@@ -2725,6 +2804,11 @@
           "Post-Black Metal",
           "Post-black Metal"
         ]
+      },
+      {
+        "name": "A Wilting Fountain",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2920,6 +3004,22 @@
     ],
     "tags": [
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "pohjattomuus",
+    "displayName": "Pohjattomuus",
+    "albums": [
+      {
+        "name": "Rakkaus ja masennus",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

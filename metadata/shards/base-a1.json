@@ -216,6 +216,11 @@
           "Melodic Death Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Perpetual Ruin",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -352,6 +357,11 @@
           "Heavy Metal",
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "For Eternity",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -722,6 +732,18 @@
     "tags": [
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "coffinhunters",
+    "displayName": "Coffin Hunters",
+    "albums": [
+      {
+        "name": "Cosmic Dawn",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "covet",
@@ -1190,6 +1212,18 @@
     ]
   },
   {
+    "normalizedName": "embersofdawn",
+    "displayName": "Embers Of Dawn",
+    "albums": [
+      {
+        "name": "Infernal Culture",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "embraceyourpunishment",
     "displayName": "Embrace Your Punishment",
     "albums": [
@@ -1552,10 +1586,20 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "The Obliteration",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Heavy Metal"
+      "Heavy Metal",
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -2216,6 +2260,18 @@
     ]
   },
   {
+    "normalizedName": "martyrssaint",
+    "displayName": "Martyrs Saint",
+    "albums": [
+      {
+        "name": "From Strength To Strength EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "massakre",
     "displayName": "Massakre",
     "albums": [
@@ -2257,6 +2313,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "necrosspirifer",
+    "displayName": "Necros Spirifer",
+    "albums": [
+      {
+        "name": "Sapientia Mortis (Ritus Ignis Occulti)",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3475,6 +3547,11 @@
         "genres": [
           "Progressive Gothic"
         ]
+      },
+      {
+        "name": "Arcade",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

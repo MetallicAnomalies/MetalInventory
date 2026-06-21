@@ -502,6 +502,28 @@
     ]
   },
   {
+    "normalizedName": "basaki",
+    "displayName": "Basaki",
+    "albums": [
+      {
+        "name": "Bizimina",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Thrash Metal",
+          "Alternative Rock",
+          "Nu-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Thrash Metal",
+      "Thrash Metal",
+      "Alternative Rock",
+      "Nu-Metal"
+    ]
+  },
+  {
     "normalizedName": "beyondlusion",
     "displayName": "Beyon-D-Lusion",
     "origin": "FR",
@@ -1035,11 +1057,30 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "The Purge EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Invoking Terror EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Invoking Terror",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Death Metal"
+      "Death Metal",
+      "Speed Thrash Metal"
     ]
   },
   {
@@ -1869,6 +1910,18 @@
     "tags": [
       "Death Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "falsemessiah",
+    "displayName": "False Messiah",
+    "albums": [
+      {
+        "name": "Seven",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "firstrevival",
@@ -2982,10 +3035,18 @@
         "genres": [
           "Gothic Metal"
         ]
+      },
+      {
+        "name": "Ikigai (Memories)",
+        "year": "2026",
+        "genres": [
+          "Melodic Symphonic Metal"
+        ]
       }
     ],
     "tags": [
-      "Gothic Metal"
+      "Gothic Metal",
+      "Melodic Symphonic Metal"
     ]
   },
   {
@@ -4617,6 +4678,11 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Cold Velvet",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4873,10 +4939,19 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Oh So Weary",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Rock"
     ]
   },
   {
@@ -5057,6 +5132,11 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Against All Warnings",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

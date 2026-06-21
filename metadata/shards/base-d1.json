@@ -1,5 +1,25 @@
 [
   {
+    "normalizedName": "3sunsofaberran",
+    "displayName": "3 Suns of Aberran",
+    "albums": [
+      {
+        "name": "Exhale",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Doom Rock",
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Psychedelic Doom Rock",
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "4arm",
     "displayName": "4 Arm",
     "aliases": [
@@ -1881,11 +1901,23 @@
           "Us Power",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Tales of Glory",
+        "year": "2026",
+        "genres": [
+          "Thrash Power Metal",
+          "Heavy Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Us Power",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Thrash Power Metal",
+      "Heavy Power Metal",
+      "Power Metal"
     ]
   },
   {
@@ -2321,6 +2353,32 @@
     ]
   },
   {
+    "normalizedName": "goatdivision",
+    "displayName": "GoatDivision",
+    "albums": [
+      {
+        "name": "One Year of Chaos",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Noise"
+        ]
+      },
+      {
+        "name": "Lucifer's Kommando",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Noise"
+    ]
+  },
+  {
     "normalizedName": "golemofgore",
     "displayName": "Golem Of Gore",
     "albums": [
@@ -2751,10 +2809,22 @@
         "genres": [
           "Gothic Doom Metal"
         ]
+      },
+      {
+        "name": "To a God Unknown",
+        "year": "2026",
+        "genres": [
+          "Gothic Black Metal",
+          "Doom Black Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Gothic Doom Metal"
+      "Gothic Doom Metal",
+      "Gothic Black Metal",
+      "Doom Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -3366,11 +3436,21 @@
           "Symphonic Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "Interstellar Madness",
+        "year": "2026",
+        "genres": [
+          "Power Metal",
+          "Symphonic Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Symphonic Metal",
-      "Power Metal"
+      "Power Metal",
+      "Metal"
     ]
   },
   {
@@ -3520,6 +3600,11 @@
           "Indie Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "And The Dead Tree Gives No Shelter",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4135,6 +4220,24 @@
     "tags": [
       "Gothic Metal",
       "Progressive Doom"
+    ]
+  },
+  {
+    "normalizedName": "spearofteuta",
+    "displayName": "Spear of Teuta",
+    "albums": [
+      {
+        "name": "Antemurale Christianitatis",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Post-Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Post-Punk"
     ]
   },
   {
@@ -5214,6 +5317,22 @@
     ]
   },
   {
+    "normalizedName": "стужа",
+    "displayName": "Стужа",
+    "albums": [
+      {
+        "name": "Зов полярной звезды",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "харизма",
     "displayName": "харизма",
     "albums": [
@@ -5293,6 +5412,7 @@
     "tags": [
       "Power Metal",
       "Heavy Metal"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

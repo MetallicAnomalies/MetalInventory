@@ -303,12 +303,20 @@
           "Post-Black Metal",
           "Post-black Metal"
         ]
+      },
+      {
+        "name": "Facets",
+        "year": "2026",
+        "genres": [
+          "Blackened Avant-garde Metal"
+        ]
       }
     ],
     "tags": [
       "Blackened Avantgarde",
       "Post-Black Metal",
-      "Post-black Metal"
+      "Post-black Metal",
+      "Blackened Avant-garde Metal"
     ]
   },
   {
@@ -587,6 +595,18 @@
       "Emo",
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "bludwyrm",
+    "displayName": "Blüdwyrm",
+    "albums": [
+      {
+        "name": "The Blissful Sleep Of Ignorance",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "breachofsilence",
@@ -1018,6 +1038,53 @@
     ]
   },
   {
+    "normalizedName": "druknroll",
+    "displayName": "Druknroll",
+    "origin": "RU",
+    "albums": [
+      {
+        "name": "On The Knife Blade",
+        "year": "2012",
+        "genres": []
+      },
+      {
+        "name": "Boiling Point",
+        "year": "2014",
+        "genres": []
+      },
+      {
+        "name": "In The Game",
+        "year": "2016",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Unbalanced",
+        "year": "2018",
+        "genres": [
+          "Alternative Rock",
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Freakingface",
+        "year": "2020",
+        "genres": [
+          "Progressive Metal",
+          "Groove Metal",
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal",
+      "Groove Metal",
+      "Melodic Death Metal",
+      "Alternative Rock"
+    ]
+  },
+  {
     "normalizedName": "dødsfall",
     "displayName": "Dødsfall",
     "albums": [
@@ -1073,53 +1140,6 @@
     ],
     "tags": [
       "Black Metal"
-    ]
-  },
-  {
-    "normalizedName": "druknroll",
-    "displayName": "Druknroll",
-    "origin": "RU",
-    "albums": [
-      {
-        "name": "On The Knife Blade",
-        "year": "2012",
-        "genres": []
-      },
-      {
-        "name": "Boiling Point",
-        "year": "2014",
-        "genres": []
-      },
-      {
-        "name": "In The Game",
-        "year": "2016",
-        "genres": [
-          "Melodic Death Metal"
-        ]
-      },
-      {
-        "name": "Unbalanced",
-        "year": "2018",
-        "genres": [
-          "Alternative Rock",
-          "Melodic Death Metal"
-        ]
-      },
-      {
-        "name": "Freakingface",
-        "year": "2020",
-        "genres": [
-          "Progressive Metal",
-          "Groove Metal",
-          "Melodic Death Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Progressive Metal",
-      "Groove Metal",
-      "Melodic Death Metal",
-      "Alternative Rock"
     ]
   },
   {
@@ -3682,6 +3702,22 @@
     ]
   },
   {
+    "normalizedName": "sealfurpeeling",
+    "displayName": "Seal Fur Peeling",
+    "albums": [
+      {
+        "name": "Hawk Emblem",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "shrapnel",
     "displayName": "Shrapnel",
     "origin": "GB",
@@ -4227,6 +4263,18 @@
     ]
   },
   {
+    "normalizedName": "thefreqs",
+    "displayName": "The Freqs",
+    "albums": [
+      {
+        "name": "No God On The Gold Coast",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "thelemite",
     "displayName": "Thelemite",
     "albums": [
@@ -4262,6 +4310,18 @@
     "tags": [
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "themeffs",
+    "displayName": "The Meffs",
+    "albums": [
+      {
+        "name": "Business",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "themotionmosaic",

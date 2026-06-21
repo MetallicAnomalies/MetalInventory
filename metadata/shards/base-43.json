@@ -1013,6 +1013,11 @@
         "genres": [
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Sign Of The Devil Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1256,11 +1261,19 @@
           "Gothic Metal",
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Redemption",
+        "year": "2026",
+        "genres": [
+          "Symphonic Gothic Metal"
+        ]
       }
     ],
     "tags": [
       "Gothic Metal",
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Symphonic Gothic Metal"
     ]
   },
   {
@@ -1540,6 +1553,18 @@
       "Djent",
       "Progressive Math"
     ]
+  },
+  {
+    "normalizedName": "grand",
+    "displayName": "Grand",
+    "albums": [
+      {
+        "name": "Guilty Pleasure",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "greyswan",
@@ -2184,6 +2209,18 @@
     ]
   },
   {
+    "normalizedName": "joyouswolf",
+    "displayName": "Joyous Wolf",
+    "albums": [
+      {
+        "name": "In Between",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "karas",
     "displayName": "Karas",
     "albums": [
@@ -2297,7 +2334,8 @@
     ],
     "tags": [
       "Black Metal"
-    ]
+    ],
+    "origin": "PL"
   },
   {
     "normalizedName": "lanceking",
@@ -2353,6 +2391,22 @@
     "tags": [
       "Symphonic Power",
       "Symphonic Progressive"
+    ]
+  },
+  {
+    "normalizedName": "lostvitalspark",
+    "displayName": "Lost Vital Spark",
+    "albums": [
+      {
+        "name": "The Motion Paradox",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {
@@ -2732,6 +2786,40 @@
     ]
   },
   {
+    "normalizedName": "phantomy",
+    "displayName": "Phantomy",
+    "albums": [
+      {
+        "name": "First Takes",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "plaguepreacher",
+    "displayName": "Plaguepreacher",
+    "albums": [
+      {
+        "name": "Abyssol",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "proximacontrol",
     "displayName": "Proxima Control",
     "albums": [
@@ -2785,10 +2873,19 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Demø-lition",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Death Thrash Metal"
     ]
   },
   {
@@ -4138,6 +4235,20 @@
           "Symphonic Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Descending Into Madness",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Deus Rex",
+        "year": "2026",
+        "genres": [
+          "Symphonic Death Metal",
+          "Melodic Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -4145,7 +4256,9 @@
       "Black Metal",
       "Death Metal",
       "Melodic Death Metal",
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Symphonic Death Metal",
+      "Melodic Black Death Metal"
     ]
   },
   {
@@ -4162,7 +4275,8 @@
     ],
     "tags": [
       "Heavy Metal"
-    ]
+    ],
+    "origin": "RU"
   },
   {
     "normalizedName": "колизеи",
@@ -4196,7 +4310,8 @@
     "tags": [
       "Heavy Metal",
       "Power Metal"
-    ]
+    ],
+    "origin": "RU"
   },
   {
     "normalizedName": "מאיהברשלוםmayabarshalom",

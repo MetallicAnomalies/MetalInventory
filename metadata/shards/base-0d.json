@@ -333,6 +333,22 @@
     ]
   },
   {
+    "normalizedName": "beggar",
+    "displayName": "Beggar",
+    "albums": [
+      {
+        "name": "Harrower",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Black Metal"
+    ]
+  },
+  {
     "normalizedName": "beneaththetides",
     "displayName": "Beneath The Tides",
     "albums": [
@@ -1535,6 +1551,26 @@
     ]
   },
   {
+    "normalizedName": "ecliptic",
+    "displayName": "Ecliptic",
+    "albums": [
+      {
+        "name": "To Sima Semu'ul o Kuakul",
+        "year": "2026",
+        "genres": [
+          "Experimental Death Metal",
+          "Drone Noise",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Death Metal",
+      "Drone Noise",
+      "Noise"
+    ]
+  },
+  {
     "normalizedName": "eihwaz",
     "displayName": "Eihwaz",
     "albums": [
@@ -1868,7 +1904,7 @@
       },
       {
         "name": "Definitions",
-        "year": "2008-02-19",
+        "year": "2008",
         "genres": [
           "Metalcore"
         ]
@@ -2028,6 +2064,24 @@
     "tags": [
       "Alternative Rock",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "gorthon",
+    "displayName": "Gorthon",
+    "albums": [
+      {
+        "name": "Australia",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -2677,12 +2731,23 @@
           "Stoner Metal",
           "Psychedelic Rock"
         ]
+      },
+      {
+        "name": "(I Will) Watch My Hair Grow",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Psychedelic Rock",
+          "Doom Metal",
+          "Psychedelic Rock"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
       "Stoner Metal",
-      "Psychedelic Rock"
+      "Psychedelic Rock",
+      "Stoner Doom Metal"
     ]
   },
   {
@@ -4694,6 +4759,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "trucizna",
+    "displayName": "Trucizna",
+    "albums": [
+      {
+        "name": "Funerary Rite",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

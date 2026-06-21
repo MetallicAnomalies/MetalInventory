@@ -573,7 +573,7 @@
     "albums": [
       {
         "name": "Together Alone",
-        "year": "1997-10-24",
+        "year": "1997",
         "genres": [
           "Pop",
           "Pop Rock",
@@ -808,6 +808,22 @@
     "tags": [
       "Deathcore",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "asperatus",
+    "displayName": "Asperatus",
+    "albums": [
+      {
+        "name": "Shrines of Human Waste",
+        "year": "2026",
+        "genres": [
+          "Technical Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Technical Death Metal"
     ]
   },
   {
@@ -2453,48 +2469,6 @@
     ]
   },
   {
-    "normalizedName": "hænesy",
-    "displayName": "Hænesy",
-    "origin": "HU",
-    "albums": [
-      {
-        "name": "Mortals",
-        "year": "2017",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Katruzsa",
-        "year": "2018",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Earth & Space",
-        "year": "2019",
-        "genres": [
-          "Black Metal",
-          "Post-Metal",
-          "Atmospheric Black Metal"
-        ]
-      },
-      {
-        "name": "Garabontzia",
-        "year": "2021",
-        "genres": [
-          "Black Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Black Metal",
-      "Post-Metal",
-      "Atmospheric Black Metal"
-    ]
-  },
-  {
     "normalizedName": "hallig",
     "displayName": "Hallig",
     "albums": [
@@ -2618,6 +2592,48 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "hænesy",
+    "displayName": "Hænesy",
+    "origin": "HU",
+    "albums": [
+      {
+        "name": "Mortals",
+        "year": "2017",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Katruzsa",
+        "year": "2018",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Earth & Space",
+        "year": "2019",
+        "genres": [
+          "Black Metal",
+          "Post-Metal",
+          "Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "Garabontzia",
+        "year": "2021",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Post-Metal",
+      "Atmospheric Black Metal"
     ]
   },
   {
@@ -4100,6 +4116,18 @@
     ]
   },
   {
+    "normalizedName": "spreadeagle",
+    "displayName": "Spread Eagle",
+    "albums": [
+      {
+        "name": "The Brutal Divine",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "sweetsorrow",
     "displayName": "Sweet Sorrow",
     "albums": [
@@ -4600,11 +4628,21 @@
           "Death Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Divine Intervention",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Groove Metal",
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Melodic Death Groove Metal",
+      "Groove Metal"
     ]
   },
   {

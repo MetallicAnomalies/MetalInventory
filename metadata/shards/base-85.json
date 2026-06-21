@@ -620,34 +620,16 @@
     ]
   },
   {
-    "normalizedName": "bøg",
-    "displayName": "Bøg",
+    "normalizedName": "bongwizard",
+    "displayName": "Bong Wizard",
     "albums": [
       {
-        "name": "Mire",
-        "year": "2015",
-        "genres": [
-          "Sludge Metal"
-        ]
-      },
-      {
-        "name": "Jim",
-        "year": "2017",
-        "genres": [
-          "Sludge Metal"
-        ]
-      },
-      {
-        "name": "Growth",
-        "year": "2021",
-        "genres": [
-          "Sludge Metal"
-        ]
+        "name": "Transilvanian Munchies",
+        "year": "2026",
+        "genres": []
       }
     ],
-    "tags": [
-      "Sludge Metal"
-    ]
+    "tags": []
   },
   {
     "normalizedName": "brokenglasssanctuary",
@@ -680,11 +662,23 @@
         "genres": [
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "Antigenesis",
+        "year": "2026",
+        "genres": [
+          "Technical Death Deathcore",
+          "Groove Metal",
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
       "Technical Death Metal",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Technical Death Deathcore",
+      "Groove Metal",
+      "Deathcore"
     ]
   },
   {
@@ -708,6 +702,36 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "bøg",
+    "displayName": "Bøg",
+    "albums": [
+      {
+        "name": "Mire",
+        "year": "2015",
+        "genres": [
+          "Sludge Metal"
+        ]
+      },
+      {
+        "name": "Jim",
+        "year": "2017",
+        "genres": [
+          "Sludge Metal"
+        ]
+      },
+      {
+        "name": "Growth",
+        "year": "2021",
+        "genres": [
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal"
     ]
   },
   {
@@ -2645,6 +2669,11 @@
         "genres": [
           "Glam Metal"
         ]
+      },
+      {
+        "name": "Live From The Guild Theatre",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3522,11 +3551,21 @@
           "Doom Metal",
           "Psychedelic Rock"
         ]
+      },
+      {
+        "name": "The Age of Cosmic Disbelief",
+        "year": "2026",
+        "genres": [
+          "Progressive Stoner Metal",
+          "Stoner Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Psychedelic Rock"
+      "Psychedelic Rock",
+      "Progressive Stoner Metal",
+      "Stoner Metal"
     ]
   },
   {
@@ -3874,7 +3913,7 @@
       },
       {
         "name": "Backspacer",
-        "year": "2009-10-10",
+        "year": "2009",
         "genres": [
           "Alternative Rock",
           "Rock"
@@ -3892,7 +3931,7 @@
       },
       {
         "name": "Lightning Bolt",
-        "year": "2013-10-10",
+        "year": "2013",
         "genres": [
           "Alternative Rock",
           "Rock"
@@ -4618,6 +4657,22 @@
     ],
     "tags": [
       "Progressive Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "seventhsun",
+    "displayName": "Seventh Sun",
+    "albums": [
+      {
+        "name": "Murray's Live Sessions",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {
@@ -5388,11 +5443,21 @@
           "Post-Metal",
           "Black Metal"
         ]
+      },
+      {
+        "name": "Death Will Be My Bridge",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Post-Metal",
-      "Black Metal"
+      "Black Metal",
+      "Death Metal",
+      "Metal"
     ]
   },
   {

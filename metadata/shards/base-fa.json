@@ -531,11 +531,21 @@
         "genres": [
           "Crossover Thrash"
         ]
+      },
+      {
+        "name": "...and Hell Came with 'Em",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Crossover Thrash"
+      "Crossover Thrash",
+      "Thrash Metal",
+      "Crossover"
     ]
   },
   {
@@ -1131,6 +1141,22 @@
     ]
   },
   {
+    "normalizedName": "decadentimpurity",
+    "displayName": "Decadent Impurity",
+    "albums": [
+      {
+        "name": "The Dawn of Malevolent Resurrection",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "demonoid",
     "displayName": "Demonoid",
     "albums": [
@@ -1605,6 +1631,22 @@
     ]
   },
   {
+    "normalizedName": "finismentis",
+    "displayName": "Finis Mentis",
+    "albums": [
+      {
+        "name": "Varjojen maa",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Metal"
+    ]
+  },
+  {
     "normalizedName": "forselenasin",
     "displayName": "For Selena & Sin",
     "origin": "FI",
@@ -1638,6 +1680,22 @@
     ],
     "tags": [
       "Hip Hop"
+    ]
+  },
+  {
+    "normalizedName": "funeralofdisease",
+    "displayName": "Funeral of Disease",
+    "albums": [
+      {
+        "name": "Funeral of Disease",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {
@@ -1709,10 +1767,19 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "The Festering Triad",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Metal"
     ]
   },
   {
@@ -1770,6 +1837,22 @@
     ],
     "tags": [
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "harhaoppistenylipapitar",
+    "displayName": "Harhaoppisten Ylipapitar",
+    "albums": [
+      {
+        "name": "Unohdettujen viisauksien tykö",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {
@@ -3132,6 +3215,22 @@
     "tags": [
       "Heavy Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "nathir",
+    "displayName": "Nathir",
+    "albums": [
+      {
+        "name": "Nathir",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -5045,7 +5144,8 @@
     ],
     "tags": [
       "Thrash Metal"
-    ]
+    ],
+    "origin": "RU"
   },
   {
     "normalizedName": "נטעאבקסיס",

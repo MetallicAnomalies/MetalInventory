@@ -121,6 +121,22 @@
     ]
   },
   {
+    "normalizedName": "akhoth",
+    "displayName": "Akhoth",
+    "albums": [
+      {
+        "name": "Live Conjuration MMXXVI",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "anti",
     "displayName": "A.n.t.i.",
     "aliases": [
@@ -462,6 +478,24 @@
     ]
   },
   {
+    "normalizedName": "danados",
+    "displayName": "Dañados",
+    "albums": [
+      {
+        "name": "No Aprendemos Del Pasado",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Chiptune"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Chiptune"
+    ]
+  },
+  {
     "normalizedName": "dannyvera",
     "displayName": "Danny Vera",
     "origin": "US",
@@ -577,7 +611,7 @@
       },
       {
         "name": "On Every Street",
-        "year": "2009-06-06",
+        "year": "1991",
         "genres": [
           "Country Rock",
           "Classic Rock",
@@ -1627,6 +1661,22 @@
     ]
   },
   {
+    "normalizedName": "impureconception",
+    "displayName": "Impure Conception",
+    "albums": [
+      {
+        "name": "Prelude to Agony...",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "insain",
     "displayName": "Insain",
     "albums": [
@@ -2466,11 +2516,20 @@
           "Doom Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Live at The Wolf Den",
+        "year": "2026",
+        "genres": [
+          "Heavy Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Heavy Doom Metal"
     ]
   },
   {
@@ -2681,7 +2740,7 @@
       },
       {
         "name": "Soulcrusher",
-        "year": "2007-08-07",
+        "year": "2007",
         "genres": [
           "Hard Rock",
           "Rock"
@@ -3114,10 +3173,22 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Pax Nocturna",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Thrash Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Black Metal",
+      "Thrash Metal",
+      "Metal"
     ]
   },
   {
@@ -3779,6 +3850,11 @@
           "Heavy Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "Ashes",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4581,6 +4657,22 @@
       {
         "name": "Unortheta",
         "year": "2016",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "zimorog",
+    "displayName": "Zimorog",
+    "albums": [
+      {
+        "name": "Modern Slavic Horde",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

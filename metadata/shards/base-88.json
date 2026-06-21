@@ -798,6 +798,22 @@
     ]
   },
   {
+    "normalizedName": "broadwayshowdown",
+    "displayName": "Broadway Showdown",
+    "albums": [
+      {
+        "name": "I Think Coolsville Sucks",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "carvedinstone",
     "displayName": "Carved In Stone",
     "albums": [
@@ -1209,7 +1225,7 @@
       },
       {
         "name": "Epicloud",
-        "year": "2015-01-01",
+        "year": "2012",
         "genres": [
           "Progressive Metal"
         ]
@@ -4453,6 +4469,18 @@
     ]
   },
   {
+    "normalizedName": "veins",
+    "displayName": "Veins",
+    "albums": [
+      {
+        "name": "A New Forever",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "vholdghast",
     "displayName": "Vholdghast",
     "albums": [
@@ -4556,10 +4584,19 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Howling in Baptismal Filth",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Metal"
     ]
   },
   {

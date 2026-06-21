@@ -445,6 +445,13 @@
         "genres": [
           "Symphonic Black Metal"
         ]
+      },
+      {
+        "name": "Tower of Koth",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -1276,6 +1283,22 @@
     ]
   },
   {
+    "normalizedName": "dopechurch",
+    "displayName": "Dopechurch",
+    "albums": [
+      {
+        "name": "Demo",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "embraceofdisharmony",
     "displayName": "Embrace of Disharmony",
     "origin": "IT",
@@ -1901,11 +1924,21 @@
           "Progressive Doom",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Surgical Cuts in the Cosmos",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Doom",
-      "Hard Rock"
+      "Hard Rock",
+      "Progressive Metal",
+      "Metal"
     ]
   },
   {
@@ -3587,6 +3620,24 @@
     ]
   },
   {
+    "normalizedName": "ryken",
+    "displayName": "Rykën",
+    "albums": [
+      {
+        "name": "Living for Tonight",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "saasta",
     "displayName": "Saasta",
     "albums": [
@@ -3924,6 +3975,11 @@
           "Progressive Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "Beyond Spacetime",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4585,6 +4641,24 @@
     ],
     "tags": [
       "Drone Metal"
+    ]
+  },
+  {
+    "normalizedName": "σεμιαγωνια",
+    "displayName": "Σε Μια Γωνια",
+    "albums": [
+      {
+        "name": "ΔΑΚΡΥΑ ΣΑΝ ΞΥΡΑΦΙΑ",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "D-Beat"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "D-Beat"
     ]
   }
 ]

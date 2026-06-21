@@ -87,6 +87,24 @@
     ]
   },
   {
+    "normalizedName": "alteredmind",
+    "displayName": "Altered Mind",
+    "albums": [
+      {
+        "name": "Sick and Damn Reality",
+        "year": "2026",
+        "genres": [
+          "Thrash Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Black Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "anuryzm",
     "displayName": "Anuryzm",
     "albums": [
@@ -1073,11 +1091,27 @@
           "Progressive Death Metal",
           "Grindcore"
         ]
+      },
+      {
+        "name": "Depressants",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Doom Metal",
+          "Progressive Metal",
+          "Thrash Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Death Metal",
-      "Grindcore"
+      "Grindcore",
+      "Death Metal",
+      "Doom Metal",
+      "Progressive Metal",
+      "Thrash Metal",
+      "Metal"
     ]
   },
   {
@@ -2809,7 +2843,7 @@
       },
       {
         "name": "Radio Bemba Sound System",
-        "year": "2015-08-08",
+        "year": "2002",
         "genres": [
           "Folk Rock",
           "Punk",
@@ -3407,7 +3441,8 @@
     ],
     "tags": [
       "Pagan Black Metal"
-    ]
+    ],
+    "origin": "PL"
   },
   {
     "normalizedName": "protosequence",

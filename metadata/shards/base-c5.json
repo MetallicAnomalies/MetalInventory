@@ -308,6 +308,36 @@
     ]
   },
   {
+    "normalizedName": "asedio",
+    "displayName": "Asedio",
+    "albums": [
+      {
+        "name": "Sed de aniquilación",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "asoceansdivide",
+    "displayName": "As Oceans Divide",
+    "albums": [
+      {
+        "name": "As Oceans Divide EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "assassin",
     "displayName": "Assassin",
     "origin": "FR",
@@ -1793,6 +1823,18 @@
     ]
   },
   {
+    "normalizedName": "irata",
+    "displayName": "Irata",
+    "albums": [
+      {
+        "name": "Human",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "kermania",
     "displayName": "Kermania",
     "albums": [
@@ -2204,6 +2246,32 @@
     ],
     "tags": [
       "Melodic Power"
+    ]
+  },
+  {
+    "normalizedName": "metempsychosis",
+    "displayName": "Metempsychosis",
+    "albums": [
+      {
+        "name": "Thine Soul, Quenched by Styx",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Leitmotiv Nielle",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -2989,6 +3057,11 @@
         "genres": [
           "Crossover Thrash"
         ]
+      },
+      {
+        "name": "Things I Want EP",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3639,6 +3712,11 @@
         "genres": [
           "Speed Metal"
         ]
+      },
+      {
+        "name": "Cimbrian Rites",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4241,10 +4319,20 @@
         "genres": [
           "Blackened Thrash Metal"
         ]
+      },
+      {
+        "name": "Victory",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Blackened Thrash Metal"
+      "Blackened Thrash Metal",
+      "Black Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

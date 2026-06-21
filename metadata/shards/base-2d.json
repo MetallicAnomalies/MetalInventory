@@ -1006,7 +1006,7 @@
       },
       {
         "name": "Into The Wild",
-        "year": "2009-08-08",
+        "year": "2007",
         "genres": [
           "Soundtrack",
           "Alternative Rock",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Ukulele Songs",
-        "year": "2011-05-05",
+        "year": "2011",
         "genres": [
           "Pop Rock",
           "Alternative Rock",
@@ -1846,6 +1846,13 @@
       {
         "name": "Ode Au Désert Suspendu",
         "year": "2020",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Comment est la nuit ?",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]
@@ -3373,7 +3380,7 @@
       },
       {
         "name": "The Roundhouse Tapes",
-        "year": "2008-12-12",
+        "year": "2007",
         "genres": [
           "Prog Rock",
           "Acoustic",
@@ -4642,6 +4649,11 @@
           "Doom Metal",
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Fading Failing Ruin",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -5217,6 +5229,18 @@
       "Stoner Rock",
       "Arena Rock"
     ]
+  },
+  {
+    "normalizedName": "vintregal",
+    "displayName": "Vintregal",
+    "albums": [
+      {
+        "name": "Назустріч Останньому Світанку EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "walkthroughfire",

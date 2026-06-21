@@ -2939,6 +2939,18 @@
     ]
   },
   {
+    "normalizedName": "orgamecha",
+    "displayName": "Orga Mecha",
+    "albums": [
+      {
+        "name": "Humanity.exe",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "orpheusomega",
     "displayName": "Orpheus Omega",
     "origin": "HU",
@@ -3429,6 +3441,73 @@
     ]
   },
   {
+    "normalizedName": "samfischer",
+    "displayName": "Sam Fischer",
+    "origin": "US",
+    "albums": [
+      {
+        "name": "This City",
+        "year": "2019",
+        "genres": [
+          "Pop"
+        ]
+      }
+    ],
+    "tags": [
+      "Pop"
+    ]
+  },
+  {
+    "normalizedName": "samulifederley",
+    "displayName": "Samuli Federley",
+    "albums": [
+      {
+        "name": "Quest For Remedy",
+        "year": "2012",
+        "genres": [
+          "Progressive Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Lifestream",
+        "year": "2018",
+        "genres": [
+          "Progressive Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "9 Classics With 8 Strings",
+        "year": "2020",
+        "genres": [
+          "Progressive Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Introducing",
+        "year": "2020",
+        "genres": [
+          "Progressive Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Stormylized",
+        "year": "2023",
+        "genres": [
+          "Progressive Metal",
+          "Shred"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal",
+      "Shred"
+    ]
+  },
+  {
     "normalizedName": "saħħar",
     "displayName": "Saħħar",
     "albums": [
@@ -3515,77 +3594,17 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Miġja ta Moħħ Miġnun",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal"
-    ]
-  },
-  {
-    "normalizedName": "samfischer",
-    "displayName": "Sam Fischer",
-    "origin": "US",
-    "albums": [
-      {
-        "name": "This City",
-        "year": "2019",
-        "genres": [
-          "Pop"
-        ]
-      }
-    ],
-    "tags": [
-      "Pop"
-    ]
-  },
-  {
-    "normalizedName": "samulifederley",
-    "displayName": "Samuli Federley",
-    "albums": [
-      {
-        "name": "Quest For Remedy",
-        "year": "2012",
-        "genres": [
-          "Progressive Metal",
-          "Shred"
-        ]
-      },
-      {
-        "name": "Lifestream",
-        "year": "2018",
-        "genres": [
-          "Progressive Metal",
-          "Shred"
-        ]
-      },
-      {
-        "name": "9 Classics With 8 Strings",
-        "year": "2020",
-        "genres": [
-          "Progressive Metal",
-          "Shred"
-        ]
-      },
-      {
-        "name": "Introducing",
-        "year": "2020",
-        "genres": [
-          "Progressive Metal",
-          "Shred"
-        ]
-      },
-      {
-        "name": "Stormylized",
-        "year": "2023",
-        "genres": [
-          "Progressive Metal",
-          "Shred"
-        ]
-      }
-    ],
-    "tags": [
-      "Progressive Metal",
-      "Shred"
     ]
   },
   {
@@ -3714,6 +3733,13 @@
       {
         "name": "Overdeath",
         "year": "2023",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "I.R.E.",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]
@@ -3985,6 +4011,24 @@
     ],
     "tags": [
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "termogaunt",
+    "displayName": "Termogaunt",
+    "albums": [
+      {
+        "name": "Black metal hematofagia",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

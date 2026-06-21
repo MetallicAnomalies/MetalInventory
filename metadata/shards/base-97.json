@@ -1,5 +1,21 @@
 [
   {
+    "normalizedName": "ablazenwinds",
+    "displayName": "Ablazen Winds",
+    "albums": [
+      {
+        "name": "Kingsblood + Burning Scripture of War",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "acidrow",
     "displayName": "Acid Row",
     "albums": [
@@ -1678,6 +1694,22 @@
     ]
   },
   {
+    "normalizedName": "haruspex",
+    "displayName": "Haruspex",
+    "albums": [
+      {
+        "name": "Magos del metal",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "hatecraft",
     "displayName": "Hatecraft",
     "albums": [
@@ -2534,6 +2566,22 @@
     ],
     "tags": [
       "Symphonic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "nazgash",
+    "displayName": "Nazgash",
+    "albums": [
+      {
+        "name": "Eternal Cycle of Death",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

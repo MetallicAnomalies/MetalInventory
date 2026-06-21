@@ -766,6 +766,18 @@
     ]
   },
   {
+    "normalizedName": "colorblind",
+    "displayName": "Colorblind",
+    "albums": [
+      {
+        "name": "Who Sold You This Truth ++ Was It Yours To Hold",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "cripplebastards",
     "displayName": "Cripple Bastards",
     "albums": [
@@ -859,10 +871,24 @@
         "genres": [
           "Grindcore"
         ]
+      },
+      {
+        "name": "La Tua Foto Sul Marmo EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "La tua foto sul marmo",
+        "year": "2026",
+        "genres": [
+          "Noisecore",
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
-      "Grindcore"
+      "Grindcore",
+      "Noisecore"
     ]
   },
   {
@@ -1427,6 +1453,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Demo MMXXVI",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -1704,6 +1737,36 @@
     ]
   },
   {
+    "normalizedName": "immortalrotting",
+    "displayName": "Immortal Rotting",
+    "albums": [
+      {
+        "name": "Festering Fog",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "inherited",
+    "displayName": "Inherited",
+    "albums": [
+      {
+        "name": "All 4 One EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "internalrot",
     "displayName": "Internal Rot",
     "albums": [
@@ -1821,6 +1884,18 @@
       "Heavy Metal",
       "Thrash Metal"
     ]
+  },
+  {
+    "normalizedName": "kidferal",
+    "displayName": "Kid Feral",
+    "albums": [
+      {
+        "name": "2019",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "koroded",
@@ -2493,12 +2568,24 @@
         "genres": [
           "Industrial Symphonic"
         ]
+      },
+      {
+        "name": "Nature is Fair",
+        "year": "2026",
+        "genres": [
+          "Symphonic Djent",
+          "Industrial Death Metal",
+          "Djent"
+        ]
       }
     ],
     "tags": [
       "Industrial Symphonic",
       "Heavy Metal",
-      "Industrial Metal"
+      "Industrial Metal",
+      "Symphonic Djent",
+      "Industrial Death Metal",
+      "Djent"
     ]
   },
   {
@@ -4389,6 +4476,11 @@
           "Hardcore Metal",
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "Abyssal Womb",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

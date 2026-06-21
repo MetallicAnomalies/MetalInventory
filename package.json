@@ -4,7 +4,8 @@
   "description": "Every data my app needs, test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update-releases": "python scripts/metal_archives.py && python scripts/import_metal_releases.py"
   },
   "repository": {
     "type": "git",

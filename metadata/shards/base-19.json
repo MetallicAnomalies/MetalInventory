@@ -154,6 +154,24 @@
     ]
   },
   {
+    "normalizedName": "aimlessdeath",
+    "displayName": "Aimless Death",
+    "albums": [
+      {
+        "name": "Inquisition",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "airbag",
     "displayName": "Airbag",
     "origin": "ES",
@@ -6146,10 +6164,26 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Route to the Outer Side",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Route To The Other Side",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Death Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -6575,7 +6609,8 @@
     ],
     "tags": [
       "Black Metal"
-    ]
+    ],
+    "origin": "CL"
   },
   {
     "normalizedName": "malhkebre",
@@ -7813,6 +7848,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "tabernakel",
+    "displayName": "Tabernakel",
+    "albums": [
+      {
+        "name": "Scheintaufe",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

@@ -97,6 +97,11 @@
         "genres": [
           "Symphonic Power"
         ]
+      },
+      {
+        "name": "Temptation’s Gate",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1399,6 +1404,26 @@
     ]
   },
   {
+    "normalizedName": "erythritethrone",
+    "displayName": "Erythrite Throne",
+    "albums": [
+      {
+        "name": "Clandestine Spells from the Plagueworn Catacombs of the Stygian Master",
+        "year": "2026",
+        "genres": [
+          "Black Dungeon Synth",
+          "Doom Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Dungeon Synth",
+      "Doom Metal",
+      "Dungeon Synth"
+    ]
+  },
+  {
     "normalizedName": "eternalbloodshed",
     "displayName": "Eternal Bloodshed",
     "albums": [
@@ -1429,6 +1454,18 @@
     "tags": [
       "Melodic Death Metal"
     ]
+  },
+  {
+    "normalizedName": "fireflame",
+    "displayName": "FireFlame",
+    "albums": [
+      {
+        "name": "Force Against The End",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "flameimperishable",
@@ -1855,6 +1892,18 @@
     ]
   },
   {
+    "normalizedName": "illwind",
+    "displayName": "Illwind",
+    "albums": [
+      {
+        "name": "The Unfolding At The End Of Light",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "impalethebetrayer",
     "displayName": "Impale the Betrayer",
     "origin": "US",
@@ -2030,6 +2079,24 @@
     ],
     "tags": [
       "Blackened Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "lethargicdecay",
+    "displayName": "Lethargic Decay",
+    "albums": [
+      {
+        "name": "The Cataclysmic, Inexorable Collapse of the Universe",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {
@@ -3359,6 +3426,18 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Boom Bang Goodbye",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Wait",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -3680,6 +3759,24 @@
     ]
   },
   {
+    "normalizedName": "sternocleidomastoid",
+    "displayName": "Sternocleidomastoid",
+    "albums": [
+      {
+        "name": "Vile File",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal",
+      "Deathcore"
+    ]
+  },
+  {
     "normalizedName": "stonedrive",
     "displayName": "Stone Drive",
     "albums": [
@@ -3871,6 +3968,18 @@
     "tags": [
       "Industrial Metal"
     ]
+  },
+  {
+    "normalizedName": "thedredge",
+    "displayName": "The Dredge",
+    "albums": [
+      {
+        "name": "Down The Beach",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "thelucid",

@@ -182,6 +182,18 @@
     ]
   },
   {
+    "normalizedName": "abyssalrift",
+    "displayName": "Abyssal Rift",
+    "albums": [
+      {
+        "name": "Relics Of Great Ash",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "adfail",
     "displayName": "Adfail",
     "albums": [
@@ -666,11 +678,32 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Till Glömskan Ad Oblivionem",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
       "Stoner Rock",
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "blastinghatred",
+    "displayName": "Blasting Hatred",
+    "albums": [
+      {
+        "name": "Necoc Yaotl",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {
@@ -1280,6 +1313,18 @@
       "Grindcore",
       "Punk"
     ]
+  },
+  {
+    "normalizedName": "dishumane",
+    "displayName": "Dishumane",
+    "albums": [
+      {
+        "name": "Centurion’s Demise EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "divinerealm",
@@ -3735,6 +3780,26 @@
     ]
   },
   {
+    "normalizedName": "pythonic",
+    "displayName": "Pythonic",
+    "albums": [
+      {
+        "name": "Laws of Karma",
+        "year": "2026",
+        "genres": [
+          "Thrash Metalcore",
+          "Groove Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metalcore",
+      "Groove Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "rivals",
     "displayName": "Rivals",
     "origin": "US",
@@ -4049,6 +4114,22 @@
     ],
     "tags": [
       "Symphonic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "taarma",
+    "displayName": "Taarma",
+    "albums": [
+      {
+        "name": "Emptiness Surrounds Me",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

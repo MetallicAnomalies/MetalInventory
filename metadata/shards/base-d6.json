@@ -156,43 +156,6 @@
     ]
   },
   {
-    "normalizedName": "æxylium",
-    "displayName": "æXylium",
-    "albums": [
-      {
-        "name": "The Blind Crow",
-        "year": "2016",
-        "genres": [
-          "Folk Metal"
-        ]
-      },
-      {
-        "name": "Tales From This Land",
-        "year": "2018",
-        "genres": [
-          "Folk Metal"
-        ]
-      },
-      {
-        "name": "The Fifth Season",
-        "year": "2021",
-        "genres": [
-          "Folk Metal"
-        ]
-      },
-      {
-        "name": "Myth Of Mankind",
-        "year": "2025",
-        "genres": [
-          "Folk Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Folk Metal"
-    ]
-  },
-  {
     "normalizedName": "algywardstank",
     "displayName": "Algy Ward's Tank",
     "albums": [
@@ -1096,6 +1059,11 @@
           "Melodic Black Metal",
           "Blackened Death Metal"
         ]
+      },
+      {
+        "name": "Return To Helmbrook",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1542,6 +1510,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "el",
+    "displayName": "- EL -",
+    "albums": [
+      {
+        "name": "The Angelarium",
+        "year": "2026",
+        "genres": [
+          "Technical Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Technical Death Metal"
     ]
   },
   {
@@ -2125,6 +2109,18 @@
       "Technical Death Metal",
       "Progressive Metal"
     ]
+  },
+  {
+    "normalizedName": "horizonofaeons",
+    "displayName": "Horizon Of Aeons",
+    "albums": [
+      {
+        "name": "Timeless Forms Of Desolation",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "hrafnjarl",
@@ -3806,6 +3802,49 @@
     ]
   },
   {
+    "normalizedName": "pestilentdecay",
+    "displayName": "Pestilent Decay",
+    "albums": [
+      {
+        "name": "Dying... In Agony",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "phantomcorporationcatbreath",
+    "displayName": "Phantom Corporation/Catbreath",
+    "albums": [
+      {
+        "name": "Commando/Die By The Claw Split",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Commando / Die by the Claw",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Crust | Crossover Hardcore",
+          "Thrash Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Crust | Crossover Hardcore",
+      "Thrash Metal",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "podpeople",
     "displayName": "Pod People",
     "albums": [
@@ -4932,5 +4971,43 @@
     "tags": [
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "æxylium",
+    "displayName": "æXylium",
+    "albums": [
+      {
+        "name": "The Blind Crow",
+        "year": "2016",
+        "genres": [
+          "Folk Metal"
+        ]
+      },
+      {
+        "name": "Tales From This Land",
+        "year": "2018",
+        "genres": [
+          "Folk Metal"
+        ]
+      },
+      {
+        "name": "The Fifth Season",
+        "year": "2021",
+        "genres": [
+          "Folk Metal"
+        ]
+      },
+      {
+        "name": "Myth Of Mankind",
+        "year": "2025",
+        "genres": [
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Folk Metal"
+    ],
+    "origin": "CA"
   }
 ]

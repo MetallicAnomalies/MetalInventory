@@ -771,6 +771,18 @@
     ]
   },
   {
+    "normalizedName": "blackroserebellion",
+    "displayName": "Black Rose Rebellion",
+    "albums": [
+      {
+        "name": "Hail The Rebel Queen",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "blaspherian",
     "displayName": "Blaspherian",
     "albums": [
@@ -1839,6 +1851,18 @@
     "tags": [
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "evilisland",
+    "displayName": "Evil Island",
+    "albums": [
+      {
+        "name": "Terraform The Afterlife",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "evolvent",
@@ -3458,6 +3482,22 @@
     ]
   },
   {
+    "normalizedName": "omnism",
+    "displayName": "Omnism",
+    "albums": [
+      {
+        "name": "A Sleeper Awake",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "pantheonusa",
     "displayName": "Pantheon (Usa)",
     "albums": [
@@ -3766,10 +3806,19 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "The Witch King",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Doom Metal"
+      "Doom Metal",
+      "Death Doom Metal"
     ]
   },
   {
@@ -3941,6 +3990,22 @@
     ],
     "tags": [
       "Screamo"
+    ]
+  },
+  {
+    "normalizedName": "ruggedbutcher",
+    "displayName": "Rugged Butcher",
+    "albums": [
+      {
+        "name": "Battle Inside",
+        "year": "2026",
+        "genres": [
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal"
     ]
   },
   {
@@ -4780,6 +4845,24 @@
     ]
   },
   {
+    "normalizedName": "vastago",
+    "displayName": "Vastago",
+    "albums": [
+      {
+        "name": "Influencias adversas de un sol adyacente",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "videonasty",
     "displayName": "Video Nasty",
     "albums": [
@@ -4919,6 +5002,11 @@
           "Horror Rock",
           "Punk"
         ]
+      },
+      {
+        "name": "Live At Pol’and Rock",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -5301,5 +5389,17 @@
     "tags": [
       "Thrash Metal"
     ]
+  },
+  {
+    "normalizedName": "zancody",
+    "displayName": "Zan/Cody",
+    "albums": [
+      {
+        "name": "Beautiful ‘N Damned",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   }
 ]

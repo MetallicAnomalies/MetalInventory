@@ -800,7 +800,7 @@
       },
       {
         "name": "Bestbreeder From 1997 To 2000",
-        "year": "2003-08-25",
+        "year": "2003",
         "genres": [
           "Heavy Metal",
           "Death Metal"
@@ -879,7 +879,7 @@
       },
       {
         "name": "Holiday At Lake Bodom, 15 Years Of Wasted Youth",
-        "year": "2012-01-01",
+        "year": "2012",
         "genres": [
           "Heavy Metal",
           "Melodic Death Metal"
@@ -1446,6 +1446,11 @@
           "Hard Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Villainous",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1632,6 +1637,22 @@
       "Classical",
       "Baroque",
       "Organ"
+    ]
+  },
+  {
+    "normalizedName": "fatedtofall",
+    "displayName": "Fated to Fall",
+    "albums": [
+      {
+        "name": "Avenging Farfur",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {
@@ -1834,6 +1855,18 @@
     ]
   },
   {
+    "normalizedName": "hellmetall",
+    "displayName": "Hellmetall",
+    "albums": [
+      {
+        "name": "Mgla",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "hematic",
     "displayName": "Hematic",
     "albums": [
@@ -1945,6 +1978,18 @@
     "tags": [
       "Black 'N Roll"
     ]
+  },
+  {
+    "normalizedName": "imperathron",
+    "displayName": "Imperathron",
+    "albums": [
+      {
+        "name": "Polemos Pater Panton",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "imperia",
@@ -2863,11 +2908,20 @@
           "Deathcore",
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Red Sun Dawn",
+        "year": "2026",
+        "genres": [
+          "Deathcore",
+          "Symphonic Deathcore"
+        ]
       }
     ],
     "tags": [
       "Deathcore",
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Symphonic Deathcore"
     ]
   },
   {
@@ -3580,6 +3634,18 @@
     ]
   },
   {
+    "normalizedName": "outshine",
+    "displayName": "Outshine",
+    "albums": [
+      {
+        "name": "Truthsayer",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "paullidelsscreamtherapy",
     "displayName": "Paul Lidel's Scream Therapy",
     "albums": [
@@ -3700,6 +3766,24 @@
     ]
   },
   {
+    "normalizedName": "purgatorium",
+    "displayName": "Purgatorium",
+    "albums": [
+      {
+        "name": "La era de los panteones infinitos",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "quicksand",
     "displayName": "Quicksand",
     "origin": "US",
@@ -3711,6 +3795,11 @@
           "Alternative Rock",
           "Post-hardcore"
         ]
+      },
+      {
+        "name": "Bring On The Psychics",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3769,6 +3858,22 @@
     ],
     "tags": [
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "regeneration",
+    "displayName": "Regeneration",
+    "albums": [
+      {
+        "name": "Demos 2025",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Metal"
     ]
   },
   {
@@ -4709,6 +4814,13 @@
       {
         "name": "Symphony Of The Night",
         "year": "2021",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "White Raven",
+        "year": "2026",
         "genres": [
           "Melodic Death Metal"
         ]

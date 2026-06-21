@@ -1597,11 +1597,19 @@
         "genres": [
           "Groove Metal"
         ]
+      },
+      {
+        "name": "Requiem For A Pipe Dream",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Groove Metal",
-      "Rock"
+      "Rock",
+      "Metal"
     ]
   },
   {
@@ -1793,6 +1801,11 @@
           "Thrash Metal",
           "Punk"
         ]
+      },
+      {
+        "name": "Repulsion EP",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2083,6 +2096,24 @@
     ]
   },
   {
+    "normalizedName": "fieldeffect",
+    "displayName": "Field Effect",
+    "albums": [
+      {
+        "name": "Extreme Soul Modifications",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal",
+      "Ambient"
+    ]
+  },
+  {
     "normalizedName": "ghoul",
     "displayName": "Ghoul",
     "origin": "US",
@@ -2356,6 +2387,18 @@
     ]
   },
   {
+    "normalizedName": "jasmeno",
+    "displayName": "Jasmeno",
+    "albums": [
+      {
+        "name": "Assemblage Of Cinematic Idioms",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "kriegita",
     "displayName": "Krieg (Ita)",
     "albums": [
@@ -2395,6 +2438,22 @@
     ],
     "tags": [
       "Avantgarde Black"
+    ]
+  },
+  {
+    "normalizedName": "lecher",
+    "displayName": "Lecher",
+    "albums": [
+      {
+        "name": "Rebirth",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {
@@ -3714,6 +3773,11 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Procreating Mass Carnage/Inherent Perversion/Destined To Fail Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

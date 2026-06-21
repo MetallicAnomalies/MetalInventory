@@ -626,11 +626,20 @@
           "Black Metal",
           "Viking Folk"
         ]
+      },
+      {
+        "name": "Black Vortex (The Havoc of Intellect)",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Viking Folk"
+      "Viking Folk",
+      "Ambient"
     ]
   },
   {
@@ -786,6 +795,18 @@
       "Black Metal",
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "blackmarket",
+    "displayName": "BlackMarket",
+    "albums": [
+      {
+        "name": "Radical Views EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "bloodphemy",
@@ -2720,6 +2741,11 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Limited Infinity",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2913,6 +2939,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "noescape",
+    "displayName": "No Escape",
+    "albums": [
+      {
+        "name": "Embodied Agony",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Hardcore"
     ]
   },
   {
@@ -3541,6 +3585,18 @@
     ]
   },
   {
+    "normalizedName": "shaboom",
+    "displayName": "Sha-Boom",
+    "albums": [
+      {
+        "name": "Another Nail In The Coffin",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "shapeofdespair",
     "displayName": "Shape of Despair",
     "origin": "FI",
@@ -3729,6 +3785,18 @@
       "Funk Rock",
       "Hardcore Metal"
     ]
+  },
+  {
+    "normalizedName": "slovenians",
+    "displayName": "Slovenians",
+    "albums": [
+      {
+        "name": "Birds Of Disgrace",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "solarnaut",
@@ -4074,7 +4142,7 @@
       },
       {
         "name": "Stars",
-        "year": "2002-09-16",
+        "year": "2002",
         "genres": [
           "Alternative Rock",
           "Pop Rock",

@@ -1444,11 +1444,25 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Unholy Barbaric Hymns EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Unholy Barbaric Hymns",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "Black Death Metal"
     ]
   },
   {
@@ -1679,6 +1693,18 @@
       {
         "name": "Violence Is Gold",
         "year": "2023",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Coffin Born EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Coffin Born",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]
@@ -2475,6 +2501,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "iselder",
+    "displayName": "Iselder",
+    "albums": [
+      {
+        "name": "The 38th Division",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3386,6 +3428,11 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "ReLoad Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3495,6 +3542,22 @@
     ],
     "tags": [
       "Electronic Symphonic"
+    ]
+  },
+  {
+    "normalizedName": "nebuloso",
+    "displayName": "Nebuloso",
+    "albums": [
+      {
+        "name": "1889",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {
@@ -3624,6 +3687,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "La Lune Dont Mon Âme Est Pleine",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -5076,6 +5144,18 @@
       "Progressive Metal",
       "Math Rock"
     ]
+  },
+  {
+    "normalizedName": "tsarstangra",
+    "displayName": "Tsar Stangra",
+    "albums": [
+      {
+        "name": "Химните на разрушените светове  (Hymns of the Broken Worlds)",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "typhoon",

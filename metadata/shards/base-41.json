@@ -237,6 +237,13 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Renacer del héroe",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -1414,6 +1421,18 @@
     ]
   },
   {
+    "normalizedName": "dwarves",
+    "displayName": "Dwarves",
+    "albums": [
+      {
+        "name": "Jenkem",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "eclipseprophecy",
     "displayName": "Eclipse Prophecy",
     "albums": [
@@ -1929,6 +1948,24 @@
     ]
   },
   {
+    "normalizedName": "huntressofstars",
+    "displayName": "Huntress of Stars",
+    "albums": [
+      {
+        "name": "Monarchs of the Blackened Waves",
+        "year": "2026",
+        "genres": [
+          "Sludge Post-Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Post-Metal",
+      "Post-Metal"
+    ]
+  },
+  {
     "normalizedName": "ignivomous",
     "displayName": "Ignivomous",
     "albums": [
@@ -2339,11 +2376,27 @@
           "Metalcore",
           "Groove Thrash"
         ]
+      },
+      {
+        "name": "Malummeh EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Malummeh",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Thrash Groove Metal",
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Groove Thrash"
+      "Groove Thrash",
+      "Thrash Groove Metal",
+      "Groove Metal"
     ]
   },
   {
@@ -2506,6 +2559,11 @@
         "genres": [
           "Progressive Rock"
         ]
+      },
+      {
+        "name": "Marillion.com Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3213,6 +3271,24 @@
     ],
     "tags": [
       "Melodic Heavy"
+    ]
+  },
+  {
+    "normalizedName": "rohypnol",
+    "displayName": "Rohypnol",
+    "albums": [
+      {
+        "name": "Kulak Organs / Kill Rapists",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {
@@ -3957,6 +4033,13 @@
         "genres": [
           "Gothic Metal"
         ]
+      },
+      {
+        "name": "Departures",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
@@ -4058,6 +4141,11 @@
           "Alternative Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "We Are Unpeople",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4152,7 +4240,8 @@
     "tags": [
       "Heavy Metal",
       "Power Metal"
-    ]
+    ],
+    "origin": "RU"
   },
   {
     "normalizedName": "гробоваядоска",
@@ -4182,6 +4271,7 @@
     ],
     "tags": [
       "Thrash Metal"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

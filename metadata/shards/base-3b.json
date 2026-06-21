@@ -156,6 +156,13 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Sake Battle",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -356,6 +363,17 @@
           "Black Metal",
           "Crust Punk"
         ]
+      },
+      {
+        "name": "Road to Dominion - Live Recordings",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Crust Dark Ambient",
+          "Metalcore",
+          "Drone Dark Ambient",
+          "Dark Ambient"
+        ]
       }
     ],
     "tags": [
@@ -370,7 +388,9 @@
       "Hardcore Metal",
       "Crust Metal",
       "Metalcore",
-      "Grindcore"
+      "Grindcore",
+      "Crust Dark Ambient",
+      "Drone Dark Ambient"
     ]
   },
   {
@@ -1678,13 +1698,21 @@
           "Mathcore",
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "Epigrama",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Sludge Metal",
       "Hardcore Metal",
       "Black Metal",
-      "Mathcore"
+      "Mathcore",
+      "Metal"
     ]
   },
   {
@@ -3385,10 +3413,25 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Not Midnight Yet",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Out of the Mausoleum",
+        "year": "2026",
+        "genres": [
+          "Thrash Speed Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Thrash Speed Metal",
+      "Speed Metal"
     ]
   },
   {
@@ -3595,6 +3638,11 @@
           "Industrial Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Prisoner",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4159,6 +4207,18 @@
     ]
   },
   {
+    "normalizedName": "sahara",
+    "displayName": "Sahara",
+    "albums": [
+      {
+        "name": "Sahara Re-Release",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "satanicnorth",
     "displayName": "Satanic North",
     "albums": [
@@ -4202,6 +4262,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "scaleofalkan",
+    "displayName": "Scale of Alkan",
+    "albums": [
+      {
+        "name": "Rat Town",
+        "year": "2026",
+        "genres": [
+          "Power Speed Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Speed Metal",
+      "Speed Metal"
     ]
   },
   {
@@ -4606,6 +4684,18 @@
     "tags": [
       "Stoner Metal"
     ]
+  },
+  {
+    "normalizedName": "thedogs",
+    "displayName": "The Dogs",
+    "albums": [
+      {
+        "name": "Trauma Junkie",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "theearlynovember",

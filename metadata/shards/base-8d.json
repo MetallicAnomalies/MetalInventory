@@ -441,6 +441,26 @@
     ]
   },
   {
+    "normalizedName": "cultusinfernum",
+    "displayName": "Cultus Infernum",
+    "albums": [
+      {
+        "name": "DEMO 2026",
+        "year": "2026",
+        "genres": [
+          "Black Heavy Metal",
+          "Thrash Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Heavy Metal",
+      "Thrash Heavy Metal",
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "cutterredflesh",
     "displayName": "Cutterred Flesh",
     "albums": [
@@ -1753,6 +1773,18 @@
     ]
   },
   {
+    "normalizedName": "kidbookie",
+    "displayName": "Kid Bookie",
+    "albums": [
+      {
+        "name": "Cheaper Than Therapy II",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "kingzog",
     "displayName": "King Zog",
     "albums": [
@@ -2281,6 +2313,22 @@
     ]
   },
   {
+    "normalizedName": "nedgravd",
+    "displayName": "Nedgravd",
+    "albums": [
+      {
+        "name": "Ascension",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "novaskellis",
     "displayName": "Nova Skellis",
     "albums": [
@@ -2635,7 +2683,8 @@
     ],
     "tags": [
       "Rock And Roll"
-    ]
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "polarization",
@@ -2652,6 +2701,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "primalcult",
+    "displayName": "Primal Cult",
+    "albums": [
+      {
+        "name": "Dark Passage",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
     ]
   },
   {
@@ -2731,6 +2796,24 @@
       "Death Metal",
       "Trip-hop",
       "Nu Metal"
+    ]
+  },
+  {
+    "normalizedName": "putricision",
+    "displayName": "Putrïcïsion",
+    "albums": [
+      {
+        "name": "Demo 1",
+        "year": "2026",
+        "genres": [
+          "Grindcore Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -3186,6 +3269,11 @@
           "Hard Rock",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Just Live Loud!",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

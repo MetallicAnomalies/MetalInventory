@@ -411,6 +411,18 @@
     ]
   },
   {
+    "normalizedName": "belvedere",
+    "displayName": "Belvedere",
+    "albums": [
+      {
+        "name": "Seven Years Of Bad Luck",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "bios",
     "displayName": "Bios",
     "albums": [
@@ -946,6 +958,26 @@
     ],
     "tags": [
       "Avantgarde Metal"
+    ]
+  },
+  {
+    "normalizedName": "cryptidwitch",
+    "displayName": "Cryptid Witch",
+    "albums": [
+      {
+        "name": "Invocātiōnēs Prīmōrēs MMXXV",
+        "year": "2026",
+        "genres": [
+          "Death Sludge Metal",
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Sludge Metal",
+      "Doom Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {
@@ -1998,6 +2030,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "hainsang",
+    "displayName": "Hainsang",
+    "albums": [
+      {
+        "name": "Hainsang",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
     ]
   },
   {
@@ -3169,6 +3217,13 @@
       {
         "name": "Return To The Halls",
         "year": "2024",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Lupaus",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]
@@ -5121,6 +5176,7 @@
     "tags": [
       "Power Metal",
       "Speed Metal"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

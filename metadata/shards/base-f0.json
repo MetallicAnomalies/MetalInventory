@@ -818,6 +818,11 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Vortex Of The Dark Knowledge",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3023,6 +3028,13 @@
           "Black Metal",
           "Folk Metal"
         ]
+      },
+      {
+        "name": "Veneficium",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -3171,7 +3183,7 @@
     "albums": [
       {
         "name": "Dummy",
-        "year": "2022-10-10",
+        "year": "1994",
         "genres": [
           "Abstract",
           "Downtempo",

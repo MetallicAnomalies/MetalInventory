@@ -130,6 +130,22 @@
     ]
   },
   {
+    "normalizedName": "aftoktonia",
+    "displayName": "Aftoktonia",
+    "albums": [
+      {
+        "name": "Wandering Across Hyperdimensional Cathedrals of Cosmic Derangement",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "aionjpn",
     "displayName": "Aion (Jpn)",
     "albums": [
@@ -1163,12 +1179,24 @@
           "Hardcore Metal",
           "Punk"
         ]
+      },
+      {
+        "name": "Wired for Chaos",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover Hardcore Punk",
+          "Hardcore Punk"
+        ]
       }
     ],
     "tags": [
       "Crossover Thrash",
       "Hardcore Metal",
-      "Punk"
+      "Punk",
+      "Thrash Metal",
+      "Crossover Hardcore Punk",
+      "Hardcore Punk"
     ]
   },
   {
@@ -1300,6 +1328,18 @@
     ]
   },
   {
+    "normalizedName": "deadvoid",
+    "displayName": "Dead Void",
+    "albums": [
+      {
+        "name": "Cranial Devastation",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "dexezon",
     "displayName": "Dexezon",
     "albums": [
@@ -1315,6 +1355,24 @@
     "tags": [
       "Black Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "diarrhectomy",
+    "displayName": "Diarrhectomy",
+    "albums": [
+      {
+        "name": "Mutilated Dysmorphia",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {
@@ -4273,6 +4331,22 @@
     ]
   },
   {
+    "normalizedName": "sygis",
+    "displayName": "Sygis",
+    "albums": [
+      {
+        "name": "Tranquility Conquered",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "synodushorrenda",
     "displayName": "Synodus Horrenda",
     "albums": [
@@ -4428,6 +4502,22 @@
     ]
   },
   {
+    "normalizedName": "vargerkron",
+    "displayName": "VargerKron",
+    "albums": [
+      {
+        "name": "Pessimistic Realism",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "venomsymbiote",
     "displayName": "Venom Symbiote",
     "albums": [
@@ -4518,21 +4608,19 @@
     ]
   },
   {
-    "normalizedName": "viðr",
-    "displayName": "Viðr",
+    "normalizedName": "vihanmessu",
+    "displayName": "Vihan Messu",
     "albums": [
       {
-        "name": "Hedensk Skikk Og Tro",
-        "year": "2012",
+        "name": "Hämärästä Aamunkoittoon",
+        "year": "2026",
         "genres": [
-          "Black Metal",
-          "Folk Metal"
+          "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Black Metal",
-      "Folk Metal"
+      "Black Metal"
     ]
   },
   {
@@ -4568,6 +4656,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "viðr",
+    "displayName": "Viðr",
+    "albums": [
+      {
+        "name": "Hedensk Skikk Og Tro",
+        "year": "2012",
+        "genres": [
+          "Black Metal",
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Folk Metal"
     ]
   },
   {

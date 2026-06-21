@@ -218,6 +218,22 @@
     ]
   },
   {
+    "normalizedName": "assiassassin",
+    "displayName": "Assi Assassin",
+    "albums": [
+      {
+        "name": "Exit Wound",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "awrizis",
     "displayName": "Awrizis",
     "albums": [
@@ -814,6 +830,18 @@
       {
         "name": "The Yellow Emperor",
         "year": "2025",
+        "genres": [
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Phenomenon",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Lunar Enigma",
+        "year": "2026",
         "genres": [
           "Thrash Metal"
         ]
@@ -2612,6 +2640,18 @@
     ]
   },
   {
+    "normalizedName": "lumenadmortem",
+    "displayName": "Lumen Ad Mortem",
+    "albums": [
+      {
+        "name": "A Grave Ascent",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "luude",
     "displayName": "Luude",
     "origin": "AU",
@@ -2892,6 +2932,11 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Metalmorphosis",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3662,6 +3707,11 @@
         "genres": [
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "The Pulse Of Annihilation",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3848,6 +3898,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "risingfallhyena",
+    "displayName": "Risingfall/Hyena",
+    "albums": [
+      {
+        "name": "Heavy Metal Heroes",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal | Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal | Heavy Metal"
     ]
   },
   {
@@ -4378,6 +4444,18 @@
     ]
   },
   {
+    "normalizedName": "thesorrowofbeingimmaculate",
+    "displayName": "The Sorrow Of Being Immaculate",
+    "albums": [
+      {
+        "name": "Long Summertime Burial Of Hope",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "tortauil",
     "displayName": "Tor Tauil",
     "origin": "BR",
@@ -4838,5 +4916,21 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "복수",
+    "displayName": "복수",
+    "albums": [
+      {
+        "name": "Demo",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
   }
 ]

@@ -1685,6 +1685,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Ultima Requies",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3464,6 +3469,22 @@
     ]
   },
   {
+    "normalizedName": "mortaura",
+    "displayName": "Mortaura",
+    "albums": [
+      {
+        "name": "Dieu N'est Plus Assez Pur",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "mortem",
     "displayName": "Mortem",
     "albums": [
@@ -3508,6 +3529,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Mørketid",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3912,6 +3938,11 @@
         "genres": [
           "Symphonic Power"
         ]
+      },
+      {
+        "name": "Sailing Around The World",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4518,6 +4549,26 @@
       "Reggae",
       "Hip Hop",
       "Pop Rap"
+    ]
+  },
+  {
+    "normalizedName": "starlessvoid",
+    "displayName": "Starless Void",
+    "albums": [
+      {
+        "name": "Radioactivity Meter",
+        "year": "2026",
+        "genres": [
+          "Stoner Death Metal",
+          "Doom Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Death Metal",
+      "Doom Death Metal",
+      "Death Metal"
     ]
   },
   {

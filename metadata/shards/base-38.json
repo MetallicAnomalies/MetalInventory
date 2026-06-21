@@ -975,11 +975,20 @@
           "Melodic Death Metal",
           "Extreme Power Metal"
         ]
+      },
+      {
+        "name": "Old Gods Awaken",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Extreme Power Metal"
+      "Extreme Power Metal",
+      "Death Metal"
     ]
   },
   {
@@ -1133,7 +1142,8 @@
       "Folk Metal",
       "Hard Rock",
       "Heavy Metal"
-    ]
+    ],
+    "origin": "FI"
   },
   {
     "normalizedName": "blackkout",
@@ -1300,6 +1310,26 @@
     ],
     "tags": [
       "Stoner Metal",
+      "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "callixaureus",
+    "displayName": "Callix Aureus",
+    "albums": [
+      {
+        "name": "My Old Bones",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Doom Metal",
+          "Depressive Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Doom Metal",
+      "Depressive Black Doom Metal",
       "Doom Metal"
     ]
   },
@@ -1821,6 +1851,15 @@
           "Groove Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Black Galactic",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal",
+          "Progressive Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -1828,7 +1867,9 @@
       "Progressive Metal",
       "Mathcore",
       "Groove Metal",
-      "Death Metal"
+      "Death Metal",
+      "Black Death Metal",
+      "Progressive Death Metal"
     ]
   },
   {
@@ -1976,6 +2017,22 @@
     ]
   },
   {
+    "normalizedName": "eternalmysteries",
+    "displayName": "Eternal Mysteries",
+    "albums": [
+      {
+        "name": "In the Ancient Ruins of the Enchanted Fortress",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "everlore",
     "displayName": "Everlore",
     "albums": [
@@ -2072,6 +2129,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Epitome Of Carnage",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3186,6 +3248,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Hate and Extinction",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3358,6 +3427,24 @@
     ],
     "tags": [
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "mg3",
+    "displayName": "MG3",
+    "albums": [
+      {
+        "name": "Yok Olmam",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -4891,7 +4978,7 @@
       },
       {
         "name": "Sgt. Peppers Lonely Hearts Club Band",
-        "year": "1967-05-26",
+        "year": "1967",
         "genres": [
           "Psychedelic Rock",
           "Rock"
@@ -5061,7 +5148,7 @@
       },
       {
         "name": "The Beatles",
-        "year": "2010-03-03",
+        "year": "1968",
         "genres": [
           "Experimental Metal",
           "Pop Rock",

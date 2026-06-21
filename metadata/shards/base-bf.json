@@ -87,11 +87,19 @@
         "genres": [
           "Post-Rock"
         ]
+      },
+      {
+        "name": "EP 2026",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Post-Rock",
-      "Progressive Thrash"
+      "Progressive Thrash",
+      "Death Metal"
     ]
   },
   {
@@ -122,6 +130,24 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "apostle",
+    "displayName": "Apostle",
+    "albums": [
+      {
+        "name": "A Splinter In The Infinite Noumenon",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Metal"
     ]
   },
   {
@@ -346,6 +372,11 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "Yearning: The Unbeautiful",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -814,6 +845,18 @@
       "Hard Rock",
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "decanon",
+    "displayName": "Decanon",
+    "albums": [
+      {
+        "name": "Planet Decanon",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "defacedcreation",
@@ -1905,6 +1948,24 @@
     ]
   },
   {
+    "normalizedName": "incinitor",
+    "displayName": "Incinitor",
+    "albums": [
+      {
+        "name": "Black Invocation Conquest",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "insade",
     "displayName": "Insade",
     "albums": [
@@ -2649,6 +2710,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Covenant of the Lost Shadows",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2892,6 +2960,24 @@
     ],
     "tags": [
       "Symphonic Power"
+    ]
+  },
+  {
+    "normalizedName": "psyclops",
+    "displayName": "Psyclops",
+    "albums": [
+      {
+        "name": "Bound To Burn: Melody of The Martyr",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal",
+      "Metal"
     ]
   },
   {

@@ -822,6 +822,22 @@
     ]
   },
   {
+    "normalizedName": "bottomsurgery",
+    "displayName": "bottom surgery",
+    "albums": [
+      {
+        "name": "cyber bestie blood extravaganza",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "carrionmother",
     "displayName": "Carrion Mother",
     "albums": [
@@ -2071,6 +2087,18 @@
       "Progressive Metal",
       "Progressive Rock"
     ]
+  },
+  {
+    "normalizedName": "lefttodie",
+    "displayName": "Left To Die",
+    "albums": [
+      {
+        "name": "Initium Mortis",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "liquido",
@@ -3698,6 +3726,22 @@
     "tags": [
       "Doom Metal",
       "Stoner Metal"
+    ]
+  },
+  {
+    "normalizedName": "tyrannus",
+    "displayName": "Tyrannus",
+    "albums": [
+      {
+        "name": "Mournhold",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

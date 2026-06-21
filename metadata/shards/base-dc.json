@@ -985,6 +985,13 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Tales of Distant Worlds",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
       }
     ],
     "tags": [
@@ -2329,6 +2336,18 @@
     ]
   },
   {
+    "normalizedName": "kingdomcollapse",
+    "displayName": "Kingdom Collapse",
+    "albums": [
+      {
+        "name": "Survivor",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "kingsmen",
     "displayName": "Kingsmen",
     "origin": "US",
@@ -2507,6 +2526,22 @@
     ],
     "tags": [
       "Children's"
+    ]
+  },
+  {
+    "normalizedName": "misere",
+    "displayName": "Misère",
+    "albums": [
+      {
+        "name": "Bēacn",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -2811,6 +2846,22 @@
     ]
   },
   {
+    "normalizedName": "ourlastsacrifice",
+    "displayName": "Our Last Sacrifice",
+    "albums": [
+      {
+        "name": "Endless Night",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "paramite",
     "displayName": "Paramite",
     "albums": [
@@ -2903,6 +2954,18 @@
     ]
   },
   {
+    "normalizedName": "pretext",
+    "displayName": "Pretext",
+    "albums": [
+      {
+        "name": "Riot Of The Ruined",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "rainfellwithin",
     "displayName": "Rain Fell Within",
     "albums": [
@@ -2955,10 +3018,18 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "五猖兵马 Mobilize the Ghostly Legions",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Melodic Death Metal"
     ]
   },
   {
@@ -3132,6 +3203,29 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "sicktothebackteeth",
+    "displayName": "Sick to the Back Teeth",
+    "albums": [
+      {
+        "name": "Make-Koshi",
+        "year": "2026",
+        "genres": [
+          "Various"
+        ]
+      },
+      {
+        "name": "Help Point",
+        "year": "2026",
+        "genres": [
+          "Various"
+        ]
+      }
+    ],
+    "tags": [
+      "Various"
     ]
   },
   {
@@ -4093,6 +4187,18 @@
       "Black Metal",
       "Folk Metal"
     ]
+  },
+  {
+    "normalizedName": "yawningbalch",
+    "displayName": "Yawning Balch",
+    "albums": [
+      {
+        "name": "Volume Four",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "yothiria",

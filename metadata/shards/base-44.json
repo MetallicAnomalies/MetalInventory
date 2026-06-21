@@ -18,6 +18,18 @@
     ]
   },
   {
+    "normalizedName": "aetere",
+    "displayName": "Aetere",
+    "albums": [
+      {
+        "name": "Theogonie",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "alteredaeon",
     "displayName": "Altered Aeon",
     "albums": [
@@ -353,6 +365,18 @@
     ]
   },
   {
+    "normalizedName": "bearmccreary",
+    "displayName": "Bear McCreary",
+    "albums": [
+      {
+        "name": "The Singularity: Ekleipsis",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "billiemyers",
     "displayName": "Billie Myers",
     "origin": "US",
@@ -476,6 +500,22 @@
       "Sludge Metal",
       "Post-Metal",
       "Hardcore Metal"
+    ]
+  },
+  {
+    "normalizedName": "blodder",
+    "displayName": "Blodder",
+    "albums": [
+      {
+        "name": "Harm",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -1144,7 +1184,7 @@
   {
     "normalizedName": "doedsvangr",
     "displayName": "Doedsvangr",
-    "origin": "Europe",
+    "origin": "NO",
     "albums": [
       {
         "name": "Satan Ov Suns",
@@ -1224,6 +1264,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "End Whispers",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1822,6 +1867,29 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "healer",
+    "displayName": "Healer",
+    "albums": [
+      {
+        "name": "Desolation EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Desolation",
+        "year": "2026",
+        "genres": [
+          "Sludge Stoner Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Stoner Metal",
+      "Stoner Metal"
     ]
   },
   {
@@ -3059,6 +3127,22 @@
     ]
   },
   {
+    "normalizedName": "pallbear",
+    "displayName": "PallBear",
+    "albums": [
+      {
+        "name": "Grief Is Love",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "polarized",
     "displayName": "Polarized",
     "albums": [
@@ -3472,6 +3556,34 @@
     ],
     "tags": [
       "Industrial Metal"
+    ]
+  },
+  {
+    "normalizedName": "somniafinem",
+    "displayName": "Somnia Finem",
+    "albums": [
+      {
+        "name": "Desassossego",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
+    "normalizedName": "soulsofhades",
+    "displayName": "Souls of Hades",
+    "albums": [
+      {
+        "name": "Live Bones n' Catacombs",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
     ]
   },
   {

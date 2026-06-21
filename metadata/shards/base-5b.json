@@ -1124,6 +1124,30 @@
     ]
   },
   {
+    "normalizedName": "cornucopia",
+    "displayName": "Cornucopia",
+    "albums": [
+      {
+        "name": "Cosmic Consciousness",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Songs for Unfortunate Times",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "crows",
     "displayName": "Crows",
     "albums": [
@@ -2976,7 +3000,7 @@
     "albums": [
       {
         "name": "Sleepwalking",
-        "year": "2009-07-21",
+        "year": "2009",
         "genres": [
           "Southern Rock",
           "Metalcore",
@@ -2992,7 +3016,7 @@
       },
       {
         "name": "The Hollow",
-        "year": "2012-10-10",
+        "year": "2011",
         "genres": [
           "Post-hardcore"
         ]
@@ -3268,6 +3292,18 @@
     "tags": [
       "Gothic Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "necrobeast",
+    "displayName": "Necrobeast",
+    "albums": [
+      {
+        "name": "Iron Baphomet",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "ofravenruins",
@@ -3926,6 +3962,11 @@
           "Heavy Metal",
           "Us Power"
         ]
+      },
+      {
+        "name": "Curse Of The Beast",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

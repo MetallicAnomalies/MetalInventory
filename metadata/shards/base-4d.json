@@ -64,6 +64,13 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Daze of the Week",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -213,6 +220,11 @@
         "genres": [
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Airbourne",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -891,6 +903,22 @@
     ]
   },
   {
+    "normalizedName": "bluejaymorales",
+    "displayName": "Blue Jay Morales",
+    "albums": [
+      {
+        "name": "Morales",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "bobmarley",
     "displayName": "Bob Marley",
     "origin": "US",
@@ -1317,6 +1345,24 @@
     ]
   },
   {
+    "normalizedName": "chainwolf",
+    "displayName": "Chain Wolf",
+    "albums": [
+      {
+        "name": "Respect the Whip",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Crossover"
+    ]
+  },
+  {
     "normalizedName": "circleofdeadchildren",
     "displayName": "Circle Of Dead Children",
     "albums": [
@@ -1365,6 +1411,29 @@
     ],
     "tags": [
       "Grindcore"
+    ]
+  },
+  {
+    "normalizedName": "cruxex",
+    "displayName": "Crux Ex",
+    "albums": [
+      {
+        "name": "Rotten to the Core",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Sangre y sal",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -1877,6 +1946,22 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "eternalconquest",
+    "displayName": "Eternal Conquest",
+    "albums": [
+      {
+        "name": "Relentless Barrage",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -3106,6 +3191,22 @@
     ]
   },
   {
+    "normalizedName": "lunarflux",
+    "displayName": "Lunar Flux",
+    "albums": [
+      {
+        "name": "Weavers",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "maer",
     "displayName": "Maer",
     "origin": "CH",
@@ -3552,6 +3653,16 @@
           "Progressive Metal",
           "Math Rock"
         ]
+      },
+      {
+        "name": "Catch Thirtythree Re-Release",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Destroy Erase Improve Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3865,6 +3976,11 @@
           "Progressive Metal",
           "Progressive Rock"
         ]
+      },
+      {
+        "name": "Unilluminate To Illuminate",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4663,6 +4779,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "taliahoit",
+    "displayName": "Talia Hoit",
+    "albums": [
+      {
+        "name": "All You Want",
+        "year": "2026",
+        "genres": [
+          "Epic Symphonic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Epic Symphonic Metal"
     ]
   },
   {

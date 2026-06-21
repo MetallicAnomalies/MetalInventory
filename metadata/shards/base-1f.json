@@ -429,6 +429,42 @@
     ]
   },
   {
+    "normalizedName": "beastmajesty",
+    "displayName": "Beast Majesty",
+    "albums": [
+      {
+        "name": "Ungodly Revenge",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "beyondsalvation",
+    "displayName": "Beyond Salvation",
+    "albums": [
+      {
+        "name": "The Final Nail",
+        "year": "2026",
+        "genres": [
+          "Thrash Melodic Death Metal",
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Melodic Death Metal",
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "blackcurse",
     "displayName": "Black Curse",
     "albums": [
@@ -826,6 +862,22 @@
       {
         "name": "Stinking Death",
         "year": "2025",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "distobia",
+    "displayName": "Distobia",
+    "albums": [
+      {
+        "name": "Flesh Rot",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]
@@ -1866,7 +1918,8 @@
     "tags": [
       "Symphonic Gothic",
       "Alternative"
-    ]
+    ],
+    "origin": "FI"
   },
   {
     "normalizedName": "landmvrks",
@@ -3017,6 +3070,22 @@
     ]
   },
   {
+    "normalizedName": "shoax",
+    "displayName": "Shoax",
+    "albums": [
+      {
+        "name": "Principles of Honor",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "silhouette",
     "displayName": "Silhouette",
     "albums": [
@@ -3675,6 +3744,11 @@
           "Atmospheric Sludge Metal",
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Solaris",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3884,6 +3958,18 @@
     "tags": [
       "Technical Death Metal"
     ]
+  },
+  {
+    "normalizedName": "tooms",
+    "displayName": "Tooms",
+    "albums": [
+      {
+        "name": "Karst",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "triomphe",

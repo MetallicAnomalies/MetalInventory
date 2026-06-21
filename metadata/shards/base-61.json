@@ -186,6 +186,11 @@
           "Gothic Metal",
           "Gothic Rock"
         ]
+      },
+      {
+        "name": "Glut",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -669,6 +674,18 @@
     ]
   },
   {
+    "normalizedName": "danfisher",
+    "displayName": "Dan Fisher",
+    "albums": [
+      {
+        "name": "The Domino Accords EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "dearmother",
     "displayName": "Dear Mother",
     "origin": "CA",
@@ -913,6 +930,18 @@
     "tags": [
       "Brutal Death Metal"
     ]
+  },
+  {
+    "normalizedName": "dumbwaiter",
+    "displayName": "Dumb Waiter",
+    "albums": [
+      {
+        "name": "Change",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "endreign",
@@ -2120,6 +2149,22 @@
     ]
   },
   {
+    "normalizedName": "ligist",
+    "displayName": "Ligist",
+    "albums": [
+      {
+        "name": "Tulpa",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "loneshore",
     "displayName": "Loneshore",
     "albums": [
@@ -2129,6 +2174,11 @@
         "genres": [
           "Progressive Doom"
         ]
+      },
+      {
+        "name": "Nothing Left To Deconstruct",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2374,6 +2424,18 @@
     "tags": [
       "Funeral Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "nirriti",
+    "displayName": "Nirriti",
+    "albums": [
+      {
+        "name": "Dhrupad Anutpada (ধ্রুপদ অনুৎপাদ): Apophatic Ragas Of Non-Origination",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "nupfelgard",
@@ -2777,7 +2839,7 @@
     "albums": [
       {
         "name": "Apt.",
-        "year": "2024-11-11",
+        "year": "2024",
         "genres": [
           "Pop",
           "Pop Rock"
@@ -3709,6 +3771,22 @@
     "tags": [
       "Heavy Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "thineeyesdimmed",
+    "displayName": "Thine Eyes Dimmed",
+    "albums": [
+      {
+        "name": "Death of the Empyrean",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {

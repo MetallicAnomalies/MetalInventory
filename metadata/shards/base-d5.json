@@ -27,6 +27,24 @@
     ]
   },
   {
+    "normalizedName": "ablation",
+    "displayName": "Ablation",
+    "albums": [
+      {
+        "name": "Lethal Abuse",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "ainsoph",
     "displayName": "Ainsoph",
     "albums": [
@@ -517,6 +535,22 @@
     ]
   },
   {
+    "normalizedName": "blindwatchmaker",
+    "displayName": "Blind Watchmaker",
+    "albums": [
+      {
+        "name": "Behold the Event Horizon",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "bloodbutcher",
     "displayName": "Blood Butcher",
     "albums": [
@@ -871,6 +905,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Todeswerk: Uranium II",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2421,6 +2460,13 @@
           "Djent",
           "Math Metal"
         ]
+      },
+      {
+        "name": "Gradus ad Parnassum",
+        "year": "2026",
+        "genres": [
+          "Djent"
+        ]
       }
     ],
     "tags": [
@@ -2465,6 +2511,26 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "moonwire",
+    "displayName": "Moonwire",
+    "albums": [
+      {
+        "name": "Mud Moth",
+        "year": "2026",
+        "genres": [
+          "Doom Rock",
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Rock",
+      "Stoner Metal",
+      "Rock"
     ]
   },
   {
@@ -3551,6 +3617,18 @@
     ]
   },
   {
+    "normalizedName": "sinsid",
+    "displayName": "Sinsid",
+    "albums": [
+      {
+        "name": "All That Remains",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "skirmish",
     "displayName": "Skirmish",
     "albums": [
@@ -4107,24 +4185,6 @@
     "tags": []
   },
   {
-    "normalizedName": "tørnquist",
-    "displayName": "Tørnquist",
-    "albums": [
-      {
-        "name": "Doomed To Rebel",
-        "year": "2021",
-        "genres": [
-          "Sludge Metal",
-          "Doom Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Sludge Metal",
-      "Doom Metal"
-    ]
-  },
-  {
     "normalizedName": "totenmond",
     "displayName": "Totenmond",
     "albums": [
@@ -4210,6 +4270,24 @@
     ],
     "tags": [
       "Speed Metal"
+    ]
+  },
+  {
+    "normalizedName": "tørnquist",
+    "displayName": "Tørnquist",
+    "albums": [
+      {
+        "name": "Doomed To Rebel",
+        "year": "2021",
+        "genres": [
+          "Sludge Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Doom Metal"
     ]
   },
   {

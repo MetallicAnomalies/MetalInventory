@@ -301,6 +301,22 @@
     ]
   },
   {
+    "normalizedName": "atomicterror",
+    "displayName": "Atomic Terror",
+    "albums": [
+      {
+        "name": "Acts of Violence",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "atrament",
     "displayName": "Atrament",
     "albums": [
@@ -1868,6 +1884,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "White Shores",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2008,6 +2029,43 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "kveldnatt",
+    "displayName": "Kveldnatt",
+    "albums": [
+      {
+        "name": "Forgotten Agony",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "Grau es Frettesche",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "Unfinished/Unreleased or Deleted Songs",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "Solitude Ways (Forgotten Tomb Mini Cover)",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {
@@ -3305,6 +3363,22 @@
     ]
   },
   {
+    "normalizedName": "razorbreath",
+    "displayName": "Razorbreath",
+    "albums": [
+      {
+        "name": "El Lenguaje de la Muerte",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "realidades",
     "displayName": "Realidades",
     "origin": "CR",
@@ -4335,6 +4409,26 @@
     ]
   },
   {
+    "normalizedName": "suremad",
+    "displayName": "Suremad",
+    "albums": [
+      {
+        "name": "Memento Mori",
+        "year": "2026",
+        "genres": [
+          "Black Punk",
+          "Pagan Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Punk",
+      "Pagan Metal",
+      "Punk"
+    ]
+  },
+  {
     "normalizedName": "surturslohe",
     "displayName": "Surturs Lohe",
     "albums": [
@@ -4391,6 +4485,18 @@
       "Pagan Black Metal",
       "Folk Metal"
     ]
+  },
+  {
+    "normalizedName": "svindel",
+    "displayName": "Svindel",
+    "albums": [
+      {
+        "name": "Drömfeber",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "thearcaneorder",
@@ -4948,6 +5054,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "vasari",
+    "displayName": "Vasari",
+    "albums": [
+      {
+        "name": "Dream of a Mistress",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
     ]
   },
   {

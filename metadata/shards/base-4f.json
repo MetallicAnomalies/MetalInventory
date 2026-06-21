@@ -240,6 +240,22 @@
     "tags": []
   },
   {
+    "normalizedName": "almyth",
+    "displayName": "Almyth",
+    "albums": [
+      {
+        "name": "Entropy",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Psychedelic Stoner Metal"
+    ]
+  },
+  {
     "normalizedName": "amestigon",
     "displayName": "Amestigon",
     "albums": [
@@ -379,6 +395,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "aquacadia",
+    "displayName": "Aquacadia",
+    "albums": [
+      {
+        "name": "At the Forest Edge",
+        "year": "2026",
+        "genres": [
+          "Neoclassical Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Neoclassical Metal"
     ]
   },
   {
@@ -557,7 +589,7 @@
       },
       {
         "name": "Ill Communication",
-        "year": "2016-12-12",
+        "year": "2016",
         "genres": [
           "Jazzy Hip-hop",
           "Punk",
@@ -2423,6 +2455,18 @@
     ]
   },
   {
+    "normalizedName": "mandymanala",
+    "displayName": "Mandy Manala",
+    "albums": [
+      {
+        "name": "Something Wicked",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "mangledtorsos",
     "displayName": "Mangled Torsos",
     "albums": [
@@ -3724,6 +3768,18 @@
     ]
   },
   {
+    "normalizedName": "sorrowsphere",
+    "displayName": "Sorrow Sphere",
+    "albums": [
+      {
+        "name": "The Wizard Of Doom EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "sovengar",
     "displayName": "Sovengar",
     "albums": [
@@ -4166,6 +4222,22 @@
     ]
   },
   {
+    "normalizedName": "toxicorder",
+    "displayName": "Toxic Order",
+    "albums": [
+      {
+        "name": "Toxic Order",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "tragedyandtriumph",
     "displayName": "Tragedy And Triumph",
     "albums": [
@@ -4216,6 +4288,24 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "uflo",
+    "displayName": "UFLO",
+    "albums": [
+      {
+        "name": "We Don’t",
+        "year": "2026",
+        "genres": [
+          "Sludge Stoner Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Stoner Metal",
+      "Stoner Metal"
     ]
   },
   {
@@ -4807,6 +4897,7 @@
     ],
     "tags": [
       "Black Metal"
-    ]
+    ],
+    "origin": "GR"
   }
 ]

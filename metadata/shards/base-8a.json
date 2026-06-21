@@ -42,6 +42,18 @@
     ]
   },
   {
+    "normalizedName": "acaciaavenue",
+    "displayName": "Acacia Avenue",
+    "albums": [
+      {
+        "name": "Chapter V",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "acrosstundras",
     "displayName": "Across Tundras",
     "albums": [
@@ -1785,6 +1797,27 @@
     ]
   },
   {
+    "normalizedName": "fournier",
+    "displayName": "Fournier",
+    "albums": [
+      {
+        "name": "Fournier EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Fournier",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "frightpig",
     "displayName": "Fright Pig",
     "albums": [
@@ -3230,7 +3263,7 @@
       },
       {
         "name": "Filling Up The City Skies",
-        "year": "2008-10-30",
+        "year": "2008",
         "genres": [
           "Electronic",
           "Downtempo"

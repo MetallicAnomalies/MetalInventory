@@ -489,6 +489,24 @@
     ]
   },
   {
+    "normalizedName": "bakken",
+    "displayName": "Bakken",
+    "albums": [
+      {
+        "name": "Consent to Deception",
+        "year": "2026",
+        "genres": [
+          "Thrash Power Metal",
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Power Metal",
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "bearghost",
     "displayName": "Bear Ghost",
     "origin": "US",
@@ -1022,6 +1040,22 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "conflux",
+    "displayName": "Conflux",
+    "albums": [
+      {
+        "name": "In the Wake of Saturn",
+        "year": "2026",
+        "genres": [
+          "Technical Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Technical Death Metal"
     ]
   },
   {
@@ -1660,6 +1694,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Apparebat Eidolon Senex",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2461,6 +2500,22 @@
     ]
   },
   {
+    "normalizedName": "kardinalx",
+    "displayName": "Kardinal X",
+    "albums": [
+      {
+        "name": "Redemption",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "kuntpuncher",
     "displayName": "Kunt Puncher",
     "albums": [
@@ -2546,6 +2601,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "lithopaedia",
+    "displayName": "Lithopaedia",
+    "albums": [
+      {
+        "name": "Inferno",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {
@@ -3053,6 +3124,24 @@
     ]
   },
   {
+    "normalizedName": "oathlessone",
+    "displayName": "Oathless One",
+    "albums": [
+      {
+        "name": "Worthless",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Noise"
+    ]
+  },
+  {
     "normalizedName": "obtenebris",
     "displayName": "Obtenebris",
     "albums": [
@@ -3403,7 +3492,7 @@
       },
       {
         "name": "The Cosmic Cornucopia",
-        "year": "2015-12",
+        "year": "2015",
         "genres": [
           "Sludge Metal",
           "Death Metal"
@@ -4126,6 +4215,22 @@
     ]
   },
   {
+    "normalizedName": "trovao",
+    "displayName": "Trovão",
+    "albums": [
+      {
+        "name": "Meu Caminho",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "truchłostrzygi",
     "displayName": "Truchło Strzygi",
     "albums": [
@@ -4157,7 +4262,8 @@
     "tags": [
       "Black Metal",
       "Crust Punk"
-    ]
+    ],
+    "origin": "PL"
   },
   {
     "normalizedName": "ulvedharr",
@@ -4470,6 +4576,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "zwartalder",
+    "displayName": "Zwartalder",
+    "albums": [
+      {
+        "name": "Doven",
+        "year": "2026",
+        "genres": [
+          "Black Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Sludge Metal",
+      "Sludge Metal"
     ]
   }
 ]

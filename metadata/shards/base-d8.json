@@ -338,6 +338,24 @@
     ]
   },
   {
+    "normalizedName": "bedlamroyals",
+    "displayName": "Bedlam Royals",
+    "albums": [
+      {
+        "name": "The Gap",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Sludge Post-Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Sludge Post-Metal",
+      "Post-Metal"
+    ]
+  },
+  {
     "normalizedName": "bellhammer",
     "displayName": "Bell Hammer",
     "albums": [
@@ -1444,6 +1462,18 @@
     ]
   },
   {
+    "normalizedName": "etherealrot",
+    "displayName": "Ethereal Rot",
+    "albums": [
+      {
+        "name": "Ethereal Rot",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "everydaysunday",
     "displayName": "Everyday Sunday",
     "origin": "US",
@@ -1853,6 +1883,24 @@
     "tags": [
       "Progressive Death Metal",
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "infernuspresence",
+    "displayName": "Infernus Presence",
+    "albums": [
+      {
+        "name": "Thy Restlessness That Follows",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal",
+      "Ambient"
     ]
   },
   {
@@ -4139,7 +4187,8 @@
     ],
     "tags": [
       "Black Metal"
-    ]
+    ],
+    "origin": "UA"
   },
   {
     "normalizedName": "נועהפארן",

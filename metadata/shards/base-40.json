@@ -1937,6 +1937,18 @@
     ]
   },
   {
+    "normalizedName": "gurt",
+    "displayName": "Gurt",
+    "albums": [
+      {
+        "name": "Survival Of The Shittest EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "haradwaith",
     "displayName": "Haradwaith",
     "albums": [
@@ -2836,6 +2848,18 @@
     ]
   },
   {
+    "normalizedName": "masquerage",
+    "displayName": "Masquerage",
+    "albums": [
+      {
+        "name": "Atomic Spies",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "mass",
     "displayName": "Mass",
     "albums": [
@@ -3354,7 +3378,7 @@
       },
       {
         "name": "Drones",
-        "year": "2015-05-05",
+        "year": "2015",
         "genres": [
           "Rock"
         ]
@@ -3403,7 +3427,7 @@
       },
       {
         "name": "Simulation Theory",
-        "year": "2018-11-11",
+        "year": "2018",
         "genres": [
           "Alternative Rock",
           "Space Rock",
@@ -3454,7 +3478,7 @@
       },
       {
         "name": "Will Of The People",
-        "year": "2022-09-09",
+        "year": "2022",
         "genres": [
           "Alternative Rock",
           "Rock"
@@ -3938,11 +3962,35 @@
           "Crossover Thrash",
           "Hardcore Metal"
         ]
+      },
+      {
+        "name": "Stone Cold Anger",
+        "year": "2026",
+        "genres": [
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
       "Crossover Thrash",
-      "Hardcore Metal"
+      "Hardcore Metal",
+      "Groove Metal"
+    ]
+  },
+  {
+    "normalizedName": "quaetdoender",
+    "displayName": "Quaetdoender",
+    "albums": [
+      {
+        "name": "Quaet opset",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

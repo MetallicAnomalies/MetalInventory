@@ -882,7 +882,7 @@
       },
       {
         "name": "Euphoria Morning",
-        "year": "2008-07-07",
+        "year": "1999",
         "genres": [
           "Alternative Rock",
           "Hard Rock",
@@ -891,7 +891,7 @@
       },
       {
         "name": "Songbook",
-        "year": "2014-07-07",
+        "year": "2011",
         "genres": [
           "Alternative Rock",
           "Acoustic",
@@ -1691,13 +1691,22 @@
         "genres": [
           "Death Doom Metal"
         ]
+      },
+      {
+        "name": "Circadian Promise",
+        "year": "2026",
+        "genres": [
+          "Doom Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Death Doom Metal",
       "Melodic Death Metal",
       "Death Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Metal"
     ]
   },
   {
@@ -1748,6 +1757,18 @@
     "tags": []
   },
   {
+    "normalizedName": "frusensorg",
+    "displayName": "Frusen Sorg",
+    "albums": [
+      {
+        "name": "Smärtpunkter",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "funebrarum",
     "displayName": "Funebrarum",
     "albums": [
@@ -1778,10 +1799,19 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Beckoning The Void of Eternal Silence",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Metal"
     ]
   },
   {
@@ -2097,6 +2127,24 @@
     ]
   },
   {
+    "normalizedName": "icechemicals",
+    "displayName": "Ice Chemicals",
+    "albums": [
+      {
+        "name": "The Lowest Point",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "insatia",
     "displayName": "Insatia",
     "albums": [
@@ -2246,6 +2294,22 @@
     ],
     "tags": [
       "Melodic Death Metal",
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "larve",
+    "displayName": "Larve",
+    "albums": [
+      {
+        "name": "Noise from Beyond",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
       "Black Metal"
     ]
   },
@@ -2677,6 +2741,18 @@
     ]
   },
   {
+    "normalizedName": "myownwill",
+    "displayName": "My Own Will",
+    "albums": [
+      {
+        "name": "Misery EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "nardegaist",
     "displayName": "Nårdegaist",
     "albums": [
@@ -2826,10 +2902,20 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Nganga",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Heavy Metal"
+      "Heavy Metal",
+      "Black Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -4042,6 +4128,18 @@
       "Heavy Metal",
       "Progressive Metal"
     ]
+  },
+  {
+    "normalizedName": "thebarbariansofcalifornia",
+    "displayName": "The Barbarians Of California",
+    "albums": [
+      {
+        "name": "Megatons",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "thedistortingglass",

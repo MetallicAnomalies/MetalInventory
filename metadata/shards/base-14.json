@@ -1089,11 +1089,36 @@
         "genres": [
           "Industrial Metal"
         ]
+      },
+      {
+        "name": "The Venom In The Mouth Of God",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
       "Aggrotech",
       "Industrial Metal"
+    ]
+  },
+  {
+    "normalizedName": "crippledfingers",
+    "displayName": "Crippled Fingers",
+    "albums": [
+      {
+        "name": "Live at Fajtfest Fryslân",
+        "year": "2026",
+        "genres": [
+          "Groove Hardcore",
+          "Thrash Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Hardcore",
+      "Thrash Metal",
+      "Hardcore"
     ]
   },
   {
@@ -1764,6 +1789,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Rise Of The Mutated",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2014,6 +2044,22 @@
     ]
   },
   {
+    "normalizedName": "foxxsalema",
+    "displayName": "Föxx Salema",
+    "albums": [
+      {
+        "name": "Dead Flies Rising",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "fuelblooded",
     "displayName": "Fuelblooded",
     "albums": [
@@ -2087,6 +2133,38 @@
     "tags": [
       "Depressive Black Metal"
     ]
+  },
+  {
+    "normalizedName": "gatsu",
+    "displayName": "Gatsu",
+    "albums": [
+      {
+        "name": "Hymns from the Abyss",
+        "year": "2026",
+        "genres": [
+          "Sludge Rock",
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Rock",
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
+    "normalizedName": "goad",
+    "displayName": "Goad",
+    "albums": [
+      {
+        "name": "Song Of Four Fairies EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "grandsermon",
@@ -2190,6 +2268,22 @@
       "Heavy Metal",
       "Us Power",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "handsofattrition",
+    "displayName": "Hands of Attrition",
+    "albums": [
+      {
+        "name": "Goodbye",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
     ]
   },
   {
@@ -2541,6 +2635,29 @@
     ]
   },
   {
+    "normalizedName": "iproelefsi",
+    "displayName": "I Proélefsi",
+    "albums": [
+      {
+        "name": "Ypógeio Vasíleio",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Ypógeio Vasíleio · Υπόγειο Βασίλειο",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Melodic Black Metal",
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Avant-garde Melodic Black Metal",
+      "Melodic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "ixion",
     "displayName": "Ixion",
     "origin": "FR",
@@ -2616,6 +2733,11 @@
         "genres": [
           "Psychedelic Rock"
         ]
+      },
+      {
+        "name": "Human",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2893,6 +3015,24 @@
     ],
     "tags": [
       "Melodic Progressive"
+    ]
+  },
+  {
+    "normalizedName": "leschatons",
+    "displayName": "Les Chatons",
+    "albums": [
+      {
+        "name": "Belle journée",
+        "year": "2026",
+        "genres": [
+          "Thrash Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Heavy Metal",
+      "Heavy Metal"
     ]
   },
   {
@@ -3385,6 +3525,24 @@
     ],
     "tags": [
       "Death Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "mortuarioad",
+    "displayName": "Mortuário A.D.",
+    "albums": [
+      {
+        "name": "Bloody Destruction",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -4486,6 +4644,11 @@
         "genres": [
           "Folk Metal"
         ]
+      },
+      {
+        "name": "Roede voor de Borst",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4785,6 +4948,7 @@
     ],
     "tags": [
       "Black Metal"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

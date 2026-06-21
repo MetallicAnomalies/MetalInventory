@@ -924,6 +924,24 @@
     ]
   },
   {
+    "normalizedName": "churchacide",
+    "displayName": "Churchacide",
+    "albums": [
+      {
+        "name": "Nuclear Conjuration",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "construct",
     "displayName": "Construct",
     "albums": [
@@ -2147,6 +2165,18 @@
     ]
   },
   {
+    "normalizedName": "insurrectum",
+    "displayName": "Insurrectum",
+    "albums": [
+      {
+        "name": "The Last Battle",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "introrectalgestation",
     "displayName": "Introrectalgestation",
     "albums": [
@@ -2406,6 +2436,11 @@
         "genres": [
           "Symphonic Power"
         ]
+      },
+      {
+        "name": "Dark Asylum",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2697,6 +2732,18 @@
     "tags": [
       "Metalcore"
     ]
+  },
+  {
+    "normalizedName": "lufeh",
+    "displayName": "Lufeh",
+    "albums": [
+      {
+        "name": "Overwhelmed",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "magoa",
@@ -3555,6 +3602,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Satanic Chaos Legions",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4746,11 +4798,19 @@
           "Black Metal",
           "Post-Metal"
         ]
+      },
+      {
+        "name": "Solace",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Post-Metal"
+      "Post-Metal",
+      "Post-Black Metal"
     ]
   },
   {
@@ -4813,6 +4873,11 @@
           "Black Metal",
           "Folk Metal"
         ]
+      },
+      {
+        "name": "Assiégé pour l’Eternité",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4972,6 +5037,18 @@
       "Symphonic Metal",
       "Gothic Metal"
     ]
+  },
+  {
+    "normalizedName": "wesparker",
+    "displayName": "Wes Parker",
+    "albums": [
+      {
+        "name": "Super Rare",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "witheria",

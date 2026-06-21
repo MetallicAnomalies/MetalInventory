@@ -341,7 +341,7 @@
     "albums": [
       {
         "name": "The Hour Of Bewilderbeast",
-        "year": "2008-09-09",
+        "year": "2000",
         "genres": [
           "Leftfield",
           "Electronic",
@@ -1214,6 +1214,24 @@
     ]
   },
   {
+    "normalizedName": "ebbe",
+    "displayName": "Ebbe",
+    "albums": [
+      {
+        "name": "Shatter their Altar of Fear and Ignorance",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Drone"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Drone"
+    ]
+  },
+  {
     "normalizedName": "embodiedtorment",
     "displayName": "Embodied Torment",
     "albums": [
@@ -1300,6 +1318,11 @@
         "genres": [
           "Neofolk"
         ]
+      },
+      {
+        "name": "These Killing Times",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2802,6 +2825,18 @@
     ]
   },
   {
+    "normalizedName": "prideoflions",
+    "displayName": "Pride Of Lions",
+    "albums": [
+      {
+        "name": "Unbridled",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "redeye",
     "displayName": "Red Eye",
     "albums": [
@@ -3289,6 +3324,11 @@
         "genres": [
           "Progressive Rock"
         ]
+      },
+      {
+        "name": "Another Drop",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3639,6 +3679,24 @@
     "tags": [
       "Post-hardcore",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "voimaton",
+    "displayName": "Voimaton",
+    "albums": [
+      {
+        "name": "Ruled by Fear",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Doom Metal"
     ]
   },
   {

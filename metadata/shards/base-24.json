@@ -83,43 +83,6 @@
     ]
   },
   {
-    "normalizedName": "ænimus",
-    "displayName": "Ænimus",
-    "origin": "US",
-    "albums": [
-      {
-        "name": "Transcend Reality",
-        "year": "2013",
-        "genres": [
-          "Technical Death Metal",
-          "Deathcore"
-        ]
-      },
-      {
-        "name": "This Illusion",
-        "year": "2014",
-        "genres": [
-          "Heavy Metal",
-          "Thrash Metal"
-        ]
-      },
-      {
-        "name": "Dreamcatcher",
-        "year": "2019",
-        "genres": [
-          "Technical Death Metal",
-          "Deathcore"
-        ]
-      }
-    ],
-    "tags": [
-      "Technical Death Metal",
-      "Deathcore",
-      "Heavy Metal",
-      "Thrash Metal"
-    ]
-  },
-  {
     "normalizedName": "aesmah",
     "displayName": "Aesmah",
     "albums": [
@@ -316,6 +279,24 @@
     "tags": []
   },
   {
+    "normalizedName": "ana",
+    "displayName": "ANA",
+    "albums": [
+      {
+        "name": "Motivated By Death",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Metal",
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "anvilofdoom",
     "displayName": "Anvil Of Doom",
     "albums": [
@@ -393,6 +374,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Atavistic Unraveling",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1026,6 +1012,24 @@
     ]
   },
   {
+    "normalizedName": "eretia",
+    "displayName": "Eretia",
+    "albums": [
+      {
+        "name": "El otoño de la civilización",
+        "year": "2026",
+        "genres": [
+          "Sludge Post-Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Post-Metal",
+      "Post-Metal"
+    ]
+  },
+  {
     "normalizedName": "falconer",
     "displayName": "Falconer",
     "origin": "SE",
@@ -1170,6 +1174,22 @@
     "tags": [
       "Death Metal",
       "Symphonic Metal"
+    ]
+  },
+  {
+    "normalizedName": "finalself",
+    "displayName": "Final Self",
+    "albums": [
+      {
+        "name": "Liturgy of the Final Self",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -2836,6 +2856,22 @@
     ]
   },
   {
+    "normalizedName": "perrosuicida",
+    "displayName": "Perro Suicida",
+    "albums": [
+      {
+        "name": "Pandemonium",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "pinoscotto",
     "displayName": "Pino Scotto",
     "albums": [
@@ -4461,6 +4497,34 @@
     ]
   },
   {
+    "normalizedName": "voidmaker",
+    "displayName": "Voidmaker",
+    "albums": [
+      {
+        "name": "A Cold, Unyielding Universe",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
+    "normalizedName": "vomepotro",
+    "displayName": "Vomepotro",
+    "albums": [
+      {
+        "name": "Fall Into Decay",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "vortech",
     "displayName": "Vortech",
     "albums": [
@@ -4958,6 +5022,43 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "ænimus",
+    "displayName": "Ænimus",
+    "origin": "US",
+    "albums": [
+      {
+        "name": "Transcend Reality",
+        "year": "2013",
+        "genres": [
+          "Technical Death Metal",
+          "Deathcore"
+        ]
+      },
+      {
+        "name": "This Illusion",
+        "year": "2014",
+        "genres": [
+          "Heavy Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Dreamcatcher",
+        "year": "2019",
+        "genres": [
+          "Technical Death Metal",
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Technical Death Metal",
+      "Deathcore",
+      "Heavy Metal",
+      "Thrash Metal"
     ]
   }
 ]

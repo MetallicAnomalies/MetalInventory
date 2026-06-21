@@ -462,6 +462,26 @@
     ]
   },
   {
+    "normalizedName": "bloodeyedsunset",
+    "displayName": "Bloodeyed Sunset",
+    "albums": [
+      {
+        "name": "Origin: Codex",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Power Metal",
+          "Thrash Power Metal",
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Power Metal",
+      "Thrash Power Metal",
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "bodysnatcher",
     "displayName": "Bodysnatcher",
     "origin": "AU",
@@ -558,6 +578,11 @@
         "genres": [
           "Hardcore Metal"
         ]
+      },
+      {
+        "name": "Radiant In Ruin",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -601,6 +626,11 @@
           "Doom Metal",
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Oceans Away",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1771,6 +1801,22 @@
     ]
   },
   {
+    "normalizedName": "dismembering",
+    "displayName": "Dismembering",
+    "albums": [
+      {
+        "name": "Suffocating the Unholy",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "downamongthedeadmen",
     "displayName": "Down Among the Dead Men",
     "origin": "Europe",
@@ -2005,6 +2051,24 @@
     ],
     "tags": [
       "Progressive Power"
+    ]
+  },
+  {
+    "normalizedName": "exploitcircus",
+    "displayName": "Exploit Circus",
+    "albums": [
+      {
+        "name": "Swamp Gas and Neon",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Industrial Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Industrial Metal"
     ]
   },
   {
@@ -2570,6 +2634,24 @@
       "Thrash Metal",
       "Heavy Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "illithocyte",
+    "displayName": "Illithocyte",
+    "albums": [
+      {
+        "name": "Ireth Psioni Vorm",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal",
+      "Dungeon Synth"
     ]
   },
   {
@@ -3308,6 +3390,11 @@
           "Heavy Metal",
           "Speed Metal"
         ]
+      },
+      {
+        "name": "Kiss Of Death 20th Anniversary Edition",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4502,6 +4589,20 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Frisson Noir",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "The Trace Outlives",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Rock",
+          "Neoclassical"
+        ]
       }
     ],
     "tags": [
@@ -4509,7 +4610,9 @@
       "Classical Music",
       "Power Metal",
       "Gothic Metal",
-      "Gothic Rock"
+      "Gothic Rock",
+      "Rock",
+      "Neoclassical"
     ]
   },
   {
@@ -4546,6 +4649,18 @@
       "Symphonic Death Metal",
       "Progressive Metal"
     ]
+  },
+  {
+    "normalizedName": "thebobbylees",
+    "displayName": "The Bobby Lees",
+    "albums": [
+      {
+        "name": "New Self",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "thecompany",
@@ -4895,10 +5010,20 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Hush",
+        "year": "2026",
+        "genres": [
+          "Groove Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
-      "Heavy Metal"
+      "Heavy Metal",
+      "Groove Metal",
+      "Metalcore"
     ]
   },
   {

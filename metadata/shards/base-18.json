@@ -1870,6 +1870,22 @@
     ]
   },
   {
+    "normalizedName": "hypertrichosis",
+    "displayName": "Hypertrichosis",
+    "albums": [
+      {
+        "name": "Sadistic Games with Ripped Intestines",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "illuminatethesilence",
     "displayName": "Illuminate The Silence",
     "albums": [
@@ -2001,6 +2017,18 @@
     "tags": [
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "jaredjamesnichols",
+    "displayName": "Jared James Nichols",
+    "albums": [
+      {
+        "name": "Louder Than Fate",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "jethrotull",
@@ -2334,6 +2362,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "knochenhorde",
+    "displayName": "Knochenhorde",
+    "albums": [
+      {
+        "name": "Götter und Dämonen",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "legacyger",
@@ -3764,6 +3808,11 @@
         "genres": [
           "Folk Metal"
         ]
+      },
+      {
+        "name": "Ørlǫg",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4628,6 +4677,7 @@
     "tags": [
       "Heavy Metal",
       "Hard Rock"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

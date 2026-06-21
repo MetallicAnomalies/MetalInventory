@@ -427,6 +427,18 @@
     ]
   },
   {
+    "normalizedName": "aydra",
+    "displayName": "Aydra",
+    "albums": [
+      {
+        "name": "Icon Of Sin",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "baest",
     "displayName": "Baest",
     "origin": "DK",
@@ -3494,6 +3506,34 @@
     ]
   },
   {
+    "normalizedName": "redwood",
+    "displayName": "Redwood",
+    "albums": [
+      {
+        "name": "Hyperspace",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
+    "normalizedName": "revengeattack",
+    "displayName": "Revenge Attack",
+    "albums": [
+      {
+        "name": "Attack",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "rigormortis",
     "displayName": "Rigor Mortis",
     "albums": [
@@ -3881,6 +3921,26 @@
     ],
     "tags": [
       "Melodic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "solidity",
+    "displayName": "Solidity",
+    "albums": [
+      {
+        "name": "Invisible",
+        "year": "2026",
+        "genres": [
+          "Progressive Thrash Metal",
+          "Melodic Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Thrash Metal",
+      "Melodic Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -4440,6 +4500,22 @@
     "tags": [
       "Pagan Black Metal",
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "tormentum",
+    "displayName": "Tormentum",
+    "albums": [
+      {
+        "name": "Warriors of the Slavonic Wrath",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

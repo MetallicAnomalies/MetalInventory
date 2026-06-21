@@ -3258,30 +3258,6 @@
     ]
   },
   {
-    "normalizedName": "mørke",
-    "displayName": "Mørke",
-    "origin": "US",
-    "albums": [
-      {
-        "name": "Death Embraces You All",
-        "year": "2018",
-        "genres": [
-          "Symphonic Gothic"
-        ]
-      },
-      {
-        "name": "Melancholia",
-        "year": "2019",
-        "genres": [
-          "Symphonic Gothic"
-        ]
-      }
-    ],
-    "tags": [
-      "Symphonic Gothic"
-    ]
-  },
-  {
     "normalizedName": "mumus",
     "displayName": "Mumus",
     "albums": [
@@ -3313,6 +3289,30 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "mørke",
+    "displayName": "Mørke",
+    "origin": "US",
+    "albums": [
+      {
+        "name": "Death Embraces You All",
+        "year": "2018",
+        "genres": [
+          "Symphonic Gothic"
+        ]
+      },
+      {
+        "name": "Melancholia",
+        "year": "2019",
+        "genres": [
+          "Symphonic Gothic"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Gothic"
     ]
   },
   {
@@ -3394,6 +3394,11 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "X",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3738,6 +3743,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "onborrowedtime",
+    "displayName": "On Borrowed Time",
+    "albums": [
+      {
+        "name": "In The Dark Before The Dawn",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "ossuaire",
@@ -4218,6 +4235,22 @@
     ]
   },
   {
+    "normalizedName": "scornful",
+    "displayName": "Scornful",
+    "albums": [
+      {
+        "name": "Ramifications",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "shadowlandusa",
     "displayName": "Shadowland (Usa)",
     "albums": [
@@ -4390,6 +4423,22 @@
     ],
     "tags": [
       "Alternative"
+    ]
+  },
+  {
+    "normalizedName": "split",
+    "displayName": "SPLIT",
+    "albums": [
+      {
+        "name": "A Thousand Reflections",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
     ]
   },
   {
@@ -4777,6 +4826,22 @@
     ]
   },
   {
+    "normalizedName": "tearsofsorrow",
+    "displayName": "Tears of Sorrow",
+    "albums": [
+      {
+        "name": "CDLXIII XLMMDCCCXXXVII LXII",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "thecivilwars",
     "displayName": "The Civil Wars",
     "origin": "US",
@@ -4912,10 +4977,20 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Chcę aby demony odeszły",
+        "year": "2026",
+        "genres": [
+          "Gothic Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Heavy Metal"
+      "Heavy Metal",
+      "Gothic Death Metal",
+      "Death Metal"
     ]
   },
   {

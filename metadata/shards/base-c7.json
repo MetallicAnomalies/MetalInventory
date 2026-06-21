@@ -209,6 +209,24 @@
     ]
   },
   {
+    "normalizedName": "agrat",
+    "displayName": "Agrat",
+    "albums": [
+      {
+        "name": "Live at MONO, MMXXVI",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "antagony",
     "displayName": "Antagony",
     "albums": [
@@ -573,6 +591,18 @@
     ]
   },
   {
+    "normalizedName": "belarusbeaver",
+    "displayName": "Belarus Beaver",
+    "albums": [
+      {
+        "name": "Grind af den Brune Bäfve",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "bloedmaan",
     "displayName": "Bloedmaan",
     "albums": [
@@ -806,7 +836,7 @@
       },
       {
         "name": "Greatest Hits",
-        "year": "1967-03-27",
+        "year": "1967",
         "genres": [
           "Folk Rock",
           "Rock"
@@ -1040,7 +1070,7 @@
       },
       {
         "name": "Highway 61 Revisited",
-        "year": "2008-07-07",
+        "year": "1965",
         "genres": [
           "Blues Rock",
           "Folk Rock",
@@ -1281,6 +1311,40 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "cartelcyco",
+    "displayName": "Cartel Cyco",
+    "albums": [
+      {
+        "name": "Soy de este pueblo",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
+      },
+      {
+        "name": "One Hell of a Ride",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
+      },
+      {
+        "name": "Fuck Off!",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Crossover"
     ]
   },
   {
@@ -3395,6 +3459,22 @@
     ]
   },
   {
+    "normalizedName": "mentalanguish",
+    "displayName": "Mental Anguish",
+    "albums": [
+      {
+        "name": "Mental Anguish",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "mentalcoma",
     "displayName": "Mental Coma",
     "origin": "DK",
@@ -4099,6 +4179,24 @@
     ]
   },
   {
+    "normalizedName": "seduktor",
+    "displayName": "Seduktor",
+    "albums": [
+      {
+        "name": "Seduktor",
+        "year": "2026",
+        "genres": [
+          "Heavy Speed Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Speed Metal",
+      "Speed Metal"
+    ]
+  },
+  {
     "normalizedName": "serpentoftheblackforest",
     "displayName": "Serpent Of The Black Forest",
     "albums": [
@@ -4113,6 +4211,18 @@
     "tags": [
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "sevencrowns",
+    "displayName": "Seven Crowns",
+    "albums": [
+      {
+        "name": "Haunted Head",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "shadowcut",
@@ -4863,6 +4973,22 @@
     ],
     "tags": [
       "Neofolk"
+    ]
+  },
+  {
+    "normalizedName": "yegg",
+    "displayName": "Yegg",
+    "albums": [
+      {
+        "name": "Rotten",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   }
 ]

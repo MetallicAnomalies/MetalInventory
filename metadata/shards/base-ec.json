@@ -130,6 +130,13 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Live at RKC",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -897,7 +904,7 @@
     "albums": [
       {
         "name": "The Wretched Symphony",
-        "year": "2011-12-12",
+        "year": "2010",
         "genres": []
       }
     ],
@@ -2290,6 +2297,22 @@
     ]
   },
   {
+    "normalizedName": "kebabblast",
+    "displayName": "Kebabblast",
+    "albums": [
+      {
+        "name": "Tridecamythric lambus",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "killitorous",
     "displayName": "Killitorous",
     "origin": "CA",
@@ -2511,6 +2534,13 @@
       {
         "name": "The Chronicles Pt. Iii",
         "year": "2020",
+        "genres": [
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "Upon the Barricades",
+        "year": "2026",
         "genres": [
           "Power Metal"
         ]
@@ -3005,6 +3035,24 @@
       "Rock",
       "Indie Rock",
       "Emo"
+    ]
+  },
+  {
+    "normalizedName": "oldgods",
+    "displayName": "Old Gods",
+    "albums": [
+      {
+        "name": "Above / Below",
+        "year": "2026",
+        "genres": [
+          "Metalcore Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {
@@ -3858,6 +3906,22 @@
     ]
   },
   {
+    "normalizedName": "thedwellersoftheforgottenforest",
+    "displayName": "The Dwellers of the Forgotten Forest",
+    "albums": [
+      {
+        "name": "Forged Spring Days",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "theedenhouse",
     "displayName": "The Eden House",
     "albums": [
@@ -4015,6 +4079,18 @@
     "tags": [
       "Progressive Metal"
     ]
+  },
+  {
+    "normalizedName": "thisismebreathing",
+    "displayName": "This Is Me Breathing",
+    "albums": [
+      {
+        "name": "Serenity In Suffering",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "throwingbricks",
@@ -4385,6 +4461,18 @@
     ]
   },
   {
+    "normalizedName": "violencesystem",
+    "displayName": "Violence System",
+    "albums": [
+      {
+        "name": "The Hollowing",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "voicesfrombeyond",
     "displayName": "Voices From Beyond",
     "albums": [
@@ -4450,6 +4538,18 @@
       "Prog Rock",
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "volubilis",
+    "displayName": "Volubilis",
+    "albums": [
+      {
+        "name": "Theasterion",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "vrimuot",
@@ -4524,6 +4624,29 @@
     "tags": [
       "Post-Black Metal",
       "Post-black Metal"
+    ]
+  },
+  {
+    "normalizedName": "灰烬行者",
+    "displayName": "灰烬行者",
+    "albums": [
+      {
+        "name": "风暴中的无名者",
+        "year": "2026",
+        "genres": [
+          "Various"
+        ]
+      },
+      {
+        "name": "幻游",
+        "year": "2026",
+        "genres": [
+          "Various"
+        ]
+      }
+    ],
+    "tags": [
+      "Various"
     ]
   }
 ]

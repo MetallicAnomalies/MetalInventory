@@ -367,12 +367,21 @@
           "Progressive Metal",
           "Metalcore"
         ]
+      },
+      {
+        "name": "Season of Surrender",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Technical Metalcore",
       "Progressive Metal",
-      "Metalcore"
+      "Metalcore",
+      "Metal"
     ]
   },
   {
@@ -619,6 +628,18 @@
       "Contemporary R&b",
       "Ballad"
     ]
+  },
+  {
+    "normalizedName": "brocarde",
+    "displayName": "Brocarde",
+    "albums": [
+      {
+        "name": "Good Attendance At Sunday School",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "buriedinblack",
@@ -1458,6 +1479,11 @@
           "Brutal Death Metal",
           "Grindcore"
         ]
+      },
+      {
+        "name": "Bloom",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3030,6 +3056,11 @@
           "Atmospheric Progressive Rock",
           "Experimental Ambient"
         ]
+      },
+      {
+        "name": "Transition II Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3602,6 +3633,32 @@
     ]
   },
   {
+    "normalizedName": "phyllomedusa",
+    "displayName": "Phyllomedusa",
+    "albums": [
+      {
+        "name": "I Murder Hunters",
+        "year": "2026",
+        "genres": [
+          "Gorenoise",
+          "Various"
+        ]
+      },
+      {
+        "name": "Every Day Is Frog Day",
+        "year": "2026",
+        "genres": [
+          "Gorenoise",
+          "Various"
+        ]
+      }
+    ],
+    "tags": [
+      "Gorenoise",
+      "Various"
+    ]
+  },
+  {
     "normalizedName": "processpain",
     "displayName": "Process Pain",
     "albums": [
@@ -3934,6 +3991,18 @@
     "tags": [
       "Symphonic Metal"
     ]
+  },
+  {
+    "normalizedName": "skuggor",
+    "displayName": "Skuggor",
+    "albums": [
+      {
+        "name": "The Expanse",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "snakeskin",

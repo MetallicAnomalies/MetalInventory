@@ -660,6 +660,11 @@
           "Deathcore",
           "Metalcore"
         ]
+      },
+      {
+        "name": "The Pain Made Me Who I Am",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -768,6 +773,11 @@
           "Drone Metal",
           "Post-Rock"
         ]
+      },
+      {
+        "name": "In Grief Or In Hope",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1468,10 +1478,20 @@
         "genres": [
           "Drone Metal"
         ]
+      },
+      {
+        "name": "Storehouse of Zen Reflections",
+        "year": "2026",
+        "genres": [
+          "Drone Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Drone Metal"
+      "Drone Metal",
+      "Drone Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -1546,6 +1566,18 @@
       "Pop Rock",
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "druidess",
+    "displayName": "Druidess",
+    "albums": [
+      {
+        "name": "Trip Meadow",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "dysperium",
@@ -3655,12 +3687,23 @@
           "Post-Rock",
           "Post-black Metal"
         ]
+      },
+      {
+        "name": "Abstraction",
+        "year": "2026",
+        "genres": [
+          "Post-Rock Post-Black Metal",
+          "Shoegaze Post-Black Metal",
+          "Post-Black Metal"
+        ]
       }
     ],
     "tags": [
       "Post-Black Metal",
       "Post-Rock",
-      "Post-black Metal"
+      "Post-black Metal",
+      "Post-Rock Post-Black Metal",
+      "Shoegaze Post-Black Metal"
     ]
   },
   {

@@ -1,5 +1,28 @@
 [
   {
+    "normalizedName": "1804",
+    "displayName": "1804",
+    "albums": [
+      {
+        "name": "Nož, žica, Srebrenica",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Sloboda ili smrt",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "abraxasger",
     "displayName": "Abraxas (Ger)",
     "albums": [
@@ -756,10 +779,18 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Emotion Factory Reset",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
       }
     ],
     "tags": [
-      "Heavy Metal"
+      "Heavy Metal",
+      "Metal"
     ]
   },
   {
@@ -863,6 +894,11 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Set Your World On Fire",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1450,6 +1486,22 @@
     "tags": [
       "Doom Metal",
       "Stoner Metal"
+    ]
+  },
+  {
+    "normalizedName": "carpectomy",
+    "displayName": "Carpectomy",
+    "albums": [
+      {
+        "name": "Promo 2026",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {
@@ -2109,6 +2161,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "diamondrain",
+    "displayName": "Diamond Rain",
+    "albums": [
+      {
+        "name": "Chapter One",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "disintegration",
@@ -2819,10 +2883,18 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "The Pungent Wine of Pride",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Melodic Black Metal"
     ]
   },
   {
@@ -4227,6 +4299,18 @@
     ]
   },
   {
+    "normalizedName": "prevailer",
+    "displayName": "Prevailer",
+    "albums": [
+      {
+        "name": "Convalescent",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "projectmasquerade",
     "displayName": "Project Masquerade",
     "albums": [
@@ -5161,6 +5245,18 @@
     "tags": [
       "Lullaby"
     ]
+  },
+  {
+    "normalizedName": "tidalwave",
+    "displayName": "Tidal Wave",
+    "albums": [
+      {
+        "name": "Volume Tree",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "trapthem",

@@ -1011,6 +1011,22 @@
     ]
   },
   {
+    "normalizedName": "corpsewater",
+    "displayName": "Corpse Water",
+    "albums": [
+      {
+        "name": "...something in the water",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "cruthu",
     "displayName": "Cruthu",
     "albums": [
@@ -2213,6 +2229,22 @@
     ]
   },
   {
+    "normalizedName": "goatvomit",
+    "displayName": "Goatvomit",
+    "albums": [
+      {
+        "name": "Demo / EP",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "gravecarver",
     "displayName": "Gravecarver",
     "albums": [
@@ -2967,6 +2999,24 @@
     ],
     "tags": [
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "lufehband",
+    "displayName": "Lufeh Band",
+    "albums": [
+      {
+        "name": "Overwhelmed",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal",
+      "Rock"
     ]
   },
   {
@@ -3855,6 +3905,18 @@
       "Metalcore",
       "Post-hardcore"
     ]
+  },
+  {
+    "normalizedName": "novalenada",
+    "displayName": "No Vale Nada",
+    "albums": [
+      {
+        "name": "Quidam",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "oathean",
@@ -5353,6 +5415,11 @@
         "genres": [
           "Progressive Death Metal"
         ]
+      },
+      {
+        "name": "Hermetic Transmutation",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

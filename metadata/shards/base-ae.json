@@ -149,6 +149,24 @@
     ]
   },
   {
+    "normalizedName": "astar",
+    "displayName": "Astar",
+    "albums": [
+      {
+        "name": "Journey Beyond the Ages",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal",
+      "Dungeon Synth"
+    ]
+  },
+  {
     "normalizedName": "avandra",
     "displayName": "Avandra",
     "origin": "PR",
@@ -337,6 +355,30 @@
     ]
   },
   {
+    "normalizedName": "brojob",
+    "displayName": "BROJOB",
+    "origin": "US",
+    "albums": [
+      {
+        "name": "Erection Injection",
+        "year": "2017",
+        "genres": [
+          "Deathcore"
+        ]
+      },
+      {
+        "name": "Tickle War (Feat. Cj Mcmahon & Tyler Shelton)",
+        "year": "2017",
+        "genres": [
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Deathcore"
+    ]
+  },
+  {
     "normalizedName": "bræ",
     "displayName": "Bræ",
     "albums": [
@@ -360,30 +402,6 @@
     "tags": [
       "Atmospheric Black Metal",
       "Ambient Metal"
-    ]
-  },
-  {
-    "normalizedName": "brojob",
-    "displayName": "BROJOB",
-    "origin": "US",
-    "albums": [
-      {
-        "name": "Erection Injection",
-        "year": "2017",
-        "genres": [
-          "Deathcore"
-        ]
-      },
-      {
-        "name": "Tickle War (Feat. Cj Mcmahon & Tyler Shelton)",
-        "year": "2017",
-        "genres": [
-          "Deathcore"
-        ]
-      }
-    ],
-    "tags": [
-      "Deathcore"
     ]
   },
   {
@@ -1030,6 +1048,11 @@
         "genres": [
           "Viking Folk"
         ]
+      },
+      {
+        "name": "Lifeblood",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2230,6 +2253,18 @@
     ]
   },
   {
+    "normalizedName": "iwilldestroyyou",
+    "displayName": "I Will Destroy You",
+    "albums": [
+      {
+        "name": "Dead Before Dawn EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "johannwolfgangpozoj",
     "displayName": "Johann Wolfgang Pozoj",
     "albums": [
@@ -2826,6 +2861,24 @@
     ]
   },
   {
+    "normalizedName": "mooddoom",
+    "displayName": "Mood:Doom",
+    "albums": [
+      {
+        "name": "Morbid Entropic Spaces",
+        "year": "2026",
+        "genres": [
+          "Doom Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "mylingar",
     "displayName": "Mylingar",
     "albums": [
@@ -3013,6 +3066,18 @@
     "tags": [
       "Brutal Death Metal"
     ]
+  },
+  {
+    "normalizedName": "pelegrin",
+    "displayName": "Pelegrin",
+    "albums": [
+      {
+        "name": "The Curse Of Nephtar",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "profaneburial",
@@ -3463,6 +3528,24 @@
       "Thrash Metal",
       "Epic Heavy",
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "slowmelancholy",
+    "displayName": "Slow Melancholy",
+    "albums": [
+      {
+        "name": "Existential Scare",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal",
+      "Ambient"
     ]
   },
   {
@@ -3982,6 +4065,22 @@
     ]
   },
   {
+    "normalizedName": "toxicdawn",
+    "displayName": "Toxic Dawn",
+    "albums": [
+      {
+        "name": "Moorleib",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "transcendingmortality",
     "displayName": "Transcending Mortality",
     "origin": "AU",
@@ -4027,35 +4126,6 @@
       "Children's",
       "Stage & Screen",
       "Soundtrack"
-    ]
-  },
-  {
-    "normalizedName": "vægtløs",
-    "displayName": "Vægtløs",
-    "albums": [
-      {
-        "name": "Kakofoni",
-        "year": "2022",
-        "genres": [
-          "Post-Black Metal",
-          "Shoegaze",
-          "Post-black Metal"
-        ]
-      },
-      {
-        "name": "Afrtyk",
-        "year": "2024",
-        "genres": [
-          "Post-Black Metal",
-          "Shoegaze",
-          "Post-black Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Post-Black Metal",
-      "Shoegaze",
-      "Post-black Metal"
     ]
   },
   {
@@ -4144,6 +4214,35 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "vægtløs",
+    "displayName": "Vægtløs",
+    "albums": [
+      {
+        "name": "Kakofoni",
+        "year": "2022",
+        "genres": [
+          "Post-Black Metal",
+          "Shoegaze",
+          "Post-black Metal"
+        ]
+      },
+      {
+        "name": "Afrtyk",
+        "year": "2024",
+        "genres": [
+          "Post-Black Metal",
+          "Shoegaze",
+          "Post-black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal",
+      "Shoegaze",
+      "Post-black Metal"
     ]
   },
   {
@@ -4404,7 +4503,7 @@
   },
   {
     "normalizedName": "zywiołak",
-    "displayName": "żYwiołak",
+    "displayName": "ŻYwiołak",
     "albums": [
       {
         "name": "Muzyka Psychodelicznej Switezianki",

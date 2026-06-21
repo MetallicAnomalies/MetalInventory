@@ -249,6 +249,24 @@
     ]
   },
   {
+    "normalizedName": "ashraith",
+    "displayName": "Ashraith",
+    "albums": [
+      {
+        "name": "Kopie",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dungeon Synth"
+    ]
+  },
+  {
     "normalizedName": "asymmetricuniverse",
     "displayName": "Asymmetric Universe",
     "albums": [
@@ -300,12 +318,20 @@
         "genres": [
           "Atmospheric Death"
         ]
+      },
+      {
+        "name": "Liturgies of the Vile Ones",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Atmospheric Death",
       "Melodic Death Metal",
-      "Melodic Black Metal"
+      "Melodic Black Metal",
+      "Death Metal"
     ]
   },
   {
@@ -496,6 +522,24 @@
     ]
   },
   {
+    "normalizedName": "bumcadaver",
+    "displayName": "Bum Cadaver",
+    "albums": [
+      {
+        "name": "Americas Finest Tent City",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "caliber666",
     "displayName": "Caliber 666",
     "albums": [
@@ -562,11 +606,25 @@
           "Doom Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Carrie Chains",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Carry Chains",
+        "year": "2026",
+        "genres": [
+          "Heavy Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Heavy Doom Metal"
     ]
   },
   {
@@ -2398,6 +2456,18 @@
     ]
   },
   {
+    "normalizedName": "godesyrre",
+    "displayName": "Godes Yrre",
+    "albums": [
+      {
+        "name": "Feelings Can Burn You",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "gravensin",
     "displayName": "Graven Sin",
     "albums": [
@@ -2644,6 +2714,24 @@
     "tags": [
       "Black Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "huan",
+    "displayName": "Huan",
+    "albums": [
+      {
+        "name": "Homo Lupus Factus Est",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dungeon Synth"
     ]
   },
   {
@@ -2970,6 +3058,18 @@
       "Metalcore",
       "Djent"
     ]
+  },
+  {
+    "normalizedName": "malebeste",
+    "displayName": "Malebeste",
+    "albums": [
+      {
+        "name": "Monestherou",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "mazikeen",
@@ -3780,6 +3880,18 @@
       {
         "name": "Santa Claus Is Coming To Town",
         "year": "2015",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
+    "normalizedName": "redsky",
+    "displayName": "Red Sky",
+    "albums": [
+      {
+        "name": "Nostalgia del Futuro",
+        "year": "2026",
         "genres": []
       }
     ],
@@ -5140,7 +5252,8 @@
     ],
     "tags": [
       "Pagan Folk"
-    ]
+    ],
+    "origin": "RU"
   },
   {
     "normalizedName": "דיגייאונלי",

@@ -630,6 +630,11 @@
         "genres": [
           "Post-Metal"
         ]
+      },
+      {
+        "name": "Exanimis",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -979,6 +984,24 @@
     ],
     "tags": [
       "Deathcore"
+    ]
+  },
+  {
+    "normalizedName": "desmodusrotundus",
+    "displayName": "Desmodus Rotundus",
+    "albums": [
+      {
+        "name": "He that Believeth on Him Is Not Condemned",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Grindcore"
     ]
   },
   {
@@ -2005,6 +2028,22 @@
     ]
   },
   {
+    "normalizedName": "iraewampyricrites",
+    "displayName": "Irae/Wampyric Rites",
+    "albums": [
+      {
+        "name": "Tyrants Rise from the Ashes",
+        "year": "2026",
+        "genres": [
+          "Black Metal | Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal | Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "jagannatha",
     "displayName": "Jagannatha",
     "albums": [
@@ -2374,6 +2413,22 @@
     "tags": [
       "Power Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "lepoka",
+    "displayName": "Lèpoka",
+    "albums": [
+      {
+        "name": "No quiero despertar",
+        "year": "2026",
+        "genres": [
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Folk Metal"
     ]
   },
   {
@@ -3354,6 +3409,18 @@
       "Drone Metal",
       "Dark Ambient"
     ]
+  },
+  {
+    "normalizedName": "postdeathsoundtrack",
+    "displayName": "Post Death Soundtrack",
+    "albums": [
+      {
+        "name": "Barren Mother Of All",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "posthumanbigbang",
@@ -4396,6 +4463,18 @@
       "Blues",
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "thedevilwearsnada",
+    "displayName": "The Devil Wears Nada",
+    "albums": [
+      {
+        "name": "In Lust We Thrust",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "thedrowning",

@@ -377,6 +377,18 @@
     ]
   },
   {
+    "normalizedName": "bolan",
+    "displayName": "Bolan",
+    "albums": [
+      {
+        "name": "Gargoyle Of The Garden State",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "bookofblackearth",
     "displayName": "Book Of Black Earth",
     "albums": [
@@ -2392,6 +2404,24 @@
     ]
   },
   {
+    "normalizedName": "neuropolis",
+    "displayName": "Neuropolis",
+    "albums": [
+      {
+        "name": "Петербургские слёзы",
+        "year": "2026",
+        "genres": [
+          "Doom Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "nocteobducta",
     "displayName": "Nocte Obducta",
     "origin": "DE",
@@ -3817,6 +3847,7 @@
     ],
     "tags": [
       "Heavy Metal"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

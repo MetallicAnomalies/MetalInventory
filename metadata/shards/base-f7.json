@@ -943,25 +943,6 @@
     ]
   },
   {
-    "normalizedName": "cœurdepirate",
-    "displayName": "Cœur de Pirate",
-    "origin": "CA",
-    "albums": [
-      {
-        "name": "Trauma",
-        "year": "2014",
-        "genres": [
-          "Pop",
-          "Folk, World, & Country"
-        ]
-      }
-    ],
-    "tags": [
-      "Pop",
-      "Folk, World, & Country"
-    ]
-  },
-  {
     "normalizedName": "cognitive",
     "displayName": "Cognitive",
     "origin": "US",
@@ -1085,6 +1066,25 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "cœurdepirate",
+    "displayName": "Cœur de Pirate",
+    "origin": "CA",
+    "albums": [
+      {
+        "name": "Trauma",
+        "year": "2014",
+        "genres": [
+          "Pop",
+          "Folk, World, & Country"
+        ]
+      }
+    ],
+    "tags": [
+      "Pop",
+      "Folk, World, & Country"
     ]
   },
   {
@@ -1531,6 +1531,18 @@
       "Stoner Metal",
       "Sludge Metal"
     ]
+  },
+  {
+    "normalizedName": "dysthen",
+    "displayName": "Dysthen",
+    "albums": [
+      {
+        "name": "Dysthen EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "elisacmartin",
@@ -2482,6 +2494,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "inoxidable",
+    "displayName": "Inoxidable",
+    "albums": [
+      {
+        "name": "En vivo",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -4675,6 +4705,24 @@
     ]
   },
   {
+    "normalizedName": "mitosis",
+    "displayName": "Mitosis",
+    "albums": [
+      {
+        "name": "FUBAR",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "morke",
     "displayName": "Morke",
     "albums": [
@@ -5385,6 +5433,22 @@
     ]
   },
   {
+    "normalizedName": "shunai",
+    "displayName": "shuNai",
+    "albums": [
+      {
+        "name": "Brutal Bap Origin",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "skaphos",
     "displayName": "Skaphos",
     "albums": [
@@ -5914,6 +5978,11 @@
           "Progressive Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "Oceans Above, Stars Below",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -6820,6 +6889,22 @@
     "tags": [
       "Metalcore",
       "Powerviolence"
+    ]
+  },
+  {
+    "normalizedName": "пламень",
+    "displayName": "Пламень",
+    "albums": [
+      {
+        "name": "Гимны черной энергии",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

@@ -84,6 +84,11 @@
         "genres": [
           "Avantgarde Black"
         ]
+      },
+      {
+        "name": "Melas Khole",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -821,6 +826,22 @@
     ]
   },
   {
+    "normalizedName": "degenerated",
+    "displayName": "Degenerated",
+    "albums": [
+      {
+        "name": "Echoes of Infection",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "deteriorate",
     "displayName": "Deteriorate",
     "albums": [
@@ -911,6 +932,18 @@
     ]
   },
   {
+    "normalizedName": "dutchelm",
+    "displayName": "Dutch Elm",
+    "albums": [
+      {
+        "name": "Dutch Elm",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "dymnalotva",
     "displayName": "Dymna Lotva",
     "albums": [
@@ -937,6 +970,11 @@
           "Doom Metal",
           "Post-Metal"
         ]
+      },
+      {
+        "name": "Vyraj",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -996,6 +1034,18 @@
       "Grindcore",
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "ealdorbealu",
+    "displayName": "Ealdor Bealu",
+    "albums": [
+      {
+        "name": "Graves Of The Silent Plain",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "electriccallboy",
@@ -1091,6 +1141,11 @@
           "Metalcore",
           "Electro Metal"
         ]
+      },
+      {
+        "name": "Tanzeid",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1280,6 +1335,18 @@
       "Hardcore Metal",
       "Punk"
     ]
+  },
+  {
+    "normalizedName": "geminiidragon",
+    "displayName": "GeminiiDragon",
+    "albums": [
+      {
+        "name": "Greatest Misses",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "genitorturers",
@@ -2169,10 +2236,20 @@
         "genres": [
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Hipótesis del Miedo",
+        "year": "2026",
+        "genres": [
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Metal"
+      "Progressive Metal",
+      "Thrash Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -2355,6 +2432,24 @@
     ]
   },
   {
+    "normalizedName": "memoriesofalostsoul",
+    "displayName": "Memories of a Lost Soul",
+    "albums": [
+      {
+        "name": "The Darkest Live",
+        "year": "2026",
+        "genres": [
+          "Progressive Melodic Death Metal",
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Melodic Death Metal",
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "metalforce",
     "displayName": "Metalforce",
     "albums": [
@@ -2370,6 +2465,24 @@
     "tags": [
       "Heavy Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "morbidmaggot",
+    "displayName": "Morbid Maggot",
+    "albums": [
+      {
+        "name": "illusion",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Grindcore"
     ]
   },
   {
@@ -3011,6 +3124,18 @@
       "Pop",
       "Folk, World, & Country"
     ]
+  },
+  {
+    "normalizedName": "rockjustice",
+    "displayName": "Rock Justice",
+    "albums": [
+      {
+        "name": "You’ve Been Served",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "royaljester",

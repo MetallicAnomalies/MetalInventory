@@ -1657,6 +1657,22 @@
     ]
   },
   {
+    "normalizedName": "hessianyhwh",
+    "displayName": "Hessian/YHWH",
+    "albums": [
+      {
+        "name": "Rapture & Perversion",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal | Blackened Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal | Blackened Death Metal"
+    ]
+  },
+  {
     "normalizedName": "houseofpain",
     "displayName": "House of Pain",
     "origin": "US",
@@ -1805,10 +1821,19 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Crush Your Local Disco",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Speed Thrash Metal"
     ]
   },
   {
@@ -1957,6 +1982,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "liche",
+    "displayName": "Liche",
+    "albums": [
+      {
+        "name": "Mille Trois Cent Quarante Rites",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -2193,6 +2234,27 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "methalox",
+    "displayName": "Methalox",
+    "albums": [
+      {
+        "name": "Correction Burn",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Various",
+          "Doom Metal",
+          "Various"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Various",
+      "Doom Metal"
     ]
   },
   {
@@ -2463,6 +2525,22 @@
       "Black Metal",
       "Gothic Metal",
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "ozuye",
+    "displayName": "Ozuye",
+    "albums": [
+      {
+        "name": "Demo I",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

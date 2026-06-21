@@ -118,6 +118,57 @@
     ]
   },
   {
+    "normalizedName": "akarmicgray",
+    "displayName": "A Karmic Gray",
+    "albums": [
+      {
+        "name": "Forged to Last",
+        "year": "2026",
+        "genres": [
+          "Metalcore Technical Death Metal",
+          "Various",
+          "Technical Death Metal",
+          "Various"
+        ]
+      },
+      {
+        "name": "Virtual Adagietto",
+        "year": "2026",
+        "genres": [
+          "Metalcore Technical Death Metal",
+          "Various",
+          "Technical Death Metal",
+          "Various"
+        ]
+      },
+      {
+        "name": "The Cursed Objective",
+        "year": "2026",
+        "genres": [
+          "Metalcore Technical Death Metal",
+          "Various",
+          "Technical Death Metal",
+          "Various"
+        ]
+      },
+      {
+        "name": "Geist Maestro",
+        "year": "2026",
+        "genres": [
+          "Metalcore Technical Death Metal",
+          "Various",
+          "Technical Death Metal",
+          "Various"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore Technical Death Metal",
+      "Various",
+      "Technical Death Metal"
+    ]
+  },
+  {
     "normalizedName": "alphoenix",
     "displayName": "Alphoenix",
     "albums": [
@@ -621,6 +672,11 @@
           "Grindcore",
           "Death Metal"
         ]
+      },
+      {
+        "name": "No One Is Coming To Save Us",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -948,7 +1004,7 @@
     "albums": [
       {
         "name": "Twelve Year Silence",
-        "year": "2005-06-14",
+        "year": "2005",
         "genres": [
           "Rock"
         ]
@@ -963,7 +1019,7 @@
       },
       {
         "name": "Vicious Thinking",
-        "year": "2010-06-07",
+        "year": "2012",
         "genres": [
           "Grunge",
           "Alternative Metal"
@@ -1130,6 +1186,18 @@
     "tags": [
       "Metalcore"
     ]
+  },
+  {
+    "normalizedName": "demetrasscars",
+    "displayName": "Demetra’s Scars",
+    "albums": [
+      {
+        "name": "Born Unbroken",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "depravity",
@@ -1324,6 +1392,42 @@
     ]
   },
   {
+    "normalizedName": "dramatvm",
+    "displayName": "Dramatvm",
+    "albums": [
+      {
+        "name": "The Prophecy Of Mhisty: A Prelude Of Chaos",
+        "year": "2011",
+        "genres": [
+          "Melodic Death Metal",
+          "Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal",
+      "Gothic Metal"
+    ]
+  },
+  {
+    "normalizedName": "dyingalone",
+    "displayName": "Dying Alone",
+    "albums": [
+      {
+        "name": "One Man Tragedy",
+        "year": "2022",
+        "genres": [
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "dødheimsgard",
     "displayName": "Dødheimsgard",
     "origin": "NO",
@@ -1381,42 +1485,6 @@
     "tags": [
       "Industrial Black Metal",
       "Black Metal"
-    ]
-  },
-  {
-    "normalizedName": "dramatvm",
-    "displayName": "Dramatvm",
-    "albums": [
-      {
-        "name": "The Prophecy Of Mhisty: A Prelude Of Chaos",
-        "year": "2011",
-        "genres": [
-          "Melodic Death Metal",
-          "Gothic Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Melodic Death Metal",
-      "Gothic Metal"
-    ]
-  },
-  {
-    "normalizedName": "dyingalone",
-    "displayName": "Dying Alone",
-    "albums": [
-      {
-        "name": "One Man Tragedy",
-        "year": "2022",
-        "genres": [
-          "Melodic Death Metal",
-          "Metalcore"
-        ]
-      }
-    ],
-    "tags": [
-      "Melodic Death Metal",
-      "Metalcore"
     ]
   },
   {
@@ -2733,6 +2801,22 @@
     ]
   },
   {
+    "normalizedName": "nightroar",
+    "displayName": "Night Roar",
+    "albums": [
+      {
+        "name": "No Compromise, No Apologies",
+        "year": "2026",
+        "genres": [
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Speed Metal"
+    ]
+  },
+  {
     "normalizedName": "nocturnalfear",
     "displayName": "Nocturnal Fear",
     "albums": [
@@ -3220,7 +3304,7 @@
       },
       {
         "name": "Alive In Color",
-        "year": "2020-07-28",
+        "year": "2020",
         "genres": [
           "Progressive Metal"
         ]
@@ -4008,6 +4092,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "thecarburetors",
+    "displayName": "The Carburetors",
+    "albums": [
+      {
+        "name": "We Ride At Night",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "thefathomlessdeep",

@@ -178,6 +178,22 @@
     ]
   },
   {
+    "normalizedName": "barrencanyon",
+    "displayName": "Barren Canyon",
+    "albums": [
+      {
+        "name": "A Virulent Steam",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "bedsore",
     "displayName": "Bedsore",
     "origin": "IT",
@@ -1952,6 +1968,22 @@
     ]
   },
   {
+    "normalizedName": "jamiesaft",
+    "displayName": "Jamie Saft",
+    "albums": [
+      {
+        "name": "Rhodes Scholar",
+        "year": "2026",
+        "genres": [
+          "Various"
+        ]
+      }
+    ],
+    "tags": [
+      "Various"
+    ]
+  },
+  {
     "normalizedName": "janiebecker",
     "displayName": "Janie Becker",
     "origin": "US",
@@ -2254,6 +2286,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Legion",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3854,6 +3891,11 @@
           "Stoner Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Where The Wisest Fear To Tread",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4100,6 +4142,18 @@
       "Soft Rock",
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "thecruelintentions",
+    "displayName": "The Cruel Intentions",
+    "albums": [
+      {
+        "name": "All Hail Hypocrisy",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "thegnashing",

@@ -309,7 +309,8 @@
     ],
     "tags": [
       "Progressive Metalcore"
-    ]
+    ],
+    "origin": "GR"
   },
   {
     "normalizedName": "armsofwar",
@@ -2321,6 +2322,24 @@
     ]
   },
   {
+    "normalizedName": "grimprophecy",
+    "displayName": "Grim Prophecy",
+    "albums": [
+      {
+        "name": "Grim Prophecy",
+        "year": "2026",
+        "genres": [
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "grorr",
     "displayName": "Grorr",
     "origin": "FR",
@@ -2875,7 +2894,7 @@
     "albums": [
       {
         "name": "Cosmonaut",
-        "year": "2018-11-16",
+        "year": "2018",
         "genres": [
           "Progressive Metal"
         ]
@@ -3607,6 +3626,18 @@
       "Folk Rock",
       "Rock & Roll"
     ]
+  },
+  {
+    "normalizedName": "nightsofmalice",
+    "displayName": "Nights Of Malice",
+    "albums": [
+      {
+        "name": "Chaos Exordium<",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "nitrous",
@@ -4843,6 +4874,38 @@
     ]
   },
   {
+    "normalizedName": "together",
+    "displayName": "Together",
+    "albums": [
+      {
+        "name": "Playing Games: 1981-1985 - A Travel Back in Time",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "ttk",
+    "displayName": "TTK",
+    "albums": [
+      {
+        "name": "Племя зверя",
+        "year": "2026",
+        "genres": [
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "undertakers",
     "displayName": "Undertakers",
     "albums": [
@@ -4873,6 +4936,11 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Global Dominion",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -5026,6 +5094,22 @@
     "tags": [
       "Black Metal",
       "Avantgarde Metal"
+    ]
+  },
+  {
+    "normalizedName": "vimbulnatt",
+    "displayName": "Vimbulnatt",
+    "albums": [
+      {
+        "name": "Der dunklen Tugenden. Echos",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

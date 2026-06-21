@@ -171,6 +171,18 @@
     ]
   },
   {
+    "normalizedName": "alien",
+    "displayName": "Alien",
+    "albums": [
+      {
+        "name": "Alien Re-Release",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "althea",
     "displayName": "Althea",
     "albums": [
@@ -272,11 +284,20 @@
           "Doom Metal",
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Salem",
+        "year": "2026",
+        "genres": [
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Stoner Metal"
+      "Stoner Metal",
+      "Doom Stoner Metal"
     ]
   },
   {
@@ -1849,6 +1870,24 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "gatesoflondraforgottenshrines",
+    "displayName": "Gates of Londra/Forgotten Shrines",
+    "albums": [
+      {
+        "name": "Forgotten Shrines / Gates of Londra",
+        "year": "2026",
+        "genres": [
+          "Black Metal | Raw Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal | Raw Black Metal",
+      "Dungeon Synth"
     ]
   },
   {
@@ -4329,6 +4368,13 @@
       {
         "name": "With Blood Comes Cleansing",
         "year": "2025",
+        "genres": [
+          "Deathcore"
+        ]
+      },
+      {
+        "name": "Golgotha (20th Anniversary Edition)",
+        "year": "2026",
         "genres": [
           "Deathcore"
         ]

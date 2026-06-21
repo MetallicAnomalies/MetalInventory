@@ -170,6 +170,18 @@
     ]
   },
   {
+    "normalizedName": "aspensanctum",
+    "displayName": "Aspen Sanctum",
+    "albums": [
+      {
+        "name": "To Withhold The Need To Conquer",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "avnergadasi",
     "displayName": "Avner Gadasi",
     "origin": "IL",
@@ -761,7 +773,7 @@
       },
       {
         "name": "This Desert Life",
-        "year": "1999-11-01",
+        "year": "1999",
         "genres": [
           "Alternative Rock",
           "Rock"
@@ -1507,11 +1519,20 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Гимны ледяного царства",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "Black Death Metal"
     ]
   },
   {
@@ -1799,7 +1820,7 @@
       },
       {
         "name": "Back Burner",
-        "year": "2011-05-24",
+        "year": "2011",
         "genres": [
           "Metalcore",
           "Post-hardcore"
@@ -2131,6 +2152,24 @@
     ],
     "tags": [
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "hellionight",
+    "displayName": "Hellionight",
+    "albums": [
+      {
+        "name": "Witches' Sabbat",
+        "year": "2026",
+        "genres": [
+          "Thrash Speed Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Speed Metal",
+      "Speed Metal"
     ]
   },
   {
@@ -3218,6 +3257,24 @@
     ]
   },
   {
+    "normalizedName": "morbithal",
+    "displayName": "Morbithal",
+    "albums": [
+      {
+        "name": "Rid Us of Our Human Waste",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "myriads",
     "displayName": "Myriads",
     "albums": [
@@ -3613,6 +3670,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "princeoffailure",
+    "displayName": "Prince Of Failure",
+    "albums": [
+      {
+        "name": "Prince Of Failure",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "psalm",

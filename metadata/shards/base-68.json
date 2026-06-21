@@ -392,6 +392,22 @@
     ]
   },
   {
+    "normalizedName": "australwinter",
+    "displayName": "Austral Winter",
+    "albums": [
+      {
+        "name": "Chaos in the Winter Forest",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "beherit",
     "displayName": "Beherit",
     "albums": [
@@ -869,6 +885,24 @@
     ]
   },
   {
+    "normalizedName": "coffretdebijoux",
+    "displayName": "coffret de bijoux",
+    "albums": [
+      {
+        "name": "i look for you everywhere",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "confessor",
     "displayName": "Confessor",
     "origin": "US",
@@ -912,6 +946,18 @@
     "tags": [
       "Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "consvmer",
+    "displayName": "Consvmer.",
+    "albums": [
+      {
+        "name": "Abgrund",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "contrition",
@@ -2562,6 +2608,22 @@
     ]
   },
   {
+    "normalizedName": "lacerationofdespair",
+    "displayName": "Laceration of Despair",
+    "albums": [
+      {
+        "name": "Springtime Depression (Forgotten Tomb cover)",
+        "year": "2026",
+        "genres": [
+          "Raw Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "lazerthrone",
     "displayName": "Lazer Throne",
     "albums": [
@@ -2786,6 +2848,14 @@
           "Avantgarde Metal",
           "Progressive Black Metal"
         ]
+      },
+      {
+        "name": "The Dance of Tragedies",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
@@ -2793,7 +2863,9 @@
       "Progressive Black Metal",
       "Black Metal",
       "Melodic Death Metal",
-      "Death Metal"
+      "Death Metal",
+      "Progressive Metal",
+      "Metal"
     ]
   },
   {
@@ -3004,6 +3076,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "morbidthrone",
+    "displayName": "MorbidThrone",
+    "albums": [
+      {
+        "name": "Lord Of Chaos",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -4395,6 +4483,7 @@
     ],
     "tags": [
       "Progressive Power"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

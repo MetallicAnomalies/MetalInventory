@@ -395,7 +395,7 @@
   },
   {
     "normalizedName": "arstiðirlifsins",
-    "displayName": "áRstíðir Lífsins",
+    "displayName": "ÁRstíðir Lífsins",
     "albums": [
       {
         "name": "Jötunheima Dolgferð",
@@ -925,6 +925,24 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "cirkus",
+    "displayName": "Cirkus",
+    "albums": [
+      {
+        "name": "Shepherd",
+        "year": "2026",
+        "genres": [
+          "Southern Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Southern Groove Metal",
+      "Groove Metal"
     ]
   },
   {
@@ -1621,7 +1639,7 @@
       },
       {
         "name": "אני כאן",
-        "year": "1997",
+        "year": "2018",
         "genres": [
           "Art Rock",
           "Pop Rock",
@@ -1630,7 +1648,7 @@
       },
       {
         "name": "הדרכים הידועות - אלבום מחווה לחתונה לבנה",
-        "year": "1997",
+        "year": "2008",
         "genres": [
           "Art Rock",
           "Pop Rock",
@@ -1639,7 +1657,7 @@
       },
       {
         "name": "החיים מתחילים לנגן",
-        "year": "1997",
+        "year": "2021",
         "genres": [
           "Art Rock",
           "Pop Rock",
@@ -1648,7 +1666,7 @@
       },
       {
         "name": "יפה כלבנה",
-        "year": "1997",
+        "year": "2013",
         "genres": [
           "Art Rock",
           "Pop Rock",
@@ -1657,7 +1675,7 @@
       },
       {
         "name": "יש שמים מעליי",
-        "year": "1997",
+        "year": "2012",
         "genres": [
           "Art Rock",
           "Pop Rock",
@@ -1666,7 +1684,7 @@
       },
       {
         "name": "לילה כיום יאיר",
-        "year": "1997",
+        "year": "2009",
         "genres": [
           "Art Rock",
           "Pop Rock",
@@ -1675,7 +1693,7 @@
       },
       {
         "name": "לשונות של אש",
-        "year": "1997",
+        "year": "2017",
         "genres": [
           "Art Rock",
           "Pop Rock",
@@ -1684,7 +1702,7 @@
       },
       {
         "name": "עד האהבה",
-        "year": "1997",
+        "year": "2018",
         "genres": [
           "Art Rock",
           "Pop Rock",
@@ -1693,7 +1711,7 @@
       },
       {
         "name": "עוגן במים",
-        "year": "1997",
+        "year": "2023",
         "genres": [
           "Art Rock",
           "Pop Rock",
@@ -1702,7 +1720,7 @@
       },
       {
         "name": "עומד על נייר",
-        "year": "1997",
+        "year": "2005",
         "genres": [
           "Art Rock",
           "Pop Rock",
@@ -2239,6 +2257,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "josephtholl",
+    "displayName": "Joseph Tholl",
+    "albums": [
+      {
+        "name": "It Might Be Art",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "kallias",
@@ -3630,6 +3660,11 @@
       {
         "name": "Vertigo",
         "year": "2024",
+        "genres": []
+      },
+      {
+        "name": "Dissolution",
+        "year": "2026",
         "genres": []
       }
     ],

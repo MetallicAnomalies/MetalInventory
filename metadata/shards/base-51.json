@@ -16,6 +16,22 @@
     ]
   },
   {
+    "normalizedName": "adarook",
+    "displayName": "Ada Rook",
+    "albums": [
+      {
+        "name": "cum songs",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "adiademofdeadstars",
     "displayName": "A Diadem Of Dead Stars",
     "albums": [
@@ -571,6 +587,11 @@
           "Art Rock",
           "Progressive Rock"
         ]
+      },
+      {
+        "name": "Lifandi EP",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -898,6 +919,22 @@
     ],
     "tags": [
       "Progressive Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "dalajini",
+    "displayName": "Dala Jini",
+    "albums": [
+      {
+        "name": "The Great Silence of Tengri",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -2467,6 +2504,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Toxic Noxious Undeath",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2594,6 +2636,49 @@
     ]
   },
   {
+    "normalizedName": "myocardialinfarction",
+    "displayName": "Myocardial Infarction",
+    "origin": "JP",
+    "albums": [
+      {
+        "name": "Revitalization Of The Perniciousness",
+        "year": "2014",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      },
+      {
+        "name": "Cannibalistic Gore Of Grotesque",
+        "year": "2015",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      },
+      {
+        "name": "Postmortal Slam Party",
+        "year": "2018",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "mzztr",
+    "displayName": "Mzztr",
+    "albums": [
+      {
+        "name": "Pronounced Mis-Ter EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "møl",
     "displayName": "MØL",
     "origin": "DK",
@@ -2648,37 +2733,6 @@
       "Post-Metal",
       "Shoegaze",
       "Atmospheric Black Metal"
-    ]
-  },
-  {
-    "normalizedName": "myocardialinfarction",
-    "displayName": "Myocardial Infarction",
-    "origin": "JP",
-    "albums": [
-      {
-        "name": "Revitalization Of The Perniciousness",
-        "year": "2014",
-        "genres": [
-          "Brutal Death Metal"
-        ]
-      },
-      {
-        "name": "Cannibalistic Gore Of Grotesque",
-        "year": "2015",
-        "genres": [
-          "Brutal Death Metal"
-        ]
-      },
-      {
-        "name": "Postmortal Slam Party",
-        "year": "2018",
-        "genres": [
-          "Brutal Death Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Brutal Death Metal"
     ]
   },
   {
@@ -3770,7 +3824,7 @@
       },
       {
         "name": "Telephantasm",
-        "year": "2011-01-01",
+        "year": "2011",
         "genres": [
           "Heavy Metal",
           "Alternative Rock",
@@ -3952,32 +4006,6 @@
     ],
     "tags": [
       "Progressive Sludge"
-    ]
-  },
-  {
-    "normalizedName": "thætas",
-    "displayName": "ThÆtas",
-    "origin": "US",
-    "albums": [
-      {
-        "name": "Schizma",
-        "year": "2017",
-        "genres": [
-          "Death Metal",
-          "Technical Death Metal"
-        ]
-      },
-      {
-        "name": "Shrines To Absurdity",
-        "year": "2020",
-        "genres": [
-          "Technical Death Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Technical Death Metal",
-      "Death Metal"
     ]
   },
   {
@@ -4231,6 +4259,32 @@
     ],
     "tags": [
       "Gothic Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "thætas",
+    "displayName": "ThÆtas",
+    "origin": "US",
+    "albums": [
+      {
+        "name": "Schizma",
+        "year": "2017",
+        "genres": [
+          "Death Metal",
+          "Technical Death Metal"
+        ]
+      },
+      {
+        "name": "Shrines To Absurdity",
+        "year": "2020",
+        "genres": [
+          "Technical Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Technical Death Metal",
+      "Death Metal"
     ]
   },
   {

@@ -266,32 +266,6 @@
     ]
   },
   {
-    "normalizedName": "ænigmatum",
-    "displayName": "æNigmatum",
-    "albums": [
-      {
-        "name": "æNigmatum",
-        "year": "2019",
-        "genres": [
-          "Black Metal",
-          "Death Metal"
-        ]
-      },
-      {
-        "name": "Deconsecrate",
-        "year": "2021",
-        "genres": [
-          "Black Metal",
-          "Death Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Black Metal",
-      "Death Metal"
-    ]
-  },
-  {
     "normalizedName": "aethere",
     "displayName": "Aethere",
     "origin": "US",
@@ -1633,6 +1607,24 @@
     ]
   },
   {
+    "normalizedName": "fieldsofagony",
+    "displayName": "Fields of Agony",
+    "albums": [
+      {
+        "name": "Fields of Agony",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "flotsamjetsam",
     "displayName": "Flotsam & Jetsam",
     "origin": "US",
@@ -1767,6 +1759,28 @@
       "Heavy Metal",
       "Speed Metal",
       "Prog Rock"
+    ]
+  },
+  {
+    "normalizedName": "floweringshrubs",
+    "displayName": "Flowering Shrubs",
+    "albums": [
+      {
+        "name": "Alright / Living / Eternal",
+        "year": "2026",
+        "genres": [
+          "Various",
+          "Experimental",
+          "Raw Black Metal",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Various",
+      "Experimental",
+      "Raw Black Metal",
+      "Noise"
     ]
   },
   {
@@ -2146,6 +2160,18 @@
     ]
   },
   {
+    "normalizedName": "hypnosaur",
+    "displayName": "Hypnosaur",
+    "albums": [
+      {
+        "name": "Afterlife",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "iamsin",
     "displayName": "Iamsin",
     "albums": [
@@ -2160,6 +2186,18 @@
     "tags": [
       "Metalcore"
     ]
+  },
+  {
+    "normalizedName": "ifidietoday",
+    "displayName": "If I Die Today",
+    "albums": [
+      {
+        "name": "I Felt Nothing",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "infernum",
@@ -2563,6 +2601,22 @@
     ],
     "tags": [
       "Blackened Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "ossements",
+    "displayName": "Ossements",
+    "albums": [
+      {
+        "name": "Ossements V",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Black Metal"
     ]
   },
   {
@@ -3336,6 +3390,22 @@
     "tags": [
       "Melodic Death Metal",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "stonefang",
+    "displayName": "Stone Fang",
+    "albums": [
+      {
+        "name": "Penetrator/Victim of Changes",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {
@@ -4452,5 +4522,32 @@
     "tags": [
       "Progressive Metal"
     ]
+  },
+  {
+    "normalizedName": "ænigmatum",
+    "displayName": "æNigmatum",
+    "albums": [
+      {
+        "name": "æNigmatum",
+        "year": "2019",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Deconsecrate",
+        "year": "2021",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal"
+    ],
+    "origin": "US"
   }
 ]

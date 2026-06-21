@@ -301,6 +301,18 @@
     ]
   },
   {
+    "normalizedName": "avsunset",
+    "displayName": "AV Sunset",
+    "albums": [
+      {
+        "name": "Vs Reality",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "baneofbedlam",
     "displayName": "Bane of Bedlam",
     "origin": "AU",
@@ -1176,6 +1188,26 @@
     ]
   },
   {
+    "normalizedName": "egide",
+    "displayName": "Egide",
+    "albums": [
+      {
+        "name": "Demo 1",
+        "year": "2026",
+        "genres": [
+          "Black Crust Punk",
+          "Death Metal",
+          "Crust Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Crust Punk",
+      "Death Metal",
+      "Crust Punk"
+    ]
+  },
+  {
     "normalizedName": "eidon",
     "displayName": "Eidon",
     "origin": "FR",
@@ -1359,6 +1391,18 @@
     "tags": [
       "Thrash Metal"
     ]
+  },
+  {
+    "normalizedName": "glu",
+    "displayName": "Glu",
+    "albums": [
+      {
+        "name": "Pony Boy EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "heljarmadr",

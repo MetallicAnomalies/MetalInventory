@@ -1782,6 +1782,22 @@
     ]
   },
   {
+    "normalizedName": "fœtusenterre",
+    "displayName": "Fœtus Enterré",
+    "albums": [
+      {
+        "name": "Malédiction",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "galziv",
     "displayName": "Gal Ziv",
     "origin": "BR",
@@ -2007,6 +2023,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Seeds Of True Rebirth",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2480,6 +2501,22 @@
     ]
   },
   {
+    "normalizedName": "mosmaiorum",
+    "displayName": "Mos Maiorum",
+    "albums": [
+      {
+        "name": "Kinsfolk (Demo I)",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "mrshippie",
     "displayName": "Mrs. Hippie",
     "albums": [
@@ -2752,7 +2789,7 @@
       },
       {
         "name": "Stop The Clocks",
-        "year": "2009-08-08",
+        "year": "2006",
         "genres": [
           "Indie Rock",
           "Alternative Rock",
@@ -3263,6 +3300,22 @@
     ]
   },
   {
+    "normalizedName": "sardaukar",
+    "displayName": "Sardaukar",
+    "albums": [
+      {
+        "name": "...My God, It's Full of Stars",
+        "year": "2026",
+        "genres": [
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "schnauser",
     "displayName": "Schnauser",
     "origin": "GB",
@@ -3666,6 +3719,18 @@
     "tags": [
       "Progressive Metal"
     ]
+  },
+  {
+    "normalizedName": "swanwriter",
+    "displayName": "Swanwriter",
+    "albums": [
+      {
+        "name": "Melodies Of Despair",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "sympulse",
@@ -4311,6 +4376,11 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "The Devil And All His Works",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4333,7 +4403,8 @@
     "tags": [
       "Pagan Black Metal",
       "Blackened Folk"
-    ]
+    ],
+    "origin": "RU"
   },
   {
     "normalizedName": "נירכנען",

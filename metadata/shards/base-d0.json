@@ -2044,6 +2044,18 @@
     ]
   },
   {
+    "normalizedName": "make",
+    "displayName": "Make",
+    "albums": [
+      {
+        "name": "Exegesis At The End Of Time",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "malignea",
     "displayName": "Malignea",
     "albums": [
@@ -2542,7 +2554,7 @@
       },
       {
         "name": "Bootlegged In Japan",
-        "year": "1998-06",
+        "year": "1998",
         "genres": [
           "Grindcore"
         ]
@@ -3658,7 +3670,7 @@
       },
       {
         "name": "Lykaia Revisited",
-        "year": "2017-02-03",
+        "year": "2017",
         "genres": [
           "Progressive Metal"
         ]
@@ -3960,6 +3972,22 @@
     ],
     "tags": [
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "svartvran",
+    "displayName": "Svartvran",
+    "albums": [
+      {
+        "name": "Svartvran",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
     ]
   },
   {

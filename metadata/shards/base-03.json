@@ -130,64 +130,6 @@
     ]
   },
   {
-    "normalizedName": "ætheriaconscientia",
-    "displayName": "æThĕrĭa Conscĭentĭa",
-    "aliases": [
-      "Ætheria Conscientia"
-    ],
-    "origin": "FR",
-    "albums": [
-      {
-        "name": "Tales From Hydhradh",
-        "year": "2018",
-        "genres": [
-          "Black Metal",
-          "Death Metal",
-          "Progressive Metal",
-          "Progressive Black Metal"
-        ]
-      },
-      {
-        "name": "Corrupted Pillars Of Vanity",
-        "year": "2021",
-        "genres": [
-          "Black Metal",
-          "Doom Metal",
-          "Progressive Metal",
-          "Prog Rock",
-          "Atmospheric Black Metal",
-          "Progressive Black Metal"
-        ]
-      },
-      {
-        "name": "Endless Cycle",
-        "year": "2024",
-        "genres": [
-          "Black Metal",
-          "Progressive Metal"
-        ]
-      },
-      {
-        "name": "The Blossoming",
-        "year": "2024",
-        "genres": [
-          "Black Metal",
-          "Progressive Metal",
-          "Progressive Black Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Black Metal",
-      "Doom Metal",
-      "Progressive Metal",
-      "Prog Rock",
-      "Atmospheric Black Metal",
-      "Death Metal",
-      "Progressive Black Metal"
-    ]
-  },
-  {
     "normalizedName": "afgrund",
     "displayName": "Afgrund",
     "albums": [
@@ -877,6 +819,36 @@
     "tags": [
       "Thrash Metal"
     ]
+  },
+  {
+    "normalizedName": "corrupteducation",
+    "displayName": "Corrupt Education",
+    "albums": [
+      {
+        "name": "Only Pain Never Leaves Me",
+        "year": "2026",
+        "genres": [
+          "Punk Rock",
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Punk Rock",
+      "Raw Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "cutshort",
+    "displayName": "Cut Short",
+    "albums": [
+      {
+        "name": "Modern Affliction EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "deadsoil",
@@ -1642,6 +1614,11 @@
         "genres": [
           "Gothic Doom Metal"
         ]
+      },
+      {
+        "name": "The Tarot Of The Bohemians – Part II",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2305,6 +2282,26 @@
     ]
   },
   {
+    "normalizedName": "membrance",
+    "displayName": "Membrance",
+    "albums": [
+      {
+        "name": "Resa Marciana",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Melodic Death Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Melodic Death Metal",
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "metalage",
     "displayName": "Metal Age",
     "albums": [
@@ -2515,6 +2512,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Monolitt",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2814,7 +2816,7 @@
       },
       {
         "name": "Periphery Ii",
-        "year": "2014-05-05",
+        "year": "2012",
         "genres": [
           "Math Rock",
           "Electronic",
@@ -2922,6 +2924,13 @@
         "genres": [
           "Acoustic",
           "Rock"
+        ]
+      },
+      {
+        "name": "A Pale White Dot",
+        "year": "2026",
+        "genres": [
+          "Djent"
         ]
       }
     ],
@@ -3796,6 +3805,18 @@
     ]
   },
   {
+    "normalizedName": "theconfluxcollective",
+    "displayName": "The Conflux Collective",
+    "albums": [
+      {
+        "name": "In The Wake Of Saturn",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "thegrowlfamily",
     "displayName": "The Growl Family",
     "albums": [
@@ -4017,6 +4038,18 @@
     "tags": [
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "tombslab",
+    "displayName": "Tomb Slab",
+    "albums": [
+      {
+        "name": "Tomb Slab",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "totengefluster",
@@ -4359,6 +4392,24 @@
     ]
   },
   {
+    "normalizedName": "unelmia",
+    "displayName": "Unelmia",
+    "albums": [
+      {
+        "name": "Zagajnik",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Ambient"
+    ]
+  },
+  {
     "normalizedName": "vajra",
     "displayName": "Vajra",
     "origin": "JP",
@@ -4370,6 +4421,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "vreditel",
+    "displayName": "Vreditel",
+    "albums": [
+      {
+        "name": "12 Турбофолк балади",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal"
+    ]
   },
   {
     "normalizedName": "warmaster",
@@ -4499,6 +4566,64 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "ætheriaconscientia",
+    "displayName": "æThĕrĭa Conscĭentĭa",
+    "aliases": [
+      "Ætheria Conscientia"
+    ],
+    "origin": "FR",
+    "albums": [
+      {
+        "name": "Tales From Hydhradh",
+        "year": "2018",
+        "genres": [
+          "Black Metal",
+          "Death Metal",
+          "Progressive Metal",
+          "Progressive Black Metal"
+        ]
+      },
+      {
+        "name": "Corrupted Pillars Of Vanity",
+        "year": "2021",
+        "genres": [
+          "Black Metal",
+          "Doom Metal",
+          "Progressive Metal",
+          "Prog Rock",
+          "Atmospheric Black Metal",
+          "Progressive Black Metal"
+        ]
+      },
+      {
+        "name": "Endless Cycle",
+        "year": "2024",
+        "genres": [
+          "Black Metal",
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "The Blossoming",
+        "year": "2024",
+        "genres": [
+          "Black Metal",
+          "Progressive Metal",
+          "Progressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Doom Metal",
+      "Progressive Metal",
+      "Prog Rock",
+      "Atmospheric Black Metal",
+      "Death Metal",
+      "Progressive Black Metal"
     ]
   },
   {

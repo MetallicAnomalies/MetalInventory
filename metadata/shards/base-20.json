@@ -491,11 +491,30 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Nekrohelios",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "bantoriak",
+    "displayName": "Bantoriak",
+    "albums": [
+      {
+        "name": "Vol. II",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "blizzen",
@@ -3157,6 +3176,14 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Embrasement",
+        "year": "2026",
+        "genres": [
+          "Progressive Melodic Death Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3165,7 +3192,8 @@
       "Avantgarde Metal",
       "Speed Metal",
       "Heavy Metal",
-      "Prog Rock"
+      "Prog Rock",
+      "Progressive Melodic Death Metal"
     ]
   },
   {
@@ -3224,6 +3252,11 @@
           "Post-hardcore",
           "Alternative Rock"
         ]
+      },
+      {
+        "name": "Danger Days: The True Lives Of The Fabulous Killjoy Deluxe Edition",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3233,6 +3266,24 @@
       "Alternative Rock",
       "Emo",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "myhvr",
+    "displayName": "Myhvr",
+    "albums": [
+      {
+        "name": "Hallucinating Aortha",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {
@@ -4006,11 +4057,20 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "World of Decay",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Depressive Black Metal",
+          "Depressive Black Metal"
+        ]
       }
     ],
     "tags": [
       "Depressive Black Metal",
-      "Atmospheric Black Metal"
+      "Atmospheric Black Metal",
+      "Atmospheric Depressive Black Metal"
     ]
   },
   {
@@ -4672,6 +4732,22 @@
     "tags": [
       "Rock",
       "Electronic Rock"
+    ]
+  },
+  {
+    "normalizedName": "voidofnothingness",
+    "displayName": "Void of Nothingness",
+    "albums": [
+      {
+        "name": "Vortex Of Void",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Black Metal"
     ]
   },
   {

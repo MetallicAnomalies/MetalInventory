@@ -1584,6 +1584,11 @@
           "Atmospheric Black Metal",
           "Post-Metal"
         ]
+      },
+      {
+        "name": "We’re Only The Love That We Lead",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1952,6 +1957,27 @@
     ]
   },
   {
+    "normalizedName": "kybalion",
+    "displayName": "Kybalion",
+    "albums": [
+      {
+        "name": "Make The World Bleed EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Make the World Bleed",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "llnn",
     "displayName": "Llnn",
     "albums": [
@@ -2007,6 +2033,22 @@
       "Atmospheric Black Metal",
       "Post-Metal",
       "Experimental Rock"
+    ]
+  },
+  {
+    "normalizedName": "malumeventum",
+    "displayName": "Malum Eventum",
+    "albums": [
+      {
+        "name": "Malum Eventum - Demo",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {
@@ -2404,10 +2446,22 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "The Second Fall",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Stoner Doom Metal",
+      "Sludge Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -2467,6 +2521,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "oceansleeper",
+    "displayName": "Ocean Sleeper",
+    "albums": [
+      {
+        "name": "Peace When I’m Dead",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "onebulletleft",
@@ -2878,10 +2944,20 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "As the City Burns",
+        "year": "2026",
+        "genres": [
+          "Thrash Heavy Metal",
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
-      "Doom Metal"
+      "Doom Metal",
+      "Thrash Heavy Metal",
+      "Heavy Metal"
     ]
   },
   {
@@ -2976,6 +3052,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "soulvoid",
+    "displayName": "Soul Void",
+    "albums": [
+      {
+        "name": "Through Arterial Mist",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -3808,6 +3900,22 @@
     "tags": [
       "Hard Rock",
       "Glam Metal"
+    ]
+  },
+  {
+    "normalizedName": "witchhouse",
+    "displayName": "Witch House",
+    "albums": [
+      {
+        "name": "Great Sorrow of Celestial Origin",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Black Metal"
     ]
   },
   {

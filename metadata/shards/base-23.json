@@ -204,6 +204,18 @@
     ]
   },
   {
+    "normalizedName": "ancientrivalry",
+    "displayName": "Ancient Rivalry",
+    "albums": [
+      {
+        "name": "What Lives Beneath",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "angelssorrow",
     "displayName": "Angel's Sorrow",
     "albums": [
@@ -858,6 +870,22 @@
     ]
   },
   {
+    "normalizedName": "chronichate",
+    "displayName": "Chronic Hate",
+    "albums": [
+      {
+        "name": "Defeating The Oblivion Of Life",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "codeofperfection",
     "displayName": "Code of Perfection",
     "origin": "DE",
@@ -1015,6 +1043,22 @@
     ],
     "tags": [
       "Symphonic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "cysticindoctrination",
+    "displayName": "Cystic Indoctrination",
+    "albums": [
+      {
+        "name": "Fully Indoctrinated",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {

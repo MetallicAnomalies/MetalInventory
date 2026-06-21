@@ -301,6 +301,22 @@
     ]
   },
   {
+    "normalizedName": "auzawandils",
+    "displayName": "Auzawandils",
+    "albums": [
+      {
+        "name": "Laste Eclipse Ouer Golgothas Pytt",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "axxion",
     "displayName": "Axxion",
     "albums": [
@@ -329,6 +345,23 @@
     "tags": [
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "baphometsblood",
+    "displayName": "Baphomet’s Blood",
+    "albums": [
+      {
+        "name": "Metal Damnation Re-Release",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Second Strike Re-Release",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "bartzabary",
@@ -920,6 +953,22 @@
     "tags": [
       "Black Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "corpsegasm",
+    "displayName": "Corpsegasm",
+    "albums": [
+      {
+        "name": "Deliverance Of Decapitation",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {
@@ -1535,11 +1584,19 @@
           "Melodic Death Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Evil Black Church",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -2682,36 +2739,6 @@
     ]
   },
   {
-    "normalizedName": "mørktar",
-    "displayName": "Mørktår",
-    "albums": [
-      {
-        "name": "Reaped By Death",
-        "year": "2009",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Dark Years",
-        "year": "2015",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Existence",
-        "year": "2023",
-        "genres": [
-          "Black Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Black Metal"
-    ]
-  },
-  {
     "normalizedName": "mourninglenore",
     "displayName": "Mourning Lenore",
     "albums": [
@@ -2741,6 +2768,36 @@
       {
         "name": "Empires Vanquished And Dismantled",
         "year": "2021",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "mørktar",
+    "displayName": "Mørktår",
+    "albums": [
+      {
+        "name": "Reaped By Death",
+        "year": "2009",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Dark Years",
+        "year": "2015",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Existence",
+        "year": "2023",
         "genres": [
           "Black Metal"
         ]
@@ -3027,6 +3084,24 @@
     ]
   },
   {
+    "normalizedName": "planet666",
+    "displayName": "Planet 666",
+    "albums": [
+      {
+        "name": "Alien Beach Party",
+        "year": "2026",
+        "genres": [
+          "Sludge Stoner Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Stoner Metal",
+      "Stoner Metal"
+    ]
+  },
+  {
     "normalizedName": "projectnefast",
     "displayName": "Project Nefast",
     "albums": [
@@ -3062,6 +3137,18 @@
     "tags": [
       "Psychedelic Black"
     ]
+  },
+  {
+    "normalizedName": "rapid",
+    "displayName": "Rapid",
+    "albums": [
+      {
+        "name": "Enter The Realm Of Fire",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "reigninferno",
@@ -3718,6 +3805,11 @@
         "genres": [
           "Melodic Black Metal"
         ]
+      },
+      {
+        "name": "Null Crowned The Infinite",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

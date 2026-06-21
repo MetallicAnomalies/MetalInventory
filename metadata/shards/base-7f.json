@@ -504,6 +504,22 @@
     ]
   },
   {
+    "normalizedName": "blindevil",
+    "displayName": "Blind Evil",
+    "albums": [
+      {
+        "name": "Retribution",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "bloodceremony",
     "displayName": "Blood Ceremony",
     "albums": [
@@ -1219,6 +1235,22 @@
     ]
   },
   {
+    "normalizedName": "ecotage",
+    "displayName": "Ecotage",
+    "albums": [
+      {
+        "name": "Redemption",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "enshrouding",
     "displayName": "Enshrouding",
     "albums": [
@@ -1698,6 +1730,18 @@
       "Metalcore",
       "Shoegaze"
     ]
+  },
+  {
+    "normalizedName": "hanry",
+    "displayName": "Hanry",
+    "albums": [
+      {
+        "name": "What Came From Silence",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "hellfuck",
@@ -3094,6 +3138,22 @@
     ]
   },
   {
+    "normalizedName": "sleepbomb",
+    "displayName": "Sleepbomb",
+    "albums": [
+      {
+        "name": "Songs in the Key of Conan",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "solaceofthevoid",
     "displayName": "Solace Of The Void",
     "albums": [
@@ -3755,6 +3815,22 @@
     ]
   },
   {
+    "normalizedName": "torniquete",
+    "displayName": "Torniquete",
+    "albums": [
+      {
+        "name": "DVD Encuentros Guanakos del Tercer Tipo en vivo 2026",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "trog",
     "displayName": "Trog",
     "albums": [
@@ -3915,6 +3991,22 @@
     "tags": [
       "Heavy Metal",
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "veralux",
+    "displayName": "Vera Lux",
+    "albums": [
+      {
+        "name": "Lass mich fliegen",
+        "year": "2026",
+        "genres": [
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Folk Metal"
     ]
   },
   {

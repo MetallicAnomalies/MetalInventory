@@ -1050,6 +1050,11 @@
           "Deathcore",
           "Death Metal"
         ]
+      },
+      {
+        "name": "The Undertow Of Hate",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1111,11 +1116,25 @@
           "Thrash Metal",
           "Black Metal"
         ]
+      },
+      {
+        "name": "The Violence Of Time",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "THE VIOLENCE OF TIME (Heresies Against the Flow of Time)",
+        "year": "2026",
+        "genres": [
+          "Groove Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Black Metal"
+      "Black Metal",
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -1872,6 +1891,22 @@
     ]
   },
   {
+    "normalizedName": "ludusumbrarum",
+    "displayName": "Ludus Umbrarum",
+    "albums": [
+      {
+        "name": "Ascensus Cadentium",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "lune",
     "displayName": "Lune",
     "origin": "DE",
@@ -2229,6 +2264,11 @@
         "genres": [
           "Progressive Power"
         ]
+      },
+      {
+        "name": "Shifting The Axis Of The World",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2988,13 +3028,22 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "Spirit Breaker",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Metalcore",
       "Thrash Metal",
       "Heavy Metal",
-      "Hardcore Metal"
+      "Hardcore Metal",
+      "Metal"
     ]
   },
   {
@@ -3642,9 +3691,7 @@
     "normalizedName": "vero",
     "displayName": "Vero",
     "albums": [],
-    "tags": [
-      "Rock"
-    ]
+    "tags": []
   },
   {
     "normalizedName": "version",

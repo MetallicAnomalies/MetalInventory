@@ -1,5 +1,23 @@
 [
   {
+    "normalizedName": "absrene",
+    "displayName": "Absrene",
+    "albums": [
+      {
+        "name": "3 Song Slam Demo",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "actofgrotesque",
     "displayName": "Act Of Grotesque",
     "albums": [
@@ -13,64 +31,6 @@
     ],
     "tags": [
       "Death Metal"
-    ]
-  },
-  {
-    "normalizedName": "ætherrealm",
-    "displayName": "Æther Realm",
-    "origin": "US",
-    "albums": [
-      {
-        "name": "Odin Will Provide",
-        "year": "2011",
-        "genres": [
-          "Melodic Death Metal",
-          "Folk Metal"
-        ]
-      },
-      {
-        "name": "One Chosen By The Gods",
-        "year": "2013",
-        "genres": [
-          "Melodic Death Metal",
-          "Folk Metal"
-        ]
-      },
-      {
-        "name": "The Chariot",
-        "year": "2015",
-        "genres": [
-          "Folk Metal",
-          "Melodic Death Metal"
-        ]
-      },
-      {
-        "name": "Tarot",
-        "year": "2017",
-        "genres": [
-          "Melodic Death Metal",
-          "Folk Metal"
-        ]
-      },
-      {
-        "name": "The Magician",
-        "year": "2017",
-        "genres": [
-          "Melodic Death Metal"
-        ]
-      },
-      {
-        "name": "Redneck Vikings From Hell",
-        "year": "2020",
-        "genres": [
-          "Melodic Death Metal",
-          "Folk Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Melodic Death Metal",
-      "Folk Metal"
     ]
   },
   {
@@ -1015,6 +975,22 @@
     ]
   },
   {
+    "normalizedName": "combatemortal",
+    "displayName": "Combate Mortal",
+    "albums": [
+      {
+        "name": "Revoadas",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "conjoinedtwinoctopus",
     "displayName": "Conjoined Twin Octopus",
     "albums": [
@@ -1102,7 +1078,8 @@
     ],
     "tags": [
       "Symphonic Black Metal"
-    ]
+    ],
+    "origin": "NO"
   },
   {
     "normalizedName": "davidhradilek",
@@ -1988,6 +1965,22 @@
     ]
   },
   {
+    "normalizedName": "kolon",
+    "displayName": "Kolon",
+    "albums": [
+      {
+        "name": "Nuke Puke is the Solution",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "krolok",
     "displayName": "Krolok",
     "albums": [
@@ -2126,6 +2119,22 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "lordsofdecay",
+    "displayName": "Lords of Decay",
+    "albums": [
+      {
+        "name": "Into Battle Wars",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -2672,6 +2681,11 @@
         "genres": [
           "Crossover Thrash"
         ]
+      },
+      {
+        "name": "Damnation’s Veil",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3071,6 +3085,18 @@
     "tags": [
       "Blackened Death Metal"
     ]
+  },
+  {
+    "normalizedName": "quietfear",
+    "displayName": "Quiet Fear",
+    "albums": [
+      {
+        "name": "La Tierra Arriba/El Abismo Abajo",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "raycharles",
@@ -3490,6 +3516,36 @@
     "tags": [
       "Heavy Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "smirk",
+    "displayName": "Smirk",
+    "albums": [
+      {
+        "name": "Speculative Fiction",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
+    "normalizedName": "spit",
+    "displayName": "S.P.I.T",
+    "albums": [
+      {
+        "name": "Fatal Flaw",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
     ]
   },
   {
@@ -4064,6 +4120,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Berg Øde",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -4532,6 +4595,64 @@
     ],
     "tags": [
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "ætherrealm",
+    "displayName": "Æther Realm",
+    "origin": "US",
+    "albums": [
+      {
+        "name": "Odin Will Provide",
+        "year": "2011",
+        "genres": [
+          "Melodic Death Metal",
+          "Folk Metal"
+        ]
+      },
+      {
+        "name": "One Chosen By The Gods",
+        "year": "2013",
+        "genres": [
+          "Melodic Death Metal",
+          "Folk Metal"
+        ]
+      },
+      {
+        "name": "The Chariot",
+        "year": "2015",
+        "genres": [
+          "Folk Metal",
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Tarot",
+        "year": "2017",
+        "genres": [
+          "Melodic Death Metal",
+          "Folk Metal"
+        ]
+      },
+      {
+        "name": "The Magician",
+        "year": "2017",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Redneck Vikings From Hell",
+        "year": "2020",
+        "genres": [
+          "Melodic Death Metal",
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal",
+      "Folk Metal"
     ]
   }
 ]

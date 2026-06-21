@@ -1,42 +1,5 @@
 [
   {
-    "normalizedName": "æthenor",
-    "displayName": "æThenor",
-    "albums": [
-      {
-        "name": "Deep In Ocean Sunk The Lamp Of Light",
-        "year": "2006",
-        "genres": [
-          "Drone Metal"
-        ]
-      },
-      {
-        "name": "Betimes Black Cloudmasses",
-        "year": "2008",
-        "genres": [
-          "Drone Metal"
-        ]
-      },
-      {
-        "name": "Faking Gold & Murder",
-        "year": "2009",
-        "genres": [
-          "Drone Metal"
-        ]
-      },
-      {
-        "name": "Hazel",
-        "year": "2016",
-        "genres": [
-          "Drone Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Drone Metal"
-    ]
-  },
-  {
     "normalizedName": "afleetingsolace",
     "displayName": "A Fleeting Solace",
     "origin": "NO",
@@ -695,6 +658,26 @@
     ]
   },
   {
+    "normalizedName": "cobraczar",
+    "displayName": "Cobra Czar",
+    "albums": [
+      {
+        "name": "Moral Corruption",
+        "year": "2026",
+        "genres": [
+          "Doom Groove Metal",
+          "Death Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Groove Metal",
+      "Death Groove Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "condemnedtodream",
     "displayName": "Condemned To Dream",
     "albums": [
@@ -755,10 +738,20 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Chantry of Sacrifice",
+        "year": "2026",
+        "genres": [
+          "Progressive Heavy Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Heavy Metal"
+      "Heavy Metal",
+      "Progressive Heavy Power Metal",
+      "Power Metal"
     ]
   },
   {
@@ -3804,6 +3797,22 @@
     ]
   },
   {
+    "normalizedName": "sardonicorder",
+    "displayName": "Sardonic Order",
+    "albums": [
+      {
+        "name": "By Doom of Battle",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "scitalis",
     "displayName": "Scitalis",
     "albums": [
@@ -4238,6 +4247,27 @@
     ]
   },
   {
+    "normalizedName": "spreadthedisease",
+    "displayName": "Spread The Disease",
+    "albums": [
+      {
+        "name": "The Darkness. The Dread. The Suffering.",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Gods and Politics",
+        "year": "2026",
+        "genres": [
+          "Blackened Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Metalcore"
+    ]
+  },
+  {
     "normalizedName": "sunrisepol",
     "displayName": "Sunrise (Pol)",
     "albums": [
@@ -4638,6 +4668,18 @@
     ]
   },
   {
+    "normalizedName": "ugabuga",
+    "displayName": "Üga Büga",
+    "albums": [
+      {
+        "name": "Valley Of The Wolf",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "ulcerate",
     "displayName": "Ulcerate",
     "origin": "NZ",
@@ -4835,6 +4877,43 @@
     ],
     "tags": [
       "Hardcore Metal"
+    ]
+  },
+  {
+    "normalizedName": "æthenor",
+    "displayName": "ÆThenor",
+    "albums": [
+      {
+        "name": "Deep In Ocean Sunk The Lamp Of Light",
+        "year": "2006",
+        "genres": [
+          "Drone Metal"
+        ]
+      },
+      {
+        "name": "Betimes Black Cloudmasses",
+        "year": "2008",
+        "genres": [
+          "Drone Metal"
+        ]
+      },
+      {
+        "name": "Faking Gold & Murder",
+        "year": "2009",
+        "genres": [
+          "Drone Metal"
+        ]
+      },
+      {
+        "name": "Hazel",
+        "year": "2016",
+        "genres": [
+          "Drone Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Drone Metal"
     ]
   },
   {

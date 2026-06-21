@@ -1863,6 +1863,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "As the Funeral Winds Gather",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2966,6 +2973,22 @@
     ]
   },
   {
+    "normalizedName": "necrocysm",
+    "displayName": "Necrocysm",
+    "albums": [
+      {
+        "name": "Eternal Infernal",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "necrophobic",
     "displayName": "Necrophobic",
     "origin": "SE",
@@ -3199,6 +3222,18 @@
     ]
   },
   {
+    "normalizedName": "nightranger",
+    "displayName": "Night Ranger",
+    "albums": [
+      {
+        "name": "Best Of",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "nkvd",
     "displayName": "N.K.V.D.",
     "origin": "FR",
@@ -3242,6 +3277,18 @@
       {
         "name": "Only Death Brings Silence",
         "year": "2024",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
+    "normalizedName": "okgoodnight",
+    "displayName": "OK Goodnight",
+    "albums": [
+      {
+        "name": "stop/go",
+        "year": "2026",
         "genres": []
       }
     ],
@@ -3768,11 +3815,20 @@
           "Thrash Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Towards Rebirth",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Death Metal"
+      "Death Metal",
+      "Death Thrash Metal"
     ]
   },
   {
@@ -4380,6 +4436,18 @@
     "tags": [
       "Brutal Death Metal"
     ]
+  },
+  {
+    "normalizedName": "sparta",
+    "displayName": "Sparta",
+    "albums": [
+      {
+        "name": "Cut A Silhouette",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "stargazer",
@@ -5556,7 +5624,7 @@
       },
       {
         "name": "Woods 4: The Green Album",
-        "year": "2009-12-12",
+        "year": "2009",
         "genres": [
           "Black Metal",
           "Doom Metal"

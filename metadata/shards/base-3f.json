@@ -803,7 +803,7 @@
       },
       {
         "name": "The Theater Equation",
-        "year": "2016-06-17",
+        "year": "2016",
         "genres": [
           "Stage & Screen",
           "Progressive Metal",
@@ -2099,6 +2099,29 @@
     ]
   },
   {
+    "normalizedName": "gotzvonberlichingen",
+    "displayName": "Götz von Berlichingen",
+    "albums": [
+      {
+        "name": "Meine Ehre heißt Treue",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Iron Fist",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "gutturalslug",
     "displayName": "Guttural Slug",
     "albums": [
@@ -2368,6 +2391,22 @@
     "tags": [
       "Heavy Metal",
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "ignition",
+    "displayName": "Ignition",
+    "albums": [
+      {
+        "name": "All Will Die",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
     ]
   },
   {
@@ -2782,6 +2821,18 @@
     "tags": [
       "Gothic Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "lowcarddelamortekillseduction",
+    "displayName": "Lowcard De La Morte/Killseduction",
+    "albums": [
+      {
+        "name": "Kill De La Morte Split",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "lucifixionusaaz",
@@ -4359,6 +4410,18 @@
       "Heavy Metal",
       "Speed Metal"
     ]
+  },
+  {
+    "normalizedName": "underauburnskies",
+    "displayName": "Under Auburn Skies",
+    "albums": [
+      {
+        "name": "Diminisher Of Hope EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "vaultofacanthus",

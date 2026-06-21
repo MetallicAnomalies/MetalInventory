@@ -1,5 +1,21 @@
 [
   {
+    "normalizedName": "acheron",
+    "displayName": "Acheron",
+    "albums": [
+      {
+        "name": "Deprived of Afterlife",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "advents",
     "displayName": "Advents",
     "origin": "US",
@@ -418,6 +434,22 @@
     ]
   },
   {
+    "normalizedName": "arthemore",
+    "displayName": "Arthemore",
+    "albums": [
+      {
+        "name": "Błękit",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "astralexperience",
     "displayName": "Astral Experience",
     "origin": "RU",
@@ -588,10 +620,18 @@
         "genres": [
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "Once You See It",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Technical Death Metal"
+      "Technical Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -896,7 +936,7 @@
       },
       {
         "name": "Life Eternal",
-        "year": "2015-12-21",
+        "year": "2015",
         "genres": [
           "Gothic Metal",
           "Death Metal"
@@ -1583,6 +1623,18 @@
     ]
   },
   {
+    "normalizedName": "gravvalnad",
+    "displayName": "Gravvålnad",
+    "albums": [
+      {
+        "name": "Dreams Of Evernight",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "hagalas",
     "displayName": "Hagalas",
     "origin": "FI",
@@ -1858,6 +1910,26 @@
       "Alternative Metal",
       "Alternative Rock",
       "Post-hardcore"
+    ]
+  },
+  {
+    "normalizedName": "jehovahlashing",
+    "displayName": "Jehovah Lashing",
+    "albums": [
+      {
+        "name": "Amongst the Cascades of Subterranean Inferno",
+        "year": "2026",
+        "genres": [
+          "Grindcore Death Metal",
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore Death Metal",
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -2267,6 +2339,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "mystericon",
+    "displayName": "Mystericon",
+    "albums": [
+      {
+        "name": "Echoes of Eternity",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Metal"
     ]
   },
   {
@@ -3924,6 +4012,11 @@
         "genres": [
           "Melodic Black Metal"
         ]
+      },
+      {
+        "name": "Revival",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4155,6 +4248,18 @@
     "tags": [
       "Sludge Metal"
     ]
+  },
+  {
+    "normalizedName": "truckviolence",
+    "displayName": "Truck Violence",
+    "albums": [
+      {
+        "name": "The Weathervane Is My Body",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "tular",
@@ -4627,6 +4732,18 @@
           "Power Metal",
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "AcCult II",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "AcCult 2",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
@@ -4694,6 +4811,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "verzauber",
+    "displayName": "Verzauber",
+    "albums": [
+      {
+        "name": "Dire Garden of the Ages",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -4784,10 +4917,23 @@
         "genres": [
           "Blackened Thrash Metal"
         ]
+      },
+      {
+        "name": "Past Midnight Re-Release",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Descending... Where Time Has Ceased to Exist",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
       }
     ],
     "tags": [
-      "Blackened Thrash Metal"
+      "Blackened Thrash Metal",
+      "Metal"
     ]
   },
   {

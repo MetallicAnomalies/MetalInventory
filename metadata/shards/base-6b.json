@@ -185,7 +185,7 @@
     "albums": [
       {
         "name": "Sex De Humana Natura",
-        "year": "2010-10-01",
+        "year": "2010",
         "genres": [
           "Progressive Metal"
         ]
@@ -795,6 +795,18 @@
     ]
   },
   {
+    "normalizedName": "cyclopic",
+    "displayName": "Cyclopic",
+    "albums": [
+      {
+        "name": "Flesh Of Chaos",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "danielnorgren",
     "displayName": "Daniel Norgren",
     "origin": "SE",
@@ -1166,6 +1178,18 @@
     ]
   },
   {
+    "normalizedName": "deussaboath",
+    "displayName": "Deus Saboath",
+    "albums": [
+      {
+        "name": "Distortion Of Lies",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "dismal",
     "displayName": "Dismal",
     "albums": [
@@ -1342,11 +1366,20 @@
           "Death Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Pure Deathfuck",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Death Thrash Metal"
     ]
   },
   {
@@ -3310,6 +3343,11 @@
           "Pop Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Ei8ht",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3410,6 +3448,14 @@
       {
         "name": "March Of The Eternal Heretic",
         "year": "2025",
+        "genres": [
+          "Death Metal",
+          "Crust Punk"
+        ]
+      },
+      {
+        "name": "Demons",
+        "year": "2026",
         "genres": [
           "Death Metal",
           "Crust Punk"
@@ -4025,6 +4071,18 @@
       {
         "name": "Two Feet",
         "year": "2024",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
+    "normalizedName": "tombstalker",
+    "displayName": "Tombstalker",
+    "albums": [
+      {
+        "name": "Chaos Monolith",
+        "year": "2026",
         "genres": []
       }
     ],

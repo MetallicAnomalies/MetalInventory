@@ -1708,6 +1708,33 @@
     ]
   },
   {
+    "normalizedName": "firepfote",
+    "displayName": "Firepfote",
+    "albums": [
+      {
+        "name": "Wildness",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal",
+          "Industrial Metal"
+        ]
+      },
+      {
+        "name": "BITE ME",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Metal",
+      "Industrial Metal"
+    ]
+  },
+  {
     "normalizedName": "fleshjuicer",
     "displayName": "Flesh Juicer",
     "albums": [
@@ -2128,6 +2155,24 @@
     ]
   },
   {
+    "normalizedName": "hyver",
+    "displayName": "Hyver",
+    "albums": [
+      {
+        "name": "Tenebris / Hyver",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Black Metal",
+      "Dungeon Synth"
+    ]
+  },
+  {
     "normalizedName": "illnath",
     "displayName": "Illnath",
     "origin": "DK",
@@ -2346,6 +2391,22 @@
     "tags": [
       "Death Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "kexelur",
+    "displayName": "Kexelür",
+    "albums": [
+      {
+        "name": "El último soliloquio",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Black Metal"
     ]
   },
   {
@@ -3037,6 +3098,16 @@
           "Progressive Metal",
           "Groove Metal"
         ]
+      },
+      {
+        "name": "Your Ghost Again",
+        "year": "2026",
+        "genres": [
+          "Progressive Sludge Metal",
+          "Sludge Metal",
+          "Progressive Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
@@ -3052,7 +3123,8 @@
       "Prog Rock",
       "Soundtrack",
       "Stage & Screen",
-      "Rock"
+      "Rock",
+      "Progressive Sludge Metal"
     ]
   },
   {
@@ -5726,6 +5798,22 @@
     ]
   },
   {
+    "normalizedName": "messiahofrage",
+    "displayName": "Messiah of Rage",
+    "albums": [
+      {
+        "name": "Deity of Dispair",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "missyelliott",
     "displayName": "Missy Elliott",
     "origin": "US",
@@ -6750,7 +6838,7 @@
   {
     "normalizedName": "thechordettes",
     "displayName": "The Chordettes",
-    "origin": "GB",
+    "origin": "US",
     "albums": [
       {
         "name": "The Chordettes Best",
@@ -6763,6 +6851,18 @@
     "tags": [
       "Pop"
     ]
+  },
+  {
+    "normalizedName": "themenzingers",
+    "displayName": "The Menzingers",
+    "albums": [
+      {
+        "name": "Everything I Ever Saw",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "thescalarprocess",
@@ -6783,12 +6883,22 @@
         "genres": [
           "Progressive Death Metal"
         ]
+      },
+      {
+        "name": "Agnomysticism",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Death Metal",
       "Progressive Metal",
-      "Technical Death Metal"
+      "Technical Death Metal",
+      "Death Metal",
+      "Metal"
     ]
   },
   {
@@ -6842,6 +6952,18 @@
     "tags": [
       "Progressive Metal"
     ]
+  },
+  {
+    "normalizedName": "thetirith",
+    "displayName": "The Tirith",
+    "albums": [
+      {
+        "name": "Quetzalcoatl",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "thewatchers",
@@ -7179,6 +7301,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "саига",
+    "displayName": "Сайга",
+    "albums": [
+      {
+        "name": "Вершки и корешки",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Punk"
     ]
   }
 ]

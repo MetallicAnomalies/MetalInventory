@@ -584,6 +584,18 @@
     ]
   },
   {
+    "normalizedName": "badstuff",
+    "displayName": "Bad Stuff",
+    "albums": [
+      {
+        "name": "Bad Stuff",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "bestiapol",
     "displayName": "Bestia (Pol)",
     "albums": [
@@ -694,6 +706,28 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "builtforsin",
+    "displayName": "Built for Sin",
+    "albums": [
+      {
+        "name": "Denizens of the Cosmos",
+        "year": "2026",
+        "genres": [
+          "Punk",
+          "Groove Metal",
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Punk",
+      "Groove Metal",
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -1430,6 +1464,19 @@
           "Heavy Metal",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Splat!",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Diablo",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
@@ -1494,6 +1541,18 @@
       "Thrash Metal",
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "donnievie",
+    "displayName": "Donnie Vie",
+    "albums": [
+      {
+        "name": "Beautiful Things",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "eklipse",
@@ -2335,6 +2394,24 @@
     "tags": [
       "Black Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "inadhominem",
+    "displayName": "In-Ad Hominem",
+    "albums": [
+      {
+        "name": "Entre fuegos y sombras",
+        "year": "2026",
+        "genres": [
+          "Heavy Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Groove Metal",
+      "Groove Metal"
     ]
   },
   {
@@ -3826,6 +3903,11 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Ride The Storm",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3959,6 +4041,11 @@
         "genres": [
           "Progressive Heavy"
         ]
+      },
+      {
+        "name": "Madness Reigns From The Gutter (1990)",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4240,6 +4327,22 @@
     ],
     "tags": [
       "Ambient Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "tandvk",
+    "displayName": "Tandvk",
+    "albums": [
+      {
+        "name": "Slaughter Them All",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore"
     ]
   },
   {

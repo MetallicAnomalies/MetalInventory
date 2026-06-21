@@ -285,11 +285,19 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Death Doom Punks",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -758,6 +766,18 @@
     ]
   },
   {
+    "normalizedName": "chroma",
+    "displayName": "Chroma",
+    "albums": [
+      {
+        "name": "25 Forever",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "chthonian",
     "displayName": "Chthonian",
     "albums": [
@@ -1047,6 +1067,18 @@
     ]
   },
   {
+    "normalizedName": "desrocs",
+    "displayName": "Des Rocs",
+    "albums": [
+      {
+        "name": "To Hell And Back",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "devillac",
     "displayName": "Devillac",
     "albums": [
@@ -1155,6 +1187,24 @@
     "tags": [
       "Death Metal",
       "Hardcore Metal"
+    ]
+  },
+  {
+    "normalizedName": "dozethrone",
+    "displayName": "Dozethrone",
+    "albums": [
+      {
+        "name": "Funeral Embrace",
+        "year": "2026",
+        "genres": [
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {
@@ -4600,10 +4650,20 @@
         "genres": [
           "Gothic Metal"
         ]
+      },
+      {
+        "name": "The Great Yinzer Trendkill",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
       }
     ],
     "tags": [
-      "Gothic Metal"
+      "Gothic Metal",
+      "Metalcore",
+      "Metal"
     ]
   },
   {
@@ -4795,6 +4855,7 @@
     ],
     "tags": [
       "Death Metal"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

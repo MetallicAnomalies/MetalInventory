@@ -373,6 +373,18 @@
     ]
   },
   {
+    "normalizedName": "aworldworthburning",
+    "displayName": "A World Worth Burning",
+    "albums": [
+      {
+        "name": "The Sky Was Colored As Hammered Lead",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "badacidtrip",
     "displayName": "Bad Acid Trip",
     "albums": [
@@ -629,6 +641,11 @@
           "Noise Rock",
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "Who Loves The Sun",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1446,6 +1463,22 @@
     ]
   },
   {
+    "normalizedName": "griis",
+    "displayName": "Griis",
+    "albums": [
+      {
+        "name": "Demo 2026",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "grimaze",
     "displayName": "Grimaze",
     "albums": [
@@ -2023,7 +2056,7 @@
       },
       {
         "name": "Only By The Night",
-        "year": "2009-02-02",
+        "year": "2008",
         "genres": [
           "Southern Rock",
           "Indie Rock",
@@ -2048,7 +2081,7 @@
       },
       {
         "name": "Because Of The Times",
-        "year": "2010-05-05",
+        "year": "2007",
         "genres": [
           "Southern Rock",
           "Indie Rock",
@@ -2057,7 +2090,7 @@
       },
       {
         "name": "Mechanical Bull",
-        "year": "2013-08-08",
+        "year": "2013",
         "genres": [
           "Alternative Rock",
           "Southern Rock",
@@ -2526,6 +2559,13 @@
       {
         "name": "Crimson Harvest",
         "year": "2020",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "Lethal Messiah",
+        "year": "2026",
         "genres": [
           "Heavy Metal"
         ]
@@ -3521,6 +3561,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "soulexchange",
+    "displayName": "Soul Exchange",
+    "albums": [
+      {
+        "name": "Slow Descent EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "stateofslate",

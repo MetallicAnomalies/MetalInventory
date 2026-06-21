@@ -732,6 +732,18 @@
     ]
   },
   {
+    "normalizedName": "blutgott",
+    "displayName": "Blutgott",
+    "albums": [
+      {
+        "name": "Death Of The Bloodking – Die Schlacht Um Knochenheim Teil 1",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "bodysnatch",
     "displayName": "Bodysnatch",
     "albums": [
@@ -1041,6 +1053,24 @@
     ]
   },
   {
+    "normalizedName": "cultsiege",
+    "displayName": "Cult Siege",
+    "albums": [
+      {
+        "name": "Suburban Swamp Thrash",
+        "year": "2026",
+        "genres": [
+          "Crossover Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Crossover Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "dawn",
     "displayName": "Dawn",
     "origin": "US",
@@ -1201,6 +1231,24 @@
     ],
     "tags": [
       "Blackened Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "desespere",
+    "displayName": "Désespéré",
+    "albums": [
+      {
+        "name": "Neminem Occisorum Nominabis Nam Loco Nostro Steterunt",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -1897,6 +1945,18 @@
     ]
   },
   {
+    "normalizedName": "godspunks",
+    "displayName": "Gods & Punks",
+    "albums": [
+      {
+        "name": "A Shrine By The Sea",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "heavingearth",
     "displayName": "Heaving Earth",
     "albums": [
@@ -1932,6 +1992,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "herheadsonfire",
+    "displayName": "Her Head’s On Fire",
+    "albums": [
+      {
+        "name": "Am I Not Your Girl?",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "idek",
@@ -3437,6 +3509,11 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "The Volumes Series",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3565,6 +3642,26 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "totalisolation",
+    "displayName": "Total Isolation",
+    "albums": [
+      {
+        "name": "Winfield Promo",
+        "year": "2026",
+        "genres": [
+          "Crust Hardcore",
+          "Hardcore",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Crust Hardcore",
+      "Hardcore",
+      "Death Metal"
     ]
   },
   {
@@ -3761,6 +3858,18 @@
     ]
   },
   {
+    "normalizedName": "vithial",
+    "displayName": "Vithial",
+    "albums": [
+      {
+        "name": "Awakened Ancient Spirits",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "wickedminds",
     "displayName": "Wicked Minds",
     "albums": [
@@ -3939,7 +4048,8 @@
     "tags": [
       "Death Metal",
       "Thrash Metal"
-    ]
+    ],
+    "origin": "RU"
   },
   {
     "normalizedName": "אמיראבני",

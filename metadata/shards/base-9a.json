@@ -1028,6 +1028,18 @@
     ]
   },
   {
+    "normalizedName": "divulsive",
+    "displayName": "Divulsive",
+    "albums": [
+      {
+        "name": "Spawned In Viscera",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "donelljones",
     "displayName": "Donell Jones",
     "origin": "US",
@@ -1259,7 +1271,7 @@
       },
       {
         "name": "We Held The Line",
-        "year": "2018-04-07",
+        "year": "2018",
         "genres": [
           "Hardcore Metal",
           "Metalcore"
@@ -1269,6 +1281,22 @@
     "tags": [
       "Metalcore",
       "Hardcore Metal"
+    ]
+  },
+  {
+    "normalizedName": "fatalarrival",
+    "displayName": "Fatal Arrival",
+    "albums": [
+      {
+        "name": "The Venom Gate",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {
@@ -2987,6 +3015,40 @@
     ]
   },
   {
+    "normalizedName": "reekmind",
+    "displayName": "Reekmind",
+    "albums": [
+      {
+        "name": "Glints from the Crematorium",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      },
+      {
+        "name": "Glints From The Crematorium EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Cyst Megalith",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Sludge Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "rukhsanamerrise",
     "displayName": "Rukhsana Merrise",
     "origin": "GB",
@@ -3181,11 +3243,21 @@
           "Us Power",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Curse the Night (82-84 Demos)",
+        "year": "2026",
+        "genres": [
+          "Power Speed Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
       "Us Power",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Power Speed Metal",
+      "Speed Metal"
     ]
   },
   {
@@ -3429,6 +3501,24 @@
       "Black Metal",
       "Melodic Death Metal",
       "Symphonic Metal"
+    ]
+  },
+  {
+    "normalizedName": "shadowwolf",
+    "displayName": "ShadowWolf",
+    "albums": [
+      {
+        "name": "Return to Asgard",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Ambient"
     ]
   },
   {
@@ -3987,6 +4077,22 @@
     ]
   },
   {
+    "normalizedName": "tuonela",
+    "displayName": "Tuonela",
+    "albums": [
+      {
+        "name": "The Residue of Existence",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "untildawn",
     "displayName": "Until Dawn",
     "origin": "CA",
@@ -4379,6 +4485,15 @@
         "genres": [
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Symphonique",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Symphonic Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
@@ -4386,7 +4501,9 @@
       "Thrash Metal",
       "Heavy Metal",
       "Avantgarde Metal",
-      "Alternative Metal"
+      "Alternative Metal",
+      "Symphonic Metal",
+      "Metal"
     ]
   },
   {

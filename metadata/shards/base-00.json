@@ -291,6 +291,22 @@
     ]
   },
   {
+    "normalizedName": "angelique",
+    "displayName": "Angelique",
+    "albums": [
+      {
+        "name": "Waltz of Mirrors",
+        "year": "2026",
+        "genres": [
+          "Symphonic Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "annotationsofanautopsy",
     "displayName": "Annotations of an Autopsy",
     "origin": "GB",
@@ -476,7 +492,7 @@
   {
     "normalizedName": "ark",
     "displayName": "Ark",
-    "origin": "FR",
+    "origin": "NO",
     "albums": [
       {
         "name": "Ark",
@@ -619,7 +635,8 @@
     ],
     "tags": [
       "Black Metal"
-    ]
+    ],
+    "origin": "PL"
   },
   {
     "normalizedName": "beneaththesky",
@@ -1304,7 +1321,8 @@
     "tags": [
       "Black Metal",
       "Ambient Metal"
-    ]
+    ],
+    "origin": "GR"
   },
   {
     "normalizedName": "ekulu",
@@ -2804,6 +2822,18 @@
     ]
   },
   {
+    "normalizedName": "selfishthings",
+    "displayName": "Selfish Things",
+    "albums": [
+      {
+        "name": "Receptivity",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "sighwind",
     "displayName": "Sighwind",
     "albums": [
@@ -3562,6 +3592,14 @@
           "Thrash Metal",
           "Punk"
         ]
+      },
+      {
+        "name": "In Mood for Murder",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Punk"
+        ]
       }
     ],
     "tags": [
@@ -3774,6 +3812,24 @@
     ]
   },
   {
+    "normalizedName": "windsofwar",
+    "displayName": "Winds of War",
+    "albums": [
+      {
+        "name": "Ancient Hatred",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Ambient"
+    ]
+  },
+  {
     "normalizedName": "witnere",
     "displayName": "Witnere",
     "albums": [
@@ -3808,6 +3864,24 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "wizzmakin",
+    "displayName": "Wizzmakin",
+    "albums": [
+      {
+        "name": "The Powerhouse Act",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
     ]
   },
   {

@@ -982,43 +982,6 @@
     ]
   },
   {
-    "normalizedName": "cønstantine",
-    "displayName": "Cønstantine",
-    "albums": [
-      {
-        "name": "A Future Without A Past",
-        "year": "2010",
-        "genres": [
-          "Progressive Metal"
-        ]
-      },
-      {
-        "name": "Divine Design",
-        "year": "2011",
-        "genres": [
-          "Progressive Metal"
-        ]
-      },
-      {
-        "name": "Resign Due",
-        "year": "2013",
-        "genres": [
-          "Progressive Metal"
-        ]
-      },
-      {
-        "name": "Esthesia",
-        "year": "2017",
-        "genres": [
-          "Progressive Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Progressive Metal"
-    ]
-  },
-  {
     "normalizedName": "cultusprofano",
     "displayName": "Cultus Profano",
     "albums": [
@@ -1090,6 +1053,43 @@
     ],
     "tags": [
       "Industrial Metal"
+    ]
+  },
+  {
+    "normalizedName": "cønstantine",
+    "displayName": "Cønstantine",
+    "albums": [
+      {
+        "name": "A Future Without A Past",
+        "year": "2010",
+        "genres": [
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "Divine Design",
+        "year": "2011",
+        "genres": [
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "Resign Due",
+        "year": "2013",
+        "genres": [
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "Esthesia",
+        "year": "2017",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
     ]
   },
   {
@@ -1543,6 +1543,38 @@
     ]
   },
   {
+    "normalizedName": "genophobicperversion",
+    "displayName": "Genophobic Perversion",
+    "albums": [
+      {
+        "name": "Chained",
+        "year": "2026",
+        "genres": [
+          "Various"
+        ]
+      }
+    ],
+    "tags": [
+      "Various"
+    ]
+  },
+  {
+    "normalizedName": "gjendødenevelde",
+    "displayName": "Gjendød/Enevelde",
+    "albums": [
+      {
+        "name": "Elegier fra avgrunnen",
+        "year": "2026",
+        "genres": [
+          "Black Metal | Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal | Black Metal"
+    ]
+  },
+  {
     "normalizedName": "gorod",
     "displayName": "Gorod",
     "origin": "FR",
@@ -1989,7 +2021,7 @@
       },
       {
         "name": "Iconoclast Ii (The Visual Resistance)",
-        "year": "2009-05-22",
+        "year": "2009",
         "genres": [
           "Melodic Death Metal",
           "Metalcore"
@@ -3487,6 +3519,22 @@
     ]
   },
   {
+    "normalizedName": "rideforrevenge",
+    "displayName": "Ride for Revenge",
+    "albums": [
+      {
+        "name": "Angels Fly Low",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Black Metal"
+    ]
+  },
+  {
     "normalizedName": "sabotage",
     "displayName": "Sabotage",
     "albums": [
@@ -3780,6 +3828,26 @@
       "Melodic Hardcore",
       "Alternative Rock",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "soulprison",
+    "displayName": "Soulprison",
+    "albums": [
+      {
+        "name": "The More I See, the More I Bleed",
+        "year": "2026",
+        "genres": [
+          "Crossover Hardcore",
+          "Thrash Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Crossover Hardcore",
+      "Thrash Metal",
+      "Hardcore"
     ]
   },
   {
@@ -4833,5 +4901,17 @@
     "tags": [
       "Melodic Death Metal"
     ]
+  },
+  {
+    "normalizedName": "wyrmhaven",
+    "displayName": "Wyrmhaven",
+    "albums": [
+      {
+        "name": "Seasons Of Gloom",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   }
 ]

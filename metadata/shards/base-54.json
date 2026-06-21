@@ -1005,13 +1005,22 @@
           "Post-hardcore",
           "Mathcore"
         ]
+      },
+      {
+        "name": "Hum of Hurt",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Metalcore",
       "Post-hardcore",
       "Mathcore",
-      "Hardcore Metal"
+      "Hardcore Metal",
+      "Metal"
     ]
   },
   {
@@ -1045,6 +1054,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "curseprayer",
+    "displayName": "Curse Prayer",
+    "albums": [
+      {
+        "name": "The Depths of Atonement",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -1349,7 +1374,7 @@
     "albums": [
       {
         "name": "The Fallen Prophet",
-        "year": "2011-03-25",
+        "year": "2011",
         "genres": [
           "Melodic Death Metal"
         ]
@@ -1827,6 +1852,11 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "As Above, So Below Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2955,6 +2985,18 @@
       "Progressive Metal",
       "Technical Death Metal"
     ]
+  },
+  {
+    "normalizedName": "lasecurite",
+    "displayName": "La Sécurité",
+    "albums": [
+      {
+        "name": "Bingo!",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "mantors",
@@ -4095,11 +4137,20 @@
           "Heavy Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "Artificial Lights",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Power Metal"
+      "Power Metal",
+      "Heavy Power Metal"
     ]
   },
   {
@@ -4741,6 +4792,24 @@
     ]
   },
   {
+    "normalizedName": "thesaintofblood",
+    "displayName": "The Saint of Blood",
+    "albums": [
+      {
+        "name": "Hexed into Torment",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dungeon Synth"
+    ]
+  },
+  {
     "normalizedName": "tragacanth",
     "displayName": "Tragacanth",
     "albums": [
@@ -4798,10 +4867,23 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Devoid Of Light (10th Anniversary Edition)",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Interwoven",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Melodic Black Metal"
     ]
   },
   {
@@ -5095,6 +5177,7 @@
     ],
     "tags": [
       "Melodic Black Metal"
-    ]
+    ],
+    "origin": "GR"
   }
 ]

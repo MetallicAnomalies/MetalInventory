@@ -2481,6 +2481,11 @@
         "genres": [
           "Melodic Black Metal"
         ]
+      },
+      {
+        "name": "Dreaming",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2516,6 +2521,18 @@
     "tags": [
       "Melodic Death Metal"
     ]
+  },
+  {
+    "normalizedName": "manrabid",
+    "displayName": "Man Rabid",
+    "albums": [
+      {
+        "name": "The Messiah Complex I EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "marihamada",
@@ -3556,6 +3573,18 @@
     ]
   },
   {
+    "normalizedName": "ryanperdz",
+    "displayName": "Ryan Perdz",
+    "albums": [
+      {
+        "name": "Can’t Cry",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "salvage",
     "displayName": "Salvage",
     "albums": [
@@ -3704,6 +3733,11 @@
           "Medieval Folk",
           "Medieval Folk Rock"
         ]
+      },
+      {
+        "name": "Sternensegler",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4042,7 +4076,7 @@
     "albums": [
       {
         "name": "Albatross",
-        "year": "2006-05-23",
+        "year": "2006",
         "genres": [
           "Alternative Rock",
           "Rock"
@@ -4058,14 +4092,14 @@
       },
       {
         "name": "The Silver Cord",
-        "year": "2009-02-02",
+        "year": "2008",
         "genres": [
           "Rock"
         ]
       },
       {
         "name": "Vagabonds",
-        "year": "2010-04-06",
+        "year": "2010",
         "genres": [
           "Alternative Rock",
           "Rock"

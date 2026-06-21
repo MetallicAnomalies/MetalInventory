@@ -711,6 +711,40 @@
     ]
   },
   {
+    "normalizedName": "cadaverputrefacto",
+    "displayName": "Cadaver Putrefacto",
+    "albums": [
+      {
+        "name": "Eterno sepulcro",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "carnalmutilation",
+    "displayName": "Carnal Mutilation",
+    "albums": [
+      {
+        "name": "Demo",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "cenobia",
     "displayName": "Cenobia",
     "origin": "AT",
@@ -1363,6 +1397,18 @@
     ]
   },
   {
+    "normalizedName": "fallweather",
+    "displayName": "Fallweather",
+    "albums": [
+      {
+        "name": "Because You Were There",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "firstbourne",
     "displayName": "Firstbourne",
     "albums": [
@@ -1784,6 +1830,18 @@
     ]
   },
   {
+    "normalizedName": "genocidedoctrine",
+    "displayName": "Genocide Doctrine",
+    "albums": [
+      {
+        "name": "Totalitarian",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "goddementia",
     "displayName": "God Dementia",
     "albums": [
@@ -1905,6 +1963,24 @@
     "tags": [
       "Funk / Soul",
       "Pop"
+    ]
+  },
+  {
+    "normalizedName": "healingwound",
+    "displayName": "Healing Wound",
+    "albums": [
+      {
+        "name": "Bodies of Heavenly Violence",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Metal"
     ]
   },
   {
@@ -2356,6 +2432,11 @@
           "Drone Doom Metal",
           "Noise Rock"
         ]
+      },
+      {
+        "name": "Choosing To Die",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3566,6 +3647,22 @@
     ],
     "tags": [
       "Industrial Metal"
+    ]
+  },
+  {
+    "normalizedName": "signoffall",
+    "displayName": "Sign of Fall",
+    "albums": [
+      {
+        "name": "Uusi Aamu",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {

@@ -1913,11 +1913,20 @@
           "Death Metal",
           "Deathcore"
         ]
+      },
+      {
+        "name": "Slamdown is not a phase mom",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Deathcore",
-      "Death Metal"
+      "Death Metal",
+      "Metal"
     ]
   },
   {
@@ -3204,6 +3213,22 @@
     ]
   },
   {
+    "normalizedName": "necroticcurse",
+    "displayName": "Necrotic Curse",
+    "albums": [
+      {
+        "name": "Demo 2",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "necrotize",
     "displayName": "Necrotize",
     "albums": [
@@ -3375,6 +3400,26 @@
     "tags": [
       "Post-Metal",
       "Atmospheric Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "panolepsia",
+    "displayName": "Panolepsia",
+    "albums": [
+      {
+        "name": "Perfidious",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Metal",
+          "Death Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Death Metal",
+      "Death Metal",
+      "Metal"
     ]
   },
   {
@@ -3580,6 +3625,11 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Souls Of The Fallen",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3729,6 +3779,13 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Of Fire and Bloodshed",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3759,7 +3816,7 @@
     "albums": [
       {
         "name": "Through The Valley Within",
-        "year": "2009-11-07",
+        "year": "2009",
         "genres": [
           "Black Metal",
           "Unblack Metal",
@@ -3936,10 +3993,18 @@
         "genres": [
           "Us Power"
         ]
+      },
+      {
+        "name": "Thought Crimes Volume 1 & 2",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
-      "Us Power"
+      "Us Power",
+      "Heavy Metal"
     ]
   },
   {
@@ -3962,6 +4027,18 @@
       "Folk, World, & Country",
       "Folk Metal"
     ]
+  },
+  {
+    "normalizedName": "speedstroke",
+    "displayName": "Speed Stroke",
+    "albums": [
+      {
+        "name": "Damage Control",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "stiunustiu",
@@ -4414,11 +4491,38 @@
         "genres": [
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Cathedral Of Smoke: A Tribute To Sleep",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Death Metal Tribute To Ozzy",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Ride The Rainbow: The Ultimate Tribute To Ritchie Blackmore’s Rainbow",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
       "Hard Rock"
     ]
+  },
+  {
+    "normalizedName": "velveteenqueen",
+    "displayName": "Velveteen Queen",
+    "albums": [
+      {
+        "name": "The Greater Good",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "violeteternal",
@@ -4561,6 +4665,11 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Volcano Shock",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4744,6 +4853,22 @@
     ],
     "tags": [
       "Pagan Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "zombieshark",
+    "displayName": "ZOMBIESHARK!",
+    "albums": [
+      {
+        "name": "ANGEL NOISES, YOU'RE SAFE NOW.",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metal"
     ]
   },
   {

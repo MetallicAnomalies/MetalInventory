@@ -773,40 +773,6 @@
     ]
   },
   {
-    "normalizedName": "bloð",
-    "displayName": "Blóð",
-    "albums": [
-      {
-        "name": "Blóð",
-        "year": "2020",
-        "genres": [
-          "Sludge Metal",
-          "Doom Metal"
-        ]
-      },
-      {
-        "name": "Serpent",
-        "year": "2021",
-        "genres": [
-          "Sludge Metal",
-          "Doom Metal"
-        ]
-      },
-      {
-        "name": "Mara",
-        "year": "2024",
-        "genres": [
-          "Sludge Metal",
-          "Doom Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Sludge Metal",
-      "Doom Metal"
-    ]
-  },
-  {
     "normalizedName": "bloodyouth",
     "displayName": "Blood Youth",
     "origin": "US",
@@ -863,6 +829,41 @@
       "Melodic Hardcore",
       "Nu Metal"
     ]
+  },
+  {
+    "normalizedName": "bloð",
+    "displayName": "Blóð",
+    "albums": [
+      {
+        "name": "Blóð",
+        "year": "2020",
+        "genres": [
+          "Sludge Metal",
+          "Doom Metal"
+        ]
+      },
+      {
+        "name": "Serpent",
+        "year": "2021",
+        "genres": [
+          "Sludge Metal",
+          "Doom Metal"
+        ]
+      },
+      {
+        "name": "Mara",
+        "year": "2024",
+        "genres": [
+          "Sludge Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Doom Metal"
+    ],
+    "origin": "FR"
   },
   {
     "normalizedName": "charingcross",
@@ -1896,6 +1897,22 @@
     ]
   },
   {
+    "normalizedName": "fourwayinnorway",
+    "displayName": "FourWayInNorway",
+    "albums": [
+      {
+        "name": "Cancer Wins the Battle",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "grandoldwrath",
     "displayName": "Grand Old Wrath",
     "albums": [
@@ -2885,7 +2902,7 @@
       },
       {
         "name": "Are You Gonna Go My Way",
-        "year": "2013-10-10",
+        "year": "1993",
         "genres": [
           "Electronic",
           "Tech House",
@@ -3283,7 +3300,7 @@
       },
       {
         "name": "Countdown To Extinction: Live",
-        "year": "2013-10-10",
+        "year": "2013",
         "genres": [
           "Thrash Metal",
           "Hard Rock",
@@ -3762,6 +3779,18 @@
       "Drone Metal",
       "Jazz"
     ]
+  },
+  {
+    "normalizedName": "nocure",
+    "displayName": "No Cure",
+    "albums": [
+      {
+        "name": "It Is Going To Get Dark",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "noisebleed",
@@ -4434,6 +4463,22 @@
     ],
     "tags": [
       "Technical Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "skurðgoð",
+    "displayName": "Skurðgoð",
+    "albums": [
+      {
+        "name": "Skurðgoð",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
     ]
   },
   {

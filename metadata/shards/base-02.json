@@ -178,6 +178,24 @@
     ]
   },
   {
+    "normalizedName": "axe",
+    "displayName": "Äxe",
+    "albums": [
+      {
+        "name": "Autogeddon",
+        "year": "2026",
+        "genres": [
+          "Black Speed Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Speed Metal",
+      "Speed Metal"
+    ]
+  },
+  {
     "normalizedName": "babylonwhores",
     "displayName": "Babylon Whores",
     "albums": [
@@ -268,6 +286,18 @@
       "Black Metal",
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "beyondseventhdimension",
+    "displayName": "Beyond Seventh Dimension",
+    "albums": [
+      {
+        "name": "Tähtien ikuinen suru",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "blackholeofcalcutta",
@@ -419,6 +449,18 @@
     ]
   },
   {
+    "normalizedName": "brianrobertson",
+    "displayName": "Brian Robertson",
+    "albums": [
+      {
+        "name": "Diamonds And Dirt Re-Release",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "burninglegion",
     "displayName": "Burning Legion",
     "albums": [
@@ -554,43 +596,6 @@
     ]
   },
   {
-    "normalizedName": "dimæon",
-    "displayName": "Dimæon",
-    "albums": [
-      {
-        "name": "I, Mortal",
-        "year": "2007",
-        "genres": [
-          "Progressive Death Metal"
-        ]
-      },
-      {
-        "name": "Exit Reality",
-        "year": "2010",
-        "genres": [
-          "Progressive Death Metal"
-        ]
-      },
-      {
-        "name": "Collapse Of The Anthropocene",
-        "year": "2013",
-        "genres": [
-          "Progressive Death Metal"
-        ]
-      },
-      {
-        "name": "Void",
-        "year": "2019",
-        "genres": [
-          "Progressive Death Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Progressive Death Metal"
-    ]
-  },
-  {
     "normalizedName": "dimensionf3h",
     "displayName": "Dimension F3h",
     "albums": [
@@ -630,6 +635,43 @@
     "tags": [
       "Thrash Metal",
       "Industrial Metal"
+    ]
+  },
+  {
+    "normalizedName": "dimæon",
+    "displayName": "Dimæon",
+    "albums": [
+      {
+        "name": "I, Mortal",
+        "year": "2007",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      },
+      {
+        "name": "Exit Reality",
+        "year": "2010",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      },
+      {
+        "name": "Collapse Of The Anthropocene",
+        "year": "2013",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      },
+      {
+        "name": "Void",
+        "year": "2019",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Metal"
     ]
   },
   {
@@ -801,7 +843,7 @@
       },
       {
         "name": "Once In A Livetime",
-        "year": "1998-10-27",
+        "year": "1998",
         "genres": [
           "Progressive Metal",
           "Symphonic Metal"
@@ -921,7 +963,7 @@
       },
       {
         "name": "Score: 20th Anniversary World Tour",
-        "year": "2006-08-25",
+        "year": "2006",
         "genres": [
           "Progressive Metal",
           "Symphonic Metal"
@@ -1685,6 +1727,22 @@
     ]
   },
   {
+    "normalizedName": "heirtohliðskjalf",
+    "displayName": "Heir to Hliðskjálf",
+    "albums": [
+      {
+        "name": "Bow of Ullr's Chosen",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "hellisotherpeople",
     "displayName": "Hell Is Other People",
     "albums": [
@@ -1814,6 +1872,11 @@
         "genres": [
           "Post-Rock"
         ]
+      },
+      {
+        "name": "The Hidden Hand",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2267,6 +2330,22 @@
     "tags": [
       "Thrash Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "lexlegion",
+    "displayName": "Lex Legion",
+    "albums": [
+      {
+        "name": "Lex Legion",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {
@@ -2745,6 +2824,24 @@
     "tags": [
       "Death Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "nachtigal",
+    "displayName": "Nachtigal",
+    "albums": [
+      {
+        "name": "Perdition's Rest",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -4406,6 +4503,24 @@
     ]
   },
   {
+    "normalizedName": "uncleacidandthedeadbeats",
+    "displayName": "Uncle Acid and the Deadbeats",
+    "albums": [
+      {
+        "name": "Don't Let It Control You",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Rock",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Psychedelic Rock",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "unshine",
     "displayName": "Unshine",
     "origin": "FI",
@@ -4465,6 +4580,22 @@
     ],
     "tags": [
       "Stoner Metal"
+    ]
+  },
+  {
+    "normalizedName": "utterscorn",
+    "displayName": "Utter Scorn",
+    "albums": [
+      {
+        "name": "Begettor and Destroyer",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -4687,6 +4818,22 @@
       {
         "name": "Living Under Drones",
         "year": "2013",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "zvindiyar",
+    "displayName": "Zvindiyar",
+    "albums": [
+      {
+        "name": "Fell",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]

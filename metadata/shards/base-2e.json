@@ -280,6 +280,35 @@
     ]
   },
   {
+    "normalizedName": "amxiv",
+    "displayName": "AMXIV",
+    "albums": [
+      {
+        "name": "I Could've Been Wrong, But I'm Right",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Ambient Experimental",
+          "Experimental"
+        ]
+      },
+      {
+        "name": "D.E.L.E.T",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Ambient Experimental",
+          "Experimental"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Ambient Experimental",
+      "Experimental"
+    ]
+  },
+  {
     "normalizedName": "anmod",
     "displayName": "Anmod",
     "albums": [
@@ -379,6 +408,22 @@
     ],
     "tags": [
       "Progressive Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "atheosophia",
+    "displayName": "Atheosophia",
+    "albums": [
+      {
+        "name": "Puritans Take Shelter",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -955,7 +1000,8 @@
     ],
     "tags": [
       "Progressive Metal"
-    ]
+    ],
+    "origin": "NO"
   },
   {
     "normalizedName": "cobrakill",
@@ -1112,6 +1158,24 @@
           "Deathcore",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Celestial Winter",
+        "year": "2026",
+        "genres": [
+          "Technical Deathcore",
+          "Progressive Death Metal",
+          "Deathcore"
+        ]
+      },
+      {
+        "name": "Digital Depression",
+        "year": "2026",
+        "genres": [
+          "Technical Deathcore",
+          "Progressive Death Metal",
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
@@ -1119,7 +1183,9 @@
       "Progressive Metal",
       "Deathcore",
       "Death Metal",
-      "Djent"
+      "Djent",
+      "Technical Deathcore",
+      "Progressive Death Metal"
     ]
   },
   {
@@ -2017,6 +2083,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Adversus Parousia",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2092,6 +2163,22 @@
     ],
     "tags": [
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "grimlegion",
+    "displayName": "Grim Legion",
+    "albums": [
+      {
+        "name": "Harbingers of Death",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -2250,6 +2337,22 @@
     "tags": [
       "Progressive Metal",
       "Instrumental"
+    ]
+  },
+  {
+    "normalizedName": "horrortriller",
+    "displayName": "Horror Triller",
+    "albums": [
+      {
+        "name": "Культ Хаоса",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -2903,6 +3006,22 @@
     ]
   },
   {
+    "normalizedName": "lovesickformina",
+    "displayName": "Lovesick for Mina",
+    "albums": [
+      {
+        "name": "Lovesick for Mina",
+        "year": "2026",
+        "genres": [
+          "Symphonic Blackened Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Blackened Metalcore"
+    ]
+  },
+  {
     "normalizedName": "macabre",
     "displayName": "Macabre",
     "albums": [
@@ -3044,6 +3163,26 @@
     ],
     "tags": [
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "matote",
+    "displayName": "Matote",
+    "albums": [
+      {
+        "name": "L'Obaga",
+        "year": "2026",
+        "genres": [
+          "Stoner Post-Metal",
+          "Doom Post-Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Post-Metal",
+      "Doom Post-Metal",
+      "Post-Metal"
     ]
   },
   {
@@ -3828,11 +3967,20 @@
           "Goregrind",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Vertebrae After Vertebrae",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Goregrind",
-      "Death Metal"
+      "Death Metal",
+      "Metal"
     ]
   },
   {
@@ -3857,6 +4005,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "pyromania",
+    "displayName": "Pyromania",
+    "albums": [
+      {
+        "name": "Satanic Violence",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {
@@ -3909,6 +4073,24 @@
     ],
     "tags": [
       "Heavy Metal",
+      "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "ringlorn",
+    "displayName": "Ringlorn",
+    "albums": [
+      {
+        "name": "The Queen of Wildred",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Power Metal",
       "Power Metal"
     ]
   },
@@ -4990,11 +5172,21 @@
           "Post-Metal",
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Iridescence",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Post-Metal",
-      "Atmospheric Black Metal"
+      "Atmospheric Black Metal",
+      "Black Metal",
+      "Metal"
     ]
   },
   {
@@ -5310,6 +5502,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "xmemoriestoburnx",
+    "displayName": "xmemoriestoburnx",
+    "albums": [
+      {
+        "name": "Self-Portrait as Healing Wounds",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Metal"
     ]
   },
   {

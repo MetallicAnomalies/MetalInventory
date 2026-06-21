@@ -99,6 +99,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Atrocious Chants",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2701,6 +2708,18 @@
     ]
   },
   {
+    "normalizedName": "lockstep",
+    "displayName": "Lockstep",
+    "albums": [
+      {
+        "name": "I Know What I Saw",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "lyraslegacy",
     "displayName": "Lyra's Legacy",
     "albums": [
@@ -2835,6 +2854,11 @@
         "genres": [
           "Hardcore Metal"
         ]
+      },
+      {
+        "name": "Not Your Kingdom",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2894,6 +2918,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "medusaswrath",
+    "displayName": "Medusa’s Wrath",
+    "albums": [
+      {
+        "name": "The Seventh Plague Of Babylon",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "melencoliaestatica",
@@ -3034,6 +3070,22 @@
     ],
     "tags": [
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "necroritus",
+    "displayName": "Necro Ritus",
+    "albums": [
+      {
+        "name": "Born By Evil Blood",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3540,6 +3592,18 @@
       "Pop",
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "sahhar",
+    "displayName": "Sahhar",
+    "albums": [
+      {
+        "name": "Migja ta Mohh Mignun",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "sargantfury",

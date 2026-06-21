@@ -30,6 +30,13 @@
         "genres": [
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Esox Lucifer",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal"
+        ]
       }
     ],
     "tags": [
@@ -72,7 +79,7 @@
       },
       {
         "name": "All Eyez On Me",
-        "year": "2020-11-11",
+        "year": "1996",
         "genres": [
           "Gangsta",
           "Hip Hop",
@@ -1081,6 +1088,24 @@
     ]
   },
   {
+    "normalizedName": "deepagony",
+    "displayName": "Deep Agony",
+    "albums": [
+      {
+        "name": "Rebirth of Tiamat",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "defloration",
     "displayName": "Defloration",
     "albums": [
@@ -1611,6 +1636,26 @@
     ]
   },
   {
+    "normalizedName": "gutward",
+    "displayName": "Gutward",
+    "albums": [
+      {
+        "name": "I",
+        "year": "2026",
+        "genres": [
+          "Doom Rock",
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Rock",
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "haast",
     "displayName": "Haast",
     "albums": [
@@ -1689,6 +1734,18 @@
       "Power Metal",
       "Progressive Metal"
     ]
+  },
+  {
+    "normalizedName": "hedidnt",
+    "displayName": "He Didnt",
+    "albums": [
+      {
+        "name": "Dark Making",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "heresiarch",
@@ -2006,6 +2063,11 @@
           "Post Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Sotera",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2258,7 +2320,8 @@
     ],
     "tags": [
       "Black Metal"
-    ]
+    ],
+    "origin": "DE"
   },
   {
     "normalizedName": "liholesie",
@@ -2413,6 +2476,22 @@
     ]
   },
   {
+    "normalizedName": "martre",
+    "displayName": "Martre",
+    "albums": [
+      {
+        "name": "Entropi",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Black Metal"
+    ]
+  },
+  {
     "normalizedName": "mindless",
     "displayName": "Mindless",
     "albums": [
@@ -2485,6 +2564,38 @@
     ]
   },
   {
+    "normalizedName": "moorah",
+    "displayName": "Moorah",
+    "albums": [
+      {
+        "name": "Eternal Ahasver",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "mormonmincers",
+    "displayName": "Mormon Mincers",
+    "albums": [
+      {
+        "name": "The Book of Mince",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "myindifferencetosilence",
     "displayName": "My Indifference To Silence",
     "albums": [
@@ -2519,6 +2630,22 @@
     "tags": [
       "Progressive Metal",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "neverfade",
+    "displayName": "Neverfade",
+    "albums": [
+      {
+        "name": "Written in Blood",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {
@@ -2994,6 +3121,35 @@
     ]
   },
   {
+    "normalizedName": "sledgehammerfacefuck",
+    "displayName": "Sledgehammer Facefuck",
+    "albums": [
+      {
+        "name": "Torture Through Dissolution",
+        "year": "2026",
+        "genres": [
+          "Slam Goregrind",
+          "Brutal Death Metal",
+          "Goregrind"
+        ]
+      },
+      {
+        "name": "Demo 2026",
+        "year": "2026",
+        "genres": [
+          "Slam Goregrind",
+          "Brutal Death Metal",
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Goregrind",
+      "Brutal Death Metal",
+      "Goregrind"
+    ]
+  },
+  {
     "normalizedName": "soleremedy",
     "displayName": "Sole Remedy",
     "albums": [
@@ -3296,6 +3452,22 @@
       "Symphonic Metal",
       "Heavy Metal",
       "Gothic Metal"
+    ]
+  },
+  {
+    "normalizedName": "strega",
+    "displayName": "Strega",
+    "albums": [
+      {
+        "name": "Stryx Mortyis Kompendyum",
+        "year": "2026",
+        "genres": [
+          "Blackened Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Heavy Metal"
     ]
   },
   {

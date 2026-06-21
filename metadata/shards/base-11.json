@@ -446,6 +446,11 @@
         "genres": [
           "Psychedelic Stoner"
         ]
+      },
+      {
+        "name": "Lazara EP",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -788,10 +793,20 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Necromancy (Is My Kink)",
+        "year": "2026",
+        "genres": [
+          "Black Speed Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Black Speed Metal",
+      "Speed Metal"
     ]
   },
   {
@@ -1247,6 +1262,24 @@
     ],
     "tags": [
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "dyingblissfulmoment",
+    "displayName": "Dying Blissful Moment",
+    "albums": [
+      {
+        "name": "The Fire in Which We Burn",
+        "year": "2026",
+        "genres": [
+          "Doom Post-Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Post-Metal",
+      "Post-Metal"
     ]
   },
   {
@@ -2022,6 +2055,18 @@
     ]
   },
   {
+    "normalizedName": "grimveil",
+    "displayName": "Grimveil",
+    "albums": [
+      {
+        "name": "Beneath The Veil Of Silent Woods",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "gwynbleidd",
     "displayName": "Gwynbleidd",
     "origin": "US",
@@ -2604,6 +2649,18 @@
       "Depressive Black Metal",
       "Ambient Metal"
     ]
+  },
+  {
+    "normalizedName": "marcamacher",
+    "displayName": "Marc Amacher",
+    "albums": [
+      {
+        "name": "Overdrive",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "mayadome",
@@ -4266,6 +4323,18 @@
     ]
   },
   {
+    "normalizedName": "thanatomass",
+    "displayName": "Thanatomass",
+    "albums": [
+      {
+        "name": "The Rabid Dead EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "tharn",
     "displayName": "Tharn",
     "albums": [
@@ -4938,6 +5007,18 @@
       "Thrash Metal",
       "Speed Metal"
     ]
+  },
+  {
+    "normalizedName": "vortexsutra",
+    "displayName": "Vortex Sutra",
+    "albums": [
+      {
+        "name": "Noumenon",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "warcryger",

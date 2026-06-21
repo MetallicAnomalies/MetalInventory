@@ -400,6 +400,24 @@
     ]
   },
   {
+    "normalizedName": "armiferum",
+    "displayName": "Armiferum",
+    "albums": [
+      {
+        "name": "My Home",
+        "year": "2026",
+        "genres": [
+          "Progressive Power Metal",
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Power Metal",
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "arraigo",
     "displayName": "Arraigo",
     "albums": [
@@ -1500,6 +1518,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Neraspeme",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1549,6 +1572,18 @@
       "Heavy Metal",
       "Hard Rock"
     ]
+  },
+  {
+    "normalizedName": "ganeden",
+    "displayName": "GanEden",
+    "albums": [
+      {
+        "name": "Gan Eden",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "gavinharrison",
@@ -1610,6 +1645,22 @@
     ],
     "tags": [
       "Melodic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "goredeed",
+    "displayName": "Goredeed",
+    "albums": [
+      {
+        "name": "Misanthropic Machine",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {
@@ -2012,6 +2063,36 @@
     ]
   },
   {
+    "normalizedName": "liminalsky",
+    "displayName": "Liminal Sky",
+    "albums": [
+      {
+        "name": "All Tomorrow’s Darkness",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
+    "normalizedName": "maladist",
+    "displayName": "Maladist",
+    "albums": [
+      {
+        "name": "The Gate of Parthenon",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "mazeoffeelings",
     "displayName": "Maze Of Feelings",
     "albums": [
@@ -2242,6 +2323,18 @@
       "Alternative Rock",
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "muddshovel",
+    "displayName": "Muddshovel",
+    "albums": [
+      {
+        "name": "Little White Hair",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "mz412",
@@ -2693,6 +2786,18 @@
       {
         "name": "Visual Kill: The Blossoming Of Psychotic Depravity",
         "year": "2024",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Fangdriller: Scars Beneath Memories Wrist",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Fangdriller: Scars Beneath Memory's Wrist",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]
@@ -3502,6 +3607,24 @@
     ]
   },
   {
+    "normalizedName": "volga",
+    "displayName": "Volga",
+    "albums": [
+      {
+        "name": "Mártir",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "voraciousscourge",
     "displayName": "VORACIOUS SCOURGE",
     "origin": "US",
@@ -3639,6 +3762,7 @@
     "tags": [
       "Heavy Metal",
       "Hard Rock"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

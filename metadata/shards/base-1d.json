@@ -253,6 +253,11 @@
         "genres": [
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "Waste Where Life Begins",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -399,6 +404,24 @@
     ],
     "tags": [
       "Symphonic Gothic"
+    ]
+  },
+  {
+    "normalizedName": "balmora",
+    "displayName": "Balmora",
+    "albums": [
+      {
+        "name": "These Graven Halls",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Metal"
     ]
   },
   {
@@ -3022,6 +3045,22 @@
     ]
   },
   {
+    "normalizedName": "moldovanwall",
+    "displayName": "Moldovan Wall",
+    "albums": [
+      {
+        "name": "Baltagul Țării",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "moscowdeathbrigade",
     "displayName": "Moscow Death Brigade",
     "albums": [
@@ -4289,6 +4328,18 @@
     ]
   },
   {
+    "normalizedName": "spiritmother",
+    "displayName": "Spirit Mother",
+    "albums": [
+      {
+        "name": "Thistle",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "steelheart",
     "displayName": "Steelheart",
     "origin": "US",
@@ -4689,6 +4740,18 @@
     ]
   },
   {
+    "normalizedName": "therewerewires",
+    "displayName": "There Were Wires",
+    "albums": [
+      {
+        "name": "Vessel",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "tideless",
     "displayName": "Tideless",
     "albums": [
@@ -4818,6 +4881,22 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "vastatorgoatsperm",
+    "displayName": "Vastator/Goat Sperm",
+    "albums": [
+      {
+        "name": "Goat Sperm / Vastator",
+        "year": "2026",
+        "genres": [
+          "Black Metal | Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal | Raw Black Metal"
     ]
   },
   {

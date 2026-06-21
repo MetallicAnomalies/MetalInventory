@@ -478,6 +478,24 @@
     ]
   },
   {
+    "normalizedName": "astralcorpse",
+    "displayName": "Astral Corpse",
+    "albums": [
+      {
+        "name": "Lengthening Shadows",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "avlak",
     "displayName": "Avlak",
     "albums": [
@@ -1563,6 +1581,18 @@
     ]
   },
   {
+    "normalizedName": "godfrost",
+    "displayName": "GodFrost",
+    "albums": [
+      {
+        "name": "Hanging Doll EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "godhunter",
     "displayName": "Godhunter",
     "albums": [
@@ -1786,6 +1816,18 @@
     "tags": [
       "Atmospheric Black Metal"
     ]
+  },
+  {
+    "normalizedName": "halcyondays",
+    "displayName": "Halcyon Days",
+    "albums": [
+      {
+        "name": "Nothing To No One // Something To Someone",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "harpyie",
@@ -2076,6 +2118,22 @@
     ]
   },
   {
+    "normalizedName": "lastsunsetofadyingautumn",
+    "displayName": "Last Sunset of a Dying Autumn",
+    "albums": [
+      {
+        "name": "Last Sunset of a Dying Autumn",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "leatherwitch",
     "displayName": "Leather Witch",
     "albums": [
@@ -2086,11 +2144,19 @@
           "Speed Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "First Spell",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Speed Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Metal"
     ]
   },
   {
@@ -2777,11 +2843,19 @@
           "Black Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Nocturnal Origins: 30th Anniversary",
+        "year": "2026",
+        "genres": [
+          "Experimental Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Experimental Doom Metal"
     ]
   },
   {
@@ -3307,6 +3381,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Led Into Oblivion",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3650,6 +3729,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "sudenkehto",
+    "displayName": "Sudenkehto",
+    "albums": [
+      {
+        "name": "Pisara meressä",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Metal"
+    ]
   },
   {
     "normalizedName": "taralynch",
@@ -4701,6 +4796,11 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Eclipse",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

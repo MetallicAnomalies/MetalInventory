@@ -281,6 +281,13 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Promo MMXXVI",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -751,6 +758,13 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Practice of Suffering",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -878,11 +892,23 @@
           "Melodic Death Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "After the Burial",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Thrash Metal",
+          "Thrash Metal",
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Melodic Death Thrash Metal",
+      "Metalcore"
     ]
   },
   {
@@ -1361,6 +1387,18 @@
     ]
   },
   {
+    "normalizedName": "dogstar",
+    "displayName": "Dogstar",
+    "albums": [
+      {
+        "name": "All In Now",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "draggedintosunlight",
     "displayName": "Dragged Into Sunlight",
     "origin": "GB",
@@ -1459,11 +1497,20 @@
         "genres": [
           "Gothic Doom Metal"
         ]
+      },
+      {
+        "name": "Black Moon",
+        "year": "2026",
+        "genres": [
+          "Gothic Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Gothic Doom Metal",
-      "Metal"
+      "Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -1654,6 +1701,13 @@
           "Folk Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "Rites of Disclosure",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -1663,6 +1717,24 @@
       "Folk Rock",
       "Medieval Metal",
       "Symphonic Metal"
+    ]
+  },
+  {
+    "normalizedName": "emptychalice",
+    "displayName": "Empty Chalice",
+    "albums": [
+      {
+        "name": "Majesty of Sin",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -2234,6 +2306,18 @@
       "Heavy Metal",
       "Progressive Metal"
     ]
+  },
+  {
+    "normalizedName": "johndivatherocketsoflove",
+    "displayName": "John Diva & The Rockets Of Love",
+    "albums": [
+      {
+        "name": "Your Favorite Drug",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "johnkander",
@@ -3391,23 +3475,6 @@
     ]
   },
   {
-    "normalizedName": "pøgø",
-    "displayName": "PØGØ",
-    "origin": "AU",
-    "albums": [
-      {
-        "name": "Chimera",
-        "year": "2023",
-        "genres": [
-          "Trap Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Trap Metal"
-    ]
-  },
-  {
     "normalizedName": "portnoir",
     "displayName": "Port Noir",
     "origin": "SE",
@@ -3551,6 +3618,23 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "pøgø",
+    "displayName": "PØGØ",
+    "origin": "AU",
+    "albums": [
+      {
+        "name": "Chimera",
+        "year": "2023",
+        "genres": [
+          "Trap Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Trap Metal"
     ]
   },
   {
@@ -3758,6 +3842,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Supernatural Anthems",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3815,11 +3904,34 @@
           "Progressive Power",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Seventh Act of a Death Foretold",
+        "year": "2026",
+        "genres": [
+          "Power Progressive Metal",
+          "Progressive Metal",
+          "Power Thrash Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Loop Guardians",
+        "year": "2026",
+        "genres": [
+          "Power Progressive Metal",
+          "Progressive Metal",
+          "Power Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Power",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Power Progressive Metal",
+      "Progressive Metal",
+      "Power Thrash Metal"
     ]
   },
   {
@@ -5179,6 +5291,7 @@
     "tags": [
       "Heavy Metal",
       "Hard Rock"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

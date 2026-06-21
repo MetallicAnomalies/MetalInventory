@@ -729,7 +729,7 @@
     "albums": [
       {
         "name": "Slip Into Something More Comfortable",
-        "year": "2007-02-20",
+        "year": "2007",
         "genres": [
           "Pop Punk",
           "Rock",
@@ -1846,10 +1846,20 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "哭泣的骆驼",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Metalcore with Folk influences"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Melodic Death Metal",
+      "Metalcore with Folk influences"
     ]
   },
   {
@@ -2576,6 +2586,11 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Shadows And Dust",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3586,6 +3601,22 @@
     ]
   },
   {
+    "normalizedName": "perennialquest",
+    "displayName": "Perennial Quest",
+    "albums": [
+      {
+        "name": "The Immortal Sons (Zebah's version)",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "perversor",
     "displayName": "Perversor",
     "albums": [
@@ -3983,9 +4014,21 @@
     ]
   },
   {
+    "normalizedName": "shootingdaggers",
+    "displayName": "Shooting Daggers",
+    "albums": [
+      {
+        "name": "The Real Life Thing EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "shoshanadamari",
     "displayName": "Shoshana Damari",
-    "origin": "US",
+    "origin": "IL",
     "albums": [
       {
         "name": "אור",
@@ -4949,6 +4992,24 @@
       "Rock",
       "Pop",
       "Israeli"
+    ]
+  },
+  {
+    "normalizedName": "注射針混入豚",
+    "displayName": "注射針混入豚",
+    "albums": [
+      {
+        "name": "嗚呼、注射針混入豚",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
     ]
   }
 ]

@@ -573,7 +573,7 @@
       },
       {
         "name": "Burst",
-        "year": "2017-02-03",
+        "year": "2017",
         "genres": [
           "Alternative Rock",
           "Noise Metal",
@@ -600,7 +600,7 @@
       },
       {
         "name": "Nest",
-        "year": "2019-03-29",
+        "year": "2019",
         "genres": [
           "Shoegaze",
           "Post Rock",
@@ -609,7 +609,7 @@
       },
       {
         "name": "Unison Life",
-        "year": "2022-10-21",
+        "year": "2022",
         "genres": [
           "Hard Rock",
           "Rock"
@@ -1461,6 +1461,11 @@
           "Prog Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Psychedelic Selection",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1557,6 +1562,28 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "ivymelanox",
+    "displayName": "Ivy Melanox",
+    "albums": [
+      {
+        "name": "Inhale My Guitar",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Shoegaze Alternative Rock",
+          "Post-Black Metal",
+          "Alternative Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Shoegaze Alternative Rock",
+      "Post-Black Metal",
+      "Alternative Rock"
     ]
   },
   {
@@ -2196,7 +2223,7 @@
       },
       {
         "name": "Live Kreation",
-        "year": "2003-06-16",
+        "year": "2003",
         "genres": [
           "Thrash Metal"
         ]
@@ -2308,6 +2335,18 @@
       "Thrash Metal",
       "Melodic Death Metal"
     ]
+  },
+  {
+    "normalizedName": "kristoffergildenlow",
+    "displayName": "Kristoffer Gildenlöw",
+    "albums": [
+      {
+        "name": "[Humanised]",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "lacrimamortis",
@@ -4096,6 +4135,11 @@
           "Atmospheric Doom",
           "Atmospheric Sludge Metal"
         ]
+      },
+      {
+        "name": "The Unbinding",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4524,6 +4568,18 @@
     ]
   },
   {
+    "normalizedName": "thrakian",
+    "displayName": "Thrakian",
+    "albums": [
+      {
+        "name": "The Way",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "thrawsunblat",
     "displayName": "Thrawsunblat",
     "origin": "CA",
@@ -4680,6 +4736,22 @@
       "Djent",
       "Metalcore",
       "Groove Metal"
+    ]
+  },
+  {
+    "normalizedName": "thyrtellann",
+    "displayName": "Thyr Tellann",
+    "albums": [
+      {
+        "name": "Warren Songs",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
     ]
   },
   {

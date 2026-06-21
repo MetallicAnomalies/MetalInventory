@@ -505,6 +505,22 @@
     ]
   },
   {
+    "normalizedName": "blackdestrier",
+    "displayName": "Black Destrier",
+    "albums": [
+      {
+        "name": "Decrees of Fate",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "blackmoor",
     "displayName": "Black Moor",
     "albums": [
@@ -571,6 +587,48 @@
     "tags": [
       "Death Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "bob",
+    "displayName": "BoB",
+    "albums": [
+      {
+        "name": "Forward",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Various"
+        ]
+      },
+      {
+        "name": "Stop",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Various"
+        ]
+      },
+      {
+        "name": "Pony",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Various"
+        ]
+      },
+      {
+        "name": "Geo Trapped Punker",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Various"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Various"
     ]
   },
   {
@@ -2287,13 +2345,28 @@
           "Hardcore Metal",
           "Punk"
         ]
+      },
+      {
+        "name": "Demonitization EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "DEMONETIZATION",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Crossover Thrash",
       "Hardcore Metal",
       "Punk",
-      "Rock"
+      "Rock",
+      "Thrash Metal",
+      "Metal"
     ]
   },
   {
@@ -3543,6 +3616,18 @@
     ]
   },
   {
+    "normalizedName": "onsegenensemble",
+    "displayName": "Onsegen Ensemble",
+    "albums": [
+      {
+        "name": "A Tale",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "opusv",
     "displayName": "Opus V",
     "albums": [
@@ -3631,7 +3716,7 @@
     "albums": [
       {
         "name": "My World, My Love, Paris",
-        "year": "2022-02-25",
+        "year": "2022",
         "genres": [
           "Indie Pop",
           "Pop"
@@ -3993,6 +4078,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "shadowborne",
+    "displayName": "Shadowborne",
+    "albums": [
+      {
+        "name": "Heaven’s Falling",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "sinanestesia",
@@ -4409,6 +4506,26 @@
     ]
   },
   {
+    "normalizedName": "theconquering",
+    "displayName": "The Conquering",
+    "albums": [
+      {
+        "name": "Guillotine",
+        "year": "2026",
+        "genres": [
+          "Viking Black Metal",
+          "Folk Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Viking Black Metal",
+      "Folk Black Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "theenochian",
     "displayName": "The Enochian",
     "albums": [
@@ -4818,6 +4935,11 @@
         "genres": [
           "Death Doom Metal"
         ]
+      },
+      {
+        "name": "Tracks From The Slither",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4914,6 +5036,22 @@
     "tags": [
       "Heavy Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "verfall",
+    "displayName": "Verfall",
+    "albums": [
+      {
+        "name": "Desolation of Heaven",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

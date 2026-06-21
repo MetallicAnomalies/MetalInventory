@@ -345,7 +345,7 @@
       },
       {
         "name": "Jagged Little Pill",
-        "year": "2009-04-04",
+        "year": "1995",
         "genres": [
           "Alternative Rock",
           "Rock"
@@ -1002,7 +1002,7 @@
       },
       {
         "name": "Just Highs No Lows: 12 Years Of Persistence",
-        "year": "2009-11",
+        "year": "2009",
         "genres": [
           "Power Metal"
         ]
@@ -1053,6 +1053,26 @@
     "tags": [
       "Power Metal",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "chaingunliverkill",
+    "displayName": "Chaingün/Livërkill",
+    "albums": [
+      {
+        "name": "Bottles 'n' Bullets",
+        "year": "2026",
+        "genres": [
+          "Black Speed Metal",
+          "Thrash Metal | Black Speed Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Speed Metal",
+      "Thrash Metal | Black Speed Metal",
+      "Speed Metal"
     ]
   },
   {
@@ -1441,11 +1461,20 @@
           "Heavy Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "Laberinto",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Power Metal"
+      "Power Metal",
+      "Heavy Power Metal"
     ]
   },
   {
@@ -2142,6 +2171,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "ignoble",
+    "displayName": "Ignoble",
+    "albums": [
+      {
+        "name": "Hollow Thrones & Shattered Crowns",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -3507,6 +3554,18 @@
     ]
   },
   {
+    "normalizedName": "rakinua",
+    "displayName": "Rakinua",
+    "albums": [
+      {
+        "name": "Esi Um Nina – Heal Us, Mother",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "ratt",
     "displayName": "Ratt",
     "origin": "US",
@@ -4426,6 +4485,24 @@
     ],
     "tags": [
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "wearetoblame",
+    "displayName": "We Are to Blame",
+    "albums": [
+      {
+        "name": "Poison",
+        "year": "2026",
+        "genres": [
+          "Power Symphonic Metal",
+          "Symphonic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Symphonic Metal",
+      "Symphonic Metal"
     ]
   },
   {

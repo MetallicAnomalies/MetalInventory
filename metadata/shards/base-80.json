@@ -99,149 +99,6 @@
     ]
   },
   {
-    "normalizedName": "ævangelist",
-    "displayName": "Ævangelist",
-    "origin": "US",
-    "albums": [
-      {
-        "name": "Oracle Of Infinite Despair",
-        "year": "2011",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "De Masticatione Mortuorum In Tumulis",
-        "year": "2012",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Nightmare Flesh Offering",
-        "year": "2013",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Omen Ex Simulacra",
-        "year": "2013",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Writhes In The Murk",
-        "year": "2014",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Abstract Catharsis",
-        "year": "2015",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Dream An Evil Dream",
-        "year": "2015",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Enthrall To The Void Of Bliss",
-        "year": "2015",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Aberrant Genesis",
-        "year": "2018",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Heralds Of Nightmare Descending",
-        "year": "2018",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Matricide In The Temple Of Omega",
-        "year": "2018",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Revelation Of The Devouring Void / Ceremony Of The Avenging Curse",
-        "year": "2019",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Dream An Evil Dream Ii",
-        "year": "2020",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Nightmarecatcher",
-        "year": "2020",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Dream An Evil Dream Iii",
-        "year": "2021",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Harmony Of The Sinister",
-        "year": "2023",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Palaces In The æTher",
-        "year": "2023",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Xαρίσματα",
-        "year": "2023",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      },
-      {
-        "name": "Perdition Ekstasis Meta",
-        "year": "2024",
-        "genres": [
-          "Blackened Death Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Blackened Death Metal"
-    ]
-  },
-  {
     "normalizedName": "altarofoblivion",
     "displayName": "Altar Of Oblivion",
     "albums": [
@@ -887,6 +744,22 @@
     ]
   },
   {
+    "normalizedName": "basura",
+    "displayName": "Basura",
+    "albums": [
+      {
+        "name": "Basura Vol. 1",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "blakmonastery",
     "displayName": "Blåk Monastery",
     "albums": [
@@ -1105,6 +978,31 @@
     ],
     "tags": [
       "Hip Hop"
+    ]
+  },
+  {
+    "normalizedName": "callousfaulter",
+    "displayName": "Callous Faulter",
+    "albums": [
+      {
+        "name": "Callous Faulter EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Callous Faulter",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal",
+      "Metal"
     ]
   },
   {
@@ -2563,6 +2461,40 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "inoneplace",
+    "displayName": "In One Place",
+    "albums": [
+      {
+        "name": "It's Not There",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Post-Black Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Post-Black Metal",
+      "Post-Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "killersick",
+    "displayName": "Killersick",
+    "albums": [
+      {
+        "name": "Fuck Your Pineapple",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {
@@ -4610,6 +4542,149 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "ævangelist",
+    "displayName": "Ævangelist",
+    "origin": "US",
+    "albums": [
+      {
+        "name": "Oracle Of Infinite Despair",
+        "year": "2011",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "De Masticatione Mortuorum In Tumulis",
+        "year": "2012",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Nightmare Flesh Offering",
+        "year": "2013",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Omen Ex Simulacra",
+        "year": "2013",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Writhes In The Murk",
+        "year": "2014",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Abstract Catharsis",
+        "year": "2015",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Dream An Evil Dream",
+        "year": "2015",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Enthrall To The Void Of Bliss",
+        "year": "2015",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Aberrant Genesis",
+        "year": "2018",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Heralds Of Nightmare Descending",
+        "year": "2018",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Matricide In The Temple Of Omega",
+        "year": "2018",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Revelation Of The Devouring Void / Ceremony Of The Avenging Curse",
+        "year": "2019",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Dream An Evil Dream Ii",
+        "year": "2020",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Nightmarecatcher",
+        "year": "2020",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Dream An Evil Dream Iii",
+        "year": "2021",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Harmony Of The Sinister",
+        "year": "2023",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Palaces In The æTher",
+        "year": "2023",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Xαρίσματα",
+        "year": "2023",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      },
+      {
+        "name": "Perdition Ekstasis Meta",
+        "year": "2024",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Death Metal"
     ]
   }
 ]

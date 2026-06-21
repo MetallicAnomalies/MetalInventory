@@ -1177,6 +1177,22 @@
     ]
   },
   {
+    "normalizedName": "despoilment",
+    "displayName": "Despoilment",
+    "albums": [
+      {
+        "name": "Vindicated Retaliation",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "diapsiquir",
     "displayName": "Diapsiquir",
     "albums": [
@@ -1680,6 +1696,18 @@
     ]
   },
   {
+    "normalizedName": "horrifier",
+    "displayName": "Horrifier",
+    "albums": [
+      {
+        "name": "Revelations Of Gore",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "ibrahimmaalouf",
     "displayName": "Ibrahim Maalouf",
     "origin": "FR",
@@ -1744,6 +1772,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "infectiousmaggots",
+    "displayName": "Infectious Maggots",
+    "albums": [
+      {
+        "name": "Raise the Undead",
+        "year": "2026",
+        "genres": [
+          "Industrial Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Industrial Death Metal",
+      "Grindcore"
     ]
   },
   {
@@ -2675,6 +2721,18 @@
     "tags": [
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "primitivebroadcastservice",
+    "displayName": "Primitive Broadcast Service",
+    "albums": [
+      {
+        "name": "Monsters",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "questions",
@@ -3840,6 +3898,13 @@
           "Hard Rock",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Touch You There",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -3957,6 +4022,14 @@
         "genres": [
           "Deathcore",
           "Folk Metal"
+        ]
+      },
+      {
+        "name": "Всѣмъ Писать Глаголицей! · Ⰲⱄⱑⰿⱐ Ⱂⰹⱄⰰⱅⱐ Ⰳⰾⰰⰳⱁⰾⰹⱌⰵⰹ! · All Shall Write the Glagolitic!",
+        "year": "2026",
+        "genres": [
+          "Folk Metal",
+          "Deathcore"
         ]
       }
     ],

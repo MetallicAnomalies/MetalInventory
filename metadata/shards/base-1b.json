@@ -906,6 +906,26 @@
     ]
   },
   {
+    "normalizedName": "desertwitch",
+    "displayName": "Desert Witch",
+    "albums": [
+      {
+        "name": "Sesiones Planetario",
+        "year": "2026",
+        "genres": [
+          "Stoner Rock",
+          "Doom Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Rock",
+      "Doom Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "diaryofdestruction",
     "displayName": "Diary of Destruction",
     "origin": "FR",
@@ -1278,6 +1298,24 @@
     ]
   },
   {
+    "normalizedName": "enterocephalomia",
+    "displayName": "Enterocephalomia",
+    "albums": [
+      {
+        "name": "Facility of Anatomical Dismemberment",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "entomos",
     "displayName": "éNtomos",
     "albums": [
@@ -1328,6 +1366,22 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "eternalsword",
+    "displayName": "Eternal Sword",
+    "albums": [
+      {
+        "name": "Valorous",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {
@@ -1640,6 +1694,24 @@
     ]
   },
   {
+    "normalizedName": "gluttonousoverindulgenceofrelentlesstorture",
+    "displayName": "Gluttonous Overindulgence of Relentless Torture",
+    "albums": [
+      {
+        "name": "Pandemonium",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "godenslavement",
     "displayName": "God Enslavement",
     "albums": [
@@ -1777,6 +1849,11 @@
         "genres": [
           "Folk Metal"
         ]
+      },
+      {
+        "name": "Stormvingar",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1943,6 +2020,26 @@
     ]
   },
   {
+    "normalizedName": "invader",
+    "displayName": "Invader",
+    "albums": [
+      {
+        "name": "By the End of Your Blade",
+        "year": "2026",
+        "genres": [
+          "Death Crossover",
+          "Thrash Metal",
+          "Crossover"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Crossover",
+      "Thrash Metal",
+      "Crossover"
+    ]
+  },
+  {
     "normalizedName": "iscariot",
     "displayName": "Iscariot",
     "origin": "DE",
@@ -2018,6 +2115,22 @@
     ],
     "tags": [
       "Symphonic Progressive"
+    ]
+  },
+  {
+    "normalizedName": "katari",
+    "displayName": "Katari",
+    "albums": [
+      {
+        "name": "The Emergence",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -2237,6 +2350,11 @@
         "genres": [
           "Symphonic Black Metal"
         ]
+      },
+      {
+        "name": "Arcane Past: The Celestial Grimoire",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2476,6 +2594,26 @@
     ]
   },
   {
+    "normalizedName": "mindfuneral",
+    "displayName": "Mind Funeral",
+    "albums": [
+      {
+        "name": "Garage Daze",
+        "year": "2026",
+        "genres": [
+          "Doom Rock",
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Rock",
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "monolord",
     "displayName": "Monolord",
     "origin": "SE",
@@ -2551,13 +2689,22 @@
           "Stoner Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Neverending",
+        "year": "2026",
+        "genres": [
+          "Doom Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Stoner Metal",
       "Doom Metal",
       "Sludge Metal",
-      "Psychedelic Rock"
+      "Psychedelic Rock",
+      "Metal"
     ]
   },
   {
@@ -2773,6 +2920,18 @@
       "Death Metal",
       "Melodic Metalcore"
     ]
+  },
+  {
+    "normalizedName": "nidelgret",
+    "displayName": "Nidelgret",
+    "albums": [
+      {
+        "name": "Traüerlarm",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "ninnghizhidda",
@@ -3071,6 +3230,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "phasemeridian",
+    "displayName": "Phase Meridian",
+    "albums": [
+      {
+        "name": "Egregore",
+        "year": "2026",
+        "genres": [
+          "Progressive Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Sludge Metal"
     ]
   },
   {
@@ -3391,6 +3566,24 @@
     ]
   },
   {
+    "normalizedName": "redvinter",
+    "displayName": "Red Vinter",
+    "albums": [
+      {
+        "name": "Ghost in the Fog",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "reignofterror",
     "displayName": "Reign Of Terror",
     "albums": [
@@ -3411,6 +3604,13 @@
       {
         "name": "Threnody Of The Impaled",
         "year": "2002",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Bloodhoof",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]
@@ -5773,6 +5973,27 @@
     ]
   },
   {
+    "normalizedName": "spaceparasites",
+    "displayName": "Space Parasites",
+    "albums": [
+      {
+        "name": "Make Me Evil",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "M.M.E.",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "spellling",
     "displayName": "SPELLLING",
     "origin": "US",
@@ -6338,6 +6559,11 @@
           "Power Pop",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Live At Eden Project",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

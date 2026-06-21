@@ -405,6 +405,18 @@
     ]
   },
   {
+    "normalizedName": "bloodwhite",
+    "displayName": "Blood White",
+    "albums": [
+      {
+        "name": "From Hell",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "bloodyalchemy",
     "displayName": "Bloody Alchemy",
     "albums": [
@@ -487,6 +499,18 @@
       "Folk, World, & Country",
       "Folk Rock"
     ]
+  },
+  {
+    "normalizedName": "changingplacesinthefire",
+    "displayName": "Changing Places In The Fire",
+    "albums": [
+      {
+        "name": "Changing Places In The Fire",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "chasmofdiscord",
@@ -2193,6 +2217,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Apokalyps 1618",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2903,6 +2932,24 @@
       "Pop",
       "Pop Rock",
       "Schlager"
+    ]
+  },
+  {
+    "normalizedName": "nirensimtscoured",
+    "displayName": "Nirensimt/Scoured",
+    "albums": [
+      {
+        "name": "Ceaseless Majesty, Endless Malice",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Post-Black Metal | Black Metal",
+          "Post-Black Metal | Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Post-Black Metal | Black Metal",
+      "Post-Black Metal | Black Metal"
     ]
   },
   {
@@ -4282,6 +4329,38 @@
     "tags": [
       "Psychedelic Rock",
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "tommyconcrete",
+    "displayName": "Tommy Concrete",
+    "albums": [
+      {
+        "name": "Sustained Beating",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "totenlegion",
+    "displayName": "Totenlegion",
+    "albums": [
+      {
+        "name": "Einschlag",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
     ]
   },
   {

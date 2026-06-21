@@ -146,6 +146,34 @@
     ]
   },
   {
+    "normalizedName": "arisefromworms",
+    "displayName": "Arise From Worms",
+    "albums": [
+      {
+        "name": "A Bleeding Tree Hanging Self Destruction",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
+    "normalizedName": "arvo",
+    "displayName": "Arvo",
+    "albums": [
+      {
+        "name": "Viasna",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "ashent",
     "displayName": "Ashent",
     "albums": [
@@ -1218,11 +1246,23 @@
           "Heavy Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "The Eyes of the Dragon",
+        "year": "2026",
+        "genres": [
+          "Heavy Speed Metal",
+          "Power Speed Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Power Metal"
+      "Power Metal",
+      "Heavy Speed Metal",
+      "Power Speed Metal",
+      "Speed Metal"
     ]
   },
   {
@@ -1295,6 +1335,22 @@
     "tags": [
       "Black Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "ephemeralitymalignantprovidence",
+    "displayName": "Ephemerality/Malignant Providence",
+    "albums": [
+      {
+        "name": "Unholy Alliance",
+        "year": "2026",
+        "genres": [
+          "Death Metal | Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal | Death Metal"
     ]
   },
   {
@@ -1813,6 +1869,18 @@
     ]
   },
   {
+    "normalizedName": "greendesertwater",
+    "displayName": "Green Desert Water",
+    "albums": [
+      {
+        "name": "Eerie Meadows",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "hatebreed",
     "displayName": "Hatebreed",
     "origin": "US",
@@ -1932,6 +2000,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "hertogenwald",
+    "displayName": "Hertogenwald",
+    "albums": [
+      {
+        "name": "Archéombres",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -2363,6 +2447,18 @@
       "Nu Metal",
       "Alternative Metal"
     ]
+  },
+  {
+    "normalizedName": "lostinkyiv",
+    "displayName": "Lost In Kyiv",
+    "albums": [
+      {
+        "name": "We’re All Going To Be Fine",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "luca",
@@ -3088,6 +3184,29 @@
     "tags": [
       "Thrash Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "reapers",
+    "displayName": "Reapers",
+    "albums": [
+      {
+        "name": "Silently",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "Happiness for Sale",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {

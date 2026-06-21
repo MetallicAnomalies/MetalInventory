@@ -345,6 +345,22 @@
     ]
   },
   {
+    "normalizedName": "archblade",
+    "displayName": "Arch Blade",
+    "albums": [
+      {
+        "name": "Harbinger of Death",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "ashesofares",
     "displayName": "Ashes of Ares",
     "origin": "US",
@@ -1230,6 +1246,18 @@
     ]
   },
   {
+    "normalizedName": "elementoffate",
+    "displayName": "Element Of Fate",
+    "albums": [
+      {
+        "name": "Dreamfall",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "endymaeria",
     "displayName": "Endymaeria",
     "origin": "NL",
@@ -1284,6 +1312,36 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "eternalmourn",
+    "displayName": "Eternal Mourn",
+    "albums": [
+      {
+        "name": "Winds Of Sorrow EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
+    "normalizedName": "euphobia",
+    "displayName": "Euphobia",
+    "albums": [
+      {
+        "name": "Hexakosioihexekontahexaphobia",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Deathcore"
     ]
   },
   {
@@ -2719,6 +2777,24 @@
     ]
   },
   {
+    "normalizedName": "monochrome",
+    "displayName": "Monochrome",
+    "albums": [
+      {
+        "name": "с нуля // from zero",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "moralcrusade",
     "displayName": "Moral Crusade",
     "albums": [
@@ -3909,6 +3985,11 @@
           "Gothic Metal",
           "Gothic Rock"
         ]
+      },
+      {
+        "name": "I Survive",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4043,6 +4124,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "tonnenvonhall",
+    "displayName": "Tonnen Von Hall",
+    "albums": [
+      {
+        "name": "Donnermesser EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "tritonus",

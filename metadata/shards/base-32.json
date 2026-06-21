@@ -2750,6 +2750,11 @@
           "Heavy Metal",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "The Best Of Judas Priest",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3589,7 +3594,7 @@
       },
       {
         "name": "Showtime, Storytime",
-        "year": "2013-12-12",
+        "year": "2013",
         "genres": [
           "Symphonic Metal"
         ]
@@ -3793,6 +3798,18 @@
     "tags": [
       "Atmospheric Black Metal"
     ]
+  },
+  {
+    "normalizedName": "okayyouwin",
+    "displayName": "Okay You Win",
+    "albums": [
+      {
+        "name": "End Of Days",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "orphanedland",
@@ -4283,6 +4300,30 @@
     "tags": [
       "Pagan Black Metal"
     ]
+  },
+  {
+    "normalizedName": "rockettlove",
+    "displayName": "Rockett Love",
+    "albums": [
+      {
+        "name": "Wired For Sound",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
+    "normalizedName": "rodtgod",
+    "displayName": "Rodtgod",
+    "albums": [
+      {
+        "name": "Tales From Beyond The Tomb",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "sacrilegion",
@@ -4886,6 +4927,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Dreadspawn Dominion",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -5560,6 +5606,13 @@
       {
         "name": "My Gnawing Pains Will Never Rest",
         "year": "2025",
+        "genres": [
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "It Is Well...",
+        "year": "2026",
         "genres": [
           "Metalcore"
         ]

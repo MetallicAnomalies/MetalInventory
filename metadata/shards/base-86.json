@@ -1585,6 +1585,22 @@
     ]
   },
   {
+    "normalizedName": "ha",
+    "displayName": "H-A",
+    "albums": [
+      {
+        "name": "Metanoia",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "hananbenari",
     "displayName": "Hanan Ben Ari",
     "origin": "US",
@@ -1914,6 +1930,26 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "irongaze",
+    "displayName": "Iron Gaze",
+    "albums": [
+      {
+        "name": "Imperial Entropy",
+        "year": "2026",
+        "genres": [
+          "Crossover Hardcore",
+          "Thrash Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Crossover Hardcore",
+      "Thrash Metal",
+      "Hardcore"
     ]
   },
   {
@@ -2361,6 +2397,22 @@
     ]
   },
   {
+    "normalizedName": "misaligned",
+    "displayName": "Misaligned",
+    "albums": [
+      {
+        "name": "Bloodlines",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "moeror",
     "displayName": "Moeror",
     "albums": [
@@ -2381,50 +2433,6 @@
       {
         "name": "All That We Seem",
         "year": "2022",
-        "genres": [
-          "Black Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Black Metal"
-    ]
-  },
-  {
-    "normalizedName": "mørkttre",
-    "displayName": "Mørkt Tre",
-    "albums": [
-      {
-        "name": "To The Graves Of Smoldering Time",
-        "year": "2017",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Necrofolk",
-        "year": "2019",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "земля забута богом I людьми",
-        "year": "2020",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "марення осені",
-        "year": "2022",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "зазирни за обрій",
-        "year": "2023",
         "genres": [
           "Black Metal"
         ]
@@ -2520,6 +2528,50 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "mørkttre",
+    "displayName": "Mørkt Tre",
+    "albums": [
+      {
+        "name": "To The Graves Of Smoldering Time",
+        "year": "2017",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Necrofolk",
+        "year": "2019",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "земля забута богом I людьми",
+        "year": "2020",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "марення осені",
+        "year": "2022",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "зазирни за обрій",
+        "year": "2023",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -2895,6 +2947,24 @@
     ]
   },
   {
+    "normalizedName": "ravenshikegravemoon",
+    "displayName": "Ravens Hike/Gravemoon",
+    "albums": [
+      {
+        "name": "Ravens Hike / Gravemoon",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal",
+          "Ambient | Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal",
+      "Ambient | Black Metal"
+    ]
+  },
+  {
     "normalizedName": "rednex",
     "displayName": "Rednex",
     "origin": "SE",
@@ -3265,6 +3335,11 @@
         "genres": [
           "Melodic Black Metal"
         ]
+      },
+      {
+        "name": "The Nocturnes Of Iswylm",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4049,6 +4124,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "whalefall",
+    "displayName": "Whalefall",
+    "albums": [
+      {
+        "name": "Is it all a dream?",
+        "year": "2026",
+        "genres": [
+          "Djent"
+        ]
+      }
+    ],
+    "tags": [
+      "Djent"
     ]
   },
   {

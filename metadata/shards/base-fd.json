@@ -460,10 +460,20 @@
         "genres": [
           "Crossover Thrash"
         ]
+      },
+      {
+        "name": "Toxic Waste Was Everywhere in the '80s",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
       }
     ],
     "tags": [
-      "Crossover Thrash"
+      "Crossover Thrash",
+      "Thrash Metal",
+      "Crossover"
     ]
   },
   {
@@ -508,6 +518,11 @@
         "genres": [
           "Progressive Death Metal"
         ]
+      },
+      {
+        "name": "The Aura Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -640,12 +655,24 @@
         "genres": [
           "Rock"
         ]
+      },
+      {
+        "name": "IV",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Melodic Death Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Groove Death",
       "Post-hardcore",
-      "Rock"
+      "Rock",
+      "Death Metal",
+      "Melodic Death Metal",
+      "Metal"
     ]
   },
   {
@@ -1743,6 +1770,27 @@
     ]
   },
   {
+    "normalizedName": "dichotomy",
+    "displayName": "Dichotomy",
+    "albums": [
+      {
+        "name": "Lucifer Owns The Fence",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "The Fence",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "disowning",
     "displayName": "Disowning",
     "albums": [
@@ -1779,7 +1827,7 @@
       },
       {
         "name": "The Cult Of The Dragon",
-        "year": "2010-06-29",
+        "year": "2010",
         "genres": [
           "Black Metal",
           "Death Metal"
@@ -2923,6 +2971,24 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "motherbear",
+    "displayName": "Mother Bear",
+    "albums": [
+      {
+        "name": "Orm 2",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -4204,6 +4270,24 @@
     ]
   },
   {
+    "normalizedName": "stoortneer",
+    "displayName": "Stoort Neer",
+    "albums": [
+      {
+        "name": "böckerna du borde ha läst",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "sunterra",
     "displayName": "Sunterra",
     "origin": "AT",
@@ -4570,6 +4654,18 @@
     ]
   },
   {
+    "normalizedName": "tombal",
+    "displayName": "Tombal",
+    "albums": [
+      {
+        "name": "Grave Of The Damned EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "tornsoul",
     "displayName": "Torn Soul",
     "origin": "US",
@@ -4923,6 +5019,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "царстангра",
+    "displayName": "Цар Стангра",
+    "albums": [
+      {
+        "name": "Химните на разрушените светове (Hymns of the Broken Worlds)",
+        "year": "2026",
+        "genres": [
+          "Melodic Progressive Black Metal",
+          "Progressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Progressive Black Metal",
+      "Progressive Black Metal"
     ]
   }
 ]

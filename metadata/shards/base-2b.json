@@ -74,6 +74,24 @@
     "tags": []
   },
   {
+    "normalizedName": "alkimista",
+    "displayName": "Alkimista",
+    "albums": [
+      {
+        "name": "Contraste",
+        "year": "2026",
+        "genres": [
+          "Doom Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "alkira",
     "displayName": "Alkira",
     "origin": "AU",
@@ -1560,6 +1578,11 @@
           "Metalcore",
           "Post-hardcore"
         ]
+      },
+      {
+        "name": "Resurgence",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1567,6 +1590,24 @@
       "Post-hardcore",
       "Alternative Rock",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "galvanist",
+    "displayName": "Galvanist",
+    "albums": [
+      {
+        "name": "The Silence Between Stars",
+        "year": "2026",
+        "genres": [
+          "Doom Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal",
+      "Metal"
     ]
   },
   {
@@ -4267,6 +4308,11 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Wrath Of The Hammer",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4936,7 +4982,8 @@
     "tags": [
       "Black Metal",
       "Death Metal"
-    ]
+    ],
+    "origin": "CA"
   },
   {
     "normalizedName": "tonykareidsintensutopia",
@@ -5158,6 +5205,38 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "whitemoon",
+    "displayName": "Whitemoon",
+    "albums": [
+      {
+        "name": "Trucizna dla Swiata",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "why",
+    "displayName": "Why...",
+    "albums": [
+      {
+        "name": "Não aguento mais pensar em ti",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {

@@ -363,6 +363,24 @@
     ]
   },
   {
+    "normalizedName": "bannerlord",
+    "displayName": "Bannerlord",
+    "albums": [
+      {
+        "name": "Throne of Want",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Black Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "basarabianhills",
     "displayName": "Basarabian Hills",
     "albums": [
@@ -544,7 +562,7 @@
       },
       {
         "name": "Alcohol Fueled Brewtality Live",
-        "year": "2001-01-16",
+        "year": "2001",
         "genres": [
           "Heavy Metal",
           "Hard Rock",
@@ -1492,6 +1510,24 @@
     ],
     "tags": [
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "disappear",
+    "displayName": "Disappear...",
+    "albums": [
+      {
+        "name": "Stargazer",
+        "year": "2026",
+        "genres": [
+          "Depressive Post-Black Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Post-Black Metal",
+      "Post-Black Metal"
     ]
   },
   {
@@ -2848,6 +2884,18 @@
     ]
   },
   {
+    "normalizedName": "mastersofdisasters",
+    "displayName": "Masters Of Disasters",
+    "albums": [
+      {
+        "name": "Handsome Like A Nuclear Bomb EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "maydayparade",
     "displayName": "Mayday Parade",
     "origin": "US",
@@ -3634,6 +3682,27 @@
     ],
     "tags": [
       "Djent"
+    ]
+  },
+  {
+    "normalizedName": "pox",
+    "displayName": "Pox",
+    "albums": [
+      {
+        "name": "B.K.W. EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": ":BKW: (Brass Knuckles Witchcraft)",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

@@ -2016,6 +2016,11 @@
           "Atmospheric Sludge Metal",
           "Post-Metal"
         ]
+      },
+      {
+        "name": "Mortuary Cult",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2235,6 +2240,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Verbolgen",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2819,6 +2829,26 @@
     ]
   },
   {
+    "normalizedName": "magatsui",
+    "displayName": "Magatsui",
+    "albums": [
+      {
+        "name": "Embryo",
+        "year": "2026",
+        "genres": [
+          "Progressive Deathcore",
+          "Technical Death Metal",
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Deathcore",
+      "Technical Death Metal",
+      "Deathcore"
+    ]
+  },
+  {
     "normalizedName": "markambor",
     "displayName": "Mark Ambor",
     "origin": "US",
@@ -2833,6 +2863,26 @@
     ],
     "tags": [
       "Pop"
+    ]
+  },
+  {
+    "normalizedName": "markarrudaandthebloodline",
+    "displayName": "Mark Arruda and the Bloodline",
+    "albums": [
+      {
+        "name": "Damage Done",
+        "year": "2026",
+        "genres": [
+          "Thrash Groove Metal",
+          "Death Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Groove Metal",
+      "Death Groove Metal",
+      "Groove Metal"
     ]
   },
   {
@@ -2871,6 +2921,22 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "mastemath",
+    "displayName": "Mastemath",
+    "albums": [
+      {
+        "name": "Ass I`m Lying Dying",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -2996,88 +3062,6 @@
     ]
   },
   {
-    "normalizedName": "nænøcybbœrgvberrħolokaavsŧ",
-    "displayName": "Nǽnøĉÿbbœrğ Vbëřřħōlökäävsŧ",
-    "albums": [
-      {
-        "name": "Stars: A Comparative Study Of Astroillumination And Four Dimensional Spacetime",
-        "year": "2007",
-        "genres": [
-          "Drone Metal",
-          "Dark Ambient"
-        ]
-      },
-      {
-        "name": "The Ultimate Fate Of The Universe",
-        "year": "2007",
-        "genres": [
-          "Drone Metal",
-          "Dark Ambient"
-        ]
-      },
-      {
-        "name": "Lunar",
-        "year": "2008",
-        "genres": [
-          "Drone Metal",
-          "Dark Ambient"
-        ]
-      },
-      {
-        "name": "Solar",
-        "year": "2008",
-        "genres": [
-          "Drone Metal",
-          "Dark Ambient"
-        ]
-      },
-      {
-        "name": "Eternal Darkness Vortex",
-        "year": "2009",
-        "genres": [
-          "Drone Metal",
-          "Dark Ambient"
-        ]
-      },
-      {
-        "name": "Goodbye, Sol: A Voyage To The End Of Spacetime And Back",
-        "year": "2014",
-        "genres": [
-          "Drone Metal",
-          "Dark Ambient"
-        ]
-      },
-      {
-        "name": "Lunar 2",
-        "year": "2016",
-        "genres": [
-          "Drone Metal",
-          "Dark Ambient"
-        ]
-      },
-      {
-        "name": "Solar 2",
-        "year": "2016",
-        "genres": [
-          "Drone Metal",
-          "Dark Ambient"
-        ]
-      },
-      {
-        "name": "Dark Matter",
-        "year": "2018",
-        "genres": [
-          "Drone Metal",
-          "Dark Ambient"
-        ]
-      }
-    ],
-    "tags": [
-      "Drone Metal",
-      "Dark Ambient"
-    ]
-  },
-  {
     "normalizedName": "nailgunmassacre",
     "displayName": "Nailgun Massacre",
     "albums": [
@@ -3182,6 +3166,88 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "nænøcybbœrgvberrħolokaavsŧ",
+    "displayName": "Nǽnøĉÿbbœrğ Vbëřřħōlökäävsŧ",
+    "albums": [
+      {
+        "name": "Stars: A Comparative Study Of Astroillumination And Four Dimensional Spacetime",
+        "year": "2007",
+        "genres": [
+          "Drone Metal",
+          "Dark Ambient"
+        ]
+      },
+      {
+        "name": "The Ultimate Fate Of The Universe",
+        "year": "2007",
+        "genres": [
+          "Drone Metal",
+          "Dark Ambient"
+        ]
+      },
+      {
+        "name": "Lunar",
+        "year": "2008",
+        "genres": [
+          "Drone Metal",
+          "Dark Ambient"
+        ]
+      },
+      {
+        "name": "Solar",
+        "year": "2008",
+        "genres": [
+          "Drone Metal",
+          "Dark Ambient"
+        ]
+      },
+      {
+        "name": "Eternal Darkness Vortex",
+        "year": "2009",
+        "genres": [
+          "Drone Metal",
+          "Dark Ambient"
+        ]
+      },
+      {
+        "name": "Goodbye, Sol: A Voyage To The End Of Spacetime And Back",
+        "year": "2014",
+        "genres": [
+          "Drone Metal",
+          "Dark Ambient"
+        ]
+      },
+      {
+        "name": "Lunar 2",
+        "year": "2016",
+        "genres": [
+          "Drone Metal",
+          "Dark Ambient"
+        ]
+      },
+      {
+        "name": "Solar 2",
+        "year": "2016",
+        "genres": [
+          "Drone Metal",
+          "Dark Ambient"
+        ]
+      },
+      {
+        "name": "Dark Matter",
+        "year": "2018",
+        "genres": [
+          "Drone Metal",
+          "Dark Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Drone Metal",
+      "Dark Ambient"
     ]
   },
   {
@@ -3631,6 +3697,18 @@
     "tags": [
       "Symphonic Metal"
     ]
+  },
+  {
+    "normalizedName": "seasleeper",
+    "displayName": "Sea Sleeper",
+    "albums": [
+      {
+        "name": "Burden Of Antlers",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "shadowcult",
@@ -4155,6 +4233,16 @@
         "genres": [
           "Glam Metal"
         ]
+      },
+      {
+        "name": "The Answer Re-Release",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Live At The Capitol (Hannover 1991)",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4588,6 +4676,22 @@
     "tags": [
       "Doom Death",
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "wuldor",
+    "displayName": "Wuldor",
+    "albums": [
+      {
+        "name": "Ýdalir",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

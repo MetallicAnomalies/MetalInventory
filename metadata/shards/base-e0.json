@@ -539,6 +539,22 @@
     ]
   },
   {
+    "normalizedName": "carnageofsatan",
+    "displayName": "Carnage of Satan",
+    "albums": [
+      {
+        "name": "Carnage of Satan",
+        "year": "2026",
+        "genres": [
+          "Blackened Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "catacombs",
     "displayName": "Catacombs",
     "albums": [
@@ -2173,6 +2189,24 @@
     ]
   },
   {
+    "normalizedName": "kharaojuun",
+    "displayName": "Khara Ojuun",
+    "albums": [
+      {
+        "name": "Shamanic Visions",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Pagan Black Metal",
+          "Pagan Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Pagan Black Metal",
+      "Pagan Black Metal"
+    ]
+  },
+  {
     "normalizedName": "kivimetsandruidi",
     "displayName": "Kivimetsän Druidi",
     "origin": "FI",
@@ -2232,6 +2266,18 @@
     "tags": [
       "Symphonic Power"
     ]
+  },
+  {
+    "normalizedName": "lazara",
+    "displayName": "Lazara",
+    "albums": [
+      {
+        "name": "Lazara EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "letalsolaris",
@@ -2396,6 +2442,22 @@
     ],
     "tags": [
       "Atmospheric Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "magdalene",
+    "displayName": "Magdalene",
+    "albums": [
+      {
+        "name": "Ashen",
+        "year": "2026",
+        "genres": [
+          "Blackened Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Sludge Metal"
     ]
   },
   {
@@ -2696,6 +2758,11 @@
           "Post-Metal",
           "Hardcore Metal"
         ]
+      },
+      {
+        "name": "Rheia (Redux)",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3752,6 +3819,11 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Hoist The Colours High",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4056,6 +4128,11 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Vessel Of Light Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4120,10 +4197,31 @@
         "genres": [
           "Blackened Death Metal"
         ]
+      },
+      {
+        "name": "Grim Dark Execution",
+        "year": "2026",
+        "genres": [
+          "Black Noise",
+          "Death Metal",
+          "Noise"
+        ]
+      },
+      {
+        "name": "Elegy of the Necrochosen",
+        "year": "2026",
+        "genres": [
+          "Black Noise",
+          "Death Metal",
+          "Noise"
+        ]
       }
     ],
     "tags": [
-      "Blackened Death Metal"
+      "Blackened Death Metal",
+      "Black Noise",
+      "Death Metal",
+      "Noise"
     ]
   },
   {

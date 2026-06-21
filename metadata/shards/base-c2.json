@@ -1477,11 +1477,20 @@
           "Heavy Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "冥王と慈愛の天使 (When the Angel Fell for the Devil)",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Power Metal"
+      "Power Metal",
+      "Heavy Power Metal"
     ]
   },
   {
@@ -3111,6 +3120,11 @@
         "genres": [
           "Melodic Metalcore"
         ]
+      },
+      {
+        "name": "Decades",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4077,6 +4091,24 @@
     ]
   },
   {
+    "normalizedName": "sanctzepist",
+    "displayName": "Sanctzepist",
+    "albums": [
+      {
+        "name": "The Ones Fleeing into Perdition",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "sandaura",
     "displayName": "Sand Aura",
     "albums": [
@@ -4304,6 +4336,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "spodgor",
+    "displayName": "Spod gór",
+    "albums": [
+      {
+        "name": "Gdzie śpiewają ptaki",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {

@@ -184,6 +184,11 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Teutonic Titans 1976-2026",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -618,6 +623,18 @@
       "Post-Metal",
       "Post-Rock"
     ]
+  },
+  {
+    "normalizedName": "balashtoth",
+    "displayName": "BalashToth",
+    "albums": [
+      {
+        "name": "Equation II – The Antithesis Of Life And Free Will",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "bastille",
@@ -1211,6 +1228,22 @@
     ]
   },
   {
+    "normalizedName": "emotionallybedridden",
+    "displayName": "Emotionally Bedridden",
+    "albums": [
+      {
+        "name": "Meaningless Pursuit of Life",
+        "year": "2026",
+        "genres": [
+          "Funeral Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Funeral Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "empirestatebastard",
     "displayName": "Empire State Bastard",
     "albums": [
@@ -1673,6 +1706,24 @@
       "Downtempo",
       "Electronic",
       "Pop"
+    ]
+  },
+  {
+    "normalizedName": "grohiik",
+    "displayName": "Grohiik",
+    "albums": [
+      {
+        "name": "Subconscious: No, I'm Not a Human",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Post-Black Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Post-Black Metal",
+      "Post-Black Metal"
     ]
   },
   {
@@ -2807,6 +2858,11 @@
           "Post-Rock",
           "Atmospheric Rock"
         ]
+      },
+      {
+        "name": "You Be Good, I Love You",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3110,6 +3166,11 @@
           "Thrash Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Epoch Inhumane",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3484,6 +3545,24 @@
         "genres": [
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "The Early Relics",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal",
+          "Progressive Death Metal"
+        ]
+      },
+      {
+        "name": "Bangkok Bloodshed",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal",
+          "Progressive Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3493,7 +3572,8 @@
       "Technical Death Metal",
       "Experimental Metal",
       "Progressive Metal",
-      "Grindcore"
+      "Grindcore",
+      "Death Thrash Metal"
     ]
   },
   {
@@ -3511,6 +3591,22 @@
     ],
     "tags": [
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "phlegethontemple",
+    "displayName": "Phlegethon Temple",
+    "albums": [
+      {
+        "name": "Crossing the Ancient Empire of Mysticism",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {
@@ -3719,6 +3815,24 @@
     "tags": [
       "Melodic Death Metal",
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "sanglot",
+    "displayName": "Sanglot",
+    "albums": [
+      {
+        "name": "Onatchiway",
+        "year": "2026",
+        "genres": [
+          "Depressive Post-Black Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Post-Black Metal",
+      "Post-Black Metal"
     ]
   },
   {
@@ -4696,6 +4810,18 @@
     ]
   },
   {
+    "normalizedName": "tokiohotel",
+    "displayName": "Tokio Hotel",
+    "albums": [
+      {
+        "name": "Encore",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "tommorello",
     "displayName": "Tom Morello",
     "origin": "US",
@@ -4998,6 +5124,7 @@
     "tags": [
       "Black Metal",
       "Blackened Doom Metal"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

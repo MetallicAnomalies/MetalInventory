@@ -671,11 +671,25 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Pious Impiety EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Pious Impiety",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Brutal Death Metal",
-      "Death Metal"
+      "Death Metal",
+      "Metal"
     ]
   },
   {
@@ -1109,6 +1123,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Entrant tant de souffrance",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -1318,6 +1339,26 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "haxanking",
+    "displayName": "Häxänking",
+    "albums": [
+      {
+        "name": "Troubadoom",
+        "year": "2026",
+        "genres": [
+          "Thrash Death Metal",
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Death Metal",
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -3043,6 +3084,36 @@
     ]
   },
   {
+    "normalizedName": "ratspit",
+    "displayName": "Ratspit",
+    "albums": [
+      {
+        "name": "A Bowl of Brains... A Cup of Tears",
+        "year": "2026",
+        "genres": [
+          "Thrash Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Sludge Metal",
+      "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "redshift",
+    "displayName": "Redshift",
+    "albums": [
+      {
+        "name": "Down The Wire",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "resistancebel",
     "displayName": "Resistance (Bel)",
     "albums": [
@@ -3294,6 +3365,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Khronos Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3395,6 +3471,18 @@
     ]
   },
   {
+    "normalizedName": "shadowofjupiter",
+    "displayName": "Shadow Of Jupiter",
+    "albums": [
+      {
+        "name": "Bones",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "silverblood",
     "displayName": "Silverblood",
     "albums": [
@@ -3462,6 +3550,18 @@
     "tags": [
       "Power Metal"
     ]
+  },
+  {
+    "normalizedName": "strandedbychoice",
+    "displayName": "Stranded By Choice",
+    "albums": [
+      {
+        "name": "Marooned In Stone",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "strangersindeath",

@@ -524,6 +524,13 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Made In Hell",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -1320,6 +1327,22 @@
     ]
   },
   {
+    "normalizedName": "enfrenzied",
+    "displayName": "Enfrenzied",
+    "albums": [
+      {
+        "name": "Parasite Chamber",
+        "year": "2026",
+        "genres": [
+          "Technical Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Technical Death Metal"
+    ]
+  },
+  {
     "normalizedName": "equivoke",
     "displayName": "Equivoke",
     "albums": [
@@ -1702,6 +1725,22 @@
     "tags": [
       "Brutal Death Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "frostytorment",
+    "displayName": "Frosty Torment",
+    "albums": [
+      {
+        "name": "Chwała Słońcu, chwała ciemności",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3700,6 +3739,24 @@
     "tags": [
       "Deathcore",
       "Djent"
+    ]
+  },
+  {
+    "normalizedName": "razorcult",
+    "displayName": "Razorcult",
+    "albums": [
+      {
+        "name": "Enter the Cult",
+        "year": "2026",
+        "genres": [
+          "Thrash Speed Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Speed Metal",
+      "Speed Metal"
     ]
   },
   {

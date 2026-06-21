@@ -2589,6 +2589,18 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "The Anthropic Sophisms",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "The Anthropic Sophisms (On the Heights of Despair)",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2713,6 +2725,22 @@
     ],
     "tags": [
       "Us Power"
+    ]
+  },
+  {
+    "normalizedName": "irongate",
+    "displayName": "Irongate",
+    "albums": [
+      {
+        "name": "Imperecederos",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {
@@ -3406,6 +3434,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Searing Blood",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -3442,7 +3477,7 @@
     "albums": [
       {
         "name": "Avalanche",
-        "year": "2003-03-04",
+        "year": "2003",
         "genres": [
           "Alternative Rock",
           "Indie Rock",
@@ -3671,6 +3706,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "myprecioussolitude",
+    "displayName": "my precious solitude",
+    "albums": [
+      {
+        "name": "my precious solitude",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
     ]
   },
   {
@@ -4072,6 +4123,18 @@
       "Post-Black Metal",
       "Post-black Metal"
     ]
+  },
+  {
+    "normalizedName": "omitall",
+    "displayName": "Omit All",
+    "albums": [
+      {
+        "name": "Lights Up On The End Stage EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "phalanxusa",
@@ -4879,13 +4942,23 @@
           "Metalcore",
           "Deathcore"
         ]
+      },
+      {
+        "name": "Elements Volume I: The Abyssal Depths",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
       "Technical Death Metal",
       "Melodic Death Metal",
       "Metalcore",
-      "Deathcore"
+      "Deathcore",
+      "Death Metal"
     ]
   },
   {
@@ -5120,6 +5193,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "voorish",
+    "displayName": "Voorish",
+    "albums": [
+      {
+        "name": "Black Crows",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "vypera",

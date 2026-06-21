@@ -1,5 +1,23 @@
 [
   {
+    "normalizedName": "100demons",
+    "displayName": "100 Demons",
+    "albums": [
+      {
+        "name": "Embrace The Black Light",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "abatuar",
     "displayName": "Abatuar",
     "origin": "PA",
@@ -131,12 +149,28 @@
         "genres": [
           "Blackened Thrash Metal"
         ]
+      },
+      {
+        "name": "The Temples Of Offal/Return Of The Ancients 35th Anniversary Edition",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "The Temples of Offal / Return of the Ancients - Remastered 35th Anniversary Edition",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Blackened Thrash Metal",
       "Death Metal",
-      "Black Metal"
+      "Black Metal",
+      "Black Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -174,6 +208,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "afallentheory",
+    "displayName": "A Fallen Theory",
+    "albums": [
+      {
+        "name": "2005 to 2009 Remasters",
+        "year": "2026",
+        "genres": [
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Deathcore"
     ]
   },
   {
@@ -1691,6 +1741,11 @@
         "genres": [
           "Goregrind"
         ]
+      },
+      {
+        "name": "The Mincecore Manifesto EP",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4130,6 +4185,18 @@
     "tags": [
       "Melodic Death Metal"
     ]
+  },
+  {
+    "normalizedName": "trace",
+    "displayName": "Trace",
+    "albums": [
+      {
+        "name": "Zero Hour EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "trenchgrinder",

@@ -105,6 +105,27 @@
     ]
   },
   {
+    "normalizedName": "aegeranima",
+    "displayName": "Aeger Anima",
+    "albums": [
+      {
+        "name": "The Falling Leaves EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "The Falling Leaves",
+        "year": "2026",
+        "genres": [
+          "Industrial Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Industrial Black Metal"
+    ]
+  },
+  {
     "normalizedName": "alapseofsolitude",
     "displayName": "A Lapse Of Solitude",
     "albums": [
@@ -1970,6 +1991,18 @@
     ]
   },
   {
+    "normalizedName": "lockhart",
+    "displayName": "Lockhart",
+    "albums": [
+      {
+        "name": "City Pulse",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "marblecarrion",
     "displayName": "Marble Carrion",
     "albums": [
@@ -2094,6 +2127,22 @@
     "tags": [
       "Death Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "mossystone",
+    "displayName": "Mossystone",
+    "albums": [
+      {
+        "name": "Paysages Tristes",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {
@@ -2351,6 +2400,29 @@
       "Rock",
       "Disco",
       "Funk"
+    ]
+  },
+  {
+    "normalizedName": "niveous",
+    "displayName": "Niveous",
+    "albums": [
+      {
+        "name": "Cult of the Void Star",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Servants of the Monolith",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -2699,6 +2771,18 @@
     ]
   },
   {
+    "normalizedName": "reicodezero",
+    "displayName": "Rei Code Zero",
+    "albums": [
+      {
+        "name": "Chronicles",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "rickrenstrom",
     "displayName": "Rick Renstrom",
     "albums": [
@@ -2713,6 +2797,18 @@
     "tags": [
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "risingalma",
+    "displayName": "Rising Alma",
+    "albums": [
+      {
+        "name": "Your Own Story EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "roomeleven",
@@ -3231,6 +3327,24 @@
     ]
   },
   {
+    "normalizedName": "steelion",
+    "displayName": "Steelion",
+    "albums": [
+      {
+        "name": "Mind Breaker",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "stormwind",
     "displayName": "Stormwind",
     "albums": [
@@ -3486,6 +3600,22 @@
     ],
     "tags": [
       "Progressive Thrash"
+    ]
+  },
+  {
+    "normalizedName": "unholycalamity",
+    "displayName": "Unholy Calamity",
+    "albums": [
+      {
+        "name": "Morning Star Movement",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

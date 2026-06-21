@@ -407,6 +407,22 @@
     ]
   },
   {
+    "normalizedName": "apostasus",
+    "displayName": "Apostasus",
+    "albums": [
+      {
+        "name": "Że ciało",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Avant-garde Black Metal"
+    ]
+  },
+  {
     "normalizedName": "arbitrater",
     "displayName": "Arbitrater",
     "albums": [
@@ -1719,14 +1735,16 @@
         "genres": [
           "Heavy Metal",
           "Progressive Metal"
-        ]
+        ],
+        "year": "2022"
       },
       {
         "name": "Embers",
         "genres": [
           "Heavy Metal",
           "Progressive Metal"
-        ]
+        ],
+        "year": "2022"
       },
       {
         "name": "Inferno (Feat. Oəlka)",
@@ -2347,6 +2365,22 @@
     ]
   },
   {
+    "normalizedName": "molh",
+    "displayName": "Molh",
+    "albums": [
+      {
+        "name": "Dream of the Mounds",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "moonscar",
     "displayName": "MoonScar",
     "origin": "GR",
@@ -2560,10 +2594,20 @@
         "genres": [
           "Blackened Death Metal"
         ]
+      },
+      {
+        "name": "Abhorrent Misery of Frozen Existence",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Blackened Death Metal"
+      "Blackened Death Metal",
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -3072,6 +3116,22 @@
     ]
   },
   {
+    "normalizedName": "santacora",
+    "displayName": "Santa Cora",
+    "albums": [
+      {
+        "name": "Celestial",
+        "year": "2026",
+        "genres": [
+          "Symphonic Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "sarcasm",
     "displayName": "Sarcasm",
     "origin": "SE",
@@ -3164,13 +3224,26 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Lifeforce Omnibound",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal",
+          "Melodic Death Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
       "Thrash Metal",
       "Speed Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Black Metal",
+      "Melodic Death Metal",
+      "Metal"
     ]
   },
   {
@@ -4449,6 +4522,22 @@
     ],
     "tags": [
       "Groove Thrash"
+    ]
+  },
+  {
+    "normalizedName": "xeria",
+    "displayName": "Xeria",
+    "albums": [
+      {
+        "name": "Arena entre los dedos",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Metal"
     ]
   }
 ]

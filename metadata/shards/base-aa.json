@@ -497,6 +497,24 @@
     ]
   },
   {
+    "normalizedName": "bloodyrun",
+    "displayName": "Bloody Run",
+    "albums": [
+      {
+        "name": "The Philosopher",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "bowelstew",
     "displayName": "Bowel Stew",
     "origin": "IT",
@@ -1382,6 +1400,11 @@
           "Hard Rock",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Doro Live Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2391,7 +2414,7 @@
       },
       {
         "name": "Veneer",
-        "year": "2013-01-01",
+        "year": "2003",
         "genres": [
           "Acoustic",
           "Folk, World, & Country"
@@ -2730,6 +2753,18 @@
       "Groove Metal",
       "Metalcore"
     ]
+  },
+  {
+    "normalizedName": "melting",
+    "displayName": "Melting",
+    "albums": [
+      {
+        "name": "A Pathetic Excuse For A Life EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "metalallegiance",
@@ -4236,12 +4271,154 @@
           "Speed Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Off to the Races Shred",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Scotland Bonnie Lass",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Bach's La Folia Peasant Cantata",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "La Folia Handel Bach Vivaldi",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Blaydon Races Guitar",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Scottish Fantasy Bruch",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Sexy Devil",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Beethoven on Hyperspeed",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Hyperspeed",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Wait for the Wagon Guitar",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Wild West",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Tchaikovsky for Metalheads",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Vivaldi's La Follia",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Apocalyptic Bruckner",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
       }
     ],
     "tags": [
       "Neoclassical Heavy",
       "Speed Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Speed Thrash Metal",
+      "Shred"
     ]
   },
   {
@@ -4290,6 +4467,11 @@
           "Pop Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Part 1: Funeral Songs EP",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4549,6 +4731,24 @@
     "tags": [
       "New Wave Of British Heavy",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "trigonummortis",
+    "displayName": "Trigonum Mortis",
+    "albums": [
+      {
+        "name": "Antinferno",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -4999,6 +5199,22 @@
     ],
     "tags": [
       "Technical Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "旭日章",
+    "displayName": "旭日章",
+    "albums": [
+      {
+        "name": "バンバン (Nancy Sinatra Cover)",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   }
 ]

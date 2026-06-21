@@ -425,7 +425,8 @@
     ],
     "tags": [
       "Crust Punk"
-    ]
+    ],
+    "origin": "IS"
   },
   {
     "normalizedName": "beecher",
@@ -1330,6 +1331,40 @@
     ]
   },
   {
+    "normalizedName": "desolationtemple",
+    "displayName": "Desolation Temple",
+    "albums": [
+      {
+        "name": "Catedral de Sangue",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "devilgoat",
+    "displayName": "Devilgoat",
+    "albums": [
+      {
+        "name": "LET THIS ONE BE THE DEVIL",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Punk"
+    ]
+  },
+  {
     "normalizedName": "dimnessthroughinfinity",
     "displayName": "Dimness Through Infinity",
     "albums": [
@@ -2087,6 +2122,11 @@
           "Deathcore",
           "Death Metal"
         ]
+      },
+      {
+        "name": "4th Attempt: Deathgaze",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4653,7 +4693,8 @@
       "Synth-pop",
       "Black Metal",
       "Experimental Metal"
-    ]
+    ],
+    "origin": "PL"
   },
   {
     "normalizedName": "whereshewept",

@@ -677,11 +677,22 @@
           "Black Metal",
           "Death Doom Metal"
         ]
+      },
+      {
+        "name": "Cosmic Vertigo",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Black Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -1218,6 +1229,18 @@
       "Progressive Rock",
       "Avantgarde Metal"
     ]
+  },
+  {
+    "normalizedName": "complexant",
+    "displayName": "Complexant",
+    "albums": [
+      {
+        "name": "Apex",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "confronto",
@@ -2360,6 +2383,26 @@
     ]
   },
   {
+    "normalizedName": "hatecrusade",
+    "displayName": "Hate Crusade",
+    "albums": [
+      {
+        "name": "Scorn",
+        "year": "2026",
+        "genres": [
+          "Black Grindcore",
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Grindcore",
+      "Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "hayehudim",
     "displayName": "Hayehudim",
     "origin": "IL",
@@ -2684,6 +2727,18 @@
       "Thrash Metal",
       "Hardcore Metal"
     ]
+  },
+  {
+    "normalizedName": "ixofblades",
+    "displayName": "IX Of Blades",
+    "albums": [
+      {
+        "name": "Way Of The Midnight Wave",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "joopwolters",
@@ -3317,6 +3372,24 @@
       "Blackened Heavy",
       "Blackened Thrash Metal",
       "Crossover Thrash"
+    ]
+  },
+  {
+    "normalizedName": "noye",
+    "displayName": "Noye",
+    "albums": [
+      {
+        "name": "Сain",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Sludge Post-Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Sludge Post-Metal",
+      "Post-Metal"
     ]
   },
   {
@@ -4164,61 +4237,104 @@
     ]
   },
   {
-    "normalizedName": "sørgelig",
-    "displayName": "Sørgelig",
+    "normalizedName": "soulers",
+    "displayName": "Soulers",
     "albums": [
       {
-        "name": "Forever Lost",
-        "year": "2017",
+        "name": "Parts 36-40",
+        "year": "2026",
         "genres": [
-          "Black Metal"
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
         ]
       },
       {
-        "name": "Apostate",
-        "year": "2018",
+        "name": "Parts 31-35",
+        "year": "2026",
         "genres": [
-          "Black Metal"
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
         ]
       },
       {
-        "name": "Devoted To Nothingness",
-        "year": "2019",
+        "name": "Parts 26-30",
+        "year": "2026",
         "genres": [
-          "Black Metal"
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
         ]
       },
       {
-        "name": "We, The Oblivious",
-        "year": "2019",
+        "name": "Parts 21-25",
+        "year": "2026",
         "genres": [
-          "Black Metal"
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
         ]
       },
       {
-        "name": "Sørgelig",
-        "year": "2020",
+        "name": "Parts 16-20",
+        "year": "2026",
         "genres": [
-          "Black Metal"
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
         ]
       },
       {
-        "name": "Slaves Of Tomorrow",
-        "year": "2021",
+        "name": "Parts 11-15",
+        "year": "2026",
         "genres": [
-          "Black Metal"
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
         ]
       },
       {
-        "name": "φθορά",
-        "year": "2024",
+        "name": "Parts 1-5",
+        "year": "2026",
         "genres": [
-          "Black Metal"
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      },
+      {
+        "name": "Messages I Can't Scream",
+        "year": "2026",
+        "genres": [
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      },
+      {
+        "name": "The Tormented Bards Division",
+        "year": "2026",
+        "genres": [
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      },
+      {
+        "name": "Retribution of the Horned One",
+        "year": "2026",
+        "genres": [
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
         ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Drone Stoner Metal",
+      "Doom Stoner Metal",
+      "Stoner Metal"
     ]
   },
   {
@@ -4472,6 +4588,64 @@
     ],
     "tags": [
       "Melodic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "sørgelig",
+    "displayName": "Sørgelig",
+    "albums": [
+      {
+        "name": "Forever Lost",
+        "year": "2017",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Apostate",
+        "year": "2018",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Devoted To Nothingness",
+        "year": "2019",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "We, The Oblivious",
+        "year": "2019",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Sørgelig",
+        "year": "2020",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Slaves Of Tomorrow",
+        "year": "2021",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "φθορά",
+        "year": "2024",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

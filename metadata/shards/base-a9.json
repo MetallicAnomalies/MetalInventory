@@ -94,6 +94,24 @@
     ]
   },
   {
+    "normalizedName": "abascaban",
+    "displayName": "Abascaban",
+    "albums": [
+      {
+        "name": "Rat King",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "adifferentbreedofkiller",
     "displayName": "A Different Breed Of Killer",
     "origin": "US",
@@ -1140,6 +1158,24 @@
     ]
   },
   {
+    "normalizedName": "clubbedpenguin",
+    "displayName": "Clubbed Penguin",
+    "albums": [
+      {
+        "name": "Bonk",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "confinedtooblivion",
     "displayName": "Confined To Oblivion",
     "albums": [
@@ -2058,6 +2094,22 @@
     ]
   },
   {
+    "normalizedName": "eschatonholocaust",
+    "displayName": "Eschaton Holocaust",
+    "albums": [
+      {
+        "name": "Katabasis Ultima",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "exsanguinment",
     "displayName": "Exsanguinment",
     "albums": [
@@ -2212,7 +2264,7 @@
       },
       {
         "name": "Bad Blood",
-        "year": "2020-03-06",
+        "year": "2020",
         "genres": [
           "Rock"
         ]
@@ -2486,6 +2538,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Íosir",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2663,13 +2722,22 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "The Corpse of a Titan, A Lament Long Buried",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Symphonic Black Metal",
       "Blackened Death Metal",
       "Melodic Black Metal",
-      "Black Metal"
+      "Black Metal",
+      "Metal"
     ]
   },
   {
@@ -4002,6 +4070,18 @@
     ]
   },
   {
+    "normalizedName": "misterearthbound",
+    "displayName": "Mister Earthbound",
+    "albums": [
+      {
+        "name": "Litha EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "mortiferum",
     "displayName": "Mortiferum",
     "origin": "US",
@@ -4057,6 +4137,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "mustasuru",
+    "displayName": "Musta Suru",
+    "albums": [
+      {
+        "name": "Viimeinen viilto",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {
@@ -4699,7 +4795,7 @@
       },
       {
         "name": "News Of The World",
-        "year": "2009-03-03",
+        "year": "1977",
         "genres": [
           "Glam Metal",
           "Pop Rock",
@@ -4709,7 +4805,7 @@
       },
       {
         "name": "The Game",
-        "year": "2009-03-03",
+        "year": "1980",
         "genres": [
           "Synth-pop",
           "Pop Rock",
@@ -4718,7 +4814,7 @@
       },
       {
         "name": "A Night At The Opera",
-        "year": "2009-11-11",
+        "year": "1975",
         "genres": [
           "Pop Rock",
           "Rock"
@@ -4812,6 +4908,18 @@
     ]
   },
   {
+    "normalizedName": "reddwarfstar",
+    "displayName": "Red Dwarf Star",
+    "albums": [
+      {
+        "name": "Red Dwarf Star",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "roswelldeathsquad",
     "displayName": "Roswell Deathsquad",
     "albums": [
@@ -4827,6 +4935,22 @@
     "tags": [
       "Progressive Death Metal",
       "Technical Deathcore"
+    ]
+  },
+  {
+    "normalizedName": "satyriasis",
+    "displayName": "Satyriasis",
+    "albums": [
+      {
+        "name": "Lamentations of the Godslayer",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -5238,6 +5362,13 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Expand Crimson Chaos",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -5271,6 +5402,24 @@
       "Doom Metal",
       "Heavy Metal",
       "Stoner Metal"
+    ]
+  },
+  {
+    "normalizedName": "stormbreaker",
+    "displayName": "Stormbreaker",
+    "albums": [
+      {
+        "name": "Stormageddon",
+        "year": "2026",
+        "genres": [
+          "Symphonic Melodic Groove Metal",
+          "Melodic Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Melodic Groove Metal",
+      "Melodic Groove Metal"
     ]
   },
   {
@@ -6005,6 +6154,24 @@
     ],
     "tags": [
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "摩天楼オヘラ",
+    "displayName": "摩天楼オペラ",
+    "albums": [
+      {
+        "name": "Cinematographe",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Power Metal",
+      "Hard Rock"
     ]
   }
 ]

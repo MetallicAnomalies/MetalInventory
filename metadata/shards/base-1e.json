@@ -1339,6 +1339,26 @@
     ]
   },
   {
+    "normalizedName": "devilmoon",
+    "displayName": "Devilmoon",
+    "albums": [
+      {
+        "name": "Infatuation",
+        "year": "2026",
+        "genres": [
+          "Thrash Black Metal",
+          "Death Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Black Metal",
+      "Death Black Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "dodgy",
     "displayName": "Dodgy",
     "origin": "GB",
@@ -1435,6 +1455,27 @@
     ],
     "tags": [
       "Blackened Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "dragsholm",
+    "displayName": "Dragsholm",
+    "albums": [
+      {
+        "name": "From The Bloodlines Of Bram",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "The Wandering Relic",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -2270,6 +2311,18 @@
     "tags": [
       "Hard Rock"
     ]
+  },
+  {
+    "normalizedName": "hyenarisingfall",
+    "displayName": "Hyena/Risingfall",
+    "albums": [
+      {
+        "name": "Heavy Metal Heroes Split EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "idolatry",
@@ -3547,6 +3600,13 @@
       {
         "name": "Awakening",
         "year": "2019",
+        "genres": [
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Live at Wacken",
+        "year": "2026",
         "genres": [
           "Thrash Metal"
         ]
@@ -5062,6 +5122,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Naturens Skrik",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -5392,6 +5457,24 @@
     "tags": [
       "Melodic Black Metal",
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "wizardsaltar",
+    "displayName": "Wizard's Altar",
+    "albums": [
+      {
+        "name": "From the Mountain's Shadow",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Various"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Various"
     ]
   },
   {

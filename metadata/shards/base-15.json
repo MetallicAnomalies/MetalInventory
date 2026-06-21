@@ -838,6 +838,11 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "二次元コンプレックス 2D Complex",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -876,43 +881,6 @@
     ],
     "tags": [
       "Thrash Metal"
-    ]
-  },
-  {
-    "normalizedName": "dødkvlt",
-    "displayName": "Dødkvlt",
-    "albums": [
-      {
-        "name": "I",
-        "year": "2009",
-        "genres": [
-          "Experimental Black"
-        ]
-      },
-      {
-        "name": "Ii",
-        "year": "2011",
-        "genres": [
-          "Experimental Black"
-        ]
-      },
-      {
-        "name": "Iii: Domĭni Ascensiōnem",
-        "year": "2012",
-        "genres": [
-          "Experimental Black"
-        ]
-      },
-      {
-        "name": "Iv: You Sought The Truth Only To Find Death",
-        "year": "2016",
-        "genres": [
-          "Experimental Black"
-        ]
-      }
-    ],
-    "tags": [
-      "Experimental Black"
     ]
   },
   {
@@ -978,6 +946,44 @@
     "tags": [
       "Hardcore Metal"
     ]
+  },
+  {
+    "normalizedName": "dødkvlt",
+    "displayName": "Dødkvlt",
+    "albums": [
+      {
+        "name": "I",
+        "year": "2009",
+        "genres": [
+          "Experimental Black"
+        ]
+      },
+      {
+        "name": "Ii",
+        "year": "2011",
+        "genres": [
+          "Experimental Black"
+        ]
+      },
+      {
+        "name": "Iii: Domĭni Ascensiōnem",
+        "year": "2012",
+        "genres": [
+          "Experimental Black"
+        ]
+      },
+      {
+        "name": "Iv: You Sought The Truth Only To Find Death",
+        "year": "2016",
+        "genres": [
+          "Experimental Black"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Black"
+    ],
+    "origin": "FR"
   },
   {
     "normalizedName": "editor",
@@ -1561,6 +1567,18 @@
     ]
   },
   {
+    "normalizedName": "gorgonaut",
+    "displayName": "Gorgonaut",
+    "albums": [
+      {
+        "name": "Ayame EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "gorgonfraidf",
     "displayName": "Gorgon (Fra-idf)",
     "albums": [
@@ -1986,11 +2004,20 @@
           "Us Power",
           "Speed Metal"
         ]
+      },
+      {
+        "name": "Covered in Dirt",
+        "year": "2026",
+        "genres": [
+          "Heavy Speed Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
       "Us Power",
-      "Speed Metal"
+      "Speed Metal",
+      "Heavy Speed Metal"
     ]
   },
   {
@@ -2930,6 +2957,11 @@
         "genres": [
           "Modern Classical"
         ]
+      },
+      {
+        "name": "Empyrean",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3026,6 +3058,18 @@
       "Pop",
       "Vocal"
     ]
+  },
+  {
+    "normalizedName": "ruyned",
+    "displayName": "Ruyned",
+    "albums": [
+      {
+        "name": "Profanum Sacrificium",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "sacrilegiousrite",
@@ -4177,6 +4221,24 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "vocalgym",
+    "displayName": "Vocal Gym",
+    "albums": [
+      {
+        "name": "Chronicles VIII",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Metal",
+      "Metalcore"
     ]
   },
   {

@@ -1237,6 +1237,18 @@
     ]
   },
   {
+    "normalizedName": "corella",
+    "displayName": "Corella",
+    "albums": [
+      {
+        "name": "A Beautiful World To Lose",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "countraven",
     "displayName": "Count Raven",
     "origin": "US",
@@ -1387,6 +1399,22 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "curveless",
+    "displayName": "Curveless",
+    "albums": [
+      {
+        "name": "A Place I Never Left",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metal"
     ]
   },
   {
@@ -1758,7 +1786,7 @@
       },
       {
         "name": "The Question",
-        "year": "2005-08-02",
+        "year": "2005",
         "genres": [
           "Alternative Rock",
           "Post-hardcore"
@@ -1773,7 +1801,7 @@
       },
       {
         "name": "...In Shallow Seas We Sail",
-        "year": "2009-06-02",
+        "year": "2009",
         "genres": [
           "Alternative Rock",
           "Post-hardcore"
@@ -1788,7 +1816,7 @@
       },
       {
         "name": "We Do What We Want",
-        "year": "2011-03-22",
+        "year": "2011",
         "genres": [
           "Hardcore Metal"
         ]
@@ -2302,6 +2330,22 @@
     "tags": [
       "Death Metal",
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "haloofteeth",
+    "displayName": "Halo of Teeth",
+    "albums": [
+      {
+        "name": "Meditations on Dying",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal"
     ]
   },
   {
@@ -3001,6 +3045,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Live In Marseille 2000 Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3251,6 +3300,24 @@
       "Alternative Rock",
       "Pop Punk",
       "Post-hardcore"
+    ]
+  },
+  {
+    "normalizedName": "nanking",
+    "displayName": "Nanking",
+    "albums": [
+      {
+        "name": "Promo 2026",
+        "year": "2026",
+        "genres": [
+          "Raw Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -4286,10 +4353,31 @@
         "genres": [
           "Death Doom Metal"
         ]
+      },
+      {
+        "name": "Breathing Cargo",
+        "year": "2026",
+        "genres": [
+          "Gothic Death Metal",
+          "Doom Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "May",
+        "year": "2026",
+        "genres": [
+          "Gothic Death Metal",
+          "Doom Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Gothic Death Metal",
+      "Doom Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -4377,6 +4465,18 @@
       "Rock",
       "Hard Rock"
     ]
+  },
+  {
+    "normalizedName": "thedharmachain",
+    "displayName": "The Dharma Chain",
+    "albums": [
+      {
+        "name": "Some Kind Of Pure State",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "themachete",

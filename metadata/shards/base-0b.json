@@ -416,7 +416,7 @@
       },
       {
         "name": "The Reckoning",
-        "year": "2008-01-14",
+        "year": "2008",
         "genres": [
           "Folk Rock",
           "Blues Rock",
@@ -457,7 +457,7 @@
       },
       {
         "name": "Different Pulses",
-        "year": "2012-09-09",
+        "year": "2012",
         "genres": [
           "Electronic",
           "Tribal House"
@@ -861,6 +861,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "cryptstalker",
+    "displayName": "Cryptstalker",
+    "albums": [
+      {
+        "name": "Parables of Grotesque Punishment",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {
@@ -1507,7 +1525,7 @@
     "albums": [
       {
         "name": "I Am Your Gummy Bear",
-        "year": "2022-11-11",
+        "year": "2007",
         "genres": [
           "Europop",
           "Dance-pop",
@@ -2284,6 +2302,24 @@
     "tags": [
       "Death Metal",
       "Grindcore"
+    ]
+  },
+  {
+    "normalizedName": "mentalfuneral",
+    "displayName": "Mental Funeral",
+    "albums": [
+      {
+        "name": "II",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -3287,6 +3323,18 @@
     ]
   },
   {
+    "normalizedName": "shaneembury",
+    "displayName": "Shane Embury",
+    "albums": [
+      {
+        "name": "Bridge To Resolution",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "sideburn",
     "displayName": "Sideburn",
     "albums": [
@@ -3394,6 +3442,18 @@
     "tags": [
       "Symphonic Black Metal"
     ]
+  },
+  {
+    "normalizedName": "stupidity",
+    "displayName": "Stupidity",
+    "albums": [
+      {
+        "name": "Beyond Stupidity",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "syufromgalneryus",
@@ -4191,6 +4251,24 @@
     ],
     "tags": [
       "Progressive Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "æthruk",
+    "displayName": "Æthruk",
+    "albums": [
+      {
+        "name": "Passage to the Aurora",
+        "year": "2026",
+        "genres": [
+          "Post-Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Doom Metal",
+      "Doom Metal"
     ]
   }
 ]

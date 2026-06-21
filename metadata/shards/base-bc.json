@@ -1609,6 +1609,18 @@
     ]
   },
   {
+    "normalizedName": "hexdivided",
+    "displayName": "Hex Divided",
+    "albums": [
+      {
+        "name": "Hex Divided I EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "hibria",
     "displayName": "Hibria",
     "origin": "BR",
@@ -2144,6 +2156,24 @@
     ]
   },
   {
+    "normalizedName": "majestat",
+    "displayName": "Majestat",
+    "albums": [
+      {
+        "name": "Koronacja",
+        "year": "2026",
+        "genres": [
+          "Heavy Speed Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Speed Metal",
+      "Speed Metal"
+    ]
+  },
+  {
     "normalizedName": "majesticdimension",
     "displayName": "Majestic Dimension",
     "albums": [
@@ -2431,6 +2461,27 @@
     ]
   },
   {
+    "normalizedName": "mλke",
+    "displayName": "MΛKE",
+    "albums": [
+      {
+        "name": "Exegesis at the End of Time",
+        "year": "2026",
+        "genres": [
+          "Progressive Sludge Doom Metal",
+          "Post-Rock",
+          "Doom Metal",
+          "Post-Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Sludge Doom Metal",
+      "Post-Rock",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "nacruithne",
     "displayName": "Na Cruithne",
     "albums": [
@@ -2617,6 +2668,24 @@
     ]
   },
   {
+    "normalizedName": "petricor",
+    "displayName": "Petricor",
+    "albums": [
+      {
+        "name": "Heremita (777 Hz)",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal",
+      "Ambient"
+    ]
+  },
+  {
     "normalizedName": "phasetransition",
     "displayName": "Phase Transition",
     "albums": [
@@ -2653,6 +2722,32 @@
     ],
     "tags": [
       "Depressive Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "pvrgatorii",
+    "displayName": "Pvrgatorii",
+    "albums": [
+      {
+        "name": "From thee Core ov thee Dvngeon",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Punk"
+        ]
+      },
+      {
+        "name": "Profane Rites for Cursed Times",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Punk"
     ]
   },
   {
@@ -3001,7 +3096,7 @@
       },
       {
         "name": "The Singularity (Phase I - Neohumanity)",
-        "year": "2015-04-04",
+        "year": "2014",
         "genres": [
           "Death Metal"
         ]
@@ -3315,10 +3410,18 @@
         "genres": [
           "Symphonic Black Metal"
         ]
+      },
+      {
+        "name": "Sirius",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Black Metal"
+      "Symphonic Black Metal",
+      "Power Metal"
     ]
   },
   {
@@ -3490,7 +3593,7 @@
       },
       {
         "name": "Puolikas Ihminen",
-        "year": "2012-03-03",
+        "year": "2012",
         "genres": [
           "Thrash Metal",
           "Prog Rock"
@@ -3944,6 +4047,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "theyarecuttingmyarmsoff",
+    "displayName": "They Are Cutting My Arms Off",
+    "albums": [
+      {
+        "name": "Apparition",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
     ]
   },
   {

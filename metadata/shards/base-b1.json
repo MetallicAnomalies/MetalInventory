@@ -145,6 +145,26 @@
     ]
   },
   {
+    "normalizedName": "anaphylaxis",
+    "displayName": "Anaphylaxis",
+    "albums": [
+      {
+        "name": "Terminal Decomposition",
+        "year": "2026",
+        "genres": [
+          "Slam Grindcore",
+          "Brutal Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Grindcore",
+      "Brutal Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "anberlin",
     "displayName": "Anberlin",
     "origin": "US",
@@ -417,6 +437,13 @@
       {
         "name": "Midnight Sun",
         "year": "2023",
+        "genres": [
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Bulletproof",
+        "year": "2026",
         "genres": [
           "Metalcore"
         ]
@@ -738,6 +765,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Symphony Of Flesh",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1191,10 +1223,20 @@
         "genres": [
           "Industrial Death Metal"
         ]
+      },
+      {
+        "name": ".",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Symphonic Black Metal",
+          "Symphonic Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Industrial Death Metal"
+      "Industrial Death Metal",
+      "Atmospheric Symphonic Black Metal",
+      "Symphonic Black Metal"
     ]
   },
   {
@@ -1561,6 +1603,11 @@
         "genres": [
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Come This Madness",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1573,6 +1620,26 @@
       "Prog Rock",
       "AOR",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "fortification",
+    "displayName": "Fortification",
+    "albums": [
+      {
+        "name": "Don't Question My Authority",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Thrash Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -1666,10 +1733,28 @@
         "genres": [
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "Miasmic Solitude",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Melodic Death Metal",
+          "Progressive Death Metal",
+          "Progressive Metal",
+          "Thrash Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
-      "Technical Death Metal"
+      "Technical Death Metal",
+      "Death Metal",
+      "Melodic Death Metal",
+      "Progressive Death Metal",
+      "Progressive Metal",
+      "Thrash Metal",
+      "Metal"
     ]
   },
   {
@@ -2274,6 +2359,26 @@
     ],
     "tags": [
       "Blackened Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "kuzuknot",
+    "displayName": "Kuzu Knot",
+    "albums": [
+      {
+        "name": "Deceitful Above All Things",
+        "year": "2026",
+        "genres": [
+          "Hardcore Grindcore",
+          "Black Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Hardcore Grindcore",
+      "Black Metal",
+      "Grindcore"
     ]
   },
   {

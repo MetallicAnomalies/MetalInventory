@@ -1512,11 +1512,20 @@
           "Metalcore",
           "Hardcore Metal"
         ]
+      },
+      {
+        "name": "Armour Of Angels",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal"
+      "Hardcore Metal",
+      "Metal"
     ]
   },
   {
@@ -1752,6 +1761,11 @@
           "Metalcore",
           "Emo"
         ]
+      },
+      {
+        "name": "Modern Life Is Lonely",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2164,6 +2178,18 @@
     ]
   },
   {
+    "normalizedName": "liva",
+    "displayName": "Liva",
+    "albums": [
+      {
+        "name": "Ecce Mundus",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "lostinalaska",
     "displayName": "Lost In Alaska",
     "albums": [
@@ -2276,6 +2302,11 @@
           "Stoner Rock",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Live In Europe",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2398,6 +2429,26 @@
     ],
     "tags": [
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "mystifiercravenidol",
+    "displayName": "Mystifier/Craven Idol",
+    "albums": [
+      {
+        "name": "Demystification of the Fallen Idols",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Death Metal | Black Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Thrash Metal",
+      "Death Metal | Black Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -2964,6 +3015,11 @@
         "genres": [
           "Progressive Death Metal"
         ]
+      },
+      {
+        "name": "Boiled Alive",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4446,7 +4502,8 @@
     "tags": [
       "Heavy Metal",
       "Thrash Metal"
-    ]
+    ],
+    "origin": "RU"
   },
   {
     "normalizedName": "железныипоток",
@@ -4497,6 +4554,7 @@
     ],
     "tags": [
       "Thrash Metal"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

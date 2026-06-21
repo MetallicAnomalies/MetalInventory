@@ -100,43 +100,6 @@
     ]
   },
   {
-    "normalizedName": "æpoch",
-    "displayName": "æPoch",
-    "albums": [
-      {
-        "name": "æPochalypse",
-        "year": "2015",
-        "genres": [
-          "Progressive Death Metal"
-        ]
-      },
-      {
-        "name": "Awakening Inception",
-        "year": "2018",
-        "genres": [
-          "Progressive Death Metal"
-        ]
-      },
-      {
-        "name": "The Scryer",
-        "year": "2020",
-        "genres": [
-          "Progressive Death Metal"
-        ]
-      },
-      {
-        "name": "Hiraeth",
-        "year": "2021",
-        "genres": [
-          "Progressive Death Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Progressive Death Metal"
-    ]
-  },
-  {
     "normalizedName": "agnesobel",
     "displayName": "Agnes Obel",
     "origin": "DK",
@@ -695,6 +658,16 @@
         "genres": [
           "Progressive Power"
         ]
+      },
+      {
+        "name": "Faces Re-Release",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Pins And Needles Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1452,6 +1425,24 @@
       }
     ],
     "tags": [
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "goatkraft",
+    "displayName": "Goatkraft",
+    "albums": [
+      {
+        "name": "Barbed Wire Doctrine",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
       "Death Metal"
     ]
   },
@@ -3931,12 +3922,25 @@
           "Doom Metal",
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "Dungeon Descent",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Ɖungeon Ɖescent",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Post-Metal",
       "Doom Metal",
-      "Sludge Metal"
+      "Sludge Metal",
+      "Black Metal"
     ]
   },
   {
@@ -4194,6 +4198,51 @@
       "Progressive Power",
       "Folk Metal"
     ]
+  },
+  {
+    "normalizedName": "æpoch",
+    "displayName": "æPoch",
+    "albums": [
+      {
+        "name": "æPochalypse",
+        "year": "2015",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      },
+      {
+        "name": "Awakening Inception",
+        "year": "2018",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      },
+      {
+        "name": "The Scryer",
+        "year": "2020",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      },
+      {
+        "name": "Hiraeth",
+        "year": "2021",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      },
+      {
+        "name": "Æpochalypse MMXXVI",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Metal"
+    ],
+    "origin": "CA"
   },
   {
     "normalizedName": "אינדיילד",

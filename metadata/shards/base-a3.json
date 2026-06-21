@@ -276,6 +276,18 @@
     ]
   },
   {
+    "normalizedName": "artest",
+    "displayName": "Art|est",
+    "albums": [
+      {
+        "name": "Evil Embodiment",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "aspherium",
     "displayName": "Aspherium",
     "origin": "NO",
@@ -366,6 +378,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "No God, No Savior",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1014,6 +1031,22 @@
       "Hard Rock",
       "Symphonic Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "flowersforpersephone",
+    "displayName": "flowersforpersephone",
+    "albums": [
+      {
+        "name": "high heel complex",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
     ]
   },
   {
@@ -2539,6 +2572,11 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "Deathrace",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3313,6 +3351,11 @@
         "genres": [
           "Atmospheric Doom"
         ]
+      },
+      {
+        "name": "Graveyards Of Joy",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3773,6 +3816,7 @@
     ],
     "tags": [
       "Progressive Power"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

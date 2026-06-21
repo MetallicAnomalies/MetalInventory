@@ -46,6 +46,13 @@
         "genres": [
           "Post-Rock"
         ]
+      },
+      {
+        "name": "Solstice",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
       }
     ],
     "tags": [
@@ -55,7 +62,8 @@
       "Art Rock",
       "Pop",
       "Dream Pop",
-      "Gothic Metal"
+      "Gothic Metal",
+      "Metal"
     ]
   },
   {
@@ -999,6 +1007,18 @@
     ]
   },
   {
+    "normalizedName": "cemeteryecho",
+    "displayName": "Cemetery Echo",
+    "albums": [
+      {
+        "name": "Civitas Lacrimarum",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "chapelofdisease",
     "displayName": "Chapel of Disease",
     "origin": "DE",
@@ -1209,6 +1229,18 @@
     "tags": [
       "Power Metal"
     ]
+  },
+  {
+    "normalizedName": "diminishing",
+    "displayName": "Diminishing",
+    "albums": [
+      {
+        "name": "The Outcome",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "dirkscheele",
@@ -1445,6 +1477,18 @@
     "tags": [
       "Atmospheric Black Metal"
     ]
+  },
+  {
+    "normalizedName": "duir",
+    "displayName": "Duir",
+    "albums": [
+      {
+        "name": "Catarsi",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "elexorien",
@@ -1889,6 +1933,29 @@
     ]
   },
   {
+    "normalizedName": "frolic",
+    "displayName": "Frolic",
+    "albums": [
+      {
+        "name": "Legacies of Cybernetica",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "A Shattered Soul",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "godthrymm",
     "displayName": "Godthrymm",
     "origin": "GB",
@@ -1920,10 +1987,20 @@
         "genres": [
           "Epic Doom Metal"
         ]
+      },
+      {
+        "name": "Projections",
+        "year": "2026",
+        "genres": [
+          "Doom Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
-      "Epic Doom Metal"
+      "Epic Doom Metal",
+      "Doom Metal",
+      "Metal"
     ]
   },
   {
@@ -2194,6 +2271,24 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "inthroes",
+    "displayName": "In Throes",
+    "albums": [
+      {
+        "name": "Sink Towards the Light",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Post-Black Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Post-Black Metal",
+      "Post-Black Metal"
+    ]
   },
   {
     "normalizedName": "invasion",
@@ -2939,6 +3034,24 @@
     ]
   },
   {
+    "normalizedName": "mergoswetnurse",
+    "displayName": "Mergo's Wet Nurse",
+    "albums": [
+      {
+        "name": "Altar of Dispair",
+        "year": "2026",
+        "genres": [
+          "Black Metal with Doom Sludge elements",
+          "Sludge elements"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal with Doom Sludge elements",
+      "Sludge elements"
+    ]
+  },
+  {
     "normalizedName": "minds",
     "displayName": "Minds",
     "albums": [
@@ -3216,6 +3329,18 @@
         "genres": [
           "Gothic Metal"
         ]
+      },
+      {
+        "name": "Far From God",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Cross Your Heart",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
@@ -3375,29 +3500,6 @@
     ]
   },
   {
-    "normalizedName": "naðra",
-    "displayName": "Naðra",
-    "albums": [
-      {
-        "name": "Allir Vegir Til Glötunar",
-        "year": "2016",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Form",
-        "year": "2016",
-        "genres": [
-          "Black Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Black Metal"
-    ]
-  },
-  {
     "normalizedName": "nagaarum",
     "displayName": "Nagaarum",
     "albums": [
@@ -3541,6 +3643,29 @@
     "tags": [
       "Experimental Black",
       "Dark Ambient"
+    ]
+  },
+  {
+    "normalizedName": "naðra",
+    "displayName": "Naðra",
+    "albums": [
+      {
+        "name": "Allir Vegir Til Glötunar",
+        "year": "2016",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Form",
+        "year": "2016",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3821,6 +3946,13 @@
       {
         "name": "Rzeki Goryczy",
         "year": "2022",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Exolvuntur",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]
@@ -4127,6 +4259,20 @@
       {
         "name": "Whispers From Beyond",
         "year": "2022",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Corpsetrader",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Feral Breed",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]

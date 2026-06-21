@@ -651,6 +651,18 @@
     ]
   },
   {
+    "normalizedName": "axemaster",
+    "displayName": "Axemaster",
+    "albums": [
+      {
+        "name": "Of Beasts And Plagues",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "beingkilled",
     "displayName": "Being Killed",
     "albums": [
@@ -1137,22 +1149,6 @@
     ]
   },
   {
-    "normalizedName": "dæmonarch",
-    "displayName": "Dæmonarch",
-    "albums": [
-      {
-        "name": "Hermeticum",
-        "year": "1998",
-        "genres": [
-          "Melodic Black Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Melodic Black Metal"
-    ]
-  },
-  {
     "normalizedName": "daliafriedland",
     "displayName": "Dalia Friedland",
     "origin": "IL",
@@ -1211,6 +1207,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "deadlyheretic",
+    "displayName": "Deadly Heretic",
+    "albums": [
+      {
+        "name": "Inverted Church",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -1358,6 +1372,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "dæmonarch",
+    "displayName": "Dæmonarch",
+    "albums": [
+      {
+        "name": "Hermeticum",
+        "year": "1998",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
     ]
   },
   {
@@ -2038,6 +2068,22 @@
     ]
   },
   {
+    "normalizedName": "hacksawtracheotomy",
+    "displayName": "Hacksaw Tracheotomy",
+    "albums": [
+      {
+        "name": "Tome of Diabolical Torments, Vol. 1",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "heafodban",
     "displayName": "Heáfodbán",
     "albums": [
@@ -2161,6 +2207,22 @@
     ],
     "tags": [
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "influenza",
+    "displayName": "Influenza",
+    "albums": [
+      {
+        "name": "Portrait of Rebellion",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {
@@ -2560,6 +2622,18 @@
     ]
   },
   {
+    "normalizedName": "missoula",
+    "displayName": "Missoula",
+    "albums": [
+      {
+        "name": "Death Doula",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "mpheral",
     "displayName": "M.pheral",
     "albums": [
@@ -2810,7 +2884,7 @@
     "albums": [
       {
         "name": "One Way Mirror",
-        "year": "2008-06-30",
+        "year": "2008",
         "genres": [
           "Alternative Rock",
           "Rock"
@@ -2820,6 +2894,22 @@
     "tags": [
       "Alternative Rock",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "ownflesh",
+    "displayName": "Own Flesh",
+    "albums": [
+      {
+        "name": "Beginning Again",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -3349,6 +3439,24 @@
     ],
     "tags": [
       "Glam Rock"
+    ]
+  },
+  {
+    "normalizedName": "strychnoslieinruins",
+    "displayName": "Strychnos/Lie in Ruins",
+    "albums": [
+      {
+        "name": "Paralyzing Visions/Theodicy of the Seven Mile Scythe",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal | Death Metal",
+          "Death Metal | Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal | Death Metal",
+      "Death Metal | Death Metal"
     ]
   },
   {

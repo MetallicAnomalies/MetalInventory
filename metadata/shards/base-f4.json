@@ -530,6 +530,26 @@
     ]
   },
   {
+    "normalizedName": "bleachmilk",
+    "displayName": "Bleach Milk",
+    "albums": [
+      {
+        "name": "Surreptitious",
+        "year": "2026",
+        "genres": [
+          "Slam Goregrind",
+          "Brutal Death Metal",
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Goregrind",
+      "Brutal Death Metal",
+      "Goregrind"
+    ]
+  },
+  {
     "normalizedName": "bloodrevolt",
     "displayName": "Blood Revolt",
     "albums": [
@@ -746,6 +766,22 @@
       },
       {
         "name": "Known Unto God",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "deathrottle",
+    "displayName": "Deathrottle",
+    "albums": [
+      {
+        "name": "Deathrottle Demo 2026",
         "year": "2026",
         "genres": [
           "Thrash Metal"
@@ -2231,6 +2267,24 @@
     ]
   },
   {
+    "normalizedName": "leftlanetheory",
+    "displayName": "Leftlanetheory",
+    "albums": [
+      {
+        "name": "Nocturnal Oblivion",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Shred"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal",
+      "Shred"
+    ]
+  },
+  {
     "normalizedName": "lies",
     "displayName": "LiES!",
     "aliases": [
@@ -3208,7 +3262,8 @@
         "genres": [
           "Black Metal",
           "Death Metal"
-        ]
+        ],
+        "year": "1991"
       },
       {
         "name": "Altars Of Madness",
@@ -4083,12 +4138,26 @@
           "Power Metal",
           "Epic Heavy"
         ]
+      },
+      {
+        "name": "…With Might And Vengeance",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Mighty Mercenaries",
+        "year": "2026",
+        "genres": [
+          "Epic Heavy Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Power Metal",
       "Epic Heavy",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Epic Heavy Power Metal"
     ]
   },
   {
@@ -4177,6 +4246,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "splitthefuckopen",
+    "displayName": "Split the Fuck Open",
+    "albums": [
+      {
+        "name": "Slamtardation",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {
@@ -4924,6 +5009,18 @@
     ]
   },
   {
+    "normalizedName": "vampyriia",
+    "displayName": "Vampyriia",
+    "albums": [
+      {
+        "name": "Luxuria Sanguis Plenilunium EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "voiceofthesoul",
     "displayName": "Voice Of The Soul",
     "albums": [
@@ -5134,14 +5231,15 @@
   {
     "normalizedName": "yehoramgaon",
     "displayName": "Yehoram Gaon",
-    "origin": "DE",
+    "origin": "IL",
     "albums": [
       {
         "name": "Passover",
         "genres": [
           "Religious",
           "Folk, World, & Country"
-        ]
+        ],
+        "year": "1973"
       },
       {
         "name": "אביב הגיע פסח בא (שירי פסח לילדים ולכל המשפחה)",

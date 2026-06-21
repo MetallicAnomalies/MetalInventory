@@ -812,6 +812,22 @@
     ]
   },
   {
+    "normalizedName": "dacma",
+    "displayName": "Dacma",
+    "albums": [
+      {
+        "name": "Memento Mori",
+        "year": "2026",
+        "genres": [
+          "Technical Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Technical Death Metal"
+    ]
+  },
+  {
     "normalizedName": "damienrice",
     "displayName": "Damien Rice",
     "origin": "IE",
@@ -1123,10 +1139,20 @@
         "genres": [
           "Blackened Thrash Metal"
         ]
+      },
+      {
+        "name": "Forever Feared",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
-      "Blackened Thrash Metal"
+      "Blackened Thrash Metal",
+      "Thrash Metal",
+      "Metal"
     ]
   },
   {
@@ -2125,6 +2151,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "mangkukulam",
+    "displayName": "Mangkukulam",
+    "albums": [
+      {
+        "name": "Maledictionem Pythonissam",
+        "year": "2026",
+        "genres": [
+          "Raw Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Death Metal",
+      "Death Metal"
     ]
   },
   {

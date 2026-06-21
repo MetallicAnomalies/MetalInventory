@@ -260,32 +260,6 @@
     ]
   },
   {
-    "normalizedName": "ætherial",
-    "displayName": "æTherial",
-    "albums": [
-      {
-        "name": "The Still Waters Of Oblivion",
-        "year": "2017",
-        "genres": [
-          "Melodic Death Metal",
-          "Metalcore"
-        ]
-      },
-      {
-        "name": "Nameless Horrors",
-        "year": "2020",
-        "genres": [
-          "Melodic Death Metal",
-          "Metalcore"
-        ]
-      }
-    ],
-    "tags": [
-      "Melodic Death Metal",
-      "Metalcore"
-    ]
-  },
-  {
     "normalizedName": "afterzero",
     "displayName": "Afterzero",
     "albums": [
@@ -1660,6 +1634,11 @@
           "Sludge Metal",
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Over The Under Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1816,7 +1795,7 @@
       },
       {
         "name": "Enetics",
-        "year": "2003-03-24",
+        "year": "2002",
         "genres": [
           "Heavy Metal",
           "Goth Rock"
@@ -2573,6 +2552,18 @@
     ]
   },
   {
+    "normalizedName": "holissstik",
+    "displayName": "Holissstik",
+    "albums": [
+      {
+        "name": "Chapter 1: This Endless Solitude",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "hostia",
     "displayName": "Hostia",
     "albums": [
@@ -2708,6 +2699,11 @@
           "Speed Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Metallic Torments",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2776,10 +2772,23 @@
         "genres": [
           "Avantgarde Death"
         ]
+      },
+      {
+        "name": "Msster",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Noise",
+          "Death Metal",
+          "Noise"
+        ]
       }
     ],
     "tags": [
-      "Avantgarde Death"
+      "Avantgarde Death",
+      "Black Death Metal",
+      "Noise",
+      "Death Metal"
     ]
   },
   {
@@ -4733,6 +4742,36 @@
     ]
   },
   {
+    "normalizedName": "tormentgrave",
+    "displayName": "Törment Grave",
+    "albums": [
+      {
+        "name": "Temple of Unhallowed",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "triplelutz",
+    "displayName": "Triple Lutz",
+    "albums": [
+      {
+        "name": "In The Hands Of An Angry Mob",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "tvgirl",
     "displayName": "TV Girl",
     "origin": "US",
@@ -5031,6 +5070,33 @@
     "tags": [
       "Power Metal"
     ]
+  },
+  {
+    "normalizedName": "ætherial",
+    "displayName": "æTherial",
+    "albums": [
+      {
+        "name": "The Still Waters Of Oblivion",
+        "year": "2017",
+        "genres": [
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Nameless Horrors",
+        "year": "2020",
+        "genres": [
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal",
+      "Metalcore"
+    ],
+    "origin": "GB"
   },
   {
     "normalizedName": "איפההילד",

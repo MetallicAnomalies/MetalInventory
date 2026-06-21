@@ -444,6 +444,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Three Decades of Pure Death Metal",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -495,6 +502,22 @@
     ]
   },
   {
+    "normalizedName": "animamortuum",
+    "displayName": "Anima Mortuum",
+    "albums": [
+      {
+        "name": "Recursive Tyranny",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "ataraxy",
     "displayName": "Ataraxy",
     "origin": "ES",
@@ -530,6 +553,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "atrocitywithin",
+    "displayName": "Atrocity Within",
+    "albums": [
+      {
+        "name": "No Man's Land",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {
@@ -741,6 +780,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "carnification",
+    "displayName": "Carnification",
+    "albums": [
+      {
+        "name": "Walking Among Thousands",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -1137,7 +1192,8 @@
     ],
     "tags": [
       "Thrash Metal"
-    ]
+    ],
+    "origin": "GR"
   },
   {
     "normalizedName": "evergrey",
@@ -1187,7 +1243,7 @@
       },
       {
         "name": "A Night To Remember",
-        "year": "2005-03-15",
+        "year": "2005",
         "genres": [
           "Heavy Metal",
           "Prog Rock"
@@ -1343,7 +1399,7 @@
       },
       {
         "name": "Before The Aftermath",
-        "year": "2022-01-28",
+        "year": "2022",
         "genres": [
           "Progressive Metal"
         ]
@@ -1395,6 +1451,14 @@
           "Progressive Rock",
           "Power Metal"
         ]
+      },
+      {
+        "name": "Architects of A New Weave",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
@@ -1402,7 +1466,8 @@
       "Power Metal",
       "Heavy Metal",
       "Prog Rock",
-      "Progressive Rock"
+      "Progressive Rock",
+      "Metal"
     ]
   },
   {
@@ -1747,19 +1812,21 @@
     ]
   },
   {
-    "normalizedName": "høstsol",
-    "displayName": "Høstsol",
+    "normalizedName": "hostilebreed",
+    "displayName": "Hostile Breed",
     "albums": [
       {
-        "name": "Länge Leve Döden",
-        "year": "2023",
+        "name": "Судный час",
+        "year": "2026",
         "genres": [
-          "Black Metal"
+          "Groove Nu-Metal",
+          "Nu-Metal"
         ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Groove Nu-Metal",
+      "Nu-Metal"
     ]
   },
   {
@@ -1808,6 +1875,22 @@
     ],
     "tags": [
       "Hardcore Metal"
+    ]
+  },
+  {
+    "normalizedName": "høstsol",
+    "displayName": "Høstsol",
+    "albums": [
+      {
+        "name": "Länge Leve Döden",
+        "year": "2023",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -2236,6 +2319,18 @@
     "tags": [
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "lmi",
+    "displayName": "L.M.I.",
+    "albums": [
+      {
+        "name": "V EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "lordvampyr",
@@ -4687,6 +4782,22 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "łatanu",
+    "displayName": "Łatanu",
+    "albums": [
+      {
+        "name": "666",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   }
 ]

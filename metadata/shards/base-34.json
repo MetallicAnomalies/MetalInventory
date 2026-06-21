@@ -402,6 +402,22 @@
     ]
   },
   {
+    "normalizedName": "bloodredfuneral",
+    "displayName": "Blood Red Funeral",
+    "albums": [
+      {
+        "name": "Obscure Nightmare",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "butcherbabies",
     "displayName": "Butcher Babies",
     "origin": "US",
@@ -503,6 +519,11 @@
         "genres": [
           "Deathcore"
         ]
+      },
+      {
+        "name": "All Returns To Hollow And Silence EP",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -882,6 +903,11 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Night Is Calling",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1673,12 +1699,22 @@
           "Hardcore Metal",
           "Groove Metal"
         ]
+      },
+      {
+        "name": "Promise of Enlightenment",
+        "year": "2026",
+        "genres": [
+          "Thrash Heavy Metal",
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
       "Hardcore Metal",
-      "Groove Metal"
+      "Groove Metal",
+      "Thrash Heavy Metal",
+      "Heavy Metal"
     ]
   },
   {
@@ -3604,6 +3640,22 @@
     ],
     "tags": [
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "sayas",
+    "displayName": "Sayas",
+    "albums": [
+      {
+        "name": "Life's Confinement",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

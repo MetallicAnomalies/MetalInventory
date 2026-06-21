@@ -33,6 +33,24 @@
     ]
   },
   {
+    "normalizedName": "aneon",
+    "displayName": "Aneon",
+    "albums": [
+      {
+        "name": "Traitorous",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "aorlhac",
     "displayName": "Aorlhac",
     "albums": [
@@ -573,11 +591,29 @@
           "Black Metal",
           "Post-Metal"
         ]
+      },
+      {
+        "name": "Wilderness",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Shoegaze"
+        ]
+      },
+      {
+        "name": "Wildfire",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Shoegaze"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Post-Metal"
+      "Post-Metal",
+      "Atmospheric Black Metal",
+      "Shoegaze"
     ]
   },
   {
@@ -1773,6 +1809,18 @@
     ]
   },
   {
+    "normalizedName": "exploringbirdsong",
+    "displayName": "Exploring Birdsong",
+    "albums": [
+      {
+        "name": "Every House We Built",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "fivepointeo",
     "displayName": "Five Pointe O",
     "origin": "US",
@@ -2176,6 +2224,11 @@
           "Shoegaze",
           "Atmospheric Rock"
         ]
+      },
+      {
+        "name": "Àmor",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2560,6 +2613,24 @@
     ],
     "tags": [
       "Raw Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "mordorruido",
+    "displayName": "Mordor Ruido",
+    "albums": [
+      {
+        "name": "Live Lobotomy",
+        "year": "2026",
+        "genres": [
+          "Grindcore Crust Punk",
+          "Crust Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore Crust Punk",
+      "Crust Punk"
     ]
   },
   {
@@ -3074,6 +3145,22 @@
       "Rock",
       "Soft Rock",
       "AOR"
+    ]
+  },
+  {
+    "normalizedName": "ritualistichereticalabyss",
+    "displayName": "Ritualistic Heretical Abyss",
+    "albums": [
+      {
+        "name": "Ritualistic Heretical Abyss",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3683,6 +3770,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "toolatebutstill",
+    "displayName": "Too Late, But Still",
+    "albums": [
+      {
+        "name": "How Much Can We Take",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "torbenenevoldsen",

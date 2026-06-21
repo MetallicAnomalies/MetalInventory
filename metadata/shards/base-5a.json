@@ -850,11 +850,19 @@
           "Atmospheric Black Metal",
           "Folk Metal"
         ]
+      },
+      {
+        "name": "And the Firmament Will Burn to Quench the Pain of This Earth",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Folk Metal"
+      "Folk Metal",
+      "Black Metal"
     ]
   },
   {
@@ -1323,6 +1331,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Echoes Of A Distant Future",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2360,6 +2373,24 @@
     ],
     "tags": [
       "Progressive Power"
+    ]
+  },
+  {
+    "normalizedName": "misanthropiktorment",
+    "displayName": "Misanthropik Torment",
+    "albums": [
+      {
+        "name": "Lullaby of Knives",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -3485,6 +3516,18 @@
     ]
   },
   {
+    "normalizedName": "solitone",
+    "displayName": "Solitone",
+    "albums": [
+      {
+        "name": "Le Champ Des Possibles EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "sonataantartika",
     "displayName": "Sonata Antartika",
     "albums": [
@@ -3648,6 +3691,22 @@
     ],
     "tags": [
       "Grindcore"
+    ]
+  },
+  {
+    "normalizedName": "sunderwood",
+    "displayName": "Sunderwood",
+    "albums": [
+      {
+        "name": "Scorched and Submerged",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
     ]
   },
   {
@@ -4288,10 +4347,20 @@
         "genres": [
           "Teutonic Thrash Metal"
         ]
+      },
+      {
+        "name": "Alive",
+        "year": "2026",
+        "genres": [
+          "Power Speed Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
-      "Teutonic Thrash Metal"
+      "Teutonic Thrash Metal",
+      "Power Speed Metal",
+      "Speed Metal"
     ]
   },
   {
@@ -4763,6 +4832,34 @@
     "tags": [
       "Heavy Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "zorza",
+    "displayName": "Zorza",
+    "albums": [
+      {
+        "name": "Twilight Of The Golden Star",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
+    "normalizedName": "高橋信成",
+    "displayName": "高橋信成",
+    "albums": [
+      {
+        "name": "Deus Benedicat",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   }
 ]

@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Exodus",
-        "year": "2010-05-05",
+        "year": "1977",
         "genres": [
           "Reggae"
         ]
@@ -1419,6 +1419,24 @@
     ]
   },
   {
+    "normalizedName": "decrepito",
+    "displayName": "Decrépito",
+    "albums": [
+      {
+        "name": "Decrépito",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "despisedicon",
     "displayName": "Despised Icon",
     "origin": "CA",
@@ -1731,6 +1749,11 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Reinkaos Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2248,11 +2271,20 @@
           "Death Metal",
           "Hardcore Metal"
         ]
+      },
+      {
+        "name": "The Ringing Bell",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Crust"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Hardcore Metal"
+      "Hardcore Metal",
+      "Crust"
     ]
   },
   {
@@ -4567,6 +4599,22 @@
       "Progressive Rock",
       "Hard Rock",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "sulfuriccautery",
+    "displayName": "Sulfuric Cautery",
+    "albums": [
+      {
+        "name": "Sulfuric Cautery / Tolerance",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metal"
     ]
   },
   {

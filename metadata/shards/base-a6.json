@@ -1,5 +1,25 @@
 [
   {
+    "normalizedName": "abandonagony",
+    "displayName": "Abandon Agony",
+    "albums": [
+      {
+        "name": "Endbringer",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Melodic Death Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Melodic Death Metal",
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "abuse",
     "displayName": "Abuse",
     "albums": [
@@ -1881,6 +1901,29 @@
     ]
   },
   {
+    "normalizedName": "hortvs",
+    "displayName": "Hortvs",
+    "albums": [
+      {
+        "name": "Nella luce perpetua (Preghiera degli alberi)",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "Baccante",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "humanabyss",
     "displayName": "Human Abyss",
     "origin": "GB",
@@ -2772,6 +2815,13 @@
       {
         "name": "Of Grace And Gravity",
         "year": "2024",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Wrong",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]
@@ -3951,14 +4001,14 @@
     "albums": [
       {
         "name": "My Shelter",
-        "year": "2020-08-14",
+        "year": "2020",
         "genres": [
           "Power Metal"
         ]
       },
       {
         "name": "Heroes",
-        "year": "2021-06-18",
+        "year": "2021",
         "genres": [
           "Power Metal"
         ]
@@ -4374,6 +4424,18 @@
       "Doom Metal",
       "Drone Metal"
     ]
+  },
+  {
+    "normalizedName": "templeovahriman",
+    "displayName": "Temple Ov Ahriman",
+    "albums": [
+      {
+        "name": "Heretics Of Consensual Reality",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "tenebre",
@@ -5075,6 +5137,22 @@
     "tags": [
       "Stoner Metal",
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "worlddemonicforum",
+    "displayName": "World Demonic Forum",
+    "albums": [
+      {
+        "name": "The Sixth Era Protocol",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

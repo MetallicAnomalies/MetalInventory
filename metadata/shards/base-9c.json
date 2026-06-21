@@ -724,6 +724,13 @@
           "Hardcore Metal",
           "Punk"
         ]
+      },
+      {
+        "name": "Systems of Solitude",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
@@ -733,6 +740,18 @@
       "Stoner Rock",
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "blitz",
+    "displayName": "Blitz",
+    "albums": [
+      {
+        "name": "Bitter Me",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "bluestahli",
@@ -2292,6 +2311,22 @@
     ]
   },
   {
+    "normalizedName": "krvuspara",
+    "displayName": "Krvuspára",
+    "albums": [
+      {
+        "name": "Tiheydestä",
+        "year": "2026",
+        "genres": [
+          "Experimental Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "lindsayschoolcraft",
     "displayName": "Lindsay Schoolcraft",
     "origin": "CA",
@@ -2352,6 +2387,11 @@
           "Death Metal",
           "Grindcore"
         ]
+      },
+      {
+        "name": "Brethren Of The Pentagram",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2807,7 +2847,7 @@
       },
       {
         "name": "Sleeping With Ghosts",
-        "year": "2008-07-07",
+        "year": "2003",
         "genres": [
           "Alternative Rock",
           "Indie Rock",
@@ -3184,6 +3224,18 @@
       {
         "name": "Dehumanized",
         "year": "2023",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "From Nation To Chaos",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "The Crawlers",
+        "year": "2026",
         "genres": [
           "Melodic Death Metal"
         ]
@@ -3679,6 +3731,18 @@
       "Medieval Folk",
       "Industrial Heavy"
     ]
+  },
+  {
+    "normalizedName": "svjetlost",
+    "displayName": "Svjetlost",
+    "albums": [
+      {
+        "name": "The Forever Silent",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "terra",
@@ -4291,7 +4355,7 @@
       },
       {
         "name": "Progress",
-        "year": "2000-05-19",
+        "year": "2000",
         "genres": [
           "Nu Metal",
           "Alternative Metal"

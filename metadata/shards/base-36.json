@@ -860,6 +860,26 @@
     ]
   },
   {
+    "normalizedName": "cordyceptomy",
+    "displayName": "Cordyceptomy",
+    "albums": [
+      {
+        "name": "Cordyceptomy",
+        "year": "2026",
+        "genres": [
+          "Slam Deathcore",
+          "Brutal Death Metal",
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Deathcore",
+      "Brutal Death Metal",
+      "Deathcore"
+    ]
+  },
+  {
     "normalizedName": "crimsonsky",
     "displayName": "Crimson Sky",
     "albums": [
@@ -1544,57 +1564,6 @@
     ]
   },
   {
-    "normalizedName": "hæresiarchsofdis",
-    "displayName": "Hæresiarchs Of Dis",
-    "albums": [
-      {
-        "name": "Overture",
-        "year": "2008",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Denuntiatus Cinis",
-        "year": "2010",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "In Obsecration Of The Seven Darks",
-        "year": "2011",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Thirty-eighth Sermon Of The Unborn",
-        "year": "2013",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Tria Prima Diabolica",
-        "year": "2016",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Adumbrātus",
-        "year": "2019",
-        "genres": [
-          "Black Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Black Metal"
-    ]
-  },
-  {
     "normalizedName": "helldarkness",
     "displayName": "Hell Darkness",
     "albums": [
@@ -1626,6 +1595,24 @@
     "tags": [
       "Death Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "hematidrosis",
+    "displayName": "Hematidrosis",
+    "albums": [
+      {
+        "name": "Disfigurement of the Holy Sacrament",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {
@@ -1701,6 +1688,58 @@
     ]
   },
   {
+    "normalizedName": "hæresiarchsofdis",
+    "displayName": "Hæresiarchs Of Dis",
+    "albums": [
+      {
+        "name": "Overture",
+        "year": "2008",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Denuntiatus Cinis",
+        "year": "2010",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "In Obsecration Of The Seven Darks",
+        "year": "2011",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Thirty-eighth Sermon Of The Unborn",
+        "year": "2013",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Tria Prima Diabolica",
+        "year": "2016",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Adumbrātus",
+        "year": "2019",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ],
+    "origin": "US"
+  },
+  {
     "normalizedName": "icecake",
     "displayName": "Ice Cake",
     "albums": [
@@ -1730,7 +1769,7 @@
       },
       {
         "name": "The Idan Raichel Project",
-        "year": "2006-11-07",
+        "year": "2002",
         "genres": [
           "Folk Metal"
         ]
@@ -2503,6 +2542,24 @@
     ]
   },
   {
+    "normalizedName": "lucrecia",
+    "displayName": "Lucrecia",
+    "albums": [
+      {
+        "name": "Sedm hříchů",
+        "year": "2026",
+        "genres": [
+          "Power Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "luxuriadelillith",
     "displayName": "Luxúria De Lillith",
     "albums": [
@@ -2551,29 +2608,6 @@
     ],
     "tags": [
       "Melodic Black Metal"
-    ]
-  },
-  {
-    "normalizedName": "mære",
-    "displayName": "Mære",
-    "albums": [
-      {
-        "name": "I",
-        "year": "2020",
-        "genres": [
-          "Death Metal"
-        ]
-      },
-      {
-        "name": "...And The Universe Keeps Silent",
-        "year": "2024",
-        "genres": [
-          "Death Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Death Metal"
     ]
   },
   {
@@ -2829,6 +2863,22 @@
     ]
   },
   {
+    "normalizedName": "monaspa",
+    "displayName": "Monaspa",
+    "albums": [
+      {
+        "name": "Fields of Ertsukhi",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "morbidjester",
     "displayName": "Morbid Jester",
     "albums": [
@@ -2864,6 +2914,30 @@
     "tags": [
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "mære",
+    "displayName": "Mære",
+    "albums": [
+      {
+        "name": "I",
+        "year": "2020",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "...And The Universe Keeps Silent",
+        "year": "2024",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ],
+    "origin": "DE"
   },
   {
     "normalizedName": "noxformulae",
@@ -3266,6 +3340,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "quamfuror",
+    "displayName": "Quam Furor",
+    "albums": [
+      {
+        "name": "Romance",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
     ]
   },
   {
@@ -4439,6 +4529,22 @@
     "tags": [
       "Hard Rock",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "zenoxis",
+    "displayName": "Zenoxis",
+    "albums": [
+      {
+        "name": "Down To The Pit Of Flesh",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

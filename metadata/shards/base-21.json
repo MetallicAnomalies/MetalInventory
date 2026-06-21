@@ -1,5 +1,21 @@
 [
   {
+    "normalizedName": "630",
+    "displayName": "630",
+    "albums": [
+      {
+        "name": "The Will of Sva",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "afroman",
     "displayName": "Afroman",
     "origin": "US",
@@ -259,6 +275,18 @@
       "Thrash Metal",
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "atotaso",
+    "displayName": "A-tota-so",
+    "albums": [
+      {
+        "name": "I Told You So",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "axegrinder",
@@ -1313,6 +1341,11 @@
           "Industrial Metal",
           "Post-Metal"
         ]
+      },
+      {
+        "name": "Feeding The Void’s Luster",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1878,11 +1911,20 @@
           "Depressive Black Metal",
           "Post-Rock"
         ]
+      },
+      {
+        "name": "Oda a Lxs Marginadxs",
+        "year": "2026",
+        "genres": [
+          "Raw Depressive Black Metal",
+          "Depressive Black Metal"
+        ]
       }
     ],
     "tags": [
       "Depressive Black Metal",
-      "Post-Rock"
+      "Post-Rock",
+      "Raw Depressive Black Metal"
     ]
   },
   {
@@ -4726,6 +4768,7 @@
     "tags": [
       "Heavy Metal",
       "Power Metal"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

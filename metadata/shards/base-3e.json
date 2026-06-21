@@ -55,7 +55,7 @@
       },
       {
         "name": "Live At The Royal Albert Hall",
-        "year": "2011-11-25",
+        "year": "2011",
         "genres": [
           "Funk / Soul",
           "Soul",
@@ -719,6 +719,22 @@
     ]
   },
   {
+    "normalizedName": "cemeteryrot",
+    "displayName": "Cemetery Rot",
+    "albums": [
+      {
+        "name": "Decomposing Bodies Upon the Altar of Sacrifice",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "chaosframe",
     "displayName": "Chaos Frame",
     "albums": [
@@ -1022,6 +1038,22 @@
       {
         "name": "Wither",
         "year": "2016",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "defenestration",
+    "displayName": "Defenestration",
+    "albums": [
+      {
+        "name": "Rotting Antefix",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]
@@ -2122,6 +2154,11 @@
           "Prog Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Pestkrønikene",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3970,6 +4007,18 @@
     ]
   },
   {
+    "normalizedName": "seasonofmelancholy",
+    "displayName": "Season Of Melancholy",
+    "albums": [
+      {
+        "name": "In Sleep",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "seemysolution",
     "displayName": "See My Solution",
     "origin": "DE",
@@ -4960,6 +5009,18 @@
     ]
   },
   {
+    "normalizedName": "usbastards",
+    "displayName": "U.S. Bastards",
+    "albums": [
+      {
+        "name": "Negligent Discharge",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "vanadium",
     "displayName": "Vanadium",
     "albums": [
@@ -5375,6 +5436,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "wodensgard",
+    "displayName": "Wodensgard",
+    "albums": [
+      {
+        "name": "Palantaire Visionaire",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dungeon Synth"
     ]
   },
   {

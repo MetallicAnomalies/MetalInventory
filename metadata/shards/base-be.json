@@ -132,29 +132,6 @@
     ]
   },
   {
-    "normalizedName": "æðra",
-    "displayName": "æðRa",
-    "albums": [
-      {
-        "name": "The Evening Red",
-        "year": "2011",
-        "genres": [
-          "Progressive Black Metal"
-        ]
-      },
-      {
-        "name": "Perseiderna",
-        "year": "2016",
-        "genres": [
-          "Progressive Black Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Progressive Black Metal"
-    ]
-  },
-  {
     "normalizedName": "amorisumbra",
     "displayName": "Amoris Umbra",
     "albums": [
@@ -358,7 +335,7 @@
       },
       {
         "name": "Best Reached Horizons",
-        "year": "2012-09-19",
+        "year": "2012",
         "genres": [
           "Prog Rock",
           "Power Metal"
@@ -2745,6 +2722,18 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Godslaughter",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Skull Evulsion",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3203,6 +3192,11 @@
         "genres": [
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Cycles In The Infinite Dream",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3324,13 +3318,21 @@
         "genres": [
           "Metal"
         ]
+      },
+      {
+        "name": "The Prophecy of the Celtic Cross",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
       }
     ],
     "tags": [
       "Death Rock",
       "Hard Rock",
       "Horror Punk",
-      "Metal"
+      "Metal",
+      "Raw Black Metal"
     ]
   },
   {
@@ -3436,6 +3438,18 @@
     ]
   },
   {
+    "normalizedName": "snag",
+    "displayName": "Snag",
+    "albums": [
+      {
+        "name": "All The Cages Holding Us Will One Day Turn To Dust",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "solemnvision",
     "displayName": "Solemn Vision",
     "origin": "US",
@@ -3499,6 +3513,18 @@
     "tags": [
       "Atmospheric Black Metal"
     ]
+  },
+  {
+    "normalizedName": "sonsofghidorah",
+    "displayName": "Sons Of Ghidorah",
+    "albums": [
+      {
+        "name": "Raining Fire",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "soulpit",
@@ -3670,6 +3696,24 @@
     "tags": [
       "Power Metal",
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "thanatoticdesire",
+    "displayName": "Thanatotic Desire",
+    "albums": [
+      {
+        "name": "Bleed To Death",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -3971,6 +4015,18 @@
     ]
   },
   {
+    "normalizedName": "theunknown",
+    "displayName": "The Unknown",
+    "albums": [
+      {
+        "name": "Graveyard Of Empires",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "thundra",
     "displayName": "Thundra",
     "albums": [
@@ -4087,6 +4143,18 @@
     "tags": [
       "Sludge Metal"
     ]
+  },
+  {
+    "normalizedName": "tyraelsascension",
+    "displayName": "Tyraels Ascension",
+    "albums": [
+      {
+        "name": "Grave Seeker",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "ultimatium",
@@ -4550,6 +4618,18 @@
     ]
   },
   {
+    "normalizedName": "woewarden",
+    "displayName": "Woewarden",
+    "albums": [
+      {
+        "name": "The Roots Of My Neglect",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "wolfshade",
     "displayName": "Wolfshade",
     "albums": [
@@ -4587,6 +4667,30 @@
     ]
   },
   {
+    "normalizedName": "æðra",
+    "displayName": "æðRa",
+    "albums": [
+      {
+        "name": "The Evening Red",
+        "year": "2011",
+        "genres": [
+          "Progressive Black Metal"
+        ]
+      },
+      {
+        "name": "Perseiderna",
+        "year": "2016",
+        "genres": [
+          "Progressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Black Metal"
+    ],
+    "origin": "US"
+  },
+  {
     "normalizedName": "воинаосколков",
     "displayName": "война осколков",
     "albums": [
@@ -4600,6 +4704,7 @@
     ],
     "tags": [
       "Symphonic Power"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

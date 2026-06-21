@@ -415,6 +415,18 @@
     ]
   },
   {
+    "normalizedName": "bloodmother",
+    "displayName": "Blood Mother",
+    "albums": [
+      {
+        "name": "Blood Mother",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "bloodofindigo",
     "displayName": "Blood Of Indigo",
     "albums": [
@@ -2111,6 +2123,22 @@
     ]
   },
   {
+    "normalizedName": "kallbrand",
+    "displayName": "Kallbrand",
+    "albums": [
+      {
+        "name": "Kallbrand",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Death Metal"
+    ]
+  },
+  {
     "normalizedName": "kaskadiori",
     "displayName": "Kaskadiori",
     "albums": [
@@ -2365,6 +2393,24 @@
     ]
   },
   {
+    "normalizedName": "madaleister",
+    "displayName": "Mad Aleister",
+    "albums": [
+      {
+        "name": "Memos for Another Day",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Speed Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "meniscus",
     "displayName": "Meniscus",
     "albums": [
@@ -2563,6 +2609,18 @@
       "Noise Metal",
       "Punk"
     ]
+  },
+  {
+    "normalizedName": "nachtheem",
+    "displayName": "Nachtheem",
+    "albums": [
+      {
+        "name": "Waan Van De Leegte",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "nightfucker",
@@ -3320,6 +3378,18 @@
     ]
   },
   {
+    "normalizedName": "tenebrishyver",
+    "displayName": "Tenebris/Hyver",
+    "albums": [
+      {
+        "name": "Tanzelcore/Techno Split",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "thedeadmilkmen",
     "displayName": "The Dead Milkmen",
     "origin": "US",
@@ -3670,6 +3740,18 @@
     "tags": [
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "vimbullnat",
+    "displayName": "Vimbullnat",
+    "albums": [
+      {
+        "name": "Der Dunklen Tugenden; Echos",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "visiondenied",

@@ -56,36 +56,6 @@
     ]
   },
   {
-    "normalizedName": "æolian",
-    "displayName": "æOlian",
-    "albums": [
-      {
-        "name": "Silent Witness",
-        "year": "2018",
-        "genres": [
-          "Melodic Death Metal"
-        ]
-      },
-      {
-        "name": "The Negationist",
-        "year": "2020",
-        "genres": [
-          "Melodic Death Metal"
-        ]
-      },
-      {
-        "name": "Echoes Of The Future",
-        "year": "2023",
-        "genres": [
-          "Melodic Death Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Melodic Death Metal"
-    ]
-  },
-  {
     "normalizedName": "akilla",
     "displayName": "Akilla",
     "albums": [
@@ -1519,6 +1489,24 @@
     ]
   },
   {
+    "normalizedName": "division52",
+    "displayName": "Division 52",
+    "albums": [
+      {
+        "name": "Total War",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "dofka",
     "displayName": "Dofka",
     "albums": [
@@ -1711,6 +1699,18 @@
     ]
   },
   {
+    "normalizedName": "eyesout",
+    "displayName": "Eyes Out",
+    "albums": [
+      {
+        "name": "Satiate The Blade",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "fadingaeon",
     "displayName": "Fading Aeon",
     "albums": [
@@ -1877,6 +1877,11 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "The Legend Of The Six Kings",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3131,6 +3136,18 @@
     "tags": [
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "parkerbarrow",
+    "displayName": "Parker Barrow",
+    "albums": [
+      {
+        "name": "Hold The Mash",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "phear",
@@ -4576,6 +4593,18 @@
     ]
   },
   {
+    "normalizedName": "timmontana",
+    "displayName": "Tim Montana",
+    "albums": [
+      {
+        "name": "Entire State Of Tim Montana",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "trailofblood",
     "displayName": "Trail of Blood",
     "origin": "FR",
@@ -5131,5 +5160,36 @@
       "Heavy Metal",
       "Hard Rock"
     ]
+  },
+  {
+    "normalizedName": "æolian",
+    "displayName": "æOlian",
+    "albums": [
+      {
+        "name": "Silent Witness",
+        "year": "2018",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "The Negationist",
+        "year": "2020",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Echoes Of The Future",
+        "year": "2023",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ],
+    "origin": "ES"
   }
 ]

@@ -669,6 +669,22 @@
     ]
   },
   {
+    "normalizedName": "desertment",
+    "displayName": "Desertment",
+    "albums": [
+      {
+        "name": "Theater of Blood",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "devilsslingshot",
     "displayName": "Devil's Slingshot",
     "origin": "US",
@@ -1590,6 +1606,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Brenndar Rústir & Fuðrandi Fjörur",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1764,6 +1785,11 @@
         "genres": [
           "Gothic Metal"
         ]
+      },
+      {
+        "name": "My Time",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3335,6 +3361,24 @@
     ]
   },
   {
+    "normalizedName": "obsoleteman",
+    "displayName": "Obsolete Man",
+    "albums": [
+      {
+        "name": "Embittered, Detaching, and Stuck",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Punk"
+    ]
+  },
+  {
     "normalizedName": "ofrytes",
     "displayName": "Of Rytes",
     "albums": [
@@ -3776,6 +3820,11 @@
         "genres": [
           "Drone Doom Metal"
         ]
+      },
+      {
+        "name": "Delyrio",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4637,6 +4686,18 @@
     ]
   },
   {
+    "normalizedName": "thechroniclesofmanimalandsamara",
+    "displayName": "The Chronicles Of Manimal And Samara",
+    "albums": [
+      {
+        "name": "Misantropi",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "thefuneralprocession",
     "displayName": "The Funeral Procession",
     "albums": [
@@ -4670,6 +4731,18 @@
       "Thrash Metal",
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "thehowlers",
+    "displayName": "The Howlers",
+    "albums": [
+      {
+        "name": "Heavy",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "themachinist",

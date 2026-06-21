@@ -625,6 +625,11 @@
         "name": "Failure Of Faith",
         "year": "2020",
         "genres": []
+      },
+      {
+        "name": "Les Angst ov Thanatou",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": []
@@ -1383,6 +1388,24 @@
     ]
   },
   {
+    "normalizedName": "draals",
+    "displayName": "Dräals",
+    "albums": [
+      {
+        "name": "Endless Winter",
+        "year": "2026",
+        "genres": [
+          "Black Speed Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Speed Metal",
+      "Speed Metal"
+    ]
+  },
+  {
     "normalizedName": "dreamofillusion",
     "displayName": "Dream Of Illusion",
     "albums": [
@@ -2001,32 +2024,6 @@
     ]
   },
   {
-    "normalizedName": "føss",
-    "displayName": "Føss",
-    "albums": [
-      {
-        "name": "Second Coming",
-        "year": "2017",
-        "genres": [
-          "Heavy Metal",
-          "Thrash Metal"
-        ]
-      },
-      {
-        "name": "These Voices",
-        "year": "2022",
-        "genres": [
-          "Heavy Metal",
-          "Thrash Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Heavy Metal",
-      "Thrash Metal"
-    ]
-  },
-  {
     "normalizedName": "fullblownchaos",
     "displayName": "Full Blown Chaos",
     "origin": "US",
@@ -2085,6 +2082,24 @@
     ]
   },
   {
+    "normalizedName": "funerealowlblood",
+    "displayName": "Funereal Owlblood",
+    "albums": [
+      {
+        "name": "Upon the Ashes of Extermination",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "funest",
     "displayName": "Funest",
     "albums": [
@@ -2098,6 +2113,32 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "føss",
+    "displayName": "Føss",
+    "albums": [
+      {
+        "name": "Second Coming",
+        "year": "2017",
+        "genres": [
+          "Heavy Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "These Voices",
+        "year": "2022",
+        "genres": [
+          "Heavy Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -3097,6 +3138,18 @@
     ]
   },
   {
+    "normalizedName": "lovelost",
+    "displayName": "Lovelost",
+    "albums": [
+      {
+        "name": "Picking Petals By Your Graveside EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "manngard",
     "displayName": "Manngard",
     "albums": [
@@ -3648,53 +3701,6 @@
     ]
   },
   {
-    "normalizedName": "pøltergeist",
-    "displayName": "Pøltergeist",
-    "albums": [
-      {
-        "name": "Cold Breath",
-        "year": "2019",
-        "genres": [
-          "Heavy Metal",
-          "Gothic Rock",
-          "Post-punk"
-        ]
-      },
-      {
-        "name": "Yesterday Fades",
-        "year": "2020",
-        "genres": [
-          "Heavy Metal",
-          "Gothic Rock",
-          "Post-punk"
-        ]
-      },
-      {
-        "name": "Hallucinations In The Catacombs",
-        "year": "2021",
-        "genres": [
-          "Heavy Metal",
-          "Gothic Rock",
-          "Post-punk"
-        ]
-      },
-      {
-        "name": "Nachtmusik",
-        "year": "2024",
-        "genres": [
-          "Heavy Metal",
-          "Gothic Rock",
-          "Post-punk"
-        ]
-      }
-    ],
-    "tags": [
-      "Heavy Metal",
-      "Gothic Rock",
-      "Post-punk"
-    ]
-  },
-  {
     "normalizedName": "powerwithin",
     "displayName": "Power Within",
     "albums": [
@@ -3768,6 +3774,53 @@
     "tags": [
       "Brutal Death Metal",
       "Goregrind"
+    ]
+  },
+  {
+    "normalizedName": "pøltergeist",
+    "displayName": "Pøltergeist",
+    "albums": [
+      {
+        "name": "Cold Breath",
+        "year": "2019",
+        "genres": [
+          "Heavy Metal",
+          "Gothic Rock",
+          "Post-punk"
+        ]
+      },
+      {
+        "name": "Yesterday Fades",
+        "year": "2020",
+        "genres": [
+          "Heavy Metal",
+          "Gothic Rock",
+          "Post-punk"
+        ]
+      },
+      {
+        "name": "Hallucinations In The Catacombs",
+        "year": "2021",
+        "genres": [
+          "Heavy Metal",
+          "Gothic Rock",
+          "Post-punk"
+        ]
+      },
+      {
+        "name": "Nachtmusik",
+        "year": "2024",
+        "genres": [
+          "Heavy Metal",
+          "Gothic Rock",
+          "Post-punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Gothic Rock",
+      "Post-punk"
     ]
   },
   {
@@ -4513,6 +4566,24 @@
     ]
   },
   {
+    "normalizedName": "thanatology",
+    "displayName": "Thanatology",
+    "albums": [
+      {
+        "name": "Urgencias",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "theprovidence",
     "displayName": "The Providence",
     "albums": [
@@ -4739,6 +4810,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Suburban Rot",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -5283,6 +5359,7 @@
     "tags": [
       "Black Metal",
       "Noise Metal"
-    ]
+    ],
+    "origin": "GR"
   }
 ]

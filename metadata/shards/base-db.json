@@ -636,6 +636,22 @@
     ]
   },
   {
+    "normalizedName": "braingrenade",
+    "displayName": "Brain Grenade",
+    "albums": [
+      {
+        "name": "Brain Grenade",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "bullriffstampede",
     "displayName": "Bull-riff Stampede",
     "albums": [
@@ -822,10 +838,18 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Know That",
+        "year": "2026",
+        "genres": [
+          "Epic Symphonic Metal"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Epic Symphonic Metal"
     ]
   },
   {
@@ -1327,6 +1351,22 @@
     ]
   },
   {
+    "normalizedName": "demonicsacrificeblackritual",
+    "displayName": "Demonic Sacrifice/Black Ritual",
+    "albums": [
+      {
+        "name": "Obscure Demonic Ritual",
+        "year": "2026",
+        "genres": [
+          "Black Metal | Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal | Black Metal"
+    ]
+  },
+  {
     "normalizedName": "desospheres",
     "displayName": "Desospheres",
     "albums": [
@@ -1390,6 +1430,22 @@
     "tags": [
       "Progressive Metal",
       "Instrumental"
+    ]
+  },
+  {
+    "normalizedName": "doomcross",
+    "displayName": "Doomcross",
+    "albums": [
+      {
+        "name": "Supremacy of the One",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -3317,6 +3373,24 @@
     ]
   },
   {
+    "normalizedName": "morphin",
+    "displayName": "Morphin",
+    "albums": [
+      {
+        "name": "Dead Footprints",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "morrigu",
     "displayName": "Morrigu",
     "albums": [
@@ -5171,6 +5245,26 @@
       "Glam Metal",
       "Electronic",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "theoceancollective",
+    "displayName": "The Ocean Collective",
+    "albums": [
+      {
+        "name": "Light Pollution",
+        "year": "2026",
+        "genres": [
+          "Progressive Post-Metal",
+          "Atmospheric Sludge Post-Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Post-Metal",
+      "Atmospheric Sludge Post-Metal",
+      "Post-Metal"
     ]
   },
   {

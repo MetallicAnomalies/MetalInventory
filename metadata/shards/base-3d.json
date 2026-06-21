@@ -53,29 +53,6 @@
     ]
   },
   {
-    "normalizedName": "æternalrequiem",
-    "displayName": "æTernal Requiem",
-    "albums": [
-      {
-        "name": "Into Forever",
-        "year": "2017",
-        "genres": [
-          "Power Metal"
-        ]
-      },
-      {
-        "name": "Rise",
-        "year": "2019",
-        "genres": [
-          "Power Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Power Metal"
-    ]
-  },
-  {
     "normalizedName": "ahciliz",
     "displayName": "Ah Ciliz",
     "albums": [
@@ -805,6 +782,24 @@
     ]
   },
   {
+    "normalizedName": "bloodserpent",
+    "displayName": "Blood Serpent",
+    "albums": [
+      {
+        "name": "Rehearsal MMXXVI",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "brace",
     "displayName": "Brace",
     "origin": "FR",
@@ -1156,6 +1151,24 @@
     ]
   },
   {
+    "normalizedName": "crimeslug",
+    "displayName": "Crime Slug",
+    "albums": [
+      {
+        "name": "WHITE BOY SUMMER",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "darkallslaves",
     "displayName": "Darkall Slaves",
     "albums": [
@@ -1359,6 +1372,22 @@
       "Stoner Metal",
       "Post-Metal",
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "dyingreverie",
+    "displayName": "Dying Reverie",
+    "albums": [
+      {
+        "name": "Embrace of the Black Water",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {
@@ -2715,7 +2744,8 @@
     ],
     "tags": [
       "Neoclassical Metal"
-    ]
+    ],
+    "origin": "DK"
   },
   {
     "normalizedName": "midnightoil",
@@ -2746,6 +2776,18 @@
       "Rock",
       "Alternative Rock"
     ]
+  },
+  {
+    "normalizedName": "missio",
+    "displayName": "Missio",
+    "albums": [
+      {
+        "name": "Love & Heartbreak",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "mitsein",
@@ -2912,6 +2954,13 @@
       {
         "name": "In Pain We Trust",
         "year": "2023",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Devouring the Gods",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]
@@ -4342,6 +4391,29 @@
     ]
   },
   {
+    "normalizedName": "æternalrequiem",
+    "displayName": "æTernal Requiem",
+    "albums": [
+      {
+        "name": "Into Forever",
+        "year": "2017",
+        "genres": [
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "Rise",
+        "year": "2019",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "белыишаман",
     "displayName": "белый шаман",
     "albums": [
@@ -4381,7 +4453,8 @@
       "Heavy Metal",
       "Hard Rock",
       "Acoustic"
-    ]
+    ],
+    "origin": "RU"
   },
   {
     "normalizedName": "кувалда",
@@ -4418,6 +4491,7 @@
     ],
     "tags": [
       "Thrash Metal"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

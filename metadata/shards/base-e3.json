@@ -1,25 +1,5 @@
 [
   {
-    "normalizedName": "ælfierlen",
-    "displayName": "æL-fierlen",
-    "albums": [
-      {
-        "name": "All Is Far Away",
-        "year": "2025",
-        "genres": [
-          "Post-Black Metal",
-          "Blackgaze",
-          "Post-black Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Post-Black Metal",
-      "Blackgaze",
-      "Post-black Metal"
-    ]
-  },
-  {
     "normalizedName": "akowna",
     "displayName": "Akowna",
     "origin": "US",
@@ -839,6 +819,22 @@
       "Black Metal",
       "Death Metal",
       "Blackened Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "coagulation",
+    "displayName": "Coagulation",
+    "albums": [
+      {
+        "name": "Banquet of Necrophagists",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {
@@ -2381,6 +2377,18 @@
     ]
   },
   {
+    "normalizedName": "maneatingorchid",
+    "displayName": "Maneating Orchid",
+    "albums": [
+      {
+        "name": "Cold Logic",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "maryscreek",
     "displayName": "Marys Creek",
     "aliases": [
@@ -2584,6 +2592,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "mountturmoil",
+    "displayName": "Mount Turmoil",
+    "albums": [
+      {
+        "name": "Peak Living",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "mulla",
@@ -2801,7 +2821,8 @@
         "name": "Anthem For The Lost",
         "genres": [
           "Metalcore"
-        ]
+        ],
+        "year": "2016"
       }
     ],
     "tags": [
@@ -2849,36 +2870,6 @@
     "tags": [
       "Blackened Death Metal",
       "Melodic Black Metal"
-    ]
-  },
-  {
-    "normalizedName": "ørkenkjøtt",
-    "displayName": "øRkenkjøtt",
-    "albums": [
-      {
-        "name": "Skygger Og Støv",
-        "year": "2009",
-        "genres": [
-          "Extreme Progressive Metal"
-        ]
-      },
-      {
-        "name": "øNskediktet",
-        "year": "2012",
-        "genres": [
-          "Extreme Progressive Metal"
-        ]
-      },
-      {
-        "name": "Et Land I En Sang",
-        "year": "2013",
-        "genres": [
-          "Extreme Progressive Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Extreme Progressive Metal"
     ]
   },
   {
@@ -3680,6 +3671,24 @@
     ]
   },
   {
+    "normalizedName": "sleepthrone",
+    "displayName": "Sleep Throne",
+    "albums": [
+      {
+        "name": "Sleep's Throne",
+        "year": "2026",
+        "genres": [
+          "Doom Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "solkia",
     "displayName": "Sol Kia",
     "albums": [
@@ -4353,5 +4362,57 @@
       "Stoner Metal",
       "Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "ælfierlen",
+    "displayName": "æL-fierlen",
+    "albums": [
+      {
+        "name": "All Is Far Away",
+        "year": "2025",
+        "genres": [
+          "Post-Black Metal",
+          "Blackgaze",
+          "Post-black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal",
+      "Blackgaze",
+      "Post-black Metal"
+    ],
+    "origin": "US"
+  },
+  {
+    "normalizedName": "ørkenkjøtt",
+    "displayName": "øRkenkjøtt",
+    "albums": [
+      {
+        "name": "Skygger Og Støv",
+        "year": "2009",
+        "genres": [
+          "Extreme Progressive Metal"
+        ]
+      },
+      {
+        "name": "øNskediktet",
+        "year": "2012",
+        "genres": [
+          "Extreme Progressive Metal"
+        ]
+      },
+      {
+        "name": "Et Land I En Sang",
+        "year": "2013",
+        "genres": [
+          "Extreme Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Extreme Progressive Metal"
+    ],
+    "origin": "NO"
   }
 ]

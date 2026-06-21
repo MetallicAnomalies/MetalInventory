@@ -589,6 +589,24 @@
     ]
   },
   {
+    "normalizedName": "bestialdecay",
+    "displayName": "Bestial Decay",
+    "albums": [
+      {
+        "name": "Under a Pale Moon",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "blasphemist",
     "displayName": "Blasphemist",
     "origin": "RU",
@@ -621,6 +639,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "boarzoy",
+    "displayName": "Boarzoy",
+    "albums": [
+      {
+        "name": "The Great Fires",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "bolabar",
@@ -953,22 +983,6 @@
     ]
   },
   {
-    "normalizedName": "dæmonesq",
-    "displayName": "Dæmonesq",
-    "albums": [
-      {
-        "name": "The Beauty Of Letting Go",
-        "year": "2022",
-        "genres": [
-          "Black Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Black Metal"
-    ]
-  },
-  {
     "normalizedName": "darkshines",
     "displayName": "Darkshines",
     "albums": [
@@ -1135,6 +1149,22 @@
     ],
     "tags": [
       "Gothic Black"
+    ]
+  },
+  {
+    "normalizedName": "dæmonesq",
+    "displayName": "Dæmonesq",
+    "albums": [
+      {
+        "name": "The Beauty Of Letting Go",
+        "year": "2022",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3023,6 +3053,11 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Stories From The Verdant Vale",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3219,6 +3254,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Inbir",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3303,6 +3343,22 @@
       "Hard Rock",
       "Gothic Metal",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "nord",
+    "displayName": "Nord",
+    "albums": [
+      {
+        "name": "Rust",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3735,6 +3791,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "ruinsbeheld",
+    "displayName": "Ruins Beheld",
+    "albums": [
+      {
+        "name": "Jamjam cinis eris aut nuda ossa",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Post-Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Post-Metal",
+      "Post-Metal"
     ]
   },
   {

@@ -299,6 +299,18 @@
     ]
   },
   {
+    "normalizedName": "aterera",
+    "displayName": "Ater Era",
+    "albums": [
+      {
+        "name": "Sinistria",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "atsushiyokozeki",
     "displayName": "Atsushi Yokozeki",
     "albums": [
@@ -1173,22 +1185,6 @@
     ]
   },
   {
-    "normalizedName": "ðiatharchy",
-    "displayName": "ðIatharchy",
-    "albums": [
-      {
-        "name": "Sentient",
-        "year": "2023",
-        "genres": [
-          "Progressive Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Progressive Metal"
-    ]
-  },
-  {
     "normalizedName": "differentmoonshine",
     "displayName": "Different Moonshine",
     "origin": "AT",
@@ -1667,7 +1663,7 @@
       },
       {
         "name": "There Is Nothing Left To Lose",
-        "year": "2008-07-07",
+        "year": "1999",
         "genres": [
           "Alternative Rock",
           "Hard Rock",
@@ -1677,7 +1673,7 @@
       },
       {
         "name": "In Your Honor",
-        "year": "2008-09-09",
+        "year": "2005",
         "genres": [
           "Alternative Rock",
           "Hard Rock",
@@ -1863,6 +1859,18 @@
     "tags": [
       "Symphonic Power"
     ]
+  },
+  {
+    "normalizedName": "ginlady",
+    "displayName": "Gin Lady",
+    "albums": [
+      {
+        "name": "Toads & Diamonds Volume One: Live In Spain",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "godfather",
@@ -2815,11 +2823,19 @@
           "Grindcore",
           "Goregrind"
         ]
+      },
+      {
+        "name": "Eat Shit",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
       "Grindcore",
-      "Goregrind"
+      "Goregrind",
+      "Brutal Death Metal"
     ]
   },
   {
@@ -3254,6 +3270,38 @@
     "tags": [
       "Children's",
       "Folk, World, & Country"
+    ]
+  },
+  {
+    "normalizedName": "prætu",
+    "displayName": "Prætu",
+    "albums": [
+      {
+        "name": "Fall From The Æther",
+        "year": "2026",
+        "genres": [
+          "Raw Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Depressive Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "pullthestrings",
+    "displayName": "Pull the Strings",
+    "albums": [
+      {
+        "name": "Griefbloom",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {
@@ -3756,6 +3804,11 @@
         "genres": [
           "Blackened Death Metal"
         ]
+      },
+      {
+        "name": "Toxic Current",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3830,6 +3883,24 @@
     "tags": [
       "Progressive Metal",
       "Prog Rock"
+    ]
+  },
+  {
+    "normalizedName": "theredcrow",
+    "displayName": "The Red Crow",
+    "albums": [
+      {
+        "name": "Basement Tapes: B Side",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Rock"
     ]
   },
   {
@@ -4267,6 +4338,18 @@
     ]
   },
   {
+    "normalizedName": "volus",
+    "displayName": "Volus",
+    "albums": [
+      {
+        "name": "Grim Dark Execution",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "vortex",
     "displayName": "Vörtex",
     "aliases": [
@@ -4430,6 +4513,22 @@
       "Black Metal",
       "Death Metal",
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "ðiatharchy",
+    "displayName": "ðIatharchy",
+    "albums": [
+      {
+        "name": "Sentient",
+        "year": "2023",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
     ]
   }
 ]

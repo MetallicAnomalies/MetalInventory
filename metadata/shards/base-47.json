@@ -1024,6 +1024,24 @@
     ]
   },
   {
+    "normalizedName": "ehrmantraut",
+    "displayName": "Ehrmantraut",
+    "albums": [
+      {
+        "name": "In Wires",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "elvispresley",
     "displayName": "Elvis Presley",
     "origin": "US",
@@ -2137,6 +2155,11 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Moonfall",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3373,6 +3396,11 @@
           "Melodic Death Metal",
           "Melodic Black Metal"
         ]
+      },
+      {
+        "name": "Syvyyden Portit On Saatava Auki",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3989,6 +4017,24 @@
     ]
   },
   {
+    "normalizedName": "titanosaur",
+    "displayName": "Titanosaur",
+    "albums": [
+      {
+        "name": "Holding On to the Light",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "underthepledgeofsecrecy",
     "displayName": "Under the Pledge of Secrecy",
     "origin": "DE",
@@ -4209,6 +4255,18 @@
     ]
   },
   {
+    "normalizedName": "vertiginous",
+    "displayName": "Vertiginous",
+    "albums": [
+      {
+        "name": "Incessant Affliction",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "winterthrall",
     "displayName": "Winterthrall",
     "albums": [
@@ -4288,6 +4346,24 @@
     ],
     "tags": [
       "Death Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "wulvyr",
+    "displayName": "Wulvyr",
+    "albums": [
+      {
+        "name": "A Blessing of Cruelty",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

@@ -1885,6 +1885,22 @@
     ]
   },
   {
+    "normalizedName": "finngalkn",
+    "displayName": "Finngálkn",
+    "albums": [
+      {
+        "name": "Svartrokk af Upsaströnd",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "firespawn",
     "displayName": "Firespawn",
     "origin": "SE",
@@ -2596,6 +2612,18 @@
     "tags": [
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "mattador",
+    "displayName": "Mattador",
+    "albums": [
+      {
+        "name": "III",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "midnight",
@@ -3409,6 +3437,26 @@
     ]
   },
   {
+    "normalizedName": "saiseiga",
+    "displayName": "Saiseiga",
+    "albums": [
+      {
+        "name": "黒舞台",
+        "year": "2026",
+        "genres": [
+          "Melodic Groove Nu-Metal",
+          "Heavy Nu-Metal",
+          "Nu-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Groove Nu-Metal",
+      "Heavy Nu-Metal",
+      "Nu-Metal"
+    ]
+  },
+  {
     "normalizedName": "saltmarsh",
     "displayName": "Saltmarsh",
     "albums": [
@@ -3486,6 +3534,22 @@
     "tags": [
       "Melodic Death Metal",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "sanguinaryverdict",
+    "displayName": "Sanguinary Verdict",
+    "albums": [
+      {
+        "name": "Brute Force Supremacy",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {
@@ -4611,6 +4675,7 @@
     "tags": [
       "Post-Black Metal",
       "Post-black Metal"
-    ]
+    ],
+    "origin": "PL"
   }
 ]

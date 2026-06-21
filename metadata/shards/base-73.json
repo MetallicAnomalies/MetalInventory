@@ -969,7 +969,7 @@
       },
       {
         "name": "Allennig Ii",
-        "year": "2008-03-31",
+        "year": "2008",
         "genres": [
           "Ballad",
           "Pop",
@@ -1598,6 +1598,11 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Parable Of The Sewer",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1633,6 +1638,22 @@
     ],
     "tags": [
       "Ambient Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "fioridelmale",
+    "displayName": "Fiori del Male",
+    "albums": [
+      {
+        "name": "Fiori del Male",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Black Metal"
     ]
   },
   {
@@ -1987,6 +2008,26 @@
     "tags": [
       "Black Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "iguessthisisit",
+    "displayName": "I Guess This Is It.",
+    "albums": [
+      {
+        "name": "Things That Hurt to Remember / When It Gets Quiet",
+        "year": "2026",
+        "genres": [
+          "Raw Post-Black Metal",
+          "Depressive Post-Black Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Post-Black Metal",
+      "Depressive Post-Black Metal",
+      "Post-Black Metal"
     ]
   },
   {
@@ -2746,6 +2787,18 @@
     "tags": [
       "Gothic Metal"
     ]
+  },
+  {
+    "normalizedName": "newforms",
+    "displayName": "New Forms",
+    "albums": [
+      {
+        "name": "Nothing’s Sacred Anymore EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "notbloodpaint",
@@ -3622,6 +3675,11 @@
         "genres": [
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Homage",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

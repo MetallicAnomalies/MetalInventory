@@ -495,6 +495,22 @@
     ]
   },
   {
+    "normalizedName": "brenek",
+    "displayName": "Brenek",
+    "albums": [
+      {
+        "name": "Das tote Ganze",
+        "year": "2026",
+        "genres": [
+          "Progressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "capra",
     "displayName": "Capra",
     "origin": "US",
@@ -2112,6 +2128,22 @@
     ],
     "tags": [
       "Blackened Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "katarsys",
+    "displayName": "Katarsys",
+    "albums": [
+      {
+        "name": "Devastation of an Entity",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {
@@ -4176,6 +4208,11 @@
           "Industrial Metal",
           "Avantgarde Metal"
         ]
+      },
+      {
+        "name": "Master, We Perish Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

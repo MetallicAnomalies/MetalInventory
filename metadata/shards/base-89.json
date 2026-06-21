@@ -1248,7 +1248,7 @@
     "albums": [
       {
         "name": "Beyond The Gates",
-        "year": "2012-08-24",
+        "year": "2012",
         "genres": [
           "Metalcore"
         ]
@@ -1771,6 +1771,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Frostheim",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1864,6 +1869,18 @@
       "Sludge Metal",
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "hocestbellum",
+    "displayName": "Hoc Est Bellum",
+    "albums": [
+      {
+        "name": "Filth Majesty",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "infestser",
@@ -2077,6 +2094,13 @@
       {
         "name": "Breakout",
         "year": "2021",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "Reforged Within",
+        "year": "2026",
         "genres": [
           "Heavy Metal"
         ]
@@ -2361,6 +2385,11 @@
           "Ebm",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Black Magick Abraxas",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2915,6 +2944,24 @@
       "Heavy Metal",
       "Hard Rock",
       "Alternative Rock"
+    ]
+  },
+  {
+    "normalizedName": "megasonorus",
+    "displayName": "Megasonorus",
+    "albums": [
+      {
+        "name": "War with My Mind",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal",
+      "Rock"
     ]
   },
   {
@@ -3518,6 +3565,26 @@
     ]
   },
   {
+    "normalizedName": "radiantblack",
+    "displayName": "Radiant Black",
+    "albums": [
+      {
+        "name": "Through the Valley of Decay",
+        "year": "2026",
+        "genres": [
+          "Progressive Metalcore",
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metalcore",
+      "Melodic Death Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "randomeyes",
     "displayName": "Random Eyes",
     "origin": "US",
@@ -3737,6 +3804,11 @@
         "genres": [
           "Atmospheric Rock"
         ]
+      },
+      {
+        "name": "Dreams & Limitations",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

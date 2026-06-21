@@ -1718,12 +1718,23 @@
           "Death Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "VII",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
       "Death Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Black Thrash Metal",
+      "Death Thrash Metal"
     ]
   },
   {
@@ -3136,6 +3147,22 @@
     ]
   },
   {
+    "normalizedName": "plagueofangels",
+    "displayName": "Plague of Angels",
+    "albums": [
+      {
+        "name": "Pangea",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Metal"
+    ]
+  },
+  {
     "normalizedName": "prophecybra",
     "displayName": "Prophecy (Bra)",
     "albums": [
@@ -3371,6 +3398,18 @@
       "Pop",
       "Folk Metal"
     ]
+  },
+  {
+    "normalizedName": "schefftolleadriaens",
+    "displayName": "Scheff Tolle Adriaens",
+    "albums": [
+      {
+        "name": "Let’s Stop The World",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "screamsoferida",
@@ -3678,6 +3717,24 @@
     ]
   },
   {
+    "normalizedName": "stilveca",
+    "displayName": "Stïlveca",
+    "albums": [
+      {
+        "name": "Surrender",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Speed Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "sutrah",
     "displayName": "Sutrah",
     "origin": "CA",
@@ -3807,6 +3864,18 @@
     "tags": [
       "Hard Rock"
     ]
+  },
+  {
+    "normalizedName": "thecocktailslippers",
+    "displayName": "The Cocktail Slippers",
+    "albums": [
+      {
+        "name": "Joyride",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "theoutburst",
@@ -4113,10 +4182,21 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Gate of Hell",
+        "year": "2026",
+        "genres": [
+          "Power Metal",
+          "Symphonic Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Symphonic Metal",
+      "Metal"
     ]
   },
   {

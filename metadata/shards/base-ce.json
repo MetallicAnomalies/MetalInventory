@@ -23,6 +23,27 @@
     ]
   },
   {
+    "normalizedName": "agarwaen",
+    "displayName": "Agarwaen",
+    "albums": [
+      {
+        "name": "The Murder Trend",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Bad Beginning",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "alabama3",
     "displayName": "Alabama 3",
     "origin": "GB",
@@ -1087,6 +1108,22 @@
     ]
   },
   {
+    "normalizedName": "doomcult",
+    "displayName": "Doomcult",
+    "albums": [
+      {
+        "name": "Sacrifice All Life",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "dramatica",
     "displayName": "Dramatica",
     "albums": [
@@ -1909,6 +1946,26 @@
     ]
   },
   {
+    "normalizedName": "krown",
+    "displayName": "Krown",
+    "albums": [
+      {
+        "name": "Slaughter Directive",
+        "year": "2026",
+        "genres": [
+          "Death Hardcore",
+          "Thrash Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Hardcore",
+      "Thrash Metal",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "kylfingar",
     "displayName": "Kylfingar",
     "origin": "HU",
@@ -2364,6 +2421,11 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Becoming After",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3066,6 +3128,11 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "Retaliate",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

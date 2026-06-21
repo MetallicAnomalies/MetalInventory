@@ -71,6 +71,11 @@
           "Progressive Metal",
           "Metalcore"
         ]
+      },
+      {
+        "name": "Ataraxia",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -604,6 +609,32 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "cloudsofmelancholy",
+    "displayName": "Clouds of Melancholy",
+    "albums": [
+      {
+        "name": "Deus Mortuus Est",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Various"
+        ]
+      },
+      {
+        "name": "Folgers is What Keeps Us Going",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Various"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Various"
     ]
   },
   {
@@ -1843,6 +1874,22 @@
     ]
   },
   {
+    "normalizedName": "horridmass",
+    "displayName": "Horrid Mass",
+    "albums": [
+      {
+        "name": "Nauseating Ecstatic Degeneration",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "hovmod",
     "displayName": "Hovmod",
     "albums": [
@@ -2321,6 +2368,22 @@
     ],
     "tags": [
       "Progressive Heavy"
+    ]
+  },
+  {
+    "normalizedName": "metrallo",
+    "displayName": "Metrallo",
+    "albums": [
+      {
+        "name": "1%",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {
@@ -3610,6 +3673,22 @@
       "Garage House",
       "Ragga Hiphop",
       "Synth-pop"
+    ]
+  },
+  {
+    "normalizedName": "riler",
+    "displayName": "Riler",
+    "albums": [
+      {
+        "name": "Salvaje agresión",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {
@@ -5265,6 +5344,13 @@
       {
         "name": "Tempest",
         "year": "2021",
+        "genres": [
+          "Technical Death Metal"
+        ]
+      },
+      {
+        "name": "The Seven Agonies",
+        "year": "2026",
         "genres": [
           "Technical Death Metal"
         ]

@@ -66,6 +66,11 @@
           "Metalcore",
           "Hardcore Metal"
         ]
+      },
+      {
+        "name": "From A Distance",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -207,6 +212,18 @@
     "tags": [
       "Hardcore Metal"
     ]
+  },
+  {
+    "normalizedName": "alunahsamavayo",
+    "displayName": "Alunah/Samavayo",
+    "albums": [
+      {
+        "name": "Embers Of Relief Split EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "babylonmysteryorchestra",
@@ -710,6 +727,11 @@
           "Reggae",
           "Reggae Rock"
         ]
+      },
+      {
+        "name": "7 Seas",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1787,7 +1809,7 @@
       },
       {
         "name": "American Iv: The Man Comes Around",
-        "year": "2010-10-10",
+        "year": "2002",
         "genres": [
           "Country Rock",
           "Folk Metal",
@@ -2312,6 +2334,18 @@
     "tags": [
       "Gothic Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "nestor",
+    "displayName": "Nestor",
+    "albums": [
+      {
+        "name": "Live At Gothenburg Film Studios",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "nevel",

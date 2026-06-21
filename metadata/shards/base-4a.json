@@ -264,6 +264,22 @@
     ]
   },
   {
+    "normalizedName": "astericks0",
+    "displayName": "ASTERICKS.0",
+    "albums": [
+      {
+        "name": "British Cigarette (Director's Cut)",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "asunojokei",
     "displayName": "Asunojokei",
     "albums": [
@@ -537,6 +553,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "bornhanged",
+    "displayName": "Born Hanged",
+    "albums": [
+      {
+        "name": "Left to Rot",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Hardcore"
     ]
   },
   {
@@ -1037,6 +1071,18 @@
       "Thrash Metal",
       "Melodic Death Metal"
     ]
+  },
+  {
+    "normalizedName": "deadtired",
+    "displayName": "Dead Tired",
+    "albums": [
+      {
+        "name": "Hornets Of Fall",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "deathening",
@@ -1958,6 +2004,11 @@
           "Folk Metal",
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Still",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2146,6 +2197,24 @@
     "tags": [
       "Experimental Industrial",
       "Avantgarde Metal"
+    ]
+  },
+  {
+    "normalizedName": "grimtotem",
+    "displayName": "Grimtotem",
+    "albums": [
+      {
+        "name": "Leftraru",
+        "year": "2026",
+        "genres": [
+          "Pagan Folk Metal",
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Pagan Folk Metal",
+      "Folk Metal"
     ]
   },
   {
@@ -3368,6 +3437,22 @@
     ]
   },
   {
+    "normalizedName": "rivermist",
+    "displayName": "River Mist",
+    "albums": [
+      {
+        "name": "Feuer statt Himmel",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "ruin",
     "displayName": "Ruin",
     "albums": [
@@ -3663,6 +3748,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "stinkrat",
+    "displayName": "Stinkrat",
+    "albums": [
+      {
+        "name": "Fuck Around Find Out",
+        "year": "2026",
+        "genres": [
+          "Various"
+        ]
+      }
+    ],
+    "tags": [
+      "Various"
     ]
   },
   {

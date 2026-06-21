@@ -167,12 +167,21 @@
           "Doom Metal",
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Embers of Belief",
+        "year": "2026",
+        "genres": [
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
       }
     ],
     "tags": [
       "Stoner Doom Metal",
       "Doom Metal",
-      "Stoner Metal"
+      "Stoner Metal",
+      "Doom Stoner Metal"
     ]
   },
   {
@@ -249,6 +258,24 @@
       "Psychedelic Doom",
       "Sludge Metal",
       "Stoner Metal"
+    ]
+  },
+  {
+    "normalizedName": "asgardchalchiuhtotolin",
+    "displayName": "Asgard/Chalchiuhtotolin",
+    "albums": [
+      {
+        "name": "Battlefront 88",
+        "year": "2026",
+        "genres": [
+          "Viking Black Metal | Black Metal",
+          "Black Metal | Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Viking Black Metal | Black Metal",
+      "Black Metal | Black Metal"
     ]
   },
   {
@@ -844,10 +871,21 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "The Gap",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Power Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Heavy Thrash Metal",
+      "Power Thrash Metal"
     ]
   },
   {
@@ -867,22 +905,6 @@
     ]
   },
   {
-    "normalizedName": "dødssanger",
-    "displayName": "Dødssanger",
-    "albums": [
-      {
-        "name": "Reflection Of A Wretched Soul",
-        "year": "2023",
-        "genres": [
-          "Depressive Black Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Depressive Black Metal"
-    ]
-  },
-  {
     "normalizedName": "doldrum",
     "displayName": "Doldrum",
     "albums": [
@@ -898,6 +920,22 @@
     "tags": [
       "Black Metal",
       "Avantgarde Metal"
+    ]
+  },
+  {
+    "normalizedName": "dødssanger",
+    "displayName": "Dødssanger",
+    "albums": [
+      {
+        "name": "Reflection Of A Wretched Soul",
+        "year": "2023",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {
@@ -1034,6 +1072,13 @@
           "Alternative Rock",
           "Alternative"
         ]
+      },
+      {
+        "name": "Sanctuary",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
       }
     ],
     "tags": [
@@ -1043,7 +1088,8 @@
       "Ballad",
       "Nu Metal",
       "Goth Rock",
-      "Industrial Metal"
+      "Industrial Metal",
+      "Metal"
     ]
   },
   {
@@ -1757,6 +1803,18 @@
       "Brutal Death Metal",
       "Grindcore"
     ]
+  },
+  {
+    "normalizedName": "haserot",
+    "displayName": "Haserot",
+    "albums": [
+      {
+        "name": "Advent Of Suffering",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "helga",
@@ -2630,6 +2688,11 @@
         "genres": [
           "Melodic Power"
         ]
+      },
+      {
+        "name": "Discovery",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2786,6 +2849,24 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "oxidisedrazorgolemofgore",
+    "displayName": "Oxidised Razor/Golem of Gore",
+    "albums": [
+      {
+        "name": "Only Gore Is Real",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Goregrind | Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Goregrind | Goregrind"
+    ]
   },
   {
     "normalizedName": "paralysisusalou",
@@ -4619,6 +4700,42 @@
     ]
   },
   {
+    "normalizedName": "vassalstate",
+    "displayName": "Vassal State",
+    "albums": [
+      {
+        "name": "The Rotting Horse on the Deadly Ground",
+        "year": "2026",
+        "genres": [
+          "Epic Atmospheric Black Metal",
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Epic Atmospheric Black Metal",
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "volgoriaorphikon",
+    "displayName": "Volgoria/Orphikon",
+    "albums": [
+      {
+        "name": "Orphikon / Volgoria",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Death Metal | Melodic Death Metal",
+          "Death Metal | Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Death Metal | Melodic Death Metal",
+      "Death Metal | Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "warchild",
     "displayName": "Warchild",
     "albums": [
@@ -4836,6 +4953,7 @@
     "tags": [
       "Death Metal",
       "Thrash Metal"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

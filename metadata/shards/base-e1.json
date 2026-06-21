@@ -49,6 +49,22 @@
     ]
   },
   {
+    "normalizedName": "agoniablackvomit",
+    "displayName": "Agonia Black Vomit",
+    "albums": [
+      {
+        "name": "Satanic Rites For The Undead",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "angerseed",
     "displayName": "Angerseed",
     "albums": [
@@ -1492,6 +1508,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "drowningthelight",
+    "displayName": "Drowning the Light",
+    "albums": [
+      {
+        "name": "Conquer or Serve",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3018,6 +3050,18 @@
     ]
   },
   {
+    "normalizedName": "mirrorofmysoul",
+    "displayName": "Mirror Of My Soul",
+    "albums": [
+      {
+        "name": "October Is Rising",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "mortus",
     "displayName": "Mortus",
     "albums": [
@@ -3696,6 +3740,24 @@
     ]
   },
   {
+    "normalizedName": "poisonedpriest",
+    "displayName": "Poisoned Priest",
+    "albums": [
+      {
+        "name": "Goat Cult Bizarre",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "powderfinger",
     "displayName": "Powderfinger",
     "origin": "AU",
@@ -3865,6 +3927,18 @@
     ]
   },
   {
+    "normalizedName": "scatter",
+    "displayName": "Scatter",
+    "albums": [
+      {
+        "name": "Tech Hell Cyber Thrash EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "schattenvald",
     "displayName": "Schattenvald",
     "albums": [
@@ -3946,6 +4020,18 @@
     "tags": [
       "Death Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "seventhstring",
+    "displayName": "SeventhString",
+    "albums": [
+      {
+        "name": "An Ocean Laced With Glass",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "sionis",

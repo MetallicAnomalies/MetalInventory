@@ -1125,6 +1125,18 @@
     ]
   },
   {
+    "normalizedName": "carbontomb",
+    "displayName": "Carbon Tomb",
+    "albums": [
+      {
+        "name": "Passage To A Neutron Star",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "ceremonialcastings",
     "displayName": "Ceremonial Castings",
     "albums": [
@@ -1631,6 +1643,11 @@
           "Groove Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Strike And Kill",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1745,7 +1762,7 @@
       },
       {
         "name": "Hotel California",
-        "year": "2009-08-08",
+        "year": "1976",
         "genres": [
           "Country Rock",
           "Classic Rock",
@@ -2468,6 +2485,26 @@
     ]
   },
   {
+    "normalizedName": "gravety",
+    "displayName": "Gravety",
+    "albums": [
+      {
+        "name": "Of Cults and Chaos",
+        "year": "2026",
+        "genres": [
+          "Epic Heavy Thrash Metal",
+          "Thrash Metal",
+          "Epic Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Epic Heavy Thrash Metal",
+      "Thrash Metal",
+      "Epic Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "greatfalls",
     "displayName": "Great Falls",
     "origin": "US",
@@ -2795,6 +2832,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "heteromorphiczoo",
+    "displayName": "Heteromorphic Zoo",
+    "albums": [
+      {
+        "name": "Benediction",
+        "year": "2026",
+        "genres": [
+          "Symphonic Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Deathcore"
     ]
   },
   {
@@ -3408,6 +3461,18 @@
     ]
   },
   {
+    "normalizedName": "morgal",
+    "displayName": "Morgal",
+    "albums": [
+      {
+        "name": "The Seventh Circle",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "naomishemer",
     "displayName": "Naomi Shemer",
     "origin": "DE",
@@ -3798,6 +3863,22 @@
     ]
   },
   {
+    "normalizedName": "regressionofstyle",
+    "displayName": "Regression of Style",
+    "albums": [
+      {
+        "name": "Broken Consort",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "resurgence",
     "displayName": "Resurgence",
     "origin": "CA",
@@ -3970,6 +4051,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "silverlakemurder",
+    "displayName": "silverlake murder",
+    "albums": [
+      {
+        "name": "Impurity",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
   },
   {
     "normalizedName": "skelator",
@@ -4563,6 +4660,24 @@
     ]
   },
   {
+    "normalizedName": "thefractalconspiracy",
+    "displayName": "The Fractal Conspiracy",
+    "albums": [
+      {
+        "name": "The Fractal Conspiracy",
+        "year": "2026",
+        "genres": [
+          "Stoner Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Sludge Metal",
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "them",
     "displayName": "Them",
     "origin": "GB",
@@ -4818,6 +4933,18 @@
     ]
   },
   {
+    "normalizedName": "untitledwithdrums",
+    "displayName": "Untitled With Drums",
+    "albums": [
+      {
+        "name": "Made Flesh",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "valve",
     "displayName": "Valve",
     "albums": [
@@ -4941,6 +5068,11 @@
           "Progressive Metal",
           "Stoner Rock"
         ]
+      },
+      {
+        "name": "Traditional Addictions",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4948,6 +5080,24 @@
       "Doom Metal",
       "Progressive Metal",
       "Stoner Rock"
+    ]
+  },
+  {
+    "normalizedName": "구룡",
+    "displayName": "구룡",
+    "albums": [
+      {
+        "name": "합작음반",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Metal"
     ]
   }
 ]

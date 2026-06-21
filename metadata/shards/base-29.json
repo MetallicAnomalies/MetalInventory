@@ -2039,11 +2039,28 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "The Silent Abscission",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
       "Atmospheric Black Metal"
     ]
+  },
+  {
+    "normalizedName": "innuendo",
+    "displayName": "Innuendo",
+    "albums": [
+      {
+        "name": "Not Lost",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "iskandr",
@@ -3939,6 +3956,22 @@
     ]
   },
   {
+    "normalizedName": "saturniangateways",
+    "displayName": "Saturnian Gateways",
+    "albums": [
+      {
+        "name": "Dissecting for the Picatrix",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "selvans",
     "displayName": "Selvans",
     "albums": [
@@ -4241,7 +4274,7 @@
       },
       {
         "name": "Chapter V",
-        "year": "2005-08-08",
+        "year": "2005",
         "genres": [
           "Nu Metal"
         ]
@@ -4278,7 +4311,7 @@
       },
       {
         "name": "The Illusion Of Progress",
-        "year": "2008-08-19",
+        "year": "2008",
         "genres": [
           "Alternative Rock",
           "Hard Rock",
@@ -4661,6 +4694,11 @@
           "Post-hardcore",
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "Stenahoria",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

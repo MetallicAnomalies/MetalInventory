@@ -272,6 +272,22 @@
     ]
   },
   {
+    "normalizedName": "allyourdamage",
+    "displayName": "All Your Damage",
+    "albums": [
+      {
+        "name": "Incarnation",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "alucarda",
     "displayName": "Alucarda",
     "albums": [
@@ -734,6 +750,11 @@
         "genres": [
           "Grindcore"
         ]
+      },
+      {
+        "name": "Rebirth",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1109,6 +1130,22 @@
     ]
   },
   {
+    "normalizedName": "cursedburial",
+    "displayName": "Cursed Burial",
+    "albums": [
+      {
+        "name": "God of Carnage",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "dalesheaffer",
     "displayName": "Dale Sheaffer",
     "origin": "GB",
@@ -1288,6 +1325,22 @@
     ]
   },
   {
+    "normalizedName": "deussabaoth",
+    "displayName": "Deus Sabaoth",
+    "albums": [
+      {
+        "name": "Distortion of Lies",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "doomsdayrevival",
     "displayName": "Doomsday Revival",
     "albums": [
@@ -1387,6 +1440,11 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Invasion",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1434,6 +1492,24 @@
     "tags": [
       "Black Metal",
       "Ambient Metal"
+    ]
+  },
+  {
+    "normalizedName": "drunemeton",
+    "displayName": "Drunemeton",
+    "albums": [
+      {
+        "name": "Dweller of Carcosa",
+        "year": "2026",
+        "genres": [
+          "Pagan Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Pagan Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -2327,6 +2403,18 @@
     ]
   },
   {
+    "normalizedName": "krystalsystem",
+    "displayName": "Krystal System",
+    "albums": [
+      {
+        "name": "Da Punch",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "laurenspencersmith",
     "displayName": "Lauren Spencer-Smith",
     "origin": "CA",
@@ -2411,10 +2499,20 @@
         "genres": [
           "Blackened Doom Metal"
         ]
+      },
+      {
+        "name": "Death",
+        "year": "2026",
+        "genres": [
+          "Black Funeral Doom Metal",
+          "Funeral Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Blackened Doom Metal"
+      "Blackened Doom Metal",
+      "Black Funeral Doom Metal",
+      "Funeral Doom Metal"
     ]
   },
   {
@@ -2497,6 +2595,11 @@
         "genres": [
           "Shoegaze"
         ]
+      },
+      {
+        "name": "A Stranger To You",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2655,6 +2758,40 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "mandatoryexecution",
+    "displayName": "Mandatory Execution",
+    "albums": [
+      {
+        "name": "Homicidal Lunatic",
+        "year": "2026",
+        "genres": [
+          "Goregrind",
+          "Slam Hardcore",
+          "Brutal Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind",
+      "Slam Hardcore",
+      "Brutal Death Metal",
+      "Hardcore"
+    ]
+  },
+  {
+    "normalizedName": "manlookingman",
+    "displayName": "Man Looking Man",
+    "albums": [
+      {
+        "name": "Man Looking Man",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "mikeportnoy",
@@ -2819,6 +2956,28 @@
     ]
   },
   {
+    "normalizedName": "necrovomit666",
+    "displayName": "Necrovomit 666",
+    "albums": [
+      {
+        "name": "Burn Your God",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Black Grindcore",
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Black Grindcore",
+      "Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "nephelium",
     "displayName": "Nephelium",
     "albums": [
@@ -2953,6 +3112,24 @@
     "tags": [
       "Neoclassical Heavy",
       "Instrumental"
+    ]
+  },
+  {
+    "normalizedName": "oakofweeping",
+    "displayName": "Oak of Weeping",
+    "albums": [
+      {
+        "name": "The Grave My Father, the Worm My Sister",
+        "year": "2026",
+        "genres": [
+          "Depressive Post-Black Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Post-Black Metal",
+      "Post-Black Metal"
     ]
   },
   {
@@ -3096,49 +3273,6 @@
       "Electronic",
       "Experimental Metal",
       "Atmospheric Black Metal"
-    ]
-  },
-  {
-    "normalizedName": "rædsel",
-    "displayName": "Rædsel",
-    "origin": "DE",
-    "albums": [
-      {
-        "name": "A Simple Act Of Redirection",
-        "year": "2018",
-        "genres": [
-          "Post Rock",
-          "Rock"
-        ]
-      },
-      {
-        "name": "Evig Død",
-        "year": "2021",
-        "genres": [
-          "Black Metal"
-        ]
-      },
-      {
-        "name": "Menetekel",
-        "year": "2021",
-        "genres": [
-          "Post Rock",
-          "Rock"
-        ]
-      },
-      {
-        "name": "Determined To End",
-        "year": "2022",
-        "genres": [
-          "Post Rock",
-          "Rock"
-        ]
-      }
-    ],
-    "tags": [
-      "Black Metal",
-      "Post Rock",
-      "Rock"
     ]
   },
   {
@@ -3380,6 +3514,49 @@
     "tags": [
       "Heavy Metal",
       "Speed Metal"
+    ]
+  },
+  {
+    "normalizedName": "rædsel",
+    "displayName": "Rædsel",
+    "origin": "DE",
+    "albums": [
+      {
+        "name": "A Simple Act Of Redirection",
+        "year": "2018",
+        "genres": [
+          "Post Rock",
+          "Rock"
+        ]
+      },
+      {
+        "name": "Evig Død",
+        "year": "2021",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Menetekel",
+        "year": "2021",
+        "genres": [
+          "Post Rock",
+          "Rock"
+        ]
+      },
+      {
+        "name": "Determined To End",
+        "year": "2022",
+        "genres": [
+          "Post Rock",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Post Rock",
+      "Rock"
     ]
   },
   {
@@ -3720,6 +3897,11 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Gateways",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

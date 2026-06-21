@@ -1461,6 +1461,26 @@
     ]
   },
   {
+    "normalizedName": "dogjaw",
+    "displayName": "Dogjaw",
+    "albums": [
+      {
+        "name": "Tehty mikä tehty",
+        "year": "2026",
+        "genres": [
+          "Heavy Punk Rock",
+          "Speed Metal",
+          "Punk Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Punk Rock",
+      "Speed Metal",
+      "Punk Rock"
+    ]
+  },
+  {
     "normalizedName": "dyingpassion",
     "displayName": "Dying Passion",
     "origin": "CZ",
@@ -2058,6 +2078,22 @@
     ]
   },
   {
+    "normalizedName": "insanitymantra",
+    "displayName": "Insanity Mantra",
+    "albums": [
+      {
+        "name": "Gnosis of the Wound",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "inxs",
     "displayName": "INXS",
     "origin": "AU",
@@ -2386,6 +2422,18 @@
     ]
   },
   {
+    "normalizedName": "meltification",
+    "displayName": "Meltification",
+    "albums": [
+      {
+        "name": "Meltification",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "mezereum",
     "displayName": "Mezereum",
     "origin": "US",
@@ -2443,6 +2491,11 @@
           "Black Metal",
           "Folk Metal"
         ]
+      },
+      {
+        "name": "In The Sign Of The Ravens Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3966,6 +4019,22 @@
     ]
   },
   {
+    "normalizedName": "toxichell",
+    "displayName": "Toxic Hell",
+    "albums": [
+      {
+        "name": "Toxic Hell",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "trespassenger",
     "displayName": "Trespassenger",
     "albums": [
@@ -4055,6 +4124,36 @@
     "tags": [
       "Metal"
     ]
+  },
+  {
+    "normalizedName": "vaultorbitalgate",
+    "displayName": "Vault/Orbital Gate",
+    "albums": [
+      {
+        "name": "New Vegas Gangster Slam",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Grindcore | Slam Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal",
+      "Grindcore | Slam Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "vbo",
+    "displayName": "V.B.O.",
+    "albums": [
+      {
+        "name": "Vice Business Only",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "verka",

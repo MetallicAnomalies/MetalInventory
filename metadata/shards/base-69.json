@@ -52,6 +52,11 @@
           "Funeral Doom Metal",
           "Drone Metal"
         ]
+      },
+      {
+        "name": "Torn",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -872,6 +877,24 @@
     ]
   },
   {
+    "normalizedName": "carnotura",
+    "displayName": "Carnotura",
+    "albums": [
+      {
+        "name": "Kill the Machine",
+        "year": "2026",
+        "genres": [
+          "Thrash Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Heavy Metal",
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "carpetenebrum",
     "displayName": "Carpe Tenebrum",
     "albums": [
@@ -1339,7 +1362,8 @@
           "Funk Metal",
           "Grunge",
           "Hip Hop"
-        ]
+        ],
+        "year": "1993"
       },
       {
         "name": "We Care A Lot",
@@ -1481,6 +1505,27 @@
       "Hard Rock",
       "Post-punk",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "flykt",
+    "displayName": "Flykt",
+    "albums": [
+      {
+        "name": "Sinister Strain",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Transcendent Rebellion",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -4562,7 +4607,8 @@
     ],
     "tags": [
       "Symphonic Metal"
-    ]
+    ],
+    "origin": "RU"
   },
   {
     "normalizedName": "אופירשניידר",

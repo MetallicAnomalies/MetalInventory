@@ -575,6 +575,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "All Gates Open (Original Motion Picture Soundtrack)",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1723,10 +1728,25 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Aetherbound",
+        "year": "2026",
+        "genres": [
+          "Melodic Power Metal"
+        ]
+      },
+      {
+        "name": "The Wave of Time",
+        "year": "2026",
+        "genres": [
+          "Melodic Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Melodic Power Metal"
     ]
   },
   {
@@ -2190,6 +2210,18 @@
     ]
   },
   {
+    "normalizedName": "gudewife",
+    "displayName": "Gudewife",
+    "albums": [
+      {
+        "name": "Atoms, Don’t Die EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "gunterwerno",
     "displayName": "Günter Werno",
     "origin": "DE",
@@ -2543,6 +2575,11 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Eternal Dagger",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2768,6 +2805,22 @@
       "Thrash Metal",
       "Hardcore Metal",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "lakmaotho",
+    "displayName": "Lakma Otho",
+    "albums": [
+      {
+        "name": "Lakma Otho",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3141,6 +3194,22 @@
     ],
     "tags": [
       "Alternative"
+    ]
+  },
+  {
+    "normalizedName": "mogiladeathcultdeadspawned",
+    "displayName": "Mogila Deathcult/Deadspawned",
+    "albums": [
+      {
+        "name": "Afterlives: Revenants / Vile Torture",
+        "year": "2026",
+        "genres": [
+          "Death Metal | Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal | Death Metal"
     ]
   },
   {

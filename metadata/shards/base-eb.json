@@ -2291,6 +2291,40 @@
     ]
   },
   {
+    "normalizedName": "inanimateflesh",
+    "displayName": "Inanimate Flesh",
+    "albums": [
+      {
+        "name": "Compilationem Morborum Exoticorum",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
+    "normalizedName": "inflamedsword",
+    "displayName": "Inflamed Sword",
+    "albums": [
+      {
+        "name": "Nox Fletus, Mane Gaudii",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "ironcrossusapa",
     "displayName": "Iron Cross (Usa-pa)",
     "albums": [
@@ -2357,6 +2391,22 @@
     "tags": [
       "House",
       "Electronic"
+    ]
+  },
+  {
+    "normalizedName": "kaaper",
+    "displayName": "Ka'aper",
+    "albums": [
+      {
+        "name": "When Gods Walked the Earth",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {
@@ -3593,6 +3643,13 @@
           "Progressive Metal",
           "Instrumental"
         ]
+      },
+      {
+        "name": "The Ember Saga",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
@@ -3828,6 +3885,11 @@
           "Deathcore",
           "Metalcore"
         ]
+      },
+      {
+        "name": "Parasite Dream EP",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3995,6 +4057,18 @@
       "Melodic Death Metal",
       "Metalcore"
     ]
+  },
+  {
+    "normalizedName": "riffraiders",
+    "displayName": "Riff Raiders",
+    "albums": [
+      {
+        "name": "Welcome To Mars",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "rxptrs",
@@ -5136,6 +5210,22 @@
     ]
   },
   {
+    "normalizedName": "wolfzahn",
+    "displayName": "Wolfzahn",
+    "albums": [
+      {
+        "name": "Lone Wolf Kommando",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "xasthur",
     "displayName": "Xasthur",
     "albums": [
@@ -5273,6 +5363,44 @@
     "tags": [
       "Symphonic Power",
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "zivanished",
+    "displayName": "Zivanished",
+    "albums": [
+      {
+        "name": "100% Agnos Kypriakos Villos",
+        "year": "2026",
+        "genres": [
+          "Thrash Hardcore",
+          "Groove Hardcore",
+          "Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Hardcore",
+      "Groove Hardcore",
+      "Death Metal",
+      "Hardcore"
+    ]
+  },
+  {
+    "normalizedName": "απεχθεια",
+    "displayName": "Απέχθεια",
+    "albums": [
+      {
+        "name": "Ανόσιον Μίασμα",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   }
 ]

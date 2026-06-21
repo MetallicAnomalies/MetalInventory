@@ -2267,6 +2267,18 @@
     ]
   },
   {
+    "normalizedName": "gracie",
+    "displayName": "Gracie",
+    "albums": [
+      {
+        "name": "Miss Misfortunately",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "griefritual",
     "displayName": "Grief Ritual",
     "origin": "GB",
@@ -2362,6 +2374,26 @@
     ]
   },
   {
+    "normalizedName": "hecatesbreath",
+    "displayName": "Hecate's Breath",
+    "albums": [
+      {
+        "name": "The Poison Garden I (Intoxication)",
+        "year": "2026",
+        "genres": [
+          "Sludge Post-Metal",
+          "Doom Post-Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Post-Metal",
+      "Doom Post-Metal",
+      "Post-Metal"
+    ]
+  },
+  {
     "normalizedName": "hermetica",
     "displayName": "Hermética",
     "albums": [
@@ -2396,6 +2428,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "homicidalbutchery",
+    "displayName": "Homicidal Butchery",
+    "albums": [
+      {
+        "name": "Homicidal Butchery",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {
@@ -2528,6 +2578,18 @@
       "Metalcore",
       "Post-hardcore"
     ]
+  },
+  {
+    "normalizedName": "inscribed",
+    "displayName": "Inscribed",
+    "albums": [
+      {
+        "name": "Upon The Twisted Throne",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "insolence",
@@ -3122,6 +3184,18 @@
     ]
   },
   {
+    "normalizedName": "manraze",
+    "displayName": "Manraze",
+    "albums": [
+      {
+        "name": "Lock, Stock & Barrel (Complete Recordings 2008-2011)",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "mareinfinitum",
     "displayName": "Mare Infinitum",
     "albums": [
@@ -3336,6 +3410,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "mortis",
+    "displayName": "Mortis",
+    "albums": [
+      {
+        "name": "Biaiothanatoi",
+        "year": "2026",
+        "genres": [
+          "Crust Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Crust Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -5064,6 +5156,18 @@
     ]
   },
   {
+    "normalizedName": "twistlock",
+    "displayName": "Twist Lock",
+    "albums": [
+      {
+        "name": "Surplus Citizen EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "undawn",
     "displayName": "Undawn",
     "albums": [
@@ -5298,6 +5402,24 @@
     ],
     "tags": [
       "Pagan Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "whoremageddon",
+    "displayName": "Whoremageddon",
+    "albums": [
+      {
+        "name": "Porcdemonium",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
     ]
   },
   {

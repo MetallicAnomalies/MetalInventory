@@ -1270,6 +1270,11 @@
         "genres": [
           "Hard Rock"
         ]
+      },
+      {
+        "name": "2 Make U Cry & Dance Deluxe Edition",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1324,6 +1329,11 @@
         "genres": [
           "Darkwave"
         ]
+      },
+      {
+        "name": "Nowhere Speaks",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1954,6 +1964,18 @@
       "Alternative Rock",
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "koh",
+    "displayName": "Koh",
+    "albums": [
+      {
+        "name": "Golden Death EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "krom",
@@ -3025,6 +3047,26 @@
     ]
   },
   {
+    "normalizedName": "riasa",
+    "displayName": "Riasa",
+    "albums": [
+      {
+        "name": "Nummentai",
+        "year": "2026",
+        "genres": [
+          "Crossover Punk",
+          "Thrash Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Crossover Punk",
+      "Thrash Metal",
+      "Punk"
+    ]
+  },
+  {
     "normalizedName": "rostokvampires",
     "displayName": "Rostok Vampires",
     "albums": [
@@ -3318,6 +3360,22 @@
     ]
   },
   {
+    "normalizedName": "somdark",
+    "displayName": "Somdark",
+    "albums": [
+      {
+        "name": "C.A.B.A.L",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "speirling",
     "displayName": "Speirling",
     "albums": [
@@ -3510,6 +3568,18 @@
       "Melodic Death Metal",
       "Gothic Metal"
     ]
+  },
+  {
+    "normalizedName": "theheavyeyes",
+    "displayName": "The Heavy Eyes",
+    "albums": [
+      {
+        "name": "Focus",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "themoodyblues",
@@ -3991,6 +4061,7 @@
     "tags": [
       "Heavy Metal",
       "Power Metal"
-    ]
+    ],
+    "origin": "RU"
   }
 ]

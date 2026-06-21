@@ -496,6 +496,18 @@
     ]
   },
   {
+    "normalizedName": "crumblingghost",
+    "displayName": "Crumbling Ghost",
+    "albums": [
+      {
+        "name": "Four",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "dawnsrevival",
     "displayName": "Dawns Revival",
     "origin": "US",
@@ -536,6 +548,22 @@
     "tags": [
       "Doom Metal",
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "deadseasondamnincarnation",
+    "displayName": "Dead Season/Damn Incarnation",
+    "albums": [
+      {
+        "name": "Swamp Will Take You",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal | Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal | Black Metal"
     ]
   },
   {
@@ -624,11 +652,19 @@
         "genres": [
           "Industrial Rock"
         ]
+      },
+      {
+        "name": "CICATRIZES DO FUTURO",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Industrial Rock",
-      "Crust Punk"
+      "Crust Punk",
+      "Metal"
     ]
   },
   {
@@ -838,6 +874,18 @@
     "tags": [
       "Progressive Metal"
     ]
+  },
+  {
+    "normalizedName": "echoesofadyingworld",
+    "displayName": "Echoes Of A Dying World",
+    "albums": [
+      {
+        "name": "Revelations EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "elevatorstothegratefulsky",
@@ -2143,6 +2191,22 @@
     ]
   },
   {
+    "normalizedName": "morbidvaults",
+    "displayName": "Morbid Vaults",
+    "albums": [
+      {
+        "name": "Macabre Devotion",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "mordatorium",
     "displayName": "Mordatorium",
     "albums": [
@@ -2298,6 +2362,18 @@
     "tags": [
       "Progressive Metal"
     ]
+  },
+  {
+    "normalizedName": "onlyechoes",
+    "displayName": "Only Echoes",
+    "albums": [
+      {
+        "name": "Born Adrift",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "ornamoshedatz",
@@ -3557,6 +3633,18 @@
     ]
   },
   {
+    "normalizedName": "valarmorghulis",
+    "displayName": "Valar Morghulis",
+    "albums": [
+      {
+        "name": "The Call Of The Void",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "vengefulghoul",
     "displayName": "Vengeful Ghoul",
     "albums": [
@@ -3960,11 +4048,24 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Å EP",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Å",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Melodic Black Metal"
     ]
   },
   {
