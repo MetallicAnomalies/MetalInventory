@@ -4330,9 +4330,20 @@
         "name": "The Rabid Dead EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "The Rabid Dead",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "tharn",

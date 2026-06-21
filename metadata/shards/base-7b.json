@@ -536,6 +536,22 @@
     ]
   },
   {
+    "normalizedName": "crimezone",
+    "displayName": "Crime Zone",
+    "albums": [
+      {
+        "name": "Beach Thrash",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "darksarah",
     "displayName": "Dark Sarah",
     "origin": "US",
@@ -2923,6 +2939,18 @@
       "Hard Rock",
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "saturna",
+    "displayName": "Saturna",
+    "albums": [
+      {
+        "name": "Light And Shadow",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "scalduk",

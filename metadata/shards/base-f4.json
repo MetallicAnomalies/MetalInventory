@@ -1091,6 +1091,22 @@
     ]
   },
   {
+    "normalizedName": "fogos",
+    "displayName": "Fogos",
+    "albums": [
+      {
+        "name": "Of Wyrm and Men",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "frenzy",
     "displayName": "Frenzy",
     "albums": [
@@ -5016,9 +5032,22 @@
         "name": "Luxuria Sanguis Plenilunium EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Luxuria Sanguis Plenilunium",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient Drone",
+          "Drone"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal",
+      "Ambient Drone",
+      "Drone"
+    ]
   },
   {
     "normalizedName": "voiceofthesoul",

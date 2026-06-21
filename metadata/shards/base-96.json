@@ -3060,6 +3060,18 @@
     ]
   },
   {
+    "normalizedName": "metaladian",
+    "displayName": "Metaladian",
+    "albums": [
+      {
+        "name": "Deaditation",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "mountaingrave",
     "displayName": "Mountain Grave",
     "albums": [
@@ -4893,6 +4905,26 @@
     ],
     "tags": [
       "Us Power"
+    ]
+  },
+  {
+    "normalizedName": "wretchedtongues",
+    "displayName": "Wretched Tongues",
+    "albums": [
+      {
+        "name": "A Proper Death",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Metalcore",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Metalcore",
+      "Metal"
     ]
   },
   {

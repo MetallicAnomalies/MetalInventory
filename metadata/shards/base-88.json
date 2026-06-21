@@ -76,10 +76,18 @@
         "genres": [
           "Progressive Heavy"
         ]
+      },
+      {
+        "name": "Another Time...",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy",
+      "Heavy Metal"
     ]
   },
   {

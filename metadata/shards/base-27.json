@@ -1781,6 +1781,24 @@
     ]
   },
   {
+    "normalizedName": "eevee",
+    "displayName": "Eevee",
+    "albums": [
+      {
+        "name": "Tokyo Tapes",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Crossover"
+    ]
+  },
+  {
     "normalizedName": "elementeighty",
     "displayName": "Element Eighty",
     "origin": "US",

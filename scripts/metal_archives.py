@@ -307,6 +307,12 @@ def merge_into_output(new_releases: list[dict]) -> None:
             entry = albums_map[key]
             if "MetalArchives" not in entry.get("source", ""):
                 entry["source"] = entry.get("source", "") + ", MetalArchives"
+            
+            # MA is the only source that returns genres, so enrich the existing entry
+            if rel.get("genre"):
+                entry["genre"] = rel["genre"]
+                if "genre_list" in rel:
+                    entry["genre_list"] = rel["genre_list"]
 
     final = sorted(
         albums_map.values(),

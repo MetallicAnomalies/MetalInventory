@@ -863,10 +863,19 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Torn Between Realities",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Metalcore"
     ]
   },
   {
@@ -2064,11 +2073,21 @@
           "Metalcore",
           "Industrial Metal"
         ]
+      },
+      {
+        "name": "Bombs and Beats",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal",
+          "Industrial Metal"
+        ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Industrial Metal"
+      "Industrial Metal",
+      "Metal"
     ]
   },
   {
@@ -4998,6 +5017,22 @@
     ],
     "tags": [
       "Atmospheric Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "trollskogen",
+    "displayName": "Trollskogen",
+    "albums": [
+      {
+        "name": "Skogens Vrede",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

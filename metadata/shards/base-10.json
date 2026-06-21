@@ -142,6 +142,24 @@
     ]
   },
   {
+    "normalizedName": "agona",
+    "displayName": "Ágona",
+    "albums": [
+      {
+        "name": "O Além Ser",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "aid",
     "displayName": "A.i.(d)",
     "albums": [
@@ -1824,6 +1842,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "hammerfilosofi",
+    "displayName": "Hammerfilosofi",
+    "albums": [
+      {
+        "name": "Secundus Adventus",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

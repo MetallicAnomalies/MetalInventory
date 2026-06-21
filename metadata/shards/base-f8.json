@@ -2721,10 +2721,20 @@
         "genres": [
           "Us Power"
         ]
+      },
+      {
+        "name": "Worlds to Conquer",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Us Power"
+      "Us Power",
+      "Heavy Power Metal",
+      "Power Metal"
     ]
   },
   {

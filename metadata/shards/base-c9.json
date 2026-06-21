@@ -1502,6 +1502,22 @@
     ]
   },
   {
+    "normalizedName": "derjager",
+    "displayName": "Der Jäger",
+    "albums": [
+      {
+        "name": "..In Which Evil Dwells",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "deuteronomy",
     "displayName": "Deuteronomy",
     "albums": [
@@ -4132,6 +4148,22 @@
     "tags": [
       "Speed Metal",
       "Us Power"
+    ]
+  },
+  {
+    "normalizedName": "skjult",
+    "displayName": "Skjult",
+    "albums": [
+      {
+        "name": "A Perfect Devouring Light",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

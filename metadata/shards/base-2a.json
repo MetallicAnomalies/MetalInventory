@@ -1149,6 +1149,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Rites Ov Flesh",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3023,6 +3028,24 @@
     ]
   },
   {
+    "normalizedName": "prevaricate",
+    "displayName": "Prevaricate",
+    "albums": [
+      {
+        "name": "Split",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "pridian",
     "displayName": "Pridian",
     "origin": "EE",
@@ -4404,10 +4427,18 @@
         "genres": [
           "Symphonic Gothic"
         ]
+      },
+      {
+        "name": "Never Untold",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Gothic"
+      "Symphonic Gothic",
+      "Symphonic Metal"
     ]
   },
   {

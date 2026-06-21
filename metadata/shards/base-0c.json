@@ -2118,6 +2118,22 @@
     ]
   },
   {
+    "normalizedName": "fyrgast",
+    "displayName": "Fyrgast",
+    "albums": [
+      {
+        "name": "Mountains of Doom",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "galderia",
     "displayName": "Galderia",
     "albums": [
@@ -4436,6 +4452,24 @@
     ],
     "tags": [
       "Symphonic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "singlewound",
+    "displayName": "Single Wound",
+    "albums": [
+      {
+        "name": "In Rage and Fury",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Metal"
     ]
   },
   {

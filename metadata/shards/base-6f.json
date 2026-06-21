@@ -2286,6 +2286,22 @@
     ]
   },
   {
+    "normalizedName": "internaldamage",
+    "displayName": "Internal Damage",
+    "albums": [
+      {
+        "name": "The Ugly Facets of the Modern World",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "isaurian",
     "displayName": "Isaurian",
     "albums": [
@@ -2936,6 +2952,22 @@
     "tags": [
       "Atmospheric Sludge Metal",
       "Post-Metal"
+    ]
+  },
+  {
+    "normalizedName": "peststorm",
+    "displayName": "Pest Storm",
+    "albums": [
+      {
+        "name": "The Work",
+        "year": "2026",
+        "genres": [
+          "Technical Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Technical Brutal Death Metal"
     ]
   },
   {

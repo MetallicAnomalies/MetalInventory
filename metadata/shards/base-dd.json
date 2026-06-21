@@ -350,10 +350,18 @@
         "genres": [
           "Symphonic Power"
         ]
+      },
+      {
+        "name": "Bloody Crescent",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power",
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -3803,10 +3811,18 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Totalitarian",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Progressive Death Metal"
     ]
   },
   {

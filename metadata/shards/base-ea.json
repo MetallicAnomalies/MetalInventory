@@ -1350,6 +1350,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Construction Of Conflict",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1746,10 +1751,20 @@
         "name": "The Mincecore Manifesto EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "The Mincecore Manifesto",
+        "year": "2026",
+        "genres": [
+          "Goregrind Grindcore",
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
-      "Goregrind"
+      "Goregrind",
+      "Goregrind Grindcore",
+      "Grindcore"
     ]
   },
   {
@@ -3345,6 +3360,18 @@
     "tags": [
       "Thrash Metal"
     ]
+  },
+  {
+    "normalizedName": "newsun",
+    "displayName": "New Sun",
+    "albums": [
+      {
+        "name": "Hanged’s Fate",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "nocturnaldeparture",

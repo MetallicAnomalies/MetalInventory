@@ -1925,6 +1925,13 @@
           "Hardcore Metal",
           "Punk"
         ]
+      },
+      {
+        "name": "The Pink Seven Inch",
+        "year": "2026",
+        "genres": [
+          "Various"
+        ]
       }
     ],
     "tags": [
@@ -1933,7 +1940,8 @@
       "Hardcore Metal",
       "Punk",
       "Heavy Metal",
-      "Horror Rock"
+      "Horror Rock",
+      "Various"
     ]
   },
   {

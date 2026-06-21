@@ -3014,6 +3014,22 @@
     ]
   },
   {
+    "normalizedName": "precetto",
+    "displayName": "precettö",
+    "albums": [
+      {
+        "name": "Siddhartha 2",
+        "year": "2026",
+        "genres": [
+          "Industrial Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Industrial Metal"
+    ]
+  },
+  {
     "normalizedName": "redroadcrossing",
     "displayName": "Redroad Crossing",
     "albums": [
@@ -4215,6 +4231,26 @@
     "tags": [
       "Atmospheric Black Metal",
       "Drone Metal"
+    ]
+  },
+  {
+    "normalizedName": "woodmoon",
+    "displayName": "WoodMoon",
+    "albums": [
+      {
+        "name": "☙ LSD Castle ❧",
+        "year": "2026",
+        "genres": [
+          "Dungeon Synth Black Metal",
+          "Punk",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Dungeon Synth Black Metal",
+      "Punk",
+      "Black Metal"
     ]
   }
 ]

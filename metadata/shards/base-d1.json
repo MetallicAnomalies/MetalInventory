@@ -3059,6 +3059,28 @@
     ]
   },
   {
+    "normalizedName": "jpiviolenskommandvodun",
+    "displayName": "JPI Vio-Lens Kommand/Vodun",
+    "albums": [
+      {
+        "name": "Messa Nera",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Death Metal",
+          "Thrash Metal | Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Death Metal",
+      "Thrash Metal | Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "kinetik",
     "displayName": "Kinetik",
     "albums": [
@@ -3585,6 +3607,24 @@
     "tags": [
       "Doom Metal",
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "nurses",
+    "displayName": "Nurses",
+    "albums": [
+      {
+        "name": "Live at KLBP",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Metal"
     ]
   },
   {
@@ -5046,12 +5086,21 @@
         "genres": [
           "Blackened Death Metal"
         ]
+      },
+      {
+        "name": "The Grove | Almanac",
+        "year": "2026",
+        "genres": [
+          "Progressive Blackened Death Metal",
+          "Blackened Death Metal"
+        ]
       }
     ],
     "tags": [
       "Blackened Death Metal",
       "Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "Progressive Blackened Death Metal"
     ]
   },
   {

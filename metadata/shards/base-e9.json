@@ -630,9 +630,18 @@
         "name": "Les Angst ov Thanatou",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Les Agnst Ov Thanatou",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Melodic Death Metal"
+    ]
   },
   {
     "normalizedName": "bloodstone",

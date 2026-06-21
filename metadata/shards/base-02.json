@@ -2827,6 +2827,22 @@
     ]
   },
   {
+    "normalizedName": "mothertomb",
+    "displayName": "Mothertomb",
+    "albums": [
+      {
+        "name": "Dying to Live",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "nachtigal",
     "displayName": "Nachtigal",
     "albums": [
@@ -3174,6 +3190,24 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "revengefrombeyond",
+    "displayName": "Revenge from Beyond",
+    "albums": [
+      {
+        "name": "Altar of Flames",
+        "year": "2026",
+        "genres": [
+          "Death Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Black Metal",
+      "Black Metal"
     ]
   },
   {

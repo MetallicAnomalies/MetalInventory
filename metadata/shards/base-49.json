@@ -3165,11 +3165,20 @@
           "Atmospheric Black Metal",
           "Post-Metal"
         ]
+      },
+      {
+        "name": "Lumira",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Post-Rock"
+        ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Post-Metal"
+      "Post-Metal",
+      "Post-Rock"
     ]
   },
   {

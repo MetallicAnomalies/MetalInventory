@@ -1510,6 +1510,14 @@
           "Melodic Death Metal",
           "Metalcore"
         ]
+      },
+      {
+        "name": "Rise from the Ashes",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
@@ -5392,6 +5400,24 @@
     ],
     "tags": [
       "Symphonic Power"
+    ]
+  },
+  {
+    "normalizedName": "wizardsofhazards",
+    "displayName": "Wizards of Hazards",
+    "albums": [
+      {
+        "name": "Point of No Return",
+        "year": "2026",
+        "genres": [
+          "Heavy Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Doom Metal",
+      "Doom Metal"
     ]
   },
   {

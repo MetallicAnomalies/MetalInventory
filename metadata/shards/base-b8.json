@@ -2711,6 +2711,24 @@
     ]
   },
   {
+    "normalizedName": "mangledcarpenter",
+    "displayName": "Mangled Carpenter",
+    "albums": [
+      {
+        "name": "Between Blood and Silence",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "marijannah",
     "displayName": "Marijannah",
     "albums": [
@@ -4009,11 +4027,24 @@
           "Black Metal",
           "Gothic Metal"
         ]
+      },
+      {
+        "name": "Ad Pulchram Mortem",
+        "year": "2026",
+        "genres": [
+          "Doom Death Metal",
+          "Death Metal",
+          "Gothic Black Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Gothic Metal"
+      "Gothic Metal",
+      "Doom Death Metal",
+      "Death Metal",
+      "Gothic Black Metal"
     ]
   },
   {

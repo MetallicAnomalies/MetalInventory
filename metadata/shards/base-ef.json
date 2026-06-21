@@ -923,6 +923,23 @@
     ]
   },
   {
+    "normalizedName": "descendents",
+    "displayName": "Descendents",
+    "albums": [
+      {
+        "name": "All Re-Release",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Liveage! Re-Release",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "destination511",
     "displayName": "Destination 5-11",
     "albums": [
@@ -3755,6 +3772,13 @@
         "genres": [
           "Post-Black Metal",
           "Post-black Metal"
+        ]
+      },
+      {
+        "name": "Twilight of the Golden Star",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
         ]
       }
     ],

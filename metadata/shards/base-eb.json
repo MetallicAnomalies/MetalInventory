@@ -58,6 +58,24 @@
     ]
   },
   {
+    "normalizedName": "abductions",
+    "displayName": "Abductions",
+    "albums": [
+      {
+        "name": "The Experiment",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "abelsequera",
     "displayName": "Abel Sequera",
     "albums": [
@@ -3890,11 +3908,20 @@
         "name": "Parasite Dream EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Parasite Dream",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Deathcore",
-      "Metalcore"
+      "Metalcore",
+      "Metal"
     ]
   },
   {

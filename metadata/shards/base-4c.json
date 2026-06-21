@@ -1230,6 +1230,22 @@
     ]
   },
   {
+    "normalizedName": "destructionofthehealer",
+    "displayName": "Destruction of the Healer",
+    "albums": [
+      {
+        "name": "A Universe Bereaved",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "disbelief",
     "displayName": "Disbelief",
     "origin": "DE",
@@ -3984,6 +4000,18 @@
     ]
   },
   {
+    "normalizedName": "stevehackettsteverothery",
+    "displayName": "Steve Hackett & Steve Rothery",
+    "albums": [
+      {
+        "name": "The Roaring Waves",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "subconsciousterrorjapan",
     "displayName": "SUBCONSCIOUS TERROR JAPAN",
     "origin": "GB",
@@ -4051,6 +4079,13 @@
       {
         "name": "Collide",
         "year": "2023",
+        "genres": [
+          "Grindcore"
+        ]
+      },
+      {
+        "name": "Sisyphean Life",
+        "year": "2026",
         "genres": [
           "Grindcore"
         ]

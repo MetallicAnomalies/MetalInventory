@@ -2777,6 +2777,11 @@
         "genres": [
           "Groove Thrash"
         ]
+      },
+      {
+        "name": "360° Of Destruction",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4027,6 +4032,22 @@
     ],
     "tags": [
       "Melodic Power"
+    ]
+  },
+  {
+    "normalizedName": "rptmck",
+    "displayName": "RPT MCK",
+    "albums": [
+      {
+        "name": "HVL",
+        "year": "2026",
+        "genres": [
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metal"
     ]
   },
   {

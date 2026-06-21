@@ -1430,6 +1430,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Beyond the End",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -4288,6 +4295,24 @@
     ]
   },
   {
+    "normalizedName": "ronniedonnieandjohnny",
+    "displayName": "Ronnie, Donnie, and Johnny",
+    "albums": [
+      {
+        "name": "George's Bush",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "sacrilegeukbrm",
     "displayName": "Sacrilege (Uk-brm)",
     "albums": [
@@ -4772,6 +4797,13 @@
       {
         "name": "Et Hav Av Avstand",
         "year": "2023",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "En Skog av Nidstang",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

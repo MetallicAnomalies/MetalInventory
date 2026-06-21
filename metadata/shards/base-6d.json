@@ -102,12 +102,22 @@
         "name": "Temptation’s Gate",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Temptation's Gates",
+        "year": "2026",
+        "genres": [
+          "Symphonic Melodic Power Metal",
+          "Melodic Power Metal"
+        ]
       }
     ],
     "tags": [
       "Symphonic Power",
       "Pop",
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Symphonic Melodic Power Metal",
+      "Melodic Power Metal"
     ]
   },
   {

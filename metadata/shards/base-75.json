@@ -2698,10 +2698,20 @@
         "genres": [
           "Speed Metal"
         ]
+      },
+      {
+        "name": "Aashes",
+        "year": "2026",
+        "genres": [
+          "Thrash Groove Metal",
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
-      "Speed Metal"
+      "Speed Metal",
+      "Thrash Groove Metal",
+      "Groove Metal"
     ]
   },
   {
@@ -5444,6 +5454,11 @@
         "genres": [
           "Folk Rock"
         ]
+      },
+      {
+        "name": "Venceremos",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

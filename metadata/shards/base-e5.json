@@ -596,6 +596,24 @@
     ]
   },
   {
+    "normalizedName": "bothrash",
+    "displayName": "Bothrash",
+    "albums": [
+      {
+        "name": "Almas Poseídas",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Speed Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "buttholesurfers",
     "displayName": "Butthole Surfers",
     "origin": "US",
@@ -2889,6 +2907,24 @@
     ]
   },
   {
+    "normalizedName": "porenut",
+    "displayName": "Porenut",
+    "albums": [
+      {
+        "name": "Wiosna",
+        "year": "2026",
+        "genres": [
+          "Pagan Folk Metal",
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Pagan Folk Metal",
+      "Folk Metal"
+    ]
+  },
+  {
     "normalizedName": "project86",
     "displayName": "Project 86",
     "origin": "US",
@@ -4313,6 +4349,22 @@
       "Stoner Metal",
       "Djent",
       "Deathcore"
+    ]
+  },
+  {
+    "normalizedName": "wehmut",
+    "displayName": "Wehmut",
+    "albums": [
+      {
+        "name": "IV: Sommer",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {

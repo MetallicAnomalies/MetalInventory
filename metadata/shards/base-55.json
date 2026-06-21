@@ -620,6 +620,22 @@
     ]
   },
   {
+    "normalizedName": "broadslab",
+    "displayName": "Broadslab",
+    "albums": [
+      {
+        "name": "The Fifth Essence",
+        "year": "2026",
+        "genres": [
+          "Southern Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Southern Metal"
+    ]
+  },
+  {
     "normalizedName": "brokenanatomy",
     "displayName": "Broken Anatomy",
     "albums": [
@@ -4717,6 +4733,26 @@
     "tags": [
       "Death Metal",
       "Gothic Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "weedwizard",
+    "displayName": "WeedWizard",
+    "albums": [
+      {
+        "name": "Blood Cathedral",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Sludge Doom Metal",
+      "Doom Metal"
     ]
   },
   {

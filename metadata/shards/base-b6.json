@@ -316,6 +316,24 @@
     ]
   },
   {
+    "normalizedName": "antimelodix",
+    "displayName": "Antimelodix",
+    "albums": [
+      {
+        "name": "Fennoskandian Hardcore",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Crust Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Crust Punk"
+    ]
+  },
+  {
     "normalizedName": "apollyonsun",
     "displayName": "Apollyon Sun",
     "albums": [
@@ -1246,6 +1264,18 @@
     ]
   },
   {
+    "normalizedName": "firstlight",
+    "displayName": "First Light",
+    "albums": [
+      {
+        "name": "Gravity 2.0",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "fromthecross",
     "displayName": "From The Cross",
     "albums": [
@@ -1682,6 +1712,18 @@
     "tags": [
       "Power Metal"
     ]
+  },
+  {
+    "normalizedName": "hexbane",
+    "displayName": "Hexbane",
+    "albums": [
+      {
+        "name": "From Hell EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "hyperionaus",

@@ -3523,6 +3523,31 @@
     ]
   },
   {
+    "normalizedName": "sleepingwithsirens",
+    "displayName": "Sleeping With Sirens",
+    "albums": [
+      {
+        "name": "An Ending in Itself (Deluxe)",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "An Ending In Itself",
+        "year": "2026",
+        "genres": [
+          "Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "spelldown",
     "displayName": "Spelldown",
     "origin": "CA",

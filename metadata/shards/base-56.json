@@ -4329,6 +4329,33 @@
           "Doom Stoner Metal",
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Parts 46-50",
+        "year": "2026",
+        "genres": [
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      },
+      {
+        "name": "Parts 41-45",
+        "year": "2026",
+        "genres": [
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      },
+      {
+        "name": "Parts 6-10",
+        "year": "2026",
+        "genres": [
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
       }
     ],
     "tags": [
@@ -5402,6 +5429,24 @@
     ],
     "tags": [
       "Funeral Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "wesetsignals",
+    "displayName": "We Set Signals",
+    "albums": [
+      {
+        "name": "INTERSTICE",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Metal"
     ]
   },
   {

@@ -1878,10 +1878,18 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Cannot Be Controlled",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Thrash Metal"
     ]
   },
   {

@@ -1340,6 +1340,18 @@
     ]
   },
   {
+    "normalizedName": "echoesoftheia",
+    "displayName": "Echoes Of Theia",
+    "albums": [
+      {
+        "name": "Moonwake",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "eddieojeda",
     "displayName": "Eddie Ojeda",
     "albums": [
@@ -1866,10 +1878,18 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "A Cry from the Sky Above",
+        "year": "2026",
+        "genres": [
+          "Neoclassical Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Neoclassical Power Metal"
     ]
   },
   {
@@ -4173,6 +4193,13 @@
       {
         "name": "Boarisch Grattlig",
         "year": "2023",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Blut, Stahl und Leid",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

@@ -698,6 +698,11 @@
           "Heavy Metal",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Bombus Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2422,6 +2427,11 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Shouts From The Cliffs Of Heterodoxy",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3321,6 +3331,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "rubydacherry",
+    "displayName": "Ruby Da Cherry",
+    "albums": [
+      {
+        "name": "daily reminders to repent from sin [vol. 3]",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Metal"
     ]
   },
   {

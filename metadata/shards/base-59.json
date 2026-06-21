@@ -1159,6 +1159,18 @@
     ]
   },
   {
+    "normalizedName": "duckwalkchuck",
+    "displayName": "Duckwalk Chuck",
+    "albums": [
+      {
+        "name": "525",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "earnyourscars",
     "displayName": "Earn Your Scars",
     "origin": "DE",
@@ -3276,6 +3288,11 @@
         "genres": [
           "Progressive Rock"
         ]
+      },
+      {
+        "name": "How To Cast A Shadow",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

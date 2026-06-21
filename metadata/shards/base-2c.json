@@ -915,6 +915,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "The Secret of Death",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -1633,6 +1640,22 @@
     "tags": [
       "Progressive Metal",
       "Instrumental"
+    ]
+  },
+  {
+    "normalizedName": "fallenmoonservant",
+    "displayName": "Fallen Moon Servant",
+    "albums": [
+      {
+        "name": "...with a Stone in My Maw",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

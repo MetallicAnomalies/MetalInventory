@@ -1140,6 +1140,22 @@
     ]
   },
   {
+    "normalizedName": "burialruthless",
+    "displayName": "Burial Ruthless",
+    "albums": [
+      {
+        "name": "Held by Evil",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "burningcircle",
     "displayName": "Burning Circle",
     "origin": "JM",
@@ -2969,6 +2985,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "ironbones",
+    "displayName": "Iron Bones",
+    "albums": [
+      {
+        "name": "Poison Riot",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "ironyoffate",

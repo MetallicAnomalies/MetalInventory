@@ -177,6 +177,22 @@
     ]
   },
   {
+    "normalizedName": "akissbeforedying",
+    "displayName": "A Kiss Before Dying",
+    "albums": [
+      {
+        "name": "A Shifting Sense of Stillness",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "akuma",
     "displayName": "Akuma",
     "origin": "CA",
@@ -996,12 +1012,23 @@
           "Progressive Metal",
           "Psychedelic Rock"
         ]
+      },
+      {
+        "name": "From Resuscitation to Reincarnation",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Death 'n' Roll",
+          "Progressive Death Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
       "Progressive Metal",
-      "Psychedelic Rock"
+      "Psychedelic Rock",
+      "Death 'n' Roll",
+      "Progressive Death Metal"
     ]
   },
   {
@@ -1741,6 +1768,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "funus",
+    "displayName": "Funus",
+    "albums": [
+      {
+        "name": "Caged Liberty",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Post-Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Post-Rock"
     ]
   },
   {

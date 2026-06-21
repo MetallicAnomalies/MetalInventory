@@ -1969,6 +1969,22 @@
     ]
   },
   {
+    "normalizedName": "fugitivus",
+    "displayName": "Fugitivus",
+    "albums": [
+      {
+        "name": "Kill The Deceiver",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "gape",
     "displayName": "Gape",
     "albums": [
@@ -4022,6 +4038,24 @@
     "tags": [
       "Stoner Metal",
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "thescepter",
+    "displayName": "The Scepter",
+    "albums": [
+      {
+        "name": "Shadows in the Tower",
+        "year": "2026",
+        "genres": [
+          "Power Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Heavy Metal",
+      "Heavy Metal"
     ]
   },
   {

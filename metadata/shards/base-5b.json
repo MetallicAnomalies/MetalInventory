@@ -1413,6 +1413,15 @@
           "Progressive Metal",
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "Cryptomorph",
+        "year": "2026",
+        "genres": [
+          "Technical Deathcore",
+          "Melodic Death Metal",
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
@@ -1421,7 +1430,8 @@
       "Progressive Metal",
       "Technical Death Metal",
       "Deathcore",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Technical Deathcore"
     ]
   },
   {
