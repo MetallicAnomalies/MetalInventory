@@ -2177,12 +2177,34 @@
     "origin": "IL",
     "albums": [
       {
-        "name": "Its Not The Same",
+        "name": "מלטף ומשקר",
+        "year": "1997",
+        "genres": [
+          "Pop Rock",
+          "Rock"
+        ]
+      },
+      {
+        "name": "יותר טוב כלום מכמעט",
+        "year": "1999",
+        "genres": [
+          "Pop Rock",
+          "Rock"
+        ]
+      },
+      {
+        "name": "האנשים החדשים",
+        "year": "2001",
+        "genres": [
+          "Pop Rock",
+          "Electronic"
+        ]
+      },
+      {
+        "name": "זה לא אותו דבר",
         "year": "2005",
         "genres": [
-          "Pop",
           "Pop Rock",
-          "Soft Rock",
           "Rock"
         ]
       },
@@ -2191,128 +2213,48 @@
         "year": "2005",
         "genres": [
           "Electronic",
-          "Downtempo",
-          "Trance",
           "House",
           "Disco"
         ]
       },
       {
-        "name": "האהבה הזאת שלנו",
-        "year": "2005",
+        "name": "בקצב אחיד בתנועות של הגוף",
+        "year": "2008",
         "genres": [
-          "Electronic",
-          "Downtempo",
-          "Trance",
-          "House",
-          "Disco"
-        ]
-      },
-      {
-        "name": "האנשים החדשים",
-        "year": "2005",
-        "genres": [
-          "Electronic",
-          "Downtempo",
-          "Trance",
-          "House",
-          "Disco"
-        ]
-      },
-      {
-        "name": "זה לא אותו דבר",
-        "year": "2005",
-        "genres": [
-          "Electronic",
-          "Downtempo",
-          "Trance",
-          "House",
-          "Disco"
-        ]
-      },
-      {
-        "name": "יותר טוב כלום מכמעט",
-        "year": "2005",
-        "genres": [
-          "Electronic",
-          "Downtempo",
-          "Trance",
-          "House",
-          "Disco"
+          "Pop Rock",
+          "Electronic"
         ]
       },
       {
         "name": "מישהו פעם",
-        "year": "2005",
+        "year": "2012",
         "genres": [
-          "Electronic",
-          "Downtempo",
-          "Trance",
-          "House",
-          "Disco"
+          "Pop Rock",
+          "Pop"
         ]
       },
       {
-        "name": "מלטף ומשקר",
-        "year": "2005",
+        "name": "האהבה הזאת שלנו",
+        "year": "2015",
         "genres": [
-          "Electronic",
-          "Downtempo",
-          "Trance",
-          "House",
-          "Disco"
+          "Pop Rock",
+          "Pop"
         ]
       },
       {
-        "name": "מפת הכאב",
-        "year": "2005",
+        "name": "חלק לא נפרד מאחרים",
+        "year": "2024",
         "genres": [
-          "Electronic",
-          "Downtempo",
-          "Trance",
-          "House",
-          "Disco"
-        ]
-      },
-      {
-        "name": "ניו יורק בשמש",
-        "year": "2005",
-        "genres": [
-          "Electronic",
-          "Downtempo",
-          "Trance",
-          "House",
-          "Disco"
-        ]
-      },
-      {
-        "name": "נסיכה שלי",
-        "year": "2005",
-        "genres": [
-          "Electronic",
-          "Downtempo",
-          "Trance",
-          "House",
-          "Disco"
-        ]
-      },
-      {
-        "name": "17 בנות",
-        "year": "2023",
-        "genres": [
-          "Mizrahi"
+          "Pop Rock",
+          "Pop"
         ]
       }
     ],
     "tags": [
-      "Mizrahi",
-      "Pop",
       "Pop Rock",
-      "Soft Rock",
       "Rock",
+      "Pop",
       "Electronic",
-      "Downtempo",
-      "Trance",
       "House",
       "Disco"
     ]

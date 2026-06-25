@@ -3,7 +3,7 @@ import time
 import re
 import cloudscraper
 import requests
-from bs4 import BeautifulSoup
+
 from datetime import datetime, timedelta
 
 # --- CONFIGURATION ---
@@ -49,110 +49,7 @@ def scrape_releases():
     # Shared Dictionary for Deduplication: Key = (Title, Artist)
     albums_map = {}
 
-    # =========================================================================
-    # PART 1: ALBUM OF THE YEAR (AOTY) SCRAPING
-    # =========================================================================
-    print("=== STARTING AOTY SCRAPE ===")
-    
-    for genre_id in GENRE_IDS:
-        clean_genre = " ".join(genre_id.split('-')[1:]).title()
-        print(f"\n>>> PROCESSING AOTY: {clean_genre} <<<")
 
-        sources = [
-            ("Upcoming", f"https://www.albumoftheyear.org/upcoming/genre/{genre_id}/"),
-            ("Recent", f"https://www.albumoftheyear.org/genre/{genre_id}/recent/")
-        ]
-
-        for source_name, base_url in sources:
-            page = 1
-            keep_scraping = True
-            
-            while keep_scraping:
-                if source_name == "Recent":
-                    url = f"{base_url}?page={page}"
-                else:
-                    if page > 1: break 
-                    url = base_url
-
-                print(f"   [{source_name}] Page {page}...", end="\r")
-                
-                try:
-                    response = scraper.get(url)
-                    if response.status_code != 200: break
-
-                    soup = BeautifulSoup(response.text, 'html.parser')
-                    blocks = soup.select('.albumBlock, .albumListRow')
-                    
-                    if not blocks: break
-                    
-                    for block in blocks:
-                        # Data Extraction
-                        title_node = block.select_one('.albumTitle, .title, .albumListTitle')
-                        if not title_node: continue
-                        title = title_node.text.strip()
-                        
-                        artist_node = block.select_one('.artistTitle, .artist, .albumListArtist')
-                        artist = artist_node.text.strip() if artist_node else "Unknown"
-
-                        unique_key = (title.lower(), artist.lower())
-
-                        # Deduplication Logic
-                        if unique_key in albums_map:
-                            if clean_genre not in albums_map[unique_key]['genre_list']:
-                                albums_map[unique_key]['genre_list'].append(clean_genre)
-                                albums_map[unique_key]['genre'] = ", ".join(albums_map[unique_key]['genre_list'])
-                            continue
-
-                        # Date Parsing
-                        block_text = block.get_text(" ", strip=True)
-                        match = re.search(r'([A-Z][a-z]{2,8})\.?\s(\d{1,2})(?:,\s(\d{4}))?', block_text)
-                        if not match: continue
-
-                        month_str, day_str, year_str = match.groups()
-                        
-                        # Year Logic
-                        if year_str:
-                            album_year = int(year_str)
-                        else:
-                            album_year = current_year
-                            if today.month == 1 and month_str in ["Dec", "December"]: album_year -= 1
-                            elif today.month == 12 and month_str in ["Jan", "January"]: album_year += 1
-
-                        clean_month = month_str.replace("Sept", "September").replace("Jan", "January").replace("Feb", "February").replace("Aug", "August").replace("Oct", "October").replace("Dec", "December")
-                        date_str_full = f"{clean_month} {day_str}, {album_year}"
-                        
-                        try:
-                            rel_date = datetime.strptime(date_str_full, '%B %d, %Y')
-                        except ValueError:
-                            try:
-                                rel_date = datetime.strptime(date_str_full, '%b %d, %Y')
-                            except ValueError: continue
-
-                        # Filtering
-                        if source_name == "Recent" and rel_date < start_limit:
-                            keep_scraping = False; break
-                        
-                        if start_limit <= rel_date <= end_limit:
-                            link_tag = block.find('a')
-                            link = f"https://www.albumoftheyear.org{link_tag['href']}" if link_tag else ""
-                            
-                            albums_map[unique_key] = {
-                                "artist": artist,
-                                "album": title,
-                                "release_date": rel_date.strftime('%Y-%m-%d'),
-                                "genre": clean_genre,
-                                "genre_list": [clean_genre],
-                                "url": link,
-                                "source": "AOTY"
-                            }
-
-                    if not keep_scraping: break
-                    page += 1
-                    if page > 2: break 
-                    time.sleep(1)
-
-                except Exception: break
-        print(f"   Done.                               ")
 
    # =========================================================================
     # PART 2: MUSICBRAINZ (MB) SCRAPING (FIXED)
