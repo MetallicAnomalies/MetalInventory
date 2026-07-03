@@ -1011,6 +1011,22 @@
     ]
   },
   {
+    "normalizedName": "cobentrice",
+    "displayName": "Cobentrice",
+    "albums": [
+      {
+        "name": "Rampant Pulverization",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "connectthecircle",
     "displayName": "Connect The Circle",
     "albums": [
@@ -1882,13 +1898,21 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Frozen Dystopia",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
       "Blackened Sludge",
       "Doom Death",
       "Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "Sludge Metal"
     ]
   },
   {

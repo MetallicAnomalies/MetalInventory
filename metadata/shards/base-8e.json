@@ -1230,11 +1230,20 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Ad Compita!",
+        "year": "2026",
+        "genres": [
+          "Death Black Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "Death Black Metal"
     ]
   },
   {

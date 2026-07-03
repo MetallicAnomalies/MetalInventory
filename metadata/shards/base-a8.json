@@ -191,6 +191,22 @@
     ]
   },
   {
+    "normalizedName": "aherofortheworld",
+    "displayName": "A Hero for the World",
+    "albums": [
+      {
+        "name": "Köra fort som fan",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "alfarquest",
     "displayName": "Àlfar Quest",
     "albums": [
@@ -998,10 +1014,19 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Worldwide Terror",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Blackened Heavy Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Blackened Heavy Metal"
     ]
   },
   {

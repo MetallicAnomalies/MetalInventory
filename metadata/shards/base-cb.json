@@ -394,10 +394,18 @@
         "genres": [
           "Folk Metal"
         ]
+      },
+      {
+        "name": "Light at Last",
+        "year": "2026",
+        "genres": [
+          "Epic Folk Metal"
+        ]
       }
     ],
     "tags": [
-      "Folk Metal"
+      "Folk Metal",
+      "Epic Folk Metal"
     ]
   },
   {
@@ -1657,13 +1665,22 @@
         "genres": [
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "The Ember Gone",
+        "year": "2026",
+        "genres": [
+          "Progressive Technical Death Metal",
+          "Technical Death Metal"
+        ]
       }
     ],
     "tags": [
       "Technical Death Metal",
       "Thrash Death",
       "Death Metal",
-      "Progressive Metal"
+      "Progressive Metal",
+      "Progressive Technical Death Metal"
     ]
   },
   {

@@ -1196,6 +1196,22 @@
     ]
   },
   {
+    "normalizedName": "chthonicthorn",
+    "displayName": "Chthonic Thorn",
+    "albums": [
+      {
+        "name": "Crimson Snow",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "closterkeller",
     "displayName": "Closterkeller",
     "albums": [
@@ -2009,6 +2025,24 @@
       "Avantgarde Metal",
       "Technical Death Metal",
       "Grindcore"
+    ]
+  },
+  {
+    "normalizedName": "eutonaziakordax",
+    "displayName": "Eutonazia Kordax",
+    "albums": [
+      {
+        "name": "Ominous Portents",
+        "year": "2026",
+        "genres": [
+          "Symphonic Melodic Black Metal",
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Melodic Black Metal",
+      "Melodic Black Metal"
     ]
   },
   {

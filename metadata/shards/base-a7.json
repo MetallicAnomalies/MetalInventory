@@ -597,6 +597,13 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "No Canonization",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3981,6 +3988,24 @@
     "tags": [
       "Thrash Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "redravenchaos",
+    "displayName": "Red Raven Chaos",
+    "albums": [
+      {
+        "name": "The Other Side of Me",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Groove Metal",
+      "Groove Metal"
     ]
   },
   {

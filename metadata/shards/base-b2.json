@@ -1141,6 +1141,22 @@
     ]
   },
   {
+    "normalizedName": "deathslayer",
+    "displayName": "Deathslayer",
+    "albums": [
+      {
+        "name": "Cry of the Swords",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "deocculted",
     "displayName": "Deocculted",
     "origin": "US",
@@ -3614,6 +3630,13 @@
         "name": "Satanic Chaos Legions",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Undead Melody",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [

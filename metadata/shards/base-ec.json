@@ -891,6 +891,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "A Beast to Praise",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -1710,6 +1717,26 @@
       "Grindcore",
       "Deathcore",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "expiatoria",
+    "displayName": "Expiatoria",
+    "albums": [
+      {
+        "name": "A History In Three Acts",
+        "year": "2026",
+        "genres": [
+          "Gothic Heavy Metal",
+          "Heavy Metal",
+          "Doom Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Heavy Metal",
+      "Heavy Metal",
+      "Doom Heavy Metal"
     ]
   },
   {

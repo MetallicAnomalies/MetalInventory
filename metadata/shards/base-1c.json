@@ -1716,6 +1716,24 @@
     ]
   },
   {
+    "normalizedName": "fam",
+    "displayName": "F.A.M.",
+    "albums": [
+      {
+        "name": "Pleasure of Torture",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "fellowship",
     "displayName": "Fellowship",
     "origin": "GB",
@@ -2454,6 +2472,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "metalator",
+    "displayName": "Metalator",
+    "albums": [
+      {
+        "name": "Tournament of Souls",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "mezereum",

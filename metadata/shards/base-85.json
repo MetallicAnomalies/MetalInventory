@@ -936,6 +936,24 @@
     ]
   },
   {
+    "normalizedName": "christorment",
+    "displayName": "Christorment",
+    "albums": [
+      {
+        "name": "Born Anew",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "chryst",
     "displayName": "Chryst",
     "albums": [
@@ -1251,6 +1269,22 @@
       {
         "name": "Parallels Of Infinite Torture",
         "year": "2005",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "dissanity",
+    "displayName": "Dissanity",
+    "albums": [
+      {
+        "name": "Demo 2026",
+        "year": "2026",
         "genres": [
           "Brutal Death Metal"
         ]

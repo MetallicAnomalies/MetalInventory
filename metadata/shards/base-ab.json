@@ -1805,6 +1805,24 @@
     ]
   },
   {
+    "normalizedName": "forgesis",
+    "displayName": "Forgesis",
+    "albums": [
+      {
+        "name": "MCMLXIX",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "frozentears",
     "displayName": "Frozen Tears",
     "albums": [
@@ -2714,6 +2732,29 @@
     "tags": [
       "Us Power",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "marcogarausmagicopera",
+    "displayName": "Marco Garau's Magic Opera",
+    "albums": [
+      {
+        "name": "The Final Flight",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "The Black Gem",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
     ]
   },
   {

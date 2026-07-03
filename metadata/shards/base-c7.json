@@ -1796,11 +1796,22 @@
           "Thrash Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Bound in Flesh",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Death Metal"
+      "Death Metal",
+      "Black Thrash Metal",
+      "Death Thrash Metal"
     ]
   },
   {

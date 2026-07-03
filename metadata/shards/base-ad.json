@@ -1549,6 +1549,42 @@
     ]
   },
   {
+    "normalizedName": "eztlacuani",
+    "displayName": "Eztlacuani",
+    "albums": [
+      {
+        "name": "Por mi sangre",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "fane",
+    "displayName": "Fane",
+    "albums": [
+      {
+        "name": "Armageddon Scars",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Hardcore",
+          "Sludge Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Death Hardcore",
+      "Sludge Metal",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "florenceblack",
     "displayName": "Florence Black",
     "origin": "GB",
@@ -4996,6 +5032,14 @@
       },
       {
         "name": "Chcę aby demony odeszły",
+        "year": "2026",
+        "genres": [
+          "Gothic Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Where The Night Veils God",
         "year": "2026",
         "genres": [
           "Gothic Death Metal",

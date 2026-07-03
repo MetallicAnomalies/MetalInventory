@@ -4784,12 +4784,22 @@
         "genres": [
           "Extreme Power Metal"
         ]
+      },
+      {
+        "name": "Battlecry",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Power Metal with Eastern Folk influences",
+          "Power Metal with Eastern Folk influences"
+        ]
       }
     ],
     "tags": [
       "Extreme Power Metal",
       "Folk Metal",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Melodic Death Power Metal with Eastern Folk influences",
+      "Power Metal with Eastern Folk influences"
     ]
   },
   {

@@ -3226,6 +3226,13 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Creo Tempus",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -4141,12 +4148,21 @@
         "genres": [
           "Post-Metal"
         ]
+      },
+      {
+        "name": "Nine",
+        "year": "2026",
+        "genres": [
+          "Post-Metal Rock",
+          "Rock"
+        ]
       }
     ],
     "tags": [
       "Post-Metal",
       "Post Rock",
-      "Rock"
+      "Rock",
+      "Post-Metal Rock"
     ]
   },
   {

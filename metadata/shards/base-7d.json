@@ -1785,10 +1785,18 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Deeds of Horror",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {
@@ -2022,6 +2030,14 @@
       },
       {
         "name": "Ash Grey Horizon",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Ambient"
+        ]
+      },
+      {
+        "name": "The Man Who Became The Universe",
         "year": "2026",
         "genres": [
           "Atmospheric Black Metal",

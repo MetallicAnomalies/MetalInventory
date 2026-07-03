@@ -3068,6 +3068,22 @@
     ]
   },
   {
+    "normalizedName": "tyrant",
+    "displayName": "Tyrant",
+    "albums": [
+      {
+        "name": "Emergo",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "u8",
     "displayName": "U8",
     "albums": [
@@ -3274,6 +3290,13 @@
       {
         "name": "In Dubio Pro Misanthropia",
         "year": "2024",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Knochenkabinett",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

@@ -446,11 +446,20 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Echoes",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "Black Death Metal"
     ]
   },
   {
@@ -1445,6 +1454,13 @@
       {
         "name": "Survival Of The Sickest",
         "year": "1999",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "1996-2003 - The Banished, Discarded & Forgotten",
+        "year": "2026",
         "genres": [
           "Melodic Death Metal"
         ]

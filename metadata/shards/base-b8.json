@@ -460,6 +460,24 @@
     ]
   },
   {
+    "normalizedName": "argul",
+    "displayName": "Argul",
+    "albums": [
+      {
+        "name": "Soledad & orgullo",
+        "year": "2026",
+        "genres": [
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Stoner Metal",
+      "Stoner Metal"
+    ]
+  },
+  {
     "normalizedName": "assafamdursky",
     "displayName": "Assaf Amdursky",
     "origin": "IL",
@@ -2239,12 +2257,21 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Livets Høst",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
       "Avantgarde Metal",
-      "Black Metal"
+      "Black Metal",
+      "Black Death Metal"
     ]
   },
   {
@@ -4871,10 +4898,22 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Final Storm",
+        "year": "2026",
+        "genres": [
+          "Speed Black Metal",
+          "Thrash Black Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Speed Black Metal",
+      "Thrash Black Metal",
+      "Black Metal"
     ]
   },
   {

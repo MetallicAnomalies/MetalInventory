@@ -1532,6 +1532,24 @@
     ]
   },
   {
+    "normalizedName": "faeriering",
+    "displayName": "Faerie Ring",
+    "albums": [
+      {
+        "name": "Faerie Ring",
+        "year": "2026",
+        "genres": [
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Stoner Metal",
+      "Stoner Metal"
+    ]
+  },
+  {
     "normalizedName": "fallenangel",
     "displayName": "Fallen Angel",
     "albums": [
@@ -3008,6 +3026,22 @@
     "tags": [
       "Death Metal",
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "shtrige",
+    "displayName": "Shtrigë",
+    "albums": [
+      {
+        "name": "Wounds of Eternal Hunger",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

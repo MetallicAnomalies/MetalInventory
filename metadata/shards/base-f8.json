@@ -473,6 +473,22 @@
     ]
   },
   {
+    "normalizedName": "avocadopornujo",
+    "displayName": "Avocado Pornujo",
+    "albums": [
+      {
+        "name": "The Best Grind in the World",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind"
+    ]
+  },
+  {
     "normalizedName": "axispowers",
     "displayName": "Axis Powers",
     "albums": [
@@ -5150,6 +5166,24 @@
       "Post-grunge",
       "Indie Rock",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "torturousinception",
+    "displayName": "Torturous Inception",
+    "albums": [
+      {
+        "name": "Life's Worth",
+        "year": "2026",
+        "genres": [
+          "Technical Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Technical Brutal Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {
