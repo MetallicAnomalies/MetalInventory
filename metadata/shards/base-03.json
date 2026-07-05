@@ -4281,7 +4281,7 @@
   {
     "normalizedName": "traversus",
     "displayName": "Traversus",
-    "origin": "US",
+    "origin": "NL",
     "albums": [
       {
         "name": "Deceived",
@@ -4317,6 +4317,14 @@
       {
         "name": "The Weight",
         "year": "2023",
+        "genres": [
+          "Progressive Metal",
+          "Prog Rock"
+        ]
+      },
+      {
+        "name": "Navigate",
+        "year": "2025",
         "genres": [
           "Progressive Metal",
           "Prog Rock"
