@@ -4590,6 +4590,65 @@
     ]
   },
   {
+    "normalizedName": "tessia",
+    "displayName": "Tessia",
+    "origin": "NO",
+    "albums": [
+      {
+        "name": "As Above, So Below",
+        "year": "2017",
+        "genres": [
+          "Melodic Death Metal",
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "Burn the Sky",
+        "year": "2018",
+        "genres": [
+          "Melodic Death Metal",
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "Shadows and Dust",
+        "year": "2021",
+        "genres": [
+          "Melodic Death Metal",
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "The Cataclysm, Pt. 1",
+        "year": "2024",
+        "genres": [
+          "Melodic Death Metal",
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "The Cataclysm, Pt. 2",
+        "year": "2025",
+        "genres": [
+          "Melodic Death Metal",
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "The Cataclysm",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal",
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "textures",
     "displayName": "Textures",
     "origin": "NL",
