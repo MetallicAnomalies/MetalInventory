@@ -1380,6 +1380,7 @@
   {
     "normalizedName": "evignatt",
     "displayName": "Evig Natt",
+    "origin": "NO",
     "albums": [
       {
         "name": "I Am Silence",
@@ -1400,6 +1401,14 @@
       {
         "name": "Evig Natt",
         "year": "2016",
+        "genres": [
+          "Death Doom Metal",
+          "Gothic Metal"
+        ]
+      },
+      {
+        "name": "Vaketimen",
+        "year": "2026",
         "genres": [
           "Death Doom Metal",
           "Gothic Metal"

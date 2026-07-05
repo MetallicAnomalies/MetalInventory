@@ -4186,6 +4186,7 @@
   {
     "normalizedName": "torchia",
     "displayName": "Torchia",
+    "origin": "FI",
     "albums": [
       {
         "name": "Of Curses And Grief",
@@ -4204,6 +4205,13 @@
       {
         "name": "Arcane Magicae",
         "year": "2024",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "They Are Born Under Rules of the Darkness",
+        "year": "2026",
         "genres": [
           "Melodic Death Metal"
         ]

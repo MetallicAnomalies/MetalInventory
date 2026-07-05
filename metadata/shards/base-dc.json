@@ -4203,6 +4203,7 @@
   {
     "normalizedName": "yothiria",
     "displayName": "Yoth Iria",
+    "origin": "GR",
     "albums": [
       {
         "name": "Under His Sway",
@@ -4221,6 +4222,13 @@
       {
         "name": "Blazing Inferno",
         "year": "2024",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      },
+      {
+        "name": "Gone with the Devil",
+        "year": "2026",
         "genres": [
           "Melodic Black Metal"
         ]
