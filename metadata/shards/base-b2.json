@@ -3623,7 +3623,9 @@
         "name": "Red Is The Color Of Ripping Death",
         "year": "2021",
         "genres": [
-          "Death Metal"
+          "Death Metal",
+          "Metal",
+          "Old School Death Metal"
         ]
       },
       {
@@ -3640,8 +3642,11 @@
       }
     ],
     "tags": [
-      "Death Metal"
-    ]
+      "Death Metal",
+      "Metal",
+      "Old School Death Metal"
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "obrother",

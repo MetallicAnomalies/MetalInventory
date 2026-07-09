@@ -3282,9 +3282,10 @@
       },
       {
         "name": "Of Sculptured Ivy & Stone Flowers",
-        "year": "2008",
+        "year": "1999",
         "genres": [
-          "Doom Metal"
+          "Doom Metal",
+          "Death Doom Metal"
         ]
       },
       {
@@ -5551,21 +5552,24 @@
         "name": "God Damn, Better, Best!",
         "year": "2010",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash",
+          "Thrash Metal"
         ]
       },
       {
         "name": "Aftersane",
         "year": "2012",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash",
+          "Thrash Metal"
         ]
       },
       {
         "name": "Zerozonic",
         "year": "2017",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash",
+          "Heavy Metal"
         ]
       },
       {
@@ -5577,7 +5581,9 @@
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash",
+      "Thrash Metal",
+      "Heavy Metal"
     ]
   }
 ]

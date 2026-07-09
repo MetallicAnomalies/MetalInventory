@@ -650,7 +650,8 @@
         "name": "Dusk..... & Her Embrace",
         "year": "1996",
         "genres": [
-          "Black Metal"
+          "Black Metal",
+          "Symphonic Black Metal"
         ]
       },
       {
@@ -874,6 +875,21 @@
           "Gothic Metal",
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Vempire",
+        "year": "1996",
+        "genres": [
+          "Symphonic Black Metal",
+          "Cover",
+          "Black Metal",
+          "Gothic Metal",
+          "Romantic",
+          "Nocturnal",
+          "Sensual",
+          "Manic",
+          "Vampiric Metal"
+        ]
       }
     ],
     "tags": [
@@ -882,7 +898,13 @@
       "Symphonic Metal",
       "Black Metal",
       "Death Metal",
-      "Gothic Metal"
+      "Gothic Metal",
+      "Cover",
+      "Romantic",
+      "Nocturnal",
+      "Sensual",
+      "Manic",
+      "Vampiric Metal"
     ]
   },
   {

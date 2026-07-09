@@ -942,13 +942,16 @@
         "name": "We Belong In The Grave",
         "year": "2025",
         "genres": [
-          "Death Metal"
+          "Death Metal",
+          "Rock"
         ]
       }
     ],
     "tags": [
-      "Death Metal"
-    ]
+      "Death Metal",
+      "Rock"
+    ],
+    "origin": "LT"
   },
   {
     "normalizedName": "deathlesslegacy",
@@ -5043,5 +5046,89 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "baabamaal",
+    "displayName": "Baaba Maal",
+    "albums": [
+      {
+        "name": "Djam Leelii",
+        "year": "1989",
+        "genres": [
+          "African",
+          "Folk",
+          "World Music"
+        ]
+      },
+      {
+        "name": "Lam Toro",
+        "year": "1992",
+        "genres": [
+          "African",
+          "Folk",
+          "World Music"
+        ]
+      },
+      {
+        "name": "Firin' in Fouta",
+        "year": "1994",
+        "genres": [
+          "African",
+          "Folk",
+          "World Music"
+        ]
+      },
+      {
+        "name": "Nomad Soul",
+        "year": "1998",
+        "genres": [
+          "African",
+          "Folk",
+          "World Music"
+        ]
+      },
+      {
+        "name": "Missing You (Mi Yeewnii)",
+        "year": "2001",
+        "genres": [
+          "African",
+          "Folk",
+          "World Music"
+        ]
+      },
+      {
+        "name": "Television",
+        "year": "2009",
+        "genres": [
+          "African",
+          "Folk",
+          "World Music"
+        ]
+      },
+      {
+        "name": "The Traveller",
+        "year": "2016",
+        "genres": [
+          "African",
+          "Folk",
+          "World Music"
+        ]
+      },
+      {
+        "name": "Being",
+        "year": "2023",
+        "genres": [
+          "African",
+          "Folk",
+          "World Music"
+        ]
+      }
+    ],
+    "origin": "SN",
+    "tags": [
+      "African",
+      "Folk",
+      "World Music"
+    ]
   }
 ]

@@ -1876,10 +1876,22 @@
         "genres": [
           "Death Doom Metal"
         ]
+      },
+      {
+        "name": "Summoning",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Black Metal",
+      "Death Metal",
+      "Doom Metal"
     ]
   },
   {

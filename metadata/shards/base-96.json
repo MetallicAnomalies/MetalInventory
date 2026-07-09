@@ -533,7 +533,7 @@
       },
       {
         "name": "Armed & Dangerous",
-        "year": "1991",
+        "year": "1985",
         "genres": [
           "Heavy Metal",
           "Thrash Metal",
@@ -4977,6 +4977,49 @@
     "tags": [
       "Groove Metal",
       "Nu Metal"
+    ]
+  },
+  {
+    "normalizedName": "brilliantcoldness",
+    "displayName": "Brilliant Coldness",
+    "albums": [
+      {
+        "name": "Beyond Eternity",
+        "year": "2003",
+        "genres": [
+          "Technical Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Poisoned Reality",
+        "year": "2009",
+        "genres": [
+          "Death Metal",
+          "Rock",
+          "Ukraine",
+          "Technical Death Metal",
+          "Ukrainian Death Metal",
+          "Lugansk"
+        ]
+      },
+      {
+        "name": "The Ultimate Dream. Plan B: Disposal Of Humanity",
+        "year": "2021",
+        "genres": [
+          "Technical Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "origin": "UA",
+    "tags": [
+      "Death Metal",
+      "Rock",
+      "Ukraine",
+      "Technical Death Metal",
+      "Ukrainian Death Metal",
+      "Lugansk"
     ]
   }
 ]

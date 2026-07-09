@@ -1487,7 +1487,9 @@
         "year": "2020",
         "genres": [
           "Hard Rock",
-          "Progressive Rock"
+          "Progressive Rock",
+          "Rock",
+          "Prog Rock"
         ]
       },
       {
@@ -1497,11 +1499,33 @@
           "Hard Rock",
           "Progressive Rock"
         ]
+      },
+      {
+        "name": "Panorama",
+        "year": "2026",
+        "genres": [
+          "Rock",
+          "Prog Rock",
+          "Space Rock",
+          "Hard Rock"
+        ]
+      },
+      {
+        "name": "Star Rider",
+        "year": "2018",
+        "genres": [
+          "Rock",
+          "Prog Rock",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
       "Hard Rock",
-      "Progressive Rock"
+      "Progressive Rock",
+      "Rock",
+      "Prog Rock",
+      "Space Rock"
     ]
   },
   {

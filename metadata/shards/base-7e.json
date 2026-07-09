@@ -4783,5 +4783,44 @@
       "Southern Rock",
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "gnome",
+    "displayName": "Gnome",
+    "albums": [
+      {
+        "name": "Father of Time",
+        "year": "2018",
+        "genres": [
+          "Stoner Rock",
+          "Alternative Rock"
+        ]
+      },
+      {
+        "name": "King",
+        "year": "2022",
+        "genres": [
+          "Stoner Rock",
+          "Sludge Metal",
+          "Alternative Rock"
+        ]
+      },
+      {
+        "name": "Vestiges of Verumex Visidrome",
+        "year": "2024",
+        "genres": [
+          "Alternative Rock",
+          "Rock",
+          "Stoner Rock"
+        ]
+      }
+    ],
+    "origin": "BE",
+    "tags": [
+      "Alternative Rock",
+      "Rock",
+      "Stoner Rock",
+      "Sludge Metal"
+    ]
   }
 ]

@@ -1806,6 +1806,15 @@
           "Thrash Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "The Lost Gate",
+        "year": "2021",
+        "genres": [
+          "Progressive Metal",
+          "Thrash Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2225,7 +2234,9 @@
         "name": "Years Past Matter",
         "year": "2012",
         "genres": [
-          "Avantgarde Black"
+          "Avantgarde Black",
+          "Black Metal",
+          "Avantgarde"
         ]
       },
       {
@@ -2316,7 +2327,10 @@
         "name": "Inorganic Rites",
         "year": "2024",
         "genres": [
-          "Avantgarde Black"
+          "Avantgarde Black",
+          "Black Metal",
+          "Death Metal",
+          "Space Rock"
         ]
       },
       {
@@ -2328,8 +2342,13 @@
       }
     ],
     "tags": [
-      "Avantgarde Black"
-    ]
+      "Avantgarde Black",
+      "Black Metal",
+      "Death Metal",
+      "Space Rock",
+      "Avantgarde"
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "krvuspara",

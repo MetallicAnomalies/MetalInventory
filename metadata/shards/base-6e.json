@@ -4252,5 +4252,48 @@
       "Punk",
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "thechosen",
+    "displayName": "The Chösen",
+    "albums": [
+      {
+        "name": "For The Glory Of The Empire",
+        "year": "2004",
+        "genres": [
+          "Black Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Resistance Leading To Strength",
+        "year": "2022",
+        "genres": [
+          "Black Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "At The Behest Of Dreadful Lords",
+        "year": "2024",
+        "genres": [
+          "Black Metal",
+          "Thrash Metal",
+          "Electronic",
+          "Hip Hop",
+          "Jazz",
+          "Rock"
+        ]
+      }
+    ],
+    "origin": "NL",
+    "tags": [
+      "Black Metal",
+      "Thrash Metal",
+      "Electronic",
+      "Hip Hop",
+      "Jazz",
+      "Rock"
+    ]
   }
 ]

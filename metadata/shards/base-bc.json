@@ -394,7 +394,10 @@
         "year": "2003",
         "genres": [
           "Death Metal",
-          "Sludge Metal"
+          "Sludge Metal",
+          "Heavy Metal",
+          "Thrash Metal",
+          "Hardcore"
         ]
       },
       {
@@ -426,13 +429,18 @@
         "year": "2018",
         "genres": [
           "Death Metal",
-          "Sludge Metal"
+          "Sludge Metal",
+          "Rock"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Sludge Metal"
+      "Sludge Metal",
+      "Rock",
+      "Heavy Metal",
+      "Thrash Metal",
+      "Hardcore"
     ]
   },
   {

@@ -5763,5 +5763,37 @@
       "Hardcore Punk",
       "Crossover Thrash"
     ]
+  },
+  {
+    "normalizedName": "atmoran",
+    "displayName": "Atmoran",
+    "albums": [
+      {
+        "name": "Omen",
+        "year": "2019",
+        "genres": [
+          "Progressive Metal",
+          "Death Metal",
+          "Thrash Metal",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "We Fight Back!",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Thrash Metal",
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "origin": "NL",
+    "tags": [
+      "Progressive Metal",
+      "Death Metal",
+      "Thrash Metal",
+      "Metalcore"
+    ]
   }
 ]

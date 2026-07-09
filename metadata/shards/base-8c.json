@@ -4593,19 +4593,28 @@
         "name": "The Severed Path",
         "year": "2021",
         "genres": [
-          "Progressive Death Metal"
+          "Progressive Death Metal",
+          "Death Metal",
+          "Melodic Death Metal",
+          "Rock"
         ]
       },
       {
         "name": "Fatally Misguided",
         "year": "2024",
         "genres": [
-          "Progressive Death Metal"
+          "Progressive Death Metal",
+          "Death Metal",
+          "Technical Death Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Death Metal"
+      "Progressive Death Metal",
+      "Death Metal",
+      "Melodic Death Metal",
+      "Rock",
+      "Technical Death Metal"
     ],
     "origin": "US"
   },

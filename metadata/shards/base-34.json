@@ -4514,5 +4514,31 @@
       "Black Metal",
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "ppta",
+    "displayName": "PPTA",
+    "albums": [
+      {
+        "name": "Beaten Broken Bleeding",
+        "year": "2011",
+        "genres": [
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Bleeding For A Living",
+        "year": "2021",
+        "genres": [
+          "Rock",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Rock",
+      "Thrash Metal"
+    ],
+    "origin": "NL"
   }
 ]

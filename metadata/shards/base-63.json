@@ -2153,6 +2153,13 @@
           "Pop Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Notion",
+        "year": "2009",
+        "genres": [
+          "Rca Records"
+        ]
       }
     ],
     "tags": [
@@ -2163,7 +2170,8 @@
       "Rock & Roll",
       "Alternative Rock",
       "Blues Rock",
-      "Pop Rock"
+      "Pop Rock",
+      "Rca Records"
     ]
   },
   {
@@ -2882,11 +2890,76 @@
           "Black Metal",
           "Folk Metal"
         ]
+      },
+      {
+        "name": "Dark Soldier",
+        "year": "2019",
+        "genres": [
+          "Black Metal",
+          "Folk Metal"
+        ]
+      },
+      {
+        "name": "Imperatoris",
+        "year": "2022",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Land Of The Greeks",
+        "year": "2023",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Live Thorhammerfest",
+        "year": "2018",
+        "genres": [
+          "Black Metal",
+          "Folk Metal"
+        ]
+      },
+      {
+        "name": "Our Blackest Roots",
+        "year": "2020",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Swords Of Blood",
+        "year": "2015",
+        "genres": [
+          "Death Metal",
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Terra Dourada",
+        "year": "2025",
+        "genres": [
+          "Black Metal",
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "The Way To The Northern Gates",
+        "year": "2019",
+        "genres": [
+          "Black Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Folk Metal"
+      "Folk Metal",
+      "Death Metal",
+      "Power Metal"
     ]
   },
   {
@@ -3611,6 +3684,15 @@
       {
         "name": "Sunbörn",
         "year": "2023",
+        "genres": [
+          "Jazz",
+          "Afrobeat",
+          "Fusion"
+        ]
+      },
+      {
+        "name": "Earth Is Begging",
+        "year": "2025",
         "genres": [
           "Jazz",
           "Afrobeat",

@@ -4683,11 +4683,22 @@
         "name": "Cold Velvet",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Where This World Ends",
+        "year": "2003",
+        "genres": [
+          "Goth Rock",
+          "Rock"
+        ]
       }
     ],
     "tags": [
-      "Heavy Metal"
-    ]
+      "Heavy Metal",
+      "Goth Rock",
+      "Rock"
+    ],
+    "origin": "BR"
   },
   {
     "normalizedName": "thescourge",

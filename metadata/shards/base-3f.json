@@ -4829,5 +4829,53 @@
     "tags": [
       "Atmospheric Black Metal"
     ]
+  },
+  {
+    "normalizedName": "balancebreach",
+    "displayName": "Balance Breach",
+    "albums": [
+      {
+        "name": "Incarceration",
+        "year": "2015",
+        "genres": [
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Dead End Diaries",
+        "year": "2020",
+        "genres": [
+          "Metalcore",
+          "Rock"
+        ]
+      },
+      {
+        "name": "ABYZMAL",
+        "year": "2023",
+        "genres": [
+          "Metalcore",
+          "Rock"
+        ]
+      },
+      {
+        "name": "Just to Lose It All",
+        "year": "2024",
+        "genres": [
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Save Our Souls",
+        "year": "2025",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "origin": "FI",
+    "tags": [
+      "Metalcore",
+      "Rock"
+    ]
   }
 ]

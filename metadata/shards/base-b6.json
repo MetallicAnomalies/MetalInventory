@@ -1315,11 +1315,21 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Dreadfully Expired",
+        "year": "2022",
+        "genres": [
+          "Death Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
-    ]
+      "Death Metal",
+      "Rock"
+    ],
+    "origin": "NL"
   },
   {
     "normalizedName": "futuresend",

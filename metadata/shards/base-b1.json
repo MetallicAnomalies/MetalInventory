@@ -2346,20 +2346,29 @@
         "name": "Burning Torches",
         "year": "2017",
         "genres": [
-          "Blackened Thrash Metal"
+          "Blackened Thrash Metal",
+          "Thrash Metal",
+          "Black Metal"
         ]
       },
       {
         "name": "Rites Of Extermination",
         "year": "2021",
         "genres": [
-          "Blackened Thrash Metal"
+          "Blackened Thrash Metal",
+          "Death Metal",
+          "Black Metal",
+          "Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Thrash Metal"
-    ]
+      "Blackened Thrash Metal",
+      "Thrash Metal",
+      "Black Metal",
+      "Death Metal"
+    ],
+    "origin": "ES"
   },
   {
     "normalizedName": "kuzuknot",

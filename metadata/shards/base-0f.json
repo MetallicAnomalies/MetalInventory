@@ -2144,19 +2144,36 @@
         "name": "Transcending Fire",
         "year": "2021",
         "genres": [
-          "Gothic Doom Metal"
+          "Gothic Doom Metal",
+          "Doom Metal",
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Elevation",
         "year": "2026",
         "genres": [
-          "Gothic Doom Metal"
+          "Gothic Doom Metal",
+          "Death Metal",
+          "Doom Metal"
+        ]
+      },
+      {
+        "name": "Brighter",
+        "year": "2013",
+        "genres": [
+          "Death Metal",
+          "Doom Metal",
+          "Ambient"
         ]
       }
     ],
     "tags": [
-      "Gothic Doom Metal"
+      "Gothic Doom Metal",
+      "Death Metal",
+      "Doom Metal",
+      "Ambient",
+      "Melodic Death Metal"
     ]
   },
   {

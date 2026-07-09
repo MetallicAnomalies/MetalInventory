@@ -3722,5 +3722,45 @@
       "Pop",
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "thedisasterarea",
+    "displayName": "The Disaster Area",
+    "albums": [
+      {
+        "name": "Sell Your Soul",
+        "year": "2016",
+        "genres": [
+          "Metalcore",
+          "Post-Hardcore"
+        ]
+      },
+      {
+        "name": "Alpha//Omega",
+        "year": "2018",
+        "genres": [
+          "Metalcore",
+          "Post-Hardcore",
+          "Rock"
+        ]
+      },
+      {
+        "name": "Glasshearts",
+        "year": "2021",
+        "genres": [
+          "Metalcore",
+          "Post-Hardcore"
+        ]
+      }
+    ],
+    "origin": "DE",
+    "tags": [
+      "Metalcore",
+      "Post-Hardcore",
+      "Hardcore Metal",
+      "Noise Metal",
+      "Punk",
+      "Rock"
+    ]
   }
 ]
