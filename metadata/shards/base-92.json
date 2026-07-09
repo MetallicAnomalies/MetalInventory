@@ -4528,6 +4528,25 @@
     ]
   },
   {
+    "normalizedName": "themuppets",
+    "displayName": "The Muppets",
+    "origin": "US",
+    "albums": [
+      {
+        "name": "The Muppets",
+        "year": "2011",
+        "genres": [
+          "Soundtrack",
+          "Fun"
+        ]
+      }
+    ],
+    "tags": [
+      "Soundtrack",
+      "Fun"
+    ]
+  },
+  {
     "normalizedName": "thesamans",
     "displayName": "The Samans",
     "albums": [

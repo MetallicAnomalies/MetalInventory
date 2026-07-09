@@ -109919,6 +109919,25 @@
       "Stoner Metal"
     ]
   },
+  "SUNBORN": {
+    "albums": [
+      {
+        "name": "Sunbörn",
+        "year": "2023",
+        "genres": [
+          "Jazz",
+          "Afrobeat",
+          "Fusion"
+        ]
+      }
+    ],
+    "origin": "DK",
+    "tags": [
+      "Jazz",
+      "Afrobeat",
+      "Fusion"
+    ]
+  },
   "Sundead": {
     "albums": [
       {
@@ -116696,6 +116715,7 @@
         ]
       }
     ],
+    "origin": "US",
     "tags": [
       "Progressive Death Metal"
     ]

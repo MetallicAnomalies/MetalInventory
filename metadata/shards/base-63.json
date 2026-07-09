@@ -3604,6 +3604,27 @@
     "tags": []
   },
   {
+    "normalizedName": "sunborn",
+    "displayName": "SUNBORN",
+    "origin": "DK",
+    "albums": [
+      {
+        "name": "Sunbörn",
+        "year": "2023",
+        "genres": [
+          "Jazz",
+          "Afrobeat",
+          "Fusion"
+        ]
+      }
+    ],
+    "tags": [
+      "Jazz",
+      "Afrobeat",
+      "Fusion"
+    ]
+  },
+  {
     "normalizedName": "swornenemy",
     "displayName": "Sworn Enemy",
     "origin": "US",
