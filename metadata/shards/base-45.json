@@ -1314,6 +1314,33 @@
     ]
   },
   {
+    "normalizedName": "dvst",
+    "displayName": "DVST",
+    "albums": [
+      {
+        "name": "DVST",
+        "year": "2022",
+        "genres": [
+          "Metalcore",
+          "Hardcore Metal"
+        ]
+      },
+      {
+        "name": "Losing (Feat. Bound In Fear)",
+        "year": "2023",
+        "genres": [
+          "Metalcore",
+          "Hardcore Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Hardcore Metal"
+    ],
+    "origin": "DE"
+  },
+  {
     "normalizedName": "earthflight",
     "displayName": "Earth Flight",
     "origin": "US",

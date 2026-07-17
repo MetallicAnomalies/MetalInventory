@@ -955,9 +955,33 @@
         "name": "Abgrund",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Obsession",
+        "year": "2022",
+        "genres": [
+          "Deathcore",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Seelenfrieden",
+        "year": "2024",
+        "genres": [
+          "Deathcore",
+          "Metalcore",
+          "Progressive Metal",
+          "Beat"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Deathcore",
+      "Metalcore",
+      "Progressive Metal",
+      "Beat"
+    ],
+    "origin": "DE"
   },
   {
     "normalizedName": "contrition",

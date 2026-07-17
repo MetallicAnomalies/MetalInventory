@@ -45,6 +45,31 @@
     ]
   },
   {
+    "normalizedName": "abovebelow",
+    "displayName": "Above, Below",
+    "albums": [
+      {
+        "name": "I Guess It Was Nowhere",
+        "year": "2026",
+        "genres": [
+          "Progressive Metalcore",
+          "Metalcore",
+          "Djent",
+          "Progressive Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metalcore",
+      "Metalcore",
+      "Djent",
+      "Progressive Metal",
+      "Rock"
+    ],
+    "origin": "AU"
+  },
+  {
     "normalizedName": "ainsoph",
     "displayName": "Ainsoph",
     "albums": [
@@ -2470,7 +2495,11 @@
         "year": "2023",
         "genres": [
           "Djent",
-          "Math Metal"
+          "Math Metal",
+          "Progressive Metal",
+          "Alright",
+          "Progressive Deathcore",
+          "Thall"
         ]
       },
       {
@@ -2478,7 +2507,16 @@
         "year": "2025",
         "genres": [
           "Djent",
-          "Math Metal"
+          "Math Metal",
+          "Neoclassical Djent",
+          "Experimental Math Metal",
+          "Thall",
+          "Neoclassical Math Metal",
+          "Deathstep Metal",
+          "Experimental Djent",
+          "Deathstep Djent",
+          "Deathstep Math Metal",
+          "Brostep Metal"
         ]
       },
       {
@@ -2491,8 +2529,21 @@
     ],
     "tags": [
       "Djent",
-      "Math Metal"
-    ]
+      "Math Metal",
+      "Neoclassical Djent",
+      "Experimental Math Metal",
+      "Thall",
+      "Neoclassical Math Metal",
+      "Deathstep Metal",
+      "Experimental Djent",
+      "Deathstep Djent",
+      "Deathstep Math Metal",
+      "Brostep Metal",
+      "Progressive Metal",
+      "Alright",
+      "Progressive Deathcore"
+    ],
+    "origin": "FR"
   },
   {
     "normalizedName": "mis",

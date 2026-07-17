@@ -1288,7 +1288,8 @@
           "Electronic",
           "Euro House",
           "Eurodance"
-        ]
+        ],
+        "year": "2010"
       },
       {
         "name": "Best Of",
@@ -3308,6 +3309,13 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "salos",
+    "displayName": "SALOS",
+    "albums": [],
+    "tags": [],
+    "origin": "GR"
   },
   {
     "normalizedName": "scarletborn",

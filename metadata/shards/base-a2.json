@@ -2913,12 +2913,21 @@
           "Progressive Metal",
           "Djent"
         ]
+      },
+      {
+        "name": "Diamond Morning",
+        "year": "2026",
+        "genres": [
+          "Thall"
+        ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Djent"
-    ]
+      "Djent",
+      "Thall"
+    ],
+    "origin": "SE"
   },
   {
     "normalizedName": "karmiclink",

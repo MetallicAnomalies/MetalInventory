@@ -1504,6 +1504,31 @@
     ]
   },
   {
+    "normalizedName": "gavindegraw",
+    "displayName": "Gavin DeGraw",
+    "albums": [
+      {
+        "name": "Chariot - Stripped",
+        "year": "2003",
+        "genres": [
+          "Rock",
+          "Folk Metal",
+          "Alternative",
+          "Alternative Rock",
+          "Pop Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Rock",
+      "Folk Metal",
+      "Alternative",
+      "Alternative Rock",
+      "Pop Rock"
+    ],
+    "origin": "US"
+  },
+  {
     "normalizedName": "genesis",
     "displayName": "Genesis",
     "origin": "GB",

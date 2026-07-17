@@ -1497,6 +1497,29 @@
     ]
   },
   {
+    "normalizedName": "detset",
+    "displayName": "Detset",
+    "albums": [
+      {
+        "name": "Vermeil",
+        "year": "2022",
+        "genres": [
+          "Hardcore Metal",
+          "Metalcore",
+          "Rock",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Hardcore Metal",
+      "Metalcore",
+      "Rock",
+      "Hardcore"
+    ],
+    "origin": "FI"
+  },
+  {
     "normalizedName": "dieresis",
     "displayName": "Dieresis",
     "albums": [

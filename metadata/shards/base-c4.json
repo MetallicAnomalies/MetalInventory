@@ -3678,10 +3678,21 @@
       {
         "name": "Prince Of Failure",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Alternative Rock",
+          "Electro Metal",
+          "Electronic",
+          "Rock"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Alternative Rock",
+      "Electro Metal",
+      "Electronic",
+      "Rock"
+    ],
+    "origin": "GB"
   },
   {
     "normalizedName": "psalm",

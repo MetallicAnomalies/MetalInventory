@@ -302,6 +302,33 @@
     ]
   },
   {
+    "normalizedName": "ascendthehelix",
+    "displayName": "Ascend The Helix",
+    "albums": [
+      {
+        "name": "Spiral of Reflection",
+        "year": "2023",
+        "genres": [
+          "Progressive Metal",
+          "Groove Metal"
+        ]
+      },
+      {
+        "name": "Anamnesis",
+        "year": "2024",
+        "genres": [
+          "Progressive Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal",
+      "Groove Metal"
+    ],
+    "origin": "US"
+  },
+  {
     "normalizedName": "aversionscrown",
     "displayName": "Aversions Crown",
     "origin": "AU",
@@ -1934,11 +1961,29 @@
           "Electronic",
           "Euro House"
         ]
+      },
+      {
+        "name": "Best Of La Bouche Feat. Melanie Thornton (Feat. Melanie Thornton)",
+        "year": "2002",
+        "genres": [
+          "Dance",
+          "Pop",
+          "90s",
+          "Female Vocalists",
+          "Melanie Thornton",
+          "Eurodance"
+        ]
       }
     ],
     "tags": [
       "Electronic",
-      "Euro House"
+      "Euro House",
+      "Dance",
+      "Pop",
+      "90s",
+      "Female Vocalists",
+      "Melanie Thornton",
+      "Eurodance"
     ]
   },
   {

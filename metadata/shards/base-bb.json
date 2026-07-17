@@ -3333,7 +3333,10 @@
       {
         "name": "Far From God",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Gothic Rock",
+          "Metal"
+        ]
       },
       {
         "name": "Cross Your Heart",
@@ -3352,7 +3355,9 @@
       "Death Metal",
       "Doom Metal",
       "Black Metal",
-      "Folk Rock"
+      "Folk Rock",
+      "Gothic Rock",
+      "Metal"
     ]
   },
   {
