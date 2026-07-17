@@ -20,6 +20,7 @@ import sys
 import json
 import time
 import re
+import unicodedata
 import requests
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
@@ -48,6 +49,24 @@ PAGE_SIZE = 100
 # ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
+
+# Matches a trailing parenthetical suffix, e.g. " (Heresies Against the Flow of Time)"
+_TRAILING_PAREN_RE = re.compile(r"\s*\([^)]*\)\s*$")
+
+
+def _normalize_album_key(title: str) -> str:
+    """
+    Return a canonical dedup key for an album title:
+      - strip trailing parenthetical suffixes like "(Subtitle)" or "(Reissue)"
+      - fold to lowercase, strip leading/trailing whitespace
+
+    This ensures that HeavyMusicHQ's "The Violence Of Time" and Metal
+    Archives' "THE VIOLENCE OF TIME (Heresies Against the Flow of Time)"
+    resolve to the same key and are merged into one entry.
+    """
+    key = _TRAILING_PAREN_RE.sub("", title).strip().lower()
+    return key or title.strip().lower()
+
 
 def _strip_html(raw: str) -> str:
     """Remove HTML tags from a Metal Archives cell value."""
@@ -281,7 +300,17 @@ def fetch_metal_archives_releases(mode: str = "pipeline") -> list[dict]:
 def merge_into_output(new_releases: list[dict]) -> None:
     """
     Load the existing metal_releases.json (if any), merge in the new
-    Metal Archives entries (deduplicate on artist+album), and save.
+    Metal Archives entries (deduplicate on artist + normalised album),
+    and save.
+
+    Dedup strategy:
+      - The dedup *lookup* key strips trailing parenthetical suffixes so
+        that HeavyMusicHQ's "The Violence Of Time" matches Metal Archives'
+        "THE VIOLENCE OF TIME (Heresies Against the Flow of Time)".
+      - When a match is found, the Metal Archives entry wins: it carries
+        the canonical title, genre, type, URL, and source.
+      - The storage map is re-keyed on the normalised title after a merge
+        so the updated entry is found correctly by future lookups.
     """
     # Load existing data
     try:
@@ -290,29 +319,35 @@ def merge_into_output(new_releases: list[dict]) -> None:
     except (FileNotFoundError, json.JSONDecodeError):
         existing = []
 
-    # Build dedup map keyed on (lower artist, lower album)
-    albums_map: dict[tuple, dict] = {
-        (item["artist"].strip().lower(), item["album"].strip().lower()): item
-        for item in existing
-    }
+    # Build dedup map keyed on (lower artist, normalised album)
+    # The normalised album key strips trailing parenthetical suffixes.
+    albums_map: dict[tuple, dict] = {}
+    for item in existing:
+        artist_key = item["artist"].strip().lower()
+        album_key  = _normalize_album_key(item["album"])
+        albums_map[(artist_key, album_key)] = item
 
     added = 0
     for rel in new_releases:
-        key = (rel["artist"].strip().lower(), rel["album"].strip().lower())
+        artist_key = rel["artist"].strip().lower()
+        album_key  = _normalize_album_key(rel["album"])
+        key = (artist_key, album_key)
+
         if key not in albums_map:
             albums_map[key] = rel
             added += 1
         else:
-            # Optionally enrich existing entry with MA source info
-            entry = albums_map[key]
-            if "MetalArchives" not in entry.get("source", ""):
-                entry["source"] = entry.get("source", "") + ", MetalArchives"
-            
-            # MA is the only source that returns genres, so enrich the existing entry
-            if rel.get("genre"):
-                entry["genre"] = rel["genre"]
-                if "genre_list" in rel:
-                    entry["genre_list"] = rel["genre_list"]
+            # Metal Archives wins: overwrite with the richer MA entry.
+            existing_entry = albums_map[key]
+            old_source     = existing_entry.get("source", "")
+
+            # Preserve any non-MA source label so history isn't lost.
+            if old_source and "MetalArchives" not in old_source:
+                rel["source"] = old_source + ", MetalArchives"
+
+            # Replace the entry entirely with the MA version (canonical
+            # title, full genre info, URL, type, added_on …)
+            albums_map[key] = rel
 
     final = sorted(
         albums_map.values(),

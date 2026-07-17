@@ -17,6 +17,20 @@ HEADERS = {
 }
 
 # ==============================================================================
+# DEDUP NORMALISATION
+# ==============================================================================
+
+# Strip trailing parenthetical suffixes from album titles before comparison.
+# e.g. "THE VIOLENCE OF TIME (Heresies Against the Flow of Time)" -> "the violence of time"
+_TRAILING_PAREN_RE = re.compile(r"\s*\([^)]*\)\s*$")
+
+
+def _normalize_album_key(title: str) -> str:
+    """Canonical dedup key: lowercase, trailing parenthetical stripped."""
+    key = _TRAILING_PAREN_RE.sub("", title).strip().lower()
+    return key or title.strip().lower()
+
+# ==============================================================================
 # FUNCTIONS
 # ==============================================================================
 
@@ -24,6 +38,11 @@ def load_existing_data(filename):
     """
     Loads existing JSON. Handles both 'artist' and 'band' keys to ensure
     we don't create duplicates if the schema changed.
+
+    Dedup key: (artist.lower(), _normalize_album_key(album))
+    The album normalisation strips trailing parenthetical suffixes so that
+    Metal Archives entries like "Title (Subtitle)" block HeavyMusicHQ from
+    adding a bare "Title" duplicate.
     """
     if not os.path.exists(filename):
         print(f"File {filename} not found. Starting fresh.")
@@ -32,20 +51,19 @@ def load_existing_data(filename):
     try:
         with open(filename, 'r', encoding='utf-8') as f:
             data_list = json.load(f)
-            
+
         albums_map = {}
         for entry in data_list:
             # SAFETY: Check for 'artist' OR 'band' key
             artist_val = entry.get('artist') or entry.get('band') or ''
             album_val = entry.get('album', '')
-            
-            # Normalize for comparison (lowercase, stripped)
+
             artist_norm = artist_val.strip().lower()
-            album_norm = album_val.strip().lower()
-            
+            album_norm  = _normalize_album_key(album_val)
+
             if artist_norm and album_norm:
                 albums_map[(artist_norm, album_norm)] = entry
-        
+
         print(f"Loaded {len(data_list)} existing entries from {filename}.")
         return albums_map, data_list
     except Exception as e:
@@ -163,7 +181,7 @@ def main():
     # 3. Merge (Add only if not in existing_map)
     added_count = 0
     for entry in candidates:
-        key = (entry['artist'].lower().strip(), entry['album'].lower().strip())
+        key = (entry['artist'].lower().strip(), _normalize_album_key(entry['album']))
         
         if key not in existing_map:
             full_list.append(entry)
