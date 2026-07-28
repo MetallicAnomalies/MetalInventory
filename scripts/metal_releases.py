@@ -7,28 +7,38 @@ import requests
 from datetime import datetime, timedelta
 
 # --- CONFIGURATION ---
-GENRE_IDS = [
-   "62-black-metal",
-    "556-blackened-death-metal",
-    "89-death-metal",
-    "90-melodic-death-metal",
-    "658-progressive-death-metal",
-    "51-doom-metal",
-    "105-gothic-metal",
-    "135-groove-metal",
-    "59-metalcore",
-    "54-progressive-metal",
-    "120-power-metal",
-    "88-thrash-metal",
-    "279-symphonic-metal",
-    "40-metal",
-    "687-neoclassical-metal",
-    "107-industrial-metal",
-    "291-djent"
+# MusicBrainz tag strings — used verbatim in Lucene tag: queries
+MB_TAGS = [
+    "black metal",
+    "blackened death metal",
+    "death metal",
+    "melodic death metal",
+    "progressive death metal",
+    "doom metal",
+    "gothic metal",
+    "groove metal",
+    "metalcore",
+    "progressive metal",
+    "power metal",
+    "thrash metal",
+    "symphonic metal",
+    "heavy metal",
+    "neoclassical metal",
+    "industrial metal",
+    "djent",
+    # MA-rejected / borderline genres
+    "nu metal",
+    "mathcore",
+    "math metal",
+    "post-metal",
+    "sludge metal",
+    "stoner metal",
+    "blackgaze",
+    "ambient black metal",
 ]
 
 def scrape_releases():
-    # 1. Setup Scraper for AOTY (Needs Cloudflare bypass)
+    # 1. Setup Scraper (cloudscraper used for browser-like SSL ciphers)
     scraper = cloudscraper.create_scraper(
         browser={'browser': 'chrome', 'platform': 'windows', 'desktop': True}
     )
@@ -66,8 +76,7 @@ def scrape_releases():
         'Accept': 'application/json'
     }
 
-    for genre_id in GENRE_IDS:
-        mb_tag = " ".join(genre_id.split('-')[1:])
+    for mb_tag in MB_TAGS:
         print(f">>> Querying MB Tag: '{mb_tag}'")
         
         query = (
@@ -80,7 +89,7 @@ def scrape_releases():
             'fmt': 'json',
             'limit': 50
         }
-
+        time.sleep(5)
         # RETRY LOGIC: Try 3 times before giving up on a genre
         for attempt in range(3):
             try:
@@ -173,7 +182,7 @@ def scrape_releases():
     final_output = list(existing_map.values())
     final_output.sort(key=lambda x: x.get('release_date', '0000-00-00'), reverse=True)
 
-    with open('metal_releases.json', 'w', encoding='utf-8') as f:
+    with open('metal_releases2.json', 'w', encoding='utf-8') as f:
         json.dump(final_output, f, indent=4, ensure_ascii=False)
     
     print(f"\nSUCCESS: Saved {len(final_output)} unique albums.")
