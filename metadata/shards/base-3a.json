@@ -538,6 +538,22 @@
     ]
   },
   {
+    "normalizedName": "azaghast",
+    "displayName": "Azaghast",
+    "albums": [
+      {
+        "name": "Ghost Touch",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "baronrojo",
     "displayName": "Barón Rojo",
     "albums": [
@@ -2001,6 +2017,13 @@
       {
         "name": "Funeral Winds & Crimson Sky",
         "year": "2021",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "Hričov - Súľov - Lietava",
+        "year": "2026",
         "genres": [
           "Atmospheric Black Metal"
         ]

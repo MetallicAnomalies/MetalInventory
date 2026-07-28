@@ -538,6 +538,24 @@
     ]
   },
   {
+    "normalizedName": "bruul",
+    "displayName": "Bruul",
+    "albums": [
+      {
+        "name": "Bruul",
+        "year": "2026",
+        "genres": [
+          "Doom Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Black Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "budtribe",
     "displayName": "Bud Tribe",
     "albums": [
@@ -1296,6 +1314,22 @@
     ],
     "tags": [
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "dranzer",
+    "displayName": "Dranzer",
+    "albums": [
+      {
+        "name": "Blame",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {

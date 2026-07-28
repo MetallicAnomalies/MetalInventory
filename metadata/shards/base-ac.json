@@ -964,6 +964,24 @@
     ]
   },
   {
+    "normalizedName": "distantlegacy",
+    "displayName": "Distant Legacy",
+    "albums": [
+      {
+        "name": "Kept in the Seams",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal",
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Power Metal",
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "do",
     "displayName": "Do",
     "origin": "JP",
@@ -996,10 +1014,18 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "The Morning Darkness",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Depressive Black Metal"
     ]
   },
   {
@@ -2001,6 +2027,24 @@
     ],
     "tags": [
       "Melodic Power"
+    ]
+  },
+  {
+    "normalizedName": "kyrios",
+    "displayName": "Kyrios",
+    "albums": [
+      {
+        "name": "Blood Constellation",
+        "year": "2026",
+        "genres": [
+          "Death Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -4229,6 +4273,26 @@
     ],
     "tags": [
       "Gothic Black"
+    ]
+  },
+  {
+    "normalizedName": "wyrmslachambreardentezmyrnaprieuremortefrancearkaist",
+    "displayName": "Wyrms/La Chambre Ardente/Zmyrna/Prieuré/Morte France/Arkaist",
+    "albums": [
+      {
+        "name": "Sainte Vehme",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient | Black Gothic Metal | Black Metal | Black Metal | Black Metal | Black Metal",
+          "Gothic Metal | Black Metal | Black Metal | Black Metal | Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Ambient | Black Gothic Metal | Black Metal | Black Metal | Black Metal | Black Metal",
+      "Gothic Metal | Black Metal | Black Metal | Black Metal | Black Metal"
     ]
   },
   {

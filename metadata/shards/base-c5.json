@@ -1357,6 +1357,24 @@
     ]
   },
   {
+    "normalizedName": "exileofheaven",
+    "displayName": "Exile of Heaven",
+    "albums": [
+      {
+        "name": "Tides of Destiny",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Power Metal",
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "failemotions",
     "displayName": "Fail Emotions",
     "origin": "RU",
@@ -1413,6 +1431,26 @@
     "tags": [
       "Melodic Death Metal",
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "famousstrangers",
+    "displayName": "Famous Strangers",
+    "albums": [
+      {
+        "name": "Famous Strangers",
+        "year": "2026",
+        "genres": [
+          "Alternative Heavy Metal",
+          "Progressive Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Alternative Heavy Metal",
+      "Progressive Heavy Metal",
+      "Heavy Metal"
     ]
   },
   {
@@ -3080,10 +3118,22 @@
         "name": "Things I Want EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Things I Want",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover Hardcore Punk",
+          "Hardcore Punk"
+        ]
       }
     ],
     "tags": [
-      "Crossover Thrash"
+      "Crossover Thrash",
+      "Thrash Metal",
+      "Crossover Hardcore Punk",
+      "Hardcore Punk"
     ]
   },
   {

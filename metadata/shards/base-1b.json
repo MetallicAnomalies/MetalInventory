@@ -2777,6 +2777,24 @@
     ]
   },
   {
+    "normalizedName": "murderoflife",
+    "displayName": "Murder of Life",
+    "albums": [
+      {
+        "name": "Visions of Justice",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "naokimorioka",
     "displayName": "Naoki Morioka",
     "albums": [
@@ -3230,6 +3248,24 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "pakosten",
+    "displayName": "Pakosteň",
+    "albums": [
+      {
+        "name": "Spevy smutných Lotrov",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Punk"
     ]
   },
   {

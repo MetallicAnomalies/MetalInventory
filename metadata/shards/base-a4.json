@@ -274,6 +274,24 @@
     ]
   },
   {
+    "normalizedName": "arsisthesis",
+    "displayName": "Arsis Thesis",
+    "albums": [
+      {
+        "name": "Ustanak",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "athabas",
     "displayName": "Athabas",
     "albums": [
@@ -3019,6 +3037,13 @@
       {
         "name": "Chthonic Wrath",
         "year": "2023",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Chaosmongers",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]

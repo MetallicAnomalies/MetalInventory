@@ -121,12 +121,22 @@
         "genres": [
           "Industrial Black Metal"
         ]
+      },
+      {
+        "name": "Metachaos",
+        "year": "2026",
+        "genres": [
+          "Industrial Black Metal",
+          "Industrial Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
       "Industrial Black Metal",
       "Industrial Metal",
-      "Black Metal"
+      "Black Metal",
+      "Rock"
     ]
   },
   {
@@ -1011,6 +1021,24 @@
     ],
     "tags": [
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "cobrafuma",
+    "displayName": "Cobrafuma",
+    "albums": [
+      {
+        "name": "Droga Total",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Crossover"
     ]
   },
   {

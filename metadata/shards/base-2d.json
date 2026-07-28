@@ -401,6 +401,38 @@
     ]
   },
   {
+    "normalizedName": "atmoran",
+    "displayName": "Atmoran",
+    "albums": [
+      {
+        "name": "Omen",
+        "year": "2019",
+        "genres": [
+          "Progressive Metal",
+          "Death Metal",
+          "Thrash Metal",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "We Fight Back!",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Thrash Metal",
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "origin": "NL",
+    "tags": [
+      "Progressive Metal",
+      "Death Metal",
+      "Thrash Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "austere",
     "displayName": "Austere",
     "albums": [
@@ -855,10 +887,22 @@
         "genres": [
           "Death Doom Metal"
         ]
+      },
+      {
+        "name": "Hydrostatic",
+        "year": "2026",
+        "genres": [
+          "Groove Metal",
+          "Metalcore Hardcore",
+          "Hardcore"
+        ]
       }
     ],
     "tags": [
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Groove Metal",
+      "Metalcore Hardcore",
+      "Hardcore"
     ]
   },
   {
@@ -5264,6 +5308,22 @@
     "tags": []
   },
   {
+    "normalizedName": "vulgarmephitis",
+    "displayName": "Vulgar Mephitis",
+    "albums": [
+      {
+        "name": "From Dust",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "walkthroughfire",
     "displayName": "Walk Through Fire",
     "albums": [
@@ -5762,38 +5822,6 @@
     "tags": [
       "Hardcore Punk",
       "Crossover Thrash"
-    ]
-  },
-  {
-    "normalizedName": "atmoran",
-    "displayName": "Atmoran",
-    "albums": [
-      {
-        "name": "Omen",
-        "year": "2019",
-        "genres": [
-          "Progressive Metal",
-          "Death Metal",
-          "Thrash Metal",
-          "Metalcore"
-        ]
-      },
-      {
-        "name": "We Fight Back!",
-        "year": "2026",
-        "genres": [
-          "Death Metal",
-          "Thrash Metal",
-          "Progressive Metal"
-        ]
-      }
-    ],
-    "origin": "NL",
-    "tags": [
-      "Progressive Metal",
-      "Death Metal",
-      "Thrash Metal",
-      "Metalcore"
     ]
   }
 ]

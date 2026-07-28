@@ -2879,6 +2879,24 @@
     ]
   },
   {
+    "normalizedName": "mentaldisorder",
+    "displayName": "Mental Disorder",
+    "albums": [
+      {
+        "name": "Neural Lamentation of the Broken Lilith",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "metafora",
     "displayName": "Metafora",
     "albums": [
@@ -3822,11 +3840,22 @@
           "Blackened Speed",
           "Punk"
         ]
+      },
+      {
+        "name": "Flawless Intrigue from Hell",
+        "year": "2026",
+        "genres": [
+          "Black Punk",
+          "Speed Metal",
+          "Punk"
+        ]
       }
     ],
     "tags": [
       "Blackened Speed",
-      "Punk"
+      "Punk",
+      "Black Punk",
+      "Speed Metal"
     ]
   },
   {
@@ -4019,6 +4048,28 @@
     ],
     "tags": [
       "Death Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "testgoatburner",
+    "displayName": "Test/Goatburner",
+    "albums": [
+      {
+        "name": "Goatest",
+        "year": "2026",
+        "genres": [
+          "Experimental Grindcore Grindcore",
+          "Death Metal",
+          "Crust Punk | Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Grindcore Grindcore",
+      "Death Metal",
+      "Crust Punk | Death Metal",
+      "Grindcore"
     ]
   },
   {

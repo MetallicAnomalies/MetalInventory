@@ -1588,11 +1588,25 @@
           "Ambient Black Metal",
           "Dark Ambient"
         ]
+      },
+      {
+        "name": "Flood Diary",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Ambient Electronic",
+          "Drone Electronic",
+          "Electronic"
+        ]
       }
     ],
     "tags": [
       "Ambient Black Metal",
-      "Dark Ambient"
+      "Dark Ambient",
+      "Atmospheric Black Metal",
+      "Ambient Electronic",
+      "Drone Electronic",
+      "Electronic"
     ]
   },
   {
@@ -1688,6 +1702,13 @@
       {
         "name": "The Phantom Novels",
         "year": "1999",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Occult Encryptions",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]
@@ -4397,12 +4418,21 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Throne of Thorns",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
       "Glam Metal",
       "Heavy Metal",
-      "Acoustic"
+      "Acoustic",
+      "Hard Rock"
     ]
   },
   {

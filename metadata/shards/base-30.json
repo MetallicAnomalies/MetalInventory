@@ -2004,6 +2004,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Abyss & Ekstasis",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2569,11 +2576,21 @@
           "Progressive Thrash",
           "Progressive Death Metal"
         ]
+      },
+      {
+        "name": "Adrift",
+        "year": "2026",
+        "genres": [
+          "Progressive Thrash Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Thrash",
-      "Progressive Death Metal"
+      "Progressive Death Metal",
+      "Progressive Thrash Death Metal",
+      "Death Metal"
     ]
   },
   {

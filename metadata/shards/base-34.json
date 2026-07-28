@@ -932,11 +932,19 @@
           "Melodic Death Metal",
           "Pagan Black Metal"
         ]
+      },
+      {
+        "name": "Ahnenfeuer - Ginnungagap Chaos Pt. I",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Pagan Black Metal"
+      "Pagan Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -3330,6 +3338,32 @@
     ]
   },
   {
+    "normalizedName": "ppta",
+    "displayName": "PPTA",
+    "albums": [
+      {
+        "name": "Beaten Broken Bleeding",
+        "year": "2011",
+        "genres": [
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Bleeding For A Living",
+        "year": "2021",
+        "genres": [
+          "Rock",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Rock",
+      "Thrash Metal"
+    ],
+    "origin": "NL"
+  },
+  {
     "normalizedName": "quovadispol",
     "displayName": "Quo Vadis (Pol)",
     "albums": [
@@ -4514,31 +4548,5 @@
       "Black Metal",
       "Death Metal"
     ]
-  },
-  {
-    "normalizedName": "ppta",
-    "displayName": "PPTA",
-    "albums": [
-      {
-        "name": "Beaten Broken Bleeding",
-        "year": "2011",
-        "genres": [
-          "Thrash Metal"
-        ]
-      },
-      {
-        "name": "Bleeding For A Living",
-        "year": "2021",
-        "genres": [
-          "Rock",
-          "Thrash Metal"
-        ]
-      }
-    ],
-    "tags": [
-      "Rock",
-      "Thrash Metal"
-    ],
-    "origin": "NL"
   }
 ]

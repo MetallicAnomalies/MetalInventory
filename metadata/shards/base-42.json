@@ -2567,6 +2567,24 @@
     ]
   },
   {
+    "normalizedName": "ineclipse",
+    "displayName": "In Eclipse",
+    "albums": [
+      {
+        "name": "Penumbral",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Groove Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "infectology",
     "displayName": "Infectology",
     "albums": [
@@ -4874,6 +4892,24 @@
     ]
   },
   {
+    "normalizedName": "terrablack",
+    "displayName": "Terra Black",
+    "albums": [
+      {
+        "name": "Mirage",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "theancientorder",
     "displayName": "The Ancient Order",
     "albums": [
@@ -5544,10 +5580,20 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Into Sunless Gravescapes",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Brutal Death Metal"
+      "Brutal Death Metal",
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

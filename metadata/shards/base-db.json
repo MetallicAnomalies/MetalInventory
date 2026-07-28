@@ -508,12 +508,24 @@
         "genres": [
           "Pagan Black Metal"
         ]
+      },
+      {
+        "name": "Urgewalt",
+        "year": "2026",
+        "genres": [
+          "Black Pagan Metal",
+          "Thrash Pagan Metal",
+          "Pagan Metal"
+        ]
       }
     ],
     "tags": [
       "Pagan Black Metal",
       "Thrash Metal",
-      "Black Metal"
+      "Black Metal",
+      "Black Pagan Metal",
+      "Thrash Pagan Metal",
+      "Pagan Metal"
     ]
   },
   {
@@ -5262,6 +5274,15 @@
     "albums": [
       {
         "name": "Light Pollution",
+        "year": "2026",
+        "genres": [
+          "Progressive Post-Metal",
+          "Atmospheric Sludge Post-Metal",
+          "Post-Metal"
+        ]
+      },
+      {
+        "name": "Solaris",
         "year": "2026",
         "genres": [
           "Progressive Post-Metal",

@@ -521,11 +521,19 @@
         "genres": [
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "Welcome to the New Dark Ages, Part 3",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Technical Death Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Death Metal"
     ]
   },
   {
@@ -3064,6 +3072,24 @@
       "Crossover Punk",
       "Thrash Metal",
       "Punk"
+    ]
+  },
+  {
+    "normalizedName": "ristiinnaulitseminen",
+    "displayName": "Ristiinnaulitseminen",
+    "albums": [
+      {
+        "name": "Ihme",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal",
+          "Shoegaze"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal",
+      "Shoegaze"
     ]
   },
   {

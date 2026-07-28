@@ -1588,6 +1588,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Defamatory",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -1630,6 +1637,14 @@
         "genres": [
           "Black Metal",
           "Gothic Rock"
+        ]
+      },
+      {
+        "name": "Bloody Dreams",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Punk"
         ]
       }
     ],
@@ -3521,6 +3536,13 @@
       {
         "name": "Répugnance",
         "year": "2023",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Violence, Blasphème et Pourriture",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

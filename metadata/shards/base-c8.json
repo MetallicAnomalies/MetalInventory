@@ -262,6 +262,13 @@
         "genres": [
           "Technical Deathcore"
         ]
+      },
+      {
+        "name": "The Darkest Side of Humanity",
+        "year": "2026",
+        "genres": [
+          "Technical Deathcore"
+        ]
       }
     ],
     "tags": [
@@ -341,6 +348,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "berith",
+    "displayName": "Berith",
+    "albums": [
+      {
+        "name": "Sworn to the Black Arts",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Death Metal"
     ]
   },
   {

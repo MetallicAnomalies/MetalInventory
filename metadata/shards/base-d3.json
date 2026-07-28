@@ -422,9 +422,18 @@
         "name": "Blood Mother",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Militant Black Magic",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "bloodofindigo",

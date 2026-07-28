@@ -424,10 +424,22 @@
         "genres": [
           "Grindcore"
         ]
+      },
+      {
+        "name": "Manslayer",
+        "year": "2026",
+        "genres": [
+          "Grindcore Death Metal",
+          "Powerviolence Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Grindcore"
+      "Grindcore",
+      "Grindcore Death Metal",
+      "Powerviolence Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -3432,6 +3444,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "septure",
+    "displayName": "Septure",
+    "albums": [
+      {
+        "name": "Under the Sceptre",
+        "year": "2026",
+        "genres": [
+          "Heavy Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Doom Metal",
+      "Doom Metal"
     ]
   },
   {

@@ -4040,10 +4040,20 @@
         "genres": [
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "The Devil's Whisper",
+        "year": "2026",
+        "genres": [
+          "Progressive Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Metal"
+      "Progressive Metal",
+      "Progressive Power Metal",
+      "Power Metal"
     ]
   },
   {
@@ -4277,6 +4287,13 @@
       {
         "name": "Welcome My Last Chapter",
         "year": "1996",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      },
+      {
+        "name": "Wings of Sorrow / It's Here I Belong",
+        "year": "2026",
         "genres": [
           "Melodic Black Metal"
         ]

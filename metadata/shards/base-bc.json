@@ -324,11 +324,20 @@
           "Speed Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "A Paranormal Duet",
+        "year": "2026",
+        "genres": [
+          "Power Speed Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
       "Speed Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Power Speed Metal"
     ]
   },
   {
@@ -3308,10 +3317,19 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Waves",
+        "year": "2026",
+        "genres": [
+          "Ambient Atmospheric Black Metal",
+          "Atmospheric Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Atmospheric Black Metal"
+      "Atmospheric Black Metal",
+      "Ambient Atmospheric Black Metal"
     ]
   },
   {

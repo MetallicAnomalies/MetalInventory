@@ -3368,6 +3368,24 @@
     ]
   },
   {
+    "normalizedName": "maunah",
+    "displayName": "Maunah",
+    "albums": [
+      {
+        "name": "Hjarta",
+        "year": "2026",
+        "genres": [
+          "Doom Post-Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Post-Metal",
+      "Post-Metal"
+    ]
+  },
+  {
     "normalizedName": "miasmalsabbath",
     "displayName": "Miasmal Sabbath",
     "albums": [
@@ -3993,6 +4011,24 @@
     ],
     "tags": [
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "sauros",
+    "displayName": "Sauros",
+    "albums": [
+      {
+        "name": "Offense",
+        "year": "2026",
+        "genres": [
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {

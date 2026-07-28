@@ -401,10 +401,18 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Pandemonium Portrait",
+        "year": "2026",
+        "genres": [
+          "Melodic Heavy Metal"
+        ]
       }
     ],
     "tags": [
-      "Heavy Metal"
+      "Heavy Metal",
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -2234,6 +2242,26 @@
     ]
   },
   {
+    "normalizedName": "maggotvomit",
+    "displayName": "Maggot Vomit",
+    "albums": [
+      {
+        "name": "Horrors of a Greedy Tyrant",
+        "year": "2026",
+        "genres": [
+          "Slam Goregrind",
+          "Brutal Death Metal",
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Goregrind",
+      "Brutal Death Metal",
+      "Goregrind"
+    ]
+  },
+  {
     "normalizedName": "manegarm",
     "displayName": "Månegarm",
     "origin": "SE",
@@ -3582,6 +3610,22 @@
     "tags": [
       "Melodic Death Metal",
       "Death 'N' Roll"
+    ]
+  },
+  {
+    "normalizedName": "streettombs",
+    "displayName": "Street Tombs",
+    "albums": [
+      {
+        "name": "Existence Is Corruption",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

@@ -2339,6 +2339,13 @@
         "genres": [
           "Avantgarde Black"
         ]
+      },
+      {
+        "name": "Scour Order",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2346,7 +2353,8 @@
       "Black Metal",
       "Death Metal",
       "Space Rock",
-      "Avantgarde"
+      "Avantgarde",
+      "Avant-garde Black Metal"
     ],
     "origin": "US"
   },

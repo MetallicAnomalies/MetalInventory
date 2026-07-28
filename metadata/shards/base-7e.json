@@ -523,6 +523,26 @@
     ]
   },
   {
+    "normalizedName": "blackpool",
+    "displayName": "Black Pool",
+    "albums": [
+      {
+        "name": "Black Pool",
+        "year": "2026",
+        "genres": [
+          "Heavy Hard Rock",
+          "Doom Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Hard Rock",
+      "Doom Metal",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "blacktundra",
     "displayName": "Black Tundra",
     "albums": [
@@ -1733,6 +1753,45 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "gnome",
+    "displayName": "Gnome",
+    "albums": [
+      {
+        "name": "Father of Time",
+        "year": "2018",
+        "genres": [
+          "Stoner Rock",
+          "Alternative Rock"
+        ]
+      },
+      {
+        "name": "King",
+        "year": "2022",
+        "genres": [
+          "Stoner Rock",
+          "Sludge Metal",
+          "Alternative Rock"
+        ]
+      },
+      {
+        "name": "Vestiges of Verumex Visidrome",
+        "year": "2024",
+        "genres": [
+          "Alternative Rock",
+          "Rock",
+          "Stoner Rock"
+        ]
+      }
+    ],
+    "origin": "BE",
+    "tags": [
+      "Alternative Rock",
+      "Rock",
+      "Stoner Rock",
+      "Sludge Metal"
     ]
   },
   {
@@ -4782,45 +4841,6 @@
       "Blues Rock",
       "Southern Rock",
       "Rock"
-    ]
-  },
-  {
-    "normalizedName": "gnome",
-    "displayName": "Gnome",
-    "albums": [
-      {
-        "name": "Father of Time",
-        "year": "2018",
-        "genres": [
-          "Stoner Rock",
-          "Alternative Rock"
-        ]
-      },
-      {
-        "name": "King",
-        "year": "2022",
-        "genres": [
-          "Stoner Rock",
-          "Sludge Metal",
-          "Alternative Rock"
-        ]
-      },
-      {
-        "name": "Vestiges of Verumex Visidrome",
-        "year": "2024",
-        "genres": [
-          "Alternative Rock",
-          "Rock",
-          "Stoner Rock"
-        ]
-      }
-    ],
-    "origin": "BE",
-    "tags": [
-      "Alternative Rock",
-      "Rock",
-      "Stoner Rock",
-      "Sludge Metal"
     ]
   }
 ]

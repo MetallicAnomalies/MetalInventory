@@ -177,10 +177,19 @@
         "genres": [
           "Speed Metal"
         ]
+      },
+      {
+        "name": "13ème choc",
+        "year": "2026",
+        "genres": [
+          "Heavy Speed Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
-      "Speed Metal"
+      "Speed Metal",
+      "Heavy Speed Metal"
     ]
   },
   {

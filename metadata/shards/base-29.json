@@ -204,12 +204,22 @@
           "Psychedelic Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Last Man Standing",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "NWOBHM"
+        ]
       }
     ],
     "tags": [
       "Thrash Metal",
       "Psychedelic Rock",
-      "Rock"
+      "Rock",
+      "Heavy Metal",
+      "NWOBHM"
     ]
   },
   {

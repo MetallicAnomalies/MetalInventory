@@ -896,6 +896,26 @@
     ]
   },
   {
+    "normalizedName": "darktennis",
+    "displayName": "Dark Tennis",
+    "albums": [
+      {
+        "name": "Sinner",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Grindcore Metalcore",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Grindcore Metalcore",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "deathonation",
     "displayName": "Deathonation",
     "albums": [
@@ -1849,11 +1869,20 @@
           "Celtic Folk",
           "Black Metal"
         ]
+      },
+      {
+        "name": "A hed an noz, a noz, a noz",
+        "year": "2026",
+        "genres": [
+          "Folk Black Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Celtic Folk",
-      "Black Metal"
+      "Black Metal",
+      "Folk Black Metal"
     ]
   },
   {
@@ -3817,6 +3846,24 @@
     ],
     "tags": [
       "Atmospheric  Black"
+    ]
+  },
+  {
+    "normalizedName": "steelover",
+    "displayName": "Steelover",
+    "albums": [
+      {
+        "name": "Devil's Highway",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
     ]
   },
   {

@@ -1601,6 +1601,22 @@
     ]
   },
   {
+    "normalizedName": "grimomen",
+    "displayName": "Grim Omen",
+    "albums": [
+      {
+        "name": "Voidrended Visions",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "hatreditamod",
     "displayName": "Hatred (Ita-mod)",
     "albums": [
@@ -3966,6 +3982,24 @@
     "tags": [
       "Thrash Metal",
       "Us Power"
+    ]
+  },
+  {
+    "normalizedName": "volucrine",
+    "displayName": "Volucrine",
+    "albums": [
+      {
+        "name": "Chapter V: Renewal",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Progressive Metal",
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Progressive Metal",
+      "Progressive Metal"
     ]
   },
   {

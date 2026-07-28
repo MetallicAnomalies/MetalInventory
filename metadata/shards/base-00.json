@@ -205,12 +205,20 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Cogwheel",
+        "year": "2026",
+        "genres": [
+          "Experimental Death Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
       "Black Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Experimental Death Metal"
     ]
   },
   {

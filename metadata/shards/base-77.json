@@ -16,6 +16,29 @@
     ]
   },
   {
+    "normalizedName": "abyssaldecay",
+    "displayName": "Abyssal Decay",
+    "albums": [
+      {
+        "name": "Scars of War",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "On the Desolate Plain",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "alexa",
     "displayName": "Alexa",
     "albums": [
@@ -1014,6 +1037,22 @@
     ],
     "tags": [
       "Symphonic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "demonicmanifestation",
+    "displayName": "Demonic Manifestation",
+    "albums": [
+      {
+        "name": "Grimshrine",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

@@ -2265,11 +2265,19 @@
           "Death Metal",
           "Grindcore"
         ]
+      },
+      {
+        "name": "Jigoku",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Grindcore"
+      "Grindcore",
+      "Goregrind"
     ]
   },
   {

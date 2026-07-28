@@ -4506,6 +4506,14 @@
           "Power Symphonic Metal",
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Omega Origin",
+        "year": "2026",
+        "genres": [
+          "Power Symphonic Metal",
+          "Symphonic Metal"
+        ]
       }
     ],
     "tags": [
@@ -4545,10 +4553,20 @@
         "genres": [
           "Doom Death"
         ]
+      },
+      {
+        "name": "Mycodeath and Rebirth in the Outer Clusters",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Doom Death"
+      "Doom Death",
+      "Death Doom Metal",
+      "Doom Metal"
     ]
   },
   {

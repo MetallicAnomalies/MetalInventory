@@ -2044,6 +2044,22 @@
     ]
   },
   {
+    "normalizedName": "komutator",
+    "displayName": "Komutator",
+    "albums": [
+      {
+        "name": "We Don't Owe You Anything",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "lamentsofsilence",
     "displayName": "Laments Of Silence",
     "origin": "ES",
@@ -2348,6 +2364,27 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "midnightprey",
+    "displayName": "Midnight Prey",
+    "albums": [
+      {
+        "name": "Jenseitsritt",
+        "year": "2026",
+        "genres": [
+          "Heavy Speed Metal",
+          "Punk",
+          "Speed Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Speed Metal",
+      "Punk",
+      "Speed Metal"
     ]
   },
   {

@@ -888,6 +888,14 @@
           "Drone Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Demolarium",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
@@ -895,7 +903,8 @@
       "Doom Metal",
       "Sludge Metal",
       "Grindcore",
-      "Drone Metal"
+      "Drone Metal",
+      "Death Doom Metal"
     ]
   },
   {
@@ -4362,6 +4371,22 @@
     ],
     "tags": [
       "Gothic Rock"
+    ]
+  },
+  {
+    "normalizedName": "varjotuli",
+    "displayName": "Varjotuli",
+    "albums": [
+      {
+        "name": "Return of Ancient Darkness",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

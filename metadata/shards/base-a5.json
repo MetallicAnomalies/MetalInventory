@@ -4246,6 +4246,26 @@
     ]
   },
   {
+    "normalizedName": "utilizetheremains",
+    "displayName": "Utilize the Remains",
+    "albums": [
+      {
+        "name": "Meaningless  Existence",
+        "year": "2026",
+        "genres": [
+          "Slam Deathcore",
+          "Brutal Death Metal",
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Deathcore",
+      "Brutal Death Metal",
+      "Deathcore"
+    ]
+  },
+  {
     "normalizedName": "valleyseve",
     "displayName": "Valley's Eve",
     "albums": [
@@ -4533,6 +4553,22 @@
       "Black Metal",
       "Death Metal",
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "zenithmaudlin",
+    "displayName": "Zenith Maudlin",
+    "albums": [
+      {
+        "name": "Every Death",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {

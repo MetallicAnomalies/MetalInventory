@@ -482,6 +482,22 @@
     ]
   },
   {
+    "normalizedName": "bloodstain",
+    "displayName": "Bloodstain",
+    "albums": [
+      {
+        "name": "Bloodstain",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "bodysnatcher",
     "displayName": "Bodysnatcher",
     "origin": "AU",
@@ -4616,6 +4632,15 @@
       },
       {
         "name": "The Trace Outlives",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Rock",
+          "Neoclassical"
+        ]
+      },
+      {
+        "name": "I Don't Care / The Trace Outlives",
         "year": "2026",
         "genres": [
           "Symphonic Metal",

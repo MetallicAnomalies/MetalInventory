@@ -613,6 +613,24 @@
     ]
   },
   {
+    "normalizedName": "corpsecleanup",
+    "displayName": "Corpse Cleanup",
+    "albums": [
+      {
+        "name": "Third Serve",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "corruptedmelody",
     "displayName": "Corrupted Melody",
     "albums": [
@@ -3139,6 +3157,29 @@
       "Viking Metal",
       "Folk Metal",
       "Power Metal",
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "svorght",
+    "displayName": "Svorght",
+    "albums": [
+      {
+        "name": "Svart lerret",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Skygger av galskap",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
       "Black Metal"
     ]
   },

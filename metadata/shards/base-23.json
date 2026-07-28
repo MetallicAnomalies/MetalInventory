@@ -216,6 +216,22 @@
     "tags": []
   },
   {
+    "normalizedName": "androgenus",
+    "displayName": "Androgenus",
+    "albums": [
+      {
+        "name": "Still Alive",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "angelssorrow",
     "displayName": "Angel's Sorrow",
     "albums": [
@@ -1725,10 +1741,19 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "For the Burning of All Holiness",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -1789,6 +1814,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "karvherfstdood",
+    "displayName": "Kärv/Herfstdood",
+    "albums": [
+      {
+        "name": "Schemerfluisteringen (I)",
+        "year": "2026",
+        "genres": [
+          "Black Metal | Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal | Post-Black Metal"
     ]
   },
   {

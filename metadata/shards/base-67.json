@@ -2207,6 +2207,26 @@
     ]
   },
   {
+    "normalizedName": "indyingtimes",
+    "displayName": "In Dying Times",
+    "albums": [
+      {
+        "name": "Soothing Lullabies",
+        "year": "2026",
+        "genres": [
+          "Metalcore Death Metal",
+          "Melodic Thrash Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore Death Metal",
+      "Melodic Thrash Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "innerguilt",
     "displayName": "Innerguilt",
     "albums": [
@@ -2623,6 +2643,24 @@
       "Disco",
       "Funk / Soul",
       "Contemporary R&b"
+    ]
+  },
+  {
+    "normalizedName": "maidenhead",
+    "displayName": "Maidenhead",
+    "albums": [
+      {
+        "name": "Maximum Clonage",
+        "year": "2026",
+        "genres": [
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -3846,6 +3884,22 @@
     ],
     "tags": [
       "Viking Folk"
+    ]
+  },
+  {
+    "normalizedName": "slimedimension",
+    "displayName": "Slime Dimension",
+    "albums": [
+      {
+        "name": "Slime Dimension",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {

@@ -1613,6 +1613,24 @@
     ]
   },
   {
+    "normalizedName": "elkhunter",
+    "displayName": "Elk Hunter",
+    "albums": [
+      {
+        "name": "Arriving Intact",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "elliegoulding",
     "displayName": "Ellie Goulding",
     "origin": "GB",
@@ -3726,6 +3744,22 @@
     ],
     "tags": [
       "Technical Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "nostos",
+    "displayName": "Nostos",
+    "albums": [
+      {
+        "name": "Seeds of Doom",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

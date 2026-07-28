@@ -1038,10 +1038,19 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "What Remains",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Deathcore"
     ]
   },
   {

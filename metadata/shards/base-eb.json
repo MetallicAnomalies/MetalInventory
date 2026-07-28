@@ -591,6 +591,24 @@
     ]
   },
   {
+    "normalizedName": "bloodartillery",
+    "displayName": "Blood Artillery",
+    "albums": [
+      {
+        "name": "Anti-Human Militarism",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "bonginator",
     "displayName": "Bonginator",
     "origin": "US",
@@ -3470,11 +3488,20 @@
           "Glam Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Rats in the Cradle",
+        "year": "2026",
+        "genres": [
+          "Glam Heavy Metal",
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
       "Glam Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Glam Heavy Metal"
     ]
   },
   {
@@ -4277,6 +4304,24 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "shadowmare",
+    "displayName": "Shadowmare",
+    "albums": [
+      {
+        "name": "Transfiguration",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -5117,6 +5162,24 @@
     ],
     "tags": [
       "Melodic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "wakboth",
+    "displayName": "Wakboth",
+    "albums": [
+      {
+        "name": "Täydellinen tuho 1996–2017",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

@@ -3096,6 +3096,16 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Anthology of Sombre Reflections",
+        "year": "2026",
+        "genres": [
+          "Doom Death Metal",
+          "Death Metal",
+          "Gothic Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
@@ -3103,7 +3113,8 @@
       "Death Doom Metal",
       "Gothic Metal",
       "Death Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Doom Death Metal"
     ]
   },
   {
@@ -4136,11 +4147,20 @@
           "Death Metal",
           "Mathcore"
         ]
+      },
+      {
+        "name": "Curtains",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Mathcore"
+      "Mathcore",
+      "Grindcore"
     ]
   },
   {

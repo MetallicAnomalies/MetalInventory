@@ -3028,6 +3028,24 @@
     ]
   },
   {
+    "normalizedName": "kavernist",
+    "displayName": "Kavernist",
+    "albums": [
+      {
+        "name": "Holocene Blues",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Crust Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Crust Punk"
+    ]
+  },
+  {
     "normalizedName": "knalpot",
     "displayName": "Knalpot",
     "origin": "NL",
@@ -4494,6 +4512,22 @@
     "tags": [
       "Melodic Hardcore",
       "Punk"
+    ]
+  },
+  {
+    "normalizedName": "vasterjunk",
+    "displayName": "Vaster Junk",
+    "albums": [
+      {
+        "name": "Junk Crush!!!! E.P",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {

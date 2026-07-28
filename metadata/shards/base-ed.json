@@ -1850,6 +1850,22 @@
     ]
   },
   {
+    "normalizedName": "giuseppezaupa",
+    "displayName": "Giuseppe Zaupa",
+    "albums": [
+      {
+        "name": "aPOCALiPSE",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "gorsednoctis",
     "displayName": "Gorsed Noctis",
     "albums": [
@@ -2592,6 +2608,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "killer",
+    "displayName": "Killer",
+    "albums": [
+      {
+        "name": "The Grand Finale",
+        "year": "2026",
+        "genres": [
+          "Heavy Speed Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Speed Metal",
+      "Speed Metal"
     ]
   },
   {

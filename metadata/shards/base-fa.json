@@ -1762,6 +1762,24 @@
     ]
   },
   {
+    "normalizedName": "gourdincloute",
+    "displayName": "Gourdin Clouté",
+    "albums": [
+      {
+        "name": "La nuit des crânes fendus",
+        "year": "2026",
+        "genres": [
+          "Crust Punk",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Crust Punk",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "graveir",
     "displayName": "Graveir",
     "albums": [
@@ -3663,6 +3681,26 @@
     ],
     "tags": [
       "Blackened Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "rancorous",
+    "displayName": "Rancorous",
+    "albums": [
+      {
+        "name": "In Extremis",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Thrash Metal",
+      "Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

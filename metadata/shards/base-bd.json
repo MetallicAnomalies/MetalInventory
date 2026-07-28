@@ -1464,11 +1464,20 @@
           "Black Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Ignis Draconis Daemonicus",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Black Thrash Metal"
     ]
   },
   {

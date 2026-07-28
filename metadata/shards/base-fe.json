@@ -1842,6 +1842,13 @@
           "Death Doom Metal",
           "Gothic Metal"
         ]
+      },
+      {
+        "name": "Dream Death",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -1851,7 +1858,8 @@
       "Doom Metal",
       "Melodic Death Metal",
       "Progressive Metal",
-      "Goth Rock"
+      "Goth Rock",
+      "Progressive Death Metal"
     ]
   },
   {
@@ -3737,6 +3745,13 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Fractured State",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -3862,6 +3877,13 @@
       {
         "name": "Deathbound",
         "year": "2021",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Flesh for the Kult of Death",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]

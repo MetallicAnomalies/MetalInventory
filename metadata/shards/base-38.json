@@ -3340,6 +3340,77 @@
     ]
   },
   {
+    "normalizedName": "markmorrison",
+    "displayName": "Mark Morrison",
+    "albums": [
+      {
+        "name": "Return of the Mack",
+        "year": "1996",
+        "genres": [
+          "Contemporary R&B",
+          "Funk / Soul",
+          "Hip Hop",
+          "90s",
+          "Rnb",
+          "Soul",
+          "R&B",
+          "Hip-hop",
+          "Pop"
+        ]
+      },
+      {
+        "name": "Only God Can Judge Me",
+        "year": "1997",
+        "genres": [
+          "Contemporary R&B",
+          "Funk / Soul",
+          "Hip Hop",
+          "Rnb",
+          "Soul",
+          "R&B",
+          "Pop"
+        ]
+      },
+      {
+        "name": "Innocent Man",
+        "year": "2006",
+        "genres": [
+          "Contemporary R&B",
+          "Funk / Soul",
+          "Hip Hop",
+          "Rnb",
+          "Soul",
+          "R&B",
+          "Pop"
+        ]
+      },
+      {
+        "name": "I Am What I Am",
+        "year": "2014",
+        "genres": [
+          "Contemporary R&B",
+          "Funk / Soul",
+          "Rnb",
+          "Soul",
+          "R&B",
+          "Pop"
+        ]
+      }
+    ],
+    "origin": "GB",
+    "tags": [
+      "Contemporary R&B",
+      "Funk / Soul",
+      "Hip Hop",
+      "90s",
+      "Rnb",
+      "Soul",
+      "R&B",
+      "Hip-hop",
+      "Pop"
+    ]
+  },
+  {
     "normalizedName": "martiria",
     "displayName": "Martiria",
     "albums": [
@@ -5219,11 +5290,20 @@
           "Death Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Godless Communion",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Death Thrash Metal"
     ]
   },
   {
@@ -5748,77 +5828,6 @@
     ],
     "tags": [
       "Black Metal"
-    ]
-  },
-  {
-    "normalizedName": "markmorrison",
-    "displayName": "Mark Morrison",
-    "albums": [
-      {
-        "name": "Return of the Mack",
-        "year": "1996",
-        "genres": [
-          "Contemporary R&B",
-          "Funk / Soul",
-          "Hip Hop",
-          "90s",
-          "Rnb",
-          "Soul",
-          "R&B",
-          "Hip-hop",
-          "Pop"
-        ]
-      },
-      {
-        "name": "Only God Can Judge Me",
-        "year": "1997",
-        "genres": [
-          "Contemporary R&B",
-          "Funk / Soul",
-          "Hip Hop",
-          "Rnb",
-          "Soul",
-          "R&B",
-          "Pop"
-        ]
-      },
-      {
-        "name": "Innocent Man",
-        "year": "2006",
-        "genres": [
-          "Contemporary R&B",
-          "Funk / Soul",
-          "Hip Hop",
-          "Rnb",
-          "Soul",
-          "R&B",
-          "Pop"
-        ]
-      },
-      {
-        "name": "I Am What I Am",
-        "year": "2014",
-        "genres": [
-          "Contemporary R&B",
-          "Funk / Soul",
-          "Rnb",
-          "Soul",
-          "R&B",
-          "Pop"
-        ]
-      }
-    ],
-    "origin": "GB",
-    "tags": [
-      "Contemporary R&B",
-      "Funk / Soul",
-      "Hip Hop",
-      "90s",
-      "Rnb",
-      "Soul",
-      "R&B",
-      "Hip-hop",
-      "Pop"
     ]
   }
 ]

@@ -4153,6 +4153,22 @@
     ]
   },
   {
+    "normalizedName": "toxiccarnage",
+    "displayName": "Toxic Carnage",
+    "albums": [
+      {
+        "name": "Shadows of the Past",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "traumamoralis",
     "displayName": "Trauma Moralis",
     "albums": [
@@ -4233,6 +4249,22 @@
     "tags": [
       "Black Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "winteringgrounds",
+    "displayName": "Wintering Grounds",
+    "albums": [
+      {
+        "name": "Impasse",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Metal"
     ]
   },
   {

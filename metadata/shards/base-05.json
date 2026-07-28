@@ -1053,6 +1053,22 @@
     ]
   },
   {
+    "normalizedName": "firstbornevil",
+    "displayName": "Firstborn Evil",
+    "albums": [
+      {
+        "name": "Canticum Diaboli (The Demos Compilation)",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "fragmentsofunbecoming",
     "displayName": "Fragments Of Unbecoming",
     "origin": "DE",
@@ -2365,6 +2381,13 @@
       {
         "name": "…And For This We Should Be Damned?",
         "year": "2015",
+        "genres": [
+          "Groove Metal"
+        ]
+      },
+      {
+        "name": "Nothing Left to Kill",
+        "year": "2026",
         "genres": [
           "Groove Metal"
         ]

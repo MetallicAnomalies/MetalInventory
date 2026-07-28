@@ -1878,6 +1878,22 @@
     ]
   },
   {
+    "normalizedName": "grimjustice",
+    "displayName": "Grim Justice",
+    "albums": [
+      {
+        "name": "Live at Szene Wien",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "gunjack",
     "displayName": "Gunjack",
     "albums": [
@@ -2275,6 +2291,22 @@
       "Rock",
       "Alternative Rock",
       "Acoustic"
+    ]
+  },
+  {
+    "normalizedName": "jeroramiro",
+    "displayName": "Jero Ramiro",
+    "albums": [
+      {
+        "name": "La Cuna del Mal",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {
@@ -2802,6 +2834,24 @@
       "Black Metal",
       "Death Metal",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "nihilbound",
+    "displayName": "Nihilbound",
+    "albums": [
+      {
+        "name": "Live Sin",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Punk"
     ]
   },
   {

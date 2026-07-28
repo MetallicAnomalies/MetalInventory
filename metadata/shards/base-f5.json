@@ -4944,6 +4944,13 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Metalmorphosis",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -5584,6 +5591,24 @@
       "Groove Thrash",
       "Thrash Metal",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "ледяноигром",
+    "displayName": "Ледяной Гром",
+    "albums": [
+      {
+        "name": "Angrboda",
+        "year": "2026",
+        "genres": [
+          "Pagan Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Pagan Metal",
+      "Dungeon Synth"
     ]
   }
 ]

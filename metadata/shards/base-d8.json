@@ -282,6 +282,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "The Occult Forces",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3575,6 +3582,26 @@
     "tags": [
       "Country Rock",
       "Folk, World, & Country",
+      "Rock"
+    ]
+  },
+  {
+    "normalizedName": "submasq",
+    "displayName": "Submasq",
+    "albums": [
+      {
+        "name": "Spirit Animal",
+        "year": "2026",
+        "genres": [
+          "Folk Rock",
+          "Progressive Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Folk Rock",
+      "Progressive Metal",
       "Rock"
     ]
   },

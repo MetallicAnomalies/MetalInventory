@@ -580,11 +580,22 @@
           "Hard Rock",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Running from My Soul - The MCA Years 1973-1975",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Progressive Rock",
+          "Progressive Rock"
+        ]
       }
     ],
     "tags": [
       "Hard Rock",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Hard Progressive Rock",
+      "Progressive Rock"
     ]
   },
   {
@@ -2347,6 +2358,24 @@
     ],
     "tags": [
       "Technical Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "moondestroys",
+    "displayName": "Moon Destroys",
+    "albums": [
+      {
+        "name": "Omni",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal",
+      "Rock"
     ]
   },
   {

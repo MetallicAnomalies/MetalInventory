@@ -2289,11 +2289,20 @@
           "Thrash Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Santa Catareich",
+        "year": "2026",
+        "genres": [
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Death Metal"
+      "Death Metal",
+      "Thrash Death Metal"
     ]
   },
   {
@@ -2581,6 +2590,24 @@
     "tags": [
       "Heavy Metal",
       "Us Power"
+    ]
+  },
+  {
+    "normalizedName": "salo",
+    "displayName": "Salo",
+    "albums": [
+      {
+        "name": "Live u Pani Kasi",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Noise"
     ]
   },
   {

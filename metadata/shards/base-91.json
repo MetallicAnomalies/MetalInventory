@@ -2449,10 +2449,20 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Reflexions",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Gothic Metal",
+      "Rock"
     ]
   },
   {

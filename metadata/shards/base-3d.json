@@ -836,6 +836,22 @@
     ]
   },
   {
+    "normalizedName": "callousmaster",
+    "displayName": "Callous Master",
+    "albums": [
+      {
+        "name": "Callous Master",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "carcariass",
     "displayName": "Carcariass",
     "origin": "FR",
@@ -2706,6 +2722,26 @@
     ],
     "tags": [
       "Progressive Rock"
+    ]
+  },
+  {
+    "normalizedName": "mailume",
+    "displayName": "Mai Lume",
+    "albums": [
+      {
+        "name": "Päättyvä tarina",
+        "year": "2026",
+        "genres": [
+          "Heavy Alternative Metal",
+          "Groove Alternative Metal",
+          "Alternative Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Alternative Metal",
+      "Groove Alternative Metal",
+      "Alternative Metal"
     ]
   },
   {

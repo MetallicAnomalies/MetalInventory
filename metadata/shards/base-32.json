@@ -1513,12 +1513,23 @@
         "genres": [
           "Industrial Metal"
         ]
+      },
+      {
+        "name": "Pandemonium",
+        "year": "2026",
+        "genres": [
+          "Heavy Doom Metal",
+          "Doom Metal",
+          "Industrial Metal",
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
       "Doom Metal",
-      "Industrial Metal"
+      "Industrial Metal",
+      "Heavy Doom Metal"
     ]
   },
   {

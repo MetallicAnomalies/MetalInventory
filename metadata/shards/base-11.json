@@ -627,6 +627,22 @@
     ]
   },
   {
+    "normalizedName": "con",
+    "displayName": "CON",
+    "albums": [
+      {
+        "name": "The Shrine Within",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "corrupt",
     "displayName": "Corrupt",
     "albums": [
@@ -2963,6 +2979,22 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "necrocene",
+    "displayName": "Necrocene",
+    "albums": [
+      {
+        "name": "Scumocracy",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

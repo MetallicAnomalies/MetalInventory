@@ -852,10 +852,20 @@
         "genres": [
           "Psychedelic Doom"
         ]
+      },
+      {
+        "name": "In Between Strides",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Doom Post-Metal",
+          "Post-Metal"
+        ]
       }
     ],
     "tags": [
-      "Psychedelic Doom"
+      "Psychedelic Doom",
+      "Psychedelic Doom Post-Metal",
+      "Post-Metal"
     ]
   },
   {

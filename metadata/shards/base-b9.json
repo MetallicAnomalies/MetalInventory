@@ -3903,10 +3903,19 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Revenge",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
-      "Heavy Metal"
+      "Heavy Metal",
+      "Hard Rock"
     ]
   },
   {

@@ -1729,6 +1729,13 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Exsequiis",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -2106,13 +2113,25 @@
           "Crossover Thrash",
           "Hardcore Metal"
         ]
+      },
+      {
+        "name": "Stalagmite Angels",
+        "year": "2026",
+        "genres": [
+          "Crossover Hardcore",
+          "Thrash Metal",
+          "Hardcore"
+        ]
       }
     ],
     "tags": [
       "Crossover Thrash",
       "Hardcore Metal",
       "Hardcore Punk",
-      "Groove Metal"
+      "Groove Metal",
+      "Crossover Hardcore",
+      "Thrash Metal",
+      "Hardcore"
     ]
   },
   {
@@ -2274,11 +2293,20 @@
           "Sludge Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Dissolved in Time",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Sludge Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Sludge Doom Metal"
     ]
   },
   {

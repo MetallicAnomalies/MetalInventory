@@ -1909,6 +1909,26 @@
           "Gothic Metal",
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "A Dark Poem, Part III: The Messiah Complex",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Gothic Rock",
+          "Progressive Metal",
+          "Rock"
+        ]
+      },
+      {
+        "name": "A Dark Poem - The Complete Series",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Gothic Rock",
+          "Progressive Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
@@ -1919,7 +1939,9 @@
       "Doom Metal",
       "Progressive Rock",
       "Norsk Rock",
-      "Rock"
+      "Rock",
+      "Death Metal",
+      "Gothic Rock"
     ]
   },
   {

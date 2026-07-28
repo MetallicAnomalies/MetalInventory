@@ -1537,11 +1537,20 @@
           "Black Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "To the Great Monolith 2.5",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Black Doom Metal"
     ]
   },
   {

@@ -2473,10 +2473,20 @@
         "genres": [
           "Symphonic Power"
         ]
+      },
+      {
+        "name": "The Pantheon ~Age of Heroes~",
+        "year": "2026",
+        "genres": [
+          "Symphonic Neoclassical Power Metal",
+          "Neoclassical Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power",
+      "Symphonic Neoclassical Power Metal",
+      "Neoclassical Power Metal"
     ]
   },
   {
@@ -3481,11 +3491,20 @@
         "genres": [
           "Death Doom Metal"
         ]
+      },
+      {
+        "name": "After Chaos: Nocturnal Vigil",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Doom Metal"
     ]
   },
   {

@@ -1857,11 +1857,21 @@
           "Atmospheric Black Metal",
           "Funeral Doom Metal"
         ]
+      },
+      {
+        "name": "Unravelling",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Funeral Doom Metal"
+      "Funeral Doom Metal",
+      "Black Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -3847,10 +3857,22 @@
         "genres": [
           "Progressive Doom"
         ]
+      },
+      {
+        "name": "Vergessenes",
+        "year": "2026",
+        "genres": [
+          "Progressive Rock",
+          "Doom Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
-      "Progressive Doom"
+      "Progressive Doom",
+      "Progressive Rock",
+      "Doom Metal",
+      "Rock"
     ]
   },
   {

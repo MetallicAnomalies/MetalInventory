@@ -1896,6 +1896,22 @@
     ]
   },
   {
+    "normalizedName": "infinitemisery",
+    "displayName": "Infinite Misery",
+    "albums": [
+      {
+        "name": "Brain Matter Asphyxiation",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "irrbloss",
     "displayName": "Irrbloss",
     "albums": [
@@ -2005,6 +2021,24 @@
       "Soft Rock",
       "Jazz",
       "Fusion"
+    ]
+  },
+  {
+    "normalizedName": "jotungrav",
+    "displayName": "Jotungrav",
+    "albums": [
+      {
+        "name": "Elegi",
+        "year": "2026",
+        "genres": [
+          "Progressive Folk Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Folk Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -2824,10 +2858,24 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "As All Is Undone",
+        "year": "2026",
+        "genres": [
+          "Deathcore Djent",
+          "Djent",
+          "Deathcore Sludge Metal",
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Deathcore Djent",
+      "Djent",
+      "Deathcore Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {

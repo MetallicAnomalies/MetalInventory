@@ -1190,6 +1190,15 @@
           "Gothic Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Ashes & Gold",
+        "year": "2026",
+        "genres": [
+          "Doom Metal",
+          "Gothic Alternative Rock",
+          "Alternative Rock"
+        ]
       }
     ],
     "tags": [
@@ -1198,7 +1207,8 @@
       "Alternative Rock",
       "Goth Rock",
       "Emo",
-      "Rock"
+      "Rock",
+      "Gothic Alternative Rock"
     ]
   },
   {

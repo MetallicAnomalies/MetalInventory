@@ -5172,10 +5172,38 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Ruin / / Reverie",
+        "year": "2026",
+        "genres": [
+          "Ambient Post-Black Metal",
+          "Post-Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Atmospheric Black Metal"
+      "Atmospheric Black Metal",
+      "Ambient Post-Black Metal",
+      "Post-Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "vokkr",
+    "displayName": "Vokkr",
+    "albums": [
+      {
+        "name": "Golden Forest",
+        "year": "2026",
+        "genres": [
+          "Black Folk Metal",
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Folk Metal",
+      "Folk Metal"
     ]
   },
   {

@@ -604,6 +604,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Spawn of Flesh",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3418,6 +3425,22 @@
     ]
   },
   {
+    "normalizedName": "mittagsabgrund",
+    "displayName": "Mittags-Abgrund",
+    "albums": [
+      {
+        "name": "Mittags-Abgrund",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "mortaura",
     "displayName": "Mortaura",
     "albums": [
@@ -3892,10 +3915,18 @@
         "name": "Sailing Around The World",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Travelling Around the World",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power",
+      "Symphonic Power Metal"
     ]
   },
   {

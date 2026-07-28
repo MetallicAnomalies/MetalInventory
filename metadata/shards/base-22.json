@@ -4674,11 +4674,24 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Electrifyed",
+        "year": "2026",
+        "genres": [
+          "NWOBHM Heavy Metal",
+          "Heavy Metal",
+          "Hard Rock",
+          "AOR"
+        ]
       }
     ],
     "tags": [
       "New Wave Of British Heavy",
-      "Heavy Metal"
+      "Heavy Metal",
+      "NWOBHM Heavy Metal",
+      "Hard Rock",
+      "AOR"
     ]
   },
   {

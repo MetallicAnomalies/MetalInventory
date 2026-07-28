@@ -1034,11 +1034,20 @@
           "Deathgrind",
           "Grindcore"
         ]
+      },
+      {
+        "name": "Operating Altar",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
       "Deathgrind",
-      "Grindcore"
+      "Grindcore",
+      "Death Metal"
     ]
   },
   {
@@ -4969,6 +4978,13 @@
       {
         "name": "Rübezahl",
         "year": "2024",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Omnicide - Chapter I",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

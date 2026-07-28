@@ -1659,6 +1659,22 @@
     ]
   },
   {
+    "normalizedName": "filth",
+    "displayName": "Filth",
+    "albums": [
+      {
+        "name": "Death Exhibiton",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "firescent",
     "displayName": "Firescent",
     "albums": [
@@ -1879,6 +1895,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "hansen",
+    "displayName": "Hansen",
+    "albums": [
+      {
+        "name": "Born with a Hammer",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
     ]
   },
   {

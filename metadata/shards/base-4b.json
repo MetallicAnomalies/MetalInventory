@@ -241,6 +241,22 @@
     ]
   },
   {
+    "normalizedName": "ambulacrum",
+    "displayName": "Ambulacrum",
+    "albums": [
+      {
+        "name": "Historiae Romanae Fragmenta",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Death Metal"
+    ]
+  },
+  {
     "normalizedName": "anabanta",
     "displayName": "Anabanta",
     "origin": "MX",
@@ -2875,6 +2891,22 @@
       "Funk / Soul",
       "Rhythm & Blues",
       "Soul"
+    ]
+  },
+  {
+    "normalizedName": "sangdesaturne",
+    "displayName": "Sang de Saturne",
+    "albums": [
+      {
+        "name": "To Megalithic Astral Tombs",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

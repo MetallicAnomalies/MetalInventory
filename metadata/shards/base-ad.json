@@ -993,6 +993,13 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Rivers of Blood",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -4053,6 +4060,22 @@
     ]
   },
   {
+    "normalizedName": "putrefacta",
+    "displayName": "Putrefacta",
+    "albums": [
+      {
+        "name": "Aesthetics of the Crime Scene",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind"
+    ]
+  },
+  {
     "normalizedName": "rampageaus",
     "displayName": "Rampage (Aus)",
     "albums": [
@@ -5355,6 +5378,44 @@
     "tags": [
       "Thrash Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "xion",
+    "displayName": "Xion",
+    "albums": [
+      {
+        "name": "When Stars Collide",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "xysmafunebreinterment",
+    "displayName": "Xysma/Funebre/Interment",
+    "albums": [
+      {
+        "name": "Maggots: Original Artyfacts from the First Finnish Death Metal Era Part II",
+        "year": "2026",
+        "genres": [
+          "Death 'n' Roll Grindcore",
+          "Grindcore",
+          "Stoner Garage Rock | Death Metal | Death Metal",
+          "Garage Rock  | Death Metal | Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death 'n' Roll Grindcore",
+      "Grindcore",
+      "Stoner Garage Rock | Death Metal | Death Metal",
+      "Garage Rock  | Death Metal | Death Metal"
     ]
   },
   {
