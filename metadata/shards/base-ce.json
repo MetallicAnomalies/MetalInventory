@@ -480,6 +480,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Silent Torment",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1277,11 +1282,19 @@
         "genres": [
           "Avantgarde Metal"
         ]
+      },
+      {
+        "name": "Cleansing of the Parasites",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Avantgarde Metal",
-      "Progressive Black Metal"
+      "Progressive Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -1563,6 +1576,11 @@
           "Stoner Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Death Comes Twice",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

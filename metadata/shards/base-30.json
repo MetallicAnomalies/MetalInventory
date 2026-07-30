@@ -2864,6 +2864,22 @@
     ]
   },
   {
+    "normalizedName": "ofvirtue",
+    "displayName": "Of Virtue",
+    "albums": [
+      {
+        "name": "Death Of The Altar",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "omc",
     "displayName": "OMC",
     "origin": "NZ",
@@ -3362,6 +3378,22 @@
     ]
   },
   {
+    "normalizedName": "sicksense",
+    "displayName": "Sicksense",
+    "albums": [
+      {
+        "name": "Funderals EP",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "sidusatrum",
     "displayName": "Sidus Atrum",
     "albums": [
@@ -3601,6 +3633,28 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "theblindphilosopher",
+    "displayName": "The Blind Philosopher",
+    "albums": [
+      {
+        "name": "Innergazer",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Progressive Death Metal",
+          "Doom Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Progressive Death Metal",
+      "Doom Metal",
+      "Sludge Metal"
     ]
   },
   {

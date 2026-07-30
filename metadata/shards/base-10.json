@@ -268,6 +268,22 @@
     ]
   },
   {
+    "normalizedName": "antar",
+    "displayName": "Antar",
+    "albums": [
+      {
+        "name": "En Vakuo",
+        "year": "2026",
+        "genres": [
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Metal"
+    ]
+  },
+  {
     "normalizedName": "apophis",
     "displayName": "Apophis",
     "albums": [
@@ -1911,6 +1927,18 @@
       "Metalcore",
       "Djent"
     ]
+  },
+  {
+    "normalizedName": "hijss",
+    "displayName": "Hijss",
+    "albums": [
+      {
+        "name": "Hijss",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "horisont",

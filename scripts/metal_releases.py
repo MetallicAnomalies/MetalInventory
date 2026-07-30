@@ -182,7 +182,7 @@ def scrape_releases():
     final_output = list(existing_map.values())
     final_output.sort(key=lambda x: x.get('release_date', '0000-00-00'), reverse=True)
 
-    with open('metal_releases2.json', 'w', encoding='utf-8') as f:
+    with open('metal_releases.json', 'w', encoding='utf-8') as f:
         json.dump(final_output, f, indent=4, ensure_ascii=False)
     
     print(f"\nSUCCESS: Saved {len(final_output)} unique albums.")

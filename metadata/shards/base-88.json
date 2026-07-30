@@ -2361,6 +2361,11 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Netherworlds",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3333,6 +3338,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "saprovore",
+    "displayName": "Saprovore",
+    "albums": [
+      {
+        "name": "Numinous Abditory Deflagration",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {
@@ -4623,6 +4646,11 @@
           "Black Metal",
           "Metal"
         ]
+      },
+      {
+        "name": "A Sign Of The Cloven Hoof",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

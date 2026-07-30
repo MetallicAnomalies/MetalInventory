@@ -607,6 +607,11 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Carpet Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2132,6 +2137,18 @@
     "tags": [
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "kelowna",
+    "displayName": "Kelowna",
+    "albums": [
+      {
+        "name": "Superstar",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "knightfury",

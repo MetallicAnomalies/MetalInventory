@@ -2982,6 +2982,24 @@
     ]
   },
   {
+    "normalizedName": "mrbison",
+    "displayName": "Mr. Bison",
+    "albums": [
+      {
+        "name": "The Garden Of Forgotten Dreams",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Metal",
+      "Stoner Metal"
+    ]
+  },
+  {
     "normalizedName": "necrovomit666",
     "displayName": "Necrovomit 666",
     "albums": [
@@ -3654,6 +3672,11 @@
         "genres": [
           "Blackened Thrash Metal"
         ]
+      },
+      {
+        "name": "The Ones We Follow",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

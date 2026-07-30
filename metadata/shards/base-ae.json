@@ -2938,6 +2938,24 @@
     ]
   },
   {
+    "normalizedName": "nephilia",
+    "displayName": "Nephilia",
+    "albums": [
+      {
+        "name": "Huldra",
+        "year": "2026",
+        "genres": [
+          "Folk Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Folk Metal"
+    ]
+  },
+  {
     "normalizedName": "nihill",
     "displayName": "Nihill",
     "albums": [
@@ -3512,6 +3530,11 @@
         "genres": [
           "Progressive Death Metal"
         ]
+      },
+      {
+        "name": "Haze, Cacophony, And White Light",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

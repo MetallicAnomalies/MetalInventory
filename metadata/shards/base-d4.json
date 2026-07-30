@@ -2254,6 +2254,22 @@
     ]
   },
   {
+    "normalizedName": "initiate",
+    "displayName": "Initiate",
+    "albums": [
+      {
+        "name": "With Love // With Rage EP",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "inotherclimes",
     "displayName": "In Other Climes",
     "albums": [
@@ -5574,6 +5590,11 @@
           "Blackened Hardcore",
           "Post-Metal"
         ]
+      },
+      {
+        "name": "Resurgence",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

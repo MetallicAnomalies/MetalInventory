@@ -1737,6 +1737,22 @@
     ]
   },
   {
+    "normalizedName": "garyjohnbarden",
+    "displayName": "Gary John Barden",
+    "albums": [
+      {
+        "name": "Empowered Emotions",
+        "year": "2026",
+        "genres": [
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "gillan",
     "displayName": "Gillan",
     "albums": [
@@ -3549,6 +3565,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "negativeframe",
+    "displayName": "Negative Frame",
+    "albums": [
+      {
+        "name": "Break The Ice",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "nomadicnarwhal",

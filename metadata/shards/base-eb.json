@@ -2381,6 +2381,26 @@
     ]
   },
   {
+    "normalizedName": "ivfy",
+    "displayName": "I-V-f-Y",
+    "albums": [
+      {
+        "name": "this album ain't SHIT",
+        "year": "2026",
+        "genres": [
+          "Industrial Metal",
+          "Djent",
+          "Nu Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Industrial Metal",
+      "Djent",
+      "Nu Metal"
+    ]
+  },
+  {
     "normalizedName": "jelonek",
     "displayName": "Jelonek",
     "albums": [
@@ -5440,11 +5460,34 @@
         "genres": [
           "Depressive Black Metal"
         ]
+      },
+      {
+        "name": "Open To Misinterpretation",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
       "Depressive Black Metal",
       "Neofolk"
+    ]
+  },
+  {
+    "normalizedName": "xatytax",
+    "displayName": "Xatytax",
+    "albums": [
+      {
+        "name": "Abrasion EP",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {

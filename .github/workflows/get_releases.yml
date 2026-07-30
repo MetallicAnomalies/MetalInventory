@@ -35,16 +35,28 @@ jobs:
         run: |
           python scripts/metal_releases.py
           python scripts/heavy_metal_calendar.py
-          python scripts/metal_archives.py
           python scripts/cleanup_old_releases.py
 
-      - name: 5. Commit and Push Results
+      - name: 5. Fetch Metal Archives Releases
+        continue-on-error: true
+        run: |
+          python scripts/metal_archives.py
+
+      - name: 6. Update Metadata Shards
+        if: always()
+        run: |
+          # Runs regardless of whether the Metal Archives step succeeded,
+          # so the shards always reflect whatever is now in metal_releases.json.
+          cd scripts && python import_metal_releases.py
+
+      - name: 7. Commit and Push Results
+        if: always()
         run: |
           # CONFIGURATION (Required to fix your error)
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
 
-          git add metal_releases.json
+          git add metal_releases.json metadata/shards/
 
           if git diff --staged --quiet; then
             echo "No changes to commit."

@@ -488,6 +488,11 @@
         "genres": [
           "Raw Black Metal"
         ]
+      },
+      {
+        "name": "Shadows Of A Funerary Gleam",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1563,6 +1568,22 @@
     "tags": [
       "Melodic Death Metal",
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "encasement",
+    "displayName": "Encasement",
+    "albums": [
+      {
+        "name": "Encasement",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

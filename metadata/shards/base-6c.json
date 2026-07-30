@@ -3317,6 +3317,24 @@
     ]
   },
   {
+    "normalizedName": "stormforce",
+    "displayName": "Storm Force",
+    "albums": [
+      {
+        "name": "Truth",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "NWOBHM"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "NWOBHM"
+    ]
+  },
+  {
     "normalizedName": "sulfurichatred",
     "displayName": "Sulfuric Hatred",
     "albums": [
@@ -3385,6 +3403,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "sweetelectric",
+    "displayName": "Sweet Electric",
+    "albums": [
+      {
+        "name": "Something Something Disco",
+        "year": "2026",
+        "genres": [
+          "Glam Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Glam Metal",
+      "Hard Rock"
     ]
   },
   {

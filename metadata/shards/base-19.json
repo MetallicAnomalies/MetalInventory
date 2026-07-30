@@ -5224,6 +5224,22 @@
     ]
   },
   {
+    "normalizedName": "djevelsort",
+    "displayName": "Djevelsort",
+    "albums": [
+      {
+        "name": "Peril Of Freedom",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "dragonrojo",
     "displayName": "Dragón Rojo",
     "albums": [
@@ -7970,6 +7986,11 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Arcani",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

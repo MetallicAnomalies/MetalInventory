@@ -1920,6 +1920,11 @@
         "genres": [
           "Hard Rock"
         ]
+      },
+      {
+        "name": "At Montreux Jazz Festival",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1978,6 +1983,24 @@
     ],
     "tags": [
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "ii",
+    "displayName": "-ii-",
+    "albums": [
+      {
+        "name": "Ars Erotica: Volume I EP",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Ambient Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -2318,6 +2341,22 @@
       {
         "name": "Belizean Carnage Collection",
         "year": "2016",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "lifeswallower",
+    "displayName": "Lifeswallower",
+    "albums": [
+      {
+        "name": "Lifeswallower EP",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]

@@ -2034,11 +2034,21 @@
           "Atmospheric Black Metal",
           "Post-Rock"
         ]
+      },
+      {
+        "name": "Massif",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Blackgaze"
+        ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Post-Rock"
+      "Post-Rock",
+      "Black Metal",
+      "Blackgaze"
     ]
   },
   {
@@ -2469,6 +2479,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "ghoast",
+    "displayName": "Ghoast",
+    "albums": [
+      {
+        "name": "Tales from the Underworld Part 2",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal"
     ]
   },
   {

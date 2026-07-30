@@ -1805,6 +1805,18 @@
     ]
   },
   {
+    "normalizedName": "falsimonian",
+    "displayName": "Falsimonian",
+    "albums": [
+      {
+        "name": "For Survival EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "ferum",
     "displayName": "Ferum",
     "albums": [
@@ -2946,6 +2958,24 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "megatoncommunion",
+    "displayName": "Megaton Communion",
+    "albums": [
+      {
+        "name": "Three Of Cups",
+        "year": "2026",
+        "genres": [
+          "Doom Metal",
+          "Stoner Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal",
+      "Stoner Rock"
+    ]
   },
   {
     "normalizedName": "melencoliaestatica",

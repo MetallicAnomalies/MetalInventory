@@ -720,10 +720,22 @@
         "genres": [
           "Pagan Folk"
         ]
+      },
+      {
+        "name": "Unexplored Territories",
+        "year": "2026",
+        "genres": [
+          "Melodic Doom Folk Metal",
+          "Pagan Folk Metal",
+          "Folk Metal"
+        ]
       }
     ],
     "tags": [
-      "Pagan Folk"
+      "Pagan Folk",
+      "Melodic Doom Folk Metal",
+      "Pagan Folk Metal",
+      "Folk Metal"
     ]
   },
   {

@@ -2976,6 +2976,11 @@
         "genres": [
           "Industrial Metal"
         ]
+      },
+      {
+        "name": "Hate To Go (Take Out Or Delivery)",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -5245,6 +5250,30 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "wildivy",
+    "displayName": "Wild Ivy",
+    "albums": [
+      {
+        "name": "Umbrae Memoriae",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Melodic Death Metal",
+          "Progressive Death Metal",
+          "Doom Metal",
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Melodic Death Metal",
+      "Progressive Death Metal",
+      "Doom Metal",
+      "Progressive Metal"
     ]
   },
   {

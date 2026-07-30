@@ -2776,6 +2776,24 @@
     ]
   },
   {
+    "normalizedName": "morkgrim",
+    "displayName": "Morkgrim",
+    "albums": [
+      {
+        "name": "Sǫgur frá Norðfirð",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Folk Metal"
+    ]
+  },
+  {
     "normalizedName": "mortemrus",
     "displayName": "Mortem (Rus)",
     "albums": [
@@ -2810,6 +2828,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "mourningwood",
+    "displayName": "Mourning Wood",
+    "albums": [
+      {
+        "name": "Rise & Shine",
+        "year": "2026",
+        "genres": [
+          "Stoner Rock",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Stoner Rock"
     ]
   },
   {
@@ -4099,6 +4135,24 @@
       "Metalcore",
       "Doom Metal",
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "theberserker",
+    "displayName": "The Berserker",
+    "albums": [
+      {
+        "name": "The Reawakening",
+        "year": "2026",
+        "genres": [
+          "Industrial Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Industrial Metal",
+      "Metalcore"
     ]
   },
   {

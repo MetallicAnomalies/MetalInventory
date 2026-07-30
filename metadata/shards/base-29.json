@@ -4116,6 +4116,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Lux Ex Inferis",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4832,6 +4837,22 @@
     "tags": [
       "Power Metal",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "travo",
+    "displayName": "Travo",
+    "albums": [
+      {
+        "name": "Wasteland",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {

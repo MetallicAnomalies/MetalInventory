@@ -4237,6 +4237,11 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "A Fortress Called Home Master Key Edition",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4266,9 +4271,11 @@
     "origin": "IT",
     "albums": [
       {
-        "name": "The Spiders And The Butterfly",
+        "name": "The Spiders & The Butterfly",
         "year": "2011",
         "genres": [
+          "Heavy Metal",
+          "Symphonic Rock",
           "Symphonic Metal",
           "Melodic Heavy"
         ]
@@ -4277,8 +4284,6 @@
         "name": "The Spiders & The Butterfly",
         "year": "2011",
         "genres": [
-          "Heavy Metal",
-          "Symphonic Rock",
           "Symphonic Metal",
           "Melodic Heavy"
         ]

@@ -3743,6 +3743,24 @@
     ]
   },
   {
+    "normalizedName": "rebelsopera",
+    "displayName": "Rebels Opera",
+    "albums": [
+      {
+        "name": "Call Of The Night",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Melodic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Melodic Metal"
+    ]
+  },
+  {
     "normalizedName": "rebornz",
     "displayName": "Reborn Z",
     "albums": [
@@ -4134,6 +4152,11 @@
         "genres": [
           "Epic Doom Metal"
         ]
+      },
+      {
+        "name": "Relics EP",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4266,6 +4289,18 @@
     "tags": [
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "squidpisser",
+    "displayName": "Squid Pisser",
+    "albums": [
+      {
+        "name": "Throat Slave",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "stealerswheel",

@@ -3025,6 +3025,11 @@
           "Hard Rock",
           "Alternative"
         ]
+      },
+      {
+        "name": "The Last Word",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3405,6 +3410,24 @@
     ],
     "tags": [
       "Progressive Thrash"
+    ]
+  },
+  {
+    "normalizedName": "purestform",
+    "displayName": "Purest Form",
+    "albums": [
+      {
+        "name": "Resistance EP",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Hardcore Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Hardcore Metal",
+      "Metalcore"
     ]
   },
   {

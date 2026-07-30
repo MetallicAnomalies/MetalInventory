@@ -51,6 +51,22 @@
     ]
   },
   {
+    "normalizedName": "30000monkies",
+    "displayName": "30,000 Monkies",
+    "albums": [
+      {
+        "name": "Super Rebound",
+        "year": "2026",
+        "genres": [
+          "Stoner Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Rock"
+    ]
+  },
+  {
     "normalizedName": "aaaarrghh",
     "displayName": "...Aaaarrghh...",
     "albums": [
@@ -1531,6 +1547,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "foreignbody",
+    "displayName": "Foreign Body",
+    "albums": [
+      {
+        "name": "Libertine",
+        "year": "2026",
+        "genres": [
+          "Industrial Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Industrial Metal"
+    ]
   },
   {
     "normalizedName": "furiaanimal",

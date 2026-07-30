@@ -1021,6 +1021,18 @@
     ]
   },
   {
+    "normalizedName": "dominodrive",
+    "displayName": "Domino Drive",
+    "albums": [
+      {
+        "name": "Cosmic Theater",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "drownedinsilver",
     "displayName": "Drowned In Silver",
     "albums": [
@@ -3077,6 +3089,13 @@
         "year": "2026",
         "genres": [
           "Doom Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Eros and Thanatos",
+        "year": "2026",
+        "genres": [
           "Death Metal"
         ]
       }

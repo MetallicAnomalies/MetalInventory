@@ -491,6 +491,22 @@
     ]
   },
   {
+    "normalizedName": "arde",
+    "displayName": "Arde",
+    "albums": [
+      {
+        "name": "Oscuridad infinita",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "atheist",
     "displayName": "Atheist",
     "origin": "US",
@@ -1380,6 +1396,11 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "Optimize = Optdemise",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

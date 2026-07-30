@@ -1063,6 +1063,24 @@
     ]
   },
   {
+    "normalizedName": "defects",
+    "displayName": "Defects",
+    "albums": [
+      {
+        "name": "Artificial Icons",
+        "year": "2026",
+        "genres": [
+          "Punk",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Hardcore",
+      "Punk"
+    ]
+  },
+  {
     "normalizedName": "dethlehem",
     "displayName": "Dethlehem",
     "origin": "US",
@@ -3976,6 +3994,24 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "stormbringer",
+    "displayName": "Stormbringer",
+    "albums": [
+      {
+        "name": "Transcendence",
+        "year": "2026",
+        "genres": [
+          "Power Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Power Metal"
     ]
   },
   {

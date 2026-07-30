@@ -3142,6 +3142,24 @@
     "tags": []
   },
   {
+    "normalizedName": "sightoftheia",
+    "displayName": "Sight Of Theia",
+    "albums": [
+      {
+        "name": "The Great Dreamer",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Djent"
+        ]
+      }
+    ],
+    "tags": [
+      "Djent",
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "silentkingdom",
     "displayName": "Silent Kingdom",
     "albums": [
@@ -3649,6 +3667,24 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "sunscorched",
+    "displayName": "Sunscorched",
+    "albums": [
+      {
+        "name": "Blood Of The Badlands",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Thrash Metal"
     ]
   },
   {

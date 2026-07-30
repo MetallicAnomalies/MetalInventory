@@ -1738,6 +1738,22 @@
     ]
   },
   {
+    "normalizedName": "eudialytic",
+    "displayName": "Eudialytic",
+    "albums": [
+      {
+        "name": "Live at Traffic (Rome - 19/06/26)",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "feathermountain",
     "displayName": "Feather Mountain",
     "origin": "US",
@@ -2986,6 +3002,22 @@
       "Alternative",
       "Progressive Metal",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "morbidvisionz",
+    "displayName": "Morbid Visionz",
+    "albums": [
+      {
+        "name": "Apparition Above the Grave / Summoning Destruction",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -4946,6 +4978,11 @@
           "Hard Rock",
           "Stoner Rock"
         ]
+      },
+      {
+        "name": "The Blacklight Sessions",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

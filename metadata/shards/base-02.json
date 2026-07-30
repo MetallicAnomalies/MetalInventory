@@ -954,14 +954,6 @@
         ]
       },
       {
-        "name": "When Dream & Day Unite",
-        "year": "1989",
-        "genres": [
-          "Heavy Metal",
-          "Progressive Metal"
-        ]
-      },
-      {
         "name": "Score: 20th Anniversary World Tour",
         "year": "2006",
         "genres": [
@@ -1220,6 +1212,22 @@
     "tags": [
       "Progressive Death Metal",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "equisetum",
+    "displayName": "Equisetum",
+    "albums": [
+      {
+        "name": "Cor Ex Putredine",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -2415,6 +2423,24 @@
     ]
   },
   {
+    "normalizedName": "livingweapon",
+    "displayName": "Living Weapon",
+    "albums": [
+      {
+        "name": "Death In The Family",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "magnatar",
     "displayName": "Magnatar",
     "albums": [
@@ -2910,6 +2936,27 @@
     ]
   },
   {
+    "normalizedName": "nolove",
+    "displayName": "Nolove",
+    "albums": [
+      {
+        "name": "Inner Demons",
+        "year": "2026",
+        "genres": [
+          "Experimental Depressive Black Metal",
+          "Post-Rock",
+          "Depressive Black Metal",
+          "Post-Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Depressive Black Metal",
+      "Post-Rock",
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "northsong",
     "displayName": "Northsong",
     "albums": [
@@ -3198,6 +3245,14 @@
     "albums": [
       {
         "name": "Altar of Flames",
+        "year": "2026",
+        "genres": [
+          "Death Black Metal",
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "The Twilight of Golden Blood",
         "year": "2026",
         "genres": [
           "Death Black Metal",
@@ -4189,10 +4244,19 @@
         "genres": [
           "Death Doom Metal"
         ]
+      },
+      {
+        "name": "The Dying Hunt",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -4547,6 +4611,14 @@
           "Psychedelic Rock",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Shapes of Midnight",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Rock",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
@@ -4867,6 +4939,13 @@
     "albums": [
       {
         "name": "Fell",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Six Rites",
         "year": "2026",
         "genres": [
           "Death Metal"

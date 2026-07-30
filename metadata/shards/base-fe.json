@@ -1931,6 +1931,22 @@
     ]
   },
   {
+    "normalizedName": "hearth",
+    "displayName": "Hearth",
+    "albums": [
+      {
+        "name": "Demo",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "heavygeneration",
     "displayName": "Heavy Generation",
     "albums": [
@@ -4044,6 +4060,18 @@
     "tags": [
       "Depressive Black Metal"
     ]
+  },
+  {
+    "normalizedName": "serainatelli",
+    "displayName": "Seraina Telli",
+    "albums": [
+      {
+        "name": "Green Live",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "sevenravens",

@@ -3311,6 +3311,22 @@
     ]
   },
   {
+    "normalizedName": "scarer",
+    "displayName": "Scarer",
+    "albums": [
+      {
+        "name": "Good Morning America",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "seawolves",
     "displayName": "Seawolves",
     "albums": [
@@ -3470,6 +3486,19 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Son of the Tide",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Doom Metal",
+          "Doom Metal"
+        ]
+      },
+      {
+        "name": "Homesick",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3477,7 +3506,8 @@
       "Doom Metal",
       "Gothic Metal",
       "Death Metal",
-      "Acoustic"
+      "Acoustic",
+      "Melodic Death Doom Metal"
     ]
   },
   {
@@ -4249,6 +4279,18 @@
     "tags": [
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "thesurge",
+    "displayName": "The Surge",
+    "albums": [
+      {
+        "name": "Meow",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "thewildhearts",

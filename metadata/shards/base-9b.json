@@ -642,6 +642,22 @@
     ]
   },
   {
+    "normalizedName": "besomora",
+    "displayName": "Besomora",
+    "albums": [
+      {
+        "name": "Devotion To The Fear EP",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "blackmoresnight",
     "displayName": "Blackmore's Night",
     "albums": [
@@ -4350,6 +4366,13 @@
     "tags": []
   },
   {
+    "normalizedName": "unfinished",
+    "displayName": "Unfinished",
+    "albums": [],
+    "origin": "BE",
+    "tags": []
+  },
+  {
     "normalizedName": "wani",
     "displayName": "Wani",
     "origin": "JP",
@@ -4455,13 +4478,6 @@
         "genres": []
       }
     ],
-    "tags": []
-  },
-  {
-    "normalizedName": "unfinished",
-    "displayName": "Unfinished",
-    "albums": [],
-    "origin": "BE",
     "tags": []
   }
 ]

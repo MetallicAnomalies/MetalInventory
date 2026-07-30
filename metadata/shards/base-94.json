@@ -1758,6 +1758,24 @@
     ]
   },
   {
+    "normalizedName": "fogwall",
+    "displayName": "Fog Wall",
+    "albums": [
+      {
+        "name": "Gloomweaver",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "foreverautumn",
     "displayName": "Forever Autumn",
     "albums": [
@@ -2254,6 +2272,22 @@
     ],
     "tags": [
       "Us Power"
+    ]
+  },
+  {
+    "normalizedName": "jaxxonjames",
+    "displayName": "Jaxxon James",
+    "albums": [
+      {
+        "name": "Witness to Collapse",
+        "year": "2026",
+        "genres": [
+          "Nu Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Nu Metal"
     ]
   },
   {

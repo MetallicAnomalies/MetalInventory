@@ -478,6 +478,22 @@
     ]
   },
   {
+    "normalizedName": "awap",
+    "displayName": "AWAP",
+    "albums": [
+      {
+        "name": "Clown Carousel EP",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "axia",
     "displayName": "Axia",
     "albums": [
@@ -2045,6 +2061,11 @@
           "Prog Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Forgotten Dreams EP",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

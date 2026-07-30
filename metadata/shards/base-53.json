@@ -224,6 +224,22 @@
     ]
   },
   {
+    "normalizedName": "aletheya",
+    "displayName": "Aletheya",
+    "albums": [
+      {
+        "name": "Chance To Reborn",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "alkalinetrio",
     "displayName": "Alkaline Trio",
     "origin": "US",
@@ -1274,6 +1290,24 @@
     ]
   },
   {
+    "normalizedName": "endspace",
+    "displayName": "Endspace",
+    "albums": [
+      {
+        "name": "First Contact",
+        "year": "2026",
+        "genres": [
+          "Space Rock",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Metal",
+      "Space Rock"
+    ]
+  },
+  {
     "normalizedName": "enfire",
     "displayName": "Enfire",
     "albums": [
@@ -2137,6 +2171,24 @@
     "tags": [
       "Brutal Death Metal",
       "Goregrind"
+    ]
+  },
+  {
+    "normalizedName": "humulus",
+    "displayName": "Humulus",
+    "albums": [
+      {
+        "name": "Smuggler’s Cave",
+        "year": "2026",
+        "genres": [
+          "Stoner Rock",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal",
+      "Stoner Rock"
     ]
   },
   {
@@ -4153,6 +4205,26 @@
     "tags": [
       "Black Metal",
       "Math Rock"
+    ]
+  },
+  {
+    "normalizedName": "unidark",
+    "displayName": "UNIDARK",
+    "albums": [
+      {
+        "name": "The Filth Testament – Blackdeathgrin Metal Ascends",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal",
+          "Industrial Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal",
+      "Industrial Metal"
     ]
   },
   {

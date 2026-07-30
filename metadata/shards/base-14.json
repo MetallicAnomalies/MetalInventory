@@ -1835,6 +1835,24 @@
     ]
   },
   {
+    "normalizedName": "ericsteckel",
+    "displayName": "Eric Steckel",
+    "albums": [
+      {
+        "name": "Sandstorm",
+        "year": "2026",
+        "genres": [
+          "Blues Rock",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Blues Rock",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "evenmore",
     "displayName": "Evenmore",
     "albums": [
@@ -4537,6 +4555,24 @@
     ]
   },
   {
+    "normalizedName": "trenchwar",
+    "displayName": "Trenchwar",
+    "albums": [
+      {
+        "name": "Overlords Of Cold",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "twinspirits",
     "displayName": "Twinspirits",
     "albums": [
@@ -4660,6 +4696,24 @@
     ],
     "tags": [
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "wicked",
+    "displayName": "Wicked",
+    "albums": [
+      {
+        "name": "Go Rebel",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Thrash Metal"
     ]
   },
   {

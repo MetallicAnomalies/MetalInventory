@@ -664,6 +664,24 @@
     ]
   },
   {
+    "normalizedName": "daturalodge",
+    "displayName": "Datura Lodge",
+    "albums": [
+      {
+        "name": "Datura Lodge",
+        "year": "2026",
+        "genres": [
+          "Stoner Rock",
+          "Desert Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Desert Rock",
+      "Stoner Rock"
+    ]
+  },
+  {
     "normalizedName": "deadlettercircus",
     "displayName": "Dead Letter Circus",
     "origin": "AU",

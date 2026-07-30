@@ -1779,6 +1779,11 @@
           "Melodic Death Metal",
           "Melodic Black Metal"
         ]
+      },
+      {
+        "name": "DeHydration",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4295,6 +4300,24 @@
       "Death Metal",
       "Technical Brutal Death Metal",
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "totalitar",
+    "displayName": "Totalitär",
+    "albums": [
+      {
+        "name": "Totalitär",
+        "year": "2026",
+        "genres": [
+          "D-Beat",
+          "Hardcore Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "D-Beat",
+      "Hardcore Punk"
     ]
   },
   {

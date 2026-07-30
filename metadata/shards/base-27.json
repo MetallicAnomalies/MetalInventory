@@ -1103,6 +1103,24 @@
     ]
   },
   {
+    "normalizedName": "crawlingtoblack",
+    "displayName": "Crawling To Black",
+    "albums": [
+      {
+        "name": "Propaganda",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Metal",
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "cultoffire",
     "displayName": "Cult Of Fire",
     "albums": [
@@ -4812,6 +4830,22 @@
     ]
   },
   {
+    "normalizedName": "theironroses",
+    "displayName": "The Iron Roses",
+    "albums": [
+      {
+        "name": "Molotov Nights",
+        "year": "2026",
+        "genres": [
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "thelovecraftsextet",
     "displayName": "The Lovecraft Sextet",
     "origin": "NL",
@@ -4993,11 +5027,20 @@
           "Psychedelic Doom",
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "...And Flames Ran Like Living Animals",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Doom Stoner Metal",
+          "Stoner Metal"
+        ]
       }
     ],
     "tags": [
       "Psychedelic Doom",
-      "Stoner Metal"
+      "Stoner Metal",
+      "Psychedelic Doom Stoner Metal"
     ]
   },
   {

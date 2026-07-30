@@ -1485,6 +1485,24 @@
     ]
   },
   {
+    "normalizedName": "frankpalangi",
+    "displayName": "Frank Palangi",
+    "albums": [
+      {
+        "name": "Vampire EP",
+        "year": "2026",
+        "genres": [
+          "Hard Rock",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Hard Rock",
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "frozen",
     "displayName": "Frozen",
     "albums": [
@@ -3002,6 +3020,22 @@
     "tags": [
       "Atmospheric Black Metal",
       "Avantgarde Metal"
+    ]
+  },
+  {
+    "normalizedName": "onewayterror",
+    "displayName": "One Way Terror",
+    "albums": [
+      {
+        "name": "Class Axe",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {

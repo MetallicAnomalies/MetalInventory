@@ -1546,6 +1546,24 @@
     ]
   },
   {
+    "normalizedName": "diamonddogs",
+    "displayName": "Diamond Dogs",
+    "albums": [
+      {
+        "name": "Similar Shakes Different Distortion",
+        "year": "2026",
+        "genres": [
+          "Hard Rock",
+          "Glam Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Glam Rock",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "disparaitre",
     "displayName": "Disparaitre",
     "origin": "FR",
@@ -4435,6 +4453,18 @@
       "Stoner Metal",
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "strangepink",
+    "displayName": "Strange Pink",
+    "albums": [
+      {
+        "name": "Guest Room EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "sulphur",

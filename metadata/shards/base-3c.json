@@ -3267,6 +3267,18 @@
     ]
   },
   {
+    "normalizedName": "overtheedge",
+    "displayName": "Over The Edge",
+    "albums": [
+      {
+        "name": "Over The Edge Re-Release",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "paralyzer",
     "displayName": "Paralyzer",
     "albums": [
@@ -3871,6 +3883,11 @@
           "Gothic Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "The Last Stand 10th Anniversary Edition",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

@@ -3301,6 +3301,22 @@
     ]
   },
   {
+    "normalizedName": "stickmen",
+    "displayName": "Stick Men",
+    "albums": [
+      {
+        "name": "Let’s Thrak Again",
+        "year": "2026",
+        "genres": [
+          "Progressive Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Rock"
+    ]
+  },
+  {
     "normalizedName": "stormdeath",
     "displayName": "Storm Death",
     "aliases": [
@@ -3417,6 +3433,49 @@
     ],
     "tags": [
       "Melodic  Black"
+    ]
+  },
+  {
+    "normalizedName": "thechosen",
+    "displayName": "The Chösen",
+    "albums": [
+      {
+        "name": "For The Glory Of The Empire",
+        "year": "2004",
+        "genres": [
+          "Black Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Resistance Leading To Strength",
+        "year": "2022",
+        "genres": [
+          "Black Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "At The Behest Of Dreadful Lords",
+        "year": "2024",
+        "genres": [
+          "Black Metal",
+          "Thrash Metal",
+          "Electronic",
+          "Hip Hop",
+          "Jazz",
+          "Rock"
+        ]
+      }
+    ],
+    "origin": "NL",
+    "tags": [
+      "Black Metal",
+      "Thrash Metal",
+      "Electronic",
+      "Hip Hop",
+      "Jazz",
+      "Rock"
     ]
   },
   {
@@ -4251,49 +4310,6 @@
       "Dungeon Synth Black Metal",
       "Punk",
       "Black Metal"
-    ]
-  },
-  {
-    "normalizedName": "thechosen",
-    "displayName": "The Chösen",
-    "albums": [
-      {
-        "name": "For The Glory Of The Empire",
-        "year": "2004",
-        "genres": [
-          "Black Metal",
-          "Thrash Metal"
-        ]
-      },
-      {
-        "name": "Resistance Leading To Strength",
-        "year": "2022",
-        "genres": [
-          "Black Metal",
-          "Thrash Metal"
-        ]
-      },
-      {
-        "name": "At The Behest Of Dreadful Lords",
-        "year": "2024",
-        "genres": [
-          "Black Metal",
-          "Thrash Metal",
-          "Electronic",
-          "Hip Hop",
-          "Jazz",
-          "Rock"
-        ]
-      }
-    ],
-    "origin": "NL",
-    "tags": [
-      "Black Metal",
-      "Thrash Metal",
-      "Electronic",
-      "Hip Hop",
-      "Jazz",
-      "Rock"
     ]
   }
 ]

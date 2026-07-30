@@ -1739,6 +1739,11 @@
         "genres": [
           "Post-Metal"
         ]
+      },
+      {
+        "name": "Trame Noire",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2363,6 +2368,11 @@
           "Glam Metal",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Anthems From The Underground",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3470,6 +3480,18 @@
     ]
   },
   {
+    "normalizedName": "rosa",
+    "displayName": "R.O.S.A.",
+    "albums": [
+      {
+        "name": "No Peace For You",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "sayyadina",
     "displayName": "Sayyadina",
     "albums": [
@@ -4466,6 +4488,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "wealthywomen",
+    "displayName": "Wealthy Women",
+    "albums": [
+      {
+        "name": "Children",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "wetanimal",

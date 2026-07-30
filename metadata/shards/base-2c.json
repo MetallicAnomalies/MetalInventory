@@ -1668,10 +1668,19 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Death Exhibition",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {
@@ -1895,6 +1904,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "hallucination",
+    "displayName": "Hallucination",
+    "albums": [
+      {
+        "name": "Something Lost, Something Gained",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

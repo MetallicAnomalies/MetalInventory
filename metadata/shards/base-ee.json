@@ -372,6 +372,24 @@
     ]
   },
   {
+    "normalizedName": "asia",
+    "displayName": "Asia",
+    "albums": [
+      {
+        "name": "Indigo",
+        "year": "2026",
+        "genres": [
+          "Hard Rock",
+          "Progressive Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Hard Rock",
+      "Progressive Rock"
+    ]
+  },
+  {
     "normalizedName": "assemblethechariots",
     "displayName": "Assemble the Chariots",
     "origin": "FI",
@@ -3521,6 +3539,11 @@
         "genres": [
           "Punk"
         ]
+      },
+      {
+        "name": "Filthy Lucre",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

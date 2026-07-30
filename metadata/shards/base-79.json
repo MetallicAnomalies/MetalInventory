@@ -4533,6 +4533,22 @@
     ]
   },
   {
+    "normalizedName": "shedemon",
+    "displayName": "She Demon",
+    "albums": [
+      {
+        "name": "Instantaneous Mnemophobia Instilled",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "sixminutecentury",
     "displayName": "Six Minute Century",
     "albums": [
@@ -5090,6 +5106,11 @@
         "genres": [
           "Deathcore"
         ]
+      },
+      {
+        "name": "Liberation Front",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

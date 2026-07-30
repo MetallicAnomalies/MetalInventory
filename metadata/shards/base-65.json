@@ -317,6 +317,24 @@
     ]
   },
   {
+    "normalizedName": "aphoticthrenody",
+    "displayName": "Aphotic Threnody",
+    "albums": [
+      {
+        "name": "Grace My Heart",
+        "year": "2026",
+        "genres": [
+          "Doom Metal",
+          "Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal",
+      "Gothic Metal"
+    ]
+  },
+  {
     "normalizedName": "ashpool",
     "displayName": "Ash Pool",
     "albums": [
@@ -3164,6 +3182,24 @@
     ],
     "tags": [
       "Hip Hop"
+    ]
+  },
+  {
+    "normalizedName": "paullaine",
+    "displayName": "Paul Laine",
+    "albums": [
+      {
+        "name": "The Long Road Back",
+        "year": "2026",
+        "genres": [
+          "Hard Rock",
+          "AOR"
+        ]
+      }
+    ],
+    "tags": [
+      "AOR",
+      "Hard Rock"
     ]
   },
   {

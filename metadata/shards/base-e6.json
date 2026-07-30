@@ -2317,6 +2317,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Nidus",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4007,6 +4012,24 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "ryanoakes",
+    "displayName": "Ryan Oakes",
+    "albums": [
+      {
+        "name": "Scary Stories After Dark",
+        "year": "2026",
+        "genres": [
+          "Hard Rock",
+          "Alternative Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Alternative Metal",
+      "Hard Rock"
     ]
   },
   {

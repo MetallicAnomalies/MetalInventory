@@ -1246,6 +1246,24 @@
     ]
   },
   {
+    "normalizedName": "drywedding",
+    "displayName": "Dry Wedding",
+    "albums": [
+      {
+        "name": "The Back Of Beyond",
+        "year": "2026",
+        "genres": [
+          "Post-Punk",
+          "Dark Wave"
+        ]
+      }
+    ],
+    "tags": [
+      "Dark Wave",
+      "Post-Punk"
+    ]
+  },
+  {
     "normalizedName": "emmure",
     "displayName": "Emmure",
     "origin": "US",
@@ -5088,6 +5106,24 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "victorialies",
+    "displayName": "Victoria Lies",
+    "albums": [
+      {
+        "name": "Vendetta",
+        "year": "2026",
+        "genres": [
+          "Hard Rock",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Hard Rock",
+      "Heavy Metal"
     ]
   },
   {

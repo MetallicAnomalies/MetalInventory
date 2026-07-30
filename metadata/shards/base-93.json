@@ -1655,6 +1655,18 @@
     ]
   },
   {
+    "normalizedName": "gatesofkiev",
+    "displayName": "Gates Of Kiev",
+    "albums": [
+      {
+        "name": "Gates Of Kiev",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "goodtiger",
     "displayName": "Good Tiger",
     "origin": "GB",
@@ -4644,6 +4656,22 @@
     "tags": [
       "Heavy Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "thegardeningclub",
+    "displayName": "The Gardening Club",
+    "albums": [
+      {
+        "name": "The Insubstantial Pageant",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
     ]
   },
   {

@@ -337,16 +337,9 @@ def merge_into_output(new_releases: list[dict]) -> None:
             albums_map[key] = rel
             added += 1
         else:
-            # Metal Archives wins: overwrite with the richer MA entry.
-            existing_entry = albums_map[key]
-            old_source     = existing_entry.get("source", "")
-
-            # Preserve any non-MA source label so history isn't lost.
-            if old_source and "MetalArchives" not in old_source:
-                rel["source"] = old_source + ", MetalArchives"
-
-            # Replace the entry entirely with the MA version (canonical
-            # title, full genre info, URL, type, added_on …)
+            # Metal Archives wins: replace the entry entirely with the MA version
+            # (canonical title, genre, URL, type, added_on …).
+            # Source credit goes exclusively to MetalArchives.
             albums_map[key] = rel
 
     final = sorted(

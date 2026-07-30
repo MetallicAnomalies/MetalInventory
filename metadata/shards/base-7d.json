@@ -2632,11 +2632,20 @@
           "Heavy Metal",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "World Alone",
+        "year": "2026",
+        "genres": [
+          "Doom Heavy Metal",
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Hard Rock"
+      "Hard Rock",
+      "Doom Heavy Metal"
     ]
   },
   {

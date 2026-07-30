@@ -2337,6 +2337,22 @@
     ]
   },
   {
+    "normalizedName": "indication",
+    "displayName": "Indication",
+    "albums": [
+      {
+        "name": "Forever Yours",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "ironfire",
     "displayName": "Iron Fire",
     "origin": "GB",
@@ -3639,6 +3655,11 @@
         "genres": [
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Dancing Undercover Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

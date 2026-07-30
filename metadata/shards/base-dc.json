@@ -870,6 +870,22 @@
     ]
   },
   {
+    "normalizedName": "ceasetoresist",
+    "displayName": "Cease To Resist",
+    "albums": [
+      {
+        "name": "Edge Of Silence",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "chrispoland",
     "displayName": "Chris Poland",
     "albums": [
@@ -2292,6 +2308,22 @@
     "tags": [
       "Death Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "inverness",
+    "displayName": "inverness",
+    "albums": [
+      {
+        "name": "the deepest nights, a cold dawn",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3760,6 +3792,11 @@
         "genres": [
           "Industrial Metal"
         ]
+      },
+      {
+        "name": "Live In Krakow",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

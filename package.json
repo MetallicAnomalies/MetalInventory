@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "fetch-releases": "python scripts/metal_releases.py && python scripts/heavy_metal_calendar.py && cd scripts && python import_metal_releases.py",
     "update-releases": "python scripts/metal_archives.py && python scripts/import_metal_releases.py"
   },
   "repository": {

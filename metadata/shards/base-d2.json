@@ -4529,10 +4529,28 @@
         "name": "Ride The Rainbow: The Ultimate Tribute To Ritchie Blackmore’s Rainbow",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Sending Hearts To All My Dearies – A Tribute To Smashing Pumpkins",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "A Tribute To Metallica",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Seeker James Presents: THE UNKNOWN MOMENT Vol. 1",
+        "year": "2026",
+        "genres": [
+          "Nu Metal"
+        ]
       }
     ],
     "tags": [
-      "Hard Rock"
+      "Hard Rock",
+      "Nu Metal"
     ]
   },
   {

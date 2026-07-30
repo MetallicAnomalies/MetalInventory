@@ -538,6 +538,22 @@
     ]
   },
   {
+    "normalizedName": "banksarcade",
+    "displayName": "Banks Arcade",
+    "albums": [
+      {
+        "name": "Second Place Superstar",
+        "year": "2026",
+        "genres": [
+          "Alternative Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Alternative Metal"
+    ]
+  },
+  {
     "normalizedName": "bhayanakmaut",
     "displayName": "Bhayanak Maut",
     "albums": [
@@ -2648,6 +2664,11 @@
       {
         "name": "Live At Wacken 2015 - 26 Years Louder Than Hell",
         "year": "2017",
+        "genres": []
+      },
+      {
+        "name": "Sturm Zieh Auf",
+        "year": "2026",
         "genres": []
       }
     ],

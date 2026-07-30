@@ -2287,6 +2287,11 @@
           "Melodic Metalcore",
           "Alternative"
         ]
+      },
+      {
+        "name": "Witch",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -5413,6 +5418,22 @@
     ],
     "tags": [
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "velure",
+    "displayName": "Velure",
+    "albums": [
+      {
+        "name": "Velure",
+        "year": "2026",
+        "genres": [
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Metal"
     ]
   },
   {

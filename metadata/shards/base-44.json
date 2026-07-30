@@ -135,6 +135,24 @@
     ]
   },
   {
+    "normalizedName": "anatomyofhabit",
+    "displayName": "Anatomy Of Habit",
+    "albums": [
+      {
+        "name": "Paired Sentinels",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Metal",
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "angmaer",
     "displayName": "Angmaer",
     "albums": [
@@ -2323,6 +2341,11 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "No Place For Me",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

@@ -445,10 +445,18 @@
         "genres": [
           "Progressive Black Metal"
         ]
+      },
+      {
+        "name": "One Man, One Vote - F.Z. Tribute",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Extreme Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Black Metal"
+      "Progressive Black Metal",
+      "Avant-garde Extreme Metal"
     ]
   },
   {
@@ -818,6 +826,11 @@
         "genres": [
           "Technical Deathcore"
         ]
+      },
+      {
+        "name": "The Hollowing Of Godlesh",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

@@ -2749,10 +2749,19 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Terminus",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Crossover"
     ]
   },
   {
@@ -2962,6 +2971,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "rad",
+    "displayName": "Rad",
+    "albums": [
+      {
+        "name": "Rad To The Bone EP",
+        "year": "2026",
+        "genres": [
+          "Hardcore Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Hardcore Metal",
+      "Punk"
     ]
   },
   {

@@ -1027,6 +1027,49 @@
     ]
   },
   {
+    "normalizedName": "brilliantcoldness",
+    "displayName": "Brilliant Coldness",
+    "albums": [
+      {
+        "name": "Beyond Eternity",
+        "year": "2003",
+        "genres": [
+          "Technical Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Poisoned Reality",
+        "year": "2009",
+        "genres": [
+          "Death Metal",
+          "Rock",
+          "Ukraine",
+          "Technical Death Metal",
+          "Ukrainian Death Metal",
+          "Lugansk"
+        ]
+      },
+      {
+        "name": "The Ultimate Dream. Plan B: Disposal Of Humanity",
+        "year": "2021",
+        "genres": [
+          "Technical Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "origin": "UA",
+    "tags": [
+      "Death Metal",
+      "Rock",
+      "Ukraine",
+      "Technical Death Metal",
+      "Ukrainian Death Metal",
+      "Lugansk"
+    ]
+  },
+  {
     "normalizedName": "brujeria",
     "displayName": "Brujeria",
     "origin": "US",
@@ -3926,6 +3969,24 @@
     ]
   },
   {
+    "normalizedName": "showingteeth",
+    "displayName": "Showing Teeth",
+    "albums": [
+      {
+        "name": "A Fate Worse Than Loneliness EP",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Post-Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Post-Hardcore"
+    ]
+  },
+  {
     "normalizedName": "siaskel",
     "displayName": "Siaskel",
     "albums": [
@@ -5006,49 +5067,6 @@
     "tags": [
       "Groove Metal",
       "Nu Metal"
-    ]
-  },
-  {
-    "normalizedName": "brilliantcoldness",
-    "displayName": "Brilliant Coldness",
-    "albums": [
-      {
-        "name": "Beyond Eternity",
-        "year": "2003",
-        "genres": [
-          "Technical Death Metal",
-          "Death Metal"
-        ]
-      },
-      {
-        "name": "Poisoned Reality",
-        "year": "2009",
-        "genres": [
-          "Death Metal",
-          "Rock",
-          "Ukraine",
-          "Technical Death Metal",
-          "Ukrainian Death Metal",
-          "Lugansk"
-        ]
-      },
-      {
-        "name": "The Ultimate Dream. Plan B: Disposal Of Humanity",
-        "year": "2021",
-        "genres": [
-          "Technical Death Metal",
-          "Death Metal"
-        ]
-      }
-    ],
-    "origin": "UA",
-    "tags": [
-      "Death Metal",
-      "Rock",
-      "Ukraine",
-      "Technical Death Metal",
-      "Ukrainian Death Metal",
-      "Lugansk"
     ]
   }
 ]

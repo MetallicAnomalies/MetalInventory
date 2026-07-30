@@ -511,6 +511,22 @@
     ]
   },
   {
+    "normalizedName": "bombstrap",
+    "displayName": "Bombstrap",
+    "albums": [
+      {
+        "name": "Big Enemy",
+        "year": "2026",
+        "genres": [
+          "Hardcore Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Hardcore Metal"
+    ]
+  },
+  {
     "normalizedName": "brothersofmetal",
     "displayName": "Brothers of Metal",
     "origin": "SE",
@@ -1852,6 +1868,22 @@
     ],
     "tags": [
       "Groove Thrash"
+    ]
+  },
+  {
+    "normalizedName": "kingseeker",
+    "displayName": "Kingseeker",
+    "albums": [
+      {
+        "name": "Parables EP",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
     ]
   },
   {

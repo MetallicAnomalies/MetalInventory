@@ -2396,6 +2396,22 @@
     ]
   },
   {
+    "normalizedName": "masonhill",
+    "displayName": "Mason Hill",
+    "albums": [
+      {
+        "name": "World So Wonderful",
+        "year": "2026",
+        "genres": [
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "mattcarlson",
     "displayName": "Matt Carlson",
     "origin": "GB",
@@ -2970,6 +2986,11 @@
           "Prog Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Grimalkin",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

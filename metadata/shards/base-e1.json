@@ -3950,9 +3950,20 @@
         "name": "Tech Hell Cyber Thrash EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "TECH HELL CYBER THRASH",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal",
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "schattenvald",

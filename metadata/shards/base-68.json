@@ -1077,6 +1077,22 @@
     ]
   },
   {
+    "normalizedName": "deadsteppe",
+    "displayName": "Dead Steppe",
+    "albums": [
+      {
+        "name": "Hail The End",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "deadtalks",
     "displayName": "Dead Talks",
     "albums": [
@@ -3467,6 +3483,11 @@
         "genres": [
           "Alternative Rock"
         ]
+      },
+      {
+        "name": "Terrifying Angels",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

@@ -1596,6 +1596,24 @@
     ]
   },
   {
+    "normalizedName": "gargant",
+    "displayName": "Gargant",
+    "albums": [
+      {
+        "name": "Dead Night Defiance",
+        "year": "2026",
+        "genres": [
+          "Doom Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal",
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "gillman",
     "displayName": "Gillman",
     "albums": [
@@ -1777,6 +1795,25 @@
     ],
     "tags": [
       "Doom Rock"
+    ]
+  },
+  {
+    "normalizedName": "herta",
+    "displayName": "Herta",
+    "albums": [
+      {
+        "name": "Crossing the Illusion",
+        "year": "2025",
+        "genres": [
+          "Progressive Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "origin": "GR",
+    "tags": [
+      "Progressive Metal",
+      "Groove Metal"
     ]
   },
   {
@@ -4679,24 +4716,5 @@
       "Hard Rock"
     ],
     "origin": "RU"
-  },
-  {
-    "normalizedName": "herta",
-    "displayName": "Herta",
-    "albums": [
-      {
-        "name": "Crossing the Illusion",
-        "year": "2025",
-        "genres": [
-          "Progressive Metal",
-          "Groove Metal"
-        ]
-      }
-    ],
-    "origin": "GR",
-    "tags": [
-      "Progressive Metal",
-      "Groove Metal"
-    ]
   }
 ]

@@ -1681,6 +1681,25 @@
     ]
   },
   {
+    "normalizedName": "guiltera",
+    "displayName": "Guiltera",
+    "albums": [
+      {
+        "name": "Us",
+        "year": "2025",
+        "genres": [
+          "Alternative Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "origin": "CY",
+    "tags": [
+      "Alternative Metal",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "hardware",
     "displayName": "Hardware",
     "albums": [
@@ -1863,6 +1882,11 @@
           "Speed Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Total Terror Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2910,6 +2934,11 @@
           "Hard Rock",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Crystal Eyes",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3764,24 +3793,5 @@
       "Hard Rock"
     ],
     "origin": "RU"
-  },
-  {
-    "normalizedName": "guiltera",
-    "displayName": "Guiltera",
-    "albums": [
-      {
-        "name": "Us",
-        "year": "2025",
-        "genres": [
-          "Alternative Metal",
-          "Hard Rock"
-        ]
-      }
-    ],
-    "origin": "CY",
-    "tags": [
-      "Alternative Metal",
-      "Hard Rock"
-    ]
   }
 ]

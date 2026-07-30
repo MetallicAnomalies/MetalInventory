@@ -3954,6 +3954,22 @@
     ]
   },
   {
+    "normalizedName": "spirittemple",
+    "displayName": "Spirit Temple",
+    "albums": [
+      {
+        "name": "The Fifth Scroll",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "steelhorse",
     "displayName": "Steel Horse",
     "albums": [
@@ -4593,6 +4609,13 @@
         "year": "2019",
         "genres": [
           "Melodic Death Metal",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "A Programmed Mistake",
+        "year": "2026",
+        "genres": [
           "Metalcore"
         ]
       }

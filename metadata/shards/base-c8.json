@@ -1384,6 +1384,24 @@
     ]
   },
   {
+    "normalizedName": "framinghanley",
+    "displayName": "Framing Hanley",
+    "albums": [
+      {
+        "name": "Do You Feel Guilty Being Okay?",
+        "year": "2026",
+        "genres": [
+          "Alternative Metal",
+          "Post-Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Alternative Metal",
+      "Post-Hardcore"
+    ]
+  },
+  {
     "normalizedName": "frummyrkrið",
     "displayName": "Frummyrkrið",
     "albums": [
@@ -2077,6 +2095,22 @@
     ],
     "tags": [
       "Industrial Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "neurologicpathology",
+    "displayName": "Neurologic Pathology",
+    "albums": [
+      {
+        "name": "Born of Pathology",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

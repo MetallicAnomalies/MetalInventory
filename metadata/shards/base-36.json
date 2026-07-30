@@ -836,6 +836,24 @@
     "tags": []
   },
   {
+    "normalizedName": "coldgawd",
+    "displayName": "Cold Gawd",
+    "albums": [
+      {
+        "name": "Glory2 EP",
+        "year": "2026",
+        "genres": [
+          "Shoegaze",
+          "Noise Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Noise Rock",
+      "Shoegaze"
+    ]
+  },
+  {
     "normalizedName": "continuum",
     "displayName": "Continuum",
     "origin": "FR",
@@ -1512,6 +1530,24 @@
     "tags": [
       "Death Metal",
       "Funeral Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "gradience",
+    "displayName": "Gradience",
+    "albums": [
+      {
+        "name": "Anomaly",
+        "year": "2026",
+        "genres": [
+          "Djent",
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Djent",
+      "Progressive Metal"
     ]
   },
   {
@@ -2796,6 +2832,24 @@
     "tags": [
       "Heavy Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "miradisconnect",
+    "displayName": "Mira Disconnect",
+    "albums": [
+      {
+        "name": "Entangled EP",
+        "year": "2026",
+        "genres": [
+          "Post-Metal",
+          "Shoegaze"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Metal",
+      "Shoegaze"
     ]
   },
   {

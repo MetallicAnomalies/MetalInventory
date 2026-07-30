@@ -1415,6 +1415,18 @@
     ]
   },
   {
+    "normalizedName": "buzzedloaded",
+    "displayName": "Buzzed & Loaded",
+    "albums": [
+      {
+        "name": "Medicatiopn Nation",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "camelofdoom",
     "displayName": "Camel Of Doom",
     "albums": [
@@ -4406,6 +4418,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "regurgitasi",
+    "displayName": "Regurgitasi",
+    "albums": [
+      {
+        "name": "Brutal Rot",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

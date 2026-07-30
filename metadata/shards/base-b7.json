@@ -971,6 +971,11 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Conspiracy Of Warheads",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1422,6 +1427,24 @@
       "Post-Metal",
       "Death Doom Metal",
       "Atmospheric Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "immiserator",
+    "displayName": "Immiserator",
+    "albums": [
+      {
+        "name": "Blight Of Subsistence",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal"
     ]
   },
   {

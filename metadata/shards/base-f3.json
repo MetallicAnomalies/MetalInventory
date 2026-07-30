@@ -1537,6 +1537,24 @@
     ]
   },
   {
+    "normalizedName": "eivør",
+    "displayName": "Eivør",
+    "albums": [
+      {
+        "name": "Tungl",
+        "year": "2026",
+        "genres": [
+          "Folk Rock",
+          "Nordic Folk"
+        ]
+      }
+    ],
+    "tags": [
+      "Folk Rock",
+      "Nordic Folk"
+    ]
+  },
+  {
     "normalizedName": "encoffination",
     "displayName": "Encoffination",
     "albums": [
@@ -3653,6 +3671,11 @@
         "genres": [
           "Blackened Death Metal"
         ]
+      },
+      {
+        "name": "The Colorless Light Of Emptiness",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

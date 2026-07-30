@@ -4266,6 +4266,24 @@
     ]
   },
   {
+    "normalizedName": "thecartographer",
+    "displayName": "The Cartographer",
+    "albums": [
+      {
+        "name": "The Collapse Of A Bitter End",
+        "year": "2026",
+        "genres": [
+          "Post-Hardcore",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Post-Hardcore"
+    ]
+  },
+  {
     "normalizedName": "thecasualties",
     "displayName": "The Casualties",
     "origin": "GB",
@@ -4822,10 +4840,23 @@
         "genres": [
           "Hardcore Metal"
         ]
+      },
+      {
+        "name": "Faith",
+        "year": "2026",
+        "genres": [
+          "Thrash Groove Metal",
+          "Nu-Metal",
+          "Groove Metal",
+          "Nu-Metal"
+        ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore Metal",
+      "Thrash Groove Metal",
+      "Nu-Metal",
+      "Groove Metal"
     ]
   },
   {
