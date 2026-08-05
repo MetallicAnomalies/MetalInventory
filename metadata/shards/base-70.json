@@ -3141,6 +3141,46 @@
     ]
   },
   {
+    "normalizedName": "thedisasterarea",
+    "displayName": "The Disaster Area",
+    "albums": [
+      {
+        "name": "Sell Your Soul",
+        "year": "2016",
+        "genres": [
+          "Metalcore",
+          "Post-Hardcore"
+        ]
+      },
+      {
+        "name": "Alpha//Omega",
+        "year": "2018",
+        "genres": [
+          "Metalcore",
+          "Post-Hardcore",
+          "Rock"
+        ]
+      },
+      {
+        "name": "Glasshearts",
+        "year": "2021",
+        "genres": [
+          "Metalcore",
+          "Post-Hardcore"
+        ]
+      }
+    ],
+    "origin": "DE",
+    "tags": [
+      "Metalcore",
+      "Post-Hardcore",
+      "Hardcore Metal",
+      "Noise Metal",
+      "Punk",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "thesundays",
     "displayName": "The Sundays",
     "origin": "GB",
@@ -3529,6 +3569,11 @@
           "Doom Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Wolfshead",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3720,46 +3765,6 @@
     "tags": [
       "Lo-fi",
       "Pop",
-      "Rock"
-    ]
-  },
-  {
-    "normalizedName": "thedisasterarea",
-    "displayName": "The Disaster Area",
-    "albums": [
-      {
-        "name": "Sell Your Soul",
-        "year": "2016",
-        "genres": [
-          "Metalcore",
-          "Post-Hardcore"
-        ]
-      },
-      {
-        "name": "Alpha//Omega",
-        "year": "2018",
-        "genres": [
-          "Metalcore",
-          "Post-Hardcore",
-          "Rock"
-        ]
-      },
-      {
-        "name": "Glasshearts",
-        "year": "2021",
-        "genres": [
-          "Metalcore",
-          "Post-Hardcore"
-        ]
-      }
-    ],
-    "origin": "DE",
-    "tags": [
-      "Metalcore",
-      "Post-Hardcore",
-      "Hardcore Metal",
-      "Noise Metal",
-      "Punk",
       "Rock"
     ]
   }

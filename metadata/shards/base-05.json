@@ -3363,6 +3363,18 @@
     ]
   },
   {
+    "normalizedName": "pallas",
+    "displayName": "Pallas",
+    "albums": [
+      {
+        "name": "A Song For Tomorrow",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "paroxsihzem",
     "displayName": "Paroxsihzem",
     "albums": [
@@ -4856,6 +4868,22 @@
     "tags": [
       "Doom Metal",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "wolvenfrost",
+    "displayName": "Wolvenfrost",
+    "albums": [
+      {
+        "name": "The Last Of All Calamities",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

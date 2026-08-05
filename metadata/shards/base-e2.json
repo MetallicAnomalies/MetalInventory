@@ -1199,6 +1199,18 @@
     ]
   },
   {
+    "normalizedName": "cityoflights",
+    "displayName": "City Of Lights",
+    "albums": [
+      {
+        "name": "City Of Lights",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "ckay",
     "displayName": "Ckay",
     "origin": "NG",
@@ -1934,6 +1946,11 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Shades Of Existence",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
