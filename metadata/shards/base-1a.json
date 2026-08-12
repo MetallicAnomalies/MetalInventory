@@ -1847,6 +1847,18 @@
     ]
   },
   {
+    "normalizedName": "heavensedge",
+    "displayName": "Heavens Edge",
+    "albums": [
+      {
+        "name": "Philadelphia",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "helestios",
     "displayName": "Helestios",
     "origin": "GB",
@@ -4206,6 +4218,11 @@
           "Prog Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Far And Wide",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
