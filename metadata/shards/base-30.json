@@ -1613,6 +1613,11 @@
           "Sludge Metal",
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Night Songs",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2928,6 +2933,18 @@
       "Doom Metal",
       "Dark Ambient"
     ]
+  },
+  {
+    "normalizedName": "orbita",
+    "displayName": "Orbita",
+    "albums": [
+      {
+        "name": "Farewell To All We’ve Lost",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "pantheist",

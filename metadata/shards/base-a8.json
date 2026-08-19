@@ -2227,6 +2227,11 @@
         "genres": [
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "Moloken",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3771,6 +3776,18 @@
       "Doom Metal",
       "Sludge Metal"
     ]
+  },
+  {
+    "normalizedName": "thebites",
+    "displayName": "The Bites",
+    "albums": [
+      {
+        "name": "The Bites",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "thechemicalmind",

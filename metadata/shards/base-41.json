@@ -321,6 +321,18 @@
     ]
   },
   {
+    "normalizedName": "auroraview",
+    "displayName": "Aurora View",
+    "albums": [
+      {
+        "name": "Rot Star",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "backstreetgirls",
     "displayName": "Backstreet Girls",
     "albums": [
@@ -3414,6 +3426,18 @@
       "Us Power",
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "sacreligious",
+    "displayName": "Sacreligious",
+    "albums": [
+      {
+        "name": "Brutality Incarnated",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "schmerz",

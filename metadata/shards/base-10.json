@@ -2999,6 +2999,11 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "Psychosomatic EP",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4355,6 +4360,16 @@
         "genres": [
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Band Of Outlaws",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Stoned Cowboys",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4640,6 +4655,18 @@
       "Death Metal",
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "viperqueen",
+    "displayName": "Viper Queen",
+    "albums": [
+      {
+        "name": "Munich City Nights",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "visceralabnormality",
