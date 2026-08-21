@@ -1263,6 +1263,11 @@
         "genres": [
           "Extreme Progressive Metal"
         ]
+      },
+      {
+        "name": "Aura Of Decay",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3802,6 +3807,18 @@
       "Pop Rock",
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "thebitterpills",
+    "displayName": "The Bitter Pills",
+    "albums": [
+      {
+        "name": "The Bitter Pills",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "thebombsofenduringfreedom",

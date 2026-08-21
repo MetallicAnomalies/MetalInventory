@@ -929,6 +929,18 @@
     ]
   },
   {
+    "normalizedName": "cordelux",
+    "displayName": "Cor de Lux",
+    "albums": [
+      {
+        "name": "Year Of The Horse",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "cosmicreaper",
     "displayName": "Cosmic Reaper",
     "albums": [
@@ -1748,6 +1760,11 @@
         "genres": [
           "Gothic Metal"
         ]
+      },
+      {
+        "name": "Nothingness",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

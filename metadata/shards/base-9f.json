@@ -1331,6 +1331,18 @@
     ]
   },
   {
+    "normalizedName": "convulsif",
+    "displayName": "Convulsif",
+    "albums": [
+      {
+        "name": "Anatomy Of Rage",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "cookielevanna",
     "displayName": "Cookie LeVanna",
     "origin": "GB",
@@ -2659,6 +2671,11 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Nothin’ To Lose (Live In Reading 1981)",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

@@ -1,5 +1,17 @@
 [
   {
+    "normalizedName": "absolutedarkness",
+    "displayName": "Absolute Darkness",
+    "albums": [
+      {
+        "name": "Witness To A Dying World",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "acheron",
     "displayName": "Acheron",
     "albums": [
@@ -2677,6 +2689,11 @@
           "Folk, World, & Country",
           "Folk Metal"
         ]
+      },
+      {
+        "name": "Біль | Hurt EP",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

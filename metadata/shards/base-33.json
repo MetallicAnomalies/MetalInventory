@@ -3443,6 +3443,14 @@
         "name": "ReLoad Re-Release",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "1993/06/27 Athens, GR",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -4259,6 +4267,18 @@
     "tags": [
       "Stoner Metal"
     ]
+  },
+  {
+    "normalizedName": "porchlight",
+    "displayName": "Porch Light",
+    "albums": [
+      {
+        "name": "Hush",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "psionicmadness",
