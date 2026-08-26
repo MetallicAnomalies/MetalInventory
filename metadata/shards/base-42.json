@@ -4017,10 +4017,18 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Genesis",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Brutal Death Metal"
+      "Brutal Death Metal",
+      "Death Metal"
     ]
   },
   {

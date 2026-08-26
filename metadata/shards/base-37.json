@@ -411,6 +411,18 @@
     ]
   },
   {
+    "normalizedName": "avrak",
+    "displayName": "Avrak",
+    "albums": [
+      {
+        "name": "Avrak",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "belvedere",
     "displayName": "Belvedere",
     "albums": [
@@ -3134,6 +3146,18 @@
       "Progressive Power",
       "Power Metal"
     ]
+  },
+  {
+    "normalizedName": "paranoidreverb",
+    "displayName": "Paranoid Reverb",
+    "albums": [
+      {
+        "name": "Red River Black Roots",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "pathway",

@@ -526,6 +526,43 @@
     ]
   },
   {
+    "normalizedName": "cardinalblack",
+    "displayName": "Cardinal Black",
+    "albums": [
+      {
+        "name": "Cardinal Black",
+        "year": "2021",
+        "genres": [
+          "Blues Rock",
+          "Rock"
+        ]
+      },
+      {
+        "name": "January Came Close",
+        "year": "2022",
+        "genres": [
+          "Blues Rock",
+          "Rock"
+        ]
+      },
+      {
+        "name": "Midnight at The Valencia",
+        "year": "2025",
+        "genres": [
+          "Rock",
+          "Blues",
+          "Blues Rock"
+        ]
+      }
+    ],
+    "origin": "GB",
+    "tags": [
+      "Rock",
+      "Blues",
+      "Blues Rock"
+    ]
+  },
+  {
     "normalizedName": "castlefreak",
     "displayName": "Castle Freak",
     "albums": [
@@ -894,6 +931,13 @@
       },
       {
         "name": "A Beast to Praise",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "A Beast to Praise (live in Stockholm)",
         "year": "2026",
         "genres": [
           "Black Metal"
@@ -4690,43 +4734,6 @@
     ],
     "tags": [
       "Various"
-    ]
-  },
-  {
-    "normalizedName": "cardinalblack",
-    "displayName": "Cardinal Black",
-    "albums": [
-      {
-        "name": "Cardinal Black",
-        "year": "2021",
-        "genres": [
-          "Blues Rock",
-          "Rock"
-        ]
-      },
-      {
-        "name": "January Came Close",
-        "year": "2022",
-        "genres": [
-          "Blues Rock",
-          "Rock"
-        ]
-      },
-      {
-        "name": "Midnight at The Valencia",
-        "year": "2025",
-        "genres": [
-          "Rock",
-          "Blues",
-          "Blues Rock"
-        ]
-      }
-    ],
-    "origin": "GB",
-    "tags": [
-      "Rock",
-      "Blues",
-      "Blues Rock"
     ]
   }
 ]

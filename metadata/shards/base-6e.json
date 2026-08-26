@@ -1122,6 +1122,18 @@
     ]
   },
   {
+    "normalizedName": "deathwards",
+    "displayName": "Deathwards",
+    "albums": [
+      {
+        "name": "Realms Of Sin",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "demiurg",
     "displayName": "Demiurg",
     "origin": "SE",
@@ -4285,6 +4297,11 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Estuary",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

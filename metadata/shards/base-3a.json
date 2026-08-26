@@ -2631,6 +2631,11 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "In Metal",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2929,6 +2934,18 @@
     "tags": [
       "Gothic Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "offernat",
+    "displayName": "Offernat",
+    "albums": [
+      {
+        "name": "The Ecstasy Of Death",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "pokolgep",
