@@ -1478,6 +1478,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Innern (Instrumental)",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2486,6 +2491,27 @@
     "tags": [
       "Deathcore",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "jesslaimieritz",
+    "displayName": "Jess Lai Mieritz",
+    "albums": [
+      {
+        "name": "Absolute Beauty",
+        "year": "2024",
+        "genres": [
+          "Progressive Rock",
+          "Pop",
+          "Classical"
+        ]
+      }
+    ],
+    "origin": "US",
+    "tags": [
+      "Progressive Rock",
+      "Pop",
+      "Classical"
     ]
   },
   {
@@ -4935,27 +4961,6 @@
     ],
     "tags": [
       "Blackened Doom Metal"
-    ]
-  },
-  {
-    "normalizedName": "jesslaimieritz",
-    "displayName": "Jess Lai Mieritz",
-    "albums": [
-      {
-        "name": "Absolute Beauty",
-        "year": "2024",
-        "genres": [
-          "Progressive Rock",
-          "Pop",
-          "Classical"
-        ]
-      }
-    ],
-    "origin": "US",
-    "tags": [
-      "Progressive Rock",
-      "Pop",
-      "Classical"
     ]
   }
 ]

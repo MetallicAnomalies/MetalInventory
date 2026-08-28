@@ -3531,6 +3531,24 @@
     ]
   },
   {
+    "normalizedName": "privateprisons",
+    "displayName": "Private Prisons",
+    "albums": [
+      {
+        "name": "Theo Lacy",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "redsunrising",
     "displayName": "Red Sun Rising",
     "origin": "US",
@@ -4273,6 +4291,11 @@
       },
       {
         "name": "Live At The Capitol (Hannover 1991)",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Live 25",
         "year": "2026",
         "genres": []
       }

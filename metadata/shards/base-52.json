@@ -868,6 +868,18 @@
     ]
   },
   {
+    "normalizedName": "chastity",
+    "displayName": "Chastity",
+    "albums": [
+      {
+        "name": "I Built This Prison Myself",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "christiancosentino",
     "displayName": "Christian Cosentino",
     "albums": [
@@ -3127,6 +3139,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Ruin",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
