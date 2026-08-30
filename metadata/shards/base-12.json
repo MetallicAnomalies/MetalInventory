@@ -580,12 +580,60 @@
     "displayName": "Black Spikes",
     "albums": [
       {
+        "name": "Šešėlių vedami",
+        "year": "2020",
+        "genres": [
+          "Hard Rock",
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "NIL",
+        "year": "2025",
+        "genres": [
+          "Alternative Metal",
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "Ar tiki?",
+        "year": "2025",
+        "genres": [
+          "Alternative Metal",
+          "Progressive Metal"
+        ]
+      },
+       {
+        "name": "Imperatorė",
+        "year": "2025",
+        "genres": [
+          "Alternative Metal",
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "Kitas Tu",
+        "year": "2025",
+        "genres": [
+          "Alternative Metal",
+          "Progressive Metal"
+        ]
+      },
+      {
         "name": "Ydos",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Alternative Metal",
+          "Heavy Metal"
+        ]
       }
     ],
-    "tags": [],
+    "tags": [
+      "Alternative Metal",
+      "Hard Rock",
+      "Heavy Metal",
+      "Progressive Metal"
+    ],
     "origin": "LT"
   },
   {
