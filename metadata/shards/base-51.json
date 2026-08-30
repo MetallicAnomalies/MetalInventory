@@ -753,6 +753,22 @@
     ]
   },
   {
+    "normalizedName": "bokkerijders",
+    "displayName": "Bokkerijders",
+    "albums": [
+      {
+        "name": "Crush Kill Destroy",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "brokenflesh",
     "displayName": "Broken Flesh",
     "origin": "US",
@@ -1004,6 +1020,22 @@
     ],
     "tags": [
       "Symphonic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "deadtears",
+    "displayName": "Dead Tears",
+    "albums": [
+      {
+        "name": "Letters from Eternity",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {

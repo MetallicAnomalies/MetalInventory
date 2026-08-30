@@ -429,6 +429,22 @@
     ]
   },
   {
+    "normalizedName": "bassaium",
+    "displayName": "Bassaium",
+    "albums": [
+      {
+        "name": "Wrapped in Death",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "benothing",
     "displayName": "benothing",
     "origin": "FI",
@@ -1288,12 +1304,21 @@
           "Hardcore Metal",
           "Death Rock"
         ]
+      },
+      {
+        "name": "Aftermath",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal",
+          "Deathrock"
+        ]
       }
     ],
     "tags": [
       "Gothic Metal",
       "Hardcore Metal",
-      "Death Rock"
+      "Death Rock",
+      "Deathrock"
     ]
   },
   {

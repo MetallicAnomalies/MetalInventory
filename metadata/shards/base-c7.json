@@ -485,6 +485,24 @@
     ]
   },
   {
+    "normalizedName": "avern",
+    "displayName": "Avern",
+    "albums": [
+      {
+        "name": "Unique and Eternal",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Punk"
+    ]
+  },
+  {
     "normalizedName": "barbarianesp",
     "displayName": "Barbarian (Esp)",
     "albums": [
@@ -2156,12 +2174,22 @@
           "Stoner Rock",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Traumanaut",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Alternative Rock"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
       "Stoner Rock",
-      "Doom Metal"
+      "Doom Metal",
+      "Stoner Metal",
+      "Alternative Rock"
     ]
   },
   {
@@ -3788,10 +3816,20 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Herald the Dawn",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Brutal Death Metal",
+      "Grindcore"
     ]
   },
   {
@@ -3991,6 +4029,32 @@
     ],
     "tags": [
       "Viking Folk"
+    ]
+  },
+  {
+    "normalizedName": "orchi",
+    "displayName": "Or∞Chi",
+    "albums": [
+      {
+        "name": "劫炎 (The Unending Flames)",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Mortal Addict",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

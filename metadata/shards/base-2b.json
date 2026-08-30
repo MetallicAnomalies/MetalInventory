@@ -4045,10 +4045,20 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Blast from the Past",
+        "year": "2026",
+        "genres": [
+          "Power Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Power Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

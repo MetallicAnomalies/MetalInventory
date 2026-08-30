@@ -694,6 +694,22 @@
     ]
   },
   {
+    "normalizedName": "divinebloodline",
+    "displayName": "Divine Bloodline",
+    "albums": [
+      {
+        "name": "Wintertide",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "dusius",
     "displayName": "Dusius",
     "origin": "IT",
@@ -3953,6 +3969,13 @@
       {
         "name": "Light Of Death",
         "year": "2020",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "Into the Void",
+        "year": "2026",
         "genres": [
           "Heavy Metal"
         ]

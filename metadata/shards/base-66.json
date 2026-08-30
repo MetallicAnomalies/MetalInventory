@@ -3261,6 +3261,22 @@
     ]
   },
   {
+    "normalizedName": "sepulcre",
+    "displayName": "Sépulcre",
+    "albums": [
+      {
+        "name": "Cryptic Temple of Otherworldly Abhorrations",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "shodan",
     "displayName": "Shodan",
     "origin": "GB",
@@ -3420,6 +3436,22 @@
       {
         "name": "The Piper",
         "year": "2008",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "ssorc",
+    "displayName": "Ssorc",
+    "albums": [
+      {
+        "name": "If",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]
@@ -3988,6 +4020,24 @@
     "tags": [
       "Death Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "winceandfrisson",
+    "displayName": "Wince and Frisson",
+    "albums": [
+      {
+        "name": "Tumult",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

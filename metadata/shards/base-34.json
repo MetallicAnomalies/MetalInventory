@@ -1523,6 +1523,24 @@
     ]
   },
   {
+    "normalizedName": "grzegorzkupczyk",
+    "displayName": "Grzegorz Kupczyk",
+    "albums": [
+      {
+        "name": "Aperitif",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "humanwaste",
     "displayName": "Human Waste",
     "albums": [
@@ -3469,6 +3487,22 @@
     "tags": [
       "Death Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "rageunfold",
+    "displayName": "Rage Unfold",
+    "albums": [
+      {
+        "name": "Dislocated",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {

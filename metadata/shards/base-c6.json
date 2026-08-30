@@ -1933,6 +1933,26 @@
     ]
   },
   {
+    "normalizedName": "immortaldissolver",
+    "displayName": "Immortal Dissolver",
+    "albums": [
+      {
+        "name": "Rotting Ashes of Winter",
+        "year": "2026",
+        "genres": [
+          "Progressive Black Doom Metal",
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Black Doom Metal",
+      "Death Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "inexist",
     "displayName": "Inexist",
     "albums": [
@@ -4842,11 +4862,20 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "You're Weak and You Know You're Weak",
+        "year": "2026",
+        "genres": [
+          "Technical Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "Technical Black Death Metal"
     ]
   },
   {

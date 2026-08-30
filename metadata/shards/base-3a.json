@@ -1356,6 +1356,24 @@
     ]
   },
   {
+    "normalizedName": "draumur",
+    "displayName": "Draumur",
+    "albums": [
+      {
+        "name": "From Fading Sun to Dawn",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Post-Black Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Post-Black Metal",
+      "Post-Black Metal"
+    ]
+  },
+  {
     "normalizedName": "dreamskiller",
     "displayName": "Dreamskiller",
     "albums": [
@@ -1420,6 +1438,26 @@
     ],
     "tags": [
       "Symphonic Metal"
+    ]
+  },
+  {
+    "normalizedName": "dystopica",
+    "displayName": "Dystopica",
+    "albums": [
+      {
+        "name": "The Worst in Me",
+        "year": "2026",
+        "genres": [
+          "Heavy Metalcore",
+          "Alternative Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metalcore",
+      "Alternative Metal",
+      "Metalcore"
     ]
   },
   {

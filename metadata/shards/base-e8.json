@@ -816,6 +816,24 @@
     ]
   },
   {
+    "normalizedName": "criticaldefiancedet",
+    "displayName": "Critical Defiance/DET",
+    "albums": [
+      {
+        "name": "Bloodsurge",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal | Black Speed Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal | Black Speed Metal",
+      "Speed Metal"
+    ]
+  },
+  {
     "normalizedName": "crystalcrow",
     "displayName": "Crystal Crow",
     "albums": [
@@ -1297,6 +1315,22 @@
     "tags": [
       "Power Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "dreamseeker",
+    "displayName": "Dreamseeker",
+    "albums": [
+      {
+        "name": "A Trigger in Time: Part I",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Power Metal"
     ]
   },
   {

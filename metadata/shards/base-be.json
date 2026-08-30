@@ -2901,6 +2901,24 @@
     ]
   },
   {
+    "normalizedName": "ponsaelius",
+    "displayName": "Ponsaelius",
+    "albums": [
+      {
+        "name": "Amidst The Flames",
+        "year": "2026",
+        "genres": [
+          "Thrash Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Heavy Metal",
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "portall",
     "displayName": "Portall",
     "albums": [
@@ -3854,11 +3872,28 @@
         "genres": [
           "Gothic Industrial"
         ]
+      },
+      {
+        "name": "The Demo Collection 1994-1999",
+        "year": "2026",
+        "genres": [
+          "Gothic Death Metal",
+          "Doom Death Metal",
+          "Death Metal",
+          "Industrial Rock",
+          "Gothic Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
       "Gothic Metal",
-      "Gothic Industrial"
+      "Gothic Industrial",
+      "Gothic Death Metal",
+      "Doom Death Metal",
+      "Death Metal",
+      "Industrial Rock",
+      "Rock"
     ]
   },
   {

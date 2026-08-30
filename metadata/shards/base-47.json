@@ -1243,6 +1243,22 @@
     ]
   },
   {
+    "normalizedName": "endofabyss",
+    "displayName": "End of Abyss",
+    "albums": [
+      {
+        "name": "Escape to a New Empire",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "enforcation",
     "displayName": "Enforcation",
     "albums": [
@@ -2851,6 +2867,24 @@
     ]
   },
   {
+    "normalizedName": "orbitalsoulsystem",
+    "displayName": "Orbital Soul System",
+    "albums": [
+      {
+        "name": "Nightwing",
+        "year": "2026",
+        "genres": [
+          "Progressive Melodic Death Metal",
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Melodic Death Metal",
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "orjuwan",
     "displayName": "Orjuwan",
     "albums": [
@@ -4076,6 +4110,14 @@
     "albums": [
       {
         "name": "Holding On to the Light",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      },
+      {
+        "name": "A Thousand Suns",
         "year": "2026",
         "genres": [
           "Stoner Metal",

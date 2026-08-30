@@ -1385,11 +1385,22 @@
           "Death Metal",
           "Crust Punk"
         ]
+      },
+      {
+        "name": "Scavenger Gospel",
+        "year": "2026",
+        "genres": [
+          "Crust Punk",
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Crust Punk"
+      "Crust Punk",
+      "Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -3013,6 +3024,24 @@
     ],
     "tags": [
       "Melodic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "otras",
+    "displayName": "Otras",
+    "albums": [
+      {
+        "name": "Na Krídlach Morovida",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Punk"
     ]
   },
   {

@@ -2190,11 +2190,20 @@
           "Power Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Guardians of Time Part II",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Power Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Heavy Power Metal"
     ]
   },
   {

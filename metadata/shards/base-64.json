@@ -2106,6 +2106,24 @@
     ]
   },
   {
+    "normalizedName": "etherealtomb",
+    "displayName": "Ethereal Tomb",
+    "albums": [
+      {
+        "name": "Living to Dream Again",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "evanryancanady",
     "displayName": "Evan Ryan Canady",
     "albums": [
@@ -3405,6 +3423,22 @@
     "tags": [
       "Black Metal",
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "oldthrone",
+    "displayName": "Old Throne",
+    "albums": [
+      {
+        "name": "As Cinzas dos Lobos Imortais",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

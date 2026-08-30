@@ -3247,6 +3247,24 @@
     ]
   },
   {
+    "normalizedName": "pandaemonicdescent",
+    "displayName": "Pandaemonic Descent",
+    "albums": [
+      {
+        "name": "The Weight of Being Nothing",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Deathcore"
+    ]
+  },
+  {
     "normalizedName": "pestilectomy",
     "displayName": "Pestilectomy",
     "albums": [
@@ -5271,6 +5289,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "worshipthepestilence",
+    "displayName": "Worship the Pestilence",
+    "albums": [
+      {
+        "name": "Death Bonanza",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   }
 ]

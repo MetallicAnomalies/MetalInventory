@@ -2559,6 +2559,22 @@
     ]
   },
   {
+    "normalizedName": "regiment",
+    "displayName": "Regiment",
+    "albums": [
+      {
+        "name": "The Art of Arson",
+        "year": "2026",
+        "genres": [
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Speed Metal"
+    ]
+  },
+  {
     "normalizedName": "reverie",
     "displayName": "Rêverie",
     "aliases": [
@@ -3823,6 +3839,22 @@
     "tags": [
       "Power Metal",
       "Speed Metal"
+    ]
+  },
+  {
+    "normalizedName": "wodos",
+    "displayName": "Wodos",
+    "albums": [
+      {
+        "name": "From the Grave",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {

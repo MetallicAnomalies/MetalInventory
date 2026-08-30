@@ -1419,10 +1419,24 @@
         "genres": [
           "Symphonic Black Metal"
         ]
+      },
+      {
+        "name": "Draghûrmorth",
+        "year": "2026",
+        "genres": [
+          "Epic Dungeon Synth",
+          "Atmospheric Black Metal",
+          "Ambient Dungeon Synth",
+          "Dungeon Synth"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Black Metal"
+      "Symphonic Black Metal",
+      "Epic Dungeon Synth",
+      "Atmospheric Black Metal",
+      "Ambient Dungeon Synth",
+      "Dungeon Synth"
     ]
   },
   {

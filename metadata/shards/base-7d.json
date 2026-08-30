@@ -2652,6 +2652,14 @@
           "Doom Heavy Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "From the Dark",
+        "year": "2026",
+        "genres": [
+          "Doom Heavy Metal",
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -4509,10 +4517,19 @@
         "genres": [
           "Post-Metal"
         ]
+      },
+      {
+        "name": "Onwards to Embrace the Echo",
+        "year": "2026",
+        "genres": [
+          "Progressive Post-Metal",
+          "Post-Metal"
+        ]
       }
     ],
     "tags": [
-      "Post-Metal"
+      "Post-Metal",
+      "Progressive Post-Metal"
     ]
   },
   {

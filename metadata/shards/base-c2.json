@@ -3708,11 +3708,19 @@
           "Death Metal",
           "Black Metal"
         ]
+      },
+      {
+        "name": "Live in Poland",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Black Metal"
+      "Black Metal",
+      "Blackened Death Metal"
     ]
   },
   {

@@ -2989,6 +2989,24 @@
     ]
   },
   {
+    "normalizedName": "litost",
+    "displayName": "Litost",
+    "albums": [
+      {
+        "name": "Logos",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "lunafield",
     "displayName": "Luna Field",
     "albums": [
@@ -5688,6 +5706,26 @@
     ],
     "tags": [
       "Screamo"
+    ]
+  },
+  {
+    "normalizedName": "сделкассовестью",
+    "displayName": "Сделка с Совестью",
+    "albums": [
+      {
+        "name": "Бар \"Грустный говнарь\"",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover Hardcore Punk",
+          "Hardcore Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Crossover Hardcore Punk",
+      "Hardcore Punk"
     ]
   }
 ]

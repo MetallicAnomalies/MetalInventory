@@ -3216,11 +3216,20 @@
           "Heavy Metal",
           "Speed Metal"
         ]
+      },
+      {
+        "name": "Reborn",
+        "year": "2026",
+        "genres": [
+          "Heavy Speed Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Speed Metal"
+      "Speed Metal",
+      "Heavy Speed Metal"
     ]
   },
   {

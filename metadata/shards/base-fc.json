@@ -3002,10 +3002,20 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Among the Seeds of Death",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

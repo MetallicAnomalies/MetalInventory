@@ -3551,12 +3551,23 @@
           "Heavy Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Live at Rock Hard 2016",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Power Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
       "Thrash Metal",
-      "Speed Metal"
+      "Speed Metal",
+      "Heavy Thrash Metal",
+      "Power Thrash Metal"
     ]
   },
   {

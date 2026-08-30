@@ -139,11 +139,22 @@
           "Death Metal",
           "Black Metal"
         ]
+      },
+      {
+        "name": "Caregriever",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal",
+          "Post-Black Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Black Metal"
+      "Black Metal",
+      "Black Death Metal",
+      "Post-Black Metal"
     ]
   },
   {

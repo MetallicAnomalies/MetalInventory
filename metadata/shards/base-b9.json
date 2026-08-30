@@ -3747,9 +3747,22 @@
         "name": "Burden Of Antlers",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Burden of Antler",
+        "year": "2026",
+        "genres": [
+          "Progressive Deathcore",
+          "Post-Metal Deathcore",
+          "Deathcore"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Progressive Deathcore",
+      "Post-Metal Deathcore",
+      "Deathcore"
+    ]
   },
   {
     "normalizedName": "shadowcult",

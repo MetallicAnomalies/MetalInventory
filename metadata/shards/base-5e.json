@@ -5133,12 +5133,21 @@
           "Gothic Metal",
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Aura",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Gothic Metal",
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
       "Gothic Metal",
-      "Atmospheric Black Metal"
+      "Atmospheric Black Metal",
+      "Melodic Death Gothic Metal"
     ]
   },
   {

@@ -1,5 +1,23 @@
 [
   {
+    "normalizedName": "algormortis",
+    "displayName": "Algor Mortis",
+    "albums": [
+      {
+        "name": "The Art of Suffering",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "anatmalamud",
     "displayName": "Anat Malamud",
     "origin": "US",

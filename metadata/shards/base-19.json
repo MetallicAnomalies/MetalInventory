@@ -5189,6 +5189,22 @@
     ]
   },
   {
+    "normalizedName": "deadmeat",
+    "displayName": "Dead Meat",
+    "albums": [
+      {
+        "name": "Devoured Ferociously",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "demisery",
     "displayName": "Demisery",
     "origin": "US",
@@ -5648,6 +5664,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "fornkaldr",
+    "displayName": "Forn Kaldr",
+    "albums": [
+      {
+        "name": "The End of Everything",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Folk Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Folk Black Metal",
+      "Black Metal"
     ]
   },
   {

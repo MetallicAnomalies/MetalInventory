@@ -2001,6 +2001,22 @@
     ]
   },
   {
+    "normalizedName": "godblood",
+    "displayName": "Godblood",
+    "albums": [
+      {
+        "name": "Fuck the Skull",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "goretrade",
     "displayName": "Goretrade",
     "albums": [
@@ -3358,10 +3374,18 @@
         "genres": [
           "Depressive Black Metal"
         ]
+      },
+      {
+        "name": "A Hopeless Dawn",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Depressive Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Depressive Black Metal"
+      "Depressive Black Metal",
+      "Atmospheric Depressive Black Metal"
     ]
   },
   {

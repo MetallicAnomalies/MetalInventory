@@ -813,12 +813,20 @@
           "Death Metal",
           "Blackened Death Metal"
         ]
+      },
+      {
+        "name": "Gnosis Absolute",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
       "Death Metal",
-      "Blackened Death Metal"
+      "Blackened Death Metal",
+      "Melodic Black Metal"
     ]
   },
   {
@@ -835,6 +843,26 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "creeperbud",
+    "displayName": "Creeper Bud",
+    "albums": [
+      {
+        "name": "Creeper Bud",
+        "year": "2026",
+        "genres": [
+          "Stoner Sludge Metal",
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Sludge Metal",
+      "Doom Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {

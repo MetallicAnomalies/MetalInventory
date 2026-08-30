@@ -2640,6 +2640,14 @@
         "name": "XAOS 333 EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "XAOS 333",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -4568,6 +4576,13 @@
     "albums": [
       {
         "name": "Arena entre los dedos",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      },
+      {
+        "name": "Agua",
         "year": "2026",
         "genres": [
           "Symphonic Metal"

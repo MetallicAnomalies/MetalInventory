@@ -261,10 +261,22 @@
         "genres": [
           "Post-Metal"
         ]
+      },
+      {
+        "name": "The Rabbit & the Mistake",
+        "year": "2026",
+        "genres": [
+          "Stoner Rock",
+          "Doom Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
-      "Post-Metal"
+      "Post-Metal",
+      "Stoner Rock",
+      "Doom Metal",
+      "Rock"
     ]
   },
   {
@@ -3004,10 +3016,21 @@
         "name": "Psychosomatic EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Psychosomatic",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Thrash Metal",
+          "Thrash Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
-      "Metalcore"
+      "Metalcore",
+      "Melodic Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -3608,6 +3631,22 @@
     "tags": [
       "Heavy Metal",
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "rakshasa",
+    "displayName": "Rakshasa",
+    "albums": [
+      {
+        "name": "憂愁録 - 素戔嗚",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
     ]
   },
   {

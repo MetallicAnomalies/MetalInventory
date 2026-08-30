@@ -2346,6 +2346,22 @@
     ]
   },
   {
+    "normalizedName": "monochromaticresidua",
+    "displayName": "Monochromatic Residua",
+    "albums": [
+      {
+        "name": "Forbidden Kaleidoscopic Abomination",
+        "year": "2026",
+        "genres": [
+          "Technical Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Technical Death Metal"
+    ]
+  },
+  {
     "normalizedName": "mrtvi",
     "displayName": "Mrtvi",
     "albums": [
@@ -2694,12 +2710,21 @@
         "name": "Біль | Hurt EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Біль | Hurt",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Folk Metal",
+          "Folk Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk Metal",
+      "Symphonic Black Folk Metal"
     ]
   },
   {

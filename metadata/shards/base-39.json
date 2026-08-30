@@ -1901,9 +1901,20 @@
         "name": "Mgla",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Mgła",
+        "year": "2026",
+        "genres": [
+          "Thrash Folk Metal",
+          "Folk Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Thrash Folk Metal",
+      "Folk Metal"
+    ]
   },
   {
     "normalizedName": "hematic",
@@ -3925,10 +3936,18 @@
         "genres": [
           "Progressive Heavy"
         ]
+      },
+      {
+        "name": "Hammerhead Demoz + Battleaxe Echoez",
+        "year": "2026",
+        "genres": [
+          "Progressive Heavy Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy",
+      "Progressive Heavy Metal"
     ]
   },
   {

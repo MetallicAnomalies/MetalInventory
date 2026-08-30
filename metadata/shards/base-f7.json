@@ -2055,6 +2055,22 @@
     ]
   },
   {
+    "normalizedName": "gurkkhas",
+    "displayName": "Gurkkhas",
+    "albums": [
+      {
+        "name": "Oaths Carved in the Shadow of the Kukri",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "halfcross",
     "displayName": "Half/cross",
     "albums": [
@@ -6753,6 +6769,13 @@
       {
         "name": "Sonic Devotion To Darkness",
         "year": "2023",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Mystery & Power",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

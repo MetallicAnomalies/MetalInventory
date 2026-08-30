@@ -1388,10 +1388,22 @@
         "genres": [
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "Last Call",
+        "year": "2026",
+        "genres": [
+          "Heavy Punk",
+          "Speed Metal",
+          "Punk"
+        ]
       }
     ],
     "tags": [
-      "Sludge Metal"
+      "Sludge Metal",
+      "Heavy Punk",
+      "Speed Metal",
+      "Punk"
     ]
   },
   {
@@ -2688,6 +2700,26 @@
     ],
     "tags": [
       "Symphonic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "hexecutioner",
+    "displayName": "Hexecutioner",
+    "albums": [
+      {
+        "name": "Ascension Rock",
+        "year": "2026",
+        "genres": [
+          "Stoner Rock",
+          "Doom Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Rock",
+      "Doom Metal",
+      "Rock"
     ]
   },
   {

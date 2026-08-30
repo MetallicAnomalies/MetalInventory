@@ -694,10 +694,19 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Chaos Control",
+        "year": "2026",
+        "genres": [
+          "Power Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Metalcore"
     ]
   },
   {

@@ -374,6 +374,27 @@
     ]
   },
   {
+    "normalizedName": "blindfurysatan",
+    "displayName": "Blind Fury/Satan",
+    "albums": [
+      {
+        "name": "Out of the Fire 1981-1985",
+        "year": "2026",
+        "genres": [
+          "NWOBHM Heavy Metal | NWOBHM",
+          "Heavy Metal",
+          "Heavy Metal | NWOBHM",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "NWOBHM Heavy Metal | NWOBHM",
+      "Heavy Metal",
+      "Heavy Metal | NWOBHM"
+    ]
+  },
+  {
     "normalizedName": "bonespirit",
     "displayName": "Bone Spirit",
     "albums": [
@@ -1177,6 +1198,24 @@
     ],
     "tags": [
       "Symphonic Metal"
+    ]
+  },
+  {
+    "normalizedName": "everythingdecays",
+    "displayName": "Everything Decays",
+    "albums": [
+      {
+        "name": "Requiem II: We Will Slaughter the Lambs",
+        "year": "2026",
+        "genres": [
+          "Deathcore Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Deathcore Groove Metal",
+      "Groove Metal"
     ]
   },
   {
