@@ -3769,6 +3769,11 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Laulut tulen ja jään",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -5325,6 +5330,18 @@
       "Doom Metal",
       "Sludge Metal"
     ]
+  },
+  {
+    "normalizedName": "yhwh",
+    "displayName": "Yhwh",
+    "albums": [
+      {
+        "name": "Baghavat EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "yourchancetodie",

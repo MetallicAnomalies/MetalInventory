@@ -1568,6 +1568,18 @@
     ]
   },
   {
+    "normalizedName": "exhumednunslaughtermoldertrafficdeath",
+    "displayName": "Exhumed/Nunslaughter/Molder/Traffic Death",
+    "albums": [
+      {
+        "name": "Split",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "fastkill",
     "displayName": "Fastkill",
     "albums": [
@@ -4558,6 +4570,11 @@
         "genres": [
           "Nu Metal"
         ]
+      },
+      {
+        "name": "Bitume Profond",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

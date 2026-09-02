@@ -720,6 +720,11 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Vestige Of Mercy",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1620,6 +1625,18 @@
     "tags": [
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "gridtheory",
+    "displayName": "Grid Theory",
+    "albums": [
+      {
+        "name": "The Rewire",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "immortalizer",

@@ -3412,6 +3412,11 @@
         "genres": [
           "Blackened Death Metal"
         ]
+      },
+      {
+        "name": "Immortality Through Ashes",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4430,6 +4435,18 @@
     "tags": [
       "Pagan Black Metal"
     ]
+  },
+  {
+    "normalizedName": "tenebraeannex",
+    "displayName": "Tenebrae Annex",
+    "albums": [
+      {
+        "name": "The Rise Of Psychic Violence (Parts I-III)",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "theazukiwashers",

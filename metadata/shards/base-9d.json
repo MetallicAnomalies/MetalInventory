@@ -2046,6 +2046,18 @@
     ]
   },
   {
+    "normalizedName": "maledictus",
+    "displayName": "Maledictus",
+    "albums": [
+      {
+        "name": "Lazarvs",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "mastabah",
     "displayName": "Mastabah",
     "albums": [
@@ -4152,6 +4164,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "violenceonly",
+    "displayName": "Violence Only",
+    "albums": [
+      {
+        "name": "Violence Only EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "wildwest",

@@ -603,7 +603,7 @@
           "Progressive Metal"
         ]
       },
-       {
+      {
         "name": "Imperatorė",
         "year": "2025",
         "genres": [
@@ -712,6 +712,18 @@
       "Black Metal",
       "Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "chainedsaint",
+    "displayName": "Chained Saint",
+    "albums": [
+      {
+        "name": "Rise To Fall EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "cjwildheart",

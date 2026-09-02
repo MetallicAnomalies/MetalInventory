@@ -1714,6 +1714,22 @@
     ]
   },
   {
+    "normalizedName": "elephantzero",
+    "displayName": "Elephant Zero",
+    "albums": [
+      {
+        "name": "Doomsday",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "eleventhapparition",
     "displayName": "Eleventh Apparition",
     "albums": [
@@ -2459,6 +2475,11 @@
           "Acoustic",
           "Funeral Doom Metal"
         ]
+      },
+      {
+        "name": "Funeral EP",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
