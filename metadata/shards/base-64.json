@@ -2177,6 +2177,18 @@
     ]
   },
   {
+    "normalizedName": "feldspar",
+    "displayName": "Feldspar",
+    "albums": [
+      {
+        "name": "Soft Side",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "fieldeffect",
     "displayName": "Field Effect",
     "albums": [
@@ -4090,6 +4102,11 @@
         "genres": [
           "Melodic Black Metal"
         ]
+      },
+      {
+        "name": "Blotters In Saline Water",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

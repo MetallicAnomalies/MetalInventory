@@ -1127,6 +1127,11 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Frozen Silhouettes: 2006-2009",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3221,6 +3226,18 @@
     ]
   },
   {
+    "normalizedName": "stellarrot",
+    "displayName": "Stellar Rot",
+    "albums": [
+      {
+        "name": "Where The Formless Ones Dwell",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "swornvengeance",
     "displayName": "Sworn Vengeance",
     "albums": [
@@ -3949,6 +3966,18 @@
       "Heavy Metal",
       "Hard Rock"
     ]
+  },
+  {
+    "normalizedName": "wyrmchasm",
+    "displayName": "Wyrm Chasm",
+    "albums": [
+      {
+        "name": "Wyrm Chasm",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "xazraug",

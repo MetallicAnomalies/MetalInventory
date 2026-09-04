@@ -459,6 +459,18 @@
     ]
   },
   {
+    "normalizedName": "beleaguered",
+    "displayName": "Beleaguered",
+    "albums": [
+      {
+        "name": "I: Mercy",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "bloodredthrone",
     "displayName": "Blood Red Throne",
     "origin": "NO",
@@ -2650,6 +2662,18 @@
       "Progressive Metal",
       "Jazz Fusion"
     ]
+  },
+  {
+    "normalizedName": "oakenthrone",
+    "displayName": "Oakenthrone",
+    "albums": [
+      {
+        "name": "Ad Silvam",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "obsidious",

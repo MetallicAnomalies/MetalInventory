@@ -1320,6 +1320,18 @@
     ]
   },
   {
+    "normalizedName": "fakenames",
+    "displayName": "Fake Names",
+    "albums": [
+      {
+        "name": "Punk Ruins",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "fatherbefouled",
     "displayName": "Father Befouled",
     "origin": "US",
