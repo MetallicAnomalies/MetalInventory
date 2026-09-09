@@ -178,6 +178,18 @@
     ]
   },
   {
+    "normalizedName": "arcaneallies",
+    "displayName": "Arcane Allies",
+    "albums": [
+      {
+        "name": "Aestesia",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "argorok",
     "displayName": "Argorok",
     "albums": [
@@ -1965,6 +1977,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "margarita",
+    "displayName": "Margarita",
+    "albums": [
+      {
+        "name": "Abysses Of Melancholia",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "michellebranch",
