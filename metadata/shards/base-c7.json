@@ -637,6 +637,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Circle of the Moon",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -1418,9 +1425,18 @@
         "name": "Splintered, Crushed And Shattered EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Splintered, Crushed & Shattered",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "citadel",

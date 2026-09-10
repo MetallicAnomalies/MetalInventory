@@ -4336,11 +4336,19 @@
           "Deathcore",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Disciple",
+        "year": "2026",
+        "genres": [
+          "Symphonic Deathcore"
+        ]
       }
     ],
     "tags": [
       "Deathcore",
-      "Death Metal"
+      "Death Metal",
+      "Symphonic Deathcore"
     ]
   },
   {
@@ -6383,6 +6391,14 @@
       {
         "name": "The Call Of The Wild",
         "year": "2023",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      },
+      {
+        "name": "When the Tide Subsides",
+        "year": "2026",
         "genres": [
           "Heavy Metal",
           "Hard Rock"

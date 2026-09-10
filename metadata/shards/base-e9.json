@@ -4917,11 +4917,21 @@
           "Melodic Black Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Black Sun Aeon",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Black Metal",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Melodic Black Death Metal",
+      "Death Metal"
     ]
   },
   {

@@ -5120,9 +5120,20 @@
         "name": "Dødsdans I Aske",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Døsdans i aske",
+        "year": "2026",
+        "genres": [
+          "Black Viking Metal",
+          "Viking Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Viking Metal",
+      "Viking Metal"
+    ]
   },
   {
     "normalizedName": "urkraft",

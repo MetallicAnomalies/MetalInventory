@@ -1465,6 +1465,22 @@
     ]
   },
   {
+    "normalizedName": "evildungeoncrawler",
+    "displayName": "Evil Dungeon Crawler",
+    "albums": [
+      {
+        "name": "Lonesome Demos MMXXIII-MMXXV",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "exxiles",
     "displayName": "Exxiles",
     "albums": [
@@ -4423,6 +4439,13 @@
       {
         "name": "Ghosted",
         "year": "2025",
+        "genres": [
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "Evil Needs Candy Too 20th Anniversary Edition",
+        "year": "2026",
         "genres": [
           "Power Metal"
         ]

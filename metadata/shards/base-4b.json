@@ -2972,11 +2972,21 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Caledonia",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Folk Black Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Folk Metal"
+      "Folk Metal",
+      "Atmospheric Folk Black Metal",
+      "Black Metal"
     ]
   },
   {

@@ -155,10 +155,18 @@
         "genres": [
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "Assault into Hell",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Technical Death Metal"
+      "Technical Death Metal",
+      "Thrash Metal"
     ]
   },
   {

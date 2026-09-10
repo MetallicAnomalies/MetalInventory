@@ -904,6 +904,24 @@
     ]
   },
   {
+    "normalizedName": "dainsleif",
+    "displayName": "Dainsleif",
+    "albums": [
+      {
+        "name": "Daudi Fenris",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Folk Metal",
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Folk Metal",
+      "Folk Metal"
+    ]
+  },
+  {
     "normalizedName": "danielbedingfield",
     "displayName": "Daniel Bedingfield",
     "origin": "GB",
@@ -3928,6 +3946,24 @@
     "tags": [
       "Heavy Metal",
       "Post-hardcore"
+    ]
+  },
+  {
+    "normalizedName": "soreanus",
+    "displayName": "Soreanus",
+    "albums": [
+      {
+        "name": "Discography 2026",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {

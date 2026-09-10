@@ -2612,6 +2612,28 @@
     ]
   },
   {
+    "normalizedName": "malhavoc",
+    "displayName": "Malhavoc",
+    "albums": [
+      {
+        "name": "The Masquerade’s Death",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal",
+          "Electronic Rock",
+          "Industrial"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal",
+      "Electronic Rock",
+      "Industrial"
+    ]
+  },
+  {
     "normalizedName": "marchinarms",
     "displayName": "March In Arms",
     "albums": [
@@ -4881,6 +4903,13 @@
       {
         "name": "Under Silver Sky",
         "year": "2025",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "Live Bar Loose",
+        "year": "2026",
         "genres": [
           "Heavy Metal"
         ]

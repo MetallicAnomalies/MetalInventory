@@ -1816,11 +1816,24 @@
         "name": "DeHydration",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Sign of the Witch",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal",
+          "Heavy Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Melodic Black Metal"
+      "Melodic Black Metal",
+      "Stoner Doom Metal",
+      "Doom Metal",
+      "Heavy Doom Metal"
     ]
   },
   {

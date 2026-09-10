@@ -1486,6 +1486,26 @@
     ]
   },
   {
+    "normalizedName": "eternalcrypt",
+    "displayName": "Eternal Crypt",
+    "albums": [
+      {
+        "name": "Memories Fade in Time",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Folk Metal",
+          "Power Folk Metal",
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Folk Metal",
+      "Power Folk Metal",
+      "Folk Metal"
+    ]
+  },
+  {
     "normalizedName": "eternalsoul",
     "displayName": "Eternal Soul",
     "origin": "GB",
@@ -2596,6 +2616,13 @@
       {
         "name": "The Room",
         "year": "2018",
+        "genres": [
+          "Doom Metal"
+        ]
+      },
+      {
+        "name": "Rupture",
+        "year": "2026",
         "genres": [
           "Doom Metal"
         ]

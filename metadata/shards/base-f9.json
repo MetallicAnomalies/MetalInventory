@@ -2517,10 +2517,31 @@
         "genres": [
           "Metal"
         ]
+      },
+      {
+        "name": "The Story Of My Life",
+        "year": "2026",
+        "genres": [
+          "Hard Rock",
+          "Pop Funk",
+          "Funk"
+        ]
+      },
+      {
+        "name": "Fatalistic Attitude",
+        "year": "2026",
+        "genres": [
+          "Hard Rock",
+          "Pop Funk",
+          "Funk"
+        ]
       }
     ],
     "tags": [
-      "Metal"
+      "Metal",
+      "Hard Rock",
+      "Pop Funk",
+      "Funk"
     ]
   },
   {

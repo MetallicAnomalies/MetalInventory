@@ -2259,11 +2259,20 @@
           "Doom Metal",
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "A Black Flame in Cosmic Void",
+        "year": "2026",
+        "genres": [
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Sludge Metal"
+      "Sludge Metal",
+      "Doom Sludge Metal"
     ]
   },
   {
@@ -4729,5 +4738,23 @@
       "Post-black Metal"
     ],
     "origin": "PL"
+  },
+  {
+    "normalizedName": "生理性厌恶",
+    "displayName": "生理性厌恶",
+    "albums": [
+      {
+        "name": "厄洛斯与塔纳托斯",
+        "year": "2026",
+        "genres": [
+          "Grindcore",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore",
+      "Brutal Death Metal"
+    ]
   }
 ]

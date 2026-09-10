@@ -3958,9 +3958,20 @@
         "name": "Powermönger EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Powermönger",
+        "year": "2026",
+        "genres": [
+          "Heavy Speed Metal",
+          "Speed Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Heavy Speed Metal",
+      "Speed Metal"
+    ]
   },
   {
     "normalizedName": "preyfornothing",

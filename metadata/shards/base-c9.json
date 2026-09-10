@@ -3143,6 +3143,15 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Neo-Noe",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Hardcore Crossover",
+          "Crossover"
+        ]
       }
     ],
     "tags": [
@@ -3154,7 +3163,10 @@
       "Electronic",
       "Breakcore",
       "Drum N Bass",
-      "Prog Rock"
+      "Prog Rock",
+      "Thrash Metal",
+      "Hardcore Crossover",
+      "Crossover"
     ]
   },
   {
@@ -5171,6 +5183,13 @@
         "genres": [
           "Black Metal",
           "Metal"
+        ]
+      },
+      {
+        "name": "버려진 록음들",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
         ]
       }
     ],

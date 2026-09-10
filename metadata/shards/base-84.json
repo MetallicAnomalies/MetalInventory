@@ -1471,6 +1471,13 @@
         "name": "The Water Taste Of Blood",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Liars Linger",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
       }
     ],
     "tags": [
@@ -2992,11 +2999,21 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Tuhkasta nouseva mahti",
+        "year": "2026",
+        "genres": [
+          "Folk Black Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Power Metal"
+      "Power Metal",
+      "Folk Black Metal",
+      "Black Metal"
     ]
   },
   {

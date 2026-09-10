@@ -52,6 +52,22 @@
     ]
   },
   {
+    "normalizedName": "angelfury",
+    "displayName": "Angel Fury",
+    "albums": [
+      {
+        "name": "Sworn to Avenge",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "angstskvadron",
     "displayName": "Angst Skvadron",
     "albums": [
@@ -4708,6 +4724,24 @@
     "tags": [
       "Alternative Rock",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "tormentous",
+    "displayName": "Tormentous",
+    "albums": [
+      {
+        "name": "Siege Bastards",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {

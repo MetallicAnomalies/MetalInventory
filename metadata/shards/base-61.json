@@ -792,11 +792,19 @@
           "Heavy Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Death of the Bloodking",
+        "year": "2026",
+        "genres": [
+          "Death 'n' Roll"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Death 'n' Roll"
     ]
   },
   {

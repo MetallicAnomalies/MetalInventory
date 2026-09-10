@@ -1033,6 +1033,24 @@
     ]
   },
   {
+    "normalizedName": "carnaldesecration",
+    "displayName": "Carnal Desecration",
+    "albums": [
+      {
+        "name": "Ancient Malediction",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "casketgarden",
     "displayName": "Casketgarden",
     "albums": [
@@ -3993,10 +4011,19 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Cyclopean",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Doom Metal"
+      "Doom Metal",
+      "Sludge Doom Metal"
     ]
   },
   {

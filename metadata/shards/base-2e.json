@@ -1881,6 +1881,22 @@
     ]
   },
   {
+    "normalizedName": "feeding",
+    "displayName": "Feeding",
+    "albums": [
+      {
+        "name": "Insurmountable Suffering",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "foehammer",
     "displayName": "Foehammer",
     "albums": [
@@ -2982,6 +2998,13 @@
       {
         "name": "Mesías",
         "year": "2019",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "Inquebrantable",
+        "year": "2026",
         "genres": [
           "Heavy Metal"
         ]

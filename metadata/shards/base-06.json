@@ -1270,9 +1270,18 @@
         "name": "Tristesse Vesperale EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Tristesse vespérale",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "hdk",

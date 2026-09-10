@@ -322,6 +322,13 @@
         "genres": [
           "Melodic Black Metal"
         ]
+      },
+      {
+        "name": "A Path Apart",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -4981,11 +4988,21 @@
           "Atmospheric Doom",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Love's Lament",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Atmospheric Doom",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Melodic Death Doom Metal",
+      "Doom Metal"
     ]
   },
   {

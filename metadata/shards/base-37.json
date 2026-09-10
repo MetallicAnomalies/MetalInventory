@@ -423,6 +423,22 @@
     "tags": []
   },
   {
+    "normalizedName": "balgeroth",
+    "displayName": "Balgeroth",
+    "albums": [
+      {
+        "name": "Schlacht um Knochenheim, Teil 1",
+        "year": "2026",
+        "genres": [
+          "Death 'n' Roll"
+        ]
+      }
+    ],
+    "tags": [
+      "Death 'n' Roll"
+    ]
+  },
+  {
     "normalizedName": "belvedere",
     "displayName": "Belvedere",
     "albums": [
@@ -1950,6 +1966,26 @@
       "Folk, World, & Country",
       "Blues",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "goatrider",
+    "displayName": "Goat Rider",
+    "albums": [
+      {
+        "name": "Hellkvlt",
+        "year": "2026",
+        "genres": [
+          "Black Punk",
+          "Speed Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Punk",
+      "Speed Metal",
+      "Punk"
     ]
   },
   {
@@ -5135,6 +5171,22 @@
     ],
     "tags": [
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "vengeancewithin",
+    "displayName": "Vengeance Within",
+    "albums": [
+      {
+        "name": "For Now, A Slow and Painful Death",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {

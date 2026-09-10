@@ -3415,6 +3415,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Instruments of Industrialized Warfare",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3611,6 +3618,22 @@
       "Death Metal",
       "Heavy Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "morbidabomination",
+    "displayName": "Morbid Abomination",
+    "albums": [
+      {
+        "name": "Delusions",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

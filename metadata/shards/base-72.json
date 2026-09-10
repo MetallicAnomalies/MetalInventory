@@ -1751,11 +1751,19 @@
           "Power Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Titans of Fire",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
       "Power Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Heavy Metal"
     ]
   },
   {

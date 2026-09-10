@@ -1144,6 +1144,14 @@
           "Post-Metal",
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "In the Shadow of Your Shadow",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Sludge Post-Metal",
+          "Post-Metal"
+        ]
       }
     ],
     "tags": [
@@ -1152,7 +1160,8 @@
       "Experimental Metal",
       "Prog Rock",
       "Post-hardcore",
-      "Post Rock"
+      "Post Rock",
+      "Atmospheric Sludge Post-Metal"
     ]
   },
   {
@@ -2722,6 +2731,22 @@
       "Psychedelic Rock",
       "Hard Rock",
       "Gothic Metal",
+      "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "lustritual",
+    "displayName": "Lust Ritual",
+    "albums": [
+      {
+        "name": "Devil's Chains",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
       "Doom Metal"
     ]
   },

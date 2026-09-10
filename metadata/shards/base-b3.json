@@ -1812,9 +1812,20 @@
         "name": "For Survival EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "For Survival",
+        "year": "2026",
+        "genres": [
+          "Progressive Melodic Death Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Progressive Melodic Death Metal",
+      "Melodic Death Metal"
+    ]
   },
   {
     "normalizedName": "ferum",

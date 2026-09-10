@@ -1337,6 +1337,24 @@
     ]
   },
   {
+    "normalizedName": "evilexcess",
+    "displayName": "Evil Excess",
+    "albums": [
+      {
+        "name": "Infiltrate Their Sancutary",
+        "year": "2026",
+        "genres": [
+          "Black Speed Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Speed Metal",
+      "Speed Metal"
+    ]
+  },
+  {
     "normalizedName": "fluturipeasfalt",
     "displayName": "Fluturi Pe Asfalt",
     "albums": [
@@ -4256,10 +4274,18 @@
         "genres": [
           "Death Doom Metal"
         ]
+      },
+      {
+        "name": "Primordial Rites",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Thrash Metal"
     ]
   },
   {

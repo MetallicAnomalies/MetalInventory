@@ -1564,11 +1564,19 @@
           "Doom Metal",
           "Psychedelic Rock"
         ]
+      },
+      {
+        "name": "Live from the Inner Sanctum",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Psychedelic Rock"
+      "Psychedelic Rock",
+      "Psychedelic Doom Metal"
     ]
   },
   {
@@ -2767,10 +2775,20 @@
         "genres": [
           "Blackened Folk"
         ]
+      },
+      {
+        "name": "Sagendarium",
+        "year": "2026",
+        "genres": [
+          "Folk Pagan Metal",
+          "Pagan Metal"
+        ]
       }
     ],
     "tags": [
-      "Blackened Folk"
+      "Blackened Folk",
+      "Folk Pagan Metal",
+      "Pagan Metal"
     ]
   },
   {

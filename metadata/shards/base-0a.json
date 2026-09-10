@@ -1870,6 +1870,14 @@
           "Power Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "The Legend of Achilles",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -1877,7 +1885,8 @@
       "Heavy Metal",
       "Speed Metal",
       "Symphonic Metal",
-      "Hard Rock"
+      "Hard Rock",
+      "Heavy Power Metal"
     ]
   },
   {
@@ -2836,6 +2845,24 @@
     "tags": [
       "Heavy Metal",
       "Shred"
+    ]
+  },
+  {
+    "normalizedName": "minuala",
+    "displayName": "Minuala",
+    "albums": [
+      {
+        "name": "Kuu",
+        "year": "2026",
+        "genres": [
+          "Blackened Crust Punk",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Crust Punk",
+      "Post-Black Metal"
     ]
   },
   {

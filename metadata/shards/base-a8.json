@@ -216,6 +216,13 @@
         "genres": [
           "Symphonic Power Metal"
         ]
+      },
+      {
+        "name": "The Cave Beyond Time",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -2102,9 +2109,20 @@
         "name": "Death Punk EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Death Punk",
+        "year": "2026",
+        "genres": [
+          "Crossover Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Crossover Thrash Metal",
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "miserysignals",

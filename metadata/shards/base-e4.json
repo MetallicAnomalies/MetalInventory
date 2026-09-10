@@ -1751,6 +1751,22 @@
     ]
   },
   {
+    "normalizedName": "eldfodd",
+    "displayName": "Eldfödd",
+    "albums": [
+      {
+        "name": "The Night Belongs to the Dead",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "embellish",
     "displayName": "Embellish",
     "origin": "ES",
@@ -2822,10 +2838,24 @@
         "genres": [
           "Instrumental Industrial"
         ]
+      },
+      {
+        "name": "Dot Matrix",
+        "year": "2026",
+        "genres": [
+          "Industrial Chiptune",
+          "Electronic Metal",
+          "Synthwave Chiptune",
+          "Chiptune"
+        ]
       }
     ],
     "tags": [
-      "Instrumental Industrial"
+      "Instrumental Industrial",
+      "Industrial Chiptune",
+      "Electronic Metal",
+      "Synthwave Chiptune",
+      "Chiptune"
     ]
   },
   {
