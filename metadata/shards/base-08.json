@@ -756,6 +756,18 @@
     ]
   },
   {
+    "normalizedName": "boneyard",
+    "displayName": "Boneyard",
+    "albums": [
+      {
+        "name": "Black Static",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "brotthogg",
     "displayName": "Brotthogg",
     "albums": [
@@ -1691,6 +1703,11 @@
           "Progressive Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "Titanblood",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

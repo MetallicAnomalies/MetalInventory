@@ -2848,6 +2848,11 @@
           "Synthwave Chiptune",
           "Chiptune"
         ]
+      },
+      {
+        "name": "Computer Metal",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3544,6 +3549,18 @@
       "Alternative Rock",
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "raisedoncandy",
+    "displayName": "Raised On Candy",
+    "albums": [
+      {
+        "name": "Play Marbles On The Turnpike",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "rauhbein",
@@ -4319,6 +4336,18 @@
     "tags": [
       "Thrash Metal"
     ]
+  },
+  {
+    "normalizedName": "sundowner",
+    "displayName": "Sundowner",
+    "albums": [
+      {
+        "name": "Cesspool",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "ten",

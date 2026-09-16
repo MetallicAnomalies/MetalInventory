@@ -839,6 +839,11 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Birds Of Steel",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3589,6 +3594,18 @@
       "Experimental Doom",
       "Progressive Death Metal"
     ]
+  },
+  {
+    "normalizedName": "phalangst",
+    "displayName": "Phal:Angst",
+    "albums": [
+      {
+        "name": "Minor Tremors",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "philleann",
