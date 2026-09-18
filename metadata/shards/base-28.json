@@ -3903,10 +3903,18 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "Flesh",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Metalcore"
+      "Metalcore",
+      "Brutal Death Metal"
     ]
   },
   {
@@ -5555,6 +5563,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Deófol-Cræft",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -5789,10 +5804,22 @@
         "name": "Descent Into Darkness",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Final Warning",
+        "year": "2026",
+        "genres": [
+          "Blackened Speed Punk",
+          "Thrash Metal",
+          "Punk"
+        ]
       }
     ],
     "tags": [
-      "Blackened Thrash Metal"
+      "Blackened Thrash Metal",
+      "Blackened Speed Punk",
+      "Thrash Metal",
+      "Punk"
     ]
   },
   {

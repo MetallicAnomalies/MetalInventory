@@ -333,12 +333,22 @@
         "genres": [
           "Technical Deathcore"
         ]
+      },
+      {
+        "name": "Tales from the Womb of Elsewhere",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
       }
     ],
     "tags": [
       "Technical Deathcore",
       "Deathcore",
-      "Death Metal"
+      "Death Metal",
+      "Black Metal",
+      "Ambient"
     ]
   },
   {
@@ -4333,6 +4343,13 @@
         "genres": [
           "Progressive Metal",
           "Prog Rock"
+        ]
+      },
+      {
+        "name": "Live At Rock Hard Festival 2025",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
         ]
       }
     ],

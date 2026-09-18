@@ -1806,10 +1806,18 @@
         "genres": [
           "Extreme Power Metal"
         ]
+      },
+      {
+        "name": "Gravity",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Extreme Power Metal"
+      "Extreme Power Metal",
+      "Melodic Death Metal"
     ]
   },
   {
@@ -4697,6 +4705,22 @@
     ]
   },
   {
+    "normalizedName": "substancemorte",
+    "displayName": "Substance Morte",
+    "albums": [
+      {
+        "name": "Ad Nauseam",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "sufferyourself",
     "displayName": "Suffer Yourself",
     "albums": [
@@ -4754,6 +4778,29 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "takevøth",
+    "displayName": "Tåkevøth",
+    "albums": [
+      {
+        "name": "Tåkevøth",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Alt Lys Slukkes",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

@@ -211,6 +211,22 @@
     ]
   },
   {
+    "normalizedName": "amanuensis",
+    "displayName": "Amanuensis",
+    "albums": [
+      {
+        "name": "The Seventh Seal",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "ammit",
     "displayName": "Ammit",
     "origin": "CL",
@@ -1097,6 +1113,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "carrionfeeder",
+    "displayName": "Carrion Feeder",
+    "albums": [
+      {
+        "name": "Out of the Crypt",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -3962,6 +3994,24 @@
     "tags": [
       "Death Metal",
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "postluven",
+    "displayName": "Postluven",
+    "albums": [
+      {
+        "name": "Abraxas",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

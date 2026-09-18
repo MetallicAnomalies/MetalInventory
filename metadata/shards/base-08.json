@@ -21,6 +21,22 @@
     ]
   },
   {
+    "normalizedName": "abartachdaedra",
+    "displayName": "Abartach/Daedra",
+    "albums": [
+      {
+        "name": "Abyssal Terror; Sanguine Regret",
+        "year": "2026",
+        "genres": [
+          "Black Metal | Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal | Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "absentinbody",
     "displayName": "Absent In Body",
     "albums": [
@@ -3862,11 +3878,19 @@
         "name": "Septic Tomb EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Waiting to Die",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "New Wave Of British Heavy",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -4666,6 +4690,22 @@
       {
         "name": "Operation: Crash Course",
         "year": "2010",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "tohil",
+    "displayName": "Töhil",
+    "albums": [
+      {
+        "name": "Spells of the Great Judges",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]

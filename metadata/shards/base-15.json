@@ -468,6 +468,22 @@
     ]
   },
   {
+    "normalizedName": "circleofashes",
+    "displayName": "Circle of Ashes",
+    "albums": [
+      {
+        "name": "Patriotism",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "clouds",
     "displayName": "Clouds",
     "origin": "GB",
@@ -2641,6 +2657,13 @@
     "albums": [
       {
         "name": "Sǫgur frá Norðfirði",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Blóðsvǫrr",
         "year": "2026",
         "genres": [
           "Black Metal"

@@ -3444,6 +3444,24 @@
     ]
   },
   {
+    "normalizedName": "meret",
+    "displayName": "Meret",
+    "albums": [
+      {
+        "name": "Meret",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Melodic Black Metal",
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Melodic Black Metal",
+      "Melodic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "miserysomen",
     "displayName": "Misery's Omen",
     "albums": [
@@ -5422,6 +5440,22 @@
       "Rock"
     ],
     "origin": "AM"
+  },
+  {
+    "normalizedName": "visceroth",
+    "displayName": "Visceroth",
+    "albums": [
+      {
+        "name": "Promo 2026",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "wakeneyes",

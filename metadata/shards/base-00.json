@@ -308,6 +308,13 @@
         "genres": [
           "Symphonic Doom Metal"
         ]
+      },
+      {
+        "name": "Don't Follow My Steps",
+        "year": "2026",
+        "genres": [
+          "Symphonic Doom Metal"
+        ]
       }
     ],
     "tags": [
@@ -522,6 +529,22 @@
     "tags": [
       "Heavy Metal",
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "arozza",
+    "displayName": "Arozza",
+    "albums": [
+      {
+        "name": "Sacru è Prufanu",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3422,6 +3445,22 @@
     ],
     "tags": [
       "Grindcore"
+    ]
+  },
+  {
+    "normalizedName": "tamang",
+    "displayName": "Tamang",
+    "albums": [
+      {
+        "name": "The Gate of Nanna",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

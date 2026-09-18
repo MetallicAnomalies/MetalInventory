@@ -190,6 +190,22 @@
     ]
   },
   {
+    "normalizedName": "archaiclands",
+    "displayName": "Archaic Lands",
+    "albums": [
+      {
+        "name": "Demo 2026",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "artep",
     "displayName": "Artep",
     "albums": [
@@ -4349,6 +4365,22 @@
     "tags": [
       "Progressive Metal",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "thylegacy",
+    "displayName": "Thy Legacy",
+    "albums": [
+      {
+        "name": "The Call",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {

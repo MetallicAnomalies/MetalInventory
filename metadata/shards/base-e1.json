@@ -769,11 +769,19 @@
         "genres": [
           "Stoner Doom Metal"
         ]
+      },
+      {
+        "name": "Ritual",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Stoner Doom Metal",
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -1943,6 +1951,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "gethsemanesomen",
+    "displayName": "Gethsemane's Omen",
+    "albums": [
+      {
+        "name": "Apostasy of the Lord's Elect",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
     ]
   },
   {

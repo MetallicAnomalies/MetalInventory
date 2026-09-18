@@ -508,6 +508,32 @@
     ]
   },
   {
+    "normalizedName": "blasphemycrushed",
+    "displayName": "Blasphemy Crushed",
+    "albums": [
+      {
+        "name": "The Beast Rejected",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "War For The Holy Faith",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "bloodhunter",
     "displayName": "BloodHunter",
     "origin": "ES",
@@ -2378,13 +2404,22 @@
           "Gothic Metal",
           "Industrial Metal"
         ]
+      },
+      {
+        "name": "The Screams That Come",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
       "Gothic Metal",
       "Gothic Doom Metal",
       "Black Metal",
-      "Industrial Metal"
+      "Industrial Metal",
+      "Rock"
     ]
   },
   {

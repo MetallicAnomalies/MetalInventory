@@ -444,6 +444,26 @@
     ]
   },
   {
+    "normalizedName": "burialsite",
+    "displayName": "Burial Site",
+    "albums": [
+      {
+        "name": "Deathdrone",
+        "year": "2026",
+        "genres": [
+          "Death Drone",
+          "Doom Metal",
+          "Drone"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Drone",
+      "Doom Metal",
+      "Drone"
+    ]
+  },
+  {
     "normalizedName": "byatis",
     "displayName": "Byatis",
     "albums": [
@@ -1121,6 +1141,24 @@
       }
     ],
     "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "cutted",
+    "displayName": "Cutted",
+    "albums": [
+      {
+        "name": "Linchamento de Cristo",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
       "Thrash Metal"
     ]
   },
@@ -1812,6 +1850,13 @@
       },
       {
         "name": "Setting Course",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "The Day the Earth Went Dark",
         "year": "2026",
         "genres": [
           "Heavy Metal"

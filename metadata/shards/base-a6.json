@@ -1479,6 +1479,24 @@
     ]
   },
   {
+    "normalizedName": "dungeons",
+    "displayName": "Dungeons",
+    "albums": [
+      {
+        "name": "Black Keep",
+        "year": "2026",
+        "genres": [
+          "Sludge Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "esophageal",
     "displayName": "Esophageal",
     "albums": [
@@ -4236,6 +4254,22 @@
     ],
     "tags": [
       "Pagan Folk"
+    ]
+  },
+  {
+    "normalizedName": "solitudeembrace",
+    "displayName": "Solitude Embrace",
+    "albums": [
+      {
+        "name": "Dolor Perpetus",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

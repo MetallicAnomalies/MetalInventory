@@ -1767,9 +1767,18 @@
         "name": "From Hell EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "From Hell",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "hyperionaus",
@@ -2359,6 +2368,28 @@
       "Funk / Soul",
       "Reggae",
       "Folk, World, & Country"
+    ]
+  },
+  {
+    "normalizedName": "mourningsouls",
+    "displayName": "Mourning Souls",
+    "albums": [
+      {
+        "name": "Black Fear",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Drone Experimental",
+          "Noise Experimental",
+          "Experimental"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Drone Experimental",
+      "Noise Experimental",
+      "Experimental"
     ]
   },
   {

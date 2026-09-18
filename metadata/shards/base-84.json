@@ -3879,6 +3879,13 @@
         "name": "XIII: Sárga erdő",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Búcsú a piros madártól",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Metal"
+        ]
       }
     ],
     "tags": [
@@ -3890,7 +3897,8 @@
       "Avantgarde Metal",
       "Folk Metal",
       "Progressive Metal",
-      "Death Metal"
+      "Death Metal",
+      "Avant-garde Metal"
     ]
   },
   {

@@ -16,6 +16,22 @@
     ]
   },
   {
+    "normalizedName": "adversaria",
+    "displayName": "Adversaria",
+    "albums": [
+      {
+        "name": "Reliquae",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "albinoslug",
     "displayName": "Albino Slug",
     "albums": [
@@ -3157,11 +3173,19 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Devastated By Mankind",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Christian Reggae"
+      "Christian Reggae",
+      "Brutal Death Metal"
     ]
   },
   {
@@ -4077,6 +4101,22 @@
     "tags": [
       "Atmospheric Death",
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "tailgunners",
+    "displayName": "Tailgunners",
+    "albums": [
+      {
+        "name": "Between Dimensions",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {

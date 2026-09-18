@@ -630,6 +630,24 @@
     ]
   },
   {
+    "normalizedName": "darkgoat",
+    "displayName": "Dark Goat",
+    "albums": [
+      {
+        "name": "Do What Thou Wilt Shall Be the Whole of the Law",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "darkhorizon",
     "displayName": "Dark Horizon",
     "albums": [
@@ -2725,6 +2743,26 @@
     ]
   },
   {
+    "normalizedName": "magicmayhem",
+    "displayName": "Magic & Mayhem",
+    "albums": [
+      {
+        "name": "Darkest Hours",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metalcore",
+          "Gothic Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metalcore",
+      "Gothic Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "mallevsmaleficarvm",
     "displayName": "Mallevs Maleficarvm",
     "albums": [
@@ -4761,6 +4799,15 @@
           "Thrash Metal",
           "Alternative"
         ]
+      },
+      {
+        "name": "Dead Inside of Me",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Thrash Heavy Metal",
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -4769,7 +4816,8 @@
       "Metalcore",
       "Heavy Metal",
       "Groove Metal",
-      "Rock"
+      "Rock",
+      "Thrash Heavy Metal"
     ]
   },
   {

@@ -147,10 +147,20 @@
         "genres": [
           "Progressive Death Metal"
         ]
+      },
+      {
+        "name": "Surprise, surprise",
+        "year": "2026",
+        "genres": [
+          "Progressive Technical Death Metal",
+          "Fusion"
+        ]
       }
     ],
     "tags": [
-      "Progressive Death Metal"
+      "Progressive Death Metal",
+      "Progressive Technical Death Metal",
+      "Fusion"
     ]
   },
   {
@@ -520,6 +530,24 @@
       "Math Rock",
       "Progressive Metal",
       "Djent"
+    ]
+  },
+  {
+    "normalizedName": "azan",
+    "displayName": "Azan",
+    "albums": [
+      {
+        "name": "Gods of Death Heralding the End",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -1818,6 +1846,24 @@
     ],
     "tags": [
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "dødspell",
+    "displayName": "Død Spell",
+    "albums": [
+      {
+        "name": "Rehearsal 08.02.2026",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dungeon Synth"
     ]
   },
   {

@@ -512,6 +512,24 @@
     ]
   },
   {
+    "normalizedName": "blasphegenocidicsadowar",
+    "displayName": "Blasphegenocidic Sadowar",
+    "albums": [
+      {
+        "name": "Icon of Carnage",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "bloodmores",
     "displayName": "Bloodmores",
     "albums": [
@@ -965,6 +983,24 @@
     ],
     "tags": [
       "Post-Metal"
+    ]
+  },
+  {
+    "normalizedName": "conspiracybeneath",
+    "displayName": "Conspiracy Beneath",
+    "albums": [
+      {
+        "name": "Dark Open Secrets",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -3394,11 +3430,22 @@
           "Brutal Death Metal",
           "Deathcore"
         ]
+      },
+      {
+        "name": "Murderous Intent",
+        "year": "2026",
+        "genres": [
+          "Slam Hardcore",
+          "Brutal Death Metal",
+          "Hardcore"
+        ]
       }
     ],
     "tags": [
       "Brutal Death Metal",
-      "Deathcore"
+      "Deathcore",
+      "Slam Hardcore",
+      "Hardcore"
     ]
   },
   {
@@ -4073,11 +4120,20 @@
         "name": "Beyond Spacetime",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Time to Pay",
+        "year": "2026",
+        "genres": [
+          "Progressive Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Power Metal"
+      "Power Metal",
+      "Progressive Power Metal"
     ]
   },
   {

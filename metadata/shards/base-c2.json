@@ -3213,6 +3213,35 @@
     ]
   },
   {
+    "normalizedName": "mutantsexdemon",
+    "displayName": "Mutant Sex Demon",
+    "albums": [
+      {
+        "name": "Nightmare Infusion",
+        "year": "2026",
+        "genres": [
+          "Black Punk",
+          "Heavy Metal",
+          "Punk"
+        ]
+      },
+      {
+        "name": "Ex-Demon",
+        "year": "2026",
+        "genres": [
+          "Black Punk",
+          "Heavy Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Punk",
+      "Heavy Metal",
+      "Punk"
+    ]
+  },
+  {
     "normalizedName": "natur",
     "displayName": "Natur",
     "albums": [
@@ -4319,6 +4348,24 @@
     ]
   },
   {
+    "normalizedName": "serpentpriest",
+    "displayName": "Serpent Priest",
+    "albums": [
+      {
+        "name": "Serpent Priest",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "solareruption",
     "displayName": "Solar Eruption",
     "albums": [
@@ -5182,6 +5229,22 @@
       "Alternative Rock",
       "Speed Metal",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "vargrnocthyrr",
+    "displayName": "Vargr Nocthyrr",
+    "albums": [
+      {
+        "name": "The One Who Shuns The Celestial Shine",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

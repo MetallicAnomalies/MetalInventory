@@ -417,6 +417,36 @@
     ]
   },
   {
+    "normalizedName": "biathanatos",
+    "displayName": "Biathanatos",
+    "albums": [
+      {
+        "name": "Destruction of Doctrine",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Lord of the Red Land",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Deep Down in Dark Demonic Depression",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "billward",
     "displayName": "Bill Ward",
     "albums": [
@@ -2001,6 +2031,24 @@
     ]
   },
   {
+    "normalizedName": "hzfuzz",
+    "displayName": "Hz Fuzz",
+    "albums": [
+      {
+        "name": "2026 F.T.W. Live",
+        "year": "2026",
+        "genres": [
+          "Thrash Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Groove Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "illbedamned",
     "displayName": "I'll Be Damned",
     "albums": [
@@ -2774,6 +2822,24 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "moosegut",
+    "displayName": "Moosegut",
+    "albums": [
+      {
+        "name": "He the Beast & Coyote 'Ol",
+        "year": "2026",
+        "genres": [
+          "Folk Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Folk Black Metal",
+      "Black Metal"
     ]
   },
   {

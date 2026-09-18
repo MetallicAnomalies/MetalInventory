@@ -1583,6 +1583,24 @@
     ]
   },
   {
+    "normalizedName": "frostbitten",
+    "displayName": "Frostbitten",
+    "albums": [
+      {
+        "name": "Sivár föld ura",
+        "year": "2026",
+        "genres": [
+          "Depressive Post-Black Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Post-Black Metal",
+      "Post-Black Metal"
+    ]
+  },
+  {
     "normalizedName": "funeralcult",
     "displayName": "Funeral Cult",
     "albums": [
@@ -4049,6 +4067,24 @@
       "Electronic",
       "Grime",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "threnovar",
+    "displayName": "Threnovar",
+    "albums": [
+      {
+        "name": "Forgotten",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Doom Metal",
+      "Doom Metal"
     ]
   },
   {

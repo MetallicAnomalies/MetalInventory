@@ -999,6 +999,24 @@
     ]
   },
   {
+    "normalizedName": "demonikholokaust",
+    "displayName": "Demonik Holokaust",
+    "albums": [
+      {
+        "name": "Kursed Krematorium",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "detevigaleendet",
     "displayName": "Det Eviga Leendet",
     "albums": [
@@ -1319,11 +1337,20 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Accursed Bestial Sacrament",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "Black Death Metal"
     ]
   },
   {

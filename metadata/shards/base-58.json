@@ -5046,11 +5046,20 @@
           "Power Metal",
           "A Cappella"
         ]
+      },
+      {
+        "name": "Falling with the Night",
+        "year": "2026",
+        "genres": [
+          "A Cappella Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Power Metal",
-      "A Cappella"
+      "A Cappella",
+      "A Cappella Power Metal"
     ]
   },
   {

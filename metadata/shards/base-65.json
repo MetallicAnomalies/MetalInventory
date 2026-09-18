@@ -905,11 +905,20 @@
           "Post-Metal",
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "Exequial",
+        "year": "2026",
+        "genres": [
+          "Sludge Post-Metal",
+          "Post-Metal"
+        ]
       }
     ],
     "tags": [
       "Post-Metal",
-      "Sludge Metal"
+      "Sludge Metal",
+      "Sludge Post-Metal"
     ]
   },
   {
@@ -2110,6 +2119,24 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "jointhunter",
+    "displayName": "Jointhunter",
+    "albums": [
+      {
+        "name": "The World Below is Ours",
+        "year": "2026",
+        "genres": [
+          "Groove Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {

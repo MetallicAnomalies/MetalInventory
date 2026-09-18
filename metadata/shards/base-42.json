@@ -287,6 +287,24 @@
     ]
   },
   {
+    "normalizedName": "asquanderedpotential",
+    "displayName": "A Squandered Potential",
+    "albums": [
+      {
+        "name": "Pure Catharsis",
+        "year": "2026",
+        "genres": [
+          "Progressive Technical Death Metal",
+          "Technical Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Technical Death Metal",
+      "Technical Death Metal"
+    ]
+  },
+  {
     "normalizedName": "atritas",
     "displayName": "Atritas",
     "albums": [
@@ -5125,6 +5143,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "thewithering",
+    "displayName": "The Withering",
+    "albums": [
+      {
+        "name": "Demo I.-The Unknown Dungeon",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
   },
   {
     "normalizedName": "thisisendless",

@@ -662,6 +662,24 @@
     ]
   },
   {
+    "normalizedName": "commotion",
+    "displayName": "Commotion",
+    "albums": [
+      {
+        "name": "The Eldritch Tales",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "contemptusa",
     "displayName": "Contempt (Usa)",
     "albums": [
@@ -3765,10 +3783,18 @@
         "name": "Nychta Psychis",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Dødheimsgard",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avantgarde Black",
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -4053,6 +4079,24 @@
       "Speed Metal",
       "Thrash Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "меланхолиум",
+    "displayName": "Меланхолиум",
+    "albums": [
+      {
+        "name": "Ни счастья, ни мечты",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Doom Metal"
     ]
   }
 ]

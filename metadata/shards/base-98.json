@@ -1703,6 +1703,24 @@
     ]
   },
   {
+    "normalizedName": "doglock",
+    "displayName": "Doglock",
+    "albums": [
+      {
+        "name": "Year of tha Dog",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "dreichmere",
     "displayName": "Dreichmere",
     "albums": [
@@ -2811,6 +2829,22 @@
     "tags": [
       "Melodic Heavy",
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "lesmiserables",
+    "displayName": "Les Misérables",
+    "albums": [
+      {
+        "name": "Demo Omen",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

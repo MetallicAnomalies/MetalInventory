@@ -607,12 +607,23 @@
           "Crossover Hardcore",
           "Hardcore"
         ]
+      },
+      {
+        "name": "Live Off the Floor",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover Crust Punk",
+          "Crust Punk"
+        ]
       }
     ],
     "tags": [
       "Thrash Metal",
       "Crossover Hardcore",
-      "Hardcore"
+      "Hardcore",
+      "Crossover Crust Punk",
+      "Crust Punk"
     ]
   },
   {
@@ -3728,6 +3739,24 @@
     "tags": [
       "Thrash Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "vilevexxer",
+    "displayName": "Vïle Vexxer",
+    "albums": [
+      {
+        "name": "Bask in the Sïn",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Speed Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

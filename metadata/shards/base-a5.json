@@ -232,6 +232,29 @@
     ]
   },
   {
+    "normalizedName": "anchoret",
+    "displayName": "Anchoret",
+    "albums": [
+      {
+        "name": "Sheol",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
+      },
+      {
+        "name": "Apocrypha",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "anthemon",
     "displayName": "Anthemon",
     "origin": "FR",
@@ -909,6 +932,26 @@
       "Pop Rock",
       "Soft Rock",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "chumbo",
+    "displayName": "Chumbo",
+    "albums": [
+      {
+        "name": "Maníaco",
+        "year": "2026",
+        "genres": [
+          "Heavy Punk",
+          "Speed Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Punk",
+      "Speed Metal",
+      "Punk"
     ]
   },
   {

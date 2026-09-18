@@ -377,6 +377,13 @@
         "genres": [
           "Blackened Thrash Metal"
         ]
+      },
+      {
+        "name": "Hitman",
+        "year": "2026",
+        "genres": [
+          "Blackened Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -573,6 +580,22 @@
     "tags": [
       "Alternative Rock",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "bloodygoatkommando",
+    "displayName": "Bloodygoat Kommando",
+    "albums": [
+      {
+        "name": "Supernova Tenebrae",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {
@@ -1446,6 +1469,13 @@
       {
         "name": "Pray For A Lie",
         "year": "2018",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      },
+      {
+        "name": "Second Chance",
+        "year": "2026",
         "genres": [
           "Brutal Death Metal"
         ]

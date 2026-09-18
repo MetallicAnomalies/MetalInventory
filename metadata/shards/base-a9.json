@@ -2587,6 +2587,22 @@
     ]
   },
   {
+    "normalizedName": "gauntletring",
+    "displayName": "Gauntlet Ring",
+    "albums": [
+      {
+        "name": "Raiders",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "hammr",
     "displayName": "Hammr",
     "albums": [
@@ -3022,6 +3038,24 @@
       "Pagan Black Metal",
       "Doom Metal",
       "Neofolk"
+    ]
+  },
+  {
+    "normalizedName": "jadedentity",
+    "displayName": "Jaded Entity",
+    "albums": [
+      {
+        "name": "Phantom Doomsday",
+        "year": "2026",
+        "genres": [
+          "Doom Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -5099,6 +5133,24 @@
     ]
   },
   {
+    "normalizedName": "selvagem",
+    "displayName": "Selvagem",
+    "albums": [
+      {
+        "name": "Realidade Fictícia",
+        "year": "2026",
+        "genres": [
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Stoner Metal",
+      "Stoner Metal"
+    ]
+  },
+  {
     "normalizedName": "sertraline",
     "displayName": "Sertraline",
     "origin": "GB",
@@ -6172,6 +6224,24 @@
     ],
     "tags": [
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "хрен",
+    "displayName": "Хрен",
+    "albums": [
+      {
+        "name": "Мифическая реальность",
+        "year": "2026",
+        "genres": [
+          "Folk Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Folk Death Metal",
+      "Death Metal"
     ]
   },
   {

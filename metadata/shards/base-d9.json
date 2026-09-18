@@ -1586,6 +1586,22 @@
     ]
   },
   {
+    "normalizedName": "gravenn",
+    "displayName": "Gravenn",
+    "albums": [
+      {
+        "name": "Et in Umbralis",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "grevlar",
     "displayName": "Grevlar",
     "albums": [
@@ -2375,6 +2391,24 @@
     ],
     "tags": [
       "Industrial Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "magmount",
+    "displayName": "Magmount",
+    "albums": [
+      {
+        "name": "Chaos Return",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -4125,6 +4159,24 @@
       "Acoustic",
       "Folk Rock",
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "superspreader",
+    "displayName": "Super Spreader",
+    "albums": [
+      {
+        "name": "Trojan Force",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {

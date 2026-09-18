@@ -2345,6 +2345,22 @@
     ]
   },
   {
+    "normalizedName": "heretictriumph",
+    "displayName": "Heretic Triumph",
+    "albums": [
+      {
+        "name": "Condemned by Battle",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "hittman",
     "displayName": "Hittman",
     "albums": [
@@ -2479,6 +2495,24 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "immortalrite",
+    "displayName": "Immortal Rite",
+    "albums": [
+      {
+        "name": "Fleshveil Abyss",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

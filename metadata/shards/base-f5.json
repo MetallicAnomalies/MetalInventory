@@ -476,6 +476,22 @@
     ]
   },
   {
+    "normalizedName": "crenellation",
+    "displayName": "Crenellation",
+    "albums": [
+      {
+        "name": "Jane the Knight",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal with Folk influences"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal with Folk influences"
+    ]
+  },
+  {
     "normalizedName": "criticalsolution",
     "displayName": "Critical Solution",
     "albums": [
@@ -1815,6 +1831,13 @@
         "name": "My Time",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Preaching Destiny",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [

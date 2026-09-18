@@ -3243,6 +3243,22 @@
     ]
   },
   {
+    "normalizedName": "necromant",
+    "displayName": "Necromant",
+    "albums": [
+      {
+        "name": "Desecrating God's Black Blood",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "nexorum",
     "displayName": "nexorum",
     "origin": "NO",
@@ -4270,6 +4286,24 @@
     "tags": [
       "Black Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "undertakerofthedamned",
+    "displayName": "Undertaker of the Damned",
+    "albums": [
+      {
+        "name": "El triunfo de la Bestia",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

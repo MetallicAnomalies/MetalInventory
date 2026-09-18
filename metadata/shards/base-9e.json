@@ -4176,6 +4176,22 @@
     ]
   },
   {
+    "normalizedName": "sumofseven",
+    "displayName": "Sum of Seven",
+    "albums": [
+      {
+        "name": "Rain",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "templeofbrutality",
     "displayName": "Temple Of Brutality",
     "albums": [
@@ -4661,6 +4677,22 @@
     "tags": [
       "Atmospheric Sludge Metal",
       "Post-Metal"
+    ]
+  },
+  {
+    "normalizedName": "voxalimbus",
+    "displayName": "Vox a Limbus",
+    "albums": [
+      {
+        "name": "The Third Gate",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
     ]
   },
   {

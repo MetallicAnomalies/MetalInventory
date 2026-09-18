@@ -2542,6 +2542,26 @@
     ]
   },
   {
+    "normalizedName": "lifeharm",
+    "displayName": "Lifeharm",
+    "albums": [
+      {
+        "name": "Rapuha (Old Toad)",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Ambient",
+          "Depressive Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Ambient",
+      "Depressive Black Metal",
+      "Ambient"
+    ]
+  },
+  {
     "normalizedName": "lillianaxe",
     "displayName": "Lillian Axe",
     "albums": [
@@ -5117,6 +5137,24 @@
     "tags": [
       "Post-Rock",
       "Atmospheric Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "wizardbloodywizard",
+    "displayName": "Wizard Bloody Wizard",
+    "albums": [
+      {
+        "name": "Mourning Vessel",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Doom Metal"
     ]
   },
   {

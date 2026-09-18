@@ -632,6 +632,24 @@
     "tags": []
   },
   {
+    "normalizedName": "bornwithwormsinside",
+    "displayName": "Born with Worms Inside",
+    "albums": [
+      {
+        "name": "Unfit",
+        "year": "2026",
+        "genres": [
+          "Grindcore Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "brokenglasssanctuary",
     "displayName": "Broken Glass Sanctuary",
     "albums": [
@@ -5382,6 +5400,22 @@
       "Trance",
       "Techno",
       "Euro House"
+    ]
+  },
+  {
+    "normalizedName": "unlicht",
+    "displayName": "Unlicht",
+    "albums": [
+      {
+        "name": "Pest",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

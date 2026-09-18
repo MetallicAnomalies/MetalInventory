@@ -858,9 +858,22 @@
         "name": "Apocalypse EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Apocalypse",
+        "year": "2026",
+        "genres": [
+          "Progressive Melodic Death Metalcore",
+          "Groove Metal",
+          "Metalcore"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Progressive Melodic Death Metalcore",
+      "Groove Metal",
+      "Metalcore"
+    ]
   },
   {
     "normalizedName": "burninginhell",
@@ -3863,6 +3876,14 @@
       },
       {
         "name": "The Witch King",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      },
+      {
+        "name": "The Dimmer's Call",
         "year": "2026",
         "genres": [
           "Death Doom Metal",

@@ -793,9 +793,20 @@
         "name": "Descending Reprisal",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Disobedience",
+        "year": "2026",
+        "genres": [
+          "Progressive Technical Death Metal",
+          "Technical Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Progressive Technical Death Metal",
+      "Technical Death Metal"
+    ]
   },
   {
     "normalizedName": "carlabruni",
@@ -907,11 +918,26 @@
           "Black Metal",
           "Metal"
         ]
+      },
+      {
+        "name": "Je t'aimerais, bientôt",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Ambient",
+          "Various",
+          "Raw Black Metal",
+          "Ambient",
+          "Various"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Metal"
+      "Metal",
+      "Atmospheric Ambient",
+      "Various",
+      "Raw Black Metal",
+      "Ambient"
     ]
   },
   {

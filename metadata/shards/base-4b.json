@@ -1776,6 +1776,24 @@
     ]
   },
   {
+    "normalizedName": "gravesomber",
+    "displayName": "Grave Somber",
+    "albums": [
+      {
+        "name": "Demo I",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "hideousdeformity",
     "displayName": "Hideous Deformity",
     "albums": [
@@ -3810,6 +3828,22 @@
       "Melodic Death Metal",
       "Melodic Metalcore",
       "Alternative  Rock"
+    ]
+  },
+  {
+    "normalizedName": "tenebroso",
+    "displayName": "Tenebroso",
+    "albums": [
+      {
+        "name": "A Jornada do Mago",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

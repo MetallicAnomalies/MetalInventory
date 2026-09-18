@@ -7,9 +7,18 @@
         "name": "Beyond Eternity",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Whisper in the Air",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Power Metal"
+    ]
   },
   {
     "normalizedName": "aggression",

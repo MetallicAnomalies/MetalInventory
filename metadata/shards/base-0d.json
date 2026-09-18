@@ -2531,6 +2531,22 @@
     ]
   },
   {
+    "normalizedName": "herkalanum",
+    "displayName": "Herkalanum",
+    "albums": [
+      {
+        "name": "Evilnight",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "horizonignited",
     "displayName": "Horizon Ignited",
     "origin": "FI",
@@ -2809,6 +2825,26 @@
     "tags": [
       "Black Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "jezebel",
+    "displayName": "Jezebel",
+    "albums": [
+      {
+        "name": "T.L.T. / War With Knives",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Hardcore Noise Rock",
+          "Noise Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Hardcore Noise Rock",
+      "Noise Rock"
     ]
   },
   {

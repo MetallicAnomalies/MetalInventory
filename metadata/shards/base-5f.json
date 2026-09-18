@@ -1765,10 +1765,18 @@
         "name": "Nothingness",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Down",
+        "year": "2026",
+        "genres": [
+          "Progressive Gothic Metal"
+        ]
       }
     ],
     "tags": [
-      "Gothic Metal"
+      "Gothic Metal",
+      "Progressive Gothic Metal"
     ]
   },
   {
@@ -2630,6 +2638,22 @@
     "tags": [
       "New Age",
       "Folk, World, & Country"
+    ]
+  },
+  {
+    "normalizedName": "kondzik",
+    "displayName": "Kondzik",
+    "albums": [
+      {
+        "name": "Excalibur",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Metal"
     ]
   },
   {

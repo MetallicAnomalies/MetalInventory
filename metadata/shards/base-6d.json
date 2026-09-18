@@ -2102,6 +2102,14 @@
           "Slam Brutal Death Metal",
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Beyond the End of all Things, the Relentless Standing Waves of Evisceration Oscillates Toward Uncreation",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2291,6 +2299,26 @@
       "Ambient Metal",
       "Black Metal",
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "mortuarycave",
+    "displayName": "Mortuary Cave",
+    "albums": [
+      {
+        "name": "Darkness Echoes",
+        "year": "2026",
+        "genres": [
+          "Death Sludge Metal",
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Sludge Metal",
+      "Doom Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {

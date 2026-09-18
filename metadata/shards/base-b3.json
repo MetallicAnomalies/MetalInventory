@@ -53,6 +53,24 @@
     ]
   },
   {
+    "normalizedName": "akephalos",
+    "displayName": "Akephalos",
+    "albums": [
+      {
+        "name": "Ars Goetia",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Symphonic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Symphonic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "aliquidlandscape",
     "displayName": "A Liquid Landscape",
     "origin": "NL",
@@ -1270,6 +1288,24 @@
     ],
     "tags": [
       "Experimental Death"
+    ]
+  },
+  {
+    "normalizedName": "crud",
+    "displayName": "Crud",
+    "albums": [
+      {
+        "name": "Human Decency",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -4704,6 +4740,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "ملك",
+    "displayName": ".م.ل.ك",
+    "albums": [
+      {
+        "name": "وسوس",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Black Death Metal",
+      "Death Metal"
     ]
   }
 ]

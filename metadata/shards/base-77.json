@@ -2464,11 +2464,35 @@
           "Gothic Metal",
           "Rock"
         ]
+      },
+      {
+        "name": "Yhdet jäljet",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
       "Gothic Metal",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "leavethepastbehind",
+    "displayName": "Leave the Past Behind",
+    "albums": [
+      {
+        "name": "Day of Their Destruction",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

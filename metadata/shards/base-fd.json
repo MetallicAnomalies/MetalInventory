@@ -752,10 +752,20 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Foreseen Systematic Malfunctions",
+        "year": "2026",
+        "genres": [
+          "Brutal Technical Death Metal",
+          "Technical Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Brutal Death Metal"
+      "Brutal Death Metal",
+      "Brutal Technical Death Metal",
+      "Technical Death Metal"
     ]
   },
   {

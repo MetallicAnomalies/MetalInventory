@@ -3890,6 +3890,24 @@
     ]
   },
   {
+    "normalizedName": "perverserites",
+    "displayName": "Perverse Rites",
+    "albums": [
+      {
+        "name": "Obscene Devotion",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "plasmapool",
     "displayName": "Plasma Pool",
     "albums": [
@@ -5142,6 +5160,14 @@
       },
       {
         "name": "Where The Night Veils God",
+        "year": "2026",
+        "genres": [
+          "Gothic Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "The Fire Beneath the Shroud",
         "year": "2026",
         "genres": [
           "Gothic Death Metal",

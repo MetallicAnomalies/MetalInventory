@@ -999,9 +999,18 @@
         "name": "Through The Bowels Of Ceaseless Dissonance",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Revolting Obsession",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "deathgoat",
@@ -1094,6 +1103,24 @@
     "tags": [
       "Crossover Thrash",
       "Hardcore Punk"
+    ]
+  },
+  {
+    "normalizedName": "dismorfia",
+    "displayName": "Dismorfia",
+    "albums": [
+      {
+        "name": "Live in Wolfsburg (Sick Feast 18/10/25)",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {
@@ -2887,6 +2914,26 @@
     ]
   },
   {
+    "normalizedName": "mortuarioadcutted",
+    "displayName": "Mortuário A.D./Cutted",
+    "albums": [
+      {
+        "name": "Aliança Macabra",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal | Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal | Death Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "mothermoon",
     "displayName": "Mother Moon",
     "origin": "CA",
@@ -2917,6 +2964,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "nevoamorbida",
+    "displayName": "Névoa Mórbida",
+    "albums": [
+      {
+        "name": "Ímpios",
+        "year": "2026",
+        "genres": [
+          "Death Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Black Metal",
+      "Black Metal"
     ]
   },
   {

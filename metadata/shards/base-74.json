@@ -5522,5 +5522,25 @@
       "Black Metal",
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "аллюзион",
+    "displayName": "Аллюзион",
+    "albums": [
+      {
+        "name": "Тени прошлых веков",
+        "year": "2026",
+        "genres": [
+          "Symphonic Heavy Metal",
+          "Gothic Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Heavy Metal",
+      "Gothic Heavy Metal",
+      "Heavy Metal"
+    ]
   }
 ]

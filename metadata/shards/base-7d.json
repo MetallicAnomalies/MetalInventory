@@ -2081,6 +2081,22 @@
           "Atmospheric Black Metal",
           "Ambient"
         ]
+      },
+      {
+        "name": "The Sigh of the Earth (Ambient)",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Ambient"
+        ]
+      },
+      {
+        "name": "My Miraculous Winter Stag",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Ambient"
+        ]
       }
     ],
     "tags": [
@@ -3860,6 +3876,22 @@
     ],
     "tags": [
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "onelastpain",
+    "displayName": "One Last Pain",
+    "albums": [
+      {
+        "name": "Autumn Depression",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {

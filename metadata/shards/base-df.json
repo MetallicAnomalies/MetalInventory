@@ -2193,6 +2193,22 @@
     ]
   },
   {
+    "normalizedName": "gloktha",
+    "displayName": "Gloktha",
+    "albums": [
+      {
+        "name": "Gloktha",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "greenday",
     "displayName": "Green Day",
     "origin": "US",
@@ -4246,6 +4262,26 @@
     ]
   },
   {
+    "normalizedName": "steelchainlinks",
+    "displayName": "Steel Chain Links",
+    "albums": [
+      {
+        "name": "Vampiric Abode",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Dungeon Synth Noise",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Dungeon Synth Noise",
+      "Noise"
+    ]
+  },
+  {
     "normalizedName": "supremacy",
     "displayName": "Supremacy",
     "origin": "SE",
@@ -4364,11 +4400,19 @@
           "Symphonic Black Metal",
           "Symphonic Death Metal"
         ]
+      },
+      {
+        "name": "Vivo Non Servi A Niente",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
       "Symphonic Black Metal",
-      "Symphonic Death Metal"
+      "Symphonic Death Metal",
+      "Grindcore"
     ]
   },
   {

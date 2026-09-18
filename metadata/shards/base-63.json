@@ -268,10 +268,20 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "The Holy Grail of Pussy",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {
@@ -2388,11 +2398,28 @@
           "Screamo",
           "Post-Metal"
         ]
+      },
+      {
+        "name": "I.L.Y",
+        "year": "2026",
+        "genres": [
+          "Post-Metal Screamo",
+          "Screamo"
+        ]
+      },
+      {
+        "name": "September 2025 (Demo Thirteen)",
+        "year": "2026",
+        "genres": [
+          "Post-Metal Screamo",
+          "Screamo"
+        ]
       }
     ],
     "tags": [
       "Screamo",
-      "Post-Metal"
+      "Post-Metal",
+      "Post-Metal Screamo"
     ]
   },
   {

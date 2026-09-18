@@ -2085,6 +2085,22 @@
     ]
   },
   {
+    "normalizedName": "finalsin",
+    "displayName": "Final Sin",
+    "albums": [
+      {
+        "name": "Before They Take Us",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "firstaidkit",
     "displayName": "First Aid Kit",
     "origin": "SE",
@@ -5074,6 +5090,22 @@
     ]
   },
   {
+    "normalizedName": "saturnalnecropolis",
+    "displayName": "Saturnal Necropolis",
+    "albums": [
+      {
+        "name": "Demo MMXXVI",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "saxorior",
     "displayName": "Saxorior",
     "albums": [
@@ -6403,6 +6435,14 @@
       },
       {
         "name": "When the Tide Subsides",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      },
+      {
+        "name": "Unite Them",
         "year": "2026",
         "genres": [
           "Heavy Metal",

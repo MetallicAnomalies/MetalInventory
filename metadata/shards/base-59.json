@@ -105,6 +105,26 @@
     ]
   },
   {
+    "normalizedName": "angel7",
+    "displayName": "Angel 7",
+    "albums": [
+      {
+        "name": "Tales of the Night Star",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Thrash Metal",
+          "Power Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Thrash Metal",
+      "Power Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "anuryzm",
     "displayName": "Anuryzm",
     "albums": [
@@ -1817,6 +1837,24 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "gibletbug",
+    "displayName": "Gibletbug",
+    "albums": [
+      {
+        "name": "Rotten Volumes",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {

@@ -504,6 +504,22 @@
     ]
   },
   {
+    "normalizedName": "bogumil",
+    "displayName": "Bogumil",
+    "albums": [
+      {
+        "name": "Demo I",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "bosque",
     "displayName": "Bosque",
     "albums": [
@@ -2381,6 +2397,24 @@
     ]
   },
   {
+    "normalizedName": "lilith",
+    "displayName": "Lilith",
+    "albums": [
+      {
+        "name": "September Demo",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "luxperpetua",
     "displayName": "Lux Perpetua",
     "origin": "PL",
@@ -2928,9 +2962,20 @@
         "name": "Night Terror EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Night Terror",
+        "year": "2026",
+        "genres": [
+          "Thrash Groove Metal",
+          "Groove Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Thrash Groove Metal",
+      "Groove Metal"
+    ]
   },
   {
     "normalizedName": "onheil",

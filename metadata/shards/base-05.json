@@ -163,6 +163,22 @@
     ]
   },
   {
+    "normalizedName": "ascensionsfall",
+    "displayName": "Ascensions Fall",
+    "albums": [
+      {
+        "name": "Shall Rise the Apparition",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "assemblent",
     "displayName": "Assemblent",
     "albums": [
@@ -2788,6 +2804,24 @@
     "tags": [
       "Drone Doom Metal",
       "Instrumental"
+    ]
+  },
+  {
+    "normalizedName": "moonbather",
+    "displayName": "Moonbather",
+    "albums": [
+      {
+        "name": "Wharfinger",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Rock"
     ]
   },
   {

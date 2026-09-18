@@ -2523,6 +2523,22 @@
     ]
   },
   {
+    "normalizedName": "koschcoroth",
+    "displayName": "Koschcoroth",
+    "albums": [
+      {
+        "name": "Taje českého ráje",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "kromlek",
     "displayName": "Kromlek",
     "origin": "DE",
@@ -3954,6 +3970,14 @@
           "Heavy Metal",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Never Too Late",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
@@ -4679,6 +4703,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "wolftower",
+    "displayName": "Wolftower",
+    "albums": [
+      {
+        "name": "Howls of the Forgotten",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

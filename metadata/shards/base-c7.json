@@ -658,6 +658,29 @@
     ]
   },
   {
+    "normalizedName": "bloodculture",
+    "displayName": "Blood Culture",
+    "albums": [
+      {
+        "name": "Blasphemy",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      },
+      {
+        "name": "Dimensions Through Space Time",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Metal"
+    ]
+  },
+  {
     "normalizedName": "blueoystercult",
     "displayName": "Blue Öyster Cult",
     "origin": "US",
@@ -4929,6 +4952,24 @@
     "tags": [
       "Progressive Death Metal",
       "Groove Thrash"
+    ]
+  },
+  {
+    "normalizedName": "unending",
+    "displayName": "Unending",
+    "albums": [
+      {
+        "name": "The Weight of Isolation",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Doom Metal"
     ]
   },
   {

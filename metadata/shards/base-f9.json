@@ -797,6 +797,28 @@
     ]
   },
   {
+    "normalizedName": "dirthead",
+    "displayName": "Dirthead",
+    "albums": [
+      {
+        "name": "My Own Summer",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Dark Ambient",
+          "Grindcore Goregrind",
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Dark Ambient",
+      "Grindcore Goregrind",
+      "Goregrind"
+    ]
+  },
+  {
     "normalizedName": "discordance",
     "displayName": "Discordance",
     "albums": [
@@ -1266,6 +1288,24 @@
     ],
     "tags": [
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "graveculture",
+    "displayName": "Grave Culture",
+    "albums": [
+      {
+        "name": "Grave Culture",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -2999,6 +3039,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "spellmaster",
+    "displayName": "Spellmaster",
+    "albums": [
+      {
+        "name": "Loved by the Sun",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
     ]
   },
   {

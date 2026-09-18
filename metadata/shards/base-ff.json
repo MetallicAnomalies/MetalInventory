@@ -1462,6 +1462,22 @@
     ]
   },
   {
+    "normalizedName": "flagellum",
+    "displayName": "Flagellum",
+    "albums": [
+      {
+        "name": "Consuming Oblivion",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "forlorntales",
     "displayName": "Forlorn Tales",
     "albums": [
@@ -4280,6 +4296,13 @@
         "name": "Call",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "The Hauled and the Waif",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
       }
     ],
     "tags": [

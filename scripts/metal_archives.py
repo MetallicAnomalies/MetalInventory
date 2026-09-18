@@ -5,8 +5,8 @@ Fetches upcoming metal releases from the Metal Archives AJAX endpoint
 and merges them into the existing metal_releases.json file.
 
 Modes:
-  pipeline (default) – today → +60 days.  Used in CI; avoids hammering
-                       the site for already-committed historical data.
+    pipeline (default) – today -7 days → +60 days.  Used in CI; avoids
+                                             hammering the site for older historical data.
   backfill           – today -14 days → +60 days.  Run locally once to
                        seed the JSON with recently-released albums.
 
@@ -22,7 +22,7 @@ import time
 import re
 import unicodedata
 import requests
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from bs4 import BeautifulSoup
 
 # ---------------------------------------------------------------------------
@@ -143,14 +143,14 @@ def _build_date_range(mode: str = "pipeline") -> tuple[str, str]:
     """
     Returns (from_date, to_date) as 'YYYY-MM-DD' strings.
 
-    pipeline  – today → +60 days (no lookback; CI-safe)
+    pipeline  – today -7 days → +60 days (CI-safe)
     backfill  – today -14 days → +60 days (local seeding run)
     """
-    today = datetime.utcnow()
+    today = datetime.now(timezone.utc)
     if mode == "backfill":
         from_date = (today - timedelta(days=14)).strftime("%Y-%m-%d")
     else:
-        from_date = today.strftime("%Y-%m-%d")
+        from_date = (today - timedelta(days=7)).strftime("%Y-%m-%d")
     to_date = (today + timedelta(days=60)).strftime("%Y-%m-%d")
     return from_date, to_date
 
@@ -182,7 +182,7 @@ def _fetch_page(session: requests.Session, from_date: str, to_date: str,
         "includeVersions": 0,
         "fromDate":       from_date,
         "toDate":         to_date,
-        "_":              int(datetime.utcnow().timestamp() * 1000),
+        "_":              int(datetime.now(timezone.utc).timestamp() * 1000),
     }
 
     req = requests.Request("GET", MA_AJAX_URL, headers=MA_HEADERS, params=params)
@@ -361,7 +361,7 @@ if __name__ == "__main__":
         "--mode",
         choices=["pipeline", "backfill"],
         default="pipeline",
-        help="pipeline: today→+60d (CI default).  backfill: -14d→+60d (local seeding).",
+        help="pipeline: -7d→+60d (CI default).  backfill: -14d→+60d (local seeding).",
     )
     args = parser.parse_args()
 

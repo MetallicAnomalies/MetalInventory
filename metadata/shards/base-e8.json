@@ -935,6 +935,24 @@
     ]
   },
   {
+    "normalizedName": "dazzle",
+    "displayName": "Dazzle",
+    "albums": [
+      {
+        "name": "LP Promo",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Crossover"
+    ]
+  },
+  {
     "normalizedName": "deadendfinland",
     "displayName": "Dead End Finland",
     "origin": "FI",
@@ -2348,6 +2366,22 @@
     ]
   },
   {
+    "normalizedName": "lunaaria",
+    "displayName": "Lunaaria",
+    "albums": [
+      {
+        "name": "Lunaaria",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "manafest",
     "displayName": "Manafest",
     "origin": "CA",
@@ -3590,6 +3624,26 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "sliimo",
+    "displayName": "Sliimo",
+    "albums": [
+      {
+        "name": "Sliimo (2026)",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Doom Metal",
+      "Stoner Doom Metal",
+      "Doom Metal"
     ]
   },
   {

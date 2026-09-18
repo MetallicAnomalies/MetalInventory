@@ -2156,11 +2156,19 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Void Sermon",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "Raw Black Metal"
     ]
   },
   {

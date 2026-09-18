@@ -911,6 +911,26 @@
     ]
   },
   {
+    "normalizedName": "crypticeternity",
+    "displayName": "Cryptic Eternity",
+    "albums": [
+      {
+        "name": "Bedtime Stories",
+        "year": "2026",
+        "genres": [
+          "Death Groove Metal",
+          "Thrash Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Groove Metal",
+      "Thrash Groove Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "daius",
     "displayName": "Daius",
     "albums": [
@@ -5102,6 +5122,22 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "urnalamentunnoctis",
+    "displayName": "Urna/Lamentun Noctis",
+    "albums": [
+      {
+        "name": "Victory from Underworld",
+        "year": "2026",
+        "genres": [
+          "Black Metal | Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal | Black Metal"
     ]
   },
   {

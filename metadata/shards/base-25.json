@@ -1171,6 +1171,36 @@
     ]
   },
   {
+    "normalizedName": "demons",
+    "displayName": "Demons",
+    "albums": [
+      {
+        "name": "Hell",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Nightmare",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Demonic",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "disgustibus",
     "displayName": "Disgustibus",
     "origin": "IT",
@@ -2531,6 +2561,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "moisturizer",
+    "displayName": "Moisturizer",
+    "albums": [
+      {
+        "name": "Second and Mystical",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore"
     ]
   },
   {
@@ -4646,11 +4692,20 @@
           "Doom Metal",
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Monolith",
+        "year": "2026",
+        "genres": [
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Stoner Metal"
+      "Stoner Metal",
+      "Doom Stoner Metal"
     ]
   },
   {

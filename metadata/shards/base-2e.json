@@ -3296,6 +3296,22 @@
     "tags": []
   },
   {
+    "normalizedName": "mevilnekrotica",
+    "displayName": "Mevil Nekrotica",
+    "albums": [
+      {
+        "name": "Нигде",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "moonsorrow",
     "displayName": "Moonsorrow",
     "origin": "FI",
@@ -4961,6 +4977,24 @@
     "tags": [
       "Death Metal",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "themythofmortifer",
+    "displayName": "The Myth of Mortifer",
+    "albums": [
+      {
+        "name": "Supernatural Stream",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

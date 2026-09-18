@@ -364,6 +364,13 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Insignificance",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3073,6 +3080,22 @@
     "tags": [
       "Black Metal with Doom Sludge elements",
       "Sludge elements"
+    ]
+  },
+  {
+    "normalizedName": "messedeminuit",
+    "displayName": "Messe de Minuit",
+    "albums": [
+      {
+        "name": "The Neophyte",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

@@ -3430,6 +3430,22 @@
     ]
   },
   {
+    "normalizedName": "silverhawk",
+    "displayName": "Silverhawk",
+    "albums": [
+      {
+        "name": "Re:Dusk",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "sinflower",
     "displayName": "Sinflower",
     "albums": [
@@ -3710,6 +3726,22 @@
     ]
   },
   {
+    "normalizedName": "sysi",
+    "displayName": "Sysi",
+    "albums": [
+      {
+        "name": "Sysi",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "terrorusasm",
     "displayName": "Terror (Usa-sm)",
     "albums": [
@@ -3857,6 +3889,26 @@
     "tags": [
       "Power Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "throughtheireyes",
+    "displayName": "Through Their Eyes",
+    "albums": [
+      {
+        "name": "And Forth Stepped the Apparatus",
+        "year": "2026",
+        "genres": [
+          "Slam Deathcore",
+          "Brutal Death Metal",
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Deathcore",
+      "Brutal Death Metal",
+      "Deathcore"
     ]
   },
   {

@@ -3419,10 +3419,20 @@
         "name": "Echoes Of A Forlorn Land",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Frost",
+        "year": "2026",
+        "genres": [
+          "Brutal Deathcore",
+          "Symphonic Deathcore"
+        ]
       }
     ],
     "tags": [
-      "Deathcore"
+      "Deathcore",
+      "Brutal Deathcore",
+      "Symphonic Deathcore"
     ]
   },
   {
@@ -5613,6 +5623,24 @@
     "tags": [
       "Heavy Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "valknut",
+    "displayName": "Valknut",
+    "albums": [
+      {
+        "name": "Gorgona Cave",
+        "year": "2026",
+        "genres": [
+          "Thrash Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Groove Metal",
+      "Groove Metal"
     ]
   },
   {

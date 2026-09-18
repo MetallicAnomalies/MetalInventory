@@ -160,6 +160,16 @@
           "Technical Death Metal",
           "Various"
         ]
+      },
+      {
+        "name": "The Coolest Cat",
+        "year": "2026",
+        "genres": [
+          "Metalcore Technical Death Metal",
+          "Various",
+          "Technical Death Metal",
+          "Various"
+        ]
       }
     ],
     "tags": [
@@ -1410,6 +1420,22 @@
     ]
   },
   {
+    "normalizedName": "dreadsight",
+    "displayName": "Dreadsight",
+    "albums": [
+      {
+        "name": "Running with Knives",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "dyingalone",
     "displayName": "Dying Alone",
     "albums": [
@@ -1515,6 +1541,22 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "enchantingrain",
+    "displayName": "Enchanting Rain",
+    "albums": [
+      {
+        "name": "Cornered",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {
@@ -2287,6 +2329,24 @@
     ],
     "tags": [
       "Deathcore"
+    ]
+  },
+  {
+    "normalizedName": "irga",
+    "displayName": "Irga",
+    "albums": [
+      {
+        "name": "Пепел",
+        "year": "2026",
+        "genres": [
+          "Progressive Melodic Black Metal",
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Melodic Black Metal",
+      "Melodic Black Metal"
     ]
   },
   {
@@ -4700,6 +4760,24 @@
     ],
     "tags": [
       "Industrial Metal"
+    ]
+  },
+  {
+    "normalizedName": "vergessen",
+    "displayName": "Vergessen",
+    "albums": [
+      {
+        "name": "The Seclusion (September Rework)",
+        "year": "2026",
+        "genres": [
+          "Depressive Atmospheric Black Metal",
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Atmospheric Black Metal",
+      "Atmospheric Black Metal"
     ]
   },
   {

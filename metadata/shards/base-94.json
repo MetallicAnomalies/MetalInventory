@@ -5256,5 +5256,23 @@
       "Melodic Death Metal"
     ],
     "origin": "ES"
+  },
+  {
+    "normalizedName": "тролльгнетель",
+    "displayName": "Тролль Гнёт Ель",
+    "albums": [
+      {
+        "name": "Трюлле",
+        "year": "2026",
+        "genres": [
+          "Folk Rock",
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Folk Rock",
+      "Folk Metal"
+    ]
   }
 ]

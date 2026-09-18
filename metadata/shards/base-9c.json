@@ -1694,6 +1694,24 @@
     ]
   },
   {
+    "normalizedName": "gnasch",
+    "displayName": "Gnasch",
+    "albums": [
+      {
+        "name": "Death an' Delirium",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "gonemage",
     "displayName": "Gonemage",
     "albums": [
@@ -1997,6 +2015,13 @@
         "name": "The Curse Of Khamun",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Escape from Hell",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [

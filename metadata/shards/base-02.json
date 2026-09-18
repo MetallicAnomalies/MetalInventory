@@ -1236,10 +1236,18 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Aghram",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Doom Metal"
     ]
   },
   {

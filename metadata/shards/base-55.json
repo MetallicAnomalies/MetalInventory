@@ -1036,6 +1036,22 @@
     ]
   },
   {
+    "normalizedName": "deterioration",
+    "displayName": "Deterioration",
+    "albums": [
+      {
+        "name": "Observe/Target/Eliminate",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "devilishimpressions",
     "displayName": "Devilish Impressions",
     "origin": "PL",
@@ -3551,6 +3567,22 @@
     "tags": [
       "Progressive Metal",
       "Shred"
+    ]
+  },
+  {
+    "normalizedName": "satanicdrugs",
+    "displayName": "Satanic Drugs",
+    "albums": [
+      {
+        "name": "Margolis",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

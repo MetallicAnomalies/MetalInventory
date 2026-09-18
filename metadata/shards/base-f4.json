@@ -664,6 +664,22 @@
     ]
   },
   {
+    "normalizedName": "ceremonialflames",
+    "displayName": "Ceremonial Flames",
+    "albums": [
+      {
+        "name": "Deceiving Illusions of Gamaliel",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "chaoscontrol",
     "displayName": "Chaos Control",
     "albums": [
@@ -1248,6 +1264,22 @@
     ],
     "tags": [
       "Deathgrind"
+    ]
+  },
+  {
+    "normalizedName": "goblinking",
+    "displayName": "Goblinking",
+    "albums": [
+      {
+        "name": "Goblinking 1",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {
@@ -4393,6 +4425,22 @@
     ]
   },
   {
+    "normalizedName": "srirudram",
+    "displayName": "Sri Rudram",
+    "albums": [
+      {
+        "name": "Har Har Mahadev",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "stake",
     "displayName": "Stake",
     "albums": [
@@ -4436,6 +4484,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "subsun",
+    "displayName": "Subsun",
+    "albums": [
+      {
+        "name": "Old Plague",
+        "year": "2026",
+        "genres": [
+          "Progressive Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Stoner Doom Metal",
+      "Doom Metal"
     ]
   },
   {

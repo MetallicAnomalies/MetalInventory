@@ -277,6 +277,22 @@
     ]
   },
   {
+    "normalizedName": "autodestrutivo",
+    "displayName": "Autodestrutivo",
+    "albums": [
+      {
+        "name": "Setembro Vermelho",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "avantasia",
     "displayName": "Avantasia",
     "origin": "DE",
@@ -4102,6 +4118,24 @@
     "tags": [
       "Stoner Metal",
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "southrise",
+    "displayName": "Southrise",
+    "albums": [
+      {
+        "name": "Rohad a Föld",
+        "year": "2026",
+        "genres": [
+          "Southern Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Southern Groove Metal",
+      "Groove Metal"
     ]
   },
   {
