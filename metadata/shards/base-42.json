@@ -1971,9 +1971,18 @@
         "name": "Nightmare Delirium EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Nightmare Delirium",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "habitualdefilement",

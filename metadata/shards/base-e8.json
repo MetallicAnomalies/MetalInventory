@@ -748,6 +748,24 @@
     ]
   },
   {
+    "normalizedName": "boor",
+    "displayName": "Boor",
+    "albums": [
+      {
+        "name": "The Stones Hold All Echoes",
+        "year": "2026",
+        "genres": [
+          "Black Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Groove Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "catch22",
     "displayName": "Catch 22",
     "albums": [
@@ -1609,6 +1627,24 @@
     "tags": [
       "Deathgrind",
       "Grindcore"
+    ]
+  },
+  {
+    "normalizedName": "grandbewitchment",
+    "displayName": "Grand Bewitchment",
+    "albums": [
+      {
+        "name": "Witchfyre Revelations",
+        "year": "2026",
+        "genres": [
+          "Death Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Black Metal",
+      "Black Metal"
     ]
   },
   {

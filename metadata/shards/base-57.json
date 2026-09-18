@@ -310,10 +310,18 @@
         "genres": [
           "Gothic Metal"
         ]
+      },
+      {
+        "name": "Bent by the Yoke",
+        "year": "2026",
+        "genres": [
+          "Progressive Gothic Metal"
+        ]
       }
     ],
     "tags": [
-      "Gothic Metal"
+      "Gothic Metal",
+      "Progressive Gothic Metal"
     ]
   },
   {
@@ -3792,6 +3800,26 @@
       "Punk Rock",
       "Contemporary Pop/rock",
       "80 S"
+    ]
+  },
+  {
+    "normalizedName": "priester",
+    "displayName": "Priester",
+    "albums": [
+      {
+        "name": "Iron Horse / Black Death",
+        "year": "2026",
+        "genres": [
+          "Heavy Speed Metal",
+          "Thrash Speed Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Speed Metal",
+      "Thrash Speed Metal",
+      "Speed Metal"
     ]
   },
   {

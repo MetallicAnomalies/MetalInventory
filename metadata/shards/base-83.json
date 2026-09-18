@@ -2473,6 +2473,22 @@
     ]
   },
   {
+    "normalizedName": "melancoliedudhampir",
+    "displayName": "Mélancolie du Dhampir",
+    "albums": [
+      {
+        "name": "Noblesse",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "morf",
     "displayName": "Morf",
     "albums": [
@@ -2551,6 +2567,24 @@
       "Heavy Metal",
       "Glam Metal",
       "Glam Rock"
+    ]
+  },
+  {
+    "normalizedName": "nihilzgul",
+    "displayName": "Nihilzgûl",
+    "albums": [
+      {
+        "name": "Ennui",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Ambient"
     ]
   },
   {

@@ -4233,6 +4233,16 @@
         "name": "Master, We Perish Re-Release",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Whole Wide World",
+        "year": "2026",
+        "genres": [
+          "Experimental Sludge Industrial",
+          "Doom Metal",
+          "Noise Industrial",
+          "Industrial"
+        ]
       }
     ],
     "tags": [
@@ -4244,7 +4254,10 @@
       "Doom Metal",
       "Experimental Metal",
       "Electronic",
-      "Power Electronics"
+      "Power Electronics",
+      "Experimental Sludge Industrial",
+      "Noise Industrial",
+      "Industrial"
     ]
   },
   {

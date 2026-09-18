@@ -1348,12 +1348,22 @@
           "Blackened Speed",
           "Punk Rock"
         ]
+      },
+      {
+        "name": "Forging the Steel",
+        "year": "2026",
+        "genres": [
+          "Black 'n' Roll Punk",
+          "Punk"
+        ]
       }
     ],
     "tags": [
       "Black 'N Roll",
       "Blackened Speed",
-      "Punk Rock"
+      "Punk Rock",
+      "Black 'n' Roll Punk",
+      "Punk"
     ]
   },
   {

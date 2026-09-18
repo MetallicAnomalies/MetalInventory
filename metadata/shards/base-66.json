@@ -426,9 +426,18 @@
         "name": "Unfairy Tales",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Unfairy Tale",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Symphonic Metal"
+    ]
   },
   {
     "normalizedName": "astrosaur",

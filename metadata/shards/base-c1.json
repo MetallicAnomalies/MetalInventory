@@ -4881,9 +4881,18 @@
         "name": "Daemonic Apotheosis",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Dæmonic Apotheosis",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "umount",

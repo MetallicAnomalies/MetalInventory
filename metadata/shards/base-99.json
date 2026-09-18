@@ -406,11 +406,20 @@
         "genres": [
           "Symphonic Power"
         ]
+      },
+      {
+        "name": "Your Vampire",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
       "Symphonic Power",
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Rock"
     ]
   },
   {
@@ -4675,6 +4684,24 @@
     "tags": [
       "Atmospheric Black Metal",
       "Ambient Metal"
+    ]
+  },
+  {
+    "normalizedName": "vicroyal",
+    "displayName": "V.I.C. Royal",
+    "albums": [
+      {
+        "name": "Venceremos",
+        "year": "2026",
+        "genres": [
+          "Groove Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal",
+      "Metalcore"
     ]
   },
   {

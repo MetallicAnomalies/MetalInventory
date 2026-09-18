@@ -37,6 +37,13 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "World of Decay",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -1193,10 +1200,20 @@
         "genres": [
           "Alternative"
         ]
+      },
+      {
+        "name": "Dark Sister",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
-      "Alternative"
+      "Alternative",
+      "Heavy Metal",
+      "Hard Rock"
     ]
   },
   {
@@ -3167,6 +3184,13 @@
     "albums": [
       {
         "name": "Celestial",
+        "year": "2026",
+        "genres": [
+          "Symphonic Progressive Metal"
+        ]
+      },
+      {
+        "name": "The Breath of Living Earth",
         "year": "2026",
         "genres": [
           "Symphonic Progressive Metal"

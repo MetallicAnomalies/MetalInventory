@@ -796,6 +796,22 @@
     ]
   },
   {
+    "normalizedName": "daysovyore",
+    "displayName": "Days ov Yore",
+    "albums": [
+      {
+        "name": "The Tale of Vlad Țepeș Part 2",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "deadwitches",
     "displayName": "Dead Witches",
     "origin": "US",
@@ -2363,6 +2379,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "metaldragon",
+    "displayName": "Metal Dragon",
+    "albums": [
+      {
+        "name": "Brothers of Metal",
+        "year": "2026",
+        "genres": [
+          "Melodic Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Heavy Metal"
     ]
   },
   {

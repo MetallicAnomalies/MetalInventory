@@ -1280,6 +1280,17 @@
         "name": "Aura Of Decay",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Disintegrate",
+        "year": "2026",
+        "genres": [
+          "Technical Death Metal",
+          "Progressive Death Thrash Metal",
+          "Alternative Rock",
+          "Thrash Metal",
+          "Alternative Rock"
+        ]
       }
     ],
     "tags": [
@@ -1288,7 +1299,10 @@
       "Electronic",
       "Industrial Metal",
       "Death Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Technical Death Metal",
+      "Progressive Death Thrash Metal",
+      "Alternative Rock"
     ]
   },
   {
@@ -3245,6 +3259,26 @@
     ]
   },
   {
+    "normalizedName": "sally",
+    "displayName": "Sally",
+    "albums": [
+      {
+        "name": "Re:Raign",
+        "year": "2026",
+        "genres": [
+          "Heavy Shred",
+          "Power Metal",
+          "Shred"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Shred",
+      "Power Metal",
+      "Shred"
+    ]
+  },
+  {
     "normalizedName": "scottmosher",
     "displayName": "Scott Mosher",
     "albums": [
@@ -4585,6 +4619,14 @@
         "genres": [
           "Neoclassical Power"
         ]
+      },
+      {
+        "name": "Hell or High Water",
+        "year": "2026",
+        "genres": [
+          "Neoclassical Power Metal",
+          "Shred"
+        ]
       }
     ],
     "tags": [
@@ -4592,7 +4634,9 @@
       "Heavy Metal",
       "Power Metal",
       "Neoclassical Metal",
-      "Glam Metal"
+      "Glam Metal",
+      "Neoclassical Power Metal",
+      "Shred"
     ]
   },
   {

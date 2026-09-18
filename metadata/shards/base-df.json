@@ -1444,6 +1444,24 @@
     ]
   },
   {
+    "normalizedName": "daemogog",
+    "displayName": "Daemogog",
+    "albums": [
+      {
+        "name": "Manifest Pulsing Sequelae",
+        "year": "2026",
+        "genres": [
+          "Experimental Death Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Death Black Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "darzamat",
     "displayName": "Darzamat",
     "origin": "PL",
@@ -3047,6 +3065,13 @@
       {
         "name": "Trve",
         "year": "2024",
+        "genres": [
+          "Sludge Metal"
+        ]
+      },
+      {
+        "name": "Thriving",
+        "year": "2026",
         "genres": [
           "Sludge Metal"
         ]

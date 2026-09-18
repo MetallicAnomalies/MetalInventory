@@ -128,6 +128,13 @@
         "genres": [
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "Solitude Solaire",
+        "year": "2026",
+        "genres": [
+          "Technical Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2330,11 +2337,20 @@
           "Doom Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Demo 2026",
+        "year": "2026",
+        "genres": [
+          "Doom Heavy Metal",
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Doom Heavy Metal"
     ]
   },
   {

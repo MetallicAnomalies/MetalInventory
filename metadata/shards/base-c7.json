@@ -644,6 +644,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Oh Come Night Eternal",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -1137,6 +1144,22 @@
       "Rhythm & Blues",
       "Psychedelic Rock",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "breedingchaos",
+    "displayName": "Breeding Chaos",
+    "albums": [
+      {
+        "name": "Cradle of the New Suns",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {

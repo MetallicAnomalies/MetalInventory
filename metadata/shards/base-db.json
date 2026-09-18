@@ -378,6 +378,22 @@
     ]
   },
   {
+    "normalizedName": "arepit",
+    "displayName": "À Répit",
+    "albums": [
+      {
+        "name": "Oltre il sentiero del tempo",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "arkan",
     "displayName": "Arkan",
     "origin": "FR",
@@ -2825,6 +2841,26 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "killbotgorgorattack",
+    "displayName": "Killbot & Gor Gor Attack!!",
+    "albums": [
+      {
+        "name": "Long Live the Kill",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Thrash Death Metal",
+      "Death Metal"
     ]
   },
   {

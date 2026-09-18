@@ -1910,6 +1910,22 @@
     ]
   },
   {
+    "normalizedName": "feldgrau",
+    "displayName": "Feldgrau",
+    "albums": [
+      {
+        "name": "Furor teutonicus",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "fieldsofthenephilim",
     "displayName": "Fields of the Nephilim",
     "origin": "GB",
@@ -2272,6 +2288,24 @@
     ],
     "tags": [
       "Industrial Heavy"
+    ]
+  },
+  {
+    "normalizedName": "gism",
+    "displayName": "G.I.S.M.",
+    "albums": [
+      {
+        "name": "Gas Burner Panic",
+        "year": "2026",
+        "genres": [
+          "Hardcore Punk",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Hardcore Punk",
+      "Heavy Metal"
     ]
   },
   {

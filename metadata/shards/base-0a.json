@@ -1142,12 +1142,21 @@
           "Thrash Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Here & Now",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Metal",
       "Thrash Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Death Thrash Metal"
     ]
   },
   {

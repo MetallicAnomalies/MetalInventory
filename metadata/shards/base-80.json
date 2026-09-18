@@ -272,9 +272,20 @@
         "name": "Prototype: Zero Hour EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Prototype: Zero Hour",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Heavy Thrash Metal",
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "apostolum",

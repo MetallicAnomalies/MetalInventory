@@ -719,11 +719,21 @@
           "Melodic Heavy",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Aqui estás",
+        "year": "2026",
+        "genres": [
+          "Melodic Heavy Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Heavy",
-      "Hard Rock"
+      "Hard Rock",
+      "Melodic Heavy Power Metal",
+      "Power Metal"
     ]
   },
   {

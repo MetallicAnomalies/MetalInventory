@@ -241,6 +241,14 @@
           "Brutal Death Metal",
           "Grindcore"
         ]
+      },
+      {
+        "name": "Despair",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
@@ -455,6 +463,22 @@
     ],
     "tags": [
       "Symphonic Power"
+    ]
+  },
+  {
+    "normalizedName": "amthrya",
+    "displayName": "Amthrÿa",
+    "albums": [
+      {
+        "name": "Onnen",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
