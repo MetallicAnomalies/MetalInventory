@@ -1376,6 +1376,11 @@
         "genres": [
           "Glam Rock"
         ]
+      },
+      {
+        "name": "The Complete Collection 1981-1984",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1425,6 +1430,18 @@
       "Heavy Metal",
       "Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "hexabrot",
+    "displayName": "Hexabrot",
+    "albums": [
+      {
+        "name": "Self-Similarity",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "hiddenmothers",

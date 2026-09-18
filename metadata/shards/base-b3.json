@@ -1851,6 +1851,18 @@
     ]
   },
   {
+    "normalizedName": "flamestrike",
+    "displayName": "Flamestrike",
+    "albums": [
+      {
+        "name": "The Unholy March",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "frozenwreath",
     "displayName": "Frozen Wreath",
     "albums": [
@@ -2166,6 +2178,11 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "Perfect World",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

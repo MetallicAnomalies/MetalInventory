@@ -4562,6 +4562,18 @@
     ]
   },
   {
+    "normalizedName": "vendanges",
+    "displayName": "Vendanges",
+    "albums": [
+      {
+        "name": "La Danse du Souvenir",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "voland",
     "displayName": "VoLaND",
     "origin": "IT",

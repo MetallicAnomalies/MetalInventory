@@ -617,6 +617,11 @@
           "Melodic Metalcore",
           "Metalcore"
         ]
+      },
+      {
+        "name": "As I Lay Dying",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -1264,6 +1269,18 @@
     "tags": [
       "Power Metal"
     ]
+  },
+  {
+    "normalizedName": "dethwish",
+    "displayName": "Dethwish",
+    "albums": [
+      {
+        "name": "Ruby",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "dieselking",
