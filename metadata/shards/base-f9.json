@@ -3529,6 +3529,11 @@
         "name": "Scent Of Dark",
         "year": "2021",
         "genres": []
+      },
+      {
+        "name": "From The Dark",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": []
@@ -3842,10 +3847,18 @@
         "name": "The Anthology Re-Release",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Underground Metal Vault: Chapter 1: The Anthology - Violation",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Heavy Metal"
     ]
   },
   {

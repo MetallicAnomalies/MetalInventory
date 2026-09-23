@@ -2060,6 +2060,11 @@
         "genres": [
           "Atmospheric Rock"
         ]
+      },
+      {
+        "name": "The Other Side",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -2420,6 +2425,18 @@
       "Progressive Metal",
       "Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "mothermorgana",
+    "displayName": "Mother Morgana",
+    "albums": [
+      {
+        "name": "Reflections Of A Sunken Mind",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "mydearaddiction",

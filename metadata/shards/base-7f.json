@@ -1812,6 +1812,18 @@
     ]
   },
   {
+    "normalizedName": "herbamate",
+    "displayName": "Herba Mate",
+    "albums": [
+      {
+        "name": "Bolide I & II",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "highlandglory",
     "displayName": "Highland Glory",
     "albums": [
@@ -3332,6 +3344,18 @@
       "Power Pop",
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "stricken",
+    "displayName": "Stricken",
+    "albums": [
+      {
+        "name": "From Dark Dimensions An Unspeakable Presence Awakens",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "tangorodream",

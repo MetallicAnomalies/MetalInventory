@@ -1807,6 +1807,11 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Dragonforce",
+        "year": "2027",
+        "genres": []
       }
     ],
     "tags": [
@@ -2824,6 +2829,11 @@
           "Stoner Metal",
           "Psychedelic Rock"
         ]
+      },
+      {
+        "name": "Doomsayer",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4320,6 +4330,18 @@
       "Heavy Metal",
       "Hard Rock"
     ]
+  },
+  {
+    "normalizedName": "sycomore",
+    "displayName": "Sycomore",
+    "albums": [
+      {
+        "name": "Degrade",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "tanner",
