@@ -757,6 +757,18 @@
     ]
   },
   {
+    "normalizedName": "bloodyinvasion",
+    "displayName": "Bloody Invasion",
+    "albums": [
+      {
+        "name": "Shadow Memoirs",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "bobseger",
     "displayName": "Bob Seger",
     "origin": "US",
@@ -2816,6 +2828,11 @@
       },
       {
         "name": "The Best Of Judas Priest",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Sad Wings Of Destiny 50th Anniversary Edition",
         "year": "2026",
         "genres": []
       }

@@ -63,6 +63,18 @@
     ]
   },
   {
+    "normalizedName": "adistortedutopia",
+    "displayName": "A Distorted Utopia",
+    "albums": [
+      {
+        "name": "An Heir To All The Ills Of Flesh",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "allthatremains",
     "displayName": "All That Remains",
     "origin": "US",
@@ -1285,6 +1297,11 @@
         "genres": [
           "Death Doom Metal"
         ]
+      },
+      {
+        "name": "Certain Uncertainties",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

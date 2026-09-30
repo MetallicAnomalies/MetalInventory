@@ -2095,11 +2095,21 @@
           "Doom Metal",
           "Americana"
         ]
+      },
+      {
+        "name": "On the Topic of Mass Extinction",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Americana"
+      "Americana",
+      "Death Metal",
+      "Sludge Metal"
     ]
   },
   {
