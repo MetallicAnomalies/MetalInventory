@@ -3151,6 +3151,18 @@
     ]
   },
   {
+    "normalizedName": "morbidintent",
+    "displayName": "Morbid Intent",
+    "albums": [
+      {
+        "name": "Marionettes EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "morpheustales",
     "displayName": "Morpheus Tales",
     "albums": [
@@ -4729,6 +4741,18 @@
       "Power Metal",
       "Thrash Metal"
     ]
+  },
+  {
+    "normalizedName": "valley",
+    "displayName": "Valley",
+    "albums": [
+      {
+        "name": "Sky Burial",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "vantagepoint",

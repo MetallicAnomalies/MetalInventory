@@ -551,6 +551,18 @@
     ]
   },
   {
+    "normalizedName": "autumntomb",
+    "displayName": "Autumn Tomb",
+    "albums": [
+      {
+        "name": "Autumn Tomb",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "baphometger",
     "displayName": "Baphomet (Ger)",
     "albums": [
@@ -645,6 +657,18 @@
     ]
   },
   {
+    "normalizedName": "bigwreck",
+    "displayName": "Big Wreck",
+    "albums": [
+      {
+        "name": "The Pleasure And The Greed 25th Anniversary Edition",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "blacktrip",
     "displayName": "Black Trip",
     "albums": [
@@ -715,6 +739,11 @@
           "Melodic Heavy",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "The Legion Awakens",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

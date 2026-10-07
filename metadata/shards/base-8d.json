@@ -1565,6 +1565,11 @@
         "genres": [
           "Post-Rock"
         ]
+      },
+      {
+        "name": "The End Of Purification",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4109,6 +4114,18 @@
     "tags": [
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "thief",
+    "displayName": "Thief",
+    "albums": [
+      {
+        "name": "Sermons From The Pit",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "tohar",

@@ -2789,6 +2789,11 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "The Annihilation Chalice",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3445,6 +3450,18 @@
     "tags": [
       "Funeral Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "sentries",
+    "displayName": "Sentries",
+    "albums": [
+      {
+        "name": "Disciples Of Void & Fire",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "solacelost",

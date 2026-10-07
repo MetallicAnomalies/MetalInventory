@@ -2098,6 +2098,11 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Inferno Descends",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3289,6 +3294,18 @@
     "tags": [
       "Us Power"
     ]
+  },
+  {
+    "normalizedName": "praelium",
+    "displayName": "Praelium",
+    "albums": [
+      {
+        "name": "The Weight Of Fear",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "primordial",

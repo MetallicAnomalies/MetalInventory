@@ -888,6 +888,18 @@
     ]
   },
   {
+    "normalizedName": "celavi",
+    "displayName": "Celavi",
+    "albums": [
+      {
+        "name": "Praelia EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "chiasma",
     "displayName": "Chiasma",
     "origin": "US",
@@ -3705,10 +3717,18 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "2 Way Fetid Split",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Brutal Death Metal"
+      "Brutal Death Metal",
+      "Death Metal"
     ]
   },
   {
