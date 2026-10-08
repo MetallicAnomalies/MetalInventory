@@ -304,11 +304,21 @@
         "genres": [
           "Blackened Death Metal"
         ]
+      },
+      {
+        "name": "Scorn Eternal",
+        "year": "2026",
+        "genres": [
+          "Death Black Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Blackened Death Metal",
-      "Death Metal"
+      "Death Metal",
+      "Death Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -2066,6 +2076,22 @@
     ]
   },
   {
+    "normalizedName": "heropass",
+    "displayName": "Heropass",
+    "albums": [
+      {
+        "name": "Skull Collector",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "hithlum",
     "displayName": "Hithlum",
     "albums": [
@@ -2648,6 +2674,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "moonthothdizzinessceltefoghopebehindthehills",
+    "displayName": "Moonthoth/Dizziness/Celtefog/Hope Behind the Hills",
+    "albums": [
+      {
+        "name": "The Void Communion",
+        "year": "2026",
+        "genres": [
+          "Black Metal | Black Metal | Pagan Black Metal | Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal | Black Metal | Pagan Black Metal | Melodic Black Metal"
+    ]
   },
   {
     "normalizedName": "myrsky",
@@ -3319,6 +3361,24 @@
     "tags": [
       "Alternative Rock",
       "Groove Metal"
+    ]
+  },
+  {
+    "normalizedName": "scheiterhaufen",
+    "displayName": "Scheiterhaufen",
+    "albums": [
+      {
+        "name": "Permafrost",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Doom Metal",
+      "Doom Metal"
     ]
   },
   {

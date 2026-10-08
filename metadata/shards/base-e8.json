@@ -1499,6 +1499,24 @@
     ]
   },
   {
+    "normalizedName": "excrementalscaphism",
+    "displayName": "Excremental Scaphism",
+    "albums": [
+      {
+        "name": "Government Funded Disfigurement",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "exorcism",
     "displayName": "Exorcism",
     "albums": [
@@ -2961,6 +2979,24 @@
     ]
   },
   {
+    "normalizedName": "obsequialsceptre",
+    "displayName": "Obsequial Sceptre",
+    "albums": [
+      {
+        "name": "Profanation Gnosis",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "octaviasperati",
     "displayName": "Octavia Sperati",
     "origin": "NO",
@@ -3163,12 +3199,20 @@
           "Neoclassical Metal",
           "Avantgarde Black"
         ]
+      },
+      {
+        "name": "Alignement Désastre",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Black Metal"
+        ]
       }
     ],
     "tags": [
       "Neoclassical Metal",
       "Depressive Black Metal",
-      "Avantgarde Black"
+      "Avantgarde Black",
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -3919,6 +3963,24 @@
     ]
   },
   {
+    "normalizedName": "thebridalprocession",
+    "displayName": "The Bridal Procession",
+    "albums": [
+      {
+        "name": "Nothing Left to Bleed",
+        "year": "2026",
+        "genres": [
+          "Deathcore",
+          "Progressive Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Deathcore",
+      "Progressive Death Metal"
+    ]
+  },
+  {
     "normalizedName": "thedarkprisonmassacre",
     "displayName": "The Dark Prison Massacre",
     "albums": [
@@ -4144,6 +4206,24 @@
     "tags": [
       "Sludge Metal",
       "Post-Metal"
+    ]
+  },
+  {
+    "normalizedName": "unholylobotomy",
+    "displayName": "Unholy Lobotomy",
+    "albums": [
+      {
+        "name": "Gore Frenzy",
+        "year": "2026",
+        "genres": [
+          "Gorenoise",
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Gorenoise",
+      "Goregrind"
     ]
   },
   {

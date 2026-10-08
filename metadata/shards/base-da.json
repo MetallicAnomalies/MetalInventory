@@ -665,6 +665,13 @@
         "genres": [
           "Atmospheric Rock"
         ]
+      },
+      {
+        "name": "Cornell",
+        "year": "2026",
+        "genres": [
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
@@ -681,7 +688,8 @@
       "Acoustic",
       "Ethereal",
       "Heavy Metal",
-      "Rock"
+      "Rock",
+      "Deathcore"
     ]
   },
   {
@@ -2036,6 +2044,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "deadself",
+    "displayName": "Deadself",
+    "albums": [
+      {
+        "name": "A Taste of Melancholy",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {
@@ -5300,6 +5324,22 @@
     ],
     "tags": [
       "Lullaby"
+    ]
+  },
+  {
+    "normalizedName": "thromos",
+    "displayName": "Thromos",
+    "albums": [
+      {
+        "name": "Universum Abstractum",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

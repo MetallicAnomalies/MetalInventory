@@ -1426,6 +1426,22 @@
     ]
   },
   {
+    "normalizedName": "disruptionpath",
+    "displayName": "Disruption Path",
+    "albums": [
+      {
+        "name": "Conclave ov Chaos",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "distruster",
     "displayName": "Distrüster",
     "albums": [
@@ -2530,6 +2546,22 @@
     "tags": [
       "Atmospheric Post-Black Metal",
       "Post-Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "kerasfora",
+    "displayName": "Kerasfóra",
+    "albums": [
+      {
+        "name": "From the Spectral Depths",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {

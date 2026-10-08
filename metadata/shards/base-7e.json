@@ -1477,6 +1477,13 @@
           "Black Metal",
           "Crust Punk"
         ]
+      },
+      {
+        "name": "Caelum",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2235,6 +2242,22 @@
     "tags": [
       "Heavy Metal",
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "hexenmord",
+    "displayName": "Hexenmord",
+    "albums": [
+      {
+        "name": "Faolchú",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

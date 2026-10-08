@@ -133,6 +133,13 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Beneath a Broken Pantheon",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3015,6 +3022,26 @@
     "tags": [
       "Latin",
       "Lambada"
+    ]
+  },
+  {
+    "normalizedName": "killyourabuser",
+    "displayName": "Kill Your Abuser",
+    "albums": [
+      {
+        "name": "An End Deserved",
+        "year": "2026",
+        "genres": [
+          "Symphonic Djent",
+          "Melodic Deathcore Djent",
+          "Djent"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Djent",
+      "Melodic Deathcore Djent",
+      "Djent"
     ]
   },
   {

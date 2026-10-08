@@ -1337,6 +1337,22 @@
     ]
   },
   {
+    "normalizedName": "feinmaru",
+    "displayName": "Fé​inmarú",
+    "albums": [
+      {
+        "name": "To Be Miserable Forever...",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "firebreather",
     "displayName": "Firebreather",
     "albums": [
@@ -1372,6 +1388,22 @@
     ],
     "tags": [
       "Stoner Metal",
+      "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "fohatt",
+    "displayName": "Fohatt",
+    "albums": [
+      {
+        "name": "Vernal Quietude",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
       "Doom Metal"
     ]
   },
@@ -3223,6 +3255,24 @@
     ]
   },
   {
+    "normalizedName": "saturniangrief",
+    "displayName": "Saturnian Grief",
+    "albums": [
+      {
+        "name": "Ghost Ship",
+        "year": "2026",
+        "genres": [
+          "Doom Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "seekingtragedy",
     "displayName": "Seeking Tragedy",
     "origin": "NO",
@@ -4335,6 +4385,24 @@
       "Progressive Death Metal"
     ],
     "origin": "CA"
+  },
+  {
+    "normalizedName": "нетрі",
+    "displayName": "Нетрі",
+    "albums": [
+      {
+        "name": ":Іскра:",
+        "year": "2026",
+        "genres": [
+          "Folk Post-Black Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Folk Post-Black Metal",
+      "Post-Black Metal"
+    ]
   },
   {
     "normalizedName": "אינדיילד",

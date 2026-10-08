@@ -506,6 +506,22 @@
     ]
   },
   {
+    "normalizedName": "auka",
+    "displayName": "Auka",
+    "albums": [
+      {
+        "name": "La última frontera",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "aurorath",
     "displayName": "Aurorath",
     "albums": [
@@ -2612,6 +2628,24 @@
     ],
     "tags": [
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "marcation",
+    "displayName": "Marcation",
+    "albums": [
+      {
+        "name": "Ruler of The Ruins",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

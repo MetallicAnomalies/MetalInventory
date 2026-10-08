@@ -267,6 +267,22 @@
     ]
   },
   {
+    "normalizedName": "authenticdissent",
+    "displayName": "Authentic Dissent",
+    "albums": [
+      {
+        "name": "Destruction Divine",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "avengedsevenfold",
     "displayName": "Avenged Sevenfold",
     "origin": "US",
@@ -2520,6 +2536,22 @@
     "tags": [
       "Progressive Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "inblood",
+    "displayName": "In Blood",
+    "albums": [
+      {
+        "name": "Going for Choke",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

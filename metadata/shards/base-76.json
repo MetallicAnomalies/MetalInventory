@@ -83,6 +83,24 @@
     ]
   },
   {
+    "normalizedName": "aenfrz",
+    "displayName": "Aenfrz",
+    "albums": [
+      {
+        "name": "Не відпускай... (Don't Let Go...)",
+        "year": "2026",
+        "genres": [
+          "Raw Depressive Black Metal",
+          "Dark Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Depressive Black Metal",
+      "Dark Ambient"
+    ]
+  },
+  {
     "normalizedName": "albion",
     "displayName": "Albion",
     "albums": [
@@ -1868,6 +1886,22 @@
       {
         "name": "Gloria Deo, Domino Inferi (Ep)",
         "year": "2001",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "ius",
+    "displayName": "Ius",
+    "albums": [
+      {
+        "name": "Sturm!",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

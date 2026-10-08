@@ -527,6 +527,24 @@
     ]
   },
   {
+    "normalizedName": "asderel",
+    "displayName": "Asderel",
+    "albums": [
+      {
+        "name": "When the Moon Shines",
+        "year": "2026",
+        "genres": [
+          "Ambient",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Ambient",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "ataraxy",
     "displayName": "Ataraxy",
     "origin": "ES",
@@ -990,6 +1008,24 @@
     "tags": [
       "Electronic",
       "Trance"
+    ]
+  },
+  {
+    "normalizedName": "disologist",
+    "displayName": "Disologist",
+    "albums": [
+      {
+        "name": "Crushing Silence",
+        "year": "2026",
+        "genres": [
+          "Progressive Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -1928,6 +1964,22 @@
     ]
   },
   {
+    "normalizedName": "igzordium",
+    "displayName": "Igzordium",
+    "albums": [
+      {
+        "name": "Ascentia",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "imonolith",
     "displayName": "Imonolith",
     "albums": [
@@ -2191,6 +2243,24 @@
       "Hip Hop",
       "Pop",
       "Pop Rap"
+    ]
+  },
+  {
+    "normalizedName": "keitos",
+    "displayName": "Keitos",
+    "albums": [
+      {
+        "name": "Forever Now",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal",
+      "Metalcore"
     ]
   },
   {

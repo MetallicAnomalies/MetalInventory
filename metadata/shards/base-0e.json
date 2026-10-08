@@ -4855,6 +4855,24 @@
     ]
   },
   {
+    "normalizedName": "tumorfleshrejection",
+    "displayName": "Tumorflesh Rejection",
+    "albums": [
+      {
+        "name": "Beneath the Moor, the Ancient Dwells",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "turisas",
     "displayName": "Turisas",
     "origin": "FI",
@@ -5381,9 +5399,18 @@
         "name": "The Final War EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "The Final War",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Melodic Death Metal"
+    ]
   },
   {
     "normalizedName": "xenos",

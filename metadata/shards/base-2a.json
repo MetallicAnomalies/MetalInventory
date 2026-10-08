@@ -1833,6 +1833,22 @@
     ]
   },
   {
+    "normalizedName": "ertrunken",
+    "displayName": "Ertrunken",
+    "albums": [
+      {
+        "name": "When the Moon Turns to Ash",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "esgharioth",
     "displayName": "Esgharioth",
     "albums": [
@@ -1948,6 +1964,22 @@
     ],
     "tags": [
       "Melodic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "fekaliadiabła",
+    "displayName": "Fekalia Diabła",
+    "albums": [
+      {
+        "name": "Human Carrion",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -2388,6 +2420,24 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "injectingdeath",
+    "displayName": "Injecting Death",
+    "albums": [
+      {
+        "name": "The Life of Christa Pike",
+        "year": "2026",
+        "genres": [
+          "Melodic Atmospheric Black Metal",
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Atmospheric Black Metal",
+      "Atmospheric Black Metal"
     ]
   },
   {
@@ -4147,6 +4197,22 @@
     ],
     "tags": [
       "Symphonic Black Metal",
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "vinteraske",
+    "displayName": "Vinteraske",
+    "albums": [
+      {
+        "name": "Nocturne",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
       "Black Metal"
     ]
   },

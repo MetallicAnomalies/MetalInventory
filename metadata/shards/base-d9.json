@@ -2286,11 +2286,20 @@
           "Thrash Metal",
           "Speed Metal"
         ]
+      },
+      {
+        "name": "Steel Surpasses Flesh",
+        "year": "2026",
+        "genres": [
+          "Thrash Speed Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Speed Metal"
+      "Speed Metal",
+      "Thrash Speed Metal"
     ]
   },
   {
@@ -3373,12 +3382,21 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Precinct 3 / Scavenger",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
       }
     ],
     "tags": [
       "Crossover Thrash",
       "Hardcore Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Crossover"
     ]
   },
   {

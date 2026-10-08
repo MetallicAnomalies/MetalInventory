@@ -596,6 +596,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "De mørkeste dager",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2329,6 +2336,22 @@
     ]
   },
   {
+    "normalizedName": "invertedbra1n",
+    "displayName": "Inverted Bra1n",
+    "albums": [
+      {
+        "name": "The Great Circle",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "johndivatherocketsoflove",
     "displayName": "John Diva & The Rockets Of Love",
     "albums": [
@@ -3375,6 +3398,22 @@
     ]
   },
   {
+    "normalizedName": "oredeza",
+    "displayName": "Oredeza",
+    "albums": [
+      {
+        "name": "Nature II",
+        "year": "2026",
+        "genres": [
+          "Blackened Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Post-Metal"
+    ]
+  },
+  {
     "normalizedName": "outforblood",
     "displayName": "Out For Blood",
     "origin": "US",
@@ -4171,6 +4210,22 @@
     "tags": [
       "Brutal Technical Death Metal",
       "Technical Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "slaughterthywicked",
+    "displayName": "Slaughter Thy Wicked",
+    "albums": [
+      {
+        "name": "Place of Dying Darkness",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

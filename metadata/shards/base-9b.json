@@ -446,6 +446,14 @@
         "genres": [
           "Rock"
         ]
+      },
+      {
+        "name": "All Must Wither",
+        "year": "2026",
+        "genres": [
+          "Folk Viking Metal",
+          "Viking Metal"
+        ]
       }
     ],
     "tags": [
@@ -453,7 +461,8 @@
       "Black Metal",
       "Viking Metal",
       "Folk Metal",
-      "Rock"
+      "Rock",
+      "Folk Viking Metal"
     ]
   },
   {
@@ -648,6 +657,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "beneaththisfacade",
+    "displayName": "Beneath This Facade",
+    "albums": [
+      {
+        "name": "Live @ IHQ 25 Jul 2026",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
     ]
   },
   {
@@ -2217,6 +2242,24 @@
     ]
   },
   {
+    "normalizedName": "hammurabi",
+    "displayName": "Hammurabi",
+    "albums": [
+      {
+        "name": "Empire",
+        "year": "2026",
+        "genres": [
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "heiress",
     "displayName": "Heiress",
     "origin": "US",
@@ -2930,6 +2973,24 @@
     ]
   },
   {
+    "normalizedName": "midgaard",
+    "displayName": "Midgaard",
+    "albums": [
+      {
+        "name": "Lament of Souls (2026 rework)",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal",
+          "Dark Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal",
+      "Dark Ambient"
+    ]
+  },
+  {
     "normalizedName": "mikeoldfield",
     "displayName": "Mike Oldfield",
     "origin": "GB",
@@ -3225,6 +3286,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "parentaladvisory",
+    "displayName": "Parental Advisory",
+    "albums": [
+      {
+        "name": "Bodyeater",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

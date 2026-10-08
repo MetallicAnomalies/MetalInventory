@@ -1622,6 +1622,26 @@
     ]
   },
   {
+    "normalizedName": "eczema",
+    "displayName": "Eczema",
+    "albums": [
+      {
+        "name": "Visceral II: La Grieta",
+        "year": "2026",
+        "genres": [
+          "Death Black Metal",
+          "Doom Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Black Metal",
+      "Doom Black Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "edenhason",
     "displayName": "Eden Hason",
     "origin": "IE",
@@ -3283,10 +3303,19 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "The Final Hour (Black Knight Rides)",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Ambient"
     ]
   },
   {
@@ -3664,6 +3693,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "neroromulus",
+    "displayName": "Nero Romulus",
+    "albums": [
+      {
+        "name": "The Call of the Void",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -4638,6 +4685,22 @@
     ],
     "tags": [
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "sinistre",
+    "displayName": "Sinistre",
+    "albums": [
+      {
+        "name": "Hallows Eve",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {
@@ -5641,6 +5704,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "мастер",
+    "displayName": "Мастер",
+    "albums": [
+      {
+        "name": "Тесла",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "תמראופיר",

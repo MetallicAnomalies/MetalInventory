@@ -274,10 +274,28 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Dressed in Golden Sunlight",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Black Metal",
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "The Hour of Storms",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Black Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Melodic Death Black Metal",
+      "Black Metal"
     ]
   },
   {

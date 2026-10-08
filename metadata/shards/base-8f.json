@@ -93,6 +93,22 @@
     ]
   },
   {
+    "normalizedName": "alltidallena",
+    "displayName": "Alltid Allena",
+    "albums": [
+      {
+        "name": "A Quiet Collapse",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal"
+    ]
+  },
+  {
     "normalizedName": "alunah",
     "displayName": "Alunah",
     "origin": "GB",
@@ -751,6 +767,22 @@
     ],
     "tags": [
       "Grindcore"
+    ]
+  },
+  {
+    "normalizedName": "consanguine",
+    "displayName": "Consanguine",
+    "albums": [
+      {
+        "name": "Metanoian",
+        "year": "2026",
+        "genres": [
+          "Progressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Black Metal"
     ]
   },
   {
@@ -3467,6 +3499,22 @@
     ]
   },
   {
+    "normalizedName": "sanctusnosferatu",
+    "displayName": "Sanctus Nosferatu",
+    "albums": [
+      {
+        "name": "Axioma",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Death Metal"
+    ]
+  },
+  {
     "normalizedName": "savagenecromancy",
     "displayName": "Savage Necromancy",
     "albums": [
@@ -4737,6 +4785,24 @@
       }
     ],
     "tags": [
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "undersiege",
+    "displayName": "Undersiege",
+    "albums": [
+      {
+        "name": "Thrashing the World",
+        "year": "2026",
+        "genres": [
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Death Metal",
       "Death Metal"
     ]
   },

@@ -64,6 +64,24 @@
     ]
   },
   {
+    "normalizedName": "amsagan",
+    "displayName": "Amsagan",
+    "albums": [
+      {
+        "name": "Oäktingen",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "ananalmakelquartet",
     "displayName": "Anan Al Makel Quartet",
     "origin": "US",
@@ -3454,6 +3472,22 @@
       "Death Doom Metal",
       "Death Metal",
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "myfragileheart",
+    "displayName": "My Fragile Heart",
+    "albums": [
+      {
+        "name": "Unable to Feel...",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {

@@ -2566,10 +2566,20 @@
         "genres": [
           "Progressive Death Metal"
         ]
+      },
+      {
+        "name": "Ikuinen",
+        "year": "2026",
+        "genres": [
+          "Death Sludge Metal",
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Death Metal"
+      "Progressive Death Metal",
+      "Death Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {
@@ -3148,6 +3158,22 @@
     "tags": [
       "Gothic Metal",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "miserypath",
+    "displayName": "Misery Path",
+    "albums": [
+      {
+        "name": "Screaming Silence",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -4071,6 +4097,24 @@
     ]
   },
   {
+    "normalizedName": "rope",
+    "displayName": "Rope",
+    "albums": [
+      {
+        "name": "Never Again",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "ruinsoftime",
     "displayName": "Ruins Of Time",
     "albums": [
@@ -4838,6 +4882,15 @@
       },
       {
         "name": "Dead Inside of Me",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Thrash Heavy Metal",
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "Crown in the Grave",
         "year": "2026",
         "genres": [
           "Metalcore",

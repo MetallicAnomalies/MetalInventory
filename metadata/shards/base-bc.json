@@ -1519,6 +1519,22 @@
     ]
   },
   {
+    "normalizedName": "galdra",
+    "displayName": "Galdra",
+    "albums": [
+      {
+        "name": "My Wanderings",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "gateofsorrow",
     "displayName": "Gate Of Sorrow",
     "albums": [
@@ -2806,6 +2822,24 @@
     ],
     "tags": [
       "Depressive Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "putridstu",
+    "displayName": "Putrid Stu",
+    "albums": [
+      {
+        "name": "Buncha Boobies",
+        "year": "2026",
+        "genres": [
+          "Goregrind",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind",
+      "Brutal Death Metal"
     ]
   },
   {

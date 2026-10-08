@@ -2540,6 +2540,24 @@
     ]
   },
   {
+    "normalizedName": "kraskombat",
+    "displayName": "Kraskombat",
+    "albums": [
+      {
+        "name": "Lintas Sumatera",
+        "year": "2026",
+        "genres": [
+          "Heavy Speed Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Speed Metal",
+      "Speed Metal"
+    ]
+  },
+  {
     "normalizedName": "kultoftaurus",
     "displayName": "Kult Of Taurus",
     "albums": [
@@ -3752,6 +3770,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "sepulchrebythesea",
+    "displayName": "Sepulchre by the Sea",
+    "albums": [
+      {
+        "name": "Goldseeker",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {

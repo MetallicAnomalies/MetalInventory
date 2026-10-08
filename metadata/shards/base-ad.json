@@ -131,6 +131,22 @@
     ]
   },
   {
+    "normalizedName": "ambiviolence",
+    "displayName": "Ambiviolence",
+    "albums": [
+      {
+        "name": "Echoes",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "amplifiedmemory",
     "displayName": "Amplified Memory",
     "albums": [
@@ -694,6 +710,30 @@
     ],
     "tags": [
       "Death Metal",
+      "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "bloodsoakednecrovoidnekus",
+    "displayName": "Bloodsoaked Necrovoid/Nekus",
+    "albums": [
+      {
+        "name": "Funerary Rites of Ancient Doom",
+        "year": "2026",
+        "genres": [
+          "Death Death Metal",
+          "Doom Metal | Black Death Metal",
+          "Death Metal",
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Death Metal",
+      "Doom Metal | Black Death Metal",
+      "Death Metal",
+      "Death Doom Metal",
       "Doom Metal"
     ]
   },
@@ -2773,6 +2813,22 @@
     ]
   },
   {
+    "normalizedName": "innerfailure",
+    "displayName": "Inner Failure",
+    "albums": [
+      {
+        "name": "Inner Failure",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "ireful",
     "displayName": "Ireful",
     "albums": [
@@ -3366,6 +3422,24 @@
     "tags": [
       "Death Metal",
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "motorwolf",
+    "displayName": "Mötörwölf",
+    "albums": [
+      {
+        "name": "Inferno Fighter",
+        "year": "2026",
+        "genres": [
+          "Speed Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Speed Heavy Metal",
+      "Heavy Metal"
     ]
   },
   {

@@ -1688,6 +1688,22 @@
     ]
   },
   {
+    "normalizedName": "forsakerofthethrone",
+    "displayName": "Forsaker of the Throne",
+    "albums": [
+      {
+        "name": "Exhion",
+        "year": "2026",
+        "genres": [
+          "Epic Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Epic Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "frankcaruso",
     "displayName": "Frank Caruso",
     "albums": [
@@ -2546,6 +2562,22 @@
     ],
     "tags": [
       "Death Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "nattmara",
+    "displayName": "Nattmara",
+    "albums": [
+      {
+        "name": "Svarta tonkonster",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

@@ -1,5 +1,23 @@
 [
   {
+    "normalizedName": "abandonalllight",
+    "displayName": "Abandon All Light",
+    "albums": [
+      {
+        "name": "Mourning What Never Was",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Ambient"
+    ]
+  },
+  {
     "normalizedName": "adam",
     "displayName": "Adam",
     "origin": "GB",
@@ -6793,6 +6811,13 @@
       },
       {
         "name": "Mystery & Power",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Impressions in Frost",
         "year": "2026",
         "genres": [
           "Black Metal"

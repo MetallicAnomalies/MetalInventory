@@ -931,9 +931,18 @@
         "name": "The Evolution Of Social Exclusion EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "The Evolution of Social Exclusion",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Stoner Metal"
+    ]
   },
   {
     "normalizedName": "carnivorasfeast",
@@ -1218,11 +1227,20 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Bathory",
+        "year": "2026",
+        "genres": [
+          "Heavy Melodic Death Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Death Metal"
+      "Death Metal",
+      "Heavy Melodic Death Metal"
     ]
   },
   {

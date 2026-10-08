@@ -664,6 +664,22 @@
     ]
   },
   {
+    "normalizedName": "calamityvessel",
+    "displayName": "Calamity Vessel",
+    "albums": [
+      {
+        "name": "Boreal Theogony",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "caligulashorse",
     "displayName": "Caligula's Horse",
     "origin": "AU",
@@ -999,6 +1015,22 @@
     ]
   },
   {
+    "normalizedName": "defenestraitor",
+    "displayName": "Defenestraitor",
+    "albums": [
+      {
+        "name": "Dependency",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "demonikholokaust",
     "displayName": "Demonik Holokaust",
     "albums": [
@@ -1030,6 +1062,13 @@
       {
         "name": "Reverence",
         "year": "2022",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Vehemence",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]
@@ -4106,11 +4145,23 @@
           "Melodic Death Metal",
           "Gothic Industrial"
         ]
+      },
+      {
+        "name": "Lifeblood",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Industrial Metal",
+          "Gothic Industrial Metal",
+          "Industrial Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Gothic Industrial"
+      "Gothic Industrial",
+      "Melodic Death Industrial Metal",
+      "Gothic Industrial Metal",
+      "Industrial Metal"
     ]
   },
   {

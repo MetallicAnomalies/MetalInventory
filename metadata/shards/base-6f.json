@@ -2480,6 +2480,24 @@
     ]
   },
   {
+    "normalizedName": "karranka",
+    "displayName": "Karranka",
+    "albums": [
+      {
+        "name": "Fake/Like/Repost",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "keillenallith",
     "displayName": "Keillen Allith",
     "origin": "US",
@@ -2797,6 +2815,22 @@
       {
         "name": "Agurraren Harkaitza",
         "year": "2018",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "nattengeist",
+    "displayName": "Nattengeist",
+    "albums": [
+      {
+        "name": "Frozen Echoes of Being",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]
@@ -4463,6 +4497,22 @@
     "tags": [
       "Experimental Metal",
       "Drone Metal"
+    ]
+  },
+  {
+    "normalizedName": "ветерскорби",
+    "displayName": "Ветер Скорби",
+    "albums": [
+      {
+        "name": "Ветер скорби",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {

@@ -2202,6 +2202,13 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "The Universal Lie",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -3066,6 +3073,22 @@
     "tags": [
       "Stoner Metal",
       "Stoner Rock"
+    ]
+  },
+  {
+    "normalizedName": "sees",
+    "displayName": "Sees",
+    "albums": [
+      {
+        "name": "Suoja",
+        "year": "2026",
+        "genres": [
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Metal"
     ]
   },
   {

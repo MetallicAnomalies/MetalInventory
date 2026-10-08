@@ -348,6 +348,22 @@
     ]
   },
   {
+    "normalizedName": "bleedlikerain",
+    "displayName": "Bleed like Rain",
+    "albums": [
+      {
+        "name": "When I First Hanged Myself, No One Realized.",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "brandnew",
     "displayName": "Brand New",
     "origin": "US",
@@ -1182,13 +1198,22 @@
           "Post-Metal",
           "Shoegaze"
         ]
+      },
+      {
+        "name": "At Work in the Field of the Bomb",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal",
+          "Shoegaze"
+        ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
       "Post-Metal",
       "Shoegaze",
-      "Black Metal"
+      "Black Metal",
+      "Post-Black Metal"
     ]
   },
   {
@@ -1388,6 +1413,24 @@
     ],
     "tags": [
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "disastersignals",
+    "displayName": "Disaster Signals",
+    "albums": [
+      {
+        "name": "Kinship of the Wandering",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Crossover"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Crossover"
     ]
   },
   {
@@ -1877,6 +1920,22 @@
     ],
     "tags": [
       "Depressive Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "fellhaven",
+    "displayName": "Fellhaven",
+    "albums": [
+      {
+        "name": "The Hollow",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {

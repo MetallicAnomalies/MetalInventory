@@ -3194,6 +3194,24 @@
     ]
   },
   {
+    "normalizedName": "seidhr",
+    "displayName": "Seidhr",
+    "albums": [
+      {
+        "name": "Algolhorde",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "sigurður",
     "displayName": "Sigurður",
     "albums": [
@@ -3201,9 +3219,18 @@
         "name": "Niu lif Einars Hrafns",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Fenrir",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
   },
   {
     "normalizedName": "silentskies",
@@ -3721,6 +3748,13 @@
       {
         "name": "мовчання і смерть",
         "year": "2024",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "востаннє",
+        "year": "2026",
         "genres": [
           "Atmospheric Black Metal"
         ]
@@ -4259,11 +4293,19 @@
           "Melodic Death Metal",
           "Symphonic Black Metal"
         ]
+      },
+      {
+        "name": "Death Cycles",
+        "year": "2026",
+        "genres": [
+          "Symphonic Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Symphonic Black Metal"
+      "Symphonic Black Metal",
+      "Symphonic Melodic Death Metal"
     ]
   },
   {

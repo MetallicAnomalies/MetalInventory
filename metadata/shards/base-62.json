@@ -3158,9 +3158,18 @@
         "name": "Marionettes EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Marionettes",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Melodic Death Metal"
+    ]
   },
   {
     "normalizedName": "morpheustales",
@@ -4868,6 +4877,13 @@
         "genres": [
           "Heavy Metal",
           "Hard Rock"
+        ]
+      },
+      {
+        "name": "The Dance",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
         ]
       }
     ],

@@ -1683,10 +1683,19 @@
         "genres": [
           "Death Doom Metal"
         ]
+      },
+      {
+        "name": "Home",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -2721,9 +2730,20 @@
         "name": "Rise Of The Underdog (Quarter Century Warfare Edition)",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Underdog",
+        "year": "2026",
+        "genres": [
+          "Hardcore Metalcore",
+          "Metalcore"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Hardcore Metalcore",
+      "Metalcore"
+    ]
   },
   {
     "normalizedName": "oppressorgod",
@@ -4434,13 +4454,21 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Enthroned Serigy",
+        "year": "2026",
+        "genres": [
+          "Pagan Metal"
+        ]
       }
     ],
     "tags": [
       "Post-Black Metal",
       "Progressive Doom",
       "Post-black Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Pagan Metal"
     ]
   },
   {

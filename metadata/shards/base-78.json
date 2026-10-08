@@ -1728,6 +1728,22 @@
     ]
   },
   {
+    "normalizedName": "gravehex",
+    "displayName": "Grave Hex",
+    "albums": [
+      {
+        "name": "Domain of Foul Rebirths",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "grimbane",
     "displayName": "Grimbane",
     "albums": [
@@ -3928,6 +3944,24 @@
     "tags": [
       "Us Power",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "tannenbart",
+    "displayName": "Tannenbart",
+    "albums": [
+      {
+        "name": "Vrijbuiters, bunzingjagers en stropersvolk",
+        "year": "2026",
+        "genres": [
+          "Black Folk Metal",
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Folk Metal",
+      "Folk Metal"
     ]
   },
   {

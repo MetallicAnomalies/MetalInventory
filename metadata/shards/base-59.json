@@ -1385,6 +1385,22 @@
     ]
   },
   {
+    "normalizedName": "embalmedputridity",
+    "displayName": "Embalmed Putridity",
+    "albums": [
+      {
+        "name": "W.I.L.D",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "emmagoldman",
     "displayName": "Emma Goldman",
     "albums": [
@@ -3358,6 +3374,22 @@
     ]
   },
   {
+    "normalizedName": "niggurath",
+    "displayName": "Niggurath",
+    "albums": [
+      {
+        "name": "I Like Gore",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "northseaechoes",
     "displayName": "North Sea Echoes",
     "albums": [
@@ -4300,6 +4332,24 @@
     ],
     "tags": [
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "stalvædder",
+    "displayName": "Stålvædder",
+    "albums": [
+      {
+        "name": "King Midas",
+        "year": "2026",
+        "genres": [
+          "Groove Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Heavy Metal",
+      "Heavy Metal"
     ]
   },
   {

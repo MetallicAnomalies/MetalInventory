@@ -3876,10 +3876,19 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Engineering His Planetary Dominion",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Brutal Death Metal"
+      "Brutal Death Metal",
+      "Slam Brutal Death Metal"
     ]
   },
   {
@@ -4943,6 +4952,13 @@
     "albums": [
       {
         "name": "Suicide Diary",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "Autumn",
         "year": "2026",
         "genres": [
           "Depressive Black Metal"

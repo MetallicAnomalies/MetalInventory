@@ -1490,6 +1490,13 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Ich Sehe Dich",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
       }
     ],
     "tags": [
@@ -3974,6 +3981,26 @@
       "Progressive Metal",
       "Metalcore",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "titanosauriaratpile",
+    "displayName": "Titanosauria/Ratpile",
+    "albums": [
+      {
+        "name": "Titanosauria X Ratpile",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal | Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal | Slam Brutal Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {

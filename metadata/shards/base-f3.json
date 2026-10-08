@@ -1,5 +1,23 @@
 [
   {
+    "normalizedName": "302",
+    "displayName": "302",
+    "albums": [
+      {
+        "name": "Ceasefire Now!",
+        "year": "2026",
+        "genres": [
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "abovetheearth",
     "displayName": "Above The Earth",
     "origin": "RU",
@@ -1288,6 +1306,22 @@
     ]
   },
   {
+    "normalizedName": "crownsolace",
+    "displayName": "Crown Solace",
+    "albums": [
+      {
+        "name": "Northern Skies",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Metal"
+    ]
+  },
+  {
     "normalizedName": "darkavenger",
     "displayName": "Dark Avenger",
     "origin": "BR",
@@ -1959,6 +1993,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "hekser",
+    "displayName": "Hekser",
+    "albums": [
+      {
+        "name": "Grimoire",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3815,6 +3865,24 @@
     ]
   },
   {
+    "normalizedName": "trhakeystotheastralgatesandmysticdoors",
+    "displayName": "Trhä/Keys to the Astral Gates and Mystic Doors",
+    "albums": [
+      {
+        "name": "Trhä / Keys to the Astral Gates and Mystic Doors",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Ambient | Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal",
+      "Ambient | Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "twoheadedbeast",
     "displayName": "Two Headed Beast",
     "albums": [
@@ -4131,9 +4199,18 @@
         "name": "When God Had Hands",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "When Gods Had Hands",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "wolfking",

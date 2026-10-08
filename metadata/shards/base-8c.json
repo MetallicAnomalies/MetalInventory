@@ -332,10 +332,18 @@
         "genres": [
           "Deathcore"
         ]
+      },
+      {
+        "name": "Percipio",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Deathcore"
+      "Deathcore",
+      "Death Metal"
     ]
   },
   {
@@ -5333,6 +5341,15 @@
           "Heavy Metal",
           "Gothenburg"
         ]
+      },
+      {
+        "name": "Hellfest 2026: La quatrième bataille de Clisson",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore",
+          "Various"
+        ]
       }
     ],
     "tags": [
@@ -5341,7 +5358,8 @@
       "Heavy Metal",
       "Gothenburg",
       "Parody",
-      "Death Metal"
+      "Death Metal",
+      "Various"
     ]
   },
   {

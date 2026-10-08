@@ -1701,9 +1701,22 @@
         "name": "Here Down To Earth EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Here Down on Earth",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Thrash Groove Metal",
+          "Groove Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Thrash Metal",
+      "Thrash Groove Metal",
+      "Groove Metal"
+    ]
   },
   {
     "normalizedName": "fountainhead",
@@ -3466,6 +3479,13 @@
         "name": "Abyss",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Dishonored Death",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [

@@ -726,9 +726,18 @@
         "name": "Rise To Fall EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Rise to Fall",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "cjwildheart",
@@ -1169,6 +1178,24 @@
     "tags": [
       "Atmospheric Death Metal",
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "exsudation",
+    "displayName": "Exsudation",
+    "albums": [
+      {
+        "name": "Serosanguineous",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {

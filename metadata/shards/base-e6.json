@@ -209,6 +209,24 @@
     ]
   },
   {
+    "normalizedName": "arlekin",
+    "displayName": "Arlekin",
+    "albums": [
+      {
+        "name": "Arlekin",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "armagedon",
     "displayName": "Armagedon",
     "albums": [
@@ -1617,11 +1635,25 @@
           "Noise Metal",
           "Experimental Black"
         ]
+      },
+      {
+        "name": "T H O R N S",
+        "year": "2026",
+        "genres": [
+          "Post-Black Noise",
+          "Sludge Metal",
+          "Experimental Noise",
+          "Noise"
+        ]
       }
     ],
     "tags": [
       "Noise Metal",
-      "Experimental Black"
+      "Experimental Black",
+      "Post-Black Noise",
+      "Sludge Metal",
+      "Experimental Noise",
+      "Noise"
     ]
   },
   {
@@ -5506,6 +5538,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "wulffengard",
+    "displayName": "Wulffengard",
+    "albums": [
+      {
+        "name": "Visions Through a Blade... / Eternal Wandering of the Nachzehrer...",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

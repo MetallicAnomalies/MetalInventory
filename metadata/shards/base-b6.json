@@ -388,6 +388,24 @@
     ]
   },
   {
+    "normalizedName": "arsen",
+    "displayName": "Arsen",
+    "albums": [
+      {
+        "name": "Weight of the Silent Machine",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "astheshadowsfall",
     "displayName": "As The Shadows Fall",
     "origin": "GB",
@@ -2411,6 +2429,16 @@
           "Noise Experimental",
           "Experimental"
         ]
+      },
+      {
+        "name": "Vintage Days",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Drone Experimental",
+          "Noise Experimental",
+          "Experimental"
+        ]
       }
     ],
     "tags": [
@@ -3782,6 +3810,22 @@
     ],
     "tags": [
       "Blackened Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "verwesung",
+    "displayName": "Verwesung",
+    "albums": [
+      {
+        "name": "Verwesung",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

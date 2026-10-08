@@ -253,10 +253,18 @@
         "genres": [
           "Death Doom Metal"
         ]
+      },
+      {
+        "name": "Spiritual Pareidolia",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -2917,6 +2925,22 @@
     ]
   },
   {
+    "normalizedName": "luxinversa",
+    "displayName": "Lux Inversa",
+    "albums": [
+      {
+        "name": "Cultus Inversus",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "lycania",
     "displayName": "Lycania",
     "albums": [
@@ -3447,6 +3471,24 @@
     "tags": [
       "Death Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "mystification",
+    "displayName": "Mystification",
+    "albums": [
+      {
+        "name": "Cosmic Disclosure",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Black Metal",
+      "Black Metal"
     ]
   },
   {

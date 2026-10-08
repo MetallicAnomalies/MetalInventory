@@ -130,6 +130,26 @@
     ]
   },
   {
+    "normalizedName": "asadbada",
+    "displayName": "A Sad Bada",
+    "albums": [
+      {
+        "name": "Insurrections of Primordial Seas",
+        "year": "2026",
+        "genres": [
+          "Sludge Post-Rock",
+          "Doom Metal",
+          "Post-Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Post-Rock",
+      "Doom Metal",
+      "Post-Rock"
+    ]
+  },
+  {
     "normalizedName": "asemic",
     "displayName": "Asemic",
     "albums": [
@@ -1487,6 +1507,24 @@
       "Experimental Metal",
       "Depressive Black Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "depressive",
+    "displayName": "Dépressive",
+    "albums": [
+      {
+        "name": "Violent Felon",
+        "year": "2026",
+        "genres": [
+          "Depressive Post-Black Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Post-Black Metal",
+      "Post-Black Metal"
     ]
   },
   {
@@ -3754,6 +3792,24 @@
     "tags": [
       "Experimental Black",
       "Experimental Death"
+    ]
+  },
+  {
+    "normalizedName": "originhell",
+    "displayName": "Origin'Hell",
+    "albums": [
+      {
+        "name": "Reign of Infamy",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

@@ -2898,6 +2898,13 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "The Cold Heart of the Forest",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -3404,6 +3411,22 @@
     "tags": [
       "Gothic Metal",
       "Gothic Rock"
+    ]
+  },
+  {
+    "normalizedName": "malanarn",
+    "displayName": "Malanarn",
+    "albums": [
+      {
+        "name": "Origins",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -4532,10 +4555,19 @@
         "genres": [
           "Depressive Black Metal"
         ]
+      },
+      {
+        "name": "Lost to Apathy",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal",
+          "Post-Punk"
+        ]
       }
     ],
     "tags": [
-      "Depressive Black Metal"
+      "Depressive Black Metal",
+      "Post-Punk"
     ]
   },
   {

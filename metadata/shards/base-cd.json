@@ -927,11 +927,19 @@
           "Death Metal",
           "Black Metal"
         ]
+      },
+      {
+        "name": "Push on Mosh",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Black Metal"
+      "Black Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -2686,6 +2694,22 @@
     "tags": [
       "Black Metal",
       "Gothic Metal"
+    ]
+  },
+  {
+    "normalizedName": "nesvferit",
+    "displayName": "Nesvferit",
+    "albums": [
+      {
+        "name": "Caótica",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

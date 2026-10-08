@@ -3697,6 +3697,22 @@
     ]
   },
   {
+    "normalizedName": "pria",
+    "displayName": "Prîa",
+    "albums": [
+      {
+        "name": "Ligurian Folk Tales",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "prymary",
     "displayName": "Prymary",
     "origin": "US",
@@ -4549,6 +4565,33 @@
       },
       {
         "name": "Ascension III",
+        "year": "2026",
+        "genres": [
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      },
+      {
+        "name": "Desperation II",
+        "year": "2026",
+        "genres": [
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      },
+      {
+        "name": "Desperation I",
+        "year": "2026",
+        "genres": [
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      },
+      {
+        "name": "Ascension IV",
         "year": "2026",
         "genres": [
           "Drone Stoner Metal",

@@ -1360,6 +1360,24 @@
     ]
   },
   {
+    "normalizedName": "hexicon",
+    "displayName": "Hexicon",
+    "albums": [
+      {
+        "name": "This Might Be Hell",
+        "year": "2026",
+        "genres": [
+          "Progressive Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Groove Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "hippiedeathcult",
     "displayName": "Hippie Death Cult",
     "albums": [
@@ -1383,10 +1401,22 @@
         "genres": [
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Grit, Blood & Bone",
+        "year": "2026",
+        "genres": [
+          "Stoner Rock",
+          "Doom Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
-      "Stoner Metal"
+      "Stoner Metal",
+      "Stoner Rock",
+      "Doom Metal",
+      "Rock"
     ]
   },
   {
@@ -4037,6 +4067,24 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "veneficussarcina",
+    "displayName": "Veneficus Sarcina",
+    "albums": [
+      {
+        "name": "Anachronisms IV, Four Cantigas de Santa Maria",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Blackened Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Blackened Heavy Metal"
     ]
   },
   {

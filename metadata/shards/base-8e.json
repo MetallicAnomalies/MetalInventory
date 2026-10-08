@@ -743,6 +743,22 @@
     ]
   },
   {
+    "normalizedName": "campa",
+    "displayName": "Campa",
+    "albums": [
+      {
+        "name": "Architecture of Decay",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "carma",
     "displayName": "Carma",
     "albums": [
@@ -2441,6 +2457,24 @@
     ],
     "tags": [
       "Post-Metal",
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "magnetar",
+    "displayName": "Magnetar",
+    "albums": [
+      {
+        "name": "Gates Of The North",
+        "year": "2026",
+        "genres": [
+          "Heavy Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Black Metal",
       "Black Metal"
     ]
   },

@@ -2294,6 +2294,26 @@
     ]
   },
   {
+    "normalizedName": "husbandblood",
+    "displayName": "Husband Blood",
+    "albums": [
+      {
+        "name": "All Night Neon Polka",
+        "year": "2026",
+        "genres": [
+          "Doom Rock",
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Rock",
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "icaruswitch",
     "displayName": "Icarus Witch",
     "albums": [
@@ -4955,10 +4975,18 @@
         "genres": [
           "Symphonic Black Metal"
         ]
+      },
+      {
+        "name": "Piesni Vietru",
+        "year": "2026",
+        "genres": [
+          "Epic Symphonic Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Black Metal"
+      "Symphonic Black Metal",
+      "Epic Symphonic Black Metal"
     ]
   },
   {

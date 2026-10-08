@@ -760,6 +760,14 @@
           "Brutal Technical Death Metal",
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "Exomia",
+        "year": "2026",
+        "genres": [
+          "Brutal Technical Death Metal",
+          "Technical Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -1297,6 +1305,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "cirrus",
+    "displayName": "Cirrus",
+    "albums": [
+      {
+        "name": "Palms Up",
+        "year": "2026",
+        "genres": [
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Metal"
     ]
   },
   {
@@ -2233,10 +2257,18 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "The Pendulum Swings Yet…",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Black Metal"
     ]
   },
   {

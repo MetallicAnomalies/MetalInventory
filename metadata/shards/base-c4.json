@@ -4146,6 +4146,24 @@
     ]
   },
   {
+    "normalizedName": "socialdecline",
+    "displayName": "Social Decline",
+    "albums": [
+      {
+        "name": "Spred the Disease",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Crossover"
+    ]
+  },
+  {
     "normalizedName": "story",
     "displayName": "Story",
     "origin": "US",

@@ -93,6 +93,24 @@
     ]
   },
   {
+    "normalizedName": "abysstod",
+    "displayName": "AbyssTod",
+    "albums": [
+      {
+        "name": "Death by Sawing",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "acheronschaos",
     "displayName": "Acheron's Chaos",
     "albums": [
@@ -1190,12 +1208,22 @@
         "name": "Goathammer EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Goathammer",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Blackened Thrash Metal",
       "Djent",
-      "Rap Metal"
+      "Rap Metal",
+      "Black Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -3720,6 +3748,24 @@
     ]
   },
   {
+    "normalizedName": "subruinam",
+    "displayName": "Sub Ruinam",
+    "albums": [
+      {
+        "name": "Sub Ruinam IV",
+        "year": "2026",
+        "genres": [
+          "Drone Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Drone Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "symbioticsystems",
     "displayName": "Symbiotic Systems",
     "albums": [
@@ -4095,10 +4141,18 @@
         "genres": [
           "Black 'N Roll"
         ]
+      },
+      {
+        "name": "Lovekiller",
+        "year": "2026",
+        "genres": [
+          "Black 'n' Roll"
+        ]
       }
     ],
     "tags": [
-      "Black 'N Roll"
+      "Black 'N Roll",
+      "Black 'n' Roll"
     ]
   },
   {
@@ -4684,6 +4738,22 @@
     ]
   },
   {
+    "normalizedName": "witchwood",
+    "displayName": "Witchwood",
+    "albums": [
+      {
+        "name": "The Haunting of Witchwood...",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "wizzard",
     "displayName": "Wizzard",
     "albums": [
@@ -4809,5 +4879,25 @@
       "Symphonic Power"
     ],
     "origin": "RU"
+  },
+  {
+    "normalizedName": "暗狱戮尸",
+    "displayName": "暗狱戮尸",
+    "albums": [
+      {
+        "name": "Corpse Sect Awakening / Overtreated Cause Opposited",
+        "year": "2026",
+        "genres": [
+          "Slam Hardcore",
+          "Brutal Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Hardcore",
+      "Brutal Death Metal",
+      "Hardcore"
+    ]
   }
 ]

@@ -1206,12 +1206,37 @@
           "Death Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Horrified",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
       "Thrash Metal",
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "bloodoftheearth",
+    "displayName": "Blood of the Earth",
+    "albums": [
+      {
+        "name": "Beneath a Sky That Breaks",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Sludge Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -1800,6 +1825,24 @@
     ],
     "tags": [
       "Black Metal",
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "dethrashed",
+    "displayName": "Dethrashed",
+    "albums": [
+      {
+        "name": "The Weight of the Vortex",
+        "year": "2026",
+        "genres": [
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Death Metal",
       "Death Metal"
     ]
   },
@@ -4359,9 +4402,20 @@
         "name": "De-Extinction",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Dissection by Design",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Hardcore"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal",
+      "Hardcore"
+    ]
   },
   {
     "normalizedName": "semblant",

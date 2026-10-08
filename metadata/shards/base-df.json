@@ -2422,6 +2422,22 @@
     ]
   },
   {
+    "normalizedName": "idleblood",
+    "displayName": "Idle Blood",
+    "albums": [
+      {
+        "name": "No Dawn",
+        "year": "2026",
+        "genres": [
+          "Blackened Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "iketinaturner",
     "displayName": "Ike & Tina Turner",
     "origin": "US",
@@ -4027,6 +4043,22 @@
     ]
   },
   {
+    "normalizedName": "schema",
+    "displayName": "Schema",
+    "albums": [
+      {
+        "name": "Betonowce",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "sentiment",
     "displayName": "Sentiment",
     "albums": [
@@ -4283,6 +4315,15 @@
           "Dungeon Synth Noise",
           "Noise"
         ]
+      },
+      {
+        "name": "This Shit Happening Every Night",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Dungeon Synth Noise",
+          "Noise"
+        ]
       }
     ],
     "tags": [
@@ -4329,6 +4370,24 @@
     "tags": [
       "Heavy Metal",
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "svartkvarn",
+    "displayName": "Svartkvarn",
+    "albums": [
+      {
+        "name": "Desolation",
+        "year": "2026",
+        "genres": [
+          "Doom Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Death Metal",
+      "Death Metal"
     ]
   },
   {

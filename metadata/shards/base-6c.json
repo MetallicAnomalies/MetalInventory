@@ -1155,6 +1155,14 @@
           "Death Thrash Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "In Name of Blasphemy",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -2130,6 +2138,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "krusade",
+    "displayName": "Krusade",
+    "albums": [
+      {
+        "name": "Violence Until the End",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {
@@ -3607,6 +3631,22 @@
     ],
     "tags": [
       "Progressive Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "t800",
+    "displayName": "T-800",
+    "albums": [
+      {
+        "name": "Destroying Human Supremacy",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

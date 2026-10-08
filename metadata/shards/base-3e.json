@@ -1156,6 +1156,22 @@
     "tags": []
   },
   {
+    "normalizedName": "doomsayers",
+    "displayName": "Doomsayers",
+    "albums": [
+      {
+        "name": "Basement Tapes Vol. II",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Psychedelic Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "dynamiclights",
     "displayName": "Dynamic Lights",
     "albums": [
@@ -1480,6 +1496,22 @@
       "Hard Rock",
       "Pop",
       "Symphonic Metal"
+    ]
+  },
+  {
+    "normalizedName": "forgottenruin",
+    "displayName": "Forgotten Ruin",
+    "albums": [
+      {
+        "name": "Live at The Burlington 8/31/2026",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {
@@ -2960,6 +2992,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "mossgrown",
+    "displayName": "MossGrown",
+    "albums": [
+      {
+        "name": "Demo",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

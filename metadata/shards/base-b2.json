@@ -668,6 +668,14 @@
           "Doom Post-Metal",
           "Post-Metal"
         ]
+      },
+      {
+        "name": "Ama Nesciri",
+        "year": "2026",
+        "genres": [
+          "Doom Post-Metal",
+          "Post-Metal"
+        ]
       }
     ],
     "tags": [
@@ -1294,6 +1302,22 @@
     ]
   },
   {
+    "normalizedName": "drucastil",
+    "displayName": "Drucastil",
+    "albums": [
+      {
+        "name": "The Suffering of Eternal Yearning",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "earthrise",
     "displayName": "Earthrise",
     "origin": "US",
@@ -1430,6 +1454,22 @@
     ],
     "tags": [
       "Gothic Metal"
+    ]
+  },
+  {
+    "normalizedName": "epidemicscorn",
+    "displayName": "Epidemic Scorn",
+    "albums": [
+      {
+        "name": "Demolished Globe",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -2786,6 +2826,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "lumihauta",
+    "displayName": "Lumihauta",
+    "albums": [
+      {
+        "name": "The Vanishing Cold",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
   },
   {
     "normalizedName": "magoa",

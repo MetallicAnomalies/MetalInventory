@@ -595,6 +595,22 @@
     ]
   },
   {
+    "normalizedName": "canticumdiaboli",
+    "displayName": "Canticum Diaboli",
+    "albums": [
+      {
+        "name": "Compendium Horribilis",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "ceremonyofsilence",
     "displayName": "Ceremony of Silence",
     "origin": "SK",
@@ -4835,6 +4851,30 @@
       "Melodic Heavy",
       "Heavy Metal",
       "Melodic Heavy Metal with Schlager influences"
+    ]
+  },
+  {
+    "normalizedName": "wikingwings",
+    "displayName": "Wiking Wings",
+    "albums": [
+      {
+        "name": "Highvegr to Hel",
+        "year": "2026",
+        "genres": [
+          "Black Folk",
+          "Death Folk",
+          "Gothic Metal",
+          "Ambient Folk",
+          "Folk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Folk",
+      "Death Folk",
+      "Gothic Metal",
+      "Ambient Folk",
+      "Folk"
     ]
   },
   {

@@ -60,6 +60,22 @@
     ]
   },
   {
+    "normalizedName": "abyssonaut",
+    "displayName": "Abyssonaut",
+    "albums": [
+      {
+        "name": "Downfall",
+        "year": "2026",
+        "genres": [
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "acrossfiveaprils",
     "displayName": "Across Five Aprils",
     "origin": "US",
@@ -738,11 +754,21 @@
           "Speed Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Vagando em Eternas Florestas",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
       }
     ],
     "tags": [
       "Speed Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Black Metal",
+      "Dungeon Synth"
     ]
   },
   {

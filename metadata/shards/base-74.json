@@ -1973,6 +1973,26 @@
     ]
   },
   {
+    "normalizedName": "goatholocaust",
+    "displayName": "Goat Holocaust",
+    "albums": [
+      {
+        "name": "Satanic Speed Attack",
+        "year": "2026",
+        "genres": [
+          "Raw Black Crust Punk",
+          "Speed Metal",
+          "Crust Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Crust Punk",
+      "Speed Metal",
+      "Crust Punk"
+    ]
+  },
+  {
     "normalizedName": "godfearnone",
     "displayName": "God.fear.none",
     "albums": [
@@ -2215,6 +2235,22 @@
     "tags": [
       "Metalcore",
       "Hardcore Metal"
+    ]
+  },
+  {
+    "normalizedName": "harridan",
+    "displayName": "Harridan",
+    "albums": [
+      {
+        "name": "Hul",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3448,6 +3484,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "oroboros",
+    "displayName": "Oroboros",
+    "albums": [
+      {
+        "name": "Sour",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Metal",
+      "Metalcore"
     ]
   },
   {
@@ -5317,6 +5371,13 @@
       {
         "name": "Beholder",
         "year": "2022",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Iniquity",
+        "year": "2026",
         "genres": [
           "Melodic Death Metal"
         ]

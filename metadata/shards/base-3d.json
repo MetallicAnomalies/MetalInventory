@@ -459,6 +459,13 @@
         "name": "Beswærilsin",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Mz Fianda Raþi",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -1201,6 +1208,14 @@
           "Slam Brutal Death Metal",
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Trap or Treat",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -1753,6 +1768,22 @@
     ],
     "tags": [
       "Groove Thrash"
+    ]
+  },
+  {
+    "normalizedName": "filthyland",
+    "displayName": "Filthyland",
+    "albums": [
+      {
+        "name": "Blackened Rites of Dismembered Saints: Abyss-Gazed Apocalypse",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

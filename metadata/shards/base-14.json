@@ -936,6 +936,22 @@
     ]
   },
   {
+    "normalizedName": "cheiroballistra",
+    "displayName": "Cheiroballistra",
+    "albums": [
+      {
+        "name": "Busca la verdad",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "clearxcut",
     "displayName": "Clearxcut",
     "albums": [
@@ -2100,6 +2116,13 @@
     "albums": [
       {
         "name": "Dead Flies Rising",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "I Refuse",
         "year": "2026",
         "genres": [
           "Heavy Metal"

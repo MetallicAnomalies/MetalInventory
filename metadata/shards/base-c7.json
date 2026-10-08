@@ -651,6 +651,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "The Sorceress and the Key",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -1175,6 +1182,13 @@
     "albums": [
       {
         "name": "Cradle of the New Suns",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Dimensional Demise",
         "year": "2026",
         "genres": [
           "Melodic Death Metal"
@@ -4519,6 +4533,22 @@
     "tags": [
       "Black Metal",
       "Crust Punk"
+    ]
+  },
+  {
+    "normalizedName": "soulreapers",
+    "displayName": "SoulReapers",
+    "albums": [
+      {
+        "name": "Brink of Collapse",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {

@@ -799,12 +799,21 @@
         "genres": [
           "Death 'n' Roll"
         ]
+      },
+      {
+        "name": "The Rack",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
       "Heavy Metal",
-      "Death 'n' Roll"
+      "Death 'n' Roll",
+      "Black Death Metal"
     ]
   },
   {
@@ -1460,6 +1469,24 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "imrryr",
+    "displayName": "Imrryr",
+    "albums": [
+      {
+        "name": "Those We Lost",
+        "year": "2026",
+        "genres": [
+          "Doom Metal",
+          "Various"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal",
+      "Various"
     ]
   },
   {
@@ -4512,13 +4539,22 @@
           "Atmospheric Black Metal",
           "Country Metal"
         ]
+      },
+      {
+        "name": "Riders of the Setting Sun",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Folk Metal",
+          "Folk Metal"
+        ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
       "Folk Metal",
       "Folk, World, & Country",
-      "Country Metal"
+      "Country Metal",
+      "Atmospheric Black Folk Metal"
     ]
   },
   {

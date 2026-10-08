@@ -1782,6 +1782,24 @@
     ]
   },
   {
+    "normalizedName": "escapingaghartha",
+    "displayName": "Escaping Aghartha",
+    "albums": [
+      {
+        "name": "Despite Everything... Beauty Exists",
+        "year": "2026",
+        "genres": [
+          "Blackened Doom Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Doom Metal",
+      "Ambient"
+    ]
+  },
+  {
     "normalizedName": "false",
     "displayName": "False",
     "origin": "US",
@@ -3033,6 +3051,14 @@
       },
       {
         "name": "Among the Seeds of Death",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Dust's Arrival",
         "year": "2026",
         "genres": [
           "Death Thrash Metal",

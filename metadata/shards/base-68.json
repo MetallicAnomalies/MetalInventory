@@ -848,6 +848,24 @@
     ]
   },
   {
+    "normalizedName": "cavernouscrypt",
+    "displayName": "Cavernous Crypt",
+    "albums": [
+      {
+        "name": "Last Messiah",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "cemeteryurn",
     "displayName": "Cemetery Urn",
     "albums": [
@@ -921,6 +939,17 @@
       },
       {
         "name": "Je t'aimerais, bientôt",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Ambient",
+          "Various",
+          "Raw Black Metal",
+          "Ambient",
+          "Various"
+        ]
+      },
+      {
+        "name": "coffret de bijoux / Kozhamzer",
         "year": "2026",
         "genres": [
           "Atmospheric Ambient",

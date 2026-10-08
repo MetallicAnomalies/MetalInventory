@@ -1074,10 +1074,21 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Dantalion",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Melodic Death Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Melodic Death Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -3004,6 +3015,22 @@
     "tags": []
   },
   {
+    "normalizedName": "oldwhore",
+    "displayName": "Old Whore",
+    "albums": [
+      {
+        "name": "Inverted Pentagram",
+        "year": "2026",
+        "genres": [
+          "Blackened Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Grindcore"
+    ]
+  },
+  {
     "normalizedName": "omt",
     "displayName": "O.m.t",
     "albums": [
@@ -4375,6 +4402,15 @@
     "albums": [
       {
         "name": "☙ LSD Castle ❧",
+        "year": "2026",
+        "genres": [
+          "Dungeon Synth Black Metal",
+          "Punk",
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Ethereal Spectral Moon",
         "year": "2026",
         "genres": [
           "Dungeon Synth Black Metal",

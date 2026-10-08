@@ -594,6 +594,22 @@
     ]
   },
   {
+    "normalizedName": "bruleurdusoir",
+    "displayName": "Brûleur du Soir",
+    "albums": [
+      {
+        "name": "Hypothermie",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "calvinharris",
     "displayName": "Calvin Harris",
     "origin": "GB",
@@ -1747,9 +1763,20 @@
         "name": "The Veil Of Shadows EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "The Veil of Shadows",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Doom Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "hands",
@@ -3405,6 +3432,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "reputdeath",
+    "displayName": "Reputdeath",
+    "albums": [
+      {
+        "name": "Promo 2026",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

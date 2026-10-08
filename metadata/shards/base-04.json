@@ -2165,6 +2165,24 @@
     ]
   },
   {
+    "normalizedName": "kvazar",
+    "displayName": "Kvazar",
+    "albums": [
+      {
+        "name": "Senka",
+        "year": "2026",
+        "genres": [
+          "Progressive Technical Thrash Metal",
+          "Technical Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Technical Thrash Metal",
+      "Technical Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "lazlobane",
     "displayName": "Lazlo Bane",
     "origin": "US",
@@ -4355,6 +4373,22 @@
     ]
   },
   {
+    "normalizedName": "thebloodmountainblackmetalchoir",
+    "displayName": "The Blood Mountain Black Metal Choir",
+    "albums": [
+      {
+        "name": "Songs from a Dying Empire",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "thefaith",
     "displayName": "The Faith",
     "albums": [
@@ -4587,6 +4621,22 @@
     ]
   },
   {
+    "normalizedName": "toki",
+    "displayName": "Toki",
+    "albums": [
+      {
+        "name": "El rugir de la batalla",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "tormentortyrant",
     "displayName": "Tormentor Tyrant",
     "albums": [
@@ -4783,6 +4833,13 @@
     "albums": [
       {
         "name": "Consort of the Moon",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      },
+      {
+        "name": "Demo Compilation",
         "year": "2026",
         "genres": [
           "Raw Black Metal"
@@ -5017,10 +5074,19 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Devil Music",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Post-Punk"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Post-Punk"
     ]
   },
   {

@@ -307,6 +307,24 @@
     ]
   },
   {
+    "normalizedName": "causticaura",
+    "displayName": "Caustic Aura",
+    "albums": [
+      {
+        "name": "Interstellar Rain",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Blackened Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Blackened Deathcore"
+    ]
+  },
+  {
     "normalizedName": "chronictomb",
     "displayName": "Chronic Tomb",
     "albums": [
@@ -4201,6 +4219,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "spectralcurse",
+    "displayName": "Spectral Curse",
+    "albums": [
+      {
+        "name": "Suspiria",
+        "year": "2026",
+        "genres": [
+          "Blackened Thrash Speed Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Thrash Speed Metal",
+      "Speed Metal"
     ]
   },
   {

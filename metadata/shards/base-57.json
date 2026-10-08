@@ -3889,6 +3889,14 @@
           "Death Doom Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Shadows Have Fiends",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
@@ -4806,10 +4814,20 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Darker Ages Ahead",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Melodic Black Metal",
+          "Melodic Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Atmospheric Black Metal"
+      "Atmospheric Black Metal",
+      "Atmospheric Melodic Black Metal",
+      "Melodic Black Metal"
     ]
   },
   {

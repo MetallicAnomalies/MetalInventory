@@ -1472,9 +1472,20 @@
         "name": "For The World Of The Obsolete",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Red Giraffe",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Heavy Metal",
+          "Heavy Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Melodic Death Heavy Metal",
+      "Heavy Metal"
+    ]
   },
   {
     "normalizedName": "gatesofhell",
@@ -3141,9 +3152,20 @@
         "name": "Indomitable Hostility Split",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Indomitable Hostility",
+        "year": "2026",
+        "genres": [
+          "Technical Avant-garde Death Metal | Death Metal",
+          "Avant-garde Death Metal | Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Technical Avant-garde Death Metal | Death Metal",
+      "Avant-garde Death Metal | Death Metal"
+    ]
   },
   {
     "normalizedName": "rietas",
@@ -3329,6 +3351,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "sinistrum",
+    "displayName": "Sinistrum",
+    "albums": [
+      {
+        "name": "The Hammer of Conquest",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

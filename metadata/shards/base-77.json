@@ -766,6 +766,24 @@
     ]
   },
   {
+    "normalizedName": "chronolith",
+    "displayName": "Chronolith",
+    "albums": [
+      {
+        "name": "Live at The Vic",
+        "year": "2026",
+        "genres": [
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Stoner Metal",
+      "Stoner Metal"
+    ]
+  },
+  {
     "normalizedName": "chryseis",
     "displayName": "Chryseis",
     "albums": [
@@ -1512,6 +1530,22 @@
     "tags": [
       "Gothenburg",
       "Symphonic Power"
+    ]
+  },
+  {
+    "normalizedName": "forgeus",
+    "displayName": "Forgeus",
+    "albums": [
+      {
+        "name": "Blackened Skies, Eternal Night",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -2268,6 +2302,22 @@
     "tags": []
   },
   {
+    "normalizedName": "idmonsaegis",
+    "displayName": "Idmon's Aegis",
+    "albums": [
+      {
+        "name": "Ad Gloriam",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "inira",
     "displayName": "Inira",
     "albums": [
@@ -2828,6 +2878,13 @@
       {
         "name": "Mermaid In A Manhole",
         "year": "2025",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Curse of Halloween (Demo Version)",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]
@@ -3737,6 +3794,26 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "offalgrinder",
+    "displayName": "Offal Grinder",
+    "albums": [
+      {
+        "name": "Pummeled Steaming Grey Matter Splatter",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore Goregrind",
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore Goregrind",
+      "Goregrind"
     ]
   },
   {
@@ -4803,6 +4880,22 @@
     ],
     "tags": [
       "Deathcore"
+    ]
+  },
+  {
+    "normalizedName": "wormcasket",
+    "displayName": "Worm Casket",
+    "albums": [
+      {
+        "name": "Infesting the Morgue",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

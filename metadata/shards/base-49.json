@@ -3805,6 +3805,24 @@
     ]
   },
   {
+    "normalizedName": "sinnerrage",
+    "displayName": "Sinner Rage",
+    "albums": [
+      {
+        "name": "Sinner Rising",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "somehowjo",
     "displayName": "Somehow Jo",
     "origin": "NO",
@@ -4578,10 +4596,20 @@
         "genres": [
           "Instrumental Post-metal"
         ]
+      },
+      {
+        "name": "Siete",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Post-Metal Rock",
+          "Rock"
+        ]
       }
     ],
     "tags": [
-      "Instrumental Post-metal"
+      "Instrumental Post-metal",
+      "Atmospheric Post-Metal Rock",
+      "Rock"
     ]
   },
   {

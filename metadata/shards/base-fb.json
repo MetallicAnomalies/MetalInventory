@@ -2295,6 +2295,24 @@
     ]
   },
   {
+    "normalizedName": "humus",
+    "displayName": "Humus",
+    "albums": [
+      {
+        "name": "Caronte",
+        "year": "2026",
+        "genres": [
+          "Sludge Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "incursiondementa",
     "displayName": "Incursion Dementa",
     "albums": [
@@ -3720,6 +3738,24 @@
     ],
     "tags": [
       "Funeral Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "silt",
+    "displayName": "Silt.",
+    "albums": [
+      {
+        "name": "I",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Doom Metal",
+      "Doom Metal"
     ]
   },
   {

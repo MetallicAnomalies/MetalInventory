@@ -643,6 +643,24 @@
     ]
   },
   {
+    "normalizedName": "chewingglass",
+    "displayName": "ChewingGlass",
+    "albums": [
+      {
+        "name": "Hot Box tha Kia",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "christoffear",
     "displayName": "Christoffear",
     "albums": [
@@ -2439,6 +2457,13 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Solitude",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -4065,6 +4090,13 @@
         "year": "2020",
         "genres": [
           "Extreme Avantgarde Metal",
+          "Symphonic Death Metal"
+        ]
+      },
+      {
+        "name": "Under the Pyramids (2026 Version)",
+        "year": "2026",
+        "genres": [
           "Symphonic Death Metal"
         ]
       }

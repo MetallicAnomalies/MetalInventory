@@ -1591,6 +1591,22 @@
     ]
   },
   {
+    "normalizedName": "gudsforladtmolocchio",
+    "displayName": "Gudsforladt/Molocchio",
+    "albums": [
+      {
+        "name": "The Sword and the Scepter",
+        "year": "2026",
+        "genres": [
+          "Black Metal | Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal | Black Metal"
+    ]
+  },
+  {
     "normalizedName": "guillotine",
     "displayName": "Guillotine",
     "albums": [
@@ -2758,11 +2774,22 @@
           "Doom Metal",
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "Built from Stardust",
+        "year": "2026",
+        "genres": [
+          "Sludge Experimental",
+          "Doom Metal",
+          "Experimental"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Sludge Metal"
+      "Sludge Metal",
+      "Sludge Experimental",
+      "Experimental"
     ]
   },
   {
@@ -3597,11 +3624,20 @@
         "name": "Wolfshead",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Revelatio Obscurum",
+        "year": "2026",
+        "genres": [
+          "Heavy Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Heavy Doom Metal"
     ]
   },
   {

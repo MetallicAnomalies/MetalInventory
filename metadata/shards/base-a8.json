@@ -333,6 +333,13 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Viimeinen aamunkoi",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -639,6 +646,22 @@
       {
         "name": "Gehenna",
         "year": "2024",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "bloodsigil",
+    "displayName": "Blood Sigil",
+    "albums": [
+      {
+        "name": "Promo 26",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

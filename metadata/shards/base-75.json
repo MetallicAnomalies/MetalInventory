@@ -658,6 +658,24 @@
     ]
   },
   {
+    "normalizedName": "bulbus",
+    "displayName": "Bulbus",
+    "albums": [
+      {
+        "name": "In Terram",
+        "year": "2026",
+        "genres": [
+          "Doom Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Black Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "carousel",
     "displayName": "Carousel",
     "origin": "US",

@@ -232,12 +232,21 @@
           "Progressive Metal",
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "The Ever Living Ones",
+        "year": "2026",
+        "genres": [
+          "Progressive Technical Death Metal",
+          "Technical Death Metal"
+        ]
       }
     ],
     "tags": [
       "Technical Death Metal",
       "Death Metal",
-      "Progressive Metal"
+      "Progressive Metal",
+      "Progressive Technical Death Metal"
     ]
   },
   {
@@ -4249,6 +4258,24 @@
     ],
     "tags": [
       "Grindcore"
+    ]
+  },
+  {
+    "normalizedName": "soldiersofrage",
+    "displayName": "Soldiers of Rage",
+    "albums": [
+      {
+        "name": "At the Edge of Oblivion",
+        "year": "2026",
+        "genres": [
+          "Technical Thrash Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Technical Thrash Groove Metal",
+      "Groove Metal"
     ]
   },
   {

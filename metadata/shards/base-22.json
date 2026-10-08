@@ -101,6 +101,22 @@
     ]
   },
   {
+    "normalizedName": "astralwoe",
+    "displayName": "Astral Woe",
+    "albums": [
+      {
+        "name": "Dark Night of the Soul",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "asylumpyre",
     "displayName": "Asylum Pyre",
     "origin": "FR",
@@ -1022,6 +1038,14 @@
       {
         "name": "Gaining Ground",
         "year": "2006",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      },
+      {
+        "name": "Let It Out",
+        "year": "2026",
         "genres": [
           "Heavy Metal",
           "Hard Rock"

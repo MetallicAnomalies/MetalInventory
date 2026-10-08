@@ -109,10 +109,21 @@
         "genres": [
           "Gothic Metal"
         ]
+      },
+      {
+        "name": "Лабиринт",
+        "year": "2026",
+        "genres": [
+          "Groove Gothic Metal",
+          "Death Gothic Metal",
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
-      "Gothic Metal"
+      "Gothic Metal",
+      "Groove Gothic Metal",
+      "Death Gothic Metal"
     ]
   },
   {
@@ -3098,6 +3109,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "manifestations",
+    "displayName": "Manifestations",
+    "albums": [
+      {
+        "name": "Welcome 2 Gary",
+        "year": "2026",
+        "genres": [
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Deathcore"
     ]
   },
   {

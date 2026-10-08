@@ -418,9 +418,22 @@
         "name": "Avrak",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "The Lonely Shadow",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Heavy Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Doom Metal",
+      "Heavy Doom Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "balgeroth",
@@ -2271,6 +2284,22 @@
     ]
   },
   {
+    "normalizedName": "imperiousmortality",
+    "displayName": "Imperious Mortality",
+    "albums": [
+      {
+        "name": "Abyss of Uncreation",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "isaachayes",
     "displayName": "Isaac Hayes",
     "origin": "US",
@@ -3901,6 +3930,22 @@
     "tags": [
       "Thrash Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "spiritcellar",
+    "displayName": "Spirit Cellar",
+    "albums": [
+      {
+        "name": "Spirit Cellar",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal"
     ]
   },
   {

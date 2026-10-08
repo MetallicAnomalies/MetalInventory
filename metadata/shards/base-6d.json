@@ -2015,6 +2015,29 @@
     ]
   },
   {
+    "normalizedName": "khadaver",
+    "displayName": "Khadaver",
+    "albums": [
+      {
+        "name": "Xaosblack",
+        "year": "2026",
+        "genres": [
+          "Blackened Industrial Metal"
+        ]
+      },
+      {
+        "name": "Human Disposal Limited",
+        "year": "2026",
+        "genres": [
+          "Blackened Industrial Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Industrial Metal"
+    ]
+  },
+  {
     "normalizedName": "khaled",
     "displayName": "Khaled",
     "origin": "DZ",
@@ -2319,6 +2342,24 @@
       "Death Sludge Metal",
       "Doom Sludge Metal",
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "mortuorum",
+    "displayName": "Mortuorum",
+    "albums": [
+      {
+        "name": "Glowing Apparition",
+        "year": "2026",
+        "genres": [
+          "Death Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -4513,6 +4554,28 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "yew",
+    "displayName": "Yew",
+    "albums": [
+      {
+        "name": "Remnants",
+        "year": "2026",
+        "genres": [
+          "Ambient Black Ambient",
+          "Doom Metal",
+          "Folk Ambient",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Ambient Black Ambient",
+      "Doom Metal",
+      "Folk Ambient",
+      "Ambient"
     ]
   },
   {

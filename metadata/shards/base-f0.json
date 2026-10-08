@@ -4232,9 +4232,18 @@
         "name": "Silverlake",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Blackened Roses Fall",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Melodic Black Metal"
+    ]
   },
   {
     "normalizedName": "wulfpack",

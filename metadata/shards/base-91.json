@@ -106,6 +106,28 @@
     ]
   },
   {
+    "normalizedName": "altersight",
+    "displayName": "Altersight",
+    "albums": [
+      {
+        "name": "Абаддон",
+        "year": "2026",
+        "genres": [
+          "Alternative Rock",
+          "Metal",
+          "Alternative Gothic Metal",
+          "Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Alternative Rock",
+      "Metal",
+      "Alternative Gothic Metal",
+      "Gothic Metal"
+    ]
+  },
+  {
     "normalizedName": "andreasjohnson",
     "displayName": "Andreas Johnson",
     "origin": "DE",
@@ -246,6 +268,22 @@
     ],
     "tags": [
       "Atmospheric Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "archaicbloodorlege",
+    "displayName": "Archaic Blood/Orlege",
+    "albums": [
+      {
+        "name": "Marching Towards the Firmament... For Our Noble Blood",
+        "year": "2026",
+        "genres": [
+          "Black Metal | Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal | Black Metal"
     ]
   },
   {
@@ -1563,11 +1601,20 @@
           "Death Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Pound of Flesh",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Death Thrash Metal"
     ]
   },
   {
@@ -2426,6 +2473,22 @@
     ]
   },
   {
+    "normalizedName": "generator",
+    "displayName": "Generator",
+    "albums": [
+      {
+        "name": "Generator II",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "gloom",
     "displayName": "Gloom",
     "albums": [
@@ -2909,6 +2972,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "invoketh",
+    "displayName": "Invoketh",
+    "albums": [
+      {
+        "name": "Hell's Black Vomit",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

@@ -1755,10 +1755,19 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Kaail",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Brutal Death Metal"
+      "Brutal Death Metal",
+      "Slam Brutal Death Metal"
     ]
   },
   {
@@ -4091,11 +4100,21 @@
           "Folk Metal",
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Rising",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Folk Black Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Folk Metal",
-      "Atmospheric Black Metal"
+      "Atmospheric Black Metal",
+      "Atmospheric Folk Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -4138,6 +4157,22 @@
     "tags": [
       "Death Metal",
       "Grindcore"
+    ]
+  },
+  {
+    "normalizedName": "serpentshrine",
+    "displayName": "Serpentshrine",
+    "albums": [
+      {
+        "name": "Triumph of the Adversary",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -4716,6 +4751,13 @@
         "name": "Answered Prayers",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "The Mosaic Window",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
       }
     ],
     "tags": [

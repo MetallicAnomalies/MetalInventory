@@ -323,11 +323,20 @@
           "Doom Metal",
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "Times of Failure",
+        "year": "2026",
+        "genres": [
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Sludge Metal"
+      "Sludge Metal",
+      "Doom Sludge Metal"
     ]
   },
   {
@@ -1282,6 +1291,14 @@
         "name": "Suffer Divine",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Warrior",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
@@ -1371,6 +1388,22 @@
     "tags": [
       "Doom Metal",
       "Stoner Metal"
+    ]
+  },
+  {
+    "normalizedName": "desperationeclipse",
+    "displayName": "Desperation Eclipse",
+    "albums": [
+      {
+        "name": "Internal Exile",
+        "year": "2026",
+        "genres": [
+          "Funeral Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Funeral Doom Metal"
     ]
   },
   {
@@ -2394,6 +2427,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "ilpojistolainen",
+    "displayName": "Ilpo J. Istolainen",
+    "albums": [
+      {
+        "name": "Psalm of the Brokenhearted",
+        "year": "2026",
+        "genres": [
+          "Symphonic Melodic Death Power Metal",
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Melodic Death Power Metal",
+      "Power Metal"
     ]
   },
   {
@@ -3938,6 +3989,14 @@
         "genres": [
           "Symphonic Power"
         ]
+      },
+      {
+        "name": "Deep Forest Carnival",
+        "year": "2026",
+        "genres": [
+          "Symphonic Melodic Power Metal",
+          "Melodic Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -3946,7 +4005,9 @@
       "Visual Kei",
       "J-rock",
       "Symphonic Metal",
-      "Power Metal"
+      "Power Metal",
+      "Symphonic Melodic Power Metal",
+      "Melodic Power Metal"
     ]
   },
   {
@@ -4069,6 +4130,24 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "sturmabteilungstormfront88blackmoonwarrior88blutzauber",
+    "displayName": "Sturmabteilung/Storm Front 88/Blackmoon Warrior 88/Blutzauber",
+    "albums": [
+      {
+        "name": "Theology of Rape",
+        "year": "2026",
+        "genres": [
+          "Black Metal | Black Metal | Black Metal | Raw Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal | Black Metal | Black Metal | Raw Black Metal",
+      "Ambient"
     ]
   },
   {
@@ -5547,6 +5626,22 @@
     "albums": [
       {
         "name": "From the Mountain's Shadow",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Various"
+        ]
+      },
+      {
+        "name": "The World Inside a Dream",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Various"
+        ]
+      },
+      {
+        "name": "The Old Sky",
         "year": "2026",
         "genres": [
           "Black Metal",

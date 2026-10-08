@@ -817,12 +817,23 @@
         "name": "Abyssian",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Extremophiles",
+        "year": "2026",
+        "genres": [
+          "Heavy Death Metal",
+          "Stoner Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Stoner Metal",
       "Sludge Metal",
-      "Death Metal"
+      "Death Metal",
+      "Heavy Death Metal",
+      "Stoner Death Metal"
     ]
   },
   {
@@ -4948,10 +4959,21 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Algos",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Thrash Metal",
+      "Black Death Metal"
     ]
   },
   {

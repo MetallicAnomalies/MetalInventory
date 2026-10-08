@@ -1095,6 +1095,22 @@
     ]
   },
   {
+    "normalizedName": "bloedmaancryptsofdusk",
+    "displayName": "Bloedmaan/Crypts of Dusk",
+    "albums": [
+      {
+        "name": "Curse of the Emerald Knight",
+        "year": "2026",
+        "genres": [
+          "Black Metal | Symphonic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal | Symphonic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "bornofalie",
     "displayName": "Born of a lie",
     "origin": "JP",
@@ -4428,10 +4444,18 @@
         "name": "The Haunted",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Triumph of Nature",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Gothic"
+      "Symphonic Gothic",
+      "Black Metal"
     ]
   },
   {
@@ -4477,6 +4501,22 @@
     ],
     "tags": [
       "Technical Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "sehr",
+    "displayName": "Sëhr",
+    "albums": [
+      {
+        "name": "Far Away...",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal"
     ]
   },
   {

@@ -1353,6 +1353,24 @@
     ]
   },
   {
+    "normalizedName": "exaltatiodiaboli",
+    "displayName": "Exaltatio Diaboli",
+    "albums": [
+      {
+        "name": "The Ultimate End",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Ambient"
+    ]
+  },
+  {
     "normalizedName": "exciter",
     "displayName": "Exciter",
     "albums": [
@@ -4465,6 +4483,22 @@
     ],
     "tags": [
       "Death 'N' Roll"
+    ]
+  },
+  {
+    "normalizedName": "terribletalesuntold",
+    "displayName": "Terrible Tales Untold",
+    "albums": [
+      {
+        "name": "Finally, It's Halloween",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Metal"
     ]
   },
   {

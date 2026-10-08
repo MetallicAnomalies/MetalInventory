@@ -1692,6 +1692,26 @@
     ]
   },
   {
+    "normalizedName": "guyođblightbringer",
+    "displayName": "Guyođ/Blightbringer",
+    "albums": [
+      {
+        "name": "Blightbringer | Guyođ",
+        "year": "2026",
+        "genres": [
+          "Doom Doom Metal",
+          "Death Metal | Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Doom Metal",
+      "Death Metal | Black Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "habalyanim",
     "displayName": "Habalyanim",
     "origin": "IL",
@@ -4208,6 +4228,22 @@
     ]
   },
   {
+    "normalizedName": "venussleeps",
+    "displayName": "Venus Sleeps",
+    "albums": [
+      {
+        "name": "Origins",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Psychedelic Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "verbalabuse",
     "displayName": "Verbal Abuse",
     "albums": [
@@ -4432,6 +4468,14 @@
       },
       {
         "name": "Victory",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "The Steel Beast",
         "year": "2026",
         "genres": [
           "Black Thrash Metal",

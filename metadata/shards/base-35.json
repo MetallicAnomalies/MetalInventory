@@ -3953,6 +3953,24 @@
     ]
   },
   {
+    "normalizedName": "thedeeps",
+    "displayName": "The Deeps",
+    "albums": [
+      {
+        "name": "The Deeps",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "theequinoxovthegods",
     "displayName": "The Equinox Ov The Gods",
     "albums": [
@@ -4128,6 +4146,24 @@
     ]
   },
   {
+    "normalizedName": "toweringmass",
+    "displayName": "Towering Mass",
+    "albums": [
+      {
+        "name": "Unto the Swamp Everlasting",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "toxicgoat",
     "displayName": "Toxic Goat",
     "albums": [
@@ -4151,6 +4187,13 @@
     "albums": [
       {
         "name": "Kveldsmeditasjon",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Isolierter Geist",
         "year": "2026",
         "genres": [
           "Black Metal"

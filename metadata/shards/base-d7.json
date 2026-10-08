@@ -1140,6 +1140,22 @@
     ]
   },
   {
+    "normalizedName": "eastersscreams",
+    "displayName": "Easters Screams",
+    "albums": [
+      {
+        "name": "Legion",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "eforce",
     "displayName": "E-Force",
     "origin": "US",
@@ -3254,6 +3270,22 @@
     ],
     "tags": [
       "Speed Metal"
+    ]
+  },
+  {
+    "normalizedName": "reginn",
+    "displayName": "Reginn",
+    "albums": [
+      {
+        "name": "Prison of Resounding Darkness (2026 Promo)",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

@@ -1834,6 +1834,24 @@
     ]
   },
   {
+    "normalizedName": "grauwyler",
+    "displayName": "Grauwyler",
+    "albums": [
+      {
+        "name": "Spiritual Discernment",
+        "year": "2026",
+        "genres": [
+          "Depressive Post-Black Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Post-Black Metal",
+      "Post-Black Metal"
+    ]
+  },
+  {
     "normalizedName": "grimner",
     "displayName": "Grimner",
     "origin": "SE",
@@ -2262,6 +2280,13 @@
         "genres": [
           "Black Metal",
           "Folk Metal"
+        ]
+      },
+      {
+        "name": "The Forgotten Realms of Korpituli, Chapter 1: The Keys and Gates at the Northern Docks",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
         ]
       }
     ],

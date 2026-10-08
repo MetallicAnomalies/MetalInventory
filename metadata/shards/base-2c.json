@@ -181,6 +181,24 @@
     ]
   },
   {
+    "normalizedName": "asmodeus",
+    "displayName": "Asmodeus",
+    "albums": [
+      {
+        "name": "Punarutthanam",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "athlantis",
     "displayName": "Athlantis",
     "albums": [
@@ -515,6 +533,24 @@
     ],
     "tags": [
       "Post-hardcore"
+    ]
+  },
+  {
+    "normalizedName": "brutalpig",
+    "displayName": "Brutal Pig",
+    "albums": [
+      {
+        "name": "Perversiones Porcinas",
+        "year": "2026",
+        "genres": [
+          "Goregrind Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -3266,6 +3302,22 @@
     ]
   },
   {
+    "normalizedName": "naarkhatak",
+    "displayName": "Näarkhatak",
+    "albums": [
+      {
+        "name": "Irrévérence à l'égard des masses",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "narcoticdeath",
     "displayName": "Narcotic Death",
     "albums": [
@@ -4481,6 +4533,32 @@
     ],
     "tags": [
       "Deathcore",
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "svartsun",
+    "displayName": "Svart Sun",
+    "albums": [
+      {
+        "name": "The Ghost of What We Were",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Torn Between",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
       "Death Metal"
     ]
   },

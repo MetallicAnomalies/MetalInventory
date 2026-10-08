@@ -567,6 +567,22 @@
     ]
   },
   {
+    "normalizedName": "blightreaper",
+    "displayName": "Blight Reaper",
+    "albums": [
+      {
+        "name": "Otherworld Mortuary",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "bloodshed",
     "displayName": "Bloodshed",
     "albums": [
@@ -1726,6 +1742,24 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "fog",
+    "displayName": "Fog",
+    "albums": [
+      {
+        "name": "The Unseen",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Doom Metal"
     ]
   },
   {

@@ -527,6 +527,26 @@
     ]
   },
   {
+    "normalizedName": "bonewretch",
+    "displayName": "Bonewretch",
+    "albums": [
+      {
+        "name": "Bonewretch",
+        "year": "2026",
+        "genres": [
+          "Slam Hardcore",
+          "Brutal Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Hardcore",
+      "Brutal Death Metal",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "bowelstew",
     "displayName": "Bowel Stew",
     "origin": "IT",
@@ -743,6 +763,22 @@
     ],
     "tags": [
       "Progressive Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "cosmicserpent",
+    "displayName": "Cosmic Serpent",
+    "albums": [
+      {
+        "name": "Gateway To The Celestial Path",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
     ]
   },
   {
@@ -4496,6 +4532,46 @@
           "Thrash Metal",
           "Shred"
         ]
+      },
+      {
+        "name": "Albeniz Tango in D",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Michael Finnegan",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "La Paloma",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Tarrega Tango Maria",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
       }
     ],
     "tags": [
@@ -4730,6 +4806,24 @@
       "Electronic",
       "Art Rock",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "throneofroaches",
+    "displayName": "Throne of Roaches",
+    "albums": [
+      {
+        "name": "What Dwells Below",
+        "year": "2026",
+        "genres": [
+          "Deathcore Melodic Death Metal",
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Deathcore Melodic Death Metal",
+      "Melodic Death Metal"
     ]
   },
   {

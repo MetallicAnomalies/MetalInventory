@@ -1596,6 +1596,22 @@
     ]
   },
   {
+    "normalizedName": "goreshower",
+    "displayName": "Goreshower",
+    "albums": [
+      {
+        "name": "Dismembered and Reassembled",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "greyskiesoverrapture",
     "displayName": "Grey Skies Over Rapture",
     "albums": [
@@ -3263,6 +3279,24 @@
     ],
     "tags": [
       "Children's Music"
+    ]
+  },
+  {
+    "normalizedName": "skogamor",
+    "displayName": "Skogamor",
+    "albums": [
+      {
+        "name": "Tyranny of Ashes",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Death Metal",
+      "Death Metal"
     ]
   },
   {

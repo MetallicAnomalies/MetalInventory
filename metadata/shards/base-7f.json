@@ -4085,6 +4085,42 @@
     ]
   },
   {
+    "normalizedName": "vieuxos",
+    "displayName": "Vieux-os",
+    "albums": [
+      {
+        "name": "Neùt de sorcelajhe en mortabres (Archives 2026)",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dungeon Synth"
+    ]
+  },
+  {
+    "normalizedName": "wintermourne",
+    "displayName": "Wintermourne",
+    "albums": [
+      {
+        "name": "When I Die?",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal",
+      "Ambient"
+    ]
+  },
+  {
     "normalizedName": "witchpiss",
     "displayName": "Witch Piss",
     "albums": [
@@ -4159,6 +4195,13 @@
       {
         "name": "The Eclipse Of Worlds",
         "year": "2024",
+        "genres": [
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "Soldiers of the Rising Dawn",
+        "year": "2026",
         "genres": [
           "Power Metal"
         ]

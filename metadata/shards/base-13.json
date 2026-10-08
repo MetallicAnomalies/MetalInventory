@@ -486,6 +486,26 @@
     "tags": []
   },
   {
+    "normalizedName": "blackgroove",
+    "displayName": "Black Groove",
+    "albums": [
+      {
+        "name": "Work Yourself to the Bone",
+        "year": "2026",
+        "genres": [
+          "Doom Hardcore",
+          "Sludge Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Hardcore",
+      "Sludge Metal",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "blazingwarmachine",
     "displayName": "Blazing War Machine",
     "origin": "FR",
@@ -1347,6 +1367,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "frostgripen",
+    "displayName": "Frostgripen",
+    "albums": [
+      {
+        "name": "Dark Forest",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

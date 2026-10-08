@@ -141,10 +141,18 @@
         "genres": [
           "Grindcore"
         ]
+      },
+      {
+        "name": "Horda",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Grindcore"
+      "Grindcore",
+      "Death Metal"
     ]
   },
   {
@@ -3799,11 +3807,23 @@
           "Melodic Black Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "The Path of Pain",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Thrash Metal with Folk influences",
+          "Death Thrash Metal with Folk influences",
+          "Thrash Metal with Folk influences"
+        ]
       }
     ],
     "tags": [
       "Melodic Black Metal",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Melodic Black Thrash Metal with Folk influences",
+      "Death Thrash Metal with Folk influences",
+      "Thrash Metal with Folk influences"
     ]
   },
   {

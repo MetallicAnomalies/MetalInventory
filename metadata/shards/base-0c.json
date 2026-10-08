@@ -650,6 +650,22 @@
     ]
   },
   {
+    "normalizedName": "boche",
+    "displayName": "Boche",
+    "albums": [
+      {
+        "name": "III",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "boundbyentrails",
     "displayName": "Bound By Entrails",
     "albums": [
@@ -1429,6 +1445,22 @@
     ]
   },
   {
+    "normalizedName": "desireofpain",
+    "displayName": "Desire of Pain",
+    "albums": [
+      {
+        "name": "De fatasmas y muerte",
+        "year": "2026",
+        "genres": [
+          "Progressive Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "devilonearth",
     "displayName": "Devil On Earth",
     "albums": [
@@ -1818,10 +1850,24 @@
         "genres": [
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Black metal uus lõpp",
+        "year": "2026",
+        "genres": [
+          "Stoner Rock",
+          "Stoner Doom Metal",
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Stoner Metal"
+      "Stoner Metal",
+      "Stoner Rock",
+      "Stoner Doom Metal",
+      "Sludge Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -2217,6 +2263,24 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "genocidehammer",
+    "displayName": "Genocide Hammer",
+    "albums": [
+      {
+        "name": "Bioterroristic Panspermia",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

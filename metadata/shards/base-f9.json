@@ -69,6 +69,22 @@
     ]
   },
   {
+    "normalizedName": "animoaeger",
+    "displayName": "Animo Aeger",
+    "albums": [
+      {
+        "name": "Den Zahnlosen ein Prophet",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "apalehorsenameddeath",
     "displayName": "A Pale Horse Named Death",
     "origin": "US",
@@ -809,6 +825,16 @@
           "Grindcore Goregrind",
           "Goregrind"
         ]
+      },
+      {
+        "name": "Horrors Unreleased",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Dark Ambient",
+          "Grindcore Goregrind",
+          "Goregrind"
+        ]
       }
     ],
     "tags": [
@@ -1109,6 +1135,24 @@
       "Rhythm & Blues",
       "Rock",
       "Louisiana Blues"
+    ]
+  },
+  {
+    "normalizedName": "filthwar",
+    "displayName": "Filthwar",
+    "albums": [
+      {
+        "name": "Guerillheiros Atomic Goatcunt Syndicate",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Punk"
     ]
   },
   {
@@ -4042,6 +4086,22 @@
       "Lo-fi",
       "Shoegaze",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "withinthywounds",
+    "displayName": "Within Thy Wounds",
+    "albums": [
+      {
+        "name": "Beneath the Stars of Freezing Night",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {

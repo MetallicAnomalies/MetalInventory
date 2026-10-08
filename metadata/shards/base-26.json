@@ -319,6 +319,13 @@
         "name": "The Reckoning EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "The Reckoning",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -2073,6 +2080,22 @@
     ],
     "tags": [
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "kilat",
+    "displayName": "Kilat",
+    "albums": [
+      {
+        "name": "Tirai Niskala",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

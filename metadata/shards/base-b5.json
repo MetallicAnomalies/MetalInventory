@@ -4006,5 +4006,23 @@
       "Rock",
       "Alternative Rock"
     ]
+  },
+  {
+    "normalizedName": "минутаагонии",
+    "displayName": "Минута Агонии",
+    "albums": [
+      {
+        "name": "Keep Smiling!",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal",
+      "Ambient"
+    ]
   }
 ]

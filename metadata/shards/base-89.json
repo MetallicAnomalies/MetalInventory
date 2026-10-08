@@ -620,6 +620,24 @@
     ]
   },
   {
+    "normalizedName": "collapsor",
+    "displayName": "Collapsor",
+    "albums": [
+      {
+        "name": "We Deserve Extinction",
+        "year": "2026",
+        "genres": [
+          "Crossover Grindcore",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Crossover Grindcore",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "command6",
     "displayName": "Command6",
     "albums": [
@@ -2422,6 +2440,16 @@
         "name": "Black Magick Abraxas",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Abraxas Rising",
+        "year": "2026",
+        "genres": [
+          "Industrial Rock",
+          "EBM",
+          "Electronic Industrial Rock",
+          "Melodic Groove Metal"
+        ]
       }
     ],
     "tags": [
@@ -2429,7 +2457,11 @@
       "Industrial Metal",
       "Black Metal",
       "Ebm",
-      "Hard Rock"
+      "Hard Rock",
+      "Industrial Rock",
+      "EBM",
+      "Electronic Industrial Rock",
+      "Melodic Groove Metal"
     ]
   },
   {

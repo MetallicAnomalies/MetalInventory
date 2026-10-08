@@ -457,6 +457,24 @@
     ]
   },
   {
+    "normalizedName": "azgaroth",
+    "displayName": "Azgaroth",
+    "albums": [
+      {
+        "name": "Aavekipu",
+        "year": "2026",
+        "genres": [
+          "Black Folk Metal",
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Folk Metal",
+      "Folk Metal"
+    ]
+  },
+  {
     "normalizedName": "bachtndevullemoane",
     "displayName": "Bacht'n de Vulle Moane",
     "albums": [
@@ -4192,6 +4210,22 @@
     ]
   },
   {
+    "normalizedName": "sunder",
+    "displayName": "Sunder",
+    "albums": [
+      {
+        "name": "Blackout Trip",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "templeofbrutality",
     "displayName": "Temple Of Brutality",
     "albums": [
@@ -4624,6 +4658,22 @@
     ],
     "tags": [
       "Gothic Metal"
+    ]
+  },
+  {
+    "normalizedName": "venia",
+    "displayName": "Venia",
+    "albums": [
+      {
+        "name": "Miks (re-miks 2026)",
+        "year": "2026",
+        "genres": [
+          "Melodic Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Heavy Metal"
     ]
   },
   {

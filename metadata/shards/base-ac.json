@@ -621,6 +621,22 @@
     ]
   },
   {
+    "normalizedName": "cerebraldesolation",
+    "displayName": "Cerebral Desolation",
+    "albums": [
+      {
+        "name": "In Times of War",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "chaosdivine",
     "displayName": "Chaos Divine",
     "origin": "AU",
@@ -2058,6 +2074,24 @@
     ]
   },
   {
+    "normalizedName": "kuvotus",
+    "displayName": "Kuvotus",
+    "albums": [
+      {
+        "name": "Vivisectionist",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "kyrios",
     "displayName": "Kyrios",
     "albums": [
@@ -2794,6 +2828,22 @@
     ],
     "tags": [
       "Epic Heavy"
+    ]
+  },
+  {
+    "normalizedName": "putridcavemen",
+    "displayName": "Putrid Cavemen",
+    "albums": [
+      {
+        "name": "Crawling in Guts",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -3552,6 +3602,14 @@
       },
       {
         "name": "Bootleg 2008 - Live at Old Brick 97.5",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Guernica",
         "year": "2026",
         "genres": [
           "Melodic Death Thrash Metal",

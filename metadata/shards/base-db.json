@@ -3439,12 +3439,21 @@
           "Brutal Deathcore",
           "Symphonic Deathcore"
         ]
+      },
+      {
+        "name": "Ride of the Valkyries",
+        "year": "2026",
+        "genres": [
+          "Brutal Deathcore",
+          "Symphonic Blackened Deathcore"
+        ]
       }
     ],
     "tags": [
       "Deathcore",
       "Brutal Deathcore",
-      "Symphonic Deathcore"
+      "Symphonic Deathcore",
+      "Symphonic Blackened Deathcore"
     ]
   },
   {
@@ -4673,6 +4682,22 @@
     ]
   },
   {
+    "normalizedName": "septicisle",
+    "displayName": "Septic Isle",
+    "albums": [
+      {
+        "name": "Septic Isle",
+        "year": "2026",
+        "genres": [
+          "Technical Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Technical Death Metal"
+    ]
+  },
+  {
     "normalizedName": "shylow",
     "displayName": "Shy, Low",
     "origin": "US",
@@ -5094,11 +5119,29 @@
           "Melodic Death Metal",
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Uncharted Plains",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Black Metal",
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "A Promise of Storm",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Black Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Melodic Death Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -5350,6 +5393,24 @@
       "Glam Metal",
       "Electronic",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "thenecrovomitsdinaddict",
+    "displayName": "The NecroVomits/Din-Addict",
+    "albums": [
+      {
+        "name": "Din-Addict / The NecroVomits",
+        "year": "2026",
+        "genres": [
+          "Blackened Thrash Speed Metal | Grindcore",
+          "Speed Metal | Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Thrash Speed Metal | Grindcore",
+      "Speed Metal | Grindcore"
     ]
   },
   {

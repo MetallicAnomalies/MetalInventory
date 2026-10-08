@@ -778,6 +778,24 @@
     ]
   },
   {
+    "normalizedName": "cynocephalus",
+    "displayName": "Cynocephalus",
+    "albums": [
+      {
+        "name": "Philomela/Blood Ran in Torrents, Drenched Was All the Earth",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "daturapol",
     "displayName": "Datûra (Pol)",
     "albums": [
@@ -959,12 +977,21 @@
           "Stoner Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Signs",
+        "year": "2026",
+        "genres": [
+          "Stoner Rock",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Hard Rock",
       "Stoner Rock",
-      "Rock"
+      "Rock",
+      "Metal"
     ]
   },
   {
@@ -2290,6 +2317,24 @@
     ]
   },
   {
+    "normalizedName": "kryzorath",
+    "displayName": "Kryzorath",
+    "albums": [
+      {
+        "name": "You Will Vanish",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "leathernunamerica",
     "displayName": "Leather Nun America",
     "albums": [
@@ -2801,10 +2846,21 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Desolation Divine",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Black Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -2881,6 +2937,24 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "onlywormsleft",
+    "displayName": "Only Worms Left",
+    "albums": [
+      {
+        "name": "Beneath the Earth, at One with Fear",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Death Doom Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "operatikaelement",
@@ -3242,6 +3316,22 @@
     ],
     "tags": [
       "Grindcore"
+    ]
+  },
+  {
+    "normalizedName": "portalwind",
+    "displayName": "Portal Wind",
+    "albums": [
+      {
+        "name": "Only Memories",
+        "year": "2026",
+        "genres": [
+          "Progressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Black Metal"
     ]
   },
   {

@@ -3576,6 +3576,22 @@
     ]
   },
   {
+    "normalizedName": "myrkblot",
+    "displayName": "Myrkblot",
+    "albums": [
+      {
+        "name": "The Cold That Remembers",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "neutralmilkhotel",
     "displayName": "Neutral Milk Hotel",
     "origin": "US",
@@ -4993,6 +5009,28 @@
       "Thrash Metal",
       "Speed Metal",
       "Industrial Metal"
+    ]
+  },
+  {
+    "normalizedName": "vortekkepostnatalabortion",
+    "displayName": "Vortekke/Postnatal Abortion",
+    "albums": [
+      {
+        "name": "Postnatal Abortion / Vortekke",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Goregrind Hardcore",
+          "Noisegrind | Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal",
+      "Goregrind Hardcore",
+      "Noisegrind | Death Metal",
+      "Hardcore"
     ]
   },
   {

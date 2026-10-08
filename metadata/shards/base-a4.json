@@ -560,9 +560,18 @@
         "name": "Instruments Of Fungal Intent",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "III: Instruments of Fungal Intent",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "bogamber",
@@ -2782,6 +2791,26 @@
       "Symphonic Gothic",
       "Gothic Metal",
       "Symphonic Metal"
+    ]
+  },
+  {
+    "normalizedName": "mig21",
+    "displayName": "MiG-21",
+    "albums": [
+      {
+        "name": "A tu estado",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover Punk",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Crossover Punk",
+      "Punk"
     ]
   },
   {

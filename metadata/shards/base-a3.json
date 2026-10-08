@@ -2599,6 +2599,13 @@
         "genres": [
           "Speed Metal"
         ]
+      },
+      {
+        "name": "Cyclone Assault",
+        "year": "2026",
+        "genres": [
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
@@ -3339,6 +3346,24 @@
     "tags": [
       "Progressive Black Metal",
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "thrashcourse",
+    "displayName": "Thrash Course",
+    "albums": [
+      {
+        "name": "From Wreckage",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

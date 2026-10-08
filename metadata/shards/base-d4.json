@@ -32,6 +32,26 @@
     ]
   },
   {
+    "normalizedName": "adrenaphine",
+    "displayName": "Adrenaphine",
+    "albums": [
+      {
+        "name": "Death Dealer",
+        "year": "2026",
+        "genres": [
+          "Heavy Groove Metal",
+          "Southern Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Groove Metal",
+      "Southern Groove Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "aeturnusdominion",
     "displayName": "Aeturnus Dominion",
     "albums": [
@@ -1121,6 +1141,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "crowsvsravens",
+    "displayName": "CrowsVsRavens",
+    "albums": [
+      {
+        "name": "Black Inside",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
     ]
   },
   {
@@ -2307,10 +2343,18 @@
         "genres": [
           "Hardcore Metal"
         ]
+      },
+      {
+        "name": "Somos",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore Metal",
+      "Metalcore"
     ]
   },
   {

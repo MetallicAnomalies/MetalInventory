@@ -2564,6 +2564,22 @@
     ]
   },
   {
+    "normalizedName": "khymaira",
+    "displayName": "Khymaira",
+    "albums": [
+      {
+        "name": "Los sabios del roble",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "konkhra",
     "displayName": "Konkhra",
     "origin": "DK",
@@ -3423,6 +3439,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "newworldman",
+    "displayName": "New World Man",
+    "albums": [
+      {
+        "name": "I Am the Machine",
+        "year": "2026",
+        "genres": [
+          "Groove Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal",
+      "Hardcore"
     ]
   },
   {
@@ -4830,6 +4864,14 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Isn't She Beautiful?",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Symphonic Death Metal with Electronic influences"
+        ]
       }
     ],
     "tags": [
@@ -4837,7 +4879,8 @@
       "Death Metal",
       "Technical Death Metal",
       "Symphonic Metal",
-      "Industrial Metal"
+      "Industrial Metal",
+      "Symphonic Death Metal with Electronic influences"
     ]
   },
   {
@@ -4967,6 +5010,22 @@
     "tags": [
       "Symphonic Black Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "tristitianigrum",
+    "displayName": "Tristitia Nigrum",
+    "albums": [
+      {
+        "name": "Wisdom of Grief",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

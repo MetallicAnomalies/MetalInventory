@@ -42,6 +42,22 @@
     ]
   },
   {
+    "normalizedName": "acedia",
+    "displayName": "Acédia",
+    "albums": [
+      {
+        "name": "Égarement",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "agincourt",
     "displayName": "Agincourt",
     "albums": [
@@ -173,10 +189,18 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Memento Mori, Memento Vivere",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Heavy Metal"
+      "Heavy Metal",
+      "Melodic Death Metal"
     ]
   },
   {

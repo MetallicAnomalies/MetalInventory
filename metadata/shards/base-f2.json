@@ -1587,6 +1587,22 @@
     ]
   },
   {
+    "normalizedName": "evo",
+    "displayName": "EVO",
+    "albums": [
+      {
+        "name": "La Redención del Fénix",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "fark",
     "displayName": "Fark",
     "albums": [
@@ -2295,6 +2311,24 @@
       "K-pop",
       "Soundtrack",
       "Theme"
+    ]
+  },
+  {
+    "normalizedName": "iniquityofhate",
+    "displayName": "Iniquity of Hate",
+    "albums": [
+      {
+        "name": "Desiderium",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal",
+      "Hardcore"
     ]
   },
   {

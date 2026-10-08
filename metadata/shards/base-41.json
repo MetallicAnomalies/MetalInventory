@@ -2000,6 +2000,24 @@
     ]
   },
   {
+    "normalizedName": "hellrunner",
+    "displayName": "Hellrunner",
+    "albums": [
+      {
+        "name": "Shocked in Secret Studios",
+        "year": "2026",
+        "genres": [
+          "Speed Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Speed Heavy Metal",
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "huntressofstars",
     "displayName": "Huntress of Stars",
     "albums": [
@@ -3453,11 +3471,23 @@
           "Us Power",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Don't Be Afraid",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Power Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Us Power",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Heavy Thrash Metal",
+      "Power Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

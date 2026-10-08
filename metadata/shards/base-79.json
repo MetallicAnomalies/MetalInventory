@@ -3808,6 +3808,22 @@
     ]
   },
   {
+    "normalizedName": "mysticism",
+    "displayName": "Mysticism",
+    "albums": [
+      {
+        "name": "Hellish Crucifixion",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "nanowarofsteel",
     "displayName": "Nanowar of Steel",
     "origin": "IT",
@@ -4809,10 +4825,18 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Trister kobold",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Raw Black Metal"
     ]
   },
   {

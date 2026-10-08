@@ -1102,6 +1102,22 @@
     ]
   },
   {
+    "normalizedName": "dhikkaar",
+    "displayName": "Dhikkaar",
+    "albums": [
+      {
+        "name": "In the Name of Paper Notes",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "dimmuborgir",
     "displayName": "Dimmu Borgir",
     "origin": "NO",
@@ -3499,6 +3515,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "stoctober",
+    "displayName": "St. October",
+    "albums": [
+      {
+        "name": "Bathsheba Sherman",
+        "year": "2026",
+        "genres": [
+          "Gothic Melodic Groove Metal",
+          "Melodic Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Melodic Groove Metal",
+      "Melodic Groove Metal"
     ]
   },
   {

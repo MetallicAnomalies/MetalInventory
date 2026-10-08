@@ -1204,10 +1204,27 @@
         "genres": [
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Blind Faith",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "Road to Insanity",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Metal"
+      "Progressive Metal",
+      "Heavy Metal"
     ]
   },
   {
@@ -5436,6 +5453,22 @@
     ],
     "tags": [
       "Avantgarde Black"
+    ]
+  },
+  {
+    "normalizedName": "umcaoandaluz",
+    "displayName": "Um Cão Andaluz",
+    "albums": [
+      {
+        "name": "Um Cão Andaluz #2",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

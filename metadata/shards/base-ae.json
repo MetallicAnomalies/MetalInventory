@@ -950,11 +950,19 @@
           "Doom Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "En hojas al viento",
+        "year": "2026",
+        "genres": [
+          "Neoclassical Power Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Neoclassical Power Metal"
     ]
   },
   {
@@ -3507,6 +3515,22 @@
     ]
   },
   {
+    "normalizedName": "servustenebris",
+    "displayName": "Servus Tenebris",
+    "albums": [
+      {
+        "name": "Apócrifo",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "sevencrows",
     "displayName": "Sevencrows",
     "origin": "IT",
@@ -3858,6 +3882,26 @@
     "tags": [
       "Thrash Metal",
       "Us Power"
+    ]
+  },
+  {
+    "normalizedName": "tannoiser",
+    "displayName": "Tannoiser",
+    "albums": [
+      {
+        "name": "Mekkano",
+        "year": "2026",
+        "genres": [
+          "Stoner Death Metal",
+          "Doom Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Death Metal",
+      "Doom Death Metal",
+      "Death Metal"
     ]
   },
   {

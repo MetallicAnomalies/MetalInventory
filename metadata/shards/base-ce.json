@@ -1311,6 +1311,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Homo Homini Lupus",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -1758,11 +1765,32 @@
           "Industrial Metal",
           "Groove Metal"
         ]
+      },
+      {
+        "name": "Gagamania Mixtape",
+        "year": "2026",
+        "genres": [
+          "Nu-Metal",
+          "Melodic Groove Metal",
+          "Metalcore with Electronic elements"
+        ]
+      },
+      {
+        "name": "Ich liebs mir dir",
+        "year": "2026",
+        "genres": [
+          "Nu-Metal",
+          "Melodic Groove Metal",
+          "Metalcore with Electronic elements"
+        ]
       }
     ],
     "tags": [
       "Industrial Metal",
-      "Groove Metal"
+      "Groove Metal",
+      "Nu-Metal",
+      "Melodic Groove Metal",
+      "Metalcore with Electronic elements"
     ]
   },
   {
@@ -1777,11 +1805,21 @@
           "Death Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Of Poets and Prophets",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Melodic Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -4908,6 +4946,24 @@
       "Black 'N Roll",
       "Heavy Metal",
       "Comedy Rock"
+    ]
+  },
+  {
+    "normalizedName": "wizardssleeves",
+    "displayName": "Wizards Sleeves",
+    "albums": [
+      {
+        "name": "The Giant",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Doom Metal",
+      "Doom Metal"
     ]
   },
   {

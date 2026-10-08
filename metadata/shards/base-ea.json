@@ -3987,6 +3987,24 @@
     ]
   },
   {
+    "normalizedName": "tastethefloor",
+    "displayName": "Taste the Floor",
+    "albums": [
+      {
+        "name": "Aimless Bound",
+        "year": "2026",
+        "genres": [
+          "Hardcore Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Hardcore Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "thechurchbizzare",
     "displayName": "The Church Bizzare",
     "albums": [
@@ -4304,6 +4322,13 @@
       {
         "name": "More Insane",
         "year": "2024",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Arterial Bombardment",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]

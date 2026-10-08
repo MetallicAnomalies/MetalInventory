@@ -2344,6 +2344,22 @@
     ]
   },
   {
+    "normalizedName": "lude",
+    "displayName": "Lude",
+    "albums": [
+      {
+        "name": "The Angst of Being Reborn in Nameless Flesh",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "manowar",
     "displayName": "Manowar",
     "origin": "US",
@@ -3964,6 +3980,14 @@
           "Slam Brutal Death Metal",
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Carnage Unleashed",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -4106,6 +4130,22 @@
     "tags": [
       "Death Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "subserviency",
+    "displayName": "Subserviency",
+    "albums": [
+      {
+        "name": "Observing the Ancestral Twilight",
+        "year": "2026",
+        "genres": [
+          "Technical Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Technical Brutal Death Metal"
     ]
   },
   {

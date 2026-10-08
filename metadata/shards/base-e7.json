@@ -3828,6 +3828,22 @@
     "tags": []
   },
   {
+    "normalizedName": "ominouscovenant",
+    "displayName": "Ominous Covenant",
+    "albums": [
+      {
+        "name": "Legacy of the Dead God",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "pantheonomega",
     "displayName": "Pantheon Omega",
     "albums": [
@@ -4025,6 +4041,22 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "ravensagony",
+    "displayName": "Raven's Agony",
+    "albums": [
+      {
+        "name": "Bound by Fire",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {
@@ -5324,6 +5356,22 @@
     ]
   },
   {
+    "normalizedName": "vampiriccrypt",
+    "displayName": "Vampiric Crypt",
+    "albums": [
+      {
+        "name": "Bounded by None, Intertwined by Thee",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "vermintide",
     "displayName": "Vermintide",
     "albums": [
@@ -5511,6 +5559,22 @@
     ],
     "tags": [
       "Pagan Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "waralone",
+    "displayName": "War Alone",
+    "albums": [
+      {
+        "name": "Hostile",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

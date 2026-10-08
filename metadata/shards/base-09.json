@@ -2224,10 +2224,18 @@
         "genres": [
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "Worlds Beyond the Sun",
+        "year": "2026",
+        "genres": [
+          "Progressive Technical Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Technical Death Metal"
+      "Technical Death Metal",
+      "Progressive Technical Death Metal"
     ]
   },
   {
@@ -3363,6 +3371,14 @@
     "albums": [
       {
         "name": "Through The Storm And Endless Night",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
+      },
+      {
+        "name": "Spiraling Disillusion",
         "year": "2026",
         "genres": [
           "Black Metal",

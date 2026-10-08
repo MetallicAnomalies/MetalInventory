@@ -4680,6 +4680,15 @@
           "Symphonic Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "Death on Display",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal",
+          "Melodic Death Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -4687,7 +4696,9 @@
       "Power Metal",
       "Black Metal",
       "Thrash Metal",
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Symphonic Power Metal",
+      "Melodic Death Power Metal"
     ]
   },
   {

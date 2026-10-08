@@ -836,10 +836,19 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Scorpion",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Heavy Thrash Metal"
     ]
   },
   {
@@ -1648,6 +1657,13 @@
       {
         "name": "Aspiral",
         "year": "2025",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      },
+      {
+        "name": "Live at the Symphonic Synergy",
+        "year": "2026",
         "genres": [
           "Symphonic Metal"
         ]
@@ -2867,6 +2883,14 @@
     "albums": [
       {
         "name": "Kuu",
+        "year": "2026",
+        "genres": [
+          "Blackened Crust Punk",
+          "Post-Black Metal"
+        ]
+      },
+      {
+        "name": "Остров",
         "year": "2026",
         "genres": [
           "Blackened Crust Punk",
@@ -4673,6 +4697,26 @@
     "tags": [
       "Black Sludge Metal",
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "łukaszradecki",
+    "displayName": "Łukasz Radecki",
+    "albums": [
+      {
+        "name": "October Heart",
+        "year": "2026",
+        "genres": [
+          "Thrash Shred",
+          "Death Metal",
+          "Shred"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Shred",
+      "Death Metal",
+      "Shred"
     ]
   }
 ]

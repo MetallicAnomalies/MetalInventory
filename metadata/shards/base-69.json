@@ -1534,6 +1534,24 @@
     ]
   },
   {
+    "normalizedName": "flyingfuzz",
+    "displayName": "Flying Fuzz",
+    "albums": [
+      {
+        "name": "Artificial Age",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "flykt",
     "displayName": "Flykt",
     "albums": [
@@ -2753,9 +2771,18 @@
         "name": "The Final Straw EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "The Final Straw",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Heavy Metal"
+    ]
   },
   {
     "normalizedName": "owdwyr",

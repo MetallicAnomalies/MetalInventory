@@ -2887,13 +2887,21 @@
           "Prog Rock",
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Zion",
+        "year": "2026",
+        "genres": [
+          "Progressive Power Metal"
+        ]
       }
     ],
     "tags": [
       "Power Metal",
       "Heavy Metal",
       "Prog Rock",
-      "Progressive Metal"
+      "Progressive Metal",
+      "Progressive Power Metal"
     ]
   },
   {
@@ -3268,6 +3276,24 @@
     ],
     "tags": [
       "Blackened Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "negativus",
+    "displayName": "Negativus",
+    "albums": [
+      {
+        "name": "Invidia",
+        "year": "2026",
+        "genres": [
+          "Death Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Groove Metal",
+      "Groove Metal"
     ]
   },
   {
@@ -4630,6 +4656,13 @@
     "albums": [
       {
         "name": "Das Weinen des Mondes",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "Die Ewige Kälte (Demo II)",
         "year": "2026",
         "genres": [
           "Atmospheric Black Metal"

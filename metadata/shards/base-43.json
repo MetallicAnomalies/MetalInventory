@@ -23,6 +23,22 @@
     ]
   },
   {
+    "normalizedName": "amesia",
+    "displayName": "Amesia",
+    "albums": [
+      {
+        "name": "Demonstration 2026",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "animetorment",
     "displayName": "Anime Torment",
     "origin": "CZ",
@@ -2757,6 +2773,22 @@
     ]
   },
   {
+    "normalizedName": "nexicon",
+    "displayName": "Nexicon",
+    "albums": [
+      {
+        "name": "Abra-Macabre",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "nothingliesbeyond",
     "displayName": "Nothing Lies Beyond",
     "albums": [
@@ -4100,6 +4132,22 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "warpathrl",
+    "displayName": "Warpath RL",
+    "albums": [
+      {
+        "name": "Talez from the Rez",
+        "year": "2026",
+        "genres": [
+          "Blackened Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Grindcore"
     ]
   },
   {

@@ -2427,6 +2427,22 @@
     ]
   },
   {
+    "normalizedName": "lizzord",
+    "displayName": "Lizzord",
+    "albums": [
+      {
+        "name": "Cosmic Crypt",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "luxperpetua",
     "displayName": "Lux Perpetua",
     "origin": "PL",
@@ -3853,6 +3869,14 @@
           "Doom Death Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "We Were Never Meant to Be Here",
+        "year": "2026",
+        "genres": [
+          "Doom Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3892,6 +3916,24 @@
     ],
     "tags": [
       "Ambient Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "sonsoferebus",
+    "displayName": "Sons of Erebus",
+    "albums": [
+      {
+        "name": "Erebus",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

@@ -2122,6 +2122,22 @@
     ]
   },
   {
+    "normalizedName": "fornbrunnr",
+    "displayName": "Fornbrunnr",
+    "albums": [
+      {
+        "name": "Incipient",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "galleons",
     "displayName": "Galleons",
     "origin": "AU",
@@ -3379,6 +3395,22 @@
     ]
   },
   {
+    "normalizedName": "odiousdevotion",
+    "displayName": "Odious Devotion",
+    "albums": [
+      {
+        "name": "Ylistysvirret",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "paracoccidioidomicosisproctitissarcomucosis",
     "displayName": "Paracoccidioidomicosisproctitissarcomucosis",
     "albums": [
@@ -3847,6 +3879,24 @@
     "tags": []
   },
   {
+    "normalizedName": "temair",
+    "displayName": "Temair",
+    "albums": [
+      {
+        "name": "The Patience of Decay",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "tension",
     "displayName": "Tension",
     "albums": [
@@ -4304,6 +4354,22 @@
     "tags": [
       "Black Death Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "ungraceful",
+    "displayName": "Ungraceful",
+    "albums": [
+      {
+        "name": "Silence Between Stars",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {

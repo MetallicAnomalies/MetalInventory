@@ -140,6 +140,24 @@
     ]
   },
   {
+    "normalizedName": "aeturna",
+    "displayName": "Aeturna",
+    "albums": [
+      {
+        "name": "Aeturna",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "arcana",
     "displayName": "Arcana",
     "origin": "SE",
@@ -236,12 +254,20 @@
         "genres": [
           "Ambient Metal"
         ]
+      },
+      {
+        "name": "Magna Silentia",
+        "year": "2026",
+        "genres": [
+          "Neoclassical Darkwave"
+        ]
       }
     ],
     "tags": [
       "Ambient Metal",
       "Electronic",
-      "Modern Classical"
+      "Modern Classical",
+      "Neoclassical Darkwave"
     ]
   },
   {
@@ -2375,6 +2401,22 @@
     ]
   },
   {
+    "normalizedName": "lagnia",
+    "displayName": "Lagnia",
+    "albums": [
+      {
+        "name": "Continue to Bleed",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "leiþa",
     "displayName": "Leiþa",
     "albums": [
@@ -3026,6 +3068,26 @@
     "tags": [
       "Heavy Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "scumb",
+    "displayName": "Scumb",
+    "albums": [
+      {
+        "name": "Scumb",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Grindcore Powerviolence",
+          "Powerviolence"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Grindcore Powerviolence",
+      "Powerviolence"
     ]
   },
   {
@@ -4531,6 +4593,13 @@
       {
         "name": "Antihelion",
         "year": "2016",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Demons of the Underground",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

@@ -176,6 +176,17 @@
           "Atmospheric Black Metal",
           "Neofolk"
         ]
+      },
+      {
+        "name": "Ghosts of the Midwinter Fires b/w The Watcher’s Monolith",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Folk Metal",
+          "Doom Metal",
+          "Black Metal",
+          "Post-Rock Metal",
+          "Metal"
+        ]
       }
     ],
     "tags": [
@@ -186,7 +197,11 @@
       "Prog Rock",
       "Folk, World, & Country",
       "Folk Rock",
-      "Rock"
+      "Rock",
+      "Atmospheric Folk Metal",
+      "Doom Metal",
+      "Post-Rock Metal",
+      "Metal"
     ]
   },
   {
@@ -994,6 +1009,22 @@
       "Melodic Hardcore",
       "Death Metal",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "bollverk",
+    "displayName": "Böllverk",
+    "albums": [
+      {
+        "name": "Other Worlds",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {
@@ -2304,6 +2335,22 @@
     ]
   },
   {
+    "normalizedName": "hvitulv",
+    "displayName": "Hvit Ulv",
+    "albums": [
+      {
+        "name": "Метаморфозы",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "hydravein",
     "displayName": "Hydra Vein",
     "albums": [
@@ -2393,11 +2440,22 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "Farewell",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metalcore",
+          "Power Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Metalcore"
+      "Metalcore",
+      "Melodic Death Metalcore",
+      "Power Metal"
     ]
   },
   {
@@ -3592,6 +3650,26 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "picha",
+    "displayName": "Picha",
+    "albums": [
+      {
+        "name": "Ay, qué rico que es chupar mico",
+        "year": "2026",
+        "genres": [
+          "Noisegrind",
+          "Death Metal",
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Noisegrind",
+      "Death Metal",
+      "Goregrind"
     ]
   },
   {
@@ -5128,6 +5206,24 @@
     "tags": [
       "Groove Metal",
       "Nu Metal"
+    ]
+  },
+  {
+    "normalizedName": "летальныиисход",
+    "displayName": "Летальный Исход",
+    "albums": [
+      {
+        "name": "Избыточное опустошение",
+        "year": "2026",
+        "genres": [
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Death Metal",
+      "Death Metal"
     ]
   }
 ]

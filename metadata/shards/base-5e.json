@@ -2824,6 +2824,24 @@
     ]
   },
   {
+    "normalizedName": "nightfallemptiness",
+    "displayName": "Nightfall Emptiness",
+    "albums": [
+      {
+        "name": "Во власти времени",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "ninedays",
     "displayName": "Nine Days",
     "origin": "US",
@@ -3104,6 +3122,22 @@
       "Death Doom Metal",
       "Death Metal",
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "odiumincarnatum",
+    "displayName": "Odium Incarnatum",
+    "albums": [
+      {
+        "name": "Werewolves Blood",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

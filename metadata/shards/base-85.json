@@ -1109,6 +1109,14 @@
           "Death Metal",
           "Grindcore"
         ]
+      },
+      {
+        "name": "Hard to Swallow (Redux)",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
@@ -4319,12 +4327,27 @@
         "genres": [
           "Punk Rock"
         ]
+      },
+      {
+        "name": "Sing as if",
+        "year": "2026",
+        "genres": [
+          "Doom Death Metal",
+          "Death Metal",
+          "Gothic Metal",
+          "Alternative Rock",
+          "Punk"
+        ]
       }
     ],
     "tags": [
       "Punk Rock",
       "Gothic Doom Metal",
-      "Death Metal"
+      "Death Metal",
+      "Doom Death Metal",
+      "Gothic Metal",
+      "Alternative Rock",
+      "Punk"
     ]
   },
   {

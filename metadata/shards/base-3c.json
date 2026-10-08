@@ -189,6 +189,26 @@
     ]
   },
   {
+    "normalizedName": "aprilspring",
+    "displayName": "April Spring",
+    "albums": [
+      {
+        "name": "Old Songs 2024",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Shoegaze",
+          "Post-Black Metal",
+          "Shoegaze"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Shoegaze",
+      "Post-Black Metal",
+      "Shoegaze"
+    ]
+  },
+  {
     "normalizedName": "architectsofchaoz",
     "displayName": "Architects Of Chaoz",
     "origin": "DE",
@@ -2116,6 +2136,22 @@
       "Rock",
       "Rock & Roll",
       "Folk Rock"
+    ]
+  },
+  {
+    "normalizedName": "heirstale",
+    "displayName": "Heirstale",
+    "albums": [
+      {
+        "name": "The Void Chronicles",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {

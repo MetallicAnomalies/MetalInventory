@@ -1181,6 +1181,13 @@
           "Folk Metal",
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "El Solsticio de Dríade  (En directo - La Riviera)",
+        "year": "2026",
+        "genres": [
+          "Symphonic Folk Metal"
+        ]
       }
     ],
     "tags": [
@@ -1190,7 +1197,8 @@
       "Pop",
       "Celtic Metal",
       "Folk, World, & Country",
-      "Folk Rock"
+      "Folk Rock",
+      "Symphonic Folk Metal"
     ]
   },
   {
@@ -1267,6 +1275,28 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "charcuterietunkio",
+    "displayName": "Charcuterie/Tunkio",
+    "albums": [
+      {
+        "name": "Re-Animincer",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Noisegrind Goregrind",
+          "Goregrind | Grindcore Goregrind",
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Noisegrind Goregrind",
+      "Goregrind | Grindcore Goregrind",
+      "Goregrind"
     ]
   },
   {
@@ -2952,6 +2982,24 @@
     ]
   },
   {
+    "normalizedName": "livingsin",
+    "displayName": "Living Sin",
+    "albums": [
+      {
+        "name": "Volume One",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "lordfist",
     "displayName": "Lord Fist",
     "albums": [
@@ -3509,6 +3557,24 @@
     ]
   },
   {
+    "normalizedName": "pozar",
+    "displayName": "Pozar",
+    "albums": [
+      {
+        "name": "Battlefield of the Dead",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dark Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dark Ambient"
+    ]
+  },
+  {
     "normalizedName": "quadmachine",
     "displayName": "Quad Machine",
     "albums": [
@@ -3658,11 +3724,34 @@
           "Death Doom Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Impetuous Behest for Detestable Expulsion",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Death Doom Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "satanicempire",
+    "displayName": "Satanic Empire",
+    "albums": [
+      {
+        "name": "Infernal War 666",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

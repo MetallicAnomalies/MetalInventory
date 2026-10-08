@@ -433,6 +433,24 @@
     ]
   },
   {
+    "normalizedName": "atomicardia",
+    "displayName": "Atomicardia",
+    "albums": [
+      {
+        "name": "Rorschach",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "austere",
     "displayName": "Austere",
     "albums": [
@@ -686,6 +704,13 @@
       },
       {
         "name": "Acquired Immunity",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      },
+      {
+        "name": "Polaris",
         "year": "2026",
         "genres": [
           "Symphonic Metal"
@@ -2010,6 +2035,24 @@
     "tags": [
       "Heavy Metal",
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "ichabodcrane",
+    "displayName": "Ichabod Crane",
+    "albums": [
+      {
+        "name": "Rot Your Teeth",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -4848,6 +4891,24 @@
     ]
   },
   {
+    "normalizedName": "srpnts",
+    "displayName": "Srpnts",
+    "albums": [
+      {
+        "name": "Second Shape",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "statefaults",
     "displayName": "State Faults",
     "albums": [
@@ -5206,6 +5267,24 @@
     "tags": [
       "Progressive Death Metal",
       "Instrumental"
+    ]
+  },
+  {
+    "normalizedName": "toitgefar",
+    "displayName": "Toitgefar",
+    "albums": [
+      {
+        "name": "Danger of Death",
+        "year": "2026",
+        "genres": [
+          "Death Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {
