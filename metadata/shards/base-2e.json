@@ -2184,6 +2184,11 @@
           "Heavy Metal",
           "Blues Rock"
         ]
+      },
+      {
+        "name": "Circuit Breaker",
+        "year": "2027",
+        "genres": []
       }
     ],
     "tags": [
@@ -4788,6 +4793,18 @@
       "Dream Pop",
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "sonofboar",
+    "displayName": "Son Of Boar",
+    "albums": [
+      {
+        "name": "The Hand That Reigns",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "sore",

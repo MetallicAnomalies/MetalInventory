@@ -4242,5 +4242,23 @@
       "Hard Rock",
       "Progressive Metal"
     ]
+  },
+  {
+    "normalizedName": "xiii",
+    "displayName": "XIII",
+    "albums": [
+      {
+        "name": "NeverBORN",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Nu Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Nu Metal"
+    ]
   }
 ]

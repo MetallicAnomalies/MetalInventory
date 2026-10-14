@@ -4748,5 +4748,21 @@
       "Crunk",
       "Hip Hop"
     ]
+  },
+  {
+    "normalizedName": "легион",
+    "displayName": "Легион",
+    "albums": [
+      {
+        "name": "Во власти нового времени",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
+    ]
   }
 ]

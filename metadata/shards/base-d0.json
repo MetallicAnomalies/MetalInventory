@@ -76,6 +76,18 @@
     ]
   },
   {
+    "normalizedName": "allhours",
+    "displayName": "All Hours",
+    "albums": [
+      {
+        "name": "Everything In Between",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "alterizer",
     "displayName": "Alterizer",
     "albums": [

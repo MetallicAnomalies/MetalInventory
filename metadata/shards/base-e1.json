@@ -1206,6 +1206,15 @@
           "Post-Black Metal",
           "Shoegaze"
         ]
+      },
+      {
+        "name": "At Work in the Fields of the Bomb",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Post-Metal",
+          "Blackgaze"
+        ]
       }
     ],
     "tags": [
@@ -1213,7 +1222,8 @@
       "Post-Metal",
       "Shoegaze",
       "Black Metal",
-      "Post-Black Metal"
+      "Post-Black Metal",
+      "Blackgaze"
     ]
   },
   {
