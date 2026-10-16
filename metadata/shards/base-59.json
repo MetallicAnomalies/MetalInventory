@@ -1135,6 +1135,18 @@
     ]
   },
   {
+    "normalizedName": "destroyboys",
+    "displayName": "Destroy Boys",
+    "albums": [
+      {
+        "name": "Foie Gras",
+        "year": "2027",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "diabolischeswerk",
     "displayName": "Diabolisches Werk",
     "albums": [
@@ -1794,12 +1806,20 @@
         "name": "We Were Bleeding Anyway EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "We Were Bleeding Anyway",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
       "Alternative Rock",
       "Post-hardcore",
-      "Emo"
+      "Emo",
+      "Metalcore"
     ]
   },
   {
