@@ -2410,12 +2410,21 @@
           "Djent",
           "Nu Metal"
         ]
+      },
+      {
+        "name": "cClose",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Nu Metal"
+        ]
       }
     ],
     "tags": [
       "Industrial Metal",
       "Djent",
-      "Nu Metal"
+      "Nu Metal",
+      "Death Metal"
     ]
   },
   {
@@ -3785,6 +3794,13 @@
         "genres": [
           "Progressive Metal",
           "Instrumental"
+        ]
+      },
+      {
+        "name": "The Neverending Story",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
         ]
       }
     ],

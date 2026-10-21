@@ -4646,6 +4646,16 @@
         "name": "The King’s Curse: Death Metal Homage To King Diamond",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Doom Shall Rise: A Tribute To Saint Vitus",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "A Tribute To Kreator",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4824,6 +4834,18 @@
     "tags": [
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "vulkangrit",
+    "displayName": "Vulkan Grit",
+    "albums": [
+      {
+        "name": "Godslaying Arcane Panoply",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "warganism",

@@ -885,6 +885,18 @@
     ]
   },
   {
+    "normalizedName": "descardo",
+    "displayName": "Descardo",
+    "albums": [
+      {
+        "name": "Norm",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "dethrone",
     "displayName": "Dethrone",
     "origin": "FI",
@@ -2682,6 +2694,18 @@
       "Noise Metal",
       "Punk"
     ]
+  },
+  {
+    "normalizedName": "nachtfalter",
+    "displayName": "Nachtfalter",
+    "albums": [
+      {
+        "name": "Still(Leben)",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "nachtheem",
