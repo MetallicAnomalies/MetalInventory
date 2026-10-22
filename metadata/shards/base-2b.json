@@ -726,6 +726,22 @@
     ]
   },
   {
+    "normalizedName": "chthonicrites",
+    "displayName": "Chthonic Rites",
+    "albums": [
+      {
+        "name": "ANTI NΩMI ANISM: Absorbing the Cognition of Phosphoros",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "coffinbirth",
     "displayName": "Coffin Birth",
     "albums": [
@@ -4112,6 +4128,14 @@
       },
       {
         "name": "Blast from the Past",
+        "year": "2026",
+        "genres": [
+          "Power Thrash Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Blast from the Past Part 2",
         "year": "2026",
         "genres": [
           "Power Thrash Metal",

@@ -660,6 +660,16 @@
           "Black Metal",
           "Viking Metal"
         ]
+      },
+      {
+        "name": "Colección Completa",
+        "year": "2026",
+        "genres": [
+          "Black Viking Metal",
+          "Thrash Metal",
+          "Viking Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -668,7 +678,8 @@
       "Thrash Metal",
       "Heavy Metal",
       "Black Metal",
-      "Viking Metal"
+      "Viking Metal",
+      "Black Viking Metal"
     ]
   },
   {
@@ -1771,6 +1782,22 @@
     "tags": [
       "Black Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "ironprowler",
+    "displayName": "Iron Prowler",
+    "albums": [
+      {
+        "name": "Burnin' Tonight",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {

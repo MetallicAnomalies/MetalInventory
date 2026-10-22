@@ -3486,10 +3486,19 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Buzzsaw Ritual",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {
@@ -4222,6 +4231,22 @@
     "tags": [
       "Melodic Death Metal",
       "Gothic Metal"
+    ]
+  },
+  {
+    "normalizedName": "saturniapyri",
+    "displayName": "Saturnia Pyri",
+    "albums": [
+      {
+        "name": "By the Grave",
+        "year": "2026",
+        "genres": [
+          "Progressive Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Doom Metal"
     ]
   },
   {

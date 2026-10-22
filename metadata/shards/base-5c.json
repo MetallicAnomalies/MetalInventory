@@ -613,6 +613,26 @@
     ]
   },
   {
+    "normalizedName": "concreteironsteel",
+    "displayName": "Concrete/Iron Steel",
+    "albums": [
+      {
+        "name": "Speed",
+        "year": "2026",
+        "genres": [
+          "Thrash Punk",
+          "Heavy Metal | Speed Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Punk",
+      "Heavy Metal | Speed Metal",
+      "Punk"
+    ]
+  },
+  {
     "normalizedName": "corpsecleanup",
     "displayName": "Corpse Cleanup",
     "albums": [
@@ -1712,6 +1732,22 @@
     "tags": [
       "Thrash Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "iwontskye",
+    "displayName": "I Won't Skye",
+    "albums": [
+      {
+        "name": "Dead Eyes",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Metal"
     ]
   },
   {

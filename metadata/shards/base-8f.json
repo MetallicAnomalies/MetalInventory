@@ -2605,6 +2605,22 @@
     ]
   },
   {
+    "normalizedName": "mauler",
+    "displayName": "Mauler",
+    "albums": [
+      {
+        "name": "Matriphagy",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "mentalhome",
     "displayName": "Mental Home",
     "albums": [
@@ -4613,6 +4629,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "theanointingmaelstrom",
+    "displayName": "The Anointing Maelstrom",
+    "albums": [
+      {
+        "name": "No.One.Wins",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Black Death Metal",
+      "Death Metal"
     ]
   },
   {

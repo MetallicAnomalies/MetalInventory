@@ -3062,6 +3062,22 @@
     ]
   },
   {
+    "normalizedName": "lightstoremain",
+    "displayName": "Lights to Remain",
+    "albums": [
+      {
+        "name": "Into the Unknown",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "lillaveneda",
     "displayName": "Lilla Veneda",
     "albums": [
@@ -4906,6 +4922,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Detritvs",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -5411,6 +5434,13 @@
       {
         "name": "варево",
         "year": "2010",
+        "genres": [
+          "Folk Metal"
+        ]
+      },
+      {
+        "name": "Буран",
+        "year": "2026",
         "genres": [
           "Folk Metal"
         ]

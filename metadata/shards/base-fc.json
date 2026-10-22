@@ -188,6 +188,24 @@
     ]
   },
   {
+    "normalizedName": "aralez",
+    "displayName": "Aralez",
+    "albums": [
+      {
+        "name": "Illusion",
+        "year": "2026",
+        "genres": [
+          "Gothic Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "arenia",
     "displayName": "Arenia",
     "albums": [
@@ -2145,6 +2163,24 @@
       "Speed Metal",
       "Deathcore",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "hatedrone",
+    "displayName": "Hate Drone",
+    "albums": [
+      {
+        "name": "Drone Suckers",
+        "year": "2026",
+        "genres": [
+          "Sludge Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -4368,6 +4404,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "spinne",
+    "displayName": "Spinne",
+    "albums": [
+      {
+        "name": "Golden Eyes",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {

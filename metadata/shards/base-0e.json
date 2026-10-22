@@ -669,6 +669,22 @@
     ]
   },
   {
+    "normalizedName": "criticalfear",
+    "displayName": "Critical Fear",
+    "albums": [
+      {
+        "name": "Dark Fate",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "crownless",
     "displayName": "Crownless",
     "albums": [
@@ -3511,6 +3527,22 @@
     ],
     "tags": [
       "Hardcore Metal"
+    ]
+  },
+  {
+    "normalizedName": "purest",
+    "displayName": "Purest",
+    "albums": [
+      {
+        "name": "II",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

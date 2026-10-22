@@ -746,6 +746,24 @@
     ]
   },
   {
+    "normalizedName": "atavism",
+    "displayName": "Atavism",
+    "albums": [
+      {
+        "name": "Pain Through Existence",
+        "year": "2026",
+        "genres": [
+          "Grindcore Goregrind",
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore Goregrind",
+      "Goregrind"
+    ]
+  },
+  {
     "normalizedName": "atrocityexhibition",
     "displayName": "Atrocity Exhibition",
     "albums": [
@@ -2184,6 +2202,22 @@
     "tags": [
       "Heavy Metal",
       "Speed Metal"
+    ]
+  },
+  {
+    "normalizedName": "fractality",
+    "displayName": "Fractality",
+    "albums": [
+      {
+        "name": "Fractured Reality",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {
@@ -3723,6 +3757,22 @@
       "Math Rock",
       "Thrash Metal",
       "Experimental Metal",
+      "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "midnightvice",
+    "displayName": "Midnight Vice",
+    "albums": [
+      {
+        "name": "Serpent’s Kiss",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
       "Heavy Metal"
     ]
   },

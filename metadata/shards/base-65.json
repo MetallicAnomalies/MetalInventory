@@ -2050,6 +2050,22 @@
     ]
   },
   {
+    "normalizedName": "infernodeath",
+    "displayName": "Inferno Death",
+    "albums": [
+      {
+        "name": "Eternal Agony",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "infex",
     "displayName": "Infex",
     "albums": [
@@ -3259,6 +3275,28 @@
     ]
   },
   {
+    "normalizedName": "poisonarts",
+    "displayName": "Poison Arts",
+    "albums": [
+      {
+        "name": "Eternal Dragon",
+        "year": "2026",
+        "genres": [
+          "Hardcore Punk",
+          "Heavy Punk",
+          "Speed Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Hardcore Punk",
+      "Heavy Punk",
+      "Speed Metal",
+      "Punk"
+    ]
+  },
+  {
     "normalizedName": "powertheory",
     "displayName": "Power Theory",
     "origin": "US",
@@ -3622,6 +3660,24 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "resonantsoul",
+    "displayName": "Resonant Soul",
+    "albums": [
+      {
+        "name": "Demo I 2026",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "revengeattack",

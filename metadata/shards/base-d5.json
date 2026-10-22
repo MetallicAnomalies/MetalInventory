@@ -1207,6 +1207,22 @@
     ]
   },
   {
+    "normalizedName": "draverzer",
+    "displayName": "Draverzer",
+    "albums": [
+      {
+        "name": "Ergonomics of Death",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Death Metal"
+    ]
+  },
+  {
     "normalizedName": "dvsr",
     "displayName": "DVSR",
     "origin": "AU",
@@ -3380,6 +3396,14 @@
     "albums": [
       {
         "name": "Goithic Horrors",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "The Worthless Servant",
         "year": "2026",
         "genres": [
           "Black Thrash Metal",

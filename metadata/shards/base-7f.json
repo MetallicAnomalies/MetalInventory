@@ -1052,10 +1052,22 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Demo 2026",
+        "year": "2026",
+        "genres": [
+          "Death Sludge Metal",
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
-      "Brutal Death Metal"
+      "Brutal Death Metal",
+      "Death Sludge Metal",
+      "Doom Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {
@@ -4112,6 +4124,24 @@
     "tags": [
       "Black Metal",
       "Dungeon Synth"
+    ]
+  },
+  {
+    "normalizedName": "vincentrevenge",
+    "displayName": "Vincent Revenge",
+    "albums": [
+      {
+        "name": "Stygian Trance",
+        "year": "2026",
+        "genres": [
+          "Black Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Heavy Metal",
+      "Heavy Metal"
     ]
   },
   {

@@ -83,6 +83,22 @@
     ]
   },
   {
+    "normalizedName": "alyssablak",
+    "displayName": "Alyssa Blak",
+    "albums": [
+      {
+        "name": "Wind, Face, Sand",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "anakim",
     "displayName": "Anakim",
     "albums": [
@@ -4361,6 +4377,22 @@
     ]
   },
   {
+    "normalizedName": "sangham",
+    "displayName": "Sangham",
+    "albums": [
+      {
+        "name": "The Radiant Crown",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "seemingemptiness",
     "displayName": "Seeming Emptiness",
     "albums": [
@@ -5194,10 +5226,20 @@
         "genres": [
           "Industrial Black Metal"
         ]
+      },
+      {
+        "name": "Frontline",
+        "year": "2026",
+        "genres": [
+          "Groove Heavy Metal",
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
-      "Industrial Black Metal"
+      "Industrial Black Metal",
+      "Groove Heavy Metal",
+      "Heavy Metal"
     ]
   },
   {

@@ -3320,6 +3320,24 @@
     "tags": []
   },
   {
+    "normalizedName": "scarsofoblivion",
+    "displayName": "Scars of Oblivion",
+    "albums": [
+      {
+        "name": "Edge of Extinction",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal",
+      "Deathcore"
+    ]
+  },
+  {
     "normalizedName": "scavanger",
     "displayName": "Scavanger",
     "albums": [
@@ -3404,10 +3422,20 @@
         "genres": [
           "Speed Metal"
         ]
+      },
+      {
+        "name": "Metalhead",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Speed Metal"
+      "Speed Metal",
+      "Speed Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

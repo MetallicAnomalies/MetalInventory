@@ -1772,6 +1772,13 @@
         "genres": [
           "Progressive Gothic Metal"
         ]
+      },
+      {
+        "name": "Save Me",
+        "year": "2026",
+        "genres": [
+          "Progressive Gothic Metal"
+        ]
       }
     ],
     "tags": [
@@ -2646,6 +2653,13 @@
     "albums": [
       {
         "name": "Excalibur",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      },
+      {
+        "name": "The Ruins the Time Concealed",
         "year": "2026",
         "genres": [
           "Symphonic Metal"
@@ -4000,6 +4014,24 @@
     ],
     "tags": [
       "Progressive Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "shapeless",
+    "displayName": "Shapeless",
+    "albums": [
+      {
+        "name": "House Made of Embers",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal",
+      "Metalcore"
     ]
   },
   {

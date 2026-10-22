@@ -1555,6 +1555,24 @@
     ]
   },
   {
+    "normalizedName": "gomorraa",
+    "displayName": "Gomorraa",
+    "albums": [
+      {
+        "name": "10 anos de Luxúria, História e Blasfêmia",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "grieving",
     "displayName": "Grieving",
     "albums": [
@@ -2235,6 +2253,24 @@
     "tags": [
       "Doom Metal",
       "Avantgarde Metal"
+    ]
+  },
+  {
+    "normalizedName": "luciferianstrings",
+    "displayName": "Luciferian Strings",
+    "albums": [
+      {
+        "name": "Songs of a Distant War",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dungeon Synth"
     ]
   },
   {

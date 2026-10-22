@@ -698,6 +698,22 @@
     ]
   },
   {
+    "normalizedName": "celestialdestroyer",
+    "displayName": "Celestial Destroyer",
+    "albums": [
+      {
+        "name": "Vampyric Supremacy",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "chrch",
     "displayName": "Chrch",
     "albums": [
@@ -2698,6 +2714,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "internaldevouring",
+    "displayName": "Internal Devouring",
+    "albums": [
+      {
+        "name": "Everyone Hate Us",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {
@@ -4833,6 +4865,22 @@
     "tags": [
       "Gothic Rock",
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "suzerainsavaging",
+    "displayName": "Suzerain/Savaging",
+    "albums": [
+      {
+        "name": "Savaging / Suzerain",
+        "year": "2026",
+        "genres": [
+          "Black Metal | Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal | Black Metal"
     ]
   },
   {

@@ -1273,6 +1273,29 @@
     ]
   },
   {
+    "normalizedName": "drazvir",
+    "displayName": "Drazvir",
+    "albums": [
+      {
+        "name": "Trijumf vječnog mraka",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Iluzija života",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "duel",
     "displayName": "Duel",
     "albums": [
@@ -3295,6 +3318,22 @@
     ]
   },
   {
+    "normalizedName": "patriarchy",
+    "displayName": "Patriarchy",
+    "albums": [
+      {
+        "name": "Black Metal Against Antifa",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "pearlofhorus",
     "displayName": "Pearl Of Horus",
     "origin": "SE",
@@ -3654,6 +3693,24 @@
     ],
     "tags": [
       "Gothic Metal"
+    ]
+  },
+  {
+    "normalizedName": "seersfire",
+    "displayName": "Seer's Fire",
+    "albums": [
+      {
+        "name": "Fates of Gielinor",
+        "year": "2026",
+        "genres": [
+          "Epic Atmospheric Black Metal",
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Epic Atmospheric Black Metal",
+      "Atmospheric Black Metal"
     ]
   },
   {

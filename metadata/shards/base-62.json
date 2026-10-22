@@ -175,10 +175,20 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "Destruction of Humanity",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Metalcore"
+      "Metalcore",
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {
@@ -1592,6 +1602,24 @@
     ]
   },
   {
+    "normalizedName": "extispex",
+    "displayName": "Extispex",
+    "albums": [
+      {
+        "name": "Taken by Sublunar Majesties",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dungeon Synth"
+    ]
+  },
+  {
     "normalizedName": "firebrandsuperrock",
     "displayName": "Firebrand Super Rock",
     "albums": [
@@ -1817,6 +1845,22 @@
     ],
     "tags": [
       "Black Metal",
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "gardenofeyes",
+    "displayName": "Garden of Eyes",
+    "albums": [
+      {
+        "name": "Augur of Ebrietas",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
       "Death Metal"
     ]
   },
@@ -2543,6 +2587,22 @@
       "Folk, World, & Country",
       "Pop",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "kaelis",
+    "displayName": "Kaelis",
+    "albums": [
+      {
+        "name": "Atalaya 2.0",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Power Metal"
     ]
   },
   {

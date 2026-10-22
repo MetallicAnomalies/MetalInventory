@@ -1961,6 +1961,22 @@
     ]
   },
   {
+    "normalizedName": "evadetheswarm",
+    "displayName": "Evade the Swarm",
+    "albums": [
+      {
+        "name": "The 2005 Demo (2026 Remix & Remaster)",
+        "year": "2026",
+        "genres": [
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Deathcore"
+    ]
+  },
+  {
     "normalizedName": "faithsedge",
     "displayName": "Faithsedge",
     "albums": [
@@ -4272,6 +4288,26 @@
     ]
   },
   {
+    "normalizedName": "skrotum",
+    "displayName": "Skrotum",
+    "albums": [
+      {
+        "name": "Dehumanized",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore Powerviolence",
+          "Powerviolence"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore Powerviolence",
+      "Powerviolence"
+    ]
+  },
+  {
     "normalizedName": "soundstorm",
     "displayName": "Sound Storm",
     "albums": [
@@ -4981,6 +5017,24 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "wij",
+    "displayName": "Wij",
+    "albums": [
+      {
+        "name": "Protisty",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Hard Rock"
+    ]
   },
   {
     "normalizedName": "windwalker",

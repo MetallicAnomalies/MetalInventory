@@ -1620,6 +1620,22 @@
     ]
   },
   {
+    "normalizedName": "headlesshunter",
+    "displayName": "Headless Hunter",
+    "albums": [
+      {
+        "name": "Heretical",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "heartscore",
     "displayName": "Heartscore",
     "albums": [
@@ -3659,6 +3675,22 @@
     ],
     "tags": [
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "repulsivity",
+    "displayName": "Repulsivity",
+    "albums": [
+      {
+        "name": "Demo 2026",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {

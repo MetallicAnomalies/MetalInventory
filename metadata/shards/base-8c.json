@@ -2392,6 +2392,24 @@
     ]
   },
   {
+    "normalizedName": "harmonybreaks",
+    "displayName": "Harmony Breaks",
+    "albums": [
+      {
+        "name": "Песня романа",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Groove Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "highparasite",
     "displayName": "High Parasite",
     "origin": "GB",
@@ -4408,6 +4426,16 @@
           "Death Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Night Whispers & Shining Lights",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Groove Metal",
+          "Groove Metal",
+          "Metalcore Melodic Groove Metal",
+          "Melodic Groove Metal"
+        ]
       }
     ],
     "tags": [
@@ -4416,7 +4444,11 @@
       "Death Metal",
       "Melodic Death Metal",
       "Alternative Metal",
-      "Rock"
+      "Rock",
+      "Melodic Death Groove Metal",
+      "Groove Metal",
+      "Metalcore Melodic Groove Metal",
+      "Melodic Groove Metal"
     ]
   },
   {

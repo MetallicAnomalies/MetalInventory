@@ -229,6 +229,24 @@
     ]
   },
   {
+    "normalizedName": "alteredrealm",
+    "displayName": "Altered Realm",
+    "albums": [
+      {
+        "name": "Demo",
+        "year": "2026",
+        "genres": [
+          "Heavy Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "ancientobscurity",
     "displayName": "Ancient Obscurity",
     "albums": [
@@ -764,9 +782,18 @@
         "name": "Shadow Memoirs",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Schattenmemoiren",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "bobseger",
@@ -5613,6 +5640,22 @@
     ],
     "tags": [
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "vilecreation",
+    "displayName": "Vile Creation",
+    "albums": [
+      {
+        "name": "Dawn of the Vile",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

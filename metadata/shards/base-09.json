@@ -2415,6 +2415,22 @@
     "tags": []
   },
   {
+    "normalizedName": "inriarch",
+    "displayName": "Inriarch",
+    "albums": [
+      {
+        "name": "Thronged on the Forks of Conflagration",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Death Metal"
+    ]
+  },
+  {
     "normalizedName": "invain",
     "displayName": "In Vain",
     "origin": "NO",
@@ -2545,10 +2561,22 @@
         "genres": [
           "Symphonic Death Metal"
         ]
+      },
+      {
+        "name": "The Agony (Re-Wired)",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal",
+          "Progressive Stoner Rock",
+          "Stoner Rock"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Death Metal"
+      "Symphonic Death Metal",
+      "Progressive Death Metal",
+      "Progressive Stoner Rock",
+      "Stoner Rock"
     ]
   },
   {

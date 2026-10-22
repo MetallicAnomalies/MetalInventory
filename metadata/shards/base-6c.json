@@ -151,6 +151,24 @@
     ]
   },
   {
+    "normalizedName": "ariableyes",
+    "displayName": "Ariabl'eyes",
+    "albums": [
+      {
+        "name": "憑影リタニア",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Power Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "arido",
     "displayName": "áRido",
     "albums": [
@@ -2998,6 +3016,22 @@
     ]
   },
   {
+    "normalizedName": "rawensemble",
+    "displayName": "Raw Ensemble",
+    "albums": [
+      {
+        "name": "The Psychomorph Curse",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "reactory",
     "displayName": "Reactory",
     "origin": "DE",
@@ -3460,6 +3494,22 @@
     "tags": [
       "Heavy Metal",
       "NWOBHM"
+    ]
+  },
+  {
+    "normalizedName": "sublimitamviolentia",
+    "displayName": "Sublimitam Violentia",
+    "albums": [
+      {
+        "name": "Unreleased Tracks",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

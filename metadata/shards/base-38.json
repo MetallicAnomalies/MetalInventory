@@ -2082,9 +2082,20 @@
         "name": "Still Alive…Despite Everything EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Still Alive... Despite Everything",
+        "year": "2026",
+        "genres": [
+          "Depressive Post-Black Metal",
+          "Post-Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Depressive Post-Black Metal",
+      "Post-Black Metal"
+    ]
   },
   {
     "normalizedName": "fleshcrawl",
@@ -5400,6 +5411,24 @@
     "tags": [
       "Metalcore",
       "Post-hardcore"
+    ]
+  },
+  {
+    "normalizedName": "theestrangementera",
+    "displayName": "The Estrangement Era",
+    "albums": [
+      {
+        "name": "Wounded by the Shards",
+        "year": "2026",
+        "genres": [
+          "Gothic Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Doom Metal",
+      "Doom Metal"
     ]
   },
   {

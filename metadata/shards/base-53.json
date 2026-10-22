@@ -1326,6 +1326,22 @@
     ]
   },
   {
+    "normalizedName": "enhannaer",
+    "displayName": "Enhannaer",
+    "albums": [
+      {
+        "name": "Confessions au bord du Précipice",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "enterro",
     "displayName": "Enterro",
     "albums": [
@@ -4527,11 +4543,23 @@
           "Atmospheric Black Metal",
           "Krautrock"
         ]
+      },
+      {
+        "name": "In the Ruins",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Doom Ambient",
+          "Black Metal",
+          "Ambient"
+        ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Krautrock"
+      "Krautrock",
+      "Psychedelic Doom Ambient",
+      "Black Metal",
+      "Ambient"
     ]
   },
   {

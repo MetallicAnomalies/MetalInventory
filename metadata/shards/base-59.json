@@ -454,6 +454,22 @@
     ]
   },
   {
+    "normalizedName": "bogec",
+    "displayName": "Bogec",
+    "albums": [
+      {
+        "name": "Bogec",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "bpmd",
     "displayName": "BPMD",
     "origin": "US",
@@ -3992,6 +4008,24 @@
     "tags": [
       "Thrash Metal",
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "siriuscurse",
+    "displayName": "Sirius Curse",
+    "albums": [
+      {
+        "name": "When Beauty Awaits",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Rock"
     ]
   },
   {

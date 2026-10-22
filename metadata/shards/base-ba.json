@@ -2267,6 +2267,26 @@
     ]
   },
   {
+    "normalizedName": "hvrt",
+    "displayName": "Hvrt",
+    "albums": [
+      {
+        "name": "As Live as Life Gets",
+        "year": "2026",
+        "genres": [
+          "Death Hardcore",
+          "Sludge Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Hardcore",
+      "Sludge Metal",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "immemoreal",
     "displayName": "Immemoreal",
     "albums": [
@@ -2557,6 +2577,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "kingshammer",
+    "displayName": "King's Hammer",
+    "albums": [
+      {
+        "name": "Breathing New Life",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -4165,6 +4201,24 @@
     ]
   },
   {
+    "normalizedName": "saintfilth",
+    "displayName": "Saint Filth",
+    "albums": [
+      {
+        "name": "Soul Frustration",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Noise"
+    ]
+  },
+  {
     "normalizedName": "sarvas",
     "displayName": "Sarvas",
     "albums": [
@@ -4429,6 +4483,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "stabwound",
+    "displayName": "Stabwound",
+    "albums": [
+      {
+        "name": "Bloodsoaked Boundaries",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {
@@ -4957,6 +5027,26 @@
     ],
     "tags": [
       "Progressive Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "volcan",
+    "displayName": "Volcán",
+    "albums": [
+      {
+        "name": "Funeral de Azufre",
+        "year": "2026",
+        "genres": [
+          "Thrash Black Metal",
+          "Death Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Black Metal",
+      "Death Black Metal",
+      "Black Metal"
     ]
   },
   {

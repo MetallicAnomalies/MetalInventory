@@ -2278,6 +2278,24 @@
     ]
   },
   {
+    "normalizedName": "kælte",
+    "displayName": ":Kælte:",
+    "albums": [
+      {
+        "name": "Im ewigen Frost",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal",
+      "Dungeon Synth"
+    ]
+  },
+  {
     "normalizedName": "ladycatman",
     "displayName": "Lady Catman",
     "albums": [
@@ -2867,6 +2885,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "nocthra",
+    "displayName": "Nocthra",
+    "albums": [
+      {
+        "name": "From Death to War",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
   },
   {
     "normalizedName": "notbloodpaint",

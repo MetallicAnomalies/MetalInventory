@@ -720,6 +720,26 @@
     "tags": []
   },
   {
+    "normalizedName": "deathinition",
+    "displayName": "Deathinition",
+    "albums": [
+      {
+        "name": "Nowhere.",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Thrash Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Thrash Groove Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "deivos",
     "displayName": "Deivos",
     "origin": "PL",
@@ -4555,6 +4575,24 @@
     "tags": [
       "Stoner Metal",
       "Psychedelic Rock"
+    ]
+  },
+  {
+    "normalizedName": "джоконда",
+    "displayName": "Джоконда",
+    "albums": [
+      {
+        "name": "Алая ведьма",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Metal",
+      "Rock"
     ]
   }
 ]

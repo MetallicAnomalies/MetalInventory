@@ -478,6 +478,22 @@
     ]
   },
   {
+    "normalizedName": "asbelahriman",
+    "displayName": "Asbel/Ahriman",
+    "albums": [
+      {
+        "name": "Funereal Winds of the Black Throne",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal | Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal | Black Metal"
+    ]
+  },
+  {
     "normalizedName": "asecretending",
     "displayName": "A Secret Ending",
     "origin": "LT",
@@ -1107,6 +1123,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "crepuscolo",
+    "displayName": "Crepuscolo",
+    "albums": [
+      {
+        "name": "Singing in the Grave",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Deathcore"
     ]
   },
   {

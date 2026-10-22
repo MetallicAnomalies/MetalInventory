@@ -1374,10 +1374,19 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Enslaver of the Continents",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Brutal Death Metal"
+      "Brutal Death Metal",
+      "Slam Brutal Death Metal"
     ]
   },
   {
@@ -2839,6 +2848,24 @@
       "Metalcore",
       "Alternative Rock",
       "Grunge"
+    ]
+  },
+  {
+    "normalizedName": "naorgoroth",
+    "displayName": "Naorgoroth",
+    "albums": [
+      {
+        "name": "Wait for Their Own Blood",
+        "year": "2026",
+        "genres": [
+          "Drone Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Drone Doom Metal",
+      "Doom Metal"
     ]
   },
   {

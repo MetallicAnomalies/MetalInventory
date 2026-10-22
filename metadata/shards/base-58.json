@@ -1704,11 +1704,19 @@
           "Thrash Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Cold Room",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Death Metal"
+      "Death Metal",
+      "Depressive Black Metal"
     ]
   },
   {
@@ -4553,6 +4561,24 @@
     ]
   },
   {
+    "normalizedName": "spellgarden",
+    "displayName": "Spell Garden",
+    "albums": [
+      {
+        "name": "Nightmare",
+        "year": "2026",
+        "genres": [
+          "Doom Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Heavy Metal",
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "subrosa",
     "displayName": "Subrosa",
     "albums": [
@@ -5451,6 +5477,22 @@
     "tags": [
       "Post-Metal",
       "Atmospheric Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "怒号",
+    "displayName": "怒号",
+    "albums": [
+      {
+        "name": "怒号",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   }
 ]

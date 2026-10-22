@@ -2850,6 +2850,22 @@
     ]
   },
   {
+    "normalizedName": "panfiliek",
+    "displayName": "Panfiliek",
+    "albums": [
+      {
+        "name": "Corpus Suffering",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "prophetsofyahweh",
     "displayName": "Prophets Of Yahweh",
     "origin": "IN",
@@ -3759,6 +3775,13 @@
       },
       {
         "name": "востаннє",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "без імені",
         "year": "2026",
         "genres": [
           "Atmospheric Black Metal"

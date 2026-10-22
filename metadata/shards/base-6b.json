@@ -368,10 +368,20 @@
         "genres": [
           "Progressive Power"
         ]
+      },
+      {
+        "name": "Expiación",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power",
+      "Heavy Power Metal",
+      "Power Metal"
     ]
   },
   {
@@ -1229,6 +1239,13 @@
         "genres": [
           "Depressive Black Metal"
         ]
+      },
+      {
+        "name": "無",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -1405,6 +1422,24 @@
     ],
     "tags": [
       "Post-Metal"
+    ]
+  },
+  {
+    "normalizedName": "gorenomicon",
+    "displayName": "Gorenomicon",
+    "albums": [
+      {
+        "name": "Such a Beautiful Smile",
+        "year": "2026",
+        "genres": [
+          "Goregrind Grindcore",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind Grindcore",
+      "Grindcore"
     ]
   },
   {

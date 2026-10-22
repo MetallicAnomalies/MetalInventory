@@ -244,6 +244,13 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "VLTREIA",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -1010,6 +1017,24 @@
     ],
     "tags": [
       "Industrial Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "deadmansswitch",
+    "displayName": "Dead Man's Switch",
+    "albums": [
+      {
+        "name": "Like a Parasite",
+        "year": "2026",
+        "genres": [
+          "Groove Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Death Metal",
+      "Death Metal"
     ]
   },
   {

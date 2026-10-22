@@ -887,10 +887,20 @@
         "genres": [
           "Sludge Doom"
         ]
+      },
+      {
+        "name": "To Ruin Him Without Cause",
+        "year": "2026",
+        "genres": [
+          "Doom Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Sludge Doom"
+      "Sludge Doom",
+      "Doom Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -1691,6 +1701,22 @@
       {
         "name": "Burried Horrors",
         "year": "2009",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "dysuria",
+    "displayName": "Dysuria",
+    "albums": [
+      {
+        "name": "Demo 2026",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]
@@ -3632,6 +3658,14 @@
     "albums": [
       {
         "name": "Bloody Destruction",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Spread The Plague",
         "year": "2026",
         "genres": [
           "Death Thrash Metal",

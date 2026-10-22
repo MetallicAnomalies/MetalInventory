@@ -2113,6 +2113,14 @@
           "Atmospheric Black Metal",
           "Ambient"
         ]
+      },
+      {
+        "name": "The Earth Still Sings",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Ambient"
+        ]
       }
     ],
     "tags": [
@@ -3254,6 +3262,22 @@
     "tags": [
       "Sludge Metal",
       "Powerviolence"
+    ]
+  },
+  {
+    "normalizedName": "mrtas",
+    "displayName": "Mrtás",
+    "albums": [
+      {
+        "name": "Moonshine Cult",
+        "year": "2026",
+        "genres": [
+          "Raw Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Depressive Black Metal"
     ]
   },
   {

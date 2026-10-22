@@ -265,6 +265,22 @@
     ]
   },
   {
+    "normalizedName": "antropofagore",
+    "displayName": "Antropofagore",
+    "albums": [
+      {
+        "name": "Dissolving Flesh Bath",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind"
+    ]
+  },
+  {
     "normalizedName": "apathie",
     "displayName": "Apathie",
     "albums": [
@@ -1197,6 +1213,26 @@
     ],
     "tags": [
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "corrupticide",
+    "displayName": "Corrupticide",
+    "albums": [
+      {
+        "name": "Wreckface '26",
+        "year": "2026",
+        "genres": [
+          "Thrash Death Metal",
+          "Sludge Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Death Metal",
+      "Sludge Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -3534,6 +3570,22 @@
     "tags": [
       "Progressive Metal",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "pamatih",
+    "displayName": "Pamatih",
+    "albums": [
+      {
+        "name": "Criminal Atrocities",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {

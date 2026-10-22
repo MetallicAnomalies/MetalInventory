@@ -1155,13 +1155,22 @@
         "name": "Frozen Silhouettes: 2006-2009",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "We Are Fire",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
       "Symphonic Metal",
       "Gothic Metal",
       "Heavy Metal",
-      "Symphonic Rock"
+      "Symphonic Rock",
+      "Rock"
     ]
   },
   {
@@ -3464,6 +3473,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Black Stones of Kali Gandaki",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -3934,6 +3950,14 @@
     "albums": [
       {
         "name": "Ancient Hatred",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
+      },
+      {
+        "name": "Ancient Night Ceremonies",
         "year": "2026",
         "genres": [
           "Black Metal",

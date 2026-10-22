@@ -4868,11 +4868,20 @@
           "Melodic Death Metal",
           "Folk Metal"
         ]
+      },
+      {
+        "name": "Season of Bloodshed",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Folk Metal",
+          "Folk Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Folk Metal"
+      "Folk Metal",
+      "Melodic Death Folk Metal"
     ]
   }
 ]

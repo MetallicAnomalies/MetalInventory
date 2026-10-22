@@ -3201,10 +3201,22 @@
         "name": "Voiid",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Void",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Grindcore Crossover",
+          "Crossover"
+        ]
       }
     ],
     "tags": [
-      "Grindcore"
+      "Grindcore",
+      "Brutal Death Metal",
+      "Grindcore Crossover",
+      "Crossover"
     ]
   },
   {
@@ -3858,6 +3870,22 @@
     ],
     "tags": [
       "Raw Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "nzgl",
+    "displayName": "NZGL",
+    "albums": [
+      {
+        "name": "Halcyon Days and Echoes",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

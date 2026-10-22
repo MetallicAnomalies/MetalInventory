@@ -961,6 +961,26 @@
     ]
   },
   {
+    "normalizedName": "diseasegunthaar",
+    "displayName": "Disease Gunthaar",
+    "albums": [
+      {
+        "name": "Vacuity",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover Grunge",
+          "Grunge"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Crossover Grunge",
+      "Grunge"
+    ]
+  },
+  {
     "normalizedName": "divulgence",
     "displayName": "Divulgence",
     "albums": [
@@ -2643,6 +2663,16 @@
         "name": "Unto The Locust 15th Anniversary Edition",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Sutures",
+        "year": "2026",
+        "genres": [
+          "Groove Thrash Metal",
+          "Nu-Metal",
+          "Thrash Metal",
+          "Nu-Metal"
+        ]
       }
     ],
     "tags": [
@@ -2657,7 +2687,9 @@
       "Hardcore Metal",
       "Industrial Metal",
       "Electronic",
-      "Rock"
+      "Rock",
+      "Groove Thrash Metal",
+      "Nu-Metal"
     ]
   },
   {
@@ -3674,6 +3706,22 @@
       "Avantgarde Metal",
       "Rock",
       "Art Rock"
+    ]
+  },
+  {
+    "normalizedName": "oscurusinfernal",
+    "displayName": "Oscurus Infernal",
+    "albums": [
+      {
+        "name": "Eternal Winternacht",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {
@@ -4734,6 +4782,26 @@
     "tags": [
       "Blackened Heavy",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "slammedintooblivion",
+    "displayName": "Slammed into Oblivion",
+    "albums": [
+      {
+        "name": "It's Such a Feeling",
+        "year": "2026",
+        "genres": [
+          "Gorenoise Goregrind",
+          "Goregrind",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gorenoise Goregrind",
+      "Goregrind",
+      "Death Metal"
     ]
   },
   {

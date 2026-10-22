@@ -2566,11 +2566,23 @@
           "Crossover Thrash",
           "Crust Punk"
         ]
+      },
+      {
+        "name": "On Every Horn a Crown",
+        "year": "2026",
+        "genres": [
+          "Black Hardcore Punk",
+          "Thrash Metal",
+          "Hardcore Punk"
+        ]
       }
     ],
     "tags": [
       "Crossover Thrash",
-      "Crust Punk"
+      "Crust Punk",
+      "Black Hardcore Punk",
+      "Thrash Metal",
+      "Hardcore Punk"
     ]
   },
   {
@@ -4508,6 +4520,26 @@
     "tags": [
       "Heavy Metal",
       "Us Power"
+    ]
+  },
+  {
+    "normalizedName": "theunleashed",
+    "displayName": "The Unleashed",
+    "albums": [
+      {
+        "name": "Slave to No One but Your Misery",
+        "year": "2026",
+        "genres": [
+          "Death Sludge Metal",
+          "Thrash Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Sludge Metal",
+      "Thrash Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {

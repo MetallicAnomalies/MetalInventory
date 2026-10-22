@@ -1,5 +1,28 @@
 [
   {
+    "normalizedName": "abaser",
+    "displayName": "Abaser",
+    "albums": [
+      {
+        "name": "Esclaves de l'hiver de la tristesse",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "In Mortification...",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "achyronthia",
     "displayName": "Achyronthia",
     "albums": [
@@ -647,6 +670,22 @@
     ]
   },
   {
+    "normalizedName": "balgerothdebauchery",
+    "displayName": "Balgeroth/Debauchery",
+    "albums": [
+      {
+        "name": "Schlacht um Knochenheim 1 / Death of the Bloodking",
+        "year": "2026",
+        "genres": [
+          "Death 'n' Roll | Death 'n' Roll"
+        ]
+      }
+    ],
+    "tags": [
+      "Death 'n' Roll | Death 'n' Roll"
+    ]
+  },
+  {
     "normalizedName": "begatthenephilim",
     "displayName": "Begat The Nephilim",
     "albums": [
@@ -1251,6 +1290,24 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "darkestfreeze",
+    "displayName": "Darkest Freeze",
+    "albums": [
+      {
+        "name": "Vida rota",
+        "year": "2026",
+        "genres": [
+          "Depressive Post-Black Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Post-Black Metal",
+      "Post-Black Metal"
     ]
   },
   {
@@ -2628,6 +2685,22 @@
     ]
   },
   {
+    "normalizedName": "lordgallery",
+    "displayName": "Lord Gallery",
+    "albums": [
+      {
+        "name": "Insurrection",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "lostprophets",
     "displayName": "Lostprophets",
     "origin": "GB",
@@ -3010,11 +3083,31 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Revenge Is Mine",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Death Nu-Metal",
+          "Nu-Metal"
+        ]
+      },
+      {
+        "name": "I Woke Dead",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Death Nu-Metal",
+          "Nu-Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Alternative"
+      "Alternative",
+      "Death Nu-Metal",
+      "Nu-Metal"
     ]
   },
   {

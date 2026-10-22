@@ -1402,6 +1402,24 @@
     ]
   },
   {
+    "normalizedName": "dolor",
+    "displayName": "Dolor",
+    "albums": [
+      {
+        "name": "La vida es una mierda...... Y nunca mejorara",
+        "year": "2026",
+        "genres": [
+          "Black Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Heavy Metal",
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "dramatvm",
     "displayName": "Dramatvm",
     "albums": [
@@ -2158,6 +2176,24 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "haul",
+    "displayName": "Haul",
+    "albums": [
+      {
+        "name": "Magna Kalahar",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Punk"
     ]
   },
   {

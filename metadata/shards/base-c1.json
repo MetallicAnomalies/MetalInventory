@@ -1033,6 +1033,22 @@
     ]
   },
   {
+    "normalizedName": "cwltdraig",
+    "displayName": "Cwlt Draig",
+    "albums": [
+      {
+        "name": "Strike Your Banners",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "davidreece",
     "displayName": "David Reece",
     "albums": [
@@ -3892,6 +3908,14 @@
     "albums": [
       {
         "name": "Onatchiway",
+        "year": "2026",
+        "genres": [
+          "Depressive Post-Black Metal",
+          "Post-Black Metal"
+        ]
+      },
+      {
+        "name": "Le poids de nos erreurs",
         "year": "2026",
         "genres": [
           "Depressive Post-Black Metal",

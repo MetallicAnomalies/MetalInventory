@@ -1444,12 +1444,23 @@
           "Black Metal",
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "Ave marais",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Stoner Black Metal",
+          "Southern Black Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
       "Sludge Metal",
-      "Avantgarde Metal"
+      "Avantgarde Metal",
+      "Stoner Black Metal",
+      "Southern Black Metal"
     ]
   },
   {
@@ -1704,10 +1715,18 @@
         "genres": [
           "Progressive Black Metal"
         ]
+      },
+      {
+        "name": "Abyssal",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Black Metal"
+      "Progressive Black Metal",
+      "Black Metal"
     ]
   },
   {

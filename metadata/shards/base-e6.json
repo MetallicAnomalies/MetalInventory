@@ -767,6 +767,24 @@
     ]
   },
   {
+    "normalizedName": "celestialburial",
+    "displayName": "Celestial Burial",
+    "albums": [
+      {
+        "name": "Oni Bloodbath",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Deathcore"
+    ]
+  },
+  {
     "normalizedName": "chaosbaphomet",
     "displayName": "Chaosbaphomet",
     "albums": [
@@ -3050,6 +3068,14 @@
       },
       {
         "name": "Tifón",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Nimbo",
         "year": "2026",
         "genres": [
           "Black Death Metal",

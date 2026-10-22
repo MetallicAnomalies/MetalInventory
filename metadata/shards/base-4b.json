@@ -117,6 +117,22 @@
     ]
   },
   {
+    "normalizedName": "adales",
+    "displayName": "Adalés",
+    "albums": [
+      {
+        "name": "Medieval Jerky",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "agathodaimon",
     "displayName": "Agathodaimon",
     "origin": "DE",
@@ -649,6 +665,22 @@
     "tags": []
   },
   {
+    "normalizedName": "cadavercarnivore",
+    "displayName": "Cadaver Carnivore",
+    "albums": [
+      {
+        "name": "Decomposition of Eternity",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "citiesoftheplain",
     "displayName": "Cities of the Plain",
     "origin": "US",
@@ -851,6 +883,22 @@
     "tags": [
       "Grindcore",
       "Comedy Rock"
+    ]
+  },
+  {
+    "normalizedName": "crudebastard",
+    "displayName": "Crude Bastard",
+    "albums": [
+      {
+        "name": "Embalmed",
+        "year": "2026",
+        "genres": [
+          "Melodic Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Thrash Metal"
     ]
   },
   {
@@ -2756,6 +2804,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "putrefagia",
+    "displayName": "Putrefagia",
+    "albums": [
+      {
+        "name": "Feasting on Rotten Flesh",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

@@ -1155,6 +1155,22 @@
     ]
   },
   {
+    "normalizedName": "doomhammerdeathdivision",
+    "displayName": "Doomhammer Death Division",
+    "albums": [
+      {
+        "name": "Ministério da Desgraça",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "dymytry",
     "displayName": "Dymytry",
     "albums": [
@@ -3783,6 +3799,14 @@
           "Black Doom Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Smiarotny",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
@@ -3963,6 +3987,22 @@
       "Progressive Metal",
       "Progressive Rock",
       "Instrumental"
+    ]
+  },
+  {
+    "normalizedName": "springheeledjack",
+    "displayName": "Spring Heeled Jack",
+    "albums": [
+      {
+        "name": "Creeping over Cobblestones",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Black Metal"
     ]
   },
   {
@@ -4794,6 +4834,13 @@
       },
       {
         "name": "幻游",
+        "year": "2026",
+        "genres": [
+          "Various"
+        ]
+      },
+      {
+        "name": "潜意识漫游",
         "year": "2026",
         "genres": [
           "Various"

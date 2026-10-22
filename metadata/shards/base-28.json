@@ -3899,9 +3899,22 @@
         "name": "It Is Going To Get Dark",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Till Death",
+        "year": "2026",
+        "genres": [
+          "Metalcore Death Metal",
+          "Hardcore Death Metal",
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Metalcore Death Metal",
+      "Hardcore Death Metal",
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "noisebleed",

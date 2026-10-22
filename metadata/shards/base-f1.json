@@ -541,6 +541,24 @@
     ]
   },
   {
+    "normalizedName": "chlorate",
+    "displayName": "Chlorate",
+    "albums": [
+      {
+        "name": "Peace",
+        "year": "2026",
+        "genres": [
+          "Metalcore Hardcore",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore Hardcore",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "chronologist",
     "displayName": "Chronologist",
     "origin": "US",
@@ -1261,10 +1279,20 @@
         "genres": [
           "Progressive Death Metal"
         ]
+      },
+      {
+        "name": "Distant Oscillator",
+        "year": "2026",
+        "genres": [
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Death Metal"
+      "Progressive Death Metal",
+      "Thrash Death Metal",
+      "Death Metal"
     ]
   },
   {

@@ -1323,6 +1323,22 @@
     ]
   },
   {
+    "normalizedName": "effraie",
+    "displayName": "Effraie",
+    "albums": [
+      {
+        "name": "Enfant pâle",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "endast",
     "displayName": "Endast",
     "albums": [
@@ -2350,6 +2366,14 @@
     "albums": [
       {
         "name": "Glowing Apparition",
+        "year": "2026",
+        "genres": [
+          "Death Black Metal",
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "The Skeletonization of It All",
         "year": "2026",
         "genres": [
           "Death Black Metal",

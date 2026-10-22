@@ -1294,6 +1294,24 @@
     ]
   },
   {
+    "normalizedName": "covenoftheswamp",
+    "displayName": "Coven of the Swamp",
+    "albums": [
+      {
+        "name": "Coven of the Swamp",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal",
+      "Ambient"
+    ]
+  },
+  {
     "normalizedName": "crisissigil",
     "displayName": "Crisis Sigil",
     "albums": [
@@ -2853,6 +2871,22 @@
         "genres": [
           "Blackened Speed"
         ]
+      },
+      {
+        "name": "If You Found This It's Probably Too Late",
+        "year": "2026",
+        "genres": [
+          "Black Speed Metal",
+          "Speed Metal"
+        ]
+      },
+      {
+        "name": "Who the Fuck is Hellripper?",
+        "year": "2026",
+        "genres": [
+          "Black Speed Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
@@ -2860,7 +2894,8 @@
       "Black Metal",
       "Speed Metal",
       "Punk",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Black Speed Metal"
     ]
   },
   {
@@ -2939,6 +2974,13 @@
       {
         "name": "The Great Destroyer",
         "year": "2023",
+        "genres": [
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "Designs in Sadness",
+        "year": "2026",
         "genres": [
           "Progressive Metal"
         ]

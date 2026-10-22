@@ -282,6 +282,24 @@
     ]
   },
   {
+    "normalizedName": "anhegony",
+    "displayName": "Anhegony",
+    "albums": [
+      {
+        "name": "The Edge of Sanity",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Melodic Black Metal",
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Melodic Black Metal",
+      "Melodic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "aoria",
     "displayName": "Aoria",
     "albums": [
@@ -3530,6 +3548,24 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "pripyat",
+    "displayName": "Pripyat",
+    "albums": [
+      {
+        "name": "Pre Brutal",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Doom Metal",
+      "Doom Metal"
     ]
   },
   {

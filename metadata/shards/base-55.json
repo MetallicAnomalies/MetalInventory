@@ -551,6 +551,26 @@
     ]
   },
   {
+    "normalizedName": "blisteredexistence",
+    "displayName": "Blistered Existence",
+    "albums": [
+      {
+        "name": "What Once... Was Not",
+        "year": "2026",
+        "genres": [
+          "Melodic Thrash Metalcore",
+          "Death Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Thrash Metalcore",
+      "Death Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "bloodspot",
     "displayName": "Bloodspot",
     "origin": "DE",
@@ -2773,6 +2793,22 @@
     ],
     "tags": [
       "Deathcore"
+    ]
+  },
+  {
+    "normalizedName": "mysteryofdeath",
+    "displayName": "Mystery of Death",
+    "albums": [
+      {
+        "name": "Death's Embrace",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

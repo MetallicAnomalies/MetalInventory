@@ -1396,6 +1396,24 @@
     ]
   },
   {
+    "normalizedName": "etherealsolitude",
+    "displayName": "Ethereal Solitude",
+    "albums": [
+      {
+        "name": "Kusam",
+        "year": "2026",
+        "genres": [
+          "Progressive Doom Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Doom Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "exoristoi",
     "displayName": "Exoristoi",
     "albums": [
@@ -4959,6 +4977,14 @@
     "albums": [
       {
         "name": "The Giant",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      },
+      {
+        "name": "You Shall Not Ass",
         "year": "2026",
         "genres": [
           "Sludge Doom Metal",

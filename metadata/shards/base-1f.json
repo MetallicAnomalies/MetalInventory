@@ -792,6 +792,24 @@
     "tags": []
   },
   {
+    "normalizedName": "devoidoftongues",
+    "displayName": "Devoid of Tongues",
+    "albums": [
+      {
+        "name": "Oblivion Through Upheaval",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Ambient"
+    ]
+  },
+  {
     "normalizedName": "dickdale",
     "displayName": "Dick Dale",
     "origin": "GB",
@@ -2815,6 +2833,36 @@
     ]
   },
   {
+    "normalizedName": "pussliver",
+    "displayName": "Pus Sliver",
+    "albums": [
+      {
+        "name": "October Is the Only Time I Don't Pop Pills",
+        "year": "2026",
+        "genres": [
+          "Gorenoise",
+          "Grindcore Death Metal",
+          "Pop Punk",
+          "Vaporwave",
+          "Noisegrind Death Metal",
+          "Pop Punk",
+          "Vaporwave",
+          "Death Metal",
+          "Pop Punk",
+          "Vaporwave"
+        ]
+      }
+    ],
+    "tags": [
+      "Gorenoise",
+      "Grindcore Death Metal",
+      "Pop Punk",
+      "Vaporwave",
+      "Noisegrind Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "question",
     "displayName": "Question",
     "albums": [
@@ -3198,6 +3246,26 @@
       "Hip Hop",
       "Bass Music",
       "Electro Metal"
+    ]
+  },
+  {
+    "normalizedName": "skullmother",
+    "displayName": "Skull Mother",
+    "albums": [
+      {
+        "name": "Serpent's Tongue",
+        "year": "2026",
+        "genres": [
+          "Doom Rock",
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Rock",
+      "Stoner Metal",
+      "Rock"
     ]
   },
   {

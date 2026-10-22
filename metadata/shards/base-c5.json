@@ -1037,12 +1037,22 @@
           "Doom Metal",
           "Psychedelic Rock"
         ]
+      },
+      {
+        "name": "Perfume de Gardênia",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Experimental Black Metal",
+          "Noise"
+        ]
       }
     ],
     "tags": [
       "Stoner Metal",
       "Doom Metal",
-      "Psychedelic Rock"
+      "Psychedelic Rock",
+      "Atmospheric Experimental Black Metal",
+      "Noise"
     ]
   },
   {
@@ -2404,6 +2414,26 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "mierdaputaslaugtonomy",
+    "displayName": "Mierda Puta/Slaugtonomy",
+    "albums": [
+      {
+        "name": "Slaugtonomy / Mierda Puta / Aragulino",
+        "year": "2026",
+        "genres": [
+          "Sludge Grindcore | Grindcore",
+          "Death Metal",
+          "Grindcore | Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Grindcore | Grindcore",
+      "Death Metal",
+      "Grindcore | Grindcore"
+    ]
   },
   {
     "normalizedName": "minkang",
@@ -4629,6 +4659,24 @@
       "Pop",
       "Pop Rock",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "直肠回声异质",
+    "displayName": "直肠回声异质",
+    "albums": [
+      {
+        "name": "猪神崇拜",
+        "year": "2026",
+        "genres": [
+          "Goregrind Grindcore",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind Grindcore",
+      "Grindcore"
     ]
   }
 ]

@@ -3228,6 +3228,24 @@
     ]
   },
   {
+    "normalizedName": "meatmarket",
+    "displayName": "Meat Market",
+    "albums": [
+      {
+        "name": "Cannibalized alive",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal",
+      "Goregrind"
+    ]
+  },
+  {
     "normalizedName": "menabrinno",
     "displayName": "Mena Brinno",
     "albums": [
@@ -3630,6 +3648,22 @@
     ]
   },
   {
+    "normalizedName": "outbreakriot",
+    "displayName": "Outbreak Riot",
+    "albums": [
+      {
+        "name": "Game of Death",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "perverticon",
     "displayName": "Perverticon",
     "albums": [
@@ -3658,6 +3692,15 @@
     "albums": [
       {
         "name": "Ay, qué rico que es chupar mico",
+        "year": "2026",
+        "genres": [
+          "Noisegrind",
+          "Death Metal",
+          "Goregrind"
+        ]
+      },
+      {
+        "name": "Despichado",
         "year": "2026",
         "genres": [
           "Noisegrind",

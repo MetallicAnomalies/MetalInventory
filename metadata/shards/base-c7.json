@@ -658,6 +658,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Spell of Thralldom",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -4893,6 +4900,24 @@
     "tags": [
       "Progressive Metal",
       "Prog Rock"
+    ]
+  },
+  {
+    "normalizedName": "tokko",
+    "displayName": "Tokko",
+    "albums": [
+      {
+        "name": "Sledgehammer Engine",
+        "year": "2026",
+        "genres": [
+          "Death Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Groove Metal",
+      "Groove Metal"
     ]
   },
   {

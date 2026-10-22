@@ -1508,6 +1508,26 @@
     ]
   },
   {
+    "normalizedName": "enduringtorment",
+    "displayName": "Enduring Torment",
+    "albums": [
+      {
+        "name": "Rotting Souls",
+        "year": "2026",
+        "genres": [
+          "Slam Hardcore",
+          "Brutal Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Hardcore",
+      "Brutal Death Metal",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "enumaelish",
     "displayName": "Enuma Elish",
     "albums": [
@@ -3556,6 +3576,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "skrap",
+    "displayName": "SkrAp",
+    "albums": [
+      {
+        "name": "Tue Ton Putain Dieu",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

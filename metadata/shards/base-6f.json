@@ -404,6 +404,22 @@
     ]
   },
   {
+    "normalizedName": "ancientritual",
+    "displayName": "Ancient Ritual",
+    "albums": [
+      {
+        "name": "Black Moon Ritual",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "angelsdemons",
     "displayName": "Angels & Demons",
     "albums": [
@@ -3980,6 +3996,13 @@
       {
         "name": "Enemy Enemy",
         "year": "2021",
+        "genres": [
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "Dracons",
+        "year": "2026",
         "genres": [
           "Power Metal"
         ]

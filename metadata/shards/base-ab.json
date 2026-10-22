@@ -1643,6 +1643,22 @@
     ]
   },
   {
+    "normalizedName": "eternalkatastrophy",
+    "displayName": "Eternal Katastrophy",
+    "albums": [
+      {
+        "name": "Eternal War",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "eyesoffire",
     "displayName": "Eyes Of Fire",
     "origin": "IT",
@@ -2098,6 +2114,13 @@
       {
         "name": "Bearer Of Light, Matriarch Of Death",
         "year": "2024",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Born from Darkness Absolute",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]
@@ -6139,6 +6162,22 @@
     ]
   },
   {
+    "normalizedName": "nachtdwaelen",
+    "displayName": "Nachtdwaelen",
+    "albums": [
+      {
+        "name": "De geestenstroom en dodenmasker",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "nightfall",
     "displayName": "Nightfall",
     "origin": "GR",
@@ -6952,6 +6991,24 @@
     ],
     "tags": [
       "Pop"
+    ]
+  },
+  {
+    "normalizedName": "thecrookedskulls",
+    "displayName": "The Crooked Skulls",
+    "albums": [
+      {
+        "name": "Ride Free/Pain Dealer",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Rock"
     ]
   },
   {

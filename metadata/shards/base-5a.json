@@ -80,6 +80,22 @@
     ]
   },
   {
+    "normalizedName": "ageofalteration",
+    "displayName": "Age of Alteration",
+    "albums": [
+      {
+        "name": "General Coward",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "akasha",
     "displayName": "Akasha",
     "albums": [
@@ -368,6 +384,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "averagemisanthropy",
+    "displayName": "Average Misanthropy",
+    "albums": [
+      {
+        "name": "Blackened Stream from the Unknown Mountain of Death",
+        "year": "2026",
+        "genres": [
+          "Black Funeral Doom Metal",
+          "Funeral Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Funeral Doom Metal",
+      "Funeral Doom Metal"
     ]
   },
   {
@@ -1245,10 +1279,20 @@
         "name": "Pillar I: Ashes Of Verdant Collapse EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Pillar I: Ashes of Verdant Collapse",
+        "year": "2026",
+        "genres": [
+          "Death Black Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Blackened Sludge"
+      "Blackened Sludge",
+      "Death Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -2298,6 +2342,15 @@
           "Brutal Death Metal",
           "Goregrind"
         ]
+      },
+      {
+        "name": "Grated Beyond Recognition",
+        "year": "2026",
+        "genres": [
+          "Slam Goregrind",
+          "Brutal Death Metal",
+          "Goregrind"
+        ]
       }
     ],
     "tags": [
@@ -2464,6 +2517,38 @@
           "Black Death Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Psychologically Raped",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Fucking Glitched",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Introduction",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Dying Would Be Too Easy",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2623,10 +2708,18 @@
         "genres": [
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "IV: The Monolith",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Stoner Metal"
+      "Stoner Metal",
+      "Psychedelic Doom Metal"
     ]
   },
   {
@@ -2726,6 +2819,24 @@
       }
     ],
     "tags": [
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "niflvarðr",
+    "displayName": "Niflvarðr",
+    "albums": [
+      {
+        "name": "Stormgate",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Death Metal",
       "Death Metal"
     ]
   },

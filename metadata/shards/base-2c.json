@@ -1801,6 +1801,22 @@
     ]
   },
   {
+    "normalizedName": "frailpetals",
+    "displayName": "Frail Petals",
+    "albums": [
+      {
+        "name": "Stars Above the Triumphant Loss",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "frontrowwarriors",
     "displayName": "Front Row Warriors",
     "albums": [
@@ -1992,6 +2008,13 @@
     "albums": [
       {
         "name": "Born with a Hammer",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "Wonderland",
         "year": "2026",
         "genres": [
           "Power Metal"
@@ -4321,6 +4344,24 @@
     ]
   },
   {
+    "normalizedName": "sneglefeber",
+    "displayName": "Sneglefeber",
+    "albums": [
+      {
+        "name": "Ormekulten gryr",
+        "year": "2026",
+        "genres": [
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Sludge Metal",
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "solsticerider",
     "displayName": "Solstice Rider",
     "albums": [
@@ -5080,6 +5121,24 @@
       "Post-Metal",
       "Black Metal",
       "Atmospheric Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "unborngeneration",
+    "displayName": "Unborn Generation",
+    "albums": [
+      {
+        "name": "Kuolleena eläjät",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {

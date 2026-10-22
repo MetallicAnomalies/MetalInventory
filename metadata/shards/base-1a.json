@@ -1230,6 +1230,16 @@
           "Gothic Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Liturgia Della Notte",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Doom Metal",
+          "Doom Metal",
+          "Death Gothic Metal",
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
@@ -1240,7 +1250,9 @@
       "Death Metal",
       "Heavy Metal",
       "Gothic Metal",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Blackened Death Doom Metal",
+      "Death Gothic Metal"
     ]
   },
   {

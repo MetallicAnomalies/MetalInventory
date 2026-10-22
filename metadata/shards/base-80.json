@@ -3240,10 +3240,22 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "The Great Beyond",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Psychedelic Drone Stoner Metal",
+      "Doom Stoner Metal",
+      "Stoner Metal"
     ]
   },
   {

@@ -812,6 +812,24 @@
     ]
   },
   {
+    "normalizedName": "brightcurse",
+    "displayName": "Bright Curse",
+    "albums": [
+      {
+        "name": "Fatum",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Psychedelic Doom Stoner Metal",
+      "Stoner Metal"
+    ]
+  },
+  {
     "normalizedName": "cardinalsynne",
     "displayName": "Cardinal Synne",
     "albums": [
@@ -1803,6 +1821,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "hazeofdoom",
+    "displayName": "Haze of Doom",
+    "albums": [
+      {
+        "name": "Dark Haze",
+        "year": "2026",
+        "genres": [
+          "Epic Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Epic Doom Metal"
     ]
   },
   {

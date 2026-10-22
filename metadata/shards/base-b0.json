@@ -263,12 +263,25 @@
         "name": "I See Red",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "I See Red - Mini Album Vol. 2",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Power Metal",
+          "Alternative Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
       "Alternative",
       "Power Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Heavy Power Metal",
+      "Alternative Metal",
+      "Rock"
     ]
   },
   {
@@ -3065,6 +3078,24 @@
     "tags": [
       "Melodic Heavy",
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "koaguleradeendlesspain",
+    "displayName": "Koagulerade/Endless Pain",
+    "albums": [
+      {
+        "name": "Lovers of Suffering Vol. 1",
+        "year": "2026",
+        "genres": [
+          "Raw Depressive Black Metal | Depressive Black Metal",
+          "Depressive Black Metal | Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Depressive Black Metal | Depressive Black Metal",
+      "Depressive Black Metal | Depressive Black Metal"
     ]
   },
   {

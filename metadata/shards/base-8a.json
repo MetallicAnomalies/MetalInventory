@@ -148,6 +148,24 @@
     ]
   },
   {
+    "normalizedName": "ail",
+    "displayName": "Ail",
+    "albums": [
+      {
+        "name": "Demo Tape",
+        "year": "2026",
+        "genres": [
+          "Funeral Doom Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Funeral Doom Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "amnesian",
     "displayName": "Amnesian",
     "albums": [
@@ -1701,6 +1719,24 @@
     "tags": [
       "Funk / Soul",
       "Contemporary R&b"
+    ]
+  },
+  {
+    "normalizedName": "erratic",
+    "displayName": "Erratic",
+    "albums": [
+      {
+        "name": "Invoking the Dead",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Doom Metal"
     ]
   },
   {

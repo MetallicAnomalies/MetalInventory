@@ -176,6 +176,22 @@
     ]
   },
   {
+    "normalizedName": "astrallore",
+    "displayName": "Astral Lore",
+    "albums": [
+      {
+        "name": "Astral Lore II",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "atthealtarofthehornedgod",
     "displayName": "At The Altar Of The Horned God",
     "albums": [
@@ -3906,6 +3922,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "phagocytedysfunction",
+    "displayName": "Phagocyte Dysfunction",
+    "albums": [
+      {
+        "name": "Triúr Chorpán atá ag Lóbhadh",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind"
     ]
   },
   {

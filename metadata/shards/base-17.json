@@ -447,6 +447,16 @@
           "Eurobeat",
           "Power Metal"
         ]
+      },
+      {
+        "name": "Lost Children",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Hard Rock",
+          "Power Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
@@ -454,7 +464,9 @@
       "Power Metal",
       "Pop Rock",
       "Electronic",
-      "Eurobeat"
+      "Eurobeat",
+      "Heavy Power Metal",
+      "Hard Rock"
     ]
   },
   {
@@ -1046,6 +1058,22 @@
     "tags": [
       "AOR",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "cyrocist",
+    "displayName": "Cyrocist",
+    "albums": [
+      {
+        "name": "Dossier MMXXVI",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {
@@ -3055,6 +3083,24 @@
     "tags": [
       "Alternative",
       "Industrial Metal"
+    ]
+  },
+  {
+    "normalizedName": "scrape",
+    "displayName": "Scrape",
+    "albums": [
+      {
+        "name": "Scrape",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Hardcore"
     ]
   },
   {

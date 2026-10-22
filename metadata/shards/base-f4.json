@@ -3182,11 +3182,21 @@
           "Heavy Metal",
           "Speed Metal"
         ]
+      },
+      {
+        "name": "Saviour",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Speed Metal"
+      "Speed Metal",
+      "Heavy Power Metal",
+      "Power Metal"
     ]
   },
   {

@@ -1225,6 +1225,29 @@
     ]
   },
   {
+    "normalizedName": "doodzonde",
+    "displayName": "Doodzonde",
+    "albums": [
+      {
+        "name": "Messenregen",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "Portaal - Instrumentals",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "dotan",
     "displayName": "Dotan",
     "origin": "NL",
@@ -5064,6 +5087,22 @@
       "Unblack Metal",
       "Folk Metal",
       "Symphonic Metal"
+    ]
+  },
+  {
+    "normalizedName": "varjo",
+    "displayName": "Varjo",
+    "albums": [
+      {
+        "name": "Sykli I",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {

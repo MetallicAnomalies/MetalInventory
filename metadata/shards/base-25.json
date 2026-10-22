@@ -963,6 +963,24 @@
     ]
   },
   {
+    "normalizedName": "cries",
+    "displayName": "Cries",
+    "albums": [
+      {
+        "name": "En guerra contra el mundo",
+        "year": "2026",
+        "genres": [
+          "Groove Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "crypticrealms",
     "displayName": "Cryptic Realms",
     "albums": [
@@ -2714,6 +2732,13 @@
       },
       {
         "name": "The Beast Called Ego",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Demon za krkem",
         "year": "2026",
         "genres": [
           "Black Metal"

@@ -16,6 +16,24 @@
     ]
   },
   {
+    "normalizedName": "abortednation",
+    "displayName": "Aborted Nation",
+    "albums": [
+      {
+        "name": "Demo #1",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "abyssgale",
     "displayName": "Abyssgale",
     "albums": [
@@ -3094,11 +3112,21 @@
           "Melodic Death Metal",
           "Blackened Thrash Metal"
         ]
+      },
+      {
+        "name": "The Book of Change",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Blackened Thrash Metal"
+      "Blackened Thrash Metal",
+      "Melodic Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

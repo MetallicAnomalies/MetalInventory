@@ -1465,6 +1465,13 @@
         "name": "Wild At Heart",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "You R Not Alone",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -3657,6 +3664,22 @@
     ]
   },
   {
+    "normalizedName": "see",
+    "displayName": "See",
+    "albums": [
+      {
+        "name": "горный массив",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "serumdreg",
     "displayName": "Serum Dreg",
     "albums": [
@@ -4343,10 +4366,19 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Hide & Seek",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Rock"
     ]
   },
   {
@@ -4570,6 +4602,46 @@
       },
       {
         "name": "Tarrega Tango Maria",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Paganini's Caprice No. 23",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Paganini Caprices 9, 13, 14, 23, 24",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Sanz Canarios",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Beethoven's 666th Cheerful Countryside Pastoral",
         "year": "2026",
         "genres": [
           "Speed Thrash Metal",

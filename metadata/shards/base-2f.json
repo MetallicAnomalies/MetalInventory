@@ -971,10 +971,20 @@
         "genres": [
           "Blackened Speed"
         ]
+      },
+      {
+        "name": "Eastern Blackfire",
+        "year": "2026",
+        "genres": [
+          "Black Speed Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
-      "Blackened Speed"
+      "Blackened Speed",
+      "Black Speed Metal",
+      "Speed Metal"
     ]
   },
   {
@@ -1071,6 +1081,22 @@
       "Alternative",
       "Crossover Folk",
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "discordantmeditation",
+    "displayName": "Discordant Meditation",
+    "albums": [
+      {
+        "name": "Aborted Emanations",
+        "year": "2026",
+        "genres": [
+          "Experimental Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Death Metal"
     ]
   },
   {
@@ -4241,6 +4267,22 @@
     ]
   },
   {
+    "normalizedName": "strii",
+    "displayName": "Strii",
+    "albums": [
+      {
+        "name": "Lamine Orfiche",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "suffocation",
     "displayName": "Suffocation",
     "origin": "US",
@@ -4586,6 +4628,22 @@
     ],
     "tags": [
       "Suomi"
+    ]
+  },
+  {
+    "normalizedName": "thelivingdead",
+    "displayName": "The Living Dead",
+    "albums": [
+      {
+        "name": "The Sacred and the Profane: Satanism’s Rebellion Against Christian Faith",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

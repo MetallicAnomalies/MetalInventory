@@ -2624,6 +2624,14 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Return of the Jorniverse",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
@@ -3612,6 +3620,22 @@
     "tags": [
       "Progressive Death Metal",
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "pendue",
+    "displayName": "Pendue",
+    "albums": [
+      {
+        "name": "Compilation Demo 1, 2 & 3",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {

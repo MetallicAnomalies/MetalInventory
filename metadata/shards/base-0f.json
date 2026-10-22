@@ -2747,6 +2747,22 @@
     ]
   },
   {
+    "normalizedName": "hateclash",
+    "displayName": "Hateclash",
+    "albums": [
+      {
+        "name": "Dosis fuerte",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "hatefulmurder",
     "displayName": "Hatefulmurder",
     "origin": "BR",
@@ -3670,6 +3686,28 @@
     ]
   },
   {
+    "normalizedName": "nugreth",
+    "displayName": "Nugreth",
+    "albums": [
+      {
+        "name": "Nugreth",
+        "year": "2026",
+        "genres": [
+          "Mathcore Deathcore",
+          "Deathcore",
+          "Technical Avant-garde Death Metal",
+          "Avant-garde Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Mathcore Deathcore",
+      "Deathcore",
+      "Technical Avant-garde Death Metal",
+      "Avant-garde Death Metal"
+    ]
+  },
+  {
     "normalizedName": "oceans",
     "displayName": "Oceans",
     "origin": "FI",
@@ -3884,6 +3922,14 @@
           "Slam Brutal Death Metal",
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Neurotic Biomechanical Abomination",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -4030,6 +4076,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "propheticum",
+    "displayName": "Propheticum",
+    "albums": [
+      {
+        "name": "Witching Night",
+        "year": "2026",
+        "genres": [
+          "Blackened Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Speed Metal"
+    ]
   },
   {
     "normalizedName": "protectedillusion",

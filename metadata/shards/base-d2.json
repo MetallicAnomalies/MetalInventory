@@ -1014,10 +1014,18 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Back in Rage",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -2239,6 +2247,24 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "innermarshland",
+    "displayName": "Inner Marshland",
+    "albums": [
+      {
+        "name": "Tales from the Marshland",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Doom Metal"
     ]
   },
   {

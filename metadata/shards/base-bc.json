@@ -1037,6 +1037,24 @@
     "tags": []
   },
   {
+    "normalizedName": "eldercolossus",
+    "displayName": "Elder Colossus",
+    "albums": [
+      {
+        "name": "Black Kiss of the Crow",
+        "year": "2026",
+        "genres": [
+          "Death Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Sludge Metal",
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "eternaldeformity",
     "displayName": "Eternal Deformity",
     "origin": "PL",
@@ -2549,6 +2567,14 @@
           "Middle Eastern Folk Progressive Metal",
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Echoes of the Fallen",
+        "year": "2026",
+        "genres": [
+          "Middle Eastern Folk Progressive Metal",
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
@@ -2830,6 +2856,14 @@
     "albums": [
       {
         "name": "Buncha Boobies",
+        "year": "2026",
+        "genres": [
+          "Goregrind",
+          "Brutal Death Metal"
+        ]
+      },
+      {
+        "name": "Poopee",
         "year": "2026",
         "genres": [
           "Goregrind",

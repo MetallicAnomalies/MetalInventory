@@ -1918,6 +1918,24 @@
     ]
   },
   {
+    "normalizedName": "guillen",
+    "displayName": "Guillen",
+    "albums": [
+      {
+        "name": "Everything We Know Will Die",
+        "year": "2026",
+        "genres": [
+          "Progressive Experimental Death Metal",
+          "Experimental Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Experimental Death Metal",
+      "Experimental Death Metal"
+    ]
+  },
+  {
     "normalizedName": "gutalax",
     "displayName": "Gutalax",
     "albums": [
@@ -4216,6 +4234,30 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "ujrend",
+    "displayName": "Új Rend",
+    "albums": [
+      {
+        "name": "Ragnarök",
+        "year": "2026",
+        "genres": [
+          "Oi! RAC",
+          "RAC",
+          "Crossover RAC",
+          "Thrash Metal",
+          "Metalcore RAC"
+        ]
+      }
+    ],
+    "tags": [
+      "Oi! RAC",
+      "RAC",
+      "Crossover RAC",
+      "Thrash Metal",
+      "Metalcore RAC"
     ]
   },
   {

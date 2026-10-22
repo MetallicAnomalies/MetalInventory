@@ -30,6 +30,22 @@
     ]
   },
   {
+    "normalizedName": "abyssall",
+    "displayName": "Abyssall",
+    "albums": [
+      {
+        "name": "Legado",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "affront",
     "displayName": "Affront",
     "albums": [
@@ -94,6 +110,22 @@
       "Progressive Death Metal",
       "Death Metal",
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "amaethon",
+    "displayName": "Amaethon",
+    "albums": [
+      {
+        "name": "The Fog Never Lifts",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {
@@ -1098,6 +1130,14 @@
       },
       {
         "name": "Dreamstate",
+        "year": "2026",
+        "genres": [
+          "Thrash Speed Metal",
+          "Speed Metal"
+        ]
+      },
+      {
+        "name": "D.S.S (Death Strikes Suddenly)",
         "year": "2026",
         "genres": [
           "Thrash Speed Metal",
@@ -2500,6 +2540,24 @@
     ]
   },
   {
+    "normalizedName": "mabbul",
+    "displayName": "Mabbul",
+    "albums": [
+      {
+        "name": "A Fire Above",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "magdalene",
     "displayName": "Magdalene",
     "albums": [
@@ -2647,6 +2705,24 @@
     "tags": [
       "Hardcore Metal",
       "Crossover Thrash"
+    ]
+  },
+  {
+    "normalizedName": "myself",
+    "displayName": "Myself",
+    "albums": [
+      {
+        "name": "Dreaming",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal",
+      "Ambient"
     ]
   },
   {
@@ -2934,10 +3010,22 @@
         "genres": [
           "Deathgrind"
         ]
+      },
+      {
+        "name": "Les homilies del desengany",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Hardcore Grindcore",
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
-      "Deathgrind"
+      "Deathgrind",
+      "Death Metal",
+      "Hardcore Grindcore",
+      "Grindcore"
     ]
   },
   {
@@ -3538,6 +3626,22 @@
     "tags": [
       "Progressive Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "surgent",
+    "displayName": "Surgent",
+    "albums": [
+      {
+        "name": "Sin Eater",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Metal"
     ]
   },
   {

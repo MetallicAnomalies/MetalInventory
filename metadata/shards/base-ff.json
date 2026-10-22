@@ -1500,6 +1500,24 @@
     ]
   },
   {
+    "normalizedName": "firthofdrangiss",
+    "displayName": "Firth of Drangiss",
+    "albums": [
+      {
+        "name": "United",
+        "year": "2026",
+        "genres": [
+          "Power Progressive Metal",
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Progressive Metal",
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "flagellum",
     "displayName": "Flagellum",
     "albums": [
@@ -1960,10 +1978,22 @@
         "genres": [
           "Folk Metal"
         ]
+      },
+      {
+        "name": "Nach uns die Sintflut",
+        "year": "2026",
+        "genres": [
+          "Folk Metalcore",
+          "Melodic Groove Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
-      "Folk Metal"
+      "Folk Metal",
+      "Folk Metalcore",
+      "Melodic Groove Metal",
+      "Metalcore"
     ]
   },
   {

@@ -4458,10 +4458,18 @@
         "genres": [
           "Viking Metal"
         ]
+      },
+      {
+        "name": "Äiti",
+        "year": "2026",
+        "genres": [
+          "Folk Metal"
+        ]
       }
     ],
     "tags": [
-      "Viking Metal"
+      "Viking Metal",
+      "Folk Metal"
     ]
   },
   {

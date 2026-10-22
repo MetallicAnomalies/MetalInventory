@@ -3268,6 +3268,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "In My Keep",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -3376,6 +3383,22 @@
       "Heavy Metal",
       "Power Metal",
       "Symphonic Metal"
+    ]
+  },
+  {
+    "normalizedName": "nothinghaschanged",
+    "displayName": "Nothing Has Changed",
+    "albums": [
+      {
+        "name": "In Spite of Everything",
+        "year": "2026",
+        "genres": [
+          "Industrial Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Industrial Metal"
     ]
   },
   {

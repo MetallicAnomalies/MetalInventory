@@ -242,6 +242,24 @@
     ]
   },
   {
+    "normalizedName": "apoptosis",
+    "displayName": "Apoptosis",
+    "albums": [
+      {
+        "name": "Cell Regeneration at Death",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal",
+      "Goregrind"
+    ]
+  },
+  {
     "normalizedName": "arcanar",
     "displayName": "Arcanar",
     "albums": [
@@ -1871,6 +1889,22 @@
     ]
   },
   {
+    "normalizedName": "korpikuu",
+    "displayName": "Korpikuu",
+    "albums": [
+      {
+        "name": "Hauturin laulu",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "kurgan",
     "displayName": "Kurgan",
     "albums": [
@@ -3294,11 +3328,38 @@
     ]
   },
   {
+    "normalizedName": "raze",
+    "displayName": "Raze",
+    "albums": [
+      {
+        "name": "Feral Chaos",
+        "year": "2026",
+        "genres": [
+          "Speed Punk",
+          "Thrash Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Speed Punk",
+      "Thrash Metal",
+      "Punk"
+    ]
+  },
+  {
     "normalizedName": "reapersrevenge",
     "displayName": "Reaper's Revenge",
     "albums": [
       {
         "name": "Taken by Night",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "On the Run",
         "year": "2026",
         "genres": [
           "Heavy Metal"

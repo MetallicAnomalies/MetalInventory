@@ -955,6 +955,14 @@
           "Death Metal",
           "Hardcore Punk"
         ]
+      },
+      {
+        "name": "Life Downfall",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Hardcore Punk"
+        ]
       }
     ],
     "tags": [
@@ -1775,11 +1783,21 @@
         "name": "Halla",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Päätösmatka",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Black Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Melodic Black Metal"
+      "Melodic Black Metal",
+      "Melodic Death Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -2297,6 +2315,26 @@
     ],
     "tags": [
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "legioabrasax",
+    "displayName": "Legio Abrasax",
+    "albums": [
+      {
+        "name": "The Greater Holy War",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Thrash Metal",
+      "Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -4568,6 +4606,22 @@
     ],
     "tags": [
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "warfaith",
+    "displayName": "Warfaith",
+    "albums": [
+      {
+        "name": "Necronomicat",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {

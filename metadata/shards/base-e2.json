@@ -2183,6 +2183,22 @@
     ]
   },
   {
+    "normalizedName": "hammerofdoubt",
+    "displayName": "Hammer of Doubt",
+    "albums": [
+      {
+        "name": "Live at the Metalbox",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "hellraiser",
     "displayName": "Hellraiser",
     "albums": [
@@ -4060,6 +4076,22 @@
     ],
     "tags": [
       "Symphonic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "sluagh",
+    "displayName": "Sluagh",
+    "albums": [
+      {
+        "name": "Torn Apart",
+        "year": "2026",
+        "genres": [
+          "Blackened Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Sludge Metal"
     ]
   },
   {

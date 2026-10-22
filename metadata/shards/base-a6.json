@@ -1515,6 +1515,22 @@
     ]
   },
   {
+    "normalizedName": "endysnigh",
+    "displayName": "Endys Nigh",
+    "albums": [
+      {
+        "name": "Gain",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "esophageal",
     "displayName": "Esophageal",
     "albums": [
@@ -2579,10 +2595,18 @@
         "genres": [
           "Progressive Power"
         ]
+      },
+      {
+        "name": "Beyond the Garden",
+        "year": "2026",
+        "genres": [
+          "Progressive Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power",
+      "Progressive Power Metal"
     ]
   },
   {
@@ -5030,11 +5054,22 @@
           "Viking Folk",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Marskens dom",
+        "year": "2026",
+        "genres": [
+          "Viking Folk Metal",
+          "Folk Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
       "Viking Folk",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Viking Folk Metal",
+      "Folk Metal"
     ]
   },
   {

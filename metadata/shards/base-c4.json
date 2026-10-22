@@ -1596,9 +1596,18 @@
         "name": "The Spell Of A New Dawn",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Poltergeist",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Symphonic Black Metal"
+    ]
   },
   {
     "normalizedName": "fallenlegion",

@@ -23,6 +23,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Ambition and Delusion",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2391,6 +2398,22 @@
       "Vocal",
       "Rock",
       "Country Rock"
+    ]
+  },
+  {
+    "normalizedName": "kalashnikov",
+    "displayName": "Kalashnikov",
+    "albums": [
+      {
+        "name": "En vivo en legends Live Sessions",
+        "year": "2026",
+        "genres": [
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Metal"
     ]
   },
   {

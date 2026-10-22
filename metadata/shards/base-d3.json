@@ -429,10 +429,20 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "The New Flesh",
+        "year": "2026",
+        "genres": [
+          "Black Post-Metal",
+          "Post-Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Black Post-Metal",
+      "Post-Metal"
     ]
   },
   {

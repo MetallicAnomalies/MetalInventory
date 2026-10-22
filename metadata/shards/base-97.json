@@ -305,6 +305,24 @@
     ]
   },
   {
+    "normalizedName": "baronblood",
+    "displayName": "Baron Blood",
+    "albums": [
+      {
+        "name": "Haunted Halls",
+        "year": "2026",
+        "genres": [
+          "Doom Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "bashbrothers",
     "displayName": "bash brothers",
     "origin": "US",
@@ -1283,6 +1301,17 @@
       },
       {
         "name": "Disintegrate",
+        "year": "2026",
+        "genres": [
+          "Technical Death Metal",
+          "Progressive Death Thrash Metal",
+          "Alternative Rock",
+          "Thrash Metal",
+          "Alternative Rock"
+        ]
+      },
+      {
+        "name": "Merciless Hunger",
         "year": "2026",
         "genres": [
           "Technical Death Metal",

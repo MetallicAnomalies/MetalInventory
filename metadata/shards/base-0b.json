@@ -1047,6 +1047,24 @@
     ]
   },
   {
+    "normalizedName": "dishumanized",
+    "displayName": "Dishumanized",
+    "albums": [
+      {
+        "name": "Utopia of the Damned",
+        "year": "2026",
+        "genres": [
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "dogmapor",
     "displayName": "Dogma (Por)",
     "albums": [
@@ -1137,11 +1155,21 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "I Have the Power",
+        "year": "2026",
+        "genres": [
+          "Melodic Symphonic Power Metal",
+          "Symphonic Power Metal"
+        ]
       }
     ],
     "tags": [
       "Power Metal",
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Melodic Symphonic Power Metal",
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -1555,6 +1583,22 @@
     "tags": [
       "Death Metal",
       "Grindcore"
+    ]
+  },
+  {
+    "normalizedName": "grvmkvlt",
+    "displayName": "Grvm Kvlt",
+    "albums": [
+      {
+        "name": "Regnum Mortis",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -2742,6 +2786,24 @@
     "tags": [
       "Rock",
       "Alternative Rock"
+    ]
+  },
+  {
+    "normalizedName": "opiumchurch",
+    "displayName": "Opium Church",
+    "albums": [
+      {
+        "name": "Overdosing on Hate",
+        "year": "2026",
+        "genres": [
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Stoner Metal",
+      "Stoner Metal"
     ]
   },
   {

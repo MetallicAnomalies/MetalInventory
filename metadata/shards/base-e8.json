@@ -1003,6 +1003,13 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Mercy of Fools",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -1462,6 +1469,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "eosophobia",
+    "displayName": "Eosophobia",
+    "albums": [
+      {
+        "name": "Ключі від смерті",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {
@@ -2123,6 +2146,22 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "kanalia",
+    "displayName": "Kanalia",
+    "albums": [
+      {
+        "name": "Carnis/Kanalia",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal"
     ]
   },
   {
@@ -3064,6 +3103,13 @@
         "genres": [
           "Symphonic Gothic Metal"
         ]
+      },
+      {
+        "name": "Al Despertar (Orchestral Version)",
+        "year": "2026",
+        "genres": [
+          "Symphonic Gothic Metal"
+        ]
       }
     ],
     "tags": [
@@ -3303,6 +3349,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "pooyanahmadi",
+    "displayName": "Pooyan Ahmadi",
+    "albums": [
+      {
+        "name": "Neurophage",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {

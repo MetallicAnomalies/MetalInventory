@@ -326,6 +326,26 @@
     ]
   },
   {
+    "normalizedName": "aphangaklugubria",
+    "displayName": "Aphangak/Lugubria",
+    "albums": [
+      {
+        "name": "Hymni sub Pacto Mysticismi Obscuri",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Black Metal",
+          "Gothic Metal | Gothic Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Black Metal",
+      "Gothic Metal | Gothic Black Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "aromatripassangrientas",
     "displayName": "Aroma/Tripas Sangrientas",
     "albums": [
@@ -1624,6 +1644,22 @@
     ]
   },
   {
+    "normalizedName": "imaginarpoetic",
+    "displayName": "Imaginar Poetic",
+    "albums": [
+      {
+        "name": "Trees Among the Night Sky",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "inkvisitor",
     "displayName": "Inkvisitor",
     "albums": [
@@ -1650,6 +1686,24 @@
       }
     ],
     "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "insufferance",
+    "displayName": "Insufferance",
+    "albums": [
+      {
+        "name": "Rise",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Thrash Metal",
       "Thrash Metal"
     ]
   },
@@ -4106,6 +4160,13 @@
     "albums": [
       {
         "name": "Archaica",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "Urtrieb",
         "year": "2026",
         "genres": [
           "Atmospheric Black Metal"

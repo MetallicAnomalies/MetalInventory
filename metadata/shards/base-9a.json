@@ -1017,6 +1017,24 @@
     ]
   },
   {
+    "normalizedName": "dilaghran",
+    "displayName": "Dilaghran",
+    "albums": [
+      {
+        "name": "Sons of the Golden King",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dungeon Synth"
+    ]
+  },
+  {
     "normalizedName": "divinetragedy",
     "displayName": "Divine Tragedy",
     "albums": [
@@ -2265,6 +2283,15 @@
           "Thrash Metal",
           "Groove Metal"
         ]
+      },
+      {
+        "name": "Jester of Jaundice",
+        "year": "2026",
+        "genres": [
+          "Thrash Groove Metal",
+          "Death Groove Metal",
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
@@ -2272,7 +2299,9 @@
       "Death Metal",
       "Speed Metal",
       "Groove Metal",
-      "Rock"
+      "Rock",
+      "Thrash Groove Metal",
+      "Death Groove Metal"
     ]
   },
   {
@@ -3575,6 +3604,14 @@
     "albums": [
       {
         "name": "Return to Asgard",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
+      },
+      {
+        "name": "Under the Shadow of Autumn",
         "year": "2026",
         "genres": [
           "Black Metal",

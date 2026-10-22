@@ -1812,10 +1812,21 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Steel Burning (Live)",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock",
+          "Shred"
+        ]
       }
     ],
     "tags": [
-      "Heavy Metal"
+      "Heavy Metal",
+      "Hard Rock",
+      "Shred"
     ]
   },
   {
@@ -2519,6 +2530,24 @@
     ]
   },
   {
+    "normalizedName": "kruppler",
+    "displayName": "Krüppler",
+    "albums": [
+      {
+        "name": "Mordlust",
+        "year": "2026",
+        "genres": [
+          "Black Speed Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Speed Metal",
+      "Speed Metal"
+    ]
+  },
+  {
     "normalizedName": "kschoice",
     "displayName": "K's Choice",
     "origin": "GB",
@@ -3142,6 +3171,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "mauvaisefoi",
+    "displayName": "Mauvaise Foi",
+    "albums": [
+      {
+        "name": "Mauvaise III Foi",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Doom Metal",
+      "Doom Metal"
     ]
   },
   {

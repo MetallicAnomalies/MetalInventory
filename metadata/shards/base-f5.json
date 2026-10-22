@@ -3869,6 +3869,24 @@
     ]
   },
   {
+    "normalizedName": "primitiverage",
+    "displayName": "Primitive Rage",
+    "albums": [
+      {
+        "name": "Holy Light",
+        "year": "2026",
+        "genres": [
+          "Grindcore Hardcore",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore Hardcore",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "psonen",
     "displayName": "Psonen",
     "albums": [
@@ -4135,6 +4153,27 @@
     ]
   },
   {
+    "normalizedName": "robesofsnow",
+    "displayName": "Robes of Snow",
+    "albums": [
+      {
+        "name": "Wild Muses of a Cold October",
+        "year": "2026",
+        "genres": [
+          "Ambient Post-Black Metal",
+          "Folk",
+          "Post-Black Metal",
+          "Folk"
+        ]
+      }
+    ],
+    "tags": [
+      "Ambient Post-Black Metal",
+      "Folk",
+      "Post-Black Metal"
+    ]
+  },
+  {
     "normalizedName": "sacredsin",
     "displayName": "Sacred Sin",
     "albums": [
@@ -4207,10 +4246,20 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Ironbound",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

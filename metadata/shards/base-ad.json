@@ -907,6 +907,22 @@
     ]
   },
   {
+    "normalizedName": "carna",
+    "displayName": "Carna",
+    "albums": [
+      {
+        "name": "Immortal Flame",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "celene",
     "displayName": "Celéne",
     "albums": [
@@ -5250,6 +5266,14 @@
       },
       {
         "name": "The Fire Beneath the Shroud",
+        "year": "2026",
+        "genres": [
+          "Gothic Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "„Próg milczącego nieba”",
         "year": "2026",
         "genres": [
           "Gothic Death Metal",

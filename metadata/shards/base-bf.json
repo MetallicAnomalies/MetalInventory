@@ -167,6 +167,22 @@
     ]
   },
   {
+    "normalizedName": "aranur",
+    "displayName": "Aranur",
+    "albums": [
+      {
+        "name": "Mournfall & Wroth",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "arjenanthonylucassen",
     "displayName": "Arjen Anthony Lucassen",
     "albums": [
@@ -2063,6 +2079,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "irontalon",
+    "displayName": "Iron Talon",
+    "albums": [
+      {
+        "name": "Tunnel Rat",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {

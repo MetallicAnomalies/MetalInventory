@@ -5588,6 +5588,28 @@
     ]
   },
   {
+    "normalizedName": "facadaguro",
+    "displayName": "Facada/Guro",
+    "albums": [
+      {
+        "name": "Chocante! Medonho! Live at Barbearia!",
+        "year": "2026",
+        "genres": [
+          "Grindcore Grindcore",
+          "Crust Punk",
+          "Death Metal | Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore Grindcore",
+      "Crust Punk",
+      "Death Metal | Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "feugregeois",
     "displayName": "Feu Grégeois",
     "albums": [
@@ -6173,6 +6195,16 @@
     "albums": [
       {
         "name": "The Will of the Blade",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Hardcore",
+          "Doom Metal",
+          "Hardcore"
+        ]
+      },
+      {
+        "name": "Artefato da Falha Humana",
         "year": "2026",
         "genres": [
           "Death Doom Metal",

@@ -2499,10 +2499,24 @@
         "genres": [
           "Melodic Metalcore"
         ]
+      },
+      {
+        "name": "Sleep Beneath the Water",
+        "year": "2026",
+        "genres": [
+          "Melodic Metalcore Electronic elements",
+          "Power Metal",
+          "Alternative Rock with Chiptune Electronic elements",
+          "Electronic elements"
+        ]
       }
     ],
     "tags": [
-      "Melodic Metalcore"
+      "Melodic Metalcore",
+      "Melodic Metalcore Electronic elements",
+      "Power Metal",
+      "Alternative Rock with Chiptune Electronic elements",
+      "Electronic elements"
     ]
   },
   {
@@ -4049,6 +4063,13 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Listen... Shut Up!",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -4133,6 +4154,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "tytalus",
+    "displayName": "Tytalus",
+    "albums": [
+      {
+        "name": "Wisdom Through the Ages of Spiritism",
+        "year": "2026",
+        "genres": [
+          "Blackened Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Thrash Metal"
     ]
   },
   {

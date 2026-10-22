@@ -3444,6 +3444,15 @@
         "name": "Peeling Flesh",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Crackology",
+        "year": "2026",
+        "genres": [
+          "Slam Hardcore",
+          "Brutal Death Metal",
+          "Hardcore"
+        ]
       }
     ],
     "tags": [
@@ -4815,6 +4824,14 @@
     "albums": [
       {
         "name": "ΔΑΚΡΥΑ ΣΑΝ ΞΥΡΑΦΙΑ",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "D-Beat"
+        ]
+      },
+      {
+        "name": "Άνετα Νιώθω Μονάχα Με Τα Ζώα",
         "year": "2026",
         "genres": [
           "Black Metal",

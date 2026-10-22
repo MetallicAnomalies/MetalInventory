@@ -654,6 +654,24 @@
     ]
   },
   {
+    "normalizedName": "brianmoody",
+    "displayName": "Brian Moody",
+    "albums": [
+      {
+        "name": "Chamber Crawl",
+        "year": "2026",
+        "genres": [
+          "Heavy Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Groove Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "buttholesurfers",
     "displayName": "Butthole Surfers",
     "origin": "US",
@@ -2201,10 +2219,18 @@
         "genres": [
           "Progressive Doom"
         ]
+      },
+      {
+        "name": "Painted in Gore",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Doom"
+      "Progressive Doom",
+      "Thrash Metal"
     ]
   },
   {
@@ -3851,6 +3877,22 @@
     ]
   },
   {
+    "normalizedName": "starbearer",
+    "displayName": "Starbearer",
+    "albums": [
+      {
+        "name": "Starbearer",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "suddenannihilation",
     "displayName": "Sudden Annihilation",
     "albums": [
@@ -4113,6 +4155,24 @@
       }
     ],
     "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "toxicintent",
+    "displayName": "Toxic Intent",
+    "albums": [
+      {
+        "name": "Shattered Glass",
+        "year": "2026",
+        "genres": [
+          "Crossover Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Crossover Thrash Metal",
       "Thrash Metal"
     ]
   },
@@ -4623,6 +4683,13 @@
       {
         "name": "Black Night",
         "year": "2024",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "To Blame",
+        "year": "2026",
         "genres": [
           "Heavy Metal"
         ]

@@ -2950,6 +2950,22 @@
     ]
   },
   {
+    "normalizedName": "kiliaxarios",
+    "displayName": "Kiliaxarios",
+    "albums": [
+      {
+        "name": "Rising the Sun",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "kły",
     "displayName": "Kły",
     "albums": [
@@ -4238,6 +4254,24 @@
       }
     ],
     "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "themaskoftyrant",
+    "displayName": "The Mask of Tyrant",
+    "albums": [
+      {
+        "name": "Biomechanical",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Thrash Metal",
       "Thrash Metal"
     ]
   },

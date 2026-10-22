@@ -136,6 +136,22 @@
     ]
   },
   {
+    "normalizedName": "alsenremidi",
+    "displayName": "Alsenremidi",
+    "albums": [
+      {
+        "name": "Kynvan",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "anarchus",
     "displayName": "Anarchus",
     "albums": [
@@ -430,6 +446,22 @@
       "Rhythm & Blues",
       "Art Rock",
       "Soft Rock"
+    ]
+  },
+  {
+    "normalizedName": "asmudus",
+    "displayName": "Asmudus",
+    "albums": [
+      {
+        "name": "Andromeda MCMXCVI",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -4422,6 +4454,14 @@
     "albums": [
       {
         "name": "Bloodsucker",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Dungeon Synth"
+        ]
+      },
+      {
+        "name": "Lycanthropy",
         "year": "2026",
         "genres": [
           "Raw Black Metal",

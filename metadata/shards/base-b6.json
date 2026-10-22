@@ -1827,6 +1827,26 @@
     ]
   },
   {
+    "normalizedName": "highpriestofnothing",
+    "displayName": "High Priest of Nothing",
+    "albums": [
+      {
+        "name": "Seven Moons",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Sludge Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "hyperionaus",
     "displayName": "Hyperion (Aus)",
     "albums": [
@@ -2439,6 +2459,16 @@
           "Noise Experimental",
           "Experimental"
         ]
+      },
+      {
+        "name": "Devil Drone",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Drone Experimental",
+          "Noise Experimental",
+          "Experimental"
+        ]
       }
     ],
     "tags": [
@@ -2561,12 +2591,21 @@
           "Hard Rock",
           "J-rock"
         ]
+      },
+      {
+        "name": "道唐草",
+        "year": "2026",
+        "genres": [
+          "Metalcore Hard Rock",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
       "Hard Rock",
-      "J-rock"
+      "J-rock",
+      "Metalcore Hard Rock"
     ]
   },
   {

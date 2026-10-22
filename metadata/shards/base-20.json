@@ -704,12 +704,26 @@
           "Thrash Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Chaos Continuum",
+        "year": "2026",
+        "genres": [
+          "Groove Melodic Death Metal",
+          "Thrash Melodic Death Metal",
+          "Heavy Melodic Death Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
       "Thrash Metal",
-      "Death Metal"
+      "Death Metal",
+      "Groove Melodic Death Metal",
+      "Thrash Melodic Death Metal",
+      "Heavy Melodic Death Metal",
+      "Melodic Death Metal"
     ]
   },
   {
@@ -1547,6 +1561,22 @@
       "Gothic Metal",
       "Blackgaze",
       "Progressive Rock"
+    ]
+  },
+  {
+    "normalizedName": "gluttonforpunishment",
+    "displayName": "Glutton for Punishment",
+    "albums": [
+      {
+        "name": "The Architecture of Suffering",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -3196,6 +3226,14 @@
           "Progressive Melodic Death Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Hater of Mankind",
+        "year": "2026",
+        "genres": [
+          "Progressive Melodic Death Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -4791,6 +4829,13 @@
       },
       {
         "name": "Shroud of Pestilence",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Metal"
+        ]
+      },
+      {
+        "name": "Void Of Surfingness",
         "year": "2026",
         "genres": [
           "Experimental Black Metal"

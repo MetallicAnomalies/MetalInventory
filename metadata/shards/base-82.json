@@ -456,6 +456,22 @@
     ]
   },
   {
+    "normalizedName": "astru",
+    "displayName": "Astru",
+    "albums": [
+      {
+        "name": "The Colour Out of Space",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "atomikyla",
     "displayName": "Atomikylä",
     "albums": [
@@ -2386,6 +2402,26 @@
     ]
   },
   {
+    "normalizedName": "mild",
+    "displayName": "Mild",
+    "albums": [
+      {
+        "name": "Mild / Pothole",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Doom Metal",
+      "Stoner Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "moonreich",
     "displayName": "Moonreich",
     "origin": "FR",
@@ -3663,6 +3699,22 @@
     ],
     "tags": [
       "Blackened Gothic"
+    ]
+  },
+  {
+    "normalizedName": "ventriloquist",
+    "displayName": "Ventriloquist",
+    "albums": [
+      {
+        "name": "Repossession of a Sinner / Kuru",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

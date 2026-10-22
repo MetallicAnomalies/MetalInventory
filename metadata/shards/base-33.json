@@ -120,9 +120,18 @@
         "name": "Treason",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "All Has Read",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Power Metal"
+    ]
   },
   {
     "normalizedName": "allhell",

@@ -767,6 +767,24 @@
     ]
   },
   {
+    "normalizedName": "cervus",
+    "displayName": "Cervus",
+    "albums": [
+      {
+        "name": "Axis",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "chaoscore",
     "displayName": "Chaos Core",
     "albums": [
@@ -4496,9 +4514,25 @@
         "name": "Hate, Rage And A Whole Lotta Killin’ EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Hate, Rage and a Whole Lotta Killin’",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "The Executioner",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "tyran",

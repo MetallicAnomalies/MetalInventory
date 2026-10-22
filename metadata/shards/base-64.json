@@ -1197,6 +1197,17 @@
           "J-rock",
           "Industrial Metal"
         ]
+      },
+      {
+        "name": "Forge",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Power Metal",
+          "Power Metal",
+          "Melodic Death Metal",
+          "Metalcore Trance",
+          "Trance"
+        ]
       }
     ],
     "tags": [
@@ -1207,7 +1218,10 @@
       "Trance",
       "Death Metal",
       "J-rock",
-      "Industrial Metal"
+      "Industrial Metal",
+      "Melodic Death Power Metal",
+      "Power Metal",
+      "Metalcore Trance"
     ]
   },
   {
