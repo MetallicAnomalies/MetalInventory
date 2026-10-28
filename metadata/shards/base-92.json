@@ -2450,6 +2450,18 @@
     ]
   },
   {
+    "normalizedName": "lean",
+    "displayName": "Lean",
+    "albums": [
+      {
+        "name": "Meristeme",
+        "year": "2027",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "lepoka",
     "displayName": "Lèpoka",
     "albums": [
@@ -3109,6 +3121,18 @@
     "tags": [
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "oerheks",
+    "displayName": "Oerheks",
+    "albums": [
+      {
+        "name": "De Stroom",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "okyr",

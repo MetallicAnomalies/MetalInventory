@@ -1418,6 +1418,24 @@
     ]
   },
   {
+    "normalizedName": "det",
+    "displayName": "Det",
+    "albums": [
+      {
+        "name": "Bloodsurge",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "devilgoat",
     "displayName": "Devilgoat",
     "albums": [
@@ -3047,6 +3065,11 @@
         "genres": [
           "Melodic Black Metal"
         ]
+      },
+      {
+        "name": "The Second Death",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
