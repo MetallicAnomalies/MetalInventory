@@ -3751,6 +3751,18 @@
     ]
   },
   {
+    "normalizedName": "stormwarning",
+    "displayName": "Stormwarning",
+    "albums": [
+      {
+        "name": "Future In Utopia",
+        "year": "2027",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "strife",
     "displayName": "Strife",
     "albums": [
@@ -4158,6 +4170,18 @@
     "tags": [
       "Death Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "transonicscience",
+    "displayName": "Transonic Science",
+    "albums": [
+      {
+        "name": "Velvet Doom",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "ulvdalir",

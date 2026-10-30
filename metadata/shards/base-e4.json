@@ -2560,6 +2560,22 @@
     ]
   },
   {
+    "normalizedName": "jojjon",
+    "displayName": "jöjjön",
+    "albums": [
+      {
+        "name": "Szelet Vet",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "landofconfusion",
     "displayName": "Land Of Confusion",
     "origin": "XK",
@@ -3282,6 +3298,18 @@
       "Black Metal",
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "necroshade",
+    "displayName": "Necroshade",
+    "albums": [
+      {
+        "name": "The Last Dawn",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "nexttoeternity",
