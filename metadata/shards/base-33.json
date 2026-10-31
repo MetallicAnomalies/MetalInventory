@@ -1884,6 +1884,26 @@
     ]
   },
   {
+    "normalizedName": "exision",
+    "displayName": "Exision",
+    "albums": [
+      {
+        "name": "Nosferatu",
+        "year": "2026",
+        "genres": [
+          "Groove Metalcore",
+          "Thrash Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metalcore",
+      "Thrash Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "extreme",
     "displayName": "Extreme",
     "origin": "US",
@@ -4321,6 +4341,22 @@
       "Heavy Metal",
       "Deathcore",
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "penunggu",
+    "displayName": "Penunggu",
+    "albums": [
+      {
+        "name": "Into the Files",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {

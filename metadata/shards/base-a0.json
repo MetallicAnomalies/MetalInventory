@@ -76,6 +76,22 @@
     ]
   },
   {
+    "normalizedName": "alifelessalive",
+    "displayName": "A Life Less Alive",
+    "albums": [
+      {
+        "name": "You Will Suffer",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "alvacast",
     "displayName": "Alvacast",
     "albums": [
@@ -495,6 +511,22 @@
     "tags": [
       "Deathcore",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "churchpyre",
+    "displayName": "ChurchPyre",
+    "albums": [
+      {
+        "name": "2nd Floor Demos",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
     ]
   },
   {
@@ -4229,6 +4261,27 @@
     ],
     "tags": [
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "vampiris",
+    "displayName": "Vampiris",
+    "albums": [
+      {
+        "name": "In Nomine Noctis",
+        "year": "2026",
+        "genres": [
+          "Gothic Thrash Metal",
+          "Symphonic Black Metal",
+          "Thrash Metal",
+          "Symphonic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Thrash Metal",
+      "Symphonic Black Metal",
+      "Thrash Metal"
     ]
   },
   {

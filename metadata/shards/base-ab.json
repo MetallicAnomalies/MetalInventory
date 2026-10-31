@@ -808,6 +808,29 @@
     ]
   },
   {
+    "normalizedName": "blesser",
+    "displayName": "Blesser",
+    "albums": [
+      {
+        "name": "Verdant Ashes",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
+      },
+      {
+        "name": "Where Nothing Grows",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal"
+    ]
+  },
+  {
     "normalizedName": "bloodyheathen",
     "displayName": "Bloody Heathen",
     "albums": [
@@ -2331,12 +2354,30 @@
           "Symphonic Black Metal",
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "Verstärkung",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Escape Defeat",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Symphonic Black Metal",
       "Technical Death Metal",
-      "Black Metal"
+      "Black Metal",
+      "Symphonic Black Death Metal",
+      "Death Metal"
     ]
   },
   {

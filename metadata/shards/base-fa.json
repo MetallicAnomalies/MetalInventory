@@ -1267,6 +1267,22 @@
     ]
   },
   {
+    "normalizedName": "dethelm",
+    "displayName": "Dethelm",
+    "albums": [
+      {
+        "name": "Realm of Violence",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Death Metal"
+    ]
+  },
+  {
     "normalizedName": "devilelectric",
     "displayName": "Devil Electric",
     "albums": [
@@ -1911,6 +1927,13 @@
     "albums": [
       {
         "name": "Unohdettujen viisauksien tykö",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      },
+      {
+        "name": "Uhrivuori II - Kun perikadon puhdistava tuuli ulvoo kirottujen kuun ollessa korkeimmillaan",
         "year": "2026",
         "genres": [
           "Raw Black Metal"
@@ -4157,6 +4180,22 @@
       {
         "name": "Dissolution Of Innocence",
         "year": "2021",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "skadin",
+    "displayName": "Skadin",
+    "albums": [
+      {
+        "name": "Hungry for Blood",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

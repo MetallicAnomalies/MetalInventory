@@ -3575,10 +3575,22 @@
         "genres": [
           "Experimental Death"
         ]
+      },
+      {
+        "name": "After You Are Gone",
+        "year": "2026",
+        "genres": [
+          "Death Ambient",
+          "Doom Metal",
+          "Ambient"
+        ]
       }
     ],
     "tags": [
-      "Experimental Death"
+      "Experimental Death",
+      "Death Ambient",
+      "Doom Metal",
+      "Ambient"
     ]
   },
   {
@@ -4580,6 +4592,24 @@
     ]
   },
   {
+    "normalizedName": "thesalemwitchtrial",
+    "displayName": "The Salem Witch Trial",
+    "albums": [
+      {
+        "name": "Buttons For Eyes -2026 Version",
+        "year": "2026",
+        "genres": [
+          "Deathcore Metalcore",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Deathcore Metalcore",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "theskull",
     "displayName": "The Skull",
     "origin": "GB",
@@ -4843,6 +4873,24 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "vitiation",
+    "displayName": "Vitiation",
+    "albums": [
+      {
+        "name": "Armageddon",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

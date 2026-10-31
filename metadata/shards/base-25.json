@@ -1440,6 +1440,22 @@
     ]
   },
   {
+    "normalizedName": "everrime",
+    "displayName": "Everrime",
+    "albums": [
+      {
+        "name": "The Sea Is Calling Our Names",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Metal"
+    ]
+  },
+  {
     "normalizedName": "f",
     "displayName": "F",
     "albums": [
@@ -2424,6 +2440,13 @@
     "albums": [
       {
         "name": "Continue to Bleed",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Demo XXVI",
         "year": "2026",
         "genres": [
           "Black Metal"
@@ -4893,6 +4916,22 @@
     "tags": [
       "Doom Metal",
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "yperit",
+    "displayName": "Yperit",
+    "albums": [
+      {
+        "name": "Hameln Havoc",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

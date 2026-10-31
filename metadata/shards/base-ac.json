@@ -1262,6 +1262,27 @@
     ]
   },
   {
+    "normalizedName": "fianna",
+    "displayName": "Fianna",
+    "albums": [
+      {
+        "name": "The Age of Man",
+        "year": "2026",
+        "genres": [
+          "Epic Atmospheric Black Metal",
+          "Dungeon Synth",
+          "Atmospheric Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Epic Atmospheric Black Metal",
+      "Dungeon Synth",
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "frozenmoon",
     "displayName": "Frozen Moon",
     "albums": [
@@ -2614,10 +2635,22 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Autumnal Curses",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Blackened Thrash Heavy Metal",
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Raw Black Metal",
+      "Blackened Thrash Heavy Metal",
+      "Heavy Metal"
     ]
   },
   {

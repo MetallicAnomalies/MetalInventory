@@ -932,6 +932,24 @@
     ]
   },
   {
+    "normalizedName": "devilshenchmen",
+    "displayName": "Devils Henchmen",
+    "albums": [
+      {
+        "name": "Waste of Life",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "disperse",
     "displayName": "Disperse",
     "origin": "PL",
@@ -3547,6 +3565,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "silentshepherdshorn",
+    "displayName": "Silent Shepherd's Horn",
+    "albums": [
+      {
+        "name": "Not Quite of This Life",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

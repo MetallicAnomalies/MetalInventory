@@ -73,6 +73,22 @@
     ]
   },
   {
+    "normalizedName": "alrinach333",
+    "displayName": "Al Rinach 333",
+    "albums": [
+      {
+        "name": "Magna Misantropía Diabólica",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "amoslee",
     "displayName": "Amos Lee",
     "origin": "US",
@@ -1851,6 +1867,24 @@
     ]
   },
   {
+    "normalizedName": "fleshtemple",
+    "displayName": "Flesh Temple",
+    "albums": [
+      {
+        "name": "...of Grief Stricken Scars",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "garmarna",
     "displayName": "Garmarna",
     "origin": "SE",
@@ -2058,6 +2092,22 @@
     "tags": [
       "Sludge Post-Metal",
       "Post-Metal"
+    ]
+  },
+  {
+    "normalizedName": "iateeverybody",
+    "displayName": "I Ate Everybody",
+    "albums": [
+      {
+        "name": "Farewell to the Flesh",
+        "year": "2026",
+        "genres": [
+          "Brutal Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Deathcore"
     ]
   },
   {
@@ -3031,6 +3081,22 @@
     ],
     "tags": [
       "Mathcore"
+    ]
+  },
+  {
+    "normalizedName": "puredarkness",
+    "displayName": "Pure Darkness",
+    "albums": [
+      {
+        "name": "Mundo Morto",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

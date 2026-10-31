@@ -148,6 +148,22 @@
     "tags": []
   },
   {
+    "normalizedName": "apan",
+    "displayName": "A Pan...",
+    "albums": [
+      {
+        "name": "Euterpe",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "aphotic",
     "displayName": "Aphotic",
     "albums": [
@@ -282,6 +298,13 @@
     "albums": [
       {
         "name": "Setembro Vermelho",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "365",
         "year": "2026",
         "genres": [
           "Depressive Black Metal"
@@ -2433,6 +2456,22 @@
     ]
   },
   {
+    "normalizedName": "hewasagod",
+    "displayName": "He Was a God",
+    "albums": [
+      {
+        "name": "The Greatest Story $old",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "horrorcosmico",
     "displayName": "Horror Cósmico",
     "origin": "US",
@@ -3413,6 +3452,22 @@
     "tags": [
       "Blackened Sludge",
       "Post-Metal"
+    ]
+  },
+  {
+    "normalizedName": "noxprofunda",
+    "displayName": "Nox Profunda",
+    "albums": [
+      {
+        "name": "I Manifest",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -4411,6 +4466,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "thisbrutalworld",
+    "displayName": "This Brutal World",
+    "albums": [
+      {
+        "name": "One Finger Left",
+        "year": "2026",
+        "genres": [
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {

@@ -2198,6 +2198,22 @@
     ]
   },
   {
+    "normalizedName": "gardensofhell",
+    "displayName": "Gardens of Hell",
+    "albums": [
+      {
+        "name": "Shadows of the Old Faith",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "georgedornscreams",
     "displayName": "George Dorn Screams",
     "origin": "PL",
@@ -2261,6 +2277,13 @@
       {
         "name": "Voidfurnace Imperator",
         "year": "2019",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Iron Reign of Satan",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

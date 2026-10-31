@@ -2994,6 +2994,24 @@
     ]
   },
   {
+    "normalizedName": "mortiswitch",
+    "displayName": "Mortis Witch",
+    "albums": [
+      {
+        "name": "Dereliction",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "mournfulcongregation",
     "displayName": "Mournful Congregation",
     "origin": "AU",
@@ -4586,6 +4604,22 @@
     "tags": [
       "Brutal Death Metal",
       "Grindcore"
+    ]
+  },
+  {
+    "normalizedName": "trvesagacity",
+    "displayName": "Trve Sagacity",
+    "albums": [
+      {
+        "name": "Follow the Hearses",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

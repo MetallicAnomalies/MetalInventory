@@ -927,6 +927,13 @@
           "Thrash Metal",
           "Groove Metal"
         ]
+      },
+      {
+        "name": "Cerberus",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -2469,6 +2476,24 @@
       "Death Metal"
     ],
     "origin": "ES"
+  },
+  {
+    "normalizedName": "kulturkampf",
+    "displayName": "Kulturkampf",
+    "albums": [
+      {
+        "name": "Ride the Tiger",
+        "year": "2026",
+        "genres": [
+          "Raw Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Doom Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "kuzuknot",

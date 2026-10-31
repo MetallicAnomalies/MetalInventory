@@ -390,6 +390,42 @@
     ]
   },
   {
+    "normalizedName": "avliv",
+    "displayName": "Avliv",
+    "albums": [
+      {
+        "name": "Rituals",
+        "year": "2026",
+        "genres": [
+          "Raw Black Noise",
+          "Death Metal",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Noise",
+      "Death Metal",
+      "Noise"
+    ]
+  },
+  {
+    "normalizedName": "azazelpazuzu",
+    "displayName": "Azazel Pazuzu",
+    "albums": [
+      {
+        "name": "Miara rozkładu / Ciemność",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "battered",
     "displayName": "Battered",
     "albums": [
@@ -804,10 +840,20 @@
         "genres": [
           "Blackened Death Metal"
         ]
+      },
+      {
+        "name": "Excoriate",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Blackened Death Metal"
+      "Blackened Death Metal",
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -1848,6 +1894,22 @@
     ]
   },
   {
+    "normalizedName": "frostland",
+    "displayName": "Frostland",
+    "albums": [
+      {
+        "name": "Im Zentrum der Leere",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "futureindefinite",
     "displayName": "Future Indefinite",
     "albums": [
@@ -1918,6 +1980,13 @@
         "name": "Murder The Light",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Ghosts",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2296,6 +2365,22 @@
       "Emo",
       "Prog Rock",
       "Grunge"
+    ]
+  },
+  {
+    "normalizedName": "impuritanical",
+    "displayName": "Impuritanical",
+    "albums": [
+      {
+        "name": "Demo 2",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -4728,6 +4813,24 @@
       "Gothic Metal",
       "Metalcore",
       "Metal"
+    ]
+  },
+  {
+    "normalizedName": "vampiresandleeches",
+    "displayName": "Vampires and Leeches",
+    "albums": [
+      {
+        "name": "Figures of Souls",
+        "year": "2026",
+        "genres": [
+          "Progressive Technical Death Metal",
+          "Technical Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Technical Death Metal",
+      "Technical Death Metal"
     ]
   },
   {

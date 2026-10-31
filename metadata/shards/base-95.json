@@ -945,6 +945,26 @@
     ]
   },
   {
+    "normalizedName": "crucifixed",
+    "displayName": "Crucifixed",
+    "albums": [
+      {
+        "name": "Crucifixed",
+        "year": "2026",
+        "genres": [
+          "Black Crust Punk",
+          "Death Metal",
+          "Crust Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Crust Punk",
+      "Death Metal",
+      "Crust Punk"
+    ]
+  },
+  {
     "normalizedName": "cryfemal",
     "displayName": "Cryfemal",
     "albums": [
@@ -1952,6 +1972,22 @@
       "Doom Death",
       "Industrial Metal",
       "Noise Metal"
+    ]
+  },
+  {
+    "normalizedName": "eveale",
+    "displayName": "Eveale",
+    "albums": [
+      {
+        "name": "Livin' la Vida Loca",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

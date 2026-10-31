@@ -92,6 +92,22 @@
     ]
   },
   {
+    "normalizedName": "aermst",
+    "displayName": "Aermst",
+    "albums": [
+      {
+        "name": "The Muted Consensus",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "againsttheplagues",
     "displayName": "Against The Plagues",
     "albums": [
@@ -3175,6 +3191,36 @@
     ]
   },
   {
+    "normalizedName": "mourningsoulsmortuarioadgoatholocaustcutted",
+    "displayName": "Mourning Souls/Mortuário A.D./Goat Holocaust/Cutted",
+    "albums": [
+      {
+        "name": "Songs for Halloween 9",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Drone Thrash Metal",
+          "Noise Thrash Metal",
+          "Experimental | Death Thrash Metal",
+          "Thrash Metal | Raw Black Thrash Metal",
+          "Speed Metal",
+          "Crust Punk | Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Drone Thrash Metal",
+      "Noise Thrash Metal",
+      "Experimental | Death Thrash Metal",
+      "Thrash Metal | Raw Black Thrash Metal",
+      "Speed Metal",
+      "Crust Punk | Death Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "mugshot",
     "displayName": "Mugshot",
     "albums": [
@@ -4051,6 +4097,22 @@
     "tags": []
   },
   {
+    "normalizedName": "sanguinaria",
+    "displayName": "Sanguinária",
+    "albums": [
+      {
+        "name": "Vampírica Liturgia",
+        "year": "2026",
+        "genres": [
+          "Ambient Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Ambient Black Metal"
+    ]
+  },
+  {
     "normalizedName": "seabastard",
     "displayName": "Sea Bastard",
     "albums": [
@@ -4234,6 +4296,22 @@
       "Blackened Thrash Metal",
       "Thrash Metal",
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "stal",
+    "displayName": "Stål",
+    "albums": [
+      {
+        "name": "Forged",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal"
     ]
   },
   {

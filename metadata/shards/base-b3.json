@@ -2861,6 +2861,22 @@
     "tags": []
   },
   {
+    "normalizedName": "lykeios",
+    "displayName": "Lykeios",
+    "albums": [
+      {
+        "name": "Solstice Return",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "lyraslegacy",
     "displayName": "Lyra's Legacy",
     "albums": [
@@ -3895,6 +3911,24 @@
     ],
     "tags": [
       "Atmospheric Death"
+    ]
+  },
+  {
+    "normalizedName": "septicmutilation",
+    "displayName": "Septic Mutilation",
+    "albums": [
+      {
+        "name": "Visions of Despair",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {

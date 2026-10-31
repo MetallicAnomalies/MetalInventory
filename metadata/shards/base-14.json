@@ -4450,6 +4450,22 @@
     ]
   },
   {
+    "normalizedName": "talesofmemory",
+    "displayName": "Tales of Memory",
+    "albums": [
+      {
+        "name": "Forgotten Chapters",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Power Metal"
+    ]
+  },
+  {
     "normalizedName": "tartaros",
     "displayName": "Tartaros",
     "albums": [
@@ -4732,6 +4748,26 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "unholythings",
+    "displayName": "Unholy Things",
+    "albums": [
+      {
+        "name": "From Forbidden Books",
+        "year": "2026",
+        "genres": [
+          "Doom Hard Rock",
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Hard Rock",
+      "Heavy Metal",
+      "Hard Rock"
     ]
   },
   {

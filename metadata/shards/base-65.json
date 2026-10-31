@@ -822,6 +822,22 @@
     ]
   },
   {
+    "normalizedName": "cria",
+    "displayName": "Cría",
+    "albums": [
+      {
+        "name": "La herida",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "cronos",
     "displayName": "Cronos",
     "albums": [
@@ -842,6 +858,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "cruentis",
+    "displayName": "Crüentis",
+    "albums": [
+      {
+        "name": "From the Fog",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -2093,6 +2125,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "invarvm",
+    "displayName": "Invarvm",
+    "albums": [
+      {
+        "name": "Nocumentum",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

@@ -409,10 +409,19 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Eternal Phobia",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Death Thrash Metal"
     ]
   },
   {
@@ -1385,6 +1394,26 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "dimend",
+    "displayName": "Dimend",
+    "albums": [
+      {
+        "name": "Cold Summer Depression",
+        "year": "2026",
+        "genres": [
+          "Death Black Metal",
+          "Black Metal",
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Black Metal",
+      "Black Metal",
+      "Melodic Death Metal"
     ]
   },
   {

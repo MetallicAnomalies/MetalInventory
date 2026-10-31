@@ -596,6 +596,26 @@
     ]
   },
   {
+    "normalizedName": "blacksabbathozzyosbourne",
+    "displayName": "Black Sabbath/Ozzy Osbourne",
+    "albums": [
+      {
+        "name": "Back to the Beginning",
+        "year": "2026",
+        "genres": [
+          "Heavy Hard Rock",
+          "Doom Metal | Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Hard Rock",
+      "Doom Metal | Heavy Metal",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "blackwater",
     "displayName": "Blackwater",
     "albums": [
@@ -2900,6 +2920,24 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "nosunabove",
+    "displayName": "No Sun Above",
+    "albums": [
+      {
+        "name": "Bajo el Manto del Eclipse Eterno",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

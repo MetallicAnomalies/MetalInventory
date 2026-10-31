@@ -2348,6 +2348,28 @@
     ]
   },
   {
+    "normalizedName": "necroclown",
+    "displayName": "NecroClown",
+    "albums": [
+      {
+        "name": "The NecroTapes: Fear",
+        "year": "2026",
+        "genres": [
+          "Black Punk",
+          "Death Metal",
+          "Hardcore Punk",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Punk",
+      "Death Metal",
+      "Hardcore Punk",
+      "Punk"
+    ]
+  },
+  {
     "normalizedName": "necrophobicpol",
     "displayName": "Necrophobic (Pol)",
     "albums": [
@@ -3862,6 +3884,22 @@
     ],
     "tags": [
       "Free Jazz"
+    ]
+  },
+  {
+    "normalizedName": "甘い断頭台",
+    "displayName": "甘い断頭台",
+    "albums": [
+      {
+        "name": "Fading Reverie",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
     ]
   }
 ]

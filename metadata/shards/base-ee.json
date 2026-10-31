@@ -1089,6 +1089,22 @@
     ]
   },
   {
+    "normalizedName": "decompossession",
+    "displayName": "Decompossession",
+    "albums": [
+      {
+        "name": "Promo 2026",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "dreamlost",
     "displayName": "Dreamlost",
     "albums": [
@@ -3415,6 +3431,24 @@
     ],
     "tags": [
       "Progressive Heavy"
+    ]
+  },
+  {
+    "normalizedName": "resumption",
+    "displayName": "Resumption",
+    "albums": [
+      {
+        "name": "Theatre Of Misanthropy",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Doom Metal"
     ]
   },
   {

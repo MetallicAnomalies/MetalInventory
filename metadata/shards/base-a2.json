@@ -1292,6 +1292,24 @@
     ]
   },
   {
+    "normalizedName": "crimsongallows",
+    "displayName": "Crimson Gallows",
+    "albums": [
+      {
+        "name": "Halla",
+        "year": "2026",
+        "genres": [
+          "Gothic Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "cullingtheweak",
     "displayName": "Culling the Weak",
     "origin": "SE",
@@ -1494,6 +1512,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "dovecote",
+    "displayName": "Dovecote",
+    "albums": [
+      {
+        "name": "Dovecote",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal",
+          "Screamo"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal",
+      "Screamo"
     ]
   },
   {
@@ -1895,10 +1931,20 @@
         "genres": [
           "Melodic Black Metal"
         ]
+      },
+      {
+        "name": "Asuras",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal with Folk Classical influences",
+          "Classical influences"
+        ]
       }
     ],
     "tags": [
-      "Melodic Black Metal"
+      "Melodic Black Metal",
+      "Melodic Black Metal with Folk Classical influences",
+      "Classical influences"
     ]
   },
   {

@@ -2431,6 +2431,22 @@
     ]
   },
   {
+    "normalizedName": "neuroticdisfigurment",
+    "displayName": "Neurotic Disfigurment",
+    "albums": [
+      {
+        "name": "Humanity Extinction (Mass Cremation)",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "nigredo",
     "displayName": "Nigredo",
     "albums": [
@@ -3325,6 +3341,22 @@
     ]
   },
   {
+    "normalizedName": "redneckstomp",
+    "displayName": "Redneck Stomp",
+    "albums": [
+      {
+        "name": "Territorial Mutilation",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "reekingaura",
     "displayName": "Reeking Aura",
     "albums": [
@@ -3549,6 +3581,32 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "sedated",
+    "displayName": "Sedated",
+    "albums": [
+      {
+        "name": "Night of the Full Dark Moon",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      },
+      {
+        "name": "O Ritual dos Sádicos",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Doom Metal"
     ]
   },
   {

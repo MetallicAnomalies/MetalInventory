@@ -377,6 +377,22 @@
     ]
   },
   {
+    "normalizedName": "astralmoon",
+    "displayName": "Astral Moon",
+    "albums": [
+      {
+        "name": "Visions of Apocalypse",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "atargatis",
     "displayName": "Atargatis",
     "albums": [
@@ -2175,12 +2191,22 @@
           "Heavy Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Siewcy bluźnierstwa",
+        "year": "2026",
+        "genres": [
+          "Black Speed Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
       "Symphonic Gothic",
       "Heavy Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Black Speed Metal",
+      "Speed Metal"
     ]
   },
   {
@@ -3849,6 +3875,22 @@
       "Electronic",
       "Synth-pop",
       "Pop"
+    ]
+  },
+  {
+    "normalizedName": "sacreddominions",
+    "displayName": "Sacred Dominions",
+    "albums": [
+      {
+        "name": "Where Elders Once Marched",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

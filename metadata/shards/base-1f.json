@@ -2036,6 +2036,26 @@
     ]
   },
   {
+    "normalizedName": "lungbuster",
+    "displayName": "Lungbuster",
+    "albums": [
+      {
+        "name": "Bongwater Blues",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Doom Metal",
+      "Stoner Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "madbutcher",
     "displayName": "Mad Butcher",
     "albums": [
@@ -3713,12 +3733,37 @@
     ]
   },
   {
+    "normalizedName": "theflowering",
+    "displayName": "The Flowering",
+    "albums": [
+      {
+        "name": "Love",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "theheadlessghost",
     "displayName": "The Headless Ghost",
     "albums": [
       {
         "name": "King Of Pain",
         "year": "2024",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "Legacy of the Dead",
+        "year": "2026",
         "genres": [
           "Heavy Metal"
         ]
@@ -4751,6 +4796,22 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "сатано",
+    "displayName": "Сатано",
+    "albums": [
+      {
+        "name": "In the Dark Realm",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Black Metal"
     ]
   }
 ]

@@ -863,6 +863,13 @@
         "genres": [
           "Raw Black Metal"
         ]
+      },
+      {
+        "name": "Aer",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2767,6 +2774,14 @@
           "Hardcore Metalcore",
           "Metalcore"
         ]
+      },
+      {
+        "name": "Facewreck",
+        "year": "2026",
+        "genres": [
+          "Hardcore Metalcore",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
@@ -4149,6 +4164,24 @@
     ]
   },
   {
+    "normalizedName": "throneofselene",
+    "displayName": "Throne of Selene",
+    "albums": [
+      {
+        "name": "Beneath the Dying Sun",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "touchofcruelhands",
     "displayName": "Touch Of Cruel Hands",
     "albums": [
@@ -4169,6 +4202,22 @@
     ],
     "tags": [
       "Death Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "tranatopsy",
+    "displayName": "Tranatopsy",
+    "albums": [
+      {
+        "name": "Nearly Devoured",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

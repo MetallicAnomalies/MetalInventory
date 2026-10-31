@@ -609,6 +609,22 @@
     ]
   },
   {
+    "normalizedName": "coffinbbq",
+    "displayName": "Coffin BBQ",
+    "albums": [
+      {
+        "name": "Burn It Down",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "crimsoneyes",
     "displayName": "Crimson Eyes",
     "origin": "GB",
@@ -1083,6 +1099,24 @@
     ],
     "tags": [
       "Black Metal",
+      "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "dwarfwizard",
+    "displayName": "Dwarf Wizard",
+    "albums": [
+      {
+        "name": "Children of the Sun",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
       "Doom Metal"
     ]
   },

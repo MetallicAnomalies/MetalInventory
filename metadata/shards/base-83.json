@@ -203,6 +203,22 @@
     ]
   },
   {
+    "normalizedName": "antecessor",
+    "displayName": "Antecessor",
+    "albums": [
+      {
+        "name": "Demo",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "anvilbitch",
     "displayName": "Anvil Bitch",
     "albums": [
@@ -2392,6 +2408,40 @@
     ]
   },
   {
+    "normalizedName": "lethalpursuer",
+    "displayName": "Lethal Pursuer",
+    "albums": [
+      {
+        "name": "Lethal Pursuer",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "lijundra",
+    "displayName": "Lijundra",
+    "albums": [
+      {
+        "name": "Dangaus akis",
+        "year": "2026",
+        "genres": [
+          "Doom Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Black Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "losantiguos",
     "displayName": "Los Antiguos",
     "albums": [
@@ -2984,6 +3034,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "qattaradepression",
+    "displayName": "Qattara Depression",
+    "albums": [
+      {
+        "name": "Hand of Glory",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
     ]
   },
   {

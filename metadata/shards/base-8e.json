@@ -266,6 +266,24 @@
     ]
   },
   {
+    "normalizedName": "anlaak",
+    "displayName": "Anlaak",
+    "albums": [
+      {
+        "name": "Demos",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "apokrypha",
     "displayName": "Apokrypha",
     "albums": [
@@ -868,6 +886,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "comploratio",
+    "displayName": "Comploratio",
+    "albums": [
+      {
+        "name": "Comploratio",
+        "year": "2026",
+        "genres": [
+          "Funeral Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Funeral Doom Metal"
     ]
   },
   {

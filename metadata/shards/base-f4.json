@@ -607,6 +607,24 @@
     ]
   },
   {
+    "normalizedName": "burntarrival",
+    "displayName": "Burnt Arrival",
+    "albums": [
+      {
+        "name": "Darkness / Radiance",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "byfrost",
     "displayName": "Byfrost",
     "albums": [
@@ -5150,6 +5168,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "urdungszentseg",
+    "displayName": "Ürdüngszentség",
+    "albums": [
+      {
+        "name": "Demo '06",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

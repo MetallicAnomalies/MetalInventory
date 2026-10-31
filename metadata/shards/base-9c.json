@@ -2577,6 +2577,22 @@
     ]
   },
   {
+    "normalizedName": "nafakh",
+    "displayName": "Nafakh",
+    "albums": [
+      {
+        "name": "What We Leave Behind",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "nepaldeath",
     "displayName": "Nepal Death",
     "origin": "SE",
@@ -4156,6 +4172,13 @@
       {
         "name": "Take My Life",
         "year": "2023",
+        "genres": [
+          "Gothic Metal"
+        ]
+      },
+      {
+        "name": "No I Can't",
+        "year": "2026",
         "genres": [
           "Gothic Metal"
         ]

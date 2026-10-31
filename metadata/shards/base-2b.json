@@ -1066,6 +1066,24 @@
     ]
   },
   {
+    "normalizedName": "daedra",
+    "displayName": "Daedra",
+    "albums": [
+      {
+        "name": "Moonlit Warrior",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Ambient"
+    ]
+  },
+  {
     "normalizedName": "dakesis",
     "displayName": "Dakesis",
     "albums": [
@@ -3122,6 +3140,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "necrosectomy",
+    "displayName": "Necrosectomy",
+    "albums": [
+      {
+        "name": "Live at the Roisin Dubh 27/10/26",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind"
     ]
   },
   {

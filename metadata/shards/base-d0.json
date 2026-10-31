@@ -139,6 +139,24 @@
     ]
   },
   {
+    "normalizedName": "amputator",
+    "displayName": "Amputator",
+    "albums": [
+      {
+        "name": "Amputate",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "antimortem",
     "displayName": "Anti-Mortem",
     "origin": "US",
@@ -1152,6 +1170,22 @@
     "tags": [
       "Black Metal",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "dredge",
+    "displayName": "Dredge",
+    "albums": [
+      {
+        "name": "Megalodon",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {
@@ -3373,6 +3407,24 @@
     ]
   },
   {
+    "normalizedName": "ripeapparition",
+    "displayName": "Ripe Apparition",
+    "albums": [
+      {
+        "name": "American Crucifix",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "rootsofrot",
     "displayName": "Roots Of Rot",
     "albums": [
@@ -4924,6 +4976,24 @@
     ],
     "tags": [
       "Deathcore"
+    ]
+  },
+  {
+    "normalizedName": "złocien",
+    "displayName": "Złocień",
+    "albums": [
+      {
+        "name": "W bezkresie straty",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Post-Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Post-Metal",
+      "Post-Metal"
     ]
   }
 ]

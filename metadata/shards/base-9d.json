@@ -2858,6 +2858,24 @@
     ]
   },
   {
+    "normalizedName": "profaneamorcer",
+    "displayName": "Profane Amorcer",
+    "albums": [
+      {
+        "name": "Live at Lucky 13 Saloon",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dark Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dark Ambient"
+    ]
+  },
+  {
     "normalizedName": "profundi",
     "displayName": "Profundi",
     "albums": [
@@ -3513,6 +3531,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "sukkubys",
+    "displayName": "Sukkubys",
+    "albums": [
+      {
+        "name": "In League with Satan",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {

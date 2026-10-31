@@ -366,6 +366,26 @@
     ]
   },
   {
+    "normalizedName": "azkaroth",
+    "displayName": "Azkaroth",
+    "albums": [
+      {
+        "name": "Purnama Merah",
+        "year": "2026",
+        "genres": [
+          "Raw Noise",
+          "Atmospheric Black Metal",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Noise",
+      "Atmospheric Black Metal",
+      "Noise"
+    ]
+  },
+  {
     "normalizedName": "bedlamroyals",
     "displayName": "Bedlam Royals",
     "albums": [
@@ -3416,6 +3436,22 @@
     ]
   },
   {
+    "normalizedName": "shownomercy",
+    "displayName": "Show No Mercy",
+    "albums": [
+      {
+        "name": "Ultra Metal Demo",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "signsofdarkness",
     "displayName": "Signs Of Darkness",
     "albums": [
@@ -4074,10 +4110,43 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Lamentations Outside the Goat Castle",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Psychedelic Black 'n' Roll"
+        ]
+      },
+      {
+        "name": "Sinful Ghost",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Psychedelic Black 'n' Roll"
+        ]
+      },
+      {
+        "name": "The Catacombs of Ikarik",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Psychedelic Black 'n' Roll"
+        ]
+      },
+      {
+        "name": "Zozu Petal",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Psychedelic Black 'n' Roll"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Psychedelic Black 'n' Roll"
     ]
   },
   {

@@ -3738,6 +3738,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Agónica Mente",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -3760,6 +3767,22 @@
     "tags": [
       "Pagan Black Metal",
       "Neofolk"
+    ]
+  },
+  {
+    "normalizedName": "othermaunderplan",
+    "displayName": "Other Maunder Plan",
+    "albums": [
+      {
+        "name": "The Occurrence",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
     ]
   },
   {
@@ -3950,6 +3973,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "rancidmass",
+    "displayName": "Rancid Mass",
+    "albums": [
+      {
+        "name": "Demo 2026",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {

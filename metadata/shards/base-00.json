@@ -1682,6 +1682,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Death Comes for Everyone",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -1998,6 +2005,24 @@
     ],
     "tags": [
       "Atmospheric Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "irasolaris",
+    "displayName": "Ira Solaris",
+    "albums": [
+      {
+        "name": "Katabasis",
+        "year": "2026",
+        "genres": [
+          "Symphonic Death Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Death Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -3110,6 +3135,14 @@
         "name": "Fall In Line",
         "year": "2023",
         "genres": []
+      },
+      {
+        "name": "Won't Get Fooled Again",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [

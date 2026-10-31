@@ -3735,6 +3735,24 @@
     ]
   },
   {
+    "normalizedName": "severedangel",
+    "displayName": "Severed Angel",
+    "albums": [
+      {
+        "name": "The Cost of Creation",
+        "year": "2026",
+        "genres": [
+          "Symphonic Melodic Heavy Metal",
+          "Melodic Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Melodic Heavy Metal",
+      "Melodic Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "shift",
     "displayName": "Shift",
     "origin": "ZA",
@@ -4519,10 +4537,20 @@
         "genres": [
           "Blackened Doom Metal"
         ]
+      },
+      {
+        "name": "The Space Between the Heartbeats",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Blackened Doom Metal"
+      "Blackened Doom Metal",
+      "Depressive Black Doom Metal",
+      "Doom Metal"
     ]
   },
   {

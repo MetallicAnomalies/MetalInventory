@@ -1929,6 +1929,24 @@
     ]
   },
   {
+    "normalizedName": "grob",
+    "displayName": "Grób",
+    "albums": [
+      {
+        "name": "Ikonoklasta",
+        "year": "2026",
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "hailspiritnoir",
     "displayName": "Hail Spirit Noir",
     "origin": "GR",
@@ -2649,12 +2667,22 @@
         "genres": [
           "Metal"
         ]
+      },
+      {
+        "name": "Ombres et brumes",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Metal",
       "Heavy Metal",
-      "Progressive Rock"
+      "Progressive Rock",
+      "Heavy Power Metal",
+      "Power Metal"
     ]
   },
   {
@@ -2988,6 +3016,22 @@
       "Atmospheric Sludge Metal",
       "Stoner Metal",
       "Psychedelic Rock"
+    ]
+  },
+  {
+    "normalizedName": "midir",
+    "displayName": "Midir",
+    "albums": [
+      {
+        "name": "The Burden of Fire and Earth",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -4201,6 +4245,22 @@
     ]
   },
   {
+    "normalizedName": "roseheaven",
+    "displayName": "Rose Heaven",
+    "albums": [
+      {
+        "name": "Tales for Us",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Metal"
+    ]
+  },
+  {
     "normalizedName": "saintfilth",
     "displayName": "Saint Filth",
     "albums": [
@@ -5035,6 +5095,15 @@
     "albums": [
       {
         "name": "Funeral de Azufre",
+        "year": "2026",
+        "genres": [
+          "Thrash Black Metal",
+          "Death Black Metal",
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Ancestro errante",
         "year": "2026",
         "genres": [
           "Thrash Black Metal",

@@ -382,10 +382,18 @@
         "genres": [
           "Melodic Power"
         ]
+      },
+      {
+        "name": "Laberinto del vacío",
+        "year": "2026",
+        "genres": [
+          "Melodic Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Melodic Power"
+      "Melodic Power",
+      "Melodic Power Metal"
     ]
   },
   {
@@ -402,6 +410,22 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "becomeethereal",
+    "displayName": "Become Ethereal",
+    "albums": [
+      {
+        "name": "Looking Back",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Metal"
     ]
   },
   {
@@ -1507,6 +1531,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "effluvium",
+    "displayName": "Effluvium",
+    "albums": [
+      {
+        "name": "Killing Fascists Pricks for Shits Demo",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Goregrind"
     ]
   },
   {
@@ -4654,6 +4696,56 @@
       },
       {
         "name": "Beethoven's 666th Cheerful Countryside Pastoral",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Danse Macabre or Violin and Guitar Saint Saens",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Der Leiermann Schubert's Winterreise",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Flamenco Tango Fandango",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Tchaikovsky's Swan Theme Swan Lake",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal",
+          "Shred"
+        ]
+      },
+      {
+        "name": "Bach's Badinerie",
         "year": "2026",
         "genres": [
           "Speed Thrash Metal",

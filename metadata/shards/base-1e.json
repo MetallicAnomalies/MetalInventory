@@ -3086,6 +3086,15 @@
           "Black Metal",
           "Folk Metal"
         ]
+      },
+      {
+        "name": "Broken Little Doll",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Folk",
+          "Post-Metal Folk",
+          "Folk"
+        ]
       }
     ],
     "tags": [
@@ -3095,7 +3104,10 @@
       "Ethereal",
       "Folk, World, & Country",
       "Nordic",
-      "Atmospheric Black Metal"
+      "Atmospheric Black Metal",
+      "Atmospheric Black Folk",
+      "Post-Metal Folk",
+      "Folk"
     ]
   },
   {

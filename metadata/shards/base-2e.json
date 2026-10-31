@@ -1364,6 +1364,14 @@
           "Slam Brutal Death Metal",
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Human Matriphagy",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2017,6 +2025,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "funeraria",
+    "displayName": "Funeraria",
+    "albums": [
+      {
+        "name": "Live from the coffin",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {
@@ -4626,11 +4650,20 @@
         "name": "Gods Of Thunder",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Medusa",
+        "year": "2026",
+        "genres": [
+          "NWOBHM",
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "New Wave Of British Heavy"
+      "New Wave Of British Heavy",
+      "NWOBHM"
     ]
   },
   {
@@ -5561,12 +5594,22 @@
           "Thrash Metal",
           "Grindcore"
         ]
+      },
+      {
+        "name": "Natural Born Killers",
+        "year": "2026",
+        "genres": [
+          "Death Grindcore",
+          "Thrash Metal",
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
       "Thrash Metal",
-      "Grindcore"
+      "Grindcore",
+      "Death Grindcore"
     ]
   },
   {

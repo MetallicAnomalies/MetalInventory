@@ -325,6 +325,22 @@
     ]
   },
   {
+    "normalizedName": "bethlil",
+    "displayName": "Bethlil",
+    "albums": [
+      {
+        "name": "Pagan Horned Evil",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "billiepiper",
     "displayName": "Billie Piper",
     "origin": "US",
@@ -1663,6 +1679,13 @@
         "genres": [
           "Death Doom Metal"
         ]
+      },
+      {
+        "name": "Death Has No Boundaries",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2008,6 +2031,22 @@
     ],
     "tags": [
       "Progressive Power"
+    ]
+  },
+  {
+    "normalizedName": "kraton",
+    "displayName": "Kraton",
+    "albums": [
+      {
+        "name": "Kerajaan Kegelapan (Karajan Pepeteng)",
+        "year": "2026",
+        "genres": [
+          "Symphonic Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Folk Metal"
     ]
   },
   {
@@ -3463,11 +3502,20 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "The Void Below",
+        "year": "2026",
+        "genres": [
+          "Technical Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
       "Brutal Death Metal",
-      "Death Metal"
+      "Death Metal",
+      "Technical Brutal Death Metal"
     ]
   },
   {

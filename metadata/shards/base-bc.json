@@ -1529,11 +1529,22 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Shallow",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Post-Black Alternative Metal",
+          "Alternative Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "Post-Black Alternative Metal",
+      "Alternative Metal"
     ]
   },
   {

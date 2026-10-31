@@ -1106,10 +1106,20 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "In the Death of Night",
+        "year": "2026",
+        "genres": [
+          "Melodic Groove Power Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Melodic Groove Power Metal",
+      "Power Metal"
     ]
   },
   {
@@ -5478,6 +5488,24 @@
     ]
   },
   {
+    "normalizedName": "schisms",
+    "displayName": "Schisms",
+    "albums": [
+      {
+        "name": "All The Light That Dies",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "serpentslain",
     "displayName": "Serpentslain",
     "albums": [
@@ -7082,6 +7110,22 @@
     ],
     "tags": [
       "Mizrahi"
+    ]
+  },
+  {
+    "normalizedName": "霾晦",
+    "displayName": "霾晦",
+    "albums": [
+      {
+        "name": "浮生",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   }
 ]

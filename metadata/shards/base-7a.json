@@ -2613,6 +2613,14 @@
           "Heavy Metal",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Antípodas",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
@@ -3828,6 +3836,24 @@
     ],
     "tags": [
       "Depressive Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "wickedwave",
+    "displayName": "Wicked Wave",
+    "albums": [
+      {
+        "name": "Wicked Wave",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Heavy Metal",
+      "Heavy Metal"
     ]
   },
   {

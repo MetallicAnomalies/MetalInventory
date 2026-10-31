@@ -207,6 +207,24 @@
     ]
   },
   {
+    "normalizedName": "aphetor",
+    "displayName": "Aphetor",
+    "albums": [
+      {
+        "name": "Under The Embrace of Urania",
+        "year": "2026",
+        "genres": [
+          "Epic Pagan Black Metal",
+          "Pagan Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Epic Pagan Black Metal",
+      "Pagan Black Metal"
+    ]
+  },
+  {
     "normalizedName": "armyofdarkness",
     "displayName": "Army Of Darkness",
     "albums": [
@@ -1392,13 +1410,23 @@
         "genres": [
           "Celtic Folk"
         ]
+      },
+      {
+        "name": "A Poet’s Lament",
+        "year": "2026",
+        "genres": [
+          "Celtic Folk Black Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Celtic Folk",
       "Folk Metal",
       "Folk, World, & Country",
-      "Celtic Metal"
+      "Celtic Metal",
+      "Celtic Folk Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -3381,6 +3409,14 @@
     "albums": [
       {
         "name": "Promo 2026",
+        "year": "2026",
+        "genres": [
+          "Raw Black Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Strips of Viscera Torn from Hooks (Chains Pulling Flesh Off Bone)",
         "year": "2026",
         "genres": [
           "Raw Black Death Metal",

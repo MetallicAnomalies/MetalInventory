@@ -2189,6 +2189,14 @@
           "Black Metal",
           "Punk"
         ]
+      },
+      {
+        "name": "Benam",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Punk"
+        ]
       }
     ],
     "tags": [
@@ -3268,6 +3276,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "plaguecathedral",
+    "displayName": "Plague Cathedral",
+    "albums": [
+      {
+        "name": "...to Dust You Shall Return",
+        "year": "2026",
+        "genres": [
+          "Industrial Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Industrial Doom Metal"
     ]
   },
   {

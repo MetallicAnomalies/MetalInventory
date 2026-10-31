@@ -430,6 +430,22 @@
     ]
   },
   {
+    "normalizedName": "anothershrine",
+    "displayName": "Another Shrine",
+    "albums": [
+      {
+        "name": "Mystic Dawn",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "ariksinai",
     "displayName": "Arik Sinai",
     "origin": "AT",
@@ -1921,6 +1937,24 @@
     ],
     "tags": [
       "Atmospheric Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "funeralcrown",
+    "displayName": "Funeral Crown",
+    "albums": [
+      {
+        "name": "Death - Pierce Me",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Dark Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Dark Ambient"
     ]
   },
   {

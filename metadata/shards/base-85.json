@@ -5005,10 +5005,19 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Bewitched by Evil",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Black Death Metal"
     ]
   },
   {
@@ -5687,6 +5696,22 @@
     ],
     "tags": [
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "wolveseyes",
+    "displayName": "Wolves Eyes",
+    "albums": [
+      {
+        "name": "Defenders of Pagan Soil / Herald the Awakening of a New Aeon",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

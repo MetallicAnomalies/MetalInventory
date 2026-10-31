@@ -233,6 +233,22 @@
     ]
   },
   {
+    "normalizedName": "archasm",
+    "displayName": "Archasm",
+    "albums": [
+      {
+        "name": "Demo I",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "arinity",
     "displayName": "Arinity",
     "origin": "DE",
@@ -828,11 +844,24 @@
           "Gothic Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Skeletons",
+        "year": "2026",
+        "genres": [
+          "Melodic Doom Death Metal",
+          "Death Metal",
+          "Gothic Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Gothic Metal"
+      "Gothic Metal",
+      "Melodic Doom Death Metal",
+      "Death Metal",
+      "Gothic Doom Metal"
     ]
   },
   {

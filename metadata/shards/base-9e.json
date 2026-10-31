@@ -3205,10 +3205,20 @@
         "name": "In Mongeletew EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Iñ Mongeletew",
+        "year": "2026",
+        "genres": [
+          "Groove Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash",
+      "Groove Metal",
+      "Metalcore"
     ]
   },
   {
@@ -4244,6 +4254,24 @@
     ],
     "tags": [
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "systemtrashed",
+    "displayName": "System Trashed",
+    "albums": [
+      {
+        "name": "P.G.S.M.",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
     ]
   },
   {

@@ -1049,6 +1049,13 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Remembrance",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -1539,6 +1546,14 @@
     "albums": [
       {
         "name": "Artificial Age",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      },
+      {
+        "name": "Flying Fuzz III",
         "year": "2026",
         "genres": [
           "Stoner Metal",
@@ -2206,6 +2221,24 @@
     ]
   },
   {
+    "normalizedName": "ktion",
+    "displayName": "K-Tion",
+    "albums": [
+      {
+        "name": "K-Tion",
+        "year": "2026",
+        "genres": [
+          "Thrash Heavy Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Heavy Metal",
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "leviathen",
     "displayName": "Leviathen",
     "albums": [
@@ -2529,6 +2562,22 @@
     ],
     "tags": [
       "Depressive Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "morrem",
+    "displayName": "Morrem",
+    "albums": [
+      {
+        "name": "Night of Chaotic Visions in Frost",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
     ]
   },
   {
@@ -3318,6 +3367,24 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "sacroment",
+    "displayName": "Sacroment",
+    "albums": [
+      {
+        "name": "New Age Aggression",
+        "year": "2026",
+        "genres": [
+          "Brutal Technical Death Metal",
+          "Technical Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Technical Death Metal",
+      "Technical Death Metal"
+    ]
   },
   {
     "normalizedName": "scarsofoblivion",

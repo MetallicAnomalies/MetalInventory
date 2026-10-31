@@ -233,6 +233,22 @@
     ]
   },
   {
+    "normalizedName": "aryanwulf",
+    "displayName": "Aryanwülf",
+    "albums": [
+      {
+        "name": "Triumph and Despair",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "assafgold",
     "displayName": "Assaf Gold",
     "origin": "IL",
@@ -1561,10 +1577,21 @@
         "genres": [
           "Deathcore"
         ]
+      },
+      {
+        "name": "Eternal Scar",
+        "year": "2026",
+        "genres": [
+          "Brutal Deathcore",
+          "Symphonic Deathcore",
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
-      "Deathcore"
+      "Deathcore",
+      "Brutal Deathcore",
+      "Symphonic Deathcore"
     ]
   },
   {

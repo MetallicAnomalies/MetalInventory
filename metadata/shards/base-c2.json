@@ -210,6 +210,24 @@
     ]
   },
   {
+    "normalizedName": "ashenresentment",
+    "displayName": "Ashen Resentment",
+    "albums": [
+      {
+        "name": "Mourning Cold",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "asparadisefalls",
     "displayName": "As Paradise Falls",
     "origin": "AU",
@@ -1501,6 +1519,14 @@
       },
       {
         "name": "冥王と慈愛の天使 (When the Angel Fell for the Devil)",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "Road to Briars",
         "year": "2026",
         "genres": [
           "Heavy Power Metal",

@@ -2356,6 +2356,22 @@
     "tags": []
   },
   {
+    "normalizedName": "invoking",
+    "displayName": "Invoking",
+    "albums": [
+      {
+        "name": "Demo 2026",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "jewboys",
     "displayName": "JEW Boys",
     "origin": "US",
@@ -3733,6 +3749,24 @@
     ]
   },
   {
+    "normalizedName": "shithexis",
+    "displayName": "Shit Hexis",
+    "albums": [
+      {
+        "name": "Du wurdest noch nie geliebt",
+        "year": "2026",
+        "genres": [
+          "Blackened Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Sludge Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "sijjin",
     "displayName": "Sijjin",
     "origin": "DE",
@@ -3965,6 +3999,26 @@
     ]
   },
   {
+    "normalizedName": "sweatcollector",
+    "displayName": "SweatCollector",
+    "albums": [
+      {
+        "name": "Summoned for Sex",
+        "year": "2026",
+        "genres": [
+          "Slam Grindcore",
+          "Brutal Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Grindcore",
+      "Brutal Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "tasteofinsanity",
     "displayName": "Taste Of Insanity",
     "albums": [
@@ -4164,6 +4218,14 @@
     "albums": [
       {
         "name": "Shattered Glass",
+        "year": "2026",
+        "genres": [
+          "Crossover Thrash Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Looking Forward...",
         "year": "2026",
         "genres": [
           "Crossover Thrash Metal",
@@ -4543,6 +4605,24 @@
       "Stoner Metal",
       "Djent",
       "Deathcore"
+    ]
+  },
+  {
+    "normalizedName": "warfarenoise",
+    "displayName": "Warfare Noise",
+    "albums": [
+      {
+        "name": "Monarch of Endless War",
+        "year": "2026",
+        "genres": [
+          "Black Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

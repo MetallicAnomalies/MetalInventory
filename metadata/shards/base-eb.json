@@ -591,6 +591,22 @@
     ]
   },
   {
+    "normalizedName": "blackserpent",
+    "displayName": "Black Serpent",
+    "albums": [
+      {
+        "name": "Helvete Infernum",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "bloodartillery",
     "displayName": "Blood Artillery",
     "albums": [
@@ -3994,6 +4010,26 @@
     ]
   },
   {
+    "normalizedName": "pratanallis",
+    "displayName": "Pratanallis",
+    "albums": [
+      {
+        "name": "Rain Rëflection",
+        "year": "2026",
+        "genres": [
+          "Melodic Rock",
+          "Symphonic Power Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Rock",
+      "Symphonic Power Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "prey",
     "displayName": "Prey",
     "albums": [
@@ -4702,6 +4738,26 @@
     "tags": [
       "Hard Rock",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "swordoftruth",
+    "displayName": "Sword of Truth",
+    "albums": [
+      {
+        "name": "Tale of the Misfortunate",
+        "year": "2026",
+        "genres": [
+          "Metalcore Power Metal",
+          "Heavy Power Metal",
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore Power Metal",
+      "Heavy Power Metal",
+      "Power Metal"
     ]
   },
   {

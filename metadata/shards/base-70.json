@@ -286,6 +286,24 @@
     ]
   },
   {
+    "normalizedName": "arcyus",
+    "displayName": "Arcyus",
+    "albums": [
+      {
+        "name": "Among the Wyverns",
+        "year": "2026",
+        "genres": [
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "ardwisur",
     "displayName": "Ardwisur",
     "albums": [
@@ -393,6 +411,22 @@
     ],
     "tags": [
       "Atmospheric Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "azhdaya",
+    "displayName": "Azhdaya",
+    "albums": [
+      {
+        "name": "To Skin Christ",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -695,11 +729,19 @@
         "name": "Ithnaynb",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Ithnayn",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Crust Punk"
+      "Crust Punk",
+      "Death Metal"
     ]
   },
   {
@@ -2689,6 +2731,26 @@
     ]
   },
   {
+    "normalizedName": "psalmerosions",
+    "displayName": "Psalm/Erosions",
+    "albums": [
+      {
+        "name": "Erosions Psalm",
+        "year": "2026",
+        "genres": [
+          "Doom Metal | Doom Rock",
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal | Doom Rock",
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "pulldownthesun",
     "displayName": "Pull Down the Sun",
     "origin": "NZ",
@@ -2713,6 +2775,22 @@
       "Progressive Sludge",
       "Sludge Metal",
       "Post-Metal"
+    ]
+  },
+  {
+    "normalizedName": "reaperswrath",
+    "displayName": "Reapers Wrath",
+    "albums": [
+      {
+        "name": "My Everlasting Suffering",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3559,6 +3637,22 @@
     ],
     "tags": [
       "Electronica"
+    ]
+  },
+  {
+    "normalizedName": "visionsofmorpheus",
+    "displayName": "Visions of Morpheus",
+    "albums": [
+      {
+        "name": "Dreaming In Binary",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
     ]
   },
   {

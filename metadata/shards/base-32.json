@@ -1049,6 +1049,22 @@
     ]
   },
   {
+    "normalizedName": "chutedusoleil枯夢閘",
+    "displayName": "Chute du Soleil/枯夢閘",
+    "albums": [
+      {
+        "name": "Chute du Soleil / 枯夢閘",
+        "year": "2026",
+        "genres": [
+          "Black Metal | Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal | Black Metal"
+    ]
+  },
+  {
     "normalizedName": "circleiicircle",
     "displayName": "Circle II Circle",
     "origin": "US",
@@ -2408,6 +2424,22 @@
     ]
   },
   {
+    "normalizedName": "ihatemyself",
+    "displayName": "I Hate Myself",
+    "albums": [
+      {
+        "name": "Part: I",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "infinitedivine",
     "displayName": "Infinite & Divine",
     "albums": [
@@ -3159,6 +3191,32 @@
     ]
   },
   {
+    "normalizedName": "lukasthrone",
+    "displayName": "Lukas Throne",
+    "albums": [
+      {
+        "name": "Void Defines the Collapse",
+        "year": "2026",
+        "genres": [
+          "Melodic Blackened Death Metal",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Earth Scorcher",
+        "year": "2026",
+        "genres": [
+          "Melodic Blackened Death Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Blackened Death Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "lunarblood",
     "displayName": "Lunar Blood",
     "albums": [
@@ -3340,10 +3398,20 @@
         "genres": [
           "Experimental Black"
         ]
+      },
+      {
+        "name": "Enviromental Grief",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Experimental"
+        ]
       }
     ],
     "tags": [
-      "Experimental Black"
+      "Experimental Black",
+      "Black Metal",
+      "Experimental"
     ]
   },
   {
@@ -5163,6 +5231,22 @@
     ]
   },
   {
+    "normalizedName": "theofanus",
+    "displayName": "Theofanus",
+    "albums": [
+      {
+        "name": "Journey of the Hero",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "theoffering",
     "displayName": "The Offering",
     "origin": "GB",
@@ -5640,6 +5724,24 @@
     ],
     "tags": [
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "versusgod",
+    "displayName": "Versus God",
+    "albums": [
+      {
+        "name": "Versus God",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Hardcore"
     ]
   },
   {

@@ -1403,10 +1403,28 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "The Empire Falls (Reissue)",
+        "year": "2026",
+        "genres": [
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
+      },
+      {
+        "name": "The Great Deceiver",
+        "year": "2026",
+        "genres": [
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Doom Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {
@@ -2061,6 +2079,22 @@
     "tags": [
       "Melodic Death Metal",
       "Heavy Metal",
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "gravetorture",
+    "displayName": "Grave Torture",
+    "albums": [
+      {
+        "name": "Nothing Grows Here Anymore",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
       "Death Metal"
     ]
   },

@@ -4379,6 +4379,24 @@
     "tags": []
   },
   {
+    "normalizedName": "savageact",
+    "displayName": "Savage Act",
+    "albums": [
+      {
+        "name": "The Black Abomination of Caverns",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "separatus",
     "displayName": "Separatus",
     "albums": [
@@ -4998,6 +5016,13 @@
     "albums": [
       {
         "name": "The Diamond",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      },
+      {
+        "name": "The Poisoning",
         "year": "2026",
         "genres": [
           "Raw Black Metal"

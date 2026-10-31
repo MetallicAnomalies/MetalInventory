@@ -2469,6 +2469,16 @@
           "Noise Experimental",
           "Experimental"
         ]
+      },
+      {
+        "name": "Evil Grave",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Drone Experimental",
+          "Noise Experimental",
+          "Experimental"
+        ]
       }
     ],
     "tags": [
@@ -3006,6 +3016,26 @@
     ],
     "tags": [
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "rumsmugglers",
+    "displayName": "Rum Smugglers",
+    "albums": [
+      {
+        "name": "Plata O Plomo",
+        "year": "2026",
+        "genres": [
+          "Speed Folk Metal",
+          "Thrash Folk Metal",
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Speed Folk Metal",
+      "Thrash Folk Metal",
+      "Folk Metal"
     ]
   },
   {

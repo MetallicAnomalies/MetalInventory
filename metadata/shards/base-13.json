@@ -3293,6 +3293,24 @@
     ]
   },
   {
+    "normalizedName": "sidewalkmafia",
+    "displayName": "Sidewalk Mafia",
+    "albums": [
+      {
+        "name": "To Go",
+        "year": "2026",
+        "genres": [
+          "Gothic Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "sieta",
     "displayName": "Sieta",
     "albums": [
@@ -4560,6 +4578,26 @@
       "Folk Metal"
     ],
     "origin": "RU"
+  },
+  {
+    "normalizedName": "бран",
+    "displayName": "Бран",
+    "albums": [
+      {
+        "name": "Осень",
+        "year": "2026",
+        "genres": [
+          "Doom Black Metal",
+          "Heavy Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Black Metal",
+      "Heavy Black Metal",
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "орендъ",

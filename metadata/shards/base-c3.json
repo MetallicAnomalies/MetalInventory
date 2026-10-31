@@ -1968,6 +1968,22 @@
     ]
   },
   {
+    "normalizedName": "itersatus",
+    "displayName": "Iter Satus",
+    "albums": [
+      {
+        "name": "Tiempo",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "ivorynight",
     "displayName": "Ivory Night",
     "albums": [
@@ -3103,6 +3119,24 @@
     ]
   },
   {
+    "normalizedName": "shadesofravaillac",
+    "displayName": "Shades of Ravaillac",
+    "albums": [
+      {
+        "name": "Before Man Was, War Waited for Him",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "shoresofacheron",
     "displayName": "Shores of Acheron",
     "origin": "US",
@@ -3178,6 +3212,22 @@
     ],
     "tags": [
       "Stoner Metal"
+    ]
+  },
+  {
+    "normalizedName": "spektrum",
+    "displayName": "Spektrum",
+    "albums": [
+      {
+        "name": "From the Abyssal Depths",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

@@ -277,6 +277,13 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Retrotopia",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -3000,6 +3007,22 @@
     ]
   },
   {
+    "normalizedName": "machukha",
+    "displayName": "Machukha",
+    "albums": [
+      {
+        "name": "Severing",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal"
+    ]
+  },
+  {
     "normalizedName": "manhunter",
     "displayName": "Manhunter",
     "albums": [
@@ -5005,6 +5028,26 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "walakh",
+    "displayName": "Walakh",
+    "albums": [
+      {
+        "name": "A New Chapter (Demo)",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Ambient",
+          "Depressive Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Ambient",
+      "Depressive Black Metal",
+      "Ambient"
     ]
   },
   {

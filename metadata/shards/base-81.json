@@ -350,6 +350,26 @@
     ]
   },
   {
+    "normalizedName": "barricade",
+    "displayName": "Barricade",
+    "albums": [
+      {
+        "name": "Brain Damaged Mind",
+        "year": "2026",
+        "genres": [
+          "Speed Punk",
+          "Thrash Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Speed Punk",
+      "Thrash Metal",
+      "Punk"
+    ]
+  },
+  {
     "normalizedName": "bentknee",
     "displayName": "Bent Knee",
     "origin": "US",
@@ -1606,6 +1626,22 @@
     ]
   },
   {
+    "normalizedName": "dobharchu",
+    "displayName": "Dobhar Chú",
+    "albums": [
+      {
+        "name": "Dobhar Chú",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "draug",
     "displayName": "Draug",
     "albums": [
@@ -2266,6 +2302,26 @@
       "Folk, World, & Country",
       "Pop",
       "Vocal"
+    ]
+  },
+  {
+    "normalizedName": "impermanent",
+    "displayName": "Impermanent",
+    "albums": [
+      {
+        "name": "Foul Emission of a Decaying World",
+        "year": "2026",
+        "genres": [
+          "Slam Hardcore",
+          "Brutal Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Hardcore",
+      "Brutal Death Metal",
+      "Hardcore"
     ]
   },
   {

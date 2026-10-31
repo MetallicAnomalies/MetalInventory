@@ -2632,6 +2632,24 @@
     ]
   },
   {
+    "normalizedName": "hypodermis",
+    "displayName": "Hypodermis",
+    "albums": [
+      {
+        "name": "Tod",
+        "year": "2026",
+        "genres": [
+          "Raw Atmospheric Black Metal",
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Atmospheric Black Metal",
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "hænesy",
     "displayName": "Hænesy",
     "origin": "HU",
@@ -2953,6 +2971,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "lavainvocator",
+    "displayName": "Lava Invocator",
+    "albums": [
+      {
+        "name": "Oblivion",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3393,6 +3427,24 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "nihilistmilitia",
+    "displayName": "Nihilist Militia",
+    "albums": [
+      {
+        "name": "Hordes of the Napalm Martyr",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -4791,6 +4843,15 @@
     "albums": [
       {
         "name": "Past This Dying World",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal",
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "N.B.L.O.E",
         "year": "2026",
         "genres": [
           "Black Death Metal",

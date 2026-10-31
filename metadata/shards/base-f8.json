@@ -1301,6 +1301,22 @@
     ]
   },
   {
+    "normalizedName": "crypticaspergillosis",
+    "displayName": "Cryptic Aspergillosis",
+    "albums": [
+      {
+        "name": "Demo 2026",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "crystalic",
     "displayName": "Crystalic",
     "origin": "FI",
@@ -1666,6 +1682,24 @@
     "tags": [
       "Death Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "einsteinsfetus",
+    "displayName": "Einstein's Fetus",
+    "albums": [
+      {
+        "name": "Public Purge",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

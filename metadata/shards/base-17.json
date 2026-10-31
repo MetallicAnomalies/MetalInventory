@@ -93,6 +93,24 @@
     ]
   },
   {
+    "normalizedName": "alacrity",
+    "displayName": "Alacrity",
+    "albums": [
+      {
+        "name": "Samozguba",
+        "year": "2026",
+        "genres": [
+          "Crossover Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Crossover Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "alexkeeper",
     "displayName": "ALEX KEEPER",
     "origin": "US",
@@ -123,6 +141,13 @@
           "Death Metal",
           "Progressive Metal",
           "Rock"
+        ]
+      },
+      {
+        "name": "Vertigo",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
         ]
       }
     ],
@@ -1264,6 +1289,26 @@
     ]
   },
   {
+    "normalizedName": "dickweed",
+    "displayName": "Dickweed",
+    "albums": [
+      {
+        "name": "Pray for Death",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Sludge Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "digressionassassins",
     "displayName": "Digression Assassins",
     "albums": [
@@ -1414,6 +1459,24 @@
       "Folk, World, & Country",
       "Folk Metal",
       "Country Metal"
+    ]
+  },
+  {
+    "normalizedName": "dracoplasm",
+    "displayName": "Dracoplasm",
+    "albums": [
+      {
+        "name": "Geist Demise",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

@@ -738,6 +738,24 @@
     ]
   },
   {
+    "normalizedName": "casketfeeder",
+    "displayName": "Casket Feeder",
+    "albums": [
+      {
+        "name": "Paralysis",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "catharsispol",
     "displayName": "Catharsis (Pol)",
     "albums": [
@@ -1252,6 +1270,24 @@
     "tags": [
       "Black Metal",
       "Drone"
+    ]
+  },
+  {
+    "normalizedName": "elfensjonimy",
+    "displayName": "Elfensjón/Imy",
+    "albums": [
+      {
+        "name": "Fallen",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal | Melodic Symphonic Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Power Metal | Melodic Symphonic Metal",
+      "Rock"
     ]
   },
   {
@@ -3379,6 +3415,13 @@
       {
         "name": "The Ultimate Nuclear Core Explosion!",
         "year": "2022",
+        "genres": [
+          "Grindcore"
+        ]
+      },
+      {
+        "name": "Freaks, Grinders, Drunks & Mincers",
+        "year": "2026",
         "genres": [
           "Grindcore"
         ]

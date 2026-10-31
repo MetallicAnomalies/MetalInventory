@@ -3352,6 +3352,24 @@
     ]
   },
   {
+    "normalizedName": "mushroombeard",
+    "displayName": "Mushroom Beard",
+    "albums": [
+      {
+        "name": "Mushroom Beard",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "nefasterra",
     "displayName": "Nefas Terra",
     "albums": [
@@ -4365,6 +4383,15 @@
           "Dungeon Synth Noise",
           "Noise"
         ]
+      },
+      {
+        "name": "Vampiric Keep Visit",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Dungeon Synth Noise",
+          "Noise"
+        ]
       }
     ],
     "tags": [
@@ -4429,6 +4456,26 @@
     "tags": [
       "Doom Death Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "svolterr",
+    "displayName": "Svolterr",
+    "albums": [
+      {
+        "name": "Spectral Nightingale, Aromatic Nightshade Poisonmist",
+        "year": "2026",
+        "genres": [
+          "Black Noise",
+          "Death Metal",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Noise",
+      "Death Metal",
+      "Noise"
     ]
   },
   {

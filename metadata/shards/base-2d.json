@@ -978,6 +978,24 @@
     ]
   },
   {
+    "normalizedName": "diealone",
+    "displayName": "Die Alone",
+    "albums": [
+      {
+        "name": "Eerie Sound",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal",
+          "Post-Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal",
+      "Post-Punk"
+    ]
+  },
+  {
     "normalizedName": "diseasegunthaar",
     "displayName": "Disease Gunthaar",
     "albums": [
@@ -2172,9 +2190,18 @@
         "name": "A Celebration Of Pain EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "A Celebration of Pain",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "kruelty",
@@ -4985,6 +5012,22 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "spiritsofjigoku",
+    "displayName": "Spirits of Jigoku",
+    "albums": [
+      {
+        "name": "Demon Terror",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

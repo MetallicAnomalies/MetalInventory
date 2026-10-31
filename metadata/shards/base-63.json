@@ -561,6 +561,24 @@
     ]
   },
   {
+    "normalizedName": "cadothus",
+    "displayName": "Cadothus",
+    "albums": [
+      {
+        "name": "Age of Empathy",
+        "year": "2026",
+        "genres": [
+          "Progressive Power Metal",
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Power Metal",
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "caricevanhouten",
     "displayName": "Carice van Houten",
     "origin": "NL",
@@ -1852,6 +1870,24 @@
       "Hardcore Metal",
       "Crossover Thrash",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "holocaustwhorehouse",
+    "displayName": "Holocaust Whore House",
+    "albums": [
+      {
+        "name": "Virtual Debauchery",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal",
+      "Deathcore"
     ]
   },
   {

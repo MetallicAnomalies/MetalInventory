@@ -2039,6 +2039,22 @@
     ]
   },
   {
+    "normalizedName": "insolitus",
+    "displayName": "Insolitus",
+    "albums": [
+      {
+        "name": "The Monumental Fall",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "internalnightmare",
     "displayName": "Internal Nightmare",
     "albums": [
@@ -4107,6 +4123,29 @@
     ],
     "tags": [
       "Progressive Rock"
+    ]
+  },
+  {
+    "normalizedName": "spectraldespair",
+    "displayName": "Spectral Despair",
+    "albums": [
+      {
+        "name": "Break the Cycle",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Bowels of Truth",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

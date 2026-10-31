@@ -3304,6 +3304,22 @@
     ]
   },
   {
+    "normalizedName": "octavium",
+    "displayName": "Octavium",
+    "albums": [
+      {
+        "name": "Bloodleaf Ritual",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "odiousspirit",
     "displayName": "Odious Spirit",
     "albums": [
@@ -4652,6 +4668,24 @@
     ],
     "tags": [
       "Industrial Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "titansofmars",
+    "displayName": "Titans of Mars",
+    "albums": [
+      {
+        "name": "Aethos",
+        "year": "2026",
+        "genres": [
+          "Sludge Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Groove Metal",
+      "Groove Metal"
     ]
   },
   {

@@ -3594,6 +3594,24 @@
     ]
   },
   {
+    "normalizedName": "sleepingmountain",
+    "displayName": "Sleeping Mountain",
+    "albums": [
+      {
+        "name": "The Things We Buried",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "sothis",
     "displayName": "Sothis",
     "albums": [
@@ -4281,6 +4299,24 @@
     ],
     "tags": [
       "Deathcore"
+    ]
+  },
+  {
+    "normalizedName": "witchhound",
+    "displayName": "Witch Hound",
+    "albums": [
+      {
+        "name": "Second Summoning",
+        "year": "2026",
+        "genres": [
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Stoner Metal",
+      "Stoner Metal"
     ]
   },
   {

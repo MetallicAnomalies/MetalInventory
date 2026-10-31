@@ -1098,6 +1098,22 @@
     ]
   },
   {
+    "normalizedName": "divisionblacknoise",
+    "displayName": "Division Black Noise",
+    "albums": [
+      {
+        "name": "Catharsis Profana",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "dominationblack",
     "displayName": "Domination Black",
     "albums": [
@@ -1795,6 +1811,22 @@
       {
         "name": "Ultime éClat",
         "year": "2020",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "gottlos",
+    "displayName": "Gottlos",
+    "albums": [
+      {
+        "name": "Black Thanatosphere",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

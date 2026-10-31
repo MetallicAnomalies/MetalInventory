@@ -1934,6 +1934,13 @@
           "Thrash Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Earthmover",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -2642,6 +2649,24 @@
       "Blackened Thrash Metal",
       "Blackened Speed",
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "heartbreakkoagulerade",
+    "displayName": "Heartbreak/Koagulerade",
+    "albums": [
+      {
+        "name": "Crying Before My Suicide...",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal | Raw Depressive Black Metal",
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal | Raw Depressive Black Metal",
+      "Depressive Black Metal"
     ]
   },
   {
@@ -3874,6 +3899,13 @@
       {
         "name": "Memento Mori",
         "year": "2023",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Ewig Lebt Det Toten Tatenruhm",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]
@@ -5481,6 +5513,26 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "stonerwitch",
+    "displayName": "Stoner Witch",
+    "albums": [
+      {
+        "name": "Covenant of the Forsaken",
+        "year": "2026",
+        "genres": [
+          "Stoner Grindcore",
+          "Doom Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Grindcore",
+      "Doom Metal",
+      "Grindcore"
     ]
   },
   {

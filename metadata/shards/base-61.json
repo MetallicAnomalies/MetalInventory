@@ -4621,10 +4621,18 @@
         "genres": [
           "Folk Metal"
         ]
+      },
+      {
+        "name": "Solstice",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Folk Metal"
+      "Folk Metal",
+      "Black Metal"
     ]
   },
   {

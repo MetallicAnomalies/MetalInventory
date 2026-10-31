@@ -1177,6 +1177,22 @@
     ]
   },
   {
+    "normalizedName": "bruxxa",
+    "displayName": "Bruxxa",
+    "albums": [
+      {
+        "name": "Evocations II",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Psychedelic Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "burialshrine",
     "displayName": "Burial Shrine",
     "albums": [
@@ -2075,6 +2091,24 @@
     ]
   },
   {
+    "normalizedName": "foresthorse",
+    "displayName": "Forest Horse",
+    "albums": [
+      {
+        "name": "Botany",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Psychedelic Doom Stoner Metal",
+      "Stoner Metal"
+    ]
+  },
+  {
     "normalizedName": "frankiegoestohollywood",
     "displayName": "Frankie Goes to Hollywood",
     "origin": "GB",
@@ -2385,6 +2419,22 @@
     ],
     "tags": [
       "Progressive Power"
+    ]
+  },
+  {
+    "normalizedName": "godgivenblades",
+    "displayName": "God Given Blades",
+    "albums": [
+      {
+        "name": "God Given Blades",
+        "year": "2026",
+        "genres": [
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Metal"
     ]
   },
   {
@@ -4873,6 +4923,24 @@
     ],
     "tags": [
       "Progressive Power"
+    ]
+  },
+  {
+    "normalizedName": "thewretchednocturne",
+    "displayName": "The Wretched Nocturne",
+    "albums": [
+      {
+        "name": "Black Swan",
+        "year": "2026",
+        "genres": [
+          "Symphonic Technical Deathcore",
+          "Technical Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Technical Deathcore",
+      "Technical Deathcore"
     ]
   },
   {

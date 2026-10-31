@@ -68,6 +68,22 @@
     ]
   },
   {
+    "normalizedName": "abjectress",
+    "displayName": "Abjectress",
+    "albums": [
+      {
+        "name": "Autumnal Haze",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "abrasive",
     "displayName": "Abrasive",
     "albums": [
@@ -3163,6 +3179,14 @@
           "Heavy Groove Metal",
           "Groove Metal"
         ]
+      },
+      {
+        "name": "Acid Rain",
+        "year": "2026",
+        "genres": [
+          "Heavy Groove Metal",
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
@@ -5446,6 +5470,13 @@
         "genres": [
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Secret",
+        "year": "2026",
+        "genres": [
+          "Melodic Progressive Metal"
+        ]
       }
     ],
     "tags": [
@@ -5453,7 +5484,8 @@
       "Psy-trance",
       "Electronic",
       "Progressive Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Melodic Progressive Metal"
     ]
   },
   {
@@ -5478,6 +5510,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "waldseelen",
+    "displayName": "Waldseelen",
+    "albums": [
+      {
+        "name": "Dead Space",
+        "year": "2026",
+        "genres": [
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Metal"
     ]
   },
   {
@@ -5572,6 +5620,13 @@
     "albums": [
       {
         "name": "Visions Through a Blade... / Eternal Wandering of the Nachzehrer...",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      },
+      {
+        "name": "Gefesselt",
         "year": "2026",
         "genres": [
           "Raw Black Metal"

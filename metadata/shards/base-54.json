@@ -170,6 +170,24 @@
     ]
   },
   {
+    "normalizedName": "antagonid",
+    "displayName": "Antagonid",
+    "albums": [
+      {
+        "name": "Ad Internum",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dungeon Synth"
+    ]
+  },
+  {
     "normalizedName": "archaictorse",
     "displayName": "Archaic Torse",
     "albums": [
@@ -1518,6 +1536,24 @@
     ]
   },
   {
+    "normalizedName": "diggeth",
+    "displayName": "Diggeth",
+    "albums": [
+      {
+        "name": "Intrinity",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "distorted",
     "displayName": "Distorted",
     "origin": "IL",
@@ -2786,6 +2822,24 @@
     "tags": [
       "Alternative",
       "Alternative Rock"
+    ]
+  },
+  {
+    "normalizedName": "kakothanasycyclothymia",
+    "displayName": "Kakothanasy/Cyclothymia",
+    "albums": [
+      {
+        "name": "Kakothanasy / Cyclothymia",
+        "year": "2026",
+        "genres": [
+          "Technical Brutal Death Metal | Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Technical Brutal Death Metal | Death Metal",
+      "Grindcore"
     ]
   },
   {

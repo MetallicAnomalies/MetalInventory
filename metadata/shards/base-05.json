@@ -607,6 +607,24 @@
     ]
   },
   {
+    "normalizedName": "demonbitchwhitemagician",
+    "displayName": "Demon Bitch/White Magician",
+    "albums": [
+      {
+        "name": "Demon Bitch / White Magician",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal | Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal | Heavy Metal",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "deos",
     "displayName": "Deos",
     "albums": [
@@ -856,6 +874,22 @@
     ]
   },
   {
+    "normalizedName": "embalmedinnocence",
+    "displayName": "Embalmed Innocence",
+    "albums": [
+      {
+        "name": "Demented Nekromantic Tales of the Grotesque",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "endomain",
     "displayName": "Endomain",
     "albums": [
@@ -963,6 +997,22 @@
     "tags": [
       "Melodic Hardcore",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "executionersteel",
+    "displayName": "Executioner Steel",
+    "albums": [
+      {
+        "name": "From the Graves",
+        "year": "2026",
+        "genres": [
+          "Epic Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Epic Heavy Metal"
     ]
   },
   {
@@ -3671,10 +3721,18 @@
         "genres": [
           "Folk Metal"
         ]
+      },
+      {
+        "name": "El faro del tiempo",
+        "year": "2026",
+        "genres": [
+          "Melodic Heavy Metal"
+        ]
       }
     ],
     "tags": [
-      "Folk Metal"
+      "Folk Metal",
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -4061,6 +4119,22 @@
     ],
     "tags": [
       "Hardcore Metal"
+    ]
+  },
+  {
+    "normalizedName": "stinkingflesh",
+    "displayName": "StinkingFlesh",
+    "albums": [
+      {
+        "name": "Wasted Time",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {
@@ -4757,10 +4831,19 @@
         "genres": [
           "Groove Metal"
         ]
+      },
+      {
+        "name": "Epäonnistuneet",
+        "year": "2026",
+        "genres": [
+          "Hard Rock",
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
-      "Groove Metal"
+      "Groove Metal",
+      "Hard Rock"
     ]
   },
   {

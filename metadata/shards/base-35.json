@@ -1985,6 +1985,22 @@
     ]
   },
   {
+    "normalizedName": "forbiddentemple",
+    "displayName": "Forbidden Temple",
+    "albums": [
+      {
+        "name": "The Sanctuarian Darkness",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "fugitivus",
     "displayName": "Fugitivus",
     "albums": [
@@ -2668,6 +2684,26 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "mangercadavre",
+    "displayName": "Manger Cadavre?",
+    "albums": [
+      {
+        "name": "Como Nascem os Monstros - Ao Vivo",
+        "year": "2026",
+        "genres": [
+          "Hardcore Crust Punk",
+          "Crust Punk",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Hardcore Crust Punk",
+      "Crust Punk",
+      "Death Metal"
     ]
   },
   {

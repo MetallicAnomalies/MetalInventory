@@ -1531,6 +1531,22 @@
     ]
   },
   {
+    "normalizedName": "egocide",
+    "displayName": "Egocide",
+    "albums": [
+      {
+        "name": "A Grace Breeds Death",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Metal"
+    ]
+  },
+  {
     "normalizedName": "enthauptung",
     "displayName": "Enthauptung",
     "albums": [
@@ -1650,6 +1666,22 @@
     ],
     "tags": [
       "Death Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "fantom",
+    "displayName": "Fantom",
+    "albums": [
+      {
+        "name": "Dwells in Hell",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
       "Thrash Metal"
     ]
   },
@@ -2986,6 +3018,24 @@
       "Death Metal",
       "Progressive Metal",
       "Metal"
+    ]
+  },
+  {
+    "normalizedName": "maunra",
+    "displayName": "Maunra",
+    "albums": [
+      {
+        "name": "VRAK",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Post-Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Post-Metal",
+      "Post-Metal"
     ]
   },
   {
@@ -4461,6 +4511,22 @@
     ],
     "tags": [
       "Gothic Rock"
+    ]
+  },
+  {
+    "normalizedName": "vreidyr",
+    "displayName": "Vreidyr",
+    "albums": [
+      {
+        "name": "All Knives Matter",
+        "year": "2026",
+        "genres": [
+          "Various"
+        ]
+      }
+    ],
+    "tags": [
+      "Various"
     ]
   },
   {

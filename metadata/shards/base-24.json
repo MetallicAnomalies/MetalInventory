@@ -325,6 +325,24 @@
     "tags": []
   },
   {
+    "normalizedName": "areolabelt",
+    "displayName": "AreolaBelt",
+    "albums": [
+      {
+        "name": "Live at Backline, Tupelo, Mississippi - September 26, 2026",
+        "year": "2026",
+        "genres": [
+          "Grindcore Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore Sludge Metal",
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "artifer",
     "displayName": "Artifer",
     "origin": "EE",
@@ -4928,6 +4946,24 @@
       "Symphonic Rock",
       "Symphonic Metal",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "witchwhoresofsatan",
+    "displayName": "Witch Whores of Satan",
+    "albums": [
+      {
+        "name": "Underground Satanic Cult",
+        "year": "2026",
+        "genres": [
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Stoner Metal",
+      "Stoner Metal"
     ]
   },
   {

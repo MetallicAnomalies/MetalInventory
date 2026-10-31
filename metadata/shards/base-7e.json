@@ -1451,6 +1451,22 @@
     ]
   },
   {
+    "normalizedName": "drowninblood",
+    "displayName": "Drown in Blood",
+    "albums": [
+      {
+        "name": "Murder Isn't Enough",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "duskcult",
     "displayName": "Dusk Cult",
     "albums": [
@@ -2956,6 +2972,29 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "neuronalautolysis",
+    "displayName": "Neuronal Autolysis",
+    "albums": [
+      {
+        "name": "Necroputrefactive Desecration",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
+      },
+      {
+        "name": "Verminous Transfiguration",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind"
     ]
   },
   {

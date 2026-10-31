@@ -657,6 +657,22 @@
     ]
   },
   {
+    "normalizedName": "aggravatedassault",
+    "displayName": "Aggravated Assault",
+    "albums": [
+      {
+        "name": "Post Op",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "agruesomefind",
     "displayName": "A Gruesome Find",
     "origin": "US",
@@ -4042,6 +4058,24 @@
     ],
     "tags": [
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "oxalaia",
+    "displayName": "Oxalaia",
+    "albums": [
+      {
+        "name": "Shores of Hațeg",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal",
+          "Shoegaze"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal",
+      "Shoegaze"
     ]
   },
   {

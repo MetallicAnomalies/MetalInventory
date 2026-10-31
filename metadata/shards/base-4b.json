@@ -1166,6 +1166,22 @@
     ]
   },
   {
+    "normalizedName": "diabolum",
+    "displayName": "Diabolum",
+    "albums": [
+      {
+        "name": "Beneath the Wings of Satan",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "dimmuborgir",
     "displayName": "Dimmu Borgir",
     "origin": "NO",
@@ -1770,6 +1786,22 @@
     ]
   },
   {
+    "normalizedName": "fethfiada",
+    "displayName": "Féth Fíada",
+    "albums": [
+      {
+        "name": "To Become as the Gods",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "fleshkraft",
     "displayName": "Fleshkraft",
     "albums": [
@@ -1845,6 +1877,14 @@
     "albums": [
       {
         "name": "Demo I",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "IJ W G S",
         "year": "2026",
         "genres": [
           "Black Death Metal",

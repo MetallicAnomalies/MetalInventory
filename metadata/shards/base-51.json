@@ -931,6 +931,22 @@
     ]
   },
   {
+    "normalizedName": "curselifter",
+    "displayName": "Curselifter",
+    "albums": [
+      {
+        "name": "L.O.T.C. / Flame",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "cutlon",
     "displayName": "CÚT LỘN",
     "origin": "US",
@@ -971,6 +987,13 @@
     "albums": [
       {
         "name": "The Great Silence of Tengri",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "In the Winds of Memory",
         "year": "2026",
         "genres": [
           "Black Metal"
@@ -1797,6 +1820,13 @@
       {
         "name": "Swinging From The Family Tree",
         "year": "2025",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "Montes Nivium",
+        "year": "2026",
         "genres": [
           "Atmospheric Black Metal"
         ]

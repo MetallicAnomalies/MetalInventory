@@ -1236,6 +1236,22 @@
     ]
   },
   {
+    "normalizedName": "colombario",
+    "displayName": "Colombario",
+    "albums": [
+      {
+        "name": "Traces in the Circle",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "complexant",
     "displayName": "Complexant",
     "albums": [
@@ -4634,6 +4650,24 @@
       },
       {
         "name": "Desperation III",
+        "year": "2026",
+        "genres": [
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      },
+      {
+        "name": "Desperation VI",
+        "year": "2026",
+        "genres": [
+          "Drone Stoner Metal",
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      },
+      {
+        "name": "Desperation V",
         "year": "2026",
         "genres": [
           "Drone Stoner Metal",

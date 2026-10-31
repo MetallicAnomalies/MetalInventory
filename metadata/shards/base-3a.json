@@ -304,6 +304,22 @@
     ]
   },
   {
+    "normalizedName": "antignosis",
+    "displayName": "Antignosis",
+    "albums": [
+      {
+        "name": "Hope Clouds Observation",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "arcanacoelestia",
     "displayName": "Arcana Coelestia",
     "albums": [
@@ -747,6 +763,22 @@
     "tags": [
       "Nu Metal",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "blackflamealtar",
+    "displayName": "Black Flame Altar",
+    "albums": [
+      {
+        "name": "Runes of Darkness and Blood",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -2750,10 +2782,22 @@
         "name": "In Metal",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Angels Are Falling",
+        "year": "2026",
+        "genres": [
+          "Power Thrash Metal",
+          "Speed Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Power Thrash Metal",
+      "Speed Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -4827,6 +4871,22 @@
     ],
     "tags": [
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "ynyr",
+    "displayName": "Ynyr",
+    "albums": [
+      {
+        "name": "Forests of Infinity",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {

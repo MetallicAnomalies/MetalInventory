@@ -310,6 +310,13 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Mindless Hordes",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -1312,6 +1319,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Hecate Unbound",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -1798,6 +1812,36 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "hadesdescent",
+    "displayName": "Hades Descent",
+    "albums": [
+      {
+        "name": "Empire III: Echoes",
+        "year": "2026",
+        "genres": [
+          "Symphonic Death Metal"
+        ]
+      },
+      {
+        "name": "Empire II: Decadence",
+        "year": "2026",
+        "genres": [
+          "Symphonic Death Metal"
+        ]
+      },
+      {
+        "name": "Empire I: Voices",
+        "year": "2026",
+        "genres": [
+          "Symphonic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Death Metal"
     ]
   },
   {
@@ -2697,6 +2741,22 @@
     ]
   },
   {
+    "normalizedName": "moonlightromantica",
+    "displayName": "Moonlight Romantica",
+    "albums": [
+      {
+        "name": "Maiden of the Frozen Cathedral",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal with Gothic influences"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal with Gothic influences"
+    ]
+  },
+  {
     "normalizedName": "muka",
     "displayName": "Muka",
     "origin": "HR",
@@ -3130,6 +3190,13 @@
     "albums": [
       {
         "name": "Werewolves Blood",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "A Demon Arises",
         "year": "2026",
         "genres": [
           "Black Metal"

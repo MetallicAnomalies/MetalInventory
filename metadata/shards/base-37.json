@@ -2300,6 +2300,22 @@
     ]
   },
   {
+    "normalizedName": "indifferent",
+    "displayName": "Indifferent",
+    "albums": [
+      {
+        "name": "Purifying Acts of Necrophilism",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "isaachayes",
     "displayName": "Isaac Hayes",
     "origin": "US",
@@ -2983,6 +2999,24 @@
     "tags": [
       "Sludge Metal",
       "Stoner Rock"
+    ]
+  },
+  {
+    "normalizedName": "mylastcyst",
+    "displayName": "My Last Cyst",
+    "albums": [
+      {
+        "name": "Howl of a Dusk",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Depressive Black Metal",
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Depressive Black Metal",
+      "Depressive Black Metal"
     ]
   },
   {

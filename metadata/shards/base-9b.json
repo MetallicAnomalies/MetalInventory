@@ -1,5 +1,23 @@
 [
   {
+    "normalizedName": "aditus",
+    "displayName": "Áditus",
+    "albums": [
+      {
+        "name": "Grimoire IV: Cōdex Mūtātor Lūmen",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "afterinfinity",
     "displayName": "After Infinity",
     "albums": [
@@ -18,6 +36,26 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "ageofdystopia",
+    "displayName": "Age of Dystopia",
+    "albums": [
+      {
+        "name": "Premonitions of the Inevitable End",
+        "year": "2026",
+        "genres": [
+          "Thrash Black Metal",
+          "Death Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Black Metal",
+      "Death Black Metal",
+      "Black Metal"
     ]
   },
   {

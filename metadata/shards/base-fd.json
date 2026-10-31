@@ -593,13 +593,23 @@
           "Black Metal",
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Hexsecratus: Piano Spells - Blackthorn on Piano III",
+        "year": "2026",
+        "genres": [
+          "Symphonic Blackened Gothic Metal",
+          "Blackened Gothic Metal"
+        ]
       }
     ],
     "tags": [
       "Symphonic Gothic",
       "Black Metal",
       "Symphonic Metal",
-      "Gothic Metal"
+      "Gothic Metal",
+      "Symphonic Blackened Gothic Metal",
+      "Blackened Gothic Metal"
     ]
   },
   {
@@ -2211,6 +2221,13 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Singularity",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -2356,6 +2373,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "hatenoir",
+    "displayName": "Hatenoir",
+    "albums": [
+      {
+        "name": "Blood",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {
@@ -3361,11 +3394,23 @@
           "Blackened Folk",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Muscle Mummy",
+        "year": "2026",
+        "genres": [
+          "Melodic Power Folk Metal",
+          "Death Folk Metal",
+          "Folk Metal"
+        ]
       }
     ],
     "tags": [
       "Blackened Folk",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Melodic Power Folk Metal",
+      "Death Folk Metal",
+      "Folk Metal"
     ]
   },
   {

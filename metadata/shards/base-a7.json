@@ -3547,6 +3547,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Anti-théologie organique",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -4627,6 +4634,13 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Midnight Call",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -4695,6 +4709,22 @@
       "Stoner Death Metal",
       "Doom Death Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "steelnight",
+    "displayName": "Steel Night",
+    "albums": [
+      {
+        "name": "Heavy Metal",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {

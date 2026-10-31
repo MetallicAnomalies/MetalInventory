@@ -485,6 +485,22 @@
     ]
   },
   {
+    "normalizedName": "auraliandisharmony",
+    "displayName": "Auralian Disharmony",
+    "albums": [
+      {
+        "name": "Before His Throne",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "avern",
     "displayName": "Avern",
     "albums": [
@@ -2105,6 +2121,30 @@
     ],
     "tags": [
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "frostnoise",
+    "displayName": "Frostnoise",
+    "albums": [
+      {
+        "name": "Left Behind",
+        "year": "2026",
+        "genres": [
+          "Experimental Noise",
+          "Harsh Noise Noise",
+          "Drone",
+          "Black Metal",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Noise",
+      "Harsh Noise Noise",
+      "Drone",
+      "Black Metal",
+      "Noise"
     ]
   },
   {

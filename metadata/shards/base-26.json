@@ -1245,6 +1245,24 @@
     ]
   },
   {
+    "normalizedName": "dissociated",
+    "displayName": "Dissociated",
+    "albums": [
+      {
+        "name": "It Reaches Out",
+        "year": "2026",
+        "genres": [
+          "Deathcore Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Deathcore Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "distances",
     "displayName": "Distances",
     "albums": [
@@ -2171,6 +2189,24 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "madmane",
+    "displayName": "MadMane",
+    "albums": [
+      {
+        "name": "Elm Street Massacre",
+        "year": "2026",
+        "genres": [
+          "Thrash Speed Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Speed Metal",
+      "Speed Metal"
+    ]
   },
   {
     "normalizedName": "maladist",

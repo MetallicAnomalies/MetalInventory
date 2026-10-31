@@ -1700,6 +1700,22 @@
     ]
   },
   {
+    "normalizedName": "grimeworm",
+    "displayName": "Grimeworm",
+    "albums": [
+      {
+        "name": "Venomous Impulsion",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "grinder",
     "displayName": "Grinder",
     "albums": [
@@ -1829,6 +1845,13 @@
     "albums": [
       {
         "name": "Dark Haze",
+        "year": "2026",
+        "genres": [
+          "Epic Doom Metal"
+        ]
+      },
+      {
+        "name": "Doom Is Rising",
         "year": "2026",
         "genres": [
           "Epic Doom Metal"
@@ -4964,6 +4987,24 @@
     "tags": [
       "Progressive Metal",
       "Instrumental"
+    ]
+  },
+  {
+    "normalizedName": "xanadu",
+    "displayName": "Xanadu",
+    "albums": [
+      {
+        "name": "Leading the Way",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Power Metal",
+      "Power Metal"
     ]
   },
   {

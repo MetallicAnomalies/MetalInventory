@@ -5265,6 +5265,22 @@
     ]
   },
   {
+    "normalizedName": "urdimbre",
+    "displayName": "Urdimbre",
+    "albums": [
+      {
+        "name": "Theatre of Grief",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Black Metal"
+    ]
+  },
+  {
     "normalizedName": "urskumug",
     "displayName": "Urskumug",
     "albums": [
@@ -5393,6 +5409,13 @@
       {
         "name": "Ardentis",
         "year": "2023",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "Prophecies of Tunder",
+        "year": "2026",
         "genres": [
           "Heavy Metal"
         ]

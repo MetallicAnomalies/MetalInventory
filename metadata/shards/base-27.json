@@ -1655,6 +1655,24 @@
     ]
   },
   {
+    "normalizedName": "devilsgap",
+    "displayName": "Devils Gap",
+    "albums": [
+      {
+        "name": "Monumental Carnage",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "disharmony",
     "displayName": "Disharmony",
     "albums": [
@@ -3032,10 +3050,20 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Malsain",
+        "year": "2026",
+        "genres": [
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Doom Stoner Metal",
+      "Stoner Metal"
     ]
   },
   {

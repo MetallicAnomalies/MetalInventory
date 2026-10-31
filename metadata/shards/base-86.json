@@ -339,9 +339,20 @@
         "name": "Forgive My Figure EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Forgive My Figure",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Groove Metal",
+          "Groove Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Progressive Death Groove Metal",
+      "Groove Metal"
+    ]
   },
   {
     "normalizedName": "battalionsui",
@@ -2028,6 +2039,22 @@
     ],
     "tags": [
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "kaltgraum",
+    "displayName": "Kaltgraum",
+    "albums": [
+      {
+        "name": "Dead Bride",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

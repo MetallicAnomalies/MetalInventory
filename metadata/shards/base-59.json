@@ -105,6 +105,22 @@
     ]
   },
   {
+    "normalizedName": "ancientcovenant",
+    "displayName": "Ancient Covenant",
+    "albums": [
+      {
+        "name": "Triumphant Forces of Evil",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "angel7",
     "displayName": "Angel 7",
     "albums": [
@@ -4524,6 +4540,13 @@
         "genres": [
           "Progressive Metal",
           "Progressive Rock"
+        ]
+      },
+      {
+        "name": "The Fortune Teller",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
         ]
       }
     ],

@@ -1183,6 +1183,22 @@
     ]
   },
   {
+    "normalizedName": "deciduousforest",
+    "displayName": "Deciduous Forest",
+    "albums": [
+      {
+        "name": "Hymns of Time",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "defconone",
     "displayName": "Def Con One",
     "aliases": [
@@ -2079,6 +2095,24 @@
     ]
   },
   {
+    "normalizedName": "enduringrevery",
+    "displayName": "Enduring Revery",
+    "albums": [
+      {
+        "name": "Reflections of Time",
+        "year": "2026",
+        "genres": [
+          "Sludge Post-Metal",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Post-Metal",
+      "Post-Metal"
+    ]
+  },
+  {
     "normalizedName": "erottica",
     "displayName": "Erottica",
     "albums": [
@@ -2382,6 +2416,14 @@
       },
       {
         "name": "Anus Rose III",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Noise"
+        ]
+      },
+      {
+        "name": "Hail B.S.O.D",
         "year": "2026",
         "genres": [
           "Raw Black Metal",

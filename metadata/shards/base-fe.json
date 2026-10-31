@@ -1429,9 +1429,18 @@
         "name": "Cosmic Heavy Doom",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Old Master",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "furtherdimension",

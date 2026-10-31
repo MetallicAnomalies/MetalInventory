@@ -139,10 +139,18 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Perilous Dreams",
+        "year": "2026",
+        "genres": [
+          "Symphonic Progressive Metal"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Symphonic Progressive Metal"
     ]
   },
   {
@@ -2614,6 +2622,22 @@
     ]
   },
   {
+    "normalizedName": "lurkingsilhouette",
+    "displayName": "Lurking Silhouette",
+    "albums": [
+      {
+        "name": "Lamentations of the Epoch's Winter",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "luxuriadelillith",
     "displayName": "Luxúria De Lillith",
     "albums": [
@@ -3097,6 +3121,24 @@
     ],
     "tags": [
       "Electronica"
+    ]
+  },
+  {
+    "normalizedName": "oppression",
+    "displayName": "Oppression",
+    "albums": [
+      {
+        "name": "La puissance de nos rêves",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Punk"
     ]
   },
   {

@@ -646,6 +646,14 @@
           "Speed Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Live like an Angel (Die like a Devil)",
+        "year": "2026",
+        "genres": [
+          "Heavy Speed Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
@@ -653,7 +661,8 @@
       "Heavy Metal",
       "Crossover Thrash",
       "Thrash Metal",
-      "Horror Rock"
+      "Horror Rock",
+      "Heavy Speed Metal"
     ]
   },
   {
@@ -959,6 +968,24 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "chrysolith",
+    "displayName": "Chrysolith",
+    "albums": [
+      {
+        "name": "Aporia",
+        "year": "2026",
+        "genres": [
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Death Metal",
+      "Death Metal"
     ]
   },
   {

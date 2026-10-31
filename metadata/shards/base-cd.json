@@ -2666,10 +2666,20 @@
         "name": "The Light That Keeps Us",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "A Terrible Famine of Words",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Melodic Death Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -3569,6 +3579,26 @@
     ],
     "tags": [
       "Groove Thrash"
+    ]
+  },
+  {
+    "normalizedName": "slug",
+    "displayName": "Slug",
+    "albums": [
+      {
+        "name": "Slug_Tape_1_&_2",
+        "year": "2026",
+        "genres": [
+          "Blackened Grindcore Noise",
+          "Crust Punk",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Grindcore Noise",
+      "Crust Punk",
+      "Noise"
     ]
   },
   {

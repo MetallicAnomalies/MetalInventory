@@ -1833,6 +1833,22 @@
     ]
   },
   {
+    "normalizedName": "enchantedforest",
+    "displayName": "Enchanted Forest",
+    "albums": [
+      {
+        "name": "A Passage to Unlight",
+        "year": "2026",
+        "genres": [
+          "Pagan Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Pagan Black Metal"
+    ]
+  },
+  {
     "normalizedName": "ertrunken",
     "displayName": "Ertrunken",
     "albums": [
@@ -2812,6 +2828,13 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Nexus Noir",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -3228,6 +3251,14 @@
     "albums": [
       {
         "name": "Histeria Profunda & Delírio Coletivo",
+        "year": "2026",
+        "genres": [
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
+      },
+      {
+        "name": "...de todo o Mal",
         "year": "2026",
         "genres": [
           "Doom Sludge Metal",

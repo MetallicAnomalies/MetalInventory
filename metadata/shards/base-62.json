@@ -2358,6 +2358,24 @@
     ]
   },
   {
+    "normalizedName": "hellzheimers",
+    "displayName": "Hellzheimers",
+    "albums": [
+      {
+        "name": "Time Shall Reap Death Too",
+        "year": "2026",
+        "genres": [
+          "Death Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Groove Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "hoodedpriest",
     "displayName": "Hooded Priest",
     "albums": [
@@ -3566,6 +3584,13 @@
         "name": "Nexus EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Nexus",
+        "year": "2026",
+        "genres": [
+          "Deathcore"
+        ]
       }
     ],
     "tags": [

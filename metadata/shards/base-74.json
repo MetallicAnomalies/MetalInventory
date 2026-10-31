@@ -866,6 +866,22 @@
     ]
   },
   {
+    "normalizedName": "bronzeeagle",
+    "displayName": "Bronze Eagle",
+    "albums": [
+      {
+        "name": "Yin Yang Flames",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "bush",
     "displayName": "Bush",
     "origin": "GB",
@@ -3592,6 +3608,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "perfectsuffering",
+    "displayName": "Perfect Suffering",
+    "albums": [
+      {
+        "name": "Imperial Majesty",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

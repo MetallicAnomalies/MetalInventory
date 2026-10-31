@@ -1819,6 +1819,24 @@
     ]
   },
   {
+    "normalizedName": "holybowl",
+    "displayName": "Holy Bowl",
+    "albums": [
+      {
+        "name": "New American Standard",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "humanremains",
     "displayName": "Human Remains",
     "albums": [
@@ -2690,6 +2708,15 @@
     "albums": [
       {
         "name": "Mud Moth",
+        "year": "2026",
+        "genres": [
+          "Doom Rock",
+          "Stoner Metal",
+          "Rock"
+        ]
+      },
+      {
+        "name": "Pumpking Hood",
         "year": "2026",
         "genres": [
           "Doom Rock",

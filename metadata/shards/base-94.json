@@ -85,6 +85,26 @@
     ]
   },
   {
+    "normalizedName": "alchemastersapprentice",
+    "displayName": "Alchemaster's Apprentice",
+    "albums": [
+      {
+        "name": "Midnight Live",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Black Metal",
+          "Progressive Psychedelic Rock",
+          "Psychedelic Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Avant-garde Black Metal",
+      "Progressive Psychedelic Rock",
+      "Psychedelic Rock"
+    ]
+  },
+  {
     "normalizedName": "aletrun",
     "displayName": "àLetrun",
     "albums": [
@@ -3443,6 +3463,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "questbound",
+    "displayName": "Questbound",
+    "albums": [
+      {
+        "name": "Once upon an Astral Dream",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Power Metal"
     ]
   },
   {

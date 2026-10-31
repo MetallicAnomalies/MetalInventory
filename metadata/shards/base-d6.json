@@ -3554,6 +3554,24 @@
     ]
   },
   {
+    "normalizedName": "mydarksecrettranscendence",
+    "displayName": "My Dark Secret Transcendence",
+    "albums": [
+      {
+        "name": "At Least I'd Tried for Who I Love",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal",
+          "Shoegaze"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal",
+      "Shoegaze"
+    ]
+  },
+  {
     "normalizedName": "mynded",
     "displayName": "Mynded",
     "albums": [
@@ -3574,6 +3592,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "młotnaczarownice",
+    "displayName": "Młot na Czarownice",
+    "albums": [
+      {
+        "name": "W sidłach złudzeń",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {

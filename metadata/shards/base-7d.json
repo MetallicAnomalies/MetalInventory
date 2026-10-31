@@ -60,6 +60,24 @@
     ]
   },
   {
+    "normalizedName": "abhorrency",
+    "displayName": "Abhorrency",
+    "albums": [
+      {
+        "name": "Anthropodermic Bibliopegy",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "ablebakerfox",
     "displayName": "Able Baker Fox",
     "origin": "US",
@@ -2121,6 +2139,14 @@
       },
       {
         "name": "The Earth Still Sings",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Ambient"
+        ]
+      },
+      {
+        "name": "Everything Is So Quiet, Silent...",
         "year": "2026",
         "genres": [
           "Atmospheric Black Metal",
@@ -5361,12 +5387,23 @@
           "Heavy Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "The Mighty Don’t Fall",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Hard Rock",
+          "Power Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
       "Hard Rock",
       "Heavy Metal",
-      "Power Metal"
+      "Power Metal",
+      "Heavy Power Metal"
     ]
   },
   {

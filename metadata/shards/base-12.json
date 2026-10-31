@@ -2147,6 +2147,22 @@
     ]
   },
   {
+    "normalizedName": "jarac",
+    "displayName": "Jarac",
+    "albums": [
+      {
+        "name": "Pogrom sinova Abrahamovih",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "jeremysoule",
     "displayName": "Jeremy Soule",
     "origin": "US",
@@ -2704,6 +2720,13 @@
     "albums": [
       {
         "name": "As darkness retreat",
+        "year": "2026",
+        "genres": [
+          "Raw Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "Total Blasphemous Destruction",
         "year": "2026",
         "genres": [
           "Raw Atmospheric Black Metal"
@@ -3572,6 +3595,22 @@
     ]
   },
   {
+    "normalizedName": "superlost",
+    "displayName": "Superlost",
+    "albums": [
+      {
+        "name": "Alter Vultus",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "tankograd",
     "displayName": "Tankograd",
     "albums": [
@@ -4152,6 +4191,24 @@
       "Blackened Thrash Metal",
       "Thrash Metal",
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "withoutdreams",
+    "displayName": "Without Dreams",
+    "albums": [
+      {
+        "name": "Обнаженная вечность",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Funeral Doom Metal",
+          "Funeral Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Funeral Doom Metal",
+      "Funeral Doom Metal"
     ]
   },
   {

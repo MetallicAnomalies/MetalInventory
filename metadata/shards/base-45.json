@@ -1148,6 +1148,24 @@
     ]
   },
   {
+    "normalizedName": "defiantbody",
+    "displayName": "Defiant Body",
+    "albums": [
+      {
+        "name": "Pavement",
+        "year": "2026",
+        "genres": [
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "demolitionhammer",
     "displayName": "Demolition Hammer",
     "origin": "US",
@@ -1895,6 +1913,27 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "ialdabaoth",
+    "displayName": "Ialdabaoth",
+    "albums": [
+      {
+        "name": "Mindfuck",
+        "year": "2026",
+        "genres": [
+          "Industrial Grindcore Black Metal",
+          "Noise",
+          "Black Metal",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Industrial Grindcore Black Metal",
+      "Noise",
+      "Black Metal"
     ]
   },
   {

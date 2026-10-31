@@ -1411,6 +1411,13 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "II",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -1441,6 +1448,14 @@
     "albums": [
       {
         "name": "LET THIS ONE BE THE DEVIL",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Punk"
+        ]
+      },
+      {
+        "name": "May the Terror Save, Enslave, Destroy and Create",
         "year": "2026",
         "genres": [
           "Raw Black Metal",
@@ -2800,11 +2815,21 @@
           "Speed Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Atomica",
+        "year": "2026",
+        "genres": [
+          "Thrash Heavy Metal",
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
       "Speed Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Thrash Heavy Metal",
+      "Heavy Metal"
     ]
   },
   {

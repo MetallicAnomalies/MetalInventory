@@ -678,6 +678,13 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Return to Time of the Sword",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -1610,6 +1617,24 @@
     ],
     "tags": [
       "Pagan Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "externus",
+    "displayName": "Externus",
+    "albums": [
+      {
+        "name": "Cataclysmic Coalescence",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal",
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Metal",
+      "Deathcore"
     ]
   },
   {

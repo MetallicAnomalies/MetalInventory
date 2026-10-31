@@ -3210,6 +3210,24 @@
     ]
   },
   {
+    "normalizedName": "sokołowski",
+    "displayName": "Sokołowski",
+    "albums": [
+      {
+        "name": "Król",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "solgrav",
     "displayName": "Solgrav",
     "albums": [
@@ -3787,6 +3805,24 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "wokescumpulverizer",
+    "displayName": "Wokescum Pulverizer",
+    "albums": [
+      {
+        "name": "The Creatine Crusade",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

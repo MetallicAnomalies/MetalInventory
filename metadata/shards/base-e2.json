@@ -2049,6 +2049,38 @@
     ]
   },
   {
+    "normalizedName": "gorged",
+    "displayName": "Gorged",
+    "albums": [
+      {
+        "name": "Fucking the Dismembered",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "gornographic",
+    "displayName": "Gornographic",
+    "albums": [
+      {
+        "name": "Freshly Squeezed Giblet Juice",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind"
+    ]
+  },
+  {
     "normalizedName": "grayceon",
     "displayName": "Grayceon",
     "albums": [
@@ -3657,6 +3689,24 @@
     "tags": []
   },
   {
+    "normalizedName": "ratisha",
+    "displayName": "Ratisha",
+    "albums": [
+      {
+        "name": "DEADLY",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "ratt",
     "displayName": "Ratt",
     "origin": "US",
@@ -4203,6 +4253,22 @@
     ]
   },
   {
+    "normalizedName": "thesalesman",
+    "displayName": "The Salesman",
+    "albums": [
+      {
+        "name": "Gilded Age",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "threestepstotheocean",
     "displayName": "Three Steps To The Ocean",
     "albums": [
@@ -4444,6 +4510,22 @@
       "Progressive Metal",
       "Experimental Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "vilta",
+    "displayName": "Vilta",
+    "albums": [
+      {
+        "name": "Blackrose",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

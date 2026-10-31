@@ -2160,6 +2160,22 @@
     ]
   },
   {
+    "normalizedName": "goldenspell",
+    "displayName": "Golden Spell",
+    "albums": [
+      {
+        "name": "Rehearsals MMDCCLXXIX",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "groovio",
     "displayName": "Groovio",
     "origin": "NL",
@@ -3307,9 +3323,18 @@
         "name": "The Last Dawn",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Peremptory Sentence",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "nexttoeternity",

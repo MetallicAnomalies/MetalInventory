@@ -536,6 +536,22 @@
     ]
   },
   {
+    "normalizedName": "diorgy",
+    "displayName": "Diorgy",
+    "albums": [
+      {
+        "name": "Нету Слов, Остался Диван",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind"
+    ]
+  },
+  {
     "normalizedName": "direstraits",
     "displayName": "Dire Straits",
     "origin": "GB",
@@ -1365,6 +1381,22 @@
     ]
   },
   {
+    "normalizedName": "hellake",
+    "displayName": "Hellake",
+    "albums": [
+      {
+        "name": "Aegritudo Perniciosa Sterquilinae",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "hexicon",
     "displayName": "Hexicon",
     "albums": [
@@ -1380,6 +1412,24 @@
     "tags": [
       "Progressive Groove Metal",
       "Groove Metal"
+    ]
+  },
+  {
+    "normalizedName": "hiidenlintu",
+    "displayName": "Hiidenlintu",
+    "albums": [
+      {
+        "name": "Alttarilla kuolevan auringon",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Ambient"
     ]
   },
   {
@@ -3150,6 +3200,22 @@
     ]
   },
   {
+    "normalizedName": "sadomystic",
+    "displayName": "Sadomystic",
+    "albums": [
+      {
+        "name": "La profundidad del oscuro",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "searchthecity",
     "displayName": "Search The City",
     "origin": "US",
@@ -3668,6 +3734,24 @@
       "Alternative Rock",
       "Folk, World, & Country",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "thebleached",
+    "displayName": "The Bleached",
+    "albums": [
+      {
+        "name": "Thinly Veiled, Twice Impaled",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

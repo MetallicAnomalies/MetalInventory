@@ -755,6 +755,22 @@
     ]
   },
   {
+    "normalizedName": "covenincandlelight",
+    "displayName": "Coven in Candlelight",
+    "albums": [
+      {
+        "name": "...in the Dread of Winter & Shadow of Existence",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "cyankicks",
     "displayName": "Cyan Kicks",
     "origin": "FI",
@@ -1953,6 +1969,22 @@
     ]
   },
   {
+    "normalizedName": "insidiatormorbi",
+    "displayName": "Insidiator Morbi",
+    "albums": [
+      {
+        "name": "Molema",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "insinnerator",
     "displayName": "Insinnerator",
     "albums": [
@@ -2680,10 +2712,20 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Heads",
+        "year": "2026",
+        "genres": [
+          "Depressive Atmospheric Black Metal",
+          "Atmospheric Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Depressive Atmospheric Black Metal",
+      "Atmospheric Black Metal"
     ]
   },
   {

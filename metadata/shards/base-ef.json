@@ -35,10 +35,20 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Churlish Retches",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Punk"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Raw Black Metal",
+      "Punk"
     ]
   },
   {
@@ -918,6 +928,24 @@
     ]
   },
   {
+    "normalizedName": "crevure",
+    "displayName": "Crevure",
+    "albums": [
+      {
+        "name": "Harsh Hatred",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "deadhandsystem",
     "displayName": "Deadhand System",
     "albums": [
@@ -1629,10 +1657,20 @@
         "genres": [
           "Death Doom Metal"
         ]
+      },
+      {
+        "name": "Beach City Doom Vol. 1",
+        "year": "2026",
+        "genres": [
+          "Doom Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Doom Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -3233,6 +3271,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "theensembleofdoom",
+    "displayName": "The Ensemble of Doom",
+    "albums": [
+      {
+        "name": "Inner Enemy",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Black Metal"
     ]
   },
   {

@@ -274,6 +274,13 @@
         "genres": [
           "Goregrind"
         ]
+      },
+      {
+        "name": "Left to Drip Through the Floor",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
       }
     ],
     "tags": [
@@ -1037,6 +1044,22 @@
     ],
     "tags": [
       "Progressive Heavy"
+    ]
+  },
+  {
+    "normalizedName": "celtichammer",
+    "displayName": "CelticHammer",
+    "albums": [
+      {
+        "name": "A Miña Terra...",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {
@@ -3404,6 +3427,24 @@
     ]
   },
   {
+    "normalizedName": "noctisimperium",
+    "displayName": "Noctis Imperium",
+    "albums": [
+      {
+        "name": "I am",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "nothingisreal",
     "displayName": "Nothing Is Real",
     "albums": [
@@ -4886,6 +4927,24 @@
     ],
     "tags": [
       "Stoner Metal"
+    ]
+  },
+  {
+    "normalizedName": "калијуга",
+    "displayName": "Кали Југа",
+    "albums": [
+      {
+        "name": "До коске",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Doom Metal"
     ]
   }
 ]
