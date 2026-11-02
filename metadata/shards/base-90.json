@@ -46,7 +46,7 @@
         "name": "The Tide & Its Takers",
         "year": "2008",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore",
           "Alternative Metal"
         ]
@@ -71,7 +71,7 @@
         "name": "Time & Trauma",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal",
           "Nu Metal",
           "Metalcore"
@@ -113,9 +113,9 @@
       "Metalcore",
       "Melodic Metalcore",
       "Nu Metal",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Alternative Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Heavy Metal"
     ]
   },
@@ -180,14 +180,14 @@
         "year": "2005",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "For Those Who Have Heart",
         "year": "2008",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Pop Punk",
           "Metalcore"
         ]
@@ -196,7 +196,7 @@
         "name": "For Those Who Have Heart Re-issue",
         "year": "2008",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Pop Punk",
           "Metalcore"
         ]
@@ -252,9 +252,9 @@
     "tags": [
       "Pop Punk",
       "Metalcore",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Alternative Rock",
-      "Hardcore Metal",
+      "Hardcore",
       "Melodic Hardcore",
       "Rock"
     ]
@@ -374,8 +374,7 @@
         "year": "2012",
         "genres": [
           "Post-Black Metal",
-          "Shoegaze",
-          "Post-black Metal"
+          "Shoegaze"
         ]
       },
       {
@@ -383,8 +382,7 @@
         "year": "2012",
         "genres": [
           "Post-Black Metal",
-          "Shoegaze",
-          "Post-black Metal"
+          "Shoegaze"
         ]
       },
       {
@@ -392,8 +390,7 @@
         "year": "2013",
         "genres": [
           "Post-Black Metal",
-          "Shoegaze",
-          "Post-black Metal"
+          "Shoegaze"
         ]
       },
       {
@@ -401,8 +398,7 @@
         "year": "2013",
         "genres": [
           "Post-Black Metal",
-          "Shoegaze",
-          "Post-black Metal"
+          "Shoegaze"
         ]
       },
       {
@@ -410,8 +406,7 @@
         "year": "2015",
         "genres": [
           "Post-Black Metal",
-          "Shoegaze",
-          "Post-black Metal"
+          "Shoegaze"
         ]
       },
       {
@@ -419,8 +414,7 @@
         "year": "2016",
         "genres": [
           "Post-Black Metal",
-          "Shoegaze",
-          "Post-black Metal"
+          "Shoegaze"
         ]
       },
       {
@@ -428,8 +422,7 @@
         "year": "2017",
         "genres": [
           "Post-Black Metal",
-          "Shoegaze",
-          "Post-black Metal"
+          "Shoegaze"
         ]
       },
       {
@@ -437,15 +430,13 @@
         "year": "2020",
         "genres": [
           "Post-Black Metal",
-          "Shoegaze",
-          "Post-black Metal"
+          "Shoegaze"
         ]
       }
     ],
     "tags": [
       "Post-Black Metal",
-      "Shoegaze",
-      "Post-black Metal"
+      "Shoegaze"
     ]
   },
   {
@@ -472,19 +463,19 @@
         "name": "Amia Venera Landscape",
         "year": "2009",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "The Long Procession",
         "year": "2010",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -528,7 +519,7 @@
         "year": "2002",
         "genres": [
           "Heavy Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -536,7 +527,7 @@
         "year": "2004",
         "genres": [
           "Heavy Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -544,7 +535,7 @@
         "year": "2006",
         "genres": [
           "Heavy Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -552,7 +543,7 @@
         "year": "2010",
         "genres": [
           "Heavy Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -560,13 +551,13 @@
         "year": "2020",
         "genres": [
           "Heavy Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -600,7 +591,7 @@
         "year": "2003",
         "genres": [
           "Abstract",
-          "Experimental Metal",
+          "Experimental",
           "Electronic",
           "Illbient"
         ]
@@ -669,7 +660,7 @@
         "year": "2025",
         "genres": [
           "Acoustic",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
@@ -678,9 +669,9 @@
       "Atmospheric Rock",
       "Acoustic",
       "Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Abstract",
-      "Experimental Metal",
+      "Experimental",
       "Electronic",
       "Illbient",
       "Folk Rock"
@@ -788,21 +779,21 @@
         "name": "Blut",
         "year": "1994",
         "genres": [
-          "Gothic Industrial"
+          "Gothic Industrial Metal"
         ]
       },
       {
         "name": "Calling The Rain",
         "year": "1995",
         "genres": [
-          "Gothic Industrial"
+          "Gothic Industrial Metal"
         ]
       },
       {
         "name": "Die Liebe",
         "year": "1995",
         "genres": [
-          "Gothic Industrial"
+          "Gothic Industrial Metal"
         ]
       },
       {
@@ -810,7 +801,7 @@
         "year": "1995",
         "genres": [
           "Heavy Metal",
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Industrial Metal"
         ]
@@ -819,56 +810,56 @@
         "name": "The Definition Of Kraft & Wille",
         "year": "1996",
         "genres": [
-          "Gothic Industrial"
+          "Gothic Industrial Metal"
         ]
       },
       {
         "name": "The Hunt",
         "year": "1996",
         "genres": [
-          "Gothic Industrial"
+          "Gothic Industrial Metal"
         ]
       },
       {
         "name": "Willenskraft",
         "year": "1996",
         "genres": [
-          "Gothic Industrial"
+          "Gothic Industrial Metal"
         ]
       },
       {
         "name": "Werk 80",
         "year": "1997",
         "genres": [
-          "Gothic Industrial"
+          "Gothic Industrial Metal"
         ]
       },
       {
         "name": "Gemini",
         "year": "2000",
         "genres": [
-          "Gothic Industrial"
+          "Gothic Industrial Metal"
         ]
       },
       {
         "name": "Atlantis",
         "year": "2004",
         "genres": [
-          "Gothic Industrial"
+          "Gothic Industrial Metal"
         ]
       },
       {
         "name": "Werk 80 Ii",
         "year": "2008",
         "genres": [
-          "Gothic Industrial"
+          "Gothic Industrial Metal"
         ]
       },
       {
         "name": "After The Storm",
         "year": "2010",
         "genres": [
-          "Gothic Industrial"
+          "Gothic Industrial Metal"
         ]
       },
       {
@@ -916,10 +907,10 @@
     ],
     "tags": [
       "Symphonic Death Metal",
-      "Gothic Industrial",
+      "Gothic Industrial Metal",
       "Death Metal",
       "Heavy Metal",
-      "Electro Metal",
+      "Electro",
       "Electronic",
       "Industrial Metal"
     ]
@@ -932,26 +923,26 @@
         "name": "New Eternity",
         "year": "2018",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "The Broken Hourglass",
         "year": "2021",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Passage Of Time",
         "year": "2025",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -962,33 +953,33 @@
         "name": "вдохновение",
         "year": "2013",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "от героев былых Bремён...",
         "year": "2015",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "злая Mагия",
         "year": "2019",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "это Hе любовь",
         "year": "2022",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -999,12 +990,12 @@
         "name": "Grab What You Can",
         "year": "1994",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -1015,40 +1006,40 @@
         "name": "Hard Jet Super Flash",
         "year": "1997",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Beerserk",
         "year": "1999",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Hardcore",
         "year": "2002",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Showdown",
         "year": "2005",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Ahead Of The Game",
         "year": "2006",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1102,12 +1093,14 @@
         "name": "Curse of the Emerald Knight",
         "year": "2026",
         "genres": [
-          "Black Metal | Symphonic Black Metal"
+          "Black Metal",
+          "Symphonic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Black Metal | Symphonic Black Metal"
+      "Black Metal",
+      "Symphonic Black Metal"
     ]
   },
   {
@@ -1143,7 +1136,7 @@
         "year": "2016",
         "genres": [
           "Jazz-rock",
-          "Noise Metal",
+          "Noise",
           "Psychedelic Rock",
           "Progressive Metal",
           "Jazz"
@@ -1152,7 +1145,7 @@
     ],
     "tags": [
       "Jazz-rock",
-      "Noise Metal",
+      "Noise",
       "Psychedelic Rock",
       "Progressive Metal",
       "Jazz"
@@ -1278,7 +1271,7 @@
           "Deep House",
           "Synth-pop",
           "House",
-          "Uk Garage"
+          "UK Garage"
         ]
       }
     ],
@@ -1287,7 +1280,7 @@
       "Deep House",
       "Synth-pop",
       "House",
-      "Uk Garage"
+      "UK Garage"
     ]
   },
   {
@@ -1591,7 +1584,7 @@
         "genres": [
           "Progressive Metal",
           "Alternative Rock",
-          "Post Rock",
+          "Post-Rock",
           "Post-Metal"
         ]
       }
@@ -1599,7 +1592,7 @@
     "tags": [
       "Progressive Metal",
       "Alternative Rock",
-      "Post Rock",
+      "Post-Rock",
       "Post-Metal"
     ]
   },
@@ -1833,35 +1826,35 @@
         "name": "Seasons",
         "year": "1996",
         "genres": [
-          "Atmospheric Gothic"
+          "Atmospheric Gothic Metal"
         ]
       },
       {
         "name": "Stormbirds",
         "year": "1998",
         "genres": [
-          "Atmospheric Gothic"
+          "Atmospheric Gothic Metal"
         ]
       },
       {
         "name": "Regret",
         "year": "1999",
         "genres": [
-          "Atmospheric Gothic"
+          "Atmospheric Gothic Metal"
         ]
       },
       {
         "name": "E-mania",
         "year": "2001",
         "genres": [
-          "Atmospheric Gothic"
+          "Atmospheric Gothic Metal"
         ]
       },
       {
         "name": "Enetics: 11 Orgies Of Mass Enjoyment On The Dark Side Of The Planet",
         "year": "2003",
         "genres": [
-          "Atmospheric Gothic"
+          "Atmospheric Gothic Metal"
         ]
       },
       {
@@ -1869,28 +1862,28 @@
         "year": "2002",
         "genres": [
           "Heavy Metal",
-          "Goth Rock"
+          "Gothic Rock"
         ]
       },
       {
         "name": "Tried & Failed",
         "year": "2005",
         "genres": [
-          "Atmospheric Gothic"
+          "Atmospheric Gothic Metal"
         ]
       },
       {
         "name": "Emission",
         "year": "2010",
         "genres": [
-          "Atmospheric Gothic"
+          "Atmospheric Gothic Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Gothic",
+      "Atmospheric Gothic Metal",
       "Heavy Metal",
-      "Goth Rock"
+      "Gothic Rock"
     ]
   },
   {
@@ -2033,7 +2026,7 @@
         "year": "2014",
         "genres": [
           "Progressive Rock",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -2041,7 +2034,7 @@
         "year": "2016",
         "genres": [
           "Progressive Rock",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -2049,7 +2042,7 @@
         "year": "2018",
         "genres": [
           "Progressive Rock",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -2057,7 +2050,7 @@
         "year": "2018",
         "genres": [
           "Progressive Rock",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -2065,7 +2058,7 @@
         "year": "2020",
         "genres": [
           "Progressive Rock",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -2073,7 +2066,7 @@
         "year": "2023",
         "genres": [
           "Progressive Rock",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -2081,13 +2074,13 @@
         "year": "2025",
         "genres": [
           "Progressive Rock",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Progressive Rock",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -2142,7 +2135,7 @@
         "genres": [
           "Jazz-rock",
           "Fusion",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock",
           "Jazz"
         ]
@@ -2152,10 +2145,10 @@
         "year": "1986",
         "genres": [
           "Jazz-rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock",
           "Jazz",
-          "Avantgarde Metal"
+          "Avant-garde"
         ]
       },
       {
@@ -2163,14 +2156,14 @@
         "year": "1991",
         "genres": [
           "Fusion",
-          "Experimental Metal",
+          "Experimental",
           "Electronic",
           "Space Rock",
           "Art Rock",
           "Rock",
           "Free Jazz",
           "Jazz",
-          "Avantgarde Metal"
+          "Avant-garde"
         ]
       },
       {
@@ -2178,8 +2171,8 @@
         "year": "1991",
         "genres": [
           "Jazz-rock",
-          "Prog Rock",
-          "Avantgarde Metal",
+          "Progressive Rock",
+          "Avant-garde",
           "Rock"
         ]
       },
@@ -2188,7 +2181,7 @@
         "year": "1992",
         "genres": [
           "Dialogue",
-          "Prog Rock",
+          "Progressive Rock",
           "Art Rock",
           "Novelty",
           "Rock",
@@ -2202,10 +2195,10 @@
           "Fusion",
           "Psychedelic Rock",
           "Blues Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock",
           "Jazz",
-          "Avantgarde Metal"
+          "Avant-garde"
         ]
       },
       {
@@ -2215,7 +2208,7 @@
           "Contemporary",
           "Post-modern",
           "Classical",
-          "Avantgarde Metal"
+          "Avant-garde"
         ]
       },
       {
@@ -2224,7 +2217,7 @@
         "genres": [
           "Jazz-rock",
           "Fusion",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock",
           "Jazz"
         ]
@@ -2238,7 +2231,7 @@
           "Psychedelic Rock",
           "Rock",
           "Jazz",
-          "Avantgarde Metal"
+          "Avant-garde"
         ]
       },
       {
@@ -2247,24 +2240,24 @@
         "genres": [
           "Jazz-rock",
           "Parody",
-          "Prog Rock",
+          "Progressive Rock",
           "Hard Rock",
           "Rock",
           "Jazz",
-          "Avantgarde Metal"
+          "Avant-garde"
         ]
       }
     ],
     "tags": [
       "Jazz-rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock",
       "Jazz",
-      "Avantgarde Metal",
+      "Avant-garde",
       "Parody",
       "Hard Rock",
       "Fusion",
-      "Experimental Metal",
+      "Experimental",
       "Electronic",
       "Space Rock",
       "Art Rock",
@@ -2406,19 +2399,19 @@
         "name": "Return To Forever",
         "year": "1998",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "The Lake",
         "year": "2000",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -2486,75 +2479,75 @@
         "name": "Risin' Outlaw",
         "year": "1999",
         "genres": [
-          "Country Metal"
+          "Country"
         ]
       },
       {
         "name": "Lovesick, Broke & Driftin'",
         "year": "2002",
         "genres": [
-          "Country Metal"
+          "Country"
         ]
       },
       {
         "name": "Straight To Hell",
         "year": "2006",
         "genres": [
-          "Country Metal"
+          "Country"
         ]
       },
       {
         "name": "Damn Right, Rebel Proud",
         "year": "2008",
         "genres": [
-          "Country Metal"
+          "Country"
         ]
       },
       {
         "name": "Rebel Within",
         "year": "2010",
         "genres": [
-          "Country Metal"
+          "Country"
         ]
       },
       {
         "name": "3 Bar Ranch: Cattle Callin'",
         "year": "2011",
         "genres": [
-          "Country Metal"
+          "Country"
         ]
       },
       {
         "name": "Attention Deficit Domination",
         "year": "2011",
         "genres": [
-          "Country Metal"
+          "Country"
         ]
       },
       {
         "name": "Ghost To A Ghost / Gutter Town",
         "year": "2011",
         "genres": [
-          "Country Metal"
+          "Country"
         ]
       },
       {
         "name": "A Fiendish Threat",
         "year": "2013",
         "genres": [
-          "Country Metal"
+          "Country"
         ]
       },
       {
         "name": "Brothers Of The 4x4",
         "year": "2013",
         "genres": [
-          "Country Metal"
+          "Country"
         ]
       }
     ],
     "tags": [
-      "Country Metal"
+      "Country"
     ]
   },
   {
@@ -2899,21 +2892,21 @@
         "name": "Detestation Aggregation",
         "year": "2013",
         "genres": [
-          "Avantgarde Death"
+          "Avant-garde Death Metal"
         ]
       },
       {
         "name": "Eclipsing The Abyss",
         "year": "2013",
         "genres": [
-          "Avantgarde Death"
+          "Avant-garde Death Metal"
         ]
       },
       {
         "name": "Beyond The Horizon Realized",
         "year": "2025",
         "genres": [
-          "Avantgarde Death"
+          "Avant-garde Death Metal"
         ]
       },
       {
@@ -2922,13 +2915,12 @@
         "genres": [
           "Black Death Metal",
           "Noise",
-          "Death Metal",
-          "Noise"
+          "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Death",
+      "Avant-garde Death Metal",
       "Black Death Metal",
       "Noise",
       "Death Metal"
@@ -2944,7 +2936,7 @@
         "year": "2015",
         "genres": [
           "Pop Rock",
-          "Folk Metal",
+          "Folk",
           "Pop",
           "Folk, World, & Country"
         ]
@@ -2959,7 +2951,7 @@
     ],
     "tags": [
       "Pop Rock",
-      "Folk Metal",
+      "Folk",
       "Pop",
       "Folk, World, & Country",
       "Rock"
@@ -3581,7 +3573,7 @@
           "Crossover Thrash",
           "Thrash Metal",
           "Speed Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3652,7 +3644,7 @@
       "Crossover Thrash",
       "Thrash Metal",
       "Speed Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3664,7 +3656,7 @@
         "year": "2010",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3672,7 +3664,7 @@
         "year": "2012",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3680,7 +3672,7 @@
         "year": "2013",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3688,13 +3680,13 @@
         "year": "2017",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -3778,7 +3770,7 @@
         "name": "Greatest",
         "year": "2008",
         "genres": [
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
@@ -3789,7 +3781,7 @@
       "Pop",
       "Vocal",
       "Jazz-rock",
-      "Folk Metal",
+      "Folk",
       "Rock"
     ]
   },
@@ -4076,7 +4068,7 @@
         "year": "2007",
         "genres": [
           "Alternative",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -4085,7 +4077,7 @@
         "year": "2011",
         "genres": [
           "Alternative",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -4094,7 +4086,7 @@
         "year": "2013",
         "genres": [
           "Alternative",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -4103,7 +4095,7 @@
         "year": "2013",
         "genres": [
           "Alternative",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -4112,7 +4104,7 @@
         "year": "2017",
         "genres": [
           "Alternative",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -4121,14 +4113,14 @@
         "year": "2023",
         "genres": [
           "Alternative",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
       "Alternative",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Progressive Metal"
     ]
   },
@@ -4301,7 +4293,7 @@
         "genres": [
           "Black Crust",
           "Post-Metal Crust",
-          "Crust"
+          "Crust Punk"
         ]
       }
     ],
@@ -4309,7 +4301,7 @@
       "Black Metal",
       "Black Crust",
       "Post-Metal Crust",
-      "Crust"
+      "Crust Punk"
     ]
   },
   {
@@ -4498,14 +4490,14 @@
         "name": "Out Of Pain",
         "year": "2004",
         "genres": [
-          "Symphonic Gothic"
+          "Symphonic Gothic Metal"
         ]
       },
       {
         "name": "Everlasting Fall",
         "year": "2015",
         "genres": [
-          "Symphonic Gothic"
+          "Symphonic Gothic Metal"
         ]
       },
       {
@@ -4522,7 +4514,7 @@
       }
     ],
     "tags": [
-      "Symphonic Gothic",
+      "Symphonic Gothic Metal",
       "Black Metal"
     ]
   },
@@ -4781,7 +4773,7 @@
         "year": "2011",
         "genres": [
           "Death Metal",
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -4789,13 +4781,13 @@
         "year": "2016",
         "genres": [
           "Death Metal",
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Gothenburg"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -4878,7 +4870,7 @@
         "name": "Retrospective: The Best Of Suzanne Vega",
         "year": "1985",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Pop",
           "Folk, World, & Country",
           "Soft Rock"
@@ -4888,7 +4880,7 @@
         "name": "Suzanne Vega",
         "year": "1985",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Pop",
           "Folk, World, & Country",
           "Soft Rock"
@@ -4896,7 +4888,7 @@
       }
     ],
     "tags": [
-      "Folk Metal",
+      "Folk",
       "Pop",
       "Folk, World, & Country",
       "Soft Rock"
@@ -4910,19 +4902,19 @@
         "name": "Fear Of Life",
         "year": "1997",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Tar And Feathers For The Millennium",
         "year": "1998",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -5188,7 +5180,7 @@
         "name": "Best Of Warlord",
         "year": "1997",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal",
           "Doom Metal"
         ]
@@ -5231,7 +5223,7 @@
       "Power Metal",
       "Stage & Screen",
       "Soundtrack",
-      "Hardcore Metal",
+      "Hardcore",
       "Sludge Metal",
       "Doom Metal"
     ]
@@ -5248,7 +5240,7 @@
           "Folk, World, & Country",
           "Pop",
           "Vocal",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -5258,14 +5250,14 @@
           "Folk, World, & Country",
           "Pop",
           "Vocal",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
         "name": "שירי חגים 4",
         "year": "2006",
         "genres": [
-          "Children's Music"
+          "Children's"
         ]
       }
     ],
@@ -5273,8 +5265,8 @@
       "Folk, World, & Country",
       "Pop",
       "Vocal",
-      "Folk Metal",
-      "Children's Music"
+      "Folk",
+      "Children's"
     ]
   },
   {

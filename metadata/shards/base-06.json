@@ -9,7 +9,7 @@
         "year": "2014",
         "genres": [
           "Psychedelic Metal",
-          "Ambient Metal",
+          "Ambient",
           "Djent",
           "Progressive Metal"
         ]
@@ -17,7 +17,7 @@
     ],
     "tags": [
       "Psychedelic Metal",
-      "Ambient Metal",
+      "Ambient",
       "Djent",
       "Progressive Metal"
     ]
@@ -47,7 +47,7 @@
         "year": "2002",
         "genres": [
           "Atmospheric Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -55,7 +55,7 @@
         "year": "2004",
         "genres": [
           "Atmospheric Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -63,7 +63,7 @@
         "year": "2005",
         "genres": [
           "Atmospheric Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -71,7 +71,7 @@
         "year": "2008",
         "genres": [
           "Atmospheric Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -79,7 +79,7 @@
         "year": "2012",
         "genres": [
           "Atmospheric Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -87,7 +87,7 @@
         "year": "2019",
         "genres": [
           "Atmospheric Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -95,13 +95,13 @@
         "year": "2025",
         "genres": [
           "Atmospheric Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Atmospheric Sludge Metal",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -247,14 +247,14 @@
         "name": "3",
         "year": "1995",
         "genres": [
-          "Alternative  Rock"
+          "Alternative Rock"
         ]
       }
     ],
     "tags": [
       "Black Metal",
       "Death Metal",
-      "Alternative  Rock"
+      "Alternative Rock"
     ]
   },
   {
@@ -345,7 +345,7 @@
         "name": "Til Death",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Emo",
           "Electronic",
           "Metalcore"
@@ -353,7 +353,7 @@
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Emo",
       "Electronic",
       "Metalcore"
@@ -733,12 +733,12 @@
         "name": "Where The Road Leads",
         "year": "2012",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -865,40 +865,40 @@
         "name": "Songs Of War And Vengeance",
         "year": "2009",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Reborn In Fire",
         "year": "2010",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Channelling The Infinite",
         "year": "2012",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Architect Of Hope",
         "year": "2015",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Guardians Of Time",
         "year": "2024",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Power"
+      "Melodic Power Metal"
     ]
   },
   {
@@ -1275,12 +1275,12 @@
         "name": "Human Ruin",
         "year": "2014",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1354,14 +1354,14 @@
         "name": "Hate Into Grief",
         "year": "2002",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "Afflictions Fiction",
         "year": "2007",
         "genres": [
-          "Atmospheric Death",
+          "Atmospheric Death Metal",
           "Death Metal",
           "Doom Metal"
         ]
@@ -1370,12 +1370,12 @@
         "name": "The End Of The Path Is Nigh",
         "year": "2011",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Death",
+      "Atmospheric Death Metal",
       "Death Metal",
       "Doom Metal"
     ]
@@ -1721,7 +1721,7 @@
         "name": "The Sibylline Age",
         "year": "2022",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -1729,7 +1729,7 @@
         "name": "A Clarion Call",
         "year": "2024",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -1737,13 +1737,13 @@
         "name": "Harbinger Of Light",
         "year": "2025",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Thrash Metal"
     ]
   },
@@ -1895,14 +1895,14 @@
         "genres": [
           "Progressive Metal",
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
       "Metalcore",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Melodic Hardcore"
     ]
   },
@@ -1914,7 +1914,7 @@
         "name": "Octoglomerate",
         "year": "1993",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       },
@@ -1922,7 +1922,7 @@
         "name": "Son Of Man",
         "year": "1995",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       },
@@ -1930,7 +1930,7 @@
         "name": "Flying Beyond The 9",
         "year": "2001",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       },
@@ -1938,13 +1938,13 @@
         "name": "Anthem",
         "year": "2002",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Heavy",
+      "Neoclassical Heavy Metal",
       "Instrumental"
     ]
   },
@@ -2295,7 +2295,7 @@
         "genres": [
           "Electronic",
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2304,7 +2304,7 @@
         "genres": [
           "Electronic",
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2318,7 +2318,7 @@
     "tags": [
       "Electronic",
       "Atmospheric Black Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -2346,13 +2346,13 @@
         "name": "Lesser Key",
         "year": "2014",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -2987,7 +2987,7 @@
         "name": "Entheognosis",
         "year": "2016",
         "genres": [
-          "Experimental Death",
+          "Experimental Death Metal",
           "Black Metal"
         ]
       },
@@ -2995,13 +2995,13 @@
         "name": "Towers Of Silence",
         "year": "2021",
         "genres": [
-          "Experimental Death",
+          "Experimental Death Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Death",
+      "Experimental Death Metal",
       "Black Metal",
       "Electronic",
       "Experimental Metal"
@@ -3055,7 +3055,7 @@
         "name": "So No Forevis",
         "year": "1999",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Latin",
           "Punk",
           "Alternative Rock"
@@ -3071,7 +3071,7 @@
     ],
     "tags": [
       "Punk",
-      "Hardcore Metal",
+      "Hardcore",
       "Latin",
       "Alternative Rock"
     ]
@@ -3142,19 +3142,19 @@
         "name": "She.came.blazing",
         "year": "2008",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Retrogression",
         "year": "2012",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -3357,16 +3357,14 @@
         "year": "2026",
         "genres": [
           "Black Metal",
-          "Thrash Metal",
-          "Metal"
+          "Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Death Metal",
       "Black Metal",
-      "Thrash Metal",
-      "Metal"
+      "Thrash Metal"
     ]
   },
   {
@@ -4133,7 +4131,7 @@
         "name": "Psycö Noiz From Da Psycö Höad",
         "year": "1998",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Thrash Metal"
         ]
       },
@@ -4141,13 +4139,13 @@
         "name": "Hellcore",
         "year": "2003",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Thrash Metal"
     ]
   },

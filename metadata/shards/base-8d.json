@@ -150,7 +150,7 @@
         "year": "2008",
         "genres": [
           "Heavy Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -158,7 +158,7 @@
         "year": "2008",
         "genres": [
           "Progressive Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -177,9 +177,9 @@
     ],
     "tags": [
       "Progressive Metal",
-      "Oriental Folk",
+      "Oriental Folk Metal",
       "Heavy Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Progressive Folk Metal",
       "Folk Metal"
     ]
@@ -858,12 +858,12 @@
         "name": "Tragedy",
         "year": "2021",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Symphonic Black Metal"
     ]
   },
@@ -1009,7 +1009,7 @@
         "name": "Drug Honkey",
         "year": "2002",
         "genres": [
-          "Experimental Death",
+          "Experimental Death Metal",
           "Doom Metal"
         ]
       },
@@ -1017,7 +1017,7 @@
         "name": "Hail Satan",
         "year": "2005",
         "genres": [
-          "Experimental Death",
+          "Experimental Death Metal",
           "Doom Metal"
         ]
       },
@@ -1025,7 +1025,7 @@
         "name": "Death Dub",
         "year": "2008",
         "genres": [
-          "Experimental Death",
+          "Experimental Death Metal",
           "Doom Metal"
         ]
       },
@@ -1033,7 +1033,7 @@
         "name": "Ghost In The Fire",
         "year": "2012",
         "genres": [
-          "Experimental Death",
+          "Experimental Death Metal",
           "Doom Metal"
         ]
       },
@@ -1041,13 +1041,13 @@
         "name": "Cloak Of Skies",
         "year": "2017",
         "genres": [
-          "Experimental Death",
+          "Experimental Death Metal",
           "Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Death",
+      "Experimental Death Metal",
       "Doom Metal"
     ]
   },
@@ -1602,26 +1602,26 @@
         "name": "Meathead",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Gun",
         "year": "2021",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Idaho",
         "year": "2025",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1762,46 +1762,46 @@
         "name": "Heart",
         "year": "2014",
         "genres": [
-          "Symphonic Power",
-          "J Rock"
+          "Symphonic Power Metal",
+          "J-Rock"
         ]
       },
       {
         "name": "Symphony Of The Vampire",
         "year": "2014",
         "genres": [
-          "Symphonic Power",
-          "J Rock"
+          "Symphonic Power Metal",
+          "J-Rock"
         ]
       },
       {
         "name": "Royal Blood ～Revival Best～",
         "year": "2015",
         "genres": [
-          "Symphonic Power",
-          "J Rock"
+          "Symphonic Power Metal",
+          "J-Rock"
         ]
       },
       {
         "name": "Sang",
         "year": "2018",
         "genres": [
-          "Symphonic Power",
-          "J Rock"
+          "Symphonic Power Metal",
+          "J-Rock"
         ]
       },
       {
         "name": "Oscar",
         "year": "2022",
         "genres": [
-          "Symphonic Power",
-          "J Rock"
+          "Symphonic Power Metal",
+          "J-Rock"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power",
-      "J Rock"
+      "Symphonic Power Metal",
+      "J-Rock"
     ]
   },
   {
@@ -2094,14 +2094,14 @@
         "name": "Ashes From A Terrestrial Fall",
         "year": "2020",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Ruins Of A Celestial Fire",
         "year": "2020",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2142,7 +2142,7 @@
     ],
     "tags": [
       "Ambient Black Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -2193,7 +2193,7 @@
           "Pop",
           "New Wave",
           "Pop Rock",
-          "Post-punk",
+          "Post-Punk",
           "Melodic Death Metal"
         ]
       },
@@ -2239,7 +2239,7 @@
       "Pop",
       "New Wave",
       "Pop Rock",
-      "Post-punk"
+      "Post-Punk"
     ]
   },
   {
@@ -2287,61 +2287,61 @@
         "name": "統合失調症の飢餓",
         "year": "2015",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "5772",
         "year": "2016",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "一期一会",
         "year": "2018",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "ѫ",
         "year": "2019",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Noč Na Krayu Sveta",
         "year": "2021",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Skopofoboexoskelett",
         "year": "2023",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Delirium Pathomutageno Adductum",
         "year": "2024",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "рлб30011922",
         "year": "2025",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -2405,7 +2405,7 @@
           "Punk",
           "Grunge",
           "Hard Rock",
-          "J-rock"
+          "J-Rock"
         ]
       },
       {
@@ -2415,7 +2415,7 @@
           "Pop Rock",
           "Electronic",
           "Pop",
-          "J-rock",
+          "J-Rock",
           "Rock"
         ]
       }
@@ -2424,7 +2424,7 @@
       "Pop Rock",
       "Electronic",
       "Pop",
-      "J-rock",
+      "J-Rock",
       "Punk",
       "Grunge",
       "Hard Rock",
@@ -2439,40 +2439,40 @@
         "name": "Evermoving",
         "year": "2001",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Reawaken",
         "year": "2002",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "The Neverending Sun",
         "year": "2007",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "New Fathoms Down",
         "year": "2014",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Of Epoch And Inferno",
         "year": "2022",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -2515,18 +2515,18 @@
         "year": "2024",
         "genres": [
           "Indie Rock",
-          "Experimental Metal",
+          "Experimental",
           "Shoegaze",
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Indie Rock",
-      "Experimental Metal",
+      "Experimental",
       "Shoegaze",
-      "Post Rock",
+      "Post-Rock",
       "Rock"
     ]
   },
@@ -2555,166 +2555,166 @@
         "name": "Howdy!",
         "year": "1956",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "Pat Boone",
         "year": "1956",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "Hymns We Love",
         "year": "1957",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "Pat",
         "year": "1957",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "Sings Irving Berlin",
         "year": "1958",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "Star Dust",
         "year": "1958",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "Yes Indeed!",
         "year": "1958",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "He Leadeth Me",
         "year": "1959",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "Pat Boone Sings",
         "year": "1959",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "Tenderly",
         "year": "1959",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "Great! Great! Great!",
         "year": "1961",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "Moody River",
         "year": "1961",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "I'll See You In My Dreams",
         "year": "1962",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "The Golden Era Of Country Hits",
         "year": "1965",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "Christmas Is A Comin'",
         "year": "1966",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "How Great Thou Art",
         "year": "1967",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "Departure",
         "year": "1969",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "Sings The Songs Of The Jesus People",
         "year": "1972",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "Something Supernatural",
         "year": "1975",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "Texas Woman",
         "year": "1976",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "The Country Side Of Pat Boone",
         "year": "1977",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "Songmaker",
         "year": "1981",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       },
       {
         "name": "In A Metal Mood - No More Mr. Nice Guy",
         "year": "1997",
         "genres": [
-          "Rock And Roll"
+          "Rock & Roll"
         ]
       }
     ],
     "tags": [
-      "Rock And Roll"
+      "Rock & Roll"
     ],
     "origin": "US"
   },
@@ -2759,12 +2759,12 @@
         "name": "Zenith Ii Zero",
         "year": "2009",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -2819,14 +2819,14 @@
         "name": "Presets",
         "year": "1996",
         "genres": [
-          "Trip-hop",
+          "Trip Hop",
           "Nu Metal"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Trip-hop",
+      "Trip Hop",
       "Nu Metal"
     ]
   },
@@ -3344,7 +3344,7 @@
         "year": "2012",
         "genres": [
           "Death Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3352,7 +3352,7 @@
         "year": "2021",
         "genres": [
           "Technical Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -3366,9 +3366,9 @@
     "tags": [
       "Technical Death Metal",
       "Post-Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Death Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -3677,7 +3677,7 @@
         "name": "Final Seizure Of The Light-being",
         "year": "2021",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3690,7 +3690,7 @@
     ],
     "tags": [
       "Death Doom Metal",
-      "Ambient Metal",
+      "Ambient",
       "Atmospheric Sludge Metal",
       "Post-Metal"
     ]
@@ -3910,14 +3910,14 @@
         "name": "And We Are Bled Of Color",
         "year": "2005",
         "genres": [
-          "Hardcore Metal",
-          "Post-punk"
+          "Hardcore",
+          "Post-Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
-      "Post-punk"
+      "Hardcore",
+      "Post-Punk"
     ]
   },
   {
@@ -3992,7 +3992,7 @@
         "name": "Thaw",
         "year": "2013",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Ambient Noise"
         ]
       },
@@ -4000,7 +4000,7 @@
         "name": "Earth Ground",
         "year": "2014",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Ambient Noise"
         ]
       },
@@ -4008,7 +4008,7 @@
         "name": "St. Phenome Alley",
         "year": "2015",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Ambient Noise"
         ]
       },
@@ -4016,7 +4016,7 @@
         "name": "Grains",
         "year": "2017",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Ambient Noise"
         ]
       },
@@ -4024,13 +4024,13 @@
         "name": "Fading Backwards",
         "year": "2024",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Ambient Noise"
         ]
       }
     ],
     "tags": [
-      "Experimental Black",
+      "Experimental Black Metal",
       "Ambient Noise"
     ]
   },
@@ -4263,14 +4263,14 @@
         "name": "Odium Magno",
         "year": "2024",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Black Metal",
       "Sludge Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {

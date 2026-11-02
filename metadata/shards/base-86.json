@@ -192,7 +192,7 @@
         "year": "2010",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -200,7 +200,7 @@
         "year": "2012",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -208,7 +208,7 @@
         "year": "2015",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -216,7 +216,7 @@
         "year": "2017",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -224,13 +224,13 @@
         "year": "2020",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -793,7 +793,7 @@
           "Crunk",
           "Funk / Soul",
           "Hip Hop",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
@@ -801,7 +801,7 @@
       "Hip Hop",
       "Crunk",
       "Funk / Soul",
-      "Contemporary R&b"
+      "Contemporary R&B"
     ]
   },
   {
@@ -851,19 +851,19 @@
         "name": "Before The Sunrise",
         "year": "2014",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Over Wide Spaces",
         "year": "2017",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -952,40 +952,40 @@
         "name": "Spirit",
         "year": "2005",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Raven's Flight",
         "year": "2007",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "A Deep Breath Of Life",
         "year": "2008",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "King For A Day",
         "year": "2014",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Ad Infinitum",
         "year": "2020",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -1565,7 +1565,7 @@
         "name": "Gryende Tidevarv",
         "year": "2008",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
@@ -1580,12 +1580,12 @@
         "name": "Niddikter",
         "year": "2016",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       }
     ],
     "tags": [
-      "Viking Black",
+      "Viking Black Metal",
       "Black Metal",
       "Viking Metal"
     ]
@@ -2066,7 +2066,7 @@
         "name": "Kill The Kong",
         "year": "2016",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -2074,7 +2074,7 @@
         "name": "Bring The Heat",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -2082,7 +2082,7 @@
         "name": "Juggernaut (Wolfpack)",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -2090,7 +2090,7 @@
         "name": "Snake Eyes",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -2098,13 +2098,13 @@
         "name": "The Antagonist",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -2254,28 +2254,28 @@
         "name": "Fever Dream",
         "year": "2008",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Mamaleek",
         "year": "2008",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Kurdaitcha",
         "year": "2011",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "He Never Spoke A Mumblin' Word",
         "year": "2014",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Experimental Rock"
         ]
       },
@@ -2331,7 +2331,7 @@
     ],
     "tags": [
       "Experimental Rock",
-      "Experimental Black"
+      "Experimental Black Metal"
     ]
   },
   {
@@ -2379,12 +2379,12 @@
         "name": "Maverick Hunter",
         "year": "2013",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -2763,14 +2763,14 @@
         "genres": [
           "Alternative Rock",
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -2789,7 +2789,7 @@
         "name": "Mirror Of Vibrations",
         "year": "2007",
         "genres": [
-          "Oriental Folk",
+          "Oriental Folk Metal",
           "Melodic Black Metal"
         ]
       },
@@ -2797,7 +2797,7 @@
         "name": "Skin Age",
         "year": "2015",
         "genres": [
-          "Oriental Folk",
+          "Oriental Folk Metal",
           "Symphonic Death Metal"
         ]
       },
@@ -2805,13 +2805,13 @@
         "name": "Equilibrium Tool",
         "year": "2024",
         "genres": [
-          "Oriental Folk",
+          "Oriental Folk Metal",
           "Symphonic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Oriental Folk",
+      "Oriental Folk Metal",
       "Melodic Black Metal",
       "Symphonic Death Metal",
       "Nu Metal"
@@ -2842,7 +2842,7 @@
         "name": "Iorxhscimtor",
         "year": "2001",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Experimental Rock"
         ]
       },
@@ -2850,7 +2850,7 @@
         "name": "2nd 18/o4 Norildivoth Crallos-lomrixth Urthiln",
         "year": "2002",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Experimental Rock"
         ]
       },
@@ -2858,7 +2858,7 @@
         "name": "Asristirveildrioxe",
         "year": "2002",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Experimental Rock"
         ]
       },
@@ -2866,13 +2866,13 @@
         "name": "Ov",
         "year": "2005",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Experimental Rock"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde",
       "Experimental Rock"
     ]
   },
@@ -3069,13 +3069,15 @@
         "year": "2026",
         "genres": [
           "Depressive Black Metal",
-          "Ambient | Black Metal"
+          "Ambient",
+          "Black Metal"
         ]
       }
     ],
     "tags": [
       "Depressive Black Metal",
-      "Ambient | Black Metal"
+      "Ambient",
+      "Black Metal"
     ]
   },
   {
@@ -3291,7 +3293,7 @@
         "genres": [
           "Electronic",
           "Art Rock",
-          "Ambient Metal",
+          "Ambient",
           "Rock"
         ]
       },
@@ -3301,7 +3303,7 @@
         "genres": [
           "Electronic",
           "Art Rock",
-          "Ambient Metal",
+          "Ambient",
           "Rock"
         ]
       }
@@ -3309,7 +3311,7 @@
     "tags": [
       "Electronic",
       "Art Rock",
-      "Ambient Metal",
+      "Ambient",
       "Rock"
     ]
   },
@@ -3524,28 +3526,28 @@
         "name": "Svalbard",
         "year": "2012",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Flightless Birds",
         "year": "2013",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Gone Tomorrow",
         "year": "2013",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "One Day All This Will End",
         "year": "2015",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3553,18 +3555,18 @@
         "year": "2016",
         "genres": [
           "Black Metal",
-          "Crust Metal",
+          "Crust Punk",
           "Ethereal",
-          "Post-hardcore",
-          "Post Rock"
+          "Post-Hardcore",
+          "Post-Rock"
         ]
       },
       {
         "name": "Its Hard To Have Hope",
         "year": "2018",
         "genres": [
-          "Post-hardcore",
-          "Hardcore Metal",
+          "Post-Hardcore",
+          "Hardcore",
           "Heavy Metal"
         ]
       },
@@ -3573,32 +3575,32 @@
         "year": "2020",
         "genres": [
           "Shoegaze",
-          "Post Rock",
-          "Post-hardcore"
+          "Post-Rock",
+          "Post-Hardcore"
         ]
       },
       {
         "name": "When I Die, Will I Get Better?",
         "year": "2020",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "The Weight Of The Mask",
         "year": "2023",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Black Metal",
-      "Crust Metal",
+      "Crust Punk",
       "Ethereal",
-      "Post Rock",
-      "Hardcore Metal",
+      "Post-Rock",
+      "Hardcore",
       "Heavy Metal",
       "Shoegaze"
     ]
@@ -3979,13 +3981,13 @@
         "name": "Myconid Madness",
         "year": "2011",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Industrial Metal",
+      "Industrial",
       "Punk"
     ]
   },
@@ -4182,7 +4184,7 @@
         "genres": [
           "Progressive Metal",
           "Heavy Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -4191,14 +4193,14 @@
         "genres": [
           "Progressive Metal",
           "Heavy Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
       "Heavy Metal",
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -4209,13 +4211,13 @@
         "name": "Sovereignty In Rubble",
         "year": "2020",
         "genres": [
-          "Noise Metal",
+          "Noise",
           "Grindcore"
         ]
       }
     ],
     "tags": [
-      "Noise Metal",
+      "Noise",
       "Grindcore"
     ]
   },
@@ -4292,7 +4294,6 @@
     "tags": [
       "Extreme Progressive Metal",
       "Melodic Death Metal",
-      "Metal",
       "Death Metal",
       "Progressive Metal",
       "Heavy Metal"
@@ -4454,7 +4455,7 @@
         "name": "Anomalous Altrium",
         "year": "2022",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Technical Death Metal"
         ]
       },
@@ -4462,13 +4463,13 @@
         "name": "The Outlying Entities",
         "year": "2023",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Technical Death Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Technical Death Metal"
     ]
   }

@@ -183,7 +183,7 @@
         "year": "2023",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -192,7 +192,7 @@
         "year": "2023",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -201,14 +201,14 @@
         "year": "2023",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Art Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Melodic Death Metal",
       "Rock"
     ]
@@ -290,18 +290,16 @@
         "name": "Gray",
         "year": "2025",
         "genres": [
-          "Blackened Avantgarde",
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Blackened Avant-garde",
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Spectrum",
         "year": "2025",
         "genres": [
-          "Blackened Avantgarde",
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Blackened Avant-garde",
+          "Post-Black Metal"
         ]
       },
       {
@@ -313,9 +311,8 @@
       }
     ],
     "tags": [
-      "Blackened Avantgarde",
+      "Blackened Avant-garde",
       "Post-Black Metal",
-      "Post-black Metal",
       "Blackened Avant-garde Metal"
     ]
   },
@@ -355,14 +352,14 @@
         "name": "Yearning Arrows; Cloven Suns",
         "year": "2025",
         "genres": [
-          "Experimental Black",
-          "Avantgarde Metal"
+          "Experimental Black Metal",
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Black",
-      "Avantgarde Metal"
+      "Experimental Black Metal",
+      "Avant-garde Metal"
     ]
   },
   {
@@ -604,21 +601,21 @@
         "name": "Built By Blood",
         "year": "2005",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Asleep",
         "year": "2006",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Acoustic",
           "Emo"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Acoustic",
       "Emo",
       "Rock"
@@ -1012,7 +1009,7 @@
         "name": "Nebularium",
         "year": "2001",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -1026,47 +1023,47 @@
         "name": "Fragments Of D-generation",
         "year": "2004",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Mind Tricks",
         "year": "2006",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "The Isolation Game",
         "year": "2009",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "The Restless Memoirs",
         "year": "2009",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Cold Inferno",
         "year": "2015",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "The Dormant Stranger",
         "year": "2025",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg",
+      "Melodic Death Metal",
       "Death Metal"
     ]
   },
@@ -1336,13 +1333,13 @@
         "year": "2016",
         "genres": [
           "Electronic",
-          "Drum N Bass"
+          "Drum & Bass"
         ]
       }
     ],
     "tags": [
       "Electronic",
-      "Drum N Bass"
+      "Drum & Bass"
     ]
   },
   {
@@ -1401,7 +1398,7 @@
         "name": "Unleashed In The Middle East",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Death Metal"
         ]
       },
@@ -1443,7 +1440,7 @@
     ],
     "tags": [
       "Death Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2047,14 +2044,14 @@
         "name": "Presents",
         "year": "2001",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Lp",
         "year": "2019",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -2067,7 +2064,7 @@
     ],
     "tags": [
       "Screamo",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -2138,13 +2135,13 @@
         "name": "Unholy Mountain",
         "year": "2023",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Doom",
+      "Psychedelic Doom Metal",
       "Stoner Metal"
     ]
   },
@@ -2196,70 +2193,70 @@
         "name": "Piece Of Time",
         "year": "1995",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "No Limits",
         "year": "1996",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Return To Heaven Denied",
         "year": "1998",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Timeless Crime",
         "year": "1999",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Sons Of Thunder",
         "year": "2000",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Labyrinth",
         "year": "2003",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Freeman",
         "year": "2005",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "6 Days To Nowhere",
         "year": "2007",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Return To Heaven Denied Pt. Ii",
         "year": "2010",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Architecture Of A God",
         "year": "2017",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -2274,19 +2271,19 @@
         "name": "Welcome To The Absurd Circus",
         "year": "2021",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "In The Vanishing Echoes Of Goodbye",
         "year": "2025",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power",
+      "Progressive Power Metal",
       "Progressive Metal",
       "Power Metal"
     ]
@@ -2378,33 +2375,33 @@
         "name": "... And Ancestors Still Remain",
         "year": "2007",
         "genres": [
-          "Epic Black"
+          "Epic Black Metal"
         ]
       },
       {
         "name": "Awaking Ancient Gods",
         "year": "2008",
         "genres": [
-          "Epic Black"
+          "Epic Black Metal"
         ]
       },
       {
         "name": "... Our Ashes Blown Away",
         "year": "2013",
         "genres": [
-          "Epic Black"
+          "Epic Black Metal"
         ]
       },
       {
         "name": "From Glory Towards Void",
         "year": "2016",
         "genres": [
-          "Epic Black"
+          "Epic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Epic Black"
+      "Epic Black Metal"
     ]
   },
   {
@@ -2503,40 +2500,40 @@
         "name": "Awake",
         "year": "2000",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Blue Roses",
         "year": "2001",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Immortal",
         "year": "2004",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Damnatio Memoriae",
         "year": "2010",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Empty Sky",
         "year": "2014",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Power"
+      "Melodic Power Metal"
     ]
   },
   {
@@ -2609,19 +2606,19 @@
         "name": "Reverence",
         "year": "2011",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Revolt Regime",
         "year": "2019",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -2685,62 +2682,54 @@
         "name": "Coil",
         "year": "2019",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Daydream",
         "year": "2019",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Outland",
         "year": "2019",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "A Shallow Constant",
         "year": "2020",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Earthlight",
         "year": "2020",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Punctual",
         "year": "2021",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Ascended Sight",
         "year": "2023",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {
@@ -2885,49 +2874,49 @@
         "name": "Crossing The Fiery Path",
         "year": "1993",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "From The Past We Summon Thee",
         "year": "1994",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Scarlet Evil Witching Black",
         "year": "1995",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Ancient Pride",
         "year": "1997",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Iv: Malice",
         "year": "2000",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "The Sound Of Lucifer Storming Heaven",
         "year": "2007",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "People Of The Sea",
         "year": "2008",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
@@ -2939,7 +2928,7 @@
       }
     ],
     "tags": [
-      "Experimental Black",
+      "Experimental Black Metal",
       "Black Metal"
     ]
   },
@@ -3385,7 +3374,7 @@
         "name": "Executioners Tax (Swing Of The Axe)",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Thrash Metal"
         ]
       },
@@ -3393,7 +3382,7 @@
         "name": "Firing Squad",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Thrash Metal"
         ]
       },
@@ -3422,7 +3411,7 @@
     ],
     "tags": [
       "Crossover Thrash",
-      "Hardcore Metal",
+      "Hardcore",
       "Thrash Metal",
       "Crossover"
     ]
@@ -3902,19 +3891,19 @@
         "name": "Drop Dead",
         "year": "1984",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Lost Session '91",
         "year": "2014",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4087,75 +4076,75 @@
         "name": "The Goddess Principle",
         "year": "1995",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Continuum",
         "year": "1996",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Into The Void",
         "year": "1997",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Dark Hallucinations",
         "year": "1999",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Messiah",
         "year": "2000",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Book Of The Dead",
         "year": "2001",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Unseen",
         "year": "2002",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Beware",
         "year": "2004",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Omniscient",
         "year": "2014",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "The God Machine",
         "year": "2019",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -4166,14 +4155,14 @@
         "name": "Pirate Scum",
         "year": "2016",
         "genres": [
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
         "name": "Beneath In The Cold",
         "year": "2019",
         "genres": [
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -4188,28 +4177,28 @@
         "name": "Guns Don't Cry",
         "year": "2021",
         "genres": [
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
         "name": "Nautic Force",
         "year": "2023",
         "genres": [
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
         "name": "Set The Sails",
         "year": "2025",
         "genres": [
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Acoustic",
       "Folk Rock",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -4521,7 +4510,7 @@
         "year": "2013",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -4529,13 +4518,13 @@
         "year": "2014",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -4834,22 +4823,22 @@
         "name": "An Olden Tale",
         "year": "2013",
         "genres": [
-          "Symphonic Folk",
-          "Celtic Death"
+          "Symphonic Folk Metal",
+          "Celtic Death Metal"
         ]
       },
       {
         "name": "The Iron Tempests",
         "year": "2015",
         "genres": [
-          "Symphonic Folk",
-          "Celtic Death"
+          "Symphonic Folk Metal",
+          "Celtic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Folk",
-      "Celtic Death"
+      "Symphonic Folk Metal",
+      "Celtic Death Metal"
     ]
   },
   {

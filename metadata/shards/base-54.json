@@ -867,7 +867,7 @@
         "year": "1991",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -875,7 +875,7 @@
         "year": "1994",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -883,7 +883,7 @@
         "year": "1995",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -891,7 +891,7 @@
         "year": "1996",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -900,7 +900,7 @@
         "year": "1997",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -909,7 +909,7 @@
         "year": "1998",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -918,7 +918,7 @@
         "year": "1999",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -927,7 +927,7 @@
         "year": "2001",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -936,7 +936,7 @@
         "year": "2004",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -945,7 +945,7 @@
         "year": "2006",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -954,7 +954,7 @@
         "year": "2009",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -963,7 +963,7 @@
         "year": "2010",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -972,7 +972,7 @@
         "year": "2012",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -981,7 +981,7 @@
         "year": "2013",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -990,7 +990,7 @@
         "year": "2014",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -999,7 +999,7 @@
         "year": "2017",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -1008,7 +1008,7 @@
         "year": "2017",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -1016,7 +1016,7 @@
         "name": "Under Duress",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1025,7 +1025,7 @@
         "year": "2018",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -1034,7 +1034,7 @@
         "year": "2021",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -1043,7 +1043,7 @@
         "year": "2026",
         "genres": [
           "Metalcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Mathcore"
         ]
       },
@@ -1051,17 +1051,15 @@
         "name": "Hum of Hurt",
         "year": "2026",
         "genres": [
-          "Metalcore",
-          "Metal"
+          "Metalcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Mathcore",
-      "Hardcore Metal",
-      "Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1256,19 +1254,19 @@
         "name": "Dead On",
         "year": "1989",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "All Four You",
         "year": "1991",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -1884,14 +1882,14 @@
         "name": "Eine Kleine Schlachtmusik",
         "year": "1990",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Blind Acceptance",
         "year": "1992",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       },
@@ -1899,7 +1897,7 @@
         "name": "Flesh To Dust",
         "year": "1994",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       },
@@ -1907,13 +1905,13 @@
         "name": "Dead Angels Abyss",
         "year": "2024",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash",
-      "Hardcore Metal",
+      "Groove Thrash Metal",
+      "Hardcore",
       "Crossover Thrash"
     ]
   },
@@ -2279,7 +2277,7 @@
         "year": "1998",
         "genres": [
           "Technical Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2287,7 +2285,7 @@
         "year": "2001",
         "genres": [
           "Technical Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2316,7 +2314,7 @@
         "year": "2013",
         "genres": [
           "Technical Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2324,13 +2322,13 @@
         "year": "2016",
         "genres": [
           "Technical Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Technical Death Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Death Metal"
     ]
   },
@@ -2686,47 +2684,47 @@
         "name": "Farewell",
         "year": "2020",
         "genres": [
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Haust",
         "year": "2020",
         "genres": [
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "The Insomniac Sessions",
         "year": "2021",
         "genres": [
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "We Lost Another Moon",
         "year": "2021",
         "genres": [
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Ashes Of The World Tree",
         "year": "2023",
         "genres": [
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "The Scars We Leave Behind",
         "year": "2023",
         "genres": [
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {
@@ -2832,13 +2830,15 @@
         "name": "Kakothanasy / Cyclothymia",
         "year": "2026",
         "genres": [
-          "Technical Brutal Death Metal | Death Metal",
+          "Technical Brutal Death Metal",
+          "Death Metal",
           "Grindcore"
         ]
       }
     ],
     "tags": [
-      "Technical Brutal Death Metal | Death Metal",
+      "Technical Brutal Death Metal",
+      "Death Metal",
       "Grindcore"
     ]
   },
@@ -3702,7 +3702,7 @@
         "year": "2001",
         "genres": [
           "Hard Rock",
-          "Post-grunge",
+          "Post-Grunge",
           "Rock"
         ]
       },
@@ -3758,7 +3758,7 @@
       "Rock",
       "Country Rock",
       "Pop Rock",
-      "Post-grunge",
+      "Post-Grunge",
       "Grunge"
     ]
   },
@@ -4160,26 +4160,26 @@
         "name": "The Reapers",
         "year": "2018",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Between The Altar And The Cross",
         "year": "2019",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Hell Fest",
         "year": "2021",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -4362,7 +4362,7 @@
         "genres": [
           "Funk / Soul",
           "Hip Hop",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       },
       {
@@ -4371,14 +4371,14 @@
         "genres": [
           "Funk / Soul",
           "Hip Hop",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
     "tags": [
       "Funk / Soul",
       "Hip Hop",
-      "Contemporary R&b"
+      "Contemporary R&B"
     ]
   },
   {

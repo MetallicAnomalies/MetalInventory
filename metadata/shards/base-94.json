@@ -203,7 +203,7 @@
         "name": "No Name",
         "year": "2019",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Nu Metal",
           "Metalcore"
         ]
@@ -220,7 +220,7 @@
         "name": "Shh",
         "year": "2023",
         "genres": [
-          "Synth Pop"
+          "Synth-pop"
         ]
       },
       {
@@ -235,8 +235,8 @@
     "tags": [
       "Metalcore",
       "Nu Metal",
-      "Synth Pop",
-      "Hardcore Metal"
+      "Synth-pop",
+      "Hardcore"
     ]
   },
   {
@@ -639,8 +639,7 @@
       }
     ],
     "tags": [
-      "Black Metal",
-      "Metal"
+      "Black Metal"
     ]
   },
   {
@@ -738,7 +737,7 @@
         "name": "Bad Brains",
         "year": "1982",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -746,7 +745,7 @@
         "name": "Rock For Light",
         "year": "1983",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -754,7 +753,7 @@
         "name": "I Against I",
         "year": "1986",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -763,7 +762,7 @@
         "name": "Quickness",
         "year": "1989",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -772,7 +771,7 @@
         "name": "Spirit Electricity",
         "year": "1991",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -781,7 +780,7 @@
         "name": "Rise",
         "year": "1993",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -790,7 +789,7 @@
         "name": "God Of Love",
         "year": "1995",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -799,7 +798,7 @@
         "name": "Omega Sessions",
         "year": "1997",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -808,7 +807,7 @@
         "name": "The Omega Sessions",
         "year": "1997",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -824,7 +823,7 @@
         "name": "Build A Nation",
         "year": "2007",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -833,14 +832,14 @@
         "name": "Into The Future",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
       "Alternative",
       "Dub"
@@ -854,54 +853,54 @@
         "name": "Bane",
         "year": "1996",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Free To Think, Free To Be",
         "year": "1997",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Holding This Moment",
         "year": "1998",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "It All Comes Down To This",
         "year": "1999",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Give Blood",
         "year": "2001",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "The Note",
         "year": "2005",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Don't Wait Up",
         "year": "2014",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -947,14 +946,14 @@
         "genres": [
           "Funk / Soul",
           "Hip Hop",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
     "tags": [
       "Funk / Soul",
       "Hip Hop",
-      "Contemporary R&b"
+      "Contemporary R&B"
     ]
   },
   {
@@ -969,7 +968,7 @@
           "Electronic",
           "Downtempo",
           "IDM",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -978,7 +977,7 @@
         "genres": [
           "Electronic",
           "Downtempo",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
@@ -986,7 +985,7 @@
       "Electronic",
       "Downtempo",
       "IDM",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -998,13 +997,13 @@
         "year": "2010",
         "genres": [
           "Screamo",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Screamo",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1112,19 +1111,19 @@
         "name": "Carthagods",
         "year": "2015",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "The Monster In Me",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -1416,7 +1415,7 @@
         "name": "Demande à La Poussière",
         "year": "2018",
         "genres": [
-          "Blackened Sludge",
+          "Blackened Sludge Metal",
           "Post-Metal"
         ]
       },
@@ -1424,7 +1423,7 @@
         "name": "Quiétude Hostile",
         "year": "2021",
         "genres": [
-          "Blackened Sludge",
+          "Blackened Sludge Metal",
           "Post-Metal"
         ]
       },
@@ -1432,13 +1431,13 @@
         "name": "Kintsugi",
         "year": "2024",
         "genres": [
-          "Blackened Sludge",
+          "Blackened Sludge Metal",
           "Post-Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Sludge",
+      "Blackened Sludge Metal",
       "Post-Metal"
     ]
   },
@@ -1516,12 +1515,12 @@
         "name": "The Boreal Flame",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -1590,7 +1589,7 @@
         "genres": [
           "Electronic",
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -1625,7 +1624,7 @@
     "tags": [
       "Atmospheric Black Metal",
       "Electronic",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -2026,7 +2025,7 @@
         "year": "2009",
         "genres": [
           "Technical Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -2037,7 +2036,7 @@
     ],
     "tags": [
       "Technical Death Metal",
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -2099,13 +2098,13 @@
         "name": "Unbounded",
         "year": "2017",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Nu Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Nu Metal"
     ]
   },
@@ -2180,7 +2179,7 @@
         "name": "Hexhammer",
         "year": "2017",
         "genres": [
-          "Black 'N Roll",
+          "Black 'n' Roll",
           "Speed Metal"
         ]
       },
@@ -2188,13 +2187,13 @@
         "name": "Sign Of Metal",
         "year": "2022",
         "genres": [
-          "Black 'N Roll",
+          "Black 'n' Roll",
           "Speed Metal"
         ]
       }
     ],
     "tags": [
-      "Black 'N Roll",
+      "Black 'n' Roll",
       "Speed Metal"
     ]
   },
@@ -2237,89 +2236,89 @@
         "name": "Tyrants",
         "year": "1983",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Ample Destruction",
         "year": "1984",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Dissident Alliance",
         "year": "1994",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "The Fourth Judgement",
         "year": "1997",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "The Age Of Mastery",
         "year": "1998",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Thane To The Throne",
         "year": "2000",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Mechanized Warfare",
         "year": "2001",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Casting The Stones",
         "year": "2004",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Chain Of Command",
         "year": "2004",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "The Scourge Of The Light",
         "year": "2011",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "The Deviant Chord",
         "year": "2017",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "The Hallowed",
         "year": "2023",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -2361,111 +2360,97 @@
         "name": "Von Den Winden Der Sehnsucht #2",
         "year": "2010",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Scherben",
         "year": "2011",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Apathie",
         "year": "2012",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Zu Asche",
         "year": "2012",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Malstrom",
         "year": "2014",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Weltenasche",
         "year": "2016",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Dornenvögel",
         "year": "2018",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Karg Unplugged",
         "year": "2018",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Resilienz",
         "year": "2020",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Traktat",
         "year": "2020",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Resignation",
         "year": "2022",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Trauerjahre",
         "year": "2024",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Marodeur",
         "year": "2025",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
       "Post-Black Metal",
-      "Black Metal",
-      "Post-black Metal"
+      "Black Metal"
     ]
   },
   {
@@ -2561,21 +2546,21 @@
         "name": "Legend",
         "year": "1981",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Death In The Nursery",
         "year": "1982",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Frontline",
         "year": "1982",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -2594,7 +2579,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal"
     ]
   },
@@ -3165,7 +3150,7 @@
         "year": "2023",
         "genres": [
           "Symphonic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3174,14 +3159,14 @@
         "year": "2023",
         "genres": [
           "Symphonic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Symphonic Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -3519,26 +3504,26 @@
         "name": "State Enemy",
         "year": "2007",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "2012",
         "year": "2010",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Dios?",
         "year": "2015",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -3864,13 +3849,13 @@
         "year": "1999",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -3892,7 +3877,7 @@
         "genres": [
           "Alternative Rock",
           "Electronic",
-          "Drum N Bass",
+          "Drum & Bass",
           "Rock"
         ]
       }
@@ -3900,7 +3885,7 @@
     "tags": [
       "Alternative Rock",
       "Electronic",
-      "Drum N Bass",
+      "Drum & Bass",
       "Rock",
       "Pop Punk"
     ]
@@ -3969,7 +3954,7 @@
         "year": "2020",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3977,7 +3962,7 @@
         "year": "2020",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3985,7 +3970,7 @@
         "year": "2020",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3993,13 +3978,13 @@
         "year": "2020",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -4010,7 +3995,7 @@
         "name": "Karin",
         "year": "2017",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Atmospheric Sludge Metal",
           "Black Metal"
         ]
@@ -4019,7 +4004,7 @@
         "name": "Reprieve",
         "year": "2019",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Atmospheric Sludge Metal",
           "Black Metal"
         ]
@@ -4028,7 +4013,7 @@
         "name": "{ }",
         "year": "2021",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Atmospheric Sludge Metal",
           "Black Metal"
         ]
@@ -4037,14 +4022,14 @@
         "name": "A Theft",
         "year": "2024",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Atmospheric Sludge Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Atmospheric Sludge Metal",
       "Black Metal"
     ]
@@ -4699,9 +4684,9 @@
         "genres": [
           "Jazz-rock",
           "Fusion",
-          "Ambient Metal",
+          "Ambient",
           "Contemporary Jazz",
-          "Experimental Metal",
+          "Experimental",
           "Electronic",
           "Jazz"
         ]
@@ -4712,9 +4697,9 @@
         "genres": [
           "Jazz-rock",
           "Fusion",
-          "Ambient Metal",
+          "Ambient",
           "Contemporary Jazz",
-          "Experimental Metal",
+          "Experimental",
           "Electronic",
           "Jazz"
         ]
@@ -4725,9 +4710,9 @@
         "genres": [
           "Jazz-rock",
           "Fusion",
-          "Ambient Metal",
+          "Ambient",
           "Contemporary Jazz",
-          "Experimental Metal",
+          "Experimental",
           "Electronic",
           "Jazz"
         ]
@@ -4736,9 +4721,9 @@
     "tags": [
       "Jazz-rock",
       "Fusion",
-      "Ambient Metal",
+      "Ambient",
       "Contemporary Jazz",
-      "Experimental Metal",
+      "Experimental",
       "Electronic",
       "Jazz"
     ]
@@ -4893,7 +4878,7 @@
         "name": "Preface To Erase",
         "year": "2007",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Metalcore"
         ]
       },
@@ -4901,7 +4886,7 @@
         "name": "The Evilution Of A Manimal",
         "year": "2008",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Metalcore"
         ]
       },
@@ -4909,7 +4894,7 @@
         "name": "Aggressive World Dynasty",
         "year": "2010",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Metalcore"
         ]
       },
@@ -4917,13 +4902,13 @@
         "name": "Ironclad",
         "year": "2014",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash",
+      "Technical Thrash Metal",
       "Metalcore"
     ]
   },
@@ -5006,14 +4991,14 @@
         "genres": [
           "Black Metal",
           "Unblack Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Black Metal",
       "Unblack Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -5024,16 +5009,16 @@
         "name": "Creatures",
         "year": "2024",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Alternative",
-          "Experimental Metal"
+          "Experimental"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde",
       "Alternative",
-      "Experimental Metal"
+      "Experimental"
     ]
   },
   {
@@ -5204,7 +5189,7 @@
         "name": "Nutro",
         "year": "2018",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Metal"
         ]
       },
@@ -5212,7 +5197,7 @@
         "name": "Zemlya",
         "year": "2018",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Metal"
         ]
       },
@@ -5220,13 +5205,13 @@
         "name": "Yarost' I Proshchenie",
         "year": "2020",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Metal"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Post-Metal"
     ]
   },
@@ -5352,13 +5337,13 @@
         "year": "2026",
         "genres": [
           "Folk Rock",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Folk Rock",
-      "Folk Metal"
+      "Folk"
     ]
   }
 ]

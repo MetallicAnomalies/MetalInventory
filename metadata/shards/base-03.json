@@ -65,7 +65,7 @@
           "Grunge",
           "Alternative Rock",
           "Shoegaze",
-          "Post Rock",
+          "Post-Rock",
           "Rock",
           "Stoner Rock"
         ]
@@ -77,7 +77,7 @@
           "Grunge",
           "Alternative Rock",
           "Shoegaze",
-          "Post Rock",
+          "Post-Rock",
           "Rock",
           "Stoner Rock"
         ]
@@ -90,7 +90,7 @@
       "Grunge",
       "Alternative Rock",
       "Shoegaze",
-      "Post Rock",
+      "Post-Rock",
       "Stoner Rock",
       "Rock"
     ]
@@ -229,14 +229,14 @@
         "name": "Fallen",
         "year": "2020",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Ii",
         "year": "2023",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
@@ -246,7 +246,7 @@
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -339,19 +339,19 @@
         "name": "Agressão Compulsiva",
         "year": "2009",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Forte Até A Morte",
         "year": "2013",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -392,7 +392,7 @@
           "Progressive Metal",
           "Thrash Metal",
           "Melodic Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -402,7 +402,7 @@
           "Progressive Metal",
           "Thrash Metal",
           "Melodic Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -410,7 +410,7 @@
         "year": "2018",
         "genres": [
           "Math Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Extreme Progressive Metal"
         ]
       },
@@ -421,7 +421,7 @@
           "Progressive Metal",
           "Thrash Metal",
           "Melodic Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -429,19 +429,19 @@
         "year": "2020",
         "genres": [
           "Math Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Extreme Progressive Metal"
         ]
       }
     ],
     "tags": [
       "Math Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Extreme Progressive Metal",
       "Progressive Metal",
       "Thrash Metal",
       "Melodic Death Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -1106,7 +1106,7 @@
         "name": "Instability",
         "year": "2020",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1116,7 +1116,7 @@
       }
     ],
     "tags": [
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1158,7 +1158,7 @@
         "name": "Faithful",
         "year": "1996",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       },
@@ -1166,7 +1166,7 @@
         "name": "Spiritualized D",
         "year": "2000",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       },
@@ -1174,7 +1174,7 @@
         "name": "Share",
         "year": "2002",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       },
@@ -1182,7 +1182,7 @@
         "name": "Searching Low & High",
         "year": "2005",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       },
@@ -1190,7 +1190,7 @@
         "name": "Mysterious Views In Stone Garden",
         "year": "2008",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       },
@@ -1198,7 +1198,7 @@
         "name": "Within The Triad",
         "year": "2009",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       },
@@ -1206,7 +1206,7 @@
         "name": "Highflyer",
         "year": "2012",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       },
@@ -1214,13 +1214,13 @@
         "name": "Resonance Of Shadows",
         "year": "2016",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Doom",
+      "Psychedelic Doom Metal",
       "Stoner Metal"
     ]
   },
@@ -1485,7 +1485,7 @@
         "name": "Other Crimes & Misdemeanours, Pts. Ii & Iii",
         "year": "2008",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -1527,7 +1527,6 @@
     ],
     "tags": [
       "Progressive Rock",
-      "Prog Rock",
       "Rock"
     ]
   },
@@ -1744,7 +1743,7 @@
         "year": "2015",
         "genres": [
           "Death Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -1776,7 +1775,7 @@
       "Progressive Metal",
       "Djent",
       "Death Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -1844,12 +1843,12 @@
         "name": "Strength",
         "year": "2000",
         "genres": [
-          "Gothic Black"
+          "Gothic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Gothic Black"
+      "Gothic Black Metal"
     ]
   },
   {
@@ -1953,7 +1952,7 @@
         "name": "Last Days",
         "year": "2012",
         "genres": [
-          "Experimental Death",
+          "Experimental Death Metal",
           "Groove Metal"
         ]
       },
@@ -1961,13 +1960,13 @@
         "name": "Engur",
         "year": "2014",
         "genres": [
-          "Experimental Death",
+          "Experimental Death Metal",
           "Groove Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Death",
+      "Experimental Death Metal",
       "Groove Metal"
     ]
   },
@@ -1995,33 +1994,33 @@
         "name": "Krom",
         "year": "2003",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Trough The Looking Glass",
         "year": "2003",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Kailash",
         "year": "2006",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Past Changing Fast",
         "year": "2009",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -2269,14 +2268,14 @@
         "year": "2019",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Black Metal",
       "Ritual Ambient",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -2420,15 +2419,13 @@
         "year": "2026",
         "genres": [
           "Death Metal",
-          "Melodic Death Metal",
-          "Metal"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Melodic Death Metal",
-      "Metal"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -2464,12 +2461,12 @@
           "Electronic",
           "Trance",
           "Jazz",
-          "Ambient Metal",
+          "Ambient",
           "Pop",
           "New Wave",
           "Rock",
           "Soft Rock",
-          "Rhythm And Blues"
+          "Rhythm & Blues"
         ]
       },
       {
@@ -2488,11 +2485,11 @@
       "Electronic",
       "Trance",
       "Jazz",
-      "Ambient Metal",
+      "Ambient",
       "Pop",
       "New Wave",
       "Soft Rock",
-      "Rhythm And Blues"
+      "Rhythm & Blues"
     ]
   },
   {
@@ -2695,7 +2692,7 @@
         "year": "2017",
         "genres": [
           "Electronic",
-          "Drum N Bass"
+          "Drum & Bass"
         ]
       }
     ],
@@ -2703,7 +2700,7 @@
       "Black Metal",
       "Folk Metal",
       "Electronic",
-      "Drum N Bass",
+      "Drum & Bass",
       "Symphonic Metal"
     ]
   },
@@ -2922,7 +2919,7 @@
         "name": "Periphery",
         "year": "2010",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -2930,11 +2927,11 @@
         "name": "Periphery Ii: This Time Its Personal",
         "year": "2010",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent",
           "Math Rock",
           "Electronic",
-          "Prog Rock",
+          "Progressive Rock",
           "Death Metal"
         ]
       },
@@ -2950,7 +2947,7 @@
         "name": "Icarus Ep",
         "year": "2011",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -2959,7 +2956,7 @@
         "year": "2012",
         "genres": [
           "Heavy Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -2967,14 +2964,14 @@
         "year": "2012",
         "genres": [
           "Heavy Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
         "name": "Clear",
         "year": "2014",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -2984,7 +2981,7 @@
         "genres": [
           "Math Rock",
           "Electronic",
-          "Prog Rock",
+          "Progressive Rock",
           "Death Metal"
         ]
       },
@@ -3008,7 +3005,7 @@
         "name": "Juggernaut: Alpha & Omega",
         "year": "2015",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -3032,7 +3029,7 @@
         "name": "Periphery Iii: Select Difficulty",
         "year": "2016",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -3061,7 +3058,7 @@
         "name": "Periphery Iv: Hail Stan",
         "year": "2019",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -3069,7 +3066,7 @@
         "name": "Periphery V: Djent Is Not A Genre",
         "year": "2023",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -3099,14 +3096,14 @@
       }
     ],
     "tags": [
-      "Progressive Math",
+      "Progressive Math Metal",
       "Djent",
       "Acoustic",
       "Progressive Metal",
       "Electronic",
       "Mathcore",
       "Heavy Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Math Rock",
       "Death Metal",
       "Metalcore",
@@ -3123,7 +3120,7 @@
         "year": "2008",
         "genres": [
           "Pop Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock",
           "Folk Rock",
           "Garage Rock"
@@ -3132,7 +3129,7 @@
     ],
     "tags": [
       "Pop Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock",
       "Folk Rock",
       "Garage Rock"
@@ -3382,7 +3379,7 @@
         "name": "Revenge Is Personal",
         "year": "2008",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Metalcore"
         ]
       },
@@ -3390,7 +3387,7 @@
         "name": "The Ruin Of Man",
         "year": "2009",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Metalcore"
         ]
       },
@@ -3415,7 +3412,7 @@
     "tags": [
       "Metalcore",
       "Alternative",
-      "Gothenburg",
+      "Melodic Death Metal",
       "Nu Metal"
     ]
   },
@@ -3601,13 +3598,13 @@
         "name": "The Divine Comedy: Inferno",
         "year": "2021",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Neoclassical Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Neoclassical Metal"
     ]
   },
@@ -4443,7 +4440,7 @@
         "year": "2023",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -4451,7 +4448,7 @@
         "year": "2023",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -4459,7 +4456,7 @@
         "year": "2023",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -4467,7 +4464,7 @@
         "year": "2023",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -4475,13 +4472,13 @@
         "year": "2025",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -4799,7 +4796,7 @@
           "Black Metal",
           "Doom Metal",
           "Progressive Metal",
-          "Prog Rock",
+          "Progressive Rock",
           "Atmospheric Black Metal",
           "Progressive Black Metal"
         ]
@@ -4826,7 +4823,7 @@
       "Black Metal",
       "Doom Metal",
       "Progressive Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Atmospheric Black Metal",
       "Death Metal",
       "Progressive Black Metal"

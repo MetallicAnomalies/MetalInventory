@@ -61,7 +61,6 @@
       }
     ],
     "tags": [
-      "Metal",
       "Black Metal"
     ]
   },
@@ -133,12 +132,12 @@
         "name": "Land Of Light",
         "year": "2017",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Power"
+      "Melodic Power Metal"
     ]
   },
   {
@@ -448,14 +447,14 @@
         "year": "2005",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Beauty & The Breakdown",
         "year": "2006",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -491,7 +490,7 @@
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal",
+      "Hardcore",
       "Nu Metal"
     ]
   },
@@ -923,12 +922,12 @@
         "name": "Bathed In Venom",
         "year": "2019",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1046,33 +1045,33 @@
         "name": "Seven Sins",
         "year": "2008",
         "genres": [
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
         "name": "La Muerte",
         "year": "2015",
         "genres": [
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
         "name": "Portal",
         "year": "2019",
         "genres": [
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
         "name": "R'lyeh",
         "year": "2023",
         "genres": [
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Doom"
+      "Melodic Doom Metal"
     ]
   },
   {
@@ -1122,7 +1121,7 @@
         "name": "I",
         "year": "2011",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Rock"
         ]
       },
@@ -1130,7 +1129,7 @@
         "name": "Hectop",
         "year": "2012",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Rock"
         ]
       },
@@ -1151,7 +1150,7 @@
     ],
     "tags": [
       "Post-Metal",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Post-Rock"
     ]
   },
@@ -1195,19 +1194,19 @@
         "name": "One",
         "year": "2009",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Unlimited Edition",
         "year": "2011",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -1257,7 +1256,7 @@
         "name": "The Armor Of Ire",
         "year": "2016",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -1265,7 +1264,7 @@
         "name": "Parallel Of Death",
         "year": "2017",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -1273,13 +1272,13 @@
         "name": "Ravening Iron",
         "year": "2020",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Heavy Metal"
     ]
   },
@@ -1979,7 +1978,7 @@
           "Doom Metal",
           "Folk Metal",
           "Progressive Metal",
-          "Post Rock",
+          "Post-Rock",
           "Post-Metal"
         ]
       },
@@ -2015,7 +2014,7 @@
         "year": "2024",
         "genres": [
           "Progressive Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       }
     ],
@@ -2025,7 +2024,7 @@
       "Folk Metal",
       "Progressive Metal",
       "Post-Metal",
-      "Post Rock"
+      "Post-Rock"
     ]
   },
   {
@@ -2244,7 +2243,7 @@
         "year": "2019",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -2292,7 +2291,7 @@
       "Alternative",
       "Nu Metal",
       "Metalcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -2357,13 +2356,13 @@
         "name": "Overlord's Perpetual",
         "year": "2005",
         "genres": [
-          "Neoclassical Power",
+          "Neoclassical Power Metal",
           "Shred"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Power",
+      "Neoclassical Power Metal",
       "Shred"
     ]
   },
@@ -2541,26 +2540,26 @@
         "name": "The Cosmocinesy",
         "year": "2009",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "The Phantonauts",
         "year": "2014",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "The Anastoria",
         "year": "2019",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -2671,26 +2670,26 @@
         "name": "Refuge Denied",
         "year": "1987",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Into The Mirror Black",
         "year": "1990",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "The Year The Sun Died",
         "year": "2014",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -2749,7 +2748,7 @@
         "year": "2011",
         "genres": [
           "Djent",
-          "Progressive Math"
+          "Progressive Math Metal"
         ]
       },
       {
@@ -2757,7 +2756,7 @@
         "year": "2011",
         "genres": [
           "Djent",
-          "Progressive Math"
+          "Progressive Math Metal"
         ]
       },
       {
@@ -2765,7 +2764,7 @@
         "year": "2011",
         "genres": [
           "Djent",
-          "Progressive Math"
+          "Progressive Math Metal"
         ]
       },
       {
@@ -2773,7 +2772,7 @@
         "year": "2012",
         "genres": [
           "Djent",
-          "Progressive Math"
+          "Progressive Math Metal"
         ]
       },
       {
@@ -2781,7 +2780,7 @@
         "year": "2013",
         "genres": [
           "Djent",
-          "Progressive Math"
+          "Progressive Math Metal"
         ]
       },
       {
@@ -2789,7 +2788,7 @@
         "year": "2014",
         "genres": [
           "Djent",
-          "Progressive Math"
+          "Progressive Math Metal"
         ]
       },
       {
@@ -2797,13 +2796,13 @@
         "year": "2016",
         "genres": [
           "Djent",
-          "Progressive Math"
+          "Progressive Math Metal"
         ]
       }
     ],
     "tags": [
       "Djent",
-      "Progressive Math"
+      "Progressive Math Metal"
     ]
   },
   {
@@ -2851,21 +2850,21 @@
         "name": "From Dead-end Street",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Of Lost Things",
         "year": "2020",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Melodic Hardcore",
       "Punk",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2878,7 +2877,7 @@
         "year": "2014",
         "genres": [
           "Black Metal",
-          "Ambient Metal",
+          "Ambient",
           "Viking Metal",
           "Electronic"
         ]
@@ -2909,7 +2908,7 @@
         "year": "2016",
         "genres": [
           "Black Metal",
-          "Ambient Metal",
+          "Ambient",
           "Electronic",
           "Folk Metal"
         ]
@@ -2925,7 +2924,7 @@
     ],
     "tags": [
       "Black Metal",
-      "Ambient Metal",
+      "Ambient",
       "Viking Metal",
       "Electronic",
       "Folk Metal",
@@ -2963,19 +2962,19 @@
         "name": "Embrace The Dark - Seek The Light",
         "year": "2019",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Time Out Of Place",
         "year": "2025",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -2987,7 +2986,7 @@
         "year": "2011",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2995,7 +2994,7 @@
         "year": "2013",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3003,7 +3002,7 @@
         "year": "2019",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3011,13 +3010,13 @@
         "year": "2024",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Crossover Thrash",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3077,7 +3076,7 @@
         "year": "2013",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -3085,7 +3084,7 @@
     ],
     "tags": [
       "Art Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Psychedelic Rock",
       "Rock"
     ]
@@ -3495,7 +3494,7 @@
         "name": "The Last Days Of Gravity",
         "year": "2007",
         "genres": [
-          "Ambient Metal",
+          "Ambient",
           "Psychedelic Rock",
           "Electronic",
           "Downtempo",
@@ -3507,19 +3506,19 @@
         "year": "2011",
         "genres": [
           "Electronic",
-          "Psy-trance",
+          "Psytrance",
           "Downtempo",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
-      "Ambient Metal",
+      "Ambient",
       "Psychedelic Rock",
       "Electronic",
       "Downtempo",
       "Rock",
-      "Psy-trance"
+      "Psytrance"
     ]
   },
   {

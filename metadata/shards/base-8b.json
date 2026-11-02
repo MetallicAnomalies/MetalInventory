@@ -295,19 +295,19 @@
         "name": "12 Winter Moons Comes The Witches Brew",
         "year": "2018",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Clarity Came With A Cool Summer's Breeze",
         "year": "2022",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Black",
+      "Experimental Black Metal",
       "Symphonic Black Metal"
     ]
   },
@@ -878,7 +878,7 @@
         "name": "Consolidated Reality Fragments",
         "year": "2005",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal",
           "Math Rock"
         ]
@@ -887,14 +887,14 @@
         "name": "Perspective",
         "year": "2007",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal",
           "Math Rock"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Heavy Metal",
       "Math Rock"
     ]
@@ -932,61 +932,61 @@
         "name": "Spiritual Battle",
         "year": "2000",
         "genres": [
-          "Technical Black"
+          "Technical Black Metal"
         ]
       },
       {
         "name": "Anamorphosis",
         "year": "2003",
         "genres": [
-          "Technical Black"
+          "Technical Black Metal"
         ]
       },
       {
         "name": "Welterwerk",
         "year": "2006",
         "genres": [
-          "Technical Black"
+          "Technical Black Metal"
         ]
       },
       {
         "name": "Stratum",
         "year": "2013",
         "genres": [
-          "Technical Black"
+          "Technical Black Metal"
         ]
       },
       {
         "name": "Monolith I",
         "year": "2017",
         "genres": [
-          "Technical Black"
+          "Technical Black Metal"
         ]
       },
       {
         "name": "Monolith Ii",
         "year": "2018",
         "genres": [
-          "Technical Black"
+          "Technical Black Metal"
         ]
       },
       {
         "name": "Monolith Iii",
         "year": "2018",
         "genres": [
-          "Technical Black"
+          "Technical Black Metal"
         ]
       },
       {
         "name": "Monolith",
         "year": "2019",
         "genres": [
-          "Technical Black"
+          "Technical Black Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Black"
+      "Technical Black Metal"
     ]
   },
   {
@@ -1201,33 +1201,33 @@
         "name": "Sunrise",
         "year": "2013",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Dark Ages",
         "year": "2015",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "The Art Of Peace",
         "year": "2017",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "The Harbour In Me",
         "year": "2021",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -1318,33 +1318,33 @@
         "name": "The Journey",
         "year": "2006",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Quest Of Forgiveness",
         "year": "2008",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Obscure Illusions",
         "year": "2015",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "The Human Race Extinction",
         "year": "2018",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -1557,13 +1557,13 @@
         "name": "Airut:aamujen",
         "year": "2004",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Neofolk"
         ]
       }
     ],
     "tags": [
-      "Folk Metal",
+      "Folk",
       "Neofolk"
     ]
   },
@@ -1765,12 +1765,12 @@
         "name": "Early Warning",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       }
     ],
     "tags": [
-      "New Wave Of British Heavy"
+      "NWOBHM"
     ]
   },
   {
@@ -2494,14 +2494,14 @@
         "year": "2026",
         "genres": [
           "Atmospheric Black Death Metal",
-          "Doom Death Metal",
+          "Death Doom Metal",
           "Death Metal"
         ]
       }
     ],
     "tags": [
       "Atmospheric Black Death Metal",
-      "Doom Death Metal",
+      "Death Doom Metal",
       "Death Metal"
     ]
   },
@@ -2798,7 +2798,7 @@
         "genres": [
           "Jazz",
           "Fusion",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
@@ -2806,7 +2806,7 @@
     "tags": [
       "Jazz",
       "Fusion",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -2823,7 +2823,7 @@
         "year": "1997",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Electronic",
           "Downtempo",
           "Synth-pop",
@@ -2834,7 +2834,7 @@
         "name": "No Strings Attached",
         "year": "2000",
         "genres": [
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Electronic",
           "Ballad",
           "Synth-pop",
@@ -2847,8 +2847,8 @@
         "year": "2001",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b",
-          "Electro Metal",
+          "Contemporary R&B",
+          "Electro",
           "Electronic",
           "Ballad",
           "Pop"
@@ -2857,9 +2857,9 @@
     ],
     "tags": [
       "Ballad",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Downtempo",
-      "Electro Metal",
+      "Electro",
       "Electronic",
       "Funk / Soul",
       "Hip Hop",
@@ -2875,16 +2875,14 @@
         "name": "Deviere",
         "year": "2023",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Idle Cage",
         "year": "2024",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
@@ -2894,8 +2892,7 @@
       }
     ],
     "tags": [
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {
@@ -3422,13 +3419,13 @@
         "name": "Blue Streak",
         "year": "2006",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Shred"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Heavy",
+      "Neoclassical Heavy Metal",
       "Shred"
     ]
   },
@@ -3495,19 +3492,19 @@
         "name": "Starlit Tapestry",
         "year": "2024",
         "genres": [
-          "Symphonic  Black"
+          "Symphonic Black Metal"
         ]
       },
       {
         "name": "Celestial Twilight: Beyond The Scarlet Veil",
         "year": "2025",
         "genres": [
-          "Symphonic  Black"
+          "Symphonic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic  Black"
+      "Symphonic Black Metal"
     ]
   },
   {
@@ -3798,7 +3795,7 @@
         "year": "2014",
         "genres": [
           "Progressive Metal",
-          "J-rock"
+          "J-Rock"
         ]
       },
       {
@@ -3806,7 +3803,7 @@
         "year": "2015",
         "genres": [
           "Progressive Metal",
-          "J-rock"
+          "J-Rock"
         ]
       },
       {
@@ -3814,7 +3811,7 @@
         "year": "2017",
         "genres": [
           "Progressive Metal",
-          "J-rock"
+          "J-Rock"
         ]
       },
       {
@@ -3822,13 +3819,13 @@
         "year": "2019",
         "genres": [
           "Progressive Metal",
-          "J-rock"
+          "J-Rock"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "J-rock"
+      "J-Rock"
     ]
   },
   {
@@ -3839,12 +3836,12 @@
         "name": "Tales From The Unknown",
         "year": "2016",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -4866,7 +4863,7 @@
         "name": "Spirit Bird",
         "year": "2012",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Folk, World, & Country",
           "Folk Rock",
           "Aboriginal"
@@ -4874,7 +4871,7 @@
       }
     ],
     "tags": [
-      "Folk Metal",
+      "Folk",
       "Folk, World, & Country",
       "Folk Rock",
       "Aboriginal"

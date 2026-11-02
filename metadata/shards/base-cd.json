@@ -48,7 +48,7 @@
           "Black Metal",
           "Experimental Metal",
           "Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -71,7 +71,7 @@
       "Black Metal",
       "Experimental Metal",
       "Death Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -82,7 +82,7 @@
         "name": "Shadowy Peripherals",
         "year": "2021",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
@@ -92,7 +92,7 @@
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -337,19 +337,19 @@
         "name": "Awaken",
         "year": "2012",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Out Of The Shadows",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -585,7 +585,7 @@
         "name": "The Fallout",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -608,7 +608,7 @@
         "year": "2019",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -617,15 +617,15 @@
         "genres": [
           "Alternative Rock",
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
       "Metalcore",
-      "Post-hardcore",
-      "Hardcore Metal"
+      "Post-Hardcore",
+      "Hardcore"
     ]
   },
   {
@@ -638,13 +638,13 @@
         "year": "2007",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -740,13 +740,13 @@
         "name": "Aesthesis",
         "year": "2015",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Rock",
       "Alternative Rock"
     ]
@@ -1206,7 +1206,7 @@
         "genres": [
           "Electronic",
           "Metalcore",
-          "Electro Metal"
+          "Electro"
         ]
       },
       {
@@ -1215,7 +1215,7 @@
         "genres": [
           "Electronic",
           "Metalcore",
-          "Electro Metal"
+          "Electro"
         ]
       },
       {
@@ -1230,7 +1230,7 @@
       "Electronic Rock",
       "Electronic",
       "Metalcore",
-      "Electro Metal"
+      "Electro"
     ]
   },
   {
@@ -1325,19 +1325,19 @@
         "name": "Aphotic Veil",
         "year": "2015",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "Solve Et Coagula",
         "year": "2020",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death"
+      "Death Doom Metal"
     ]
   },
   {
@@ -1402,13 +1402,13 @@
         "name": "Mirage",
         "year": "2024",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -1740,7 +1740,7 @@
         "name": "Light In The Dark",
         "year": "2004",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -1748,7 +1748,7 @@
         "name": "Unconditional",
         "year": "2014",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -1756,13 +1756,13 @@
         "name": "Daggers And Dragons",
         "year": "2018",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -1808,7 +1808,7 @@
         "year": "2006",
         "genres": [
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1816,7 +1816,7 @@
         "year": "2007",
         "genres": [
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1824,13 +1824,13 @@
         "year": "2012",
         "genres": [
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1924,8 +1924,8 @@
         "year": "2014",
         "genres": [
           "Blues",
-          "Folk Metal",
-          "Country Metal",
+          "Folk",
+          "Country",
           "Folk, World, & Country",
           "Folk Rock"
         ]
@@ -1933,8 +1933,8 @@
     ],
     "tags": [
       "Blues",
-      "Folk Metal",
-      "Country Metal",
+      "Folk",
+      "Country",
       "Folk, World, & Country",
       "Folk Rock"
     ]
@@ -1955,7 +1955,7 @@
         "name": "The Essential Journey",
         "year": "1975",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2095,8 +2095,7 @@
       "Progressive Rock",
       "Classic Rock",
       "Arena Rock",
-      "Rock",
-      "Prog Rock"
+      "Rock"
     ]
   },
   {
@@ -2174,13 +2173,13 @@
         "year": "2012",
         "genres": [
           "Progressive Death Metal",
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Death Metal",
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -2238,7 +2237,7 @@
         "year": "2019",
         "genres": [
           "Doom Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2246,13 +2245,13 @@
         "year": "2020",
         "genres": [
           "Doom Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -2785,12 +2784,12 @@
         "name": "Missing In Action",
         "year": "1986",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -3421,8 +3420,8 @@
         "genres": [
           "Math Metal",
           "Progressive Metalcore",
-          "Hardcore Metal",
-          "Prog Rock",
+          "Hardcore",
+          "Progressive Rock",
           "Math Rock"
         ]
       },
@@ -3438,7 +3437,7 @@
         "name": "The Trees Are Dead & Dried Out Wait For Something Wild",
         "year": "2003",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal",
           "Math Rock",
           "Experimental Metal"
@@ -3456,7 +3455,7 @@
         "name": "Trees Are Dead & Dried Out Wait For Something Wild",
         "year": "2003",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal",
           "Math Rock",
           "Experimental Metal"
@@ -3506,8 +3505,8 @@
     "tags": [
       "Math Metal",
       "Progressive Metalcore",
-      "Hardcore Metal",
-      "Prog Rock",
+      "Hardcore",
+      "Progressive Rock",
       "Math Rock",
       "Heavy Metal",
       "Progressive Metal",
@@ -3522,40 +3521,40 @@
         "name": "The War Is Here",
         "year": "2018",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "The Circles Of Hell",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Holy Land Of Fire And Ice",
         "year": "2020",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Empire Of Sins",
         "year": "2021",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Utopia",
         "year": "2024",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -3566,19 +3565,19 @@
         "name": "The Perfect Harmony For Doomsday",
         "year": "2013",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Bullet",
         "year": "2014",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -4317,7 +4316,7 @@
         "year": "2004",
         "genres": [
           "Death Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -4325,7 +4324,7 @@
         "year": "2007",
         "genres": [
           "Death Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -4333,13 +4332,13 @@
         "year": "2011",
         "genres": [
           "Death Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -4401,7 +4400,7 @@
         "name": "Weedpecker",
         "year": "2013",
         "genres": [
-          "Psychedelic Stoner",
+          "Psychedelic Stoner Metal",
           "Grunge"
         ]
       },
@@ -4409,7 +4408,7 @@
         "name": "Ii",
         "year": "2015",
         "genres": [
-          "Psychedelic Stoner",
+          "Psychedelic Stoner Metal",
           "Grunge"
         ]
       },
@@ -4417,7 +4416,7 @@
         "name": "Iii",
         "year": "2018",
         "genres": [
-          "Psychedelic Stoner",
+          "Psychedelic Stoner Metal",
           "Grunge"
         ]
       },
@@ -4425,7 +4424,7 @@
         "name": "Iv: The Stream Of Forgotten Thoughts",
         "year": "2021",
         "genres": [
-          "Psychedelic Stoner",
+          "Psychedelic Stoner Metal",
           "Grunge"
         ]
       },
@@ -4433,13 +4432,13 @@
         "name": "V",
         "year": "2026",
         "genres": [
-          "Psychedelic Stoner",
+          "Psychedelic Stoner Metal",
           "Grunge"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Stoner",
+      "Psychedelic Stoner Metal",
       "Grunge"
     ]
   },
@@ -4528,12 +4527,12 @@
         "name": "Edge Of The World",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       }
     ],
     "tags": [
-      "New Wave Of British Heavy"
+      "NWOBHM"
     ]
   },
   {

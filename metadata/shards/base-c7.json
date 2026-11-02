@@ -403,7 +403,7 @@
         "year": "2004",
         "genres": [
           "Instrumental",
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
@@ -431,7 +431,7 @@
     "tags": [
       "Power Metal",
       "Instrumental",
-      "Neoclassical Power"
+      "Neoclassical Power Metal"
     ]
   },
   {
@@ -774,7 +774,7 @@
         "genres": [
           "Heavy Metal",
           "Space Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Hard Rock"
         ]
       },
@@ -879,7 +879,7 @@
       "Hard Rock",
       "Heavy Metal",
       "Space Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Psychedelic Rock",
       "Blues Rock",
       "Rock & Roll",
@@ -906,7 +906,7 @@
         "year": "1967",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal",
+          "Folk",
           "Blues",
           "Country Blues"
         ]
@@ -916,7 +916,7 @@
         "year": "1967",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -952,7 +952,7 @@
           "Folk, World, & Country",
           "Blues",
           "Country Blues",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -962,7 +962,7 @@
           "Folk, World, & Country",
           "Blues",
           "Country Blues",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -1011,7 +1011,7 @@
           "Folk Rock",
           "Acoustic",
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -1039,7 +1039,7 @@
         "genres": [
           "Acoustic",
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -1064,7 +1064,7 @@
         "year": "1991",
         "genres": [
           "Psychedelic Rock",
-          "Folk Metal",
+          "Folk",
           "Blues Rock",
           "Folk, World, & Country",
           "Folk Rock"
@@ -1076,7 +1076,7 @@
         "genres": [
           "Country Rock",
           "Folk, World, & Country",
-          "Country Metal",
+          "Country",
           "Rock"
         ]
       },
@@ -1085,7 +1085,7 @@
         "year": "1993",
         "genres": [
           "Blues",
-          "Folk Metal",
+          "Folk",
           "Folk, World, & Country",
           "Folk Rock"
         ]
@@ -1178,7 +1178,7 @@
       "Folk, World, & Country",
       "Blues",
       "Country Blues",
-      "Folk Metal",
+      "Folk",
       "Harmonica Blues",
       "Blues Rock",
       "Folk Rock",
@@ -1186,7 +1186,7 @@
       "Pop Rock",
       "Classic Rock",
       "Country Rock",
-      "Country Metal",
+      "Country",
       "Rockabilly",
       "Pop",
       "Ballad",
@@ -1304,7 +1304,7 @@
         "year": "2011",
         "genres": [
           "Heavy Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1395,7 +1395,7 @@
     "tags": [
       "Metalcore",
       "Heavy Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1874,16 +1874,18 @@
         "name": "Sunthema",
         "year": "2026",
         "genres": [
-          "Black Death Metal | Avant-garde Black Metal",
-          "Funeral Doom Metal | Black Death Metal | Avant-garde Black Metal",
-          "Death Metal | Avant-garde Black Metal"
+          "Black Death Metal",
+          "Avant-garde Black Metal",
+          "Funeral Doom Metal",
+          "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Black Death Metal | Avant-garde Black Metal",
-      "Funeral Doom Metal | Black Death Metal | Avant-garde Black Metal",
-      "Death Metal | Avant-garde Black Metal"
+      "Black Death Metal",
+      "Avant-garde Black Metal",
+      "Funeral Doom Metal",
+      "Death Metal"
     ]
   },
   {
@@ -2085,12 +2087,12 @@
         "name": "Dominate And Overload",
         "year": "2010",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -2132,7 +2134,7 @@
         "year": "2026",
         "genres": [
           "Experimental Noise",
-          "Harsh Noise Noise",
+          "Harsh Noise",
           "Drone",
           "Black Metal",
           "Noise"
@@ -2141,7 +2143,7 @@
     ],
     "tags": [
       "Experimental Noise",
-      "Harsh Noise Noise",
+      "Harsh Noise",
       "Drone",
       "Black Metal",
       "Noise"
@@ -2488,7 +2490,7 @@
         "year": "1986",
         "genres": [
           "Heavy Metal",
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -2497,7 +2499,7 @@
         "year": "1988",
         "genres": [
           "Heavy Metal",
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -2506,7 +2508,7 @@
         "year": "2012",
         "genres": [
           "Heavy Metal",
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -2515,14 +2517,14 @@
         "year": "2017",
         "genres": [
           "Heavy Metal",
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power",
+      "US Power Metal",
       "Thrash Metal"
     ]
   },
@@ -2601,8 +2603,7 @@
         "year": "2022",
         "genres": [
           "Post-Metal",
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
@@ -2610,15 +2611,13 @@
         "year": "2024",
         "genres": [
           "Post-Metal",
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
       "Post-Metal",
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {
@@ -2867,7 +2866,7 @@
         "name": "Perpetual Burn",
         "year": "1988",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal"
         ]
       },
@@ -2875,7 +2874,7 @@
         "name": "Perspective",
         "year": "1996",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal"
         ]
       },
@@ -2883,13 +2882,13 @@
         "name": "Triumphant Hearts",
         "year": "2018",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Heavy",
+      "Neoclassical Heavy Metal",
       "Progressive Metal"
     ]
   },
@@ -2901,7 +2900,7 @@
         "name": "Bones",
         "year": "2013",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -2909,7 +2908,7 @@
         "name": "Grand Intentions",
         "year": "2014",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -2917,7 +2916,7 @@
         "name": "World War X",
         "year": "2017",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -2925,7 +2924,7 @@
         "name": "Afterglow",
         "year": "2019",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -2933,13 +2932,13 @@
         "name": "Empyrean",
         "year": "2024",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -3328,7 +3327,7 @@
         "name": "The Ordeal",
         "year": "2021",
         "genres": [
-          "Epic Heavy",
+          "Epic Heavy Metal",
           "Power Metal"
         ]
       },
@@ -3336,13 +3335,13 @@
         "name": "Lord Goblin",
         "year": "2024",
         "genres": [
-          "Epic Heavy",
+          "Epic Heavy Metal",
           "Power Metal"
         ]
       }
     ],
     "tags": [
-      "Epic Heavy",
+      "Epic Heavy Metal",
       "Power Metal"
     ]
   },
@@ -3514,7 +3513,7 @@
         "name": "Live At W:o:a",
         "year": "2024",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Rock"
         ]
       },
@@ -3523,7 +3522,7 @@
         "year": "2025",
         "genres": [
           "Gothic Metal",
-          "Goth Rock"
+          "Gothic Rock"
         ]
       },
       {
@@ -3546,7 +3545,7 @@
     "tags": [
       "Gothic Metal",
       "Industrial Metal",
-      "Goth Rock",
+      "Gothic Rock",
       "Rock"
     ]
   },
@@ -3818,76 +3817,76 @@
         "name": "Presence",
         "year": "2017",
         "genres": [
-          "Electronic Black"
+          "Electronic Black Metal"
         ]
       },
       {
         "name": "Coma Wall",
         "year": "2018",
         "genres": [
-          "Electronic Black"
+          "Electronic Black Metal"
         ]
       },
       {
         "name": "The Density Parameter",
         "year": "2018",
         "genres": [
-          "Electronic Black"
+          "Electronic Black Metal"
         ]
       },
       {
         "name": "Ghost Condensate",
         "year": "2019",
         "genres": [
-          "Electronic Black"
+          "Electronic Black Metal"
         ]
       },
       {
         "name": "Planet Nine",
         "year": "2020",
         "genres": [
-          "Electronic Black"
+          "Electronic Black Metal"
         ]
       },
       {
         "name": "The Degenerate Era",
         "year": "2020",
         "genres": [
-          "Electronic Black"
+          "Electronic Black Metal"
         ]
       },
       {
         "name": "Clg J02182-05102",
         "year": "2021",
         "genres": [
-          "Electronic Black"
+          "Electronic Black Metal"
         ]
       },
       {
         "name": "Vacuum Solution",
         "year": "2021",
         "genres": [
-          "Electronic Black"
+          "Electronic Black Metal"
         ]
       },
       {
         "name": "Arrival",
         "year": "2023",
         "genres": [
-          "Electronic Black"
+          "Electronic Black Metal"
         ]
       },
       {
         "name": "Anthropic Bias / Departure",
         "year": "2024",
         "genres": [
-          "Electronic Black"
+          "Electronic Black Metal"
         ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Electronic Black"
+      "Electronic Black Metal"
     ]
   },
   {
@@ -4032,42 +4031,42 @@
         "name": "The Water Sprite",
         "year": "2005",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "The Grimalkin",
         "year": "2006",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "The Minstrel's Curse",
         "year": "2008",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "Carol Stones And Elder Rock",
         "year": "2018",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "Waltzing In Obscurity",
         "year": "2019",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "The White Lady",
         "year": "2021",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
@@ -4081,7 +4080,7 @@
       }
     ],
     "tags": [
-      "Progressive Doom",
+      "Progressive Doom Metal",
       "Progressive Rock",
       "Doom Metal",
       "Rock"
@@ -4108,7 +4107,7 @@
         "name": "From This Day Forward",
         "year": "1990",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Progressive Death Metal"
         ]
       },
@@ -4116,7 +4115,7 @@
         "name": "Nemesis",
         "year": "1993",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Progressive Death Metal"
         ]
       },
@@ -4124,28 +4123,28 @@
         "name": "Cybervoid",
         "year": "1995",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Planet Claire",
         "year": "1998",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Carnivore Mothermouth",
         "year": "1999",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash",
+      "Technical Thrash Metal",
       "Progressive Death Metal",
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -4310,13 +4309,13 @@
         "name": "Pinkfong Animal Songs",
         "year": "2017",
         "genres": [
-          "Children's Music",
+          "Children's",
           "Lullaby"
         ]
       }
     ],
     "tags": [
-      "Children's Music",
+      "Children's",
       "Lullaby"
     ]
   },
@@ -4375,18 +4374,18 @@
         "year": "2006",
         "genres": [
           "Indie Rock",
-          "Electro Metal",
+          "Electro",
           "Electronic",
-          "Experimental Metal",
+          "Experimental",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Indie Rock",
-      "Electro Metal",
+      "Electro",
       "Electronic",
-      "Experimental Metal",
+      "Experimental",
       "Rock"
     ]
   },
@@ -4399,13 +4398,13 @@
         "year": "2019",
         "genres": [
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Grindcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4551,7 +4550,7 @@
         "name": "Here Comes The Flood",
         "year": "2016",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -4559,13 +4558,13 @@
         "name": "Waves Of Destiny",
         "year": "2019",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -4907,7 +4906,7 @@
         "year": "2016",
         "genres": [
           "Heavy Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       },
       {
@@ -4924,8 +4923,7 @@
       "Progressive Metal",
       "Post-Rock",
       "Post-Metal",
-      "Heavy Metal",
-      "Post Rock"
+      "Heavy Metal"
     ]
   },
   {
@@ -4938,13 +4936,13 @@
         "year": "2010",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -5005,7 +5003,7 @@
         "year": "2016",
         "genres": [
           "Progressive Death Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -5013,7 +5011,7 @@
         "year": "2017",
         "genres": [
           "Progressive Death Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -5021,7 +5019,7 @@
         "year": "2019",
         "genres": [
           "Progressive Death Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -5029,7 +5027,7 @@
         "year": "2020",
         "genres": [
           "Progressive Death Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -5037,7 +5035,7 @@
         "year": "2023",
         "genres": [
           "Progressive Death Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -5045,13 +5043,13 @@
         "year": "2025",
         "genres": [
           "Progressive Death Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Death Metal",
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -5182,28 +5180,28 @@
         "name": "Lower East Side Crew E.p.",
         "year": "1987",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Don't Forget The Struggle, Don't Forget The Streets",
         "year": "1988",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Open Your Eyes",
         "year": "1988",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Warzone",
         "year": "1989",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       },
@@ -5211,7 +5209,7 @@
         "name": "Live At Cbgb",
         "year": "1993",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       },
@@ -5219,7 +5217,7 @@
         "name": "Old School To New School",
         "year": "1994",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       },
@@ -5227,7 +5225,7 @@
         "name": "Lower East Side",
         "year": "1996",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       },
@@ -5235,7 +5233,7 @@
         "name": "The Sound Of Revolution",
         "year": "1996",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       },
@@ -5243,13 +5241,13 @@
         "name": "Fight For Justice",
         "year": "1997",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Crossover Thrash"
     ]
   },
@@ -5261,13 +5259,13 @@
         "name": "Raining Metal",
         "year": "2020",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Alternative"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Alternative"
     ]
   },
@@ -5302,13 +5300,13 @@
         "name": "Visceral Life",
         "year": "1996",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Thrash Metal"
     ]
   },

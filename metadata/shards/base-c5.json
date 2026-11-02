@@ -51,13 +51,13 @@
         "name": "Hymns of Blasphemous Fornication",
         "year": "2026",
         "genres": [
-          "Doom Death Metal",
+          "Death Doom Metal",
           "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death Metal",
+      "Death Doom Metal",
       "Death Metal"
     ]
   },
@@ -69,13 +69,15 @@
         "name": "Aftoktonia / Rakta Tṛtīya Netra",
         "year": "2026",
         "genres": [
-          "Black Metal | Raw Atmospheric Black Metal",
+          "Black Metal",
+          "Raw Atmospheric Black Metal",
           "Ambient"
         ]
       }
     ],
     "tags": [
-      "Black Metal | Raw Atmospheric Black Metal",
+      "Black Metal",
+      "Raw Atmospheric Black Metal",
       "Ambient"
     ]
   },
@@ -181,14 +183,16 @@
         "name": "Split",
         "year": "2026",
         "genres": [
-          "Death Doom Metal | Death Metal",
-          "Doom Metal | Death Metal"
+          "Death Doom Metal",
+          "Death Metal",
+          "Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Death Doom Metal | Death Metal",
-      "Doom Metal | Death Metal"
+      "Death Doom Metal",
+      "Death Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -484,7 +488,7 @@
         "name": "Cry In The Night",
         "year": "1986",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Hard Rock"
         ]
       },
@@ -492,7 +496,7 @@
         "name": "Race Against Time",
         "year": "1989",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Hard Rock"
         ]
       },
@@ -500,7 +504,7 @@
         "name": "Take 'Em By Storm",
         "year": "1993",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Hard Rock"
         ]
       },
@@ -508,7 +512,7 @@
         "name": "Mindslave",
         "year": "2012",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Hard Rock"
         ]
       },
@@ -516,7 +520,7 @@
         "name": "The Madness",
         "year": "2019",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Hard Rock"
         ]
       },
@@ -573,7 +577,7 @@
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Hard Rock",
       "Black Metal",
       "Death Metal"
@@ -809,26 +813,26 @@
         "name": "Scars",
         "year": "2013",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Human Plague",
         "year": "2015",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Of Man And Machine",
         "year": "2020",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -1407,7 +1411,7 @@
         "year": "2016",
         "genres": [
           "Post-Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1415,7 +1419,7 @@
         "year": "2017",
         "genres": [
           "Post-Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1423,13 +1427,13 @@
         "year": "2017",
         "genres": [
           "Post-Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Post-Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1475,27 +1479,27 @@
         "name": "Transfornation",
         "year": "2010",
         "genres": [
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Progressive Metal",
           "Dubstep",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Techno",
           "Hardstyle",
-          "Drum N Bass",
+          "Drum & Bass",
           "Trance"
         ]
       }
     ],
     "tags": [
-      "Electro Metal",
+      "Electro",
       "Electronic",
       "Progressive Metal",
       "Dubstep",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Techno",
       "Hardstyle",
-      "Drum N Bass",
+      "Drum & Bass",
       "Trance"
     ]
   },
@@ -1722,19 +1726,19 @@
         "name": "Lesser Traveled Waters",
         "year": "2004",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "The Core",
         "year": "2009",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Death"
+      "Experimental Death Metal"
     ]
   },
   {
@@ -1761,16 +1765,16 @@
         "name": "Blightbringer | Guyođ",
         "year": "2026",
         "genres": [
-          "Doom Doom Metal",
-          "Death Metal | Black Doom Metal",
-          "Doom Metal"
+          "Doom Metal",
+          "Death Metal",
+          "Black Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Doom Metal",
-      "Death Metal | Black Doom Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Death Metal",
+      "Black Doom Metal"
     ]
   },
   {
@@ -1794,13 +1798,13 @@
         "name": "Lethal Mind",
         "year": "2018",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -1812,26 +1816,26 @@
         "name": "The Saga Of The Draugr",
         "year": "2003",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "From The Caucasus To Gotland",
         "year": "2005",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "Fragments From The 13th Century",
         "year": "2013",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       }
     ],
     "tags": [
-      "Viking Black"
+      "Viking Black Metal"
     ]
   },
   {
@@ -2309,7 +2313,7 @@
         "year": "2005",
         "genres": [
           "Heavy Metal",
-          "Goth Rock"
+          "Gothic Rock"
         ]
       },
       {
@@ -2339,7 +2343,7 @@
       "Gothic Metal",
       "Indie Rock",
       "Heavy Metal",
-      "Goth Rock",
+      "Gothic Rock",
       "Rock"
     ]
   },
@@ -2406,26 +2410,26 @@
         "name": "Ira & Sacrificio",
         "year": "2022",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Takiorqowaqay",
         "year": "2022",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Reclama Tu Libertad",
         "year": "2023",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Power"
+      "Melodic Power Metal"
     ]
   },
   {
@@ -2475,16 +2479,16 @@
         "name": "Slaugtonomy / Mierda Puta / Aragulino",
         "year": "2026",
         "genres": [
-          "Sludge Grindcore | Grindcore",
-          "Death Metal",
-          "Grindcore | Grindcore"
+          "Sludge Grindcore",
+          "Grindcore",
+          "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Sludge Grindcore | Grindcore",
-      "Death Metal",
-      "Grindcore | Grindcore"
+      "Sludge Grindcore",
+      "Grindcore",
+      "Death Metal"
     ]
   },
   {
@@ -2544,7 +2548,7 @@
         "name": "Dark Fairies Dancing",
         "year": "1996",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Folk Metal"
         ]
       },
@@ -2552,7 +2556,7 @@
         "name": "In The Forest Of Weariness",
         "year": "1997",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Folk Metal"
         ]
       },
@@ -2560,7 +2564,7 @@
         "name": "Frostbitten Nakedness",
         "year": "1998",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Folk Metal"
         ]
       },
@@ -2568,7 +2572,7 @@
         "name": "Sad Memories Of Fairies",
         "year": "2000",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Folk Metal"
         ]
       },
@@ -2576,7 +2580,7 @@
         "name": "Rhymes From The Forest Of Weariness",
         "year": "2001",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Folk Metal"
         ]
       },
@@ -2584,13 +2588,13 @@
         "name": "Abandoned In The Forest Of Weariness",
         "year": "2004",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Folk Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Doom",
+      "Atmospheric Doom Metal",
       "Folk Metal"
     ]
   },
@@ -3117,40 +3121,40 @@
         "name": "Inside",
         "year": "1999",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "The Strongest",
         "year": "2001",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Honor",
         "year": "2013",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Brazilian Threat",
         "year": "2014",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Resistance",
         "year": "2016",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -3247,16 +3251,16 @@
         "name": "Anxiety Driven Nervous Worship",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
-          "Noise Metal"
+          "Noise"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
-      "Noise Metal"
+      "Noise"
     ]
   },
   {
@@ -3362,7 +3366,7 @@
         "name": "Rage For Order",
         "year": "1986",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
@@ -3370,28 +3374,28 @@
         "year": "1988",
         "genres": [
           "Heavy Metal",
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Operation: Mindcrime",
         "year": "1988",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Overseeing The Operation",
         "year": "1989",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Empire",
         "year": "1990",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Progressive Rock"
         ]
       },
@@ -3408,7 +3412,7 @@
         "name": "Promised Land",
         "year": "1994",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Progressive Rock"
         ]
       },
@@ -3416,14 +3420,14 @@
         "name": "Hear In The Now Frontier",
         "year": "1997",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Q2k",
         "year": "1999",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
@@ -3437,21 +3441,21 @@
         "name": "Tribe",
         "year": "2003",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Anybody There?",
         "year": "2005",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Take Cover",
         "year": "2007",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
@@ -3465,21 +3469,21 @@
         "name": "American Soldier",
         "year": "2009",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Dedicated To Chaos",
         "year": "2011",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Queensrÿche",
         "year": "2013",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
@@ -3494,7 +3498,7 @@
         "name": "Condition Hüman",
         "year": "2015",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
@@ -3523,19 +3527,19 @@
         "name": "The Verdict",
         "year": "2019",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Digital Noise Alliance",
         "year": "2022",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy",
+      "Progressive Heavy Metal",
       "Progressive Rock",
       "Heavy Metal",
       "Progressive Metal",
@@ -3551,14 +3555,14 @@
         "name": "The Oracle",
         "year": "2001",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
         "name": "Dreamtower",
         "year": "2002",
         "genres": [
-          "Neoclassical Power",
+          "Neoclassical Power Metal",
           "Progressive Metal"
         ]
       },
@@ -3566,7 +3570,7 @@
         "name": "Lapse Of Reality",
         "year": "2004",
         "genres": [
-          "Neoclassical Power",
+          "Neoclassical Power Metal",
           "Progressive Metal"
         ]
       },
@@ -3574,7 +3578,7 @@
         "name": "Battle Of Leningrad",
         "year": "2014",
         "genres": [
-          "Neoclassical Power",
+          "Neoclassical Power Metal",
           "Progressive Metal"
         ]
       },
@@ -3582,13 +3586,13 @@
         "name": "Gravity",
         "year": "2022",
         "genres": [
-          "Neoclassical Power",
+          "Neoclassical Power Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Power",
+      "Neoclassical Power Metal",
       "Progressive Metal"
     ]
   },
@@ -3606,7 +3610,7 @@
           "Pop",
           "Trance",
           "Happy Hardcore",
-          "J-pop",
+          "J-Pop",
           "Stage & Screen"
         ]
       },
@@ -3619,7 +3623,7 @@
           "Pop",
           "Trance",
           "Happy Hardcore",
-          "J-pop",
+          "J-Pop",
           "Stage & Screen"
         ]
       },
@@ -3632,7 +3636,7 @@
           "Pop",
           "Trance",
           "Happy Hardcore",
-          "J-pop",
+          "J-Pop",
           "Stage & Screen"
         ]
       },
@@ -3645,7 +3649,7 @@
           "Pop",
           "Trance",
           "Happy Hardcore",
-          "J-pop",
+          "J-Pop",
           "Stage & Screen"
         ]
       },
@@ -3658,7 +3662,7 @@
           "Pop",
           "Trance",
           "Happy Hardcore",
-          "J-pop",
+          "J-Pop",
           "Stage & Screen"
         ]
       },
@@ -3671,7 +3675,7 @@
           "Pop",
           "Trance",
           "Happy Hardcore",
-          "J-pop",
+          "J-Pop",
           "Stage & Screen"
         ]
       },
@@ -3684,7 +3688,7 @@
           "Pop",
           "Trance",
           "Happy Hardcore",
-          "J-pop",
+          "J-Pop",
           "Stage & Screen"
         ]
       },
@@ -3697,7 +3701,7 @@
           "Pop",
           "Trance",
           "Happy Hardcore",
-          "J-pop",
+          "J-Pop",
           "Stage & Screen"
         ]
       }
@@ -3708,7 +3712,7 @@
       "Pop",
       "Trance",
       "Happy Hardcore",
-      "J-pop",
+      "J-Pop",
       "Stage & Screen"
     ]
   },
@@ -3855,7 +3859,7 @@
         "year": "2006",
         "genres": [
           "Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3863,13 +3867,13 @@
         "year": "2009",
         "genres": [
           "Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -3955,7 +3959,7 @@
         "name": "From Ruins To Dust",
         "year": "2011",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -3963,7 +3967,7 @@
         "name": "Mourning Star... Total Eclipse",
         "year": "2013",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -3971,7 +3975,7 @@
         "name": "A Rival Of The Fittest",
         "year": "2016",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -3979,7 +3983,7 @@
         "name": "Blackguard Hollow",
         "year": "2017",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -3987,7 +3991,7 @@
         "name": "Land Of Ill Mortals",
         "year": "2019",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -3995,13 +3999,13 @@
         "name": "The Ravin Compass",
         "year": "2020",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Heavy Metal"
     ]
   },
@@ -4101,12 +4105,12 @@
         "name": "Armageddon",
         "year": "2023",
         "genres": [
-          "Progressive  Black"
+          "Progressive Black Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive  Black"
+      "Progressive Black Metal"
     ]
   },
   {
@@ -4345,14 +4349,14 @@
         "name": "Just An American Band",
         "year": "1983",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Rocks Your Liver",
         "year": "1986",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       },
@@ -4360,13 +4364,13 @@
         "name": "Red, White & Violent",
         "year": "1995",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Crossover Thrash"
     ]
   },
@@ -4681,13 +4685,13 @@
         "name": "100 שירים ראשונים (חלק א)",
         "year": "1981",
         "genres": [
-          "Children's Music",
+          "Children's",
           "Israeli"
         ]
       }
     ],
     "tags": [
-      "Children's Music",
+      "Children's",
       "Israeli",
       "Mizrahi"
     ]

@@ -336,10 +336,6 @@ _SHORTHAND_METAL = {
     "progressive": "Progressive Metal",
     "prog death": "Progressive Death Metal",
     "extreme progressive": "Extreme Progressive Metal",
-    "avantgarde": "Avantgarde Metal",
-    "avant-garde": "Avantgarde Metal",
-    "avant garde": "Avantgarde Metal",
-    "experimental": "Experimental Metal",
     "math metal": "Math Metal",
     "math": "Math Metal",
     "djent": "Djent",
@@ -348,29 +344,22 @@ _SHORTHAND_METAL = {
     "post-metal": "Post-Metal",
     "post metal": "Post-Metal",
     "atmospheric": "Atmospheric Metal",
-    "ambient": "Ambient Metal",
 
     # Symphonic / Gothic / Orchestral
     "symphonic": "Symphonic Metal",
     "gothic": "Gothic Metal",
     "orchestral": "Orchestral Metal",
-    "neoclassical": "Neoclassical Metal",
     "opera metal": "Opera Metal",
     "operatic": "Operatic Metal",
     "symphonic power": "Symphonic Power Metal",
 
     # Folk / Viking / Pagan
-    "folk": "Folk Metal",
     "viking": "Viking Metal",
     "pagan": "Pagan Metal",
-    "celtic": "Celtic Metal",
-    "medieval": "Medieval Metal",
     "pirate": "Pirate Metal",
 
     # Industrial / Electronic
-    "industrial": "Industrial Metal",
     "cyber": "Cyber Metal",
-    "electro": "Electro Metal",
     "nu": "Nu Metal",
     "nu-metal": "Nu Metal",
 
@@ -381,8 +370,6 @@ _SHORTHAND_METAL = {
     "grind": "Grindcore",
     "powerviolence": "Powerviolence",
     "mathcore": "Mathcore",
-    "hardcore": "Hardcore Metal",
-    "crust": "Crust Metal",
     "d-beat": "D-Beat",
 
     # Misc / Niche
@@ -391,12 +378,6 @@ _SHORTHAND_METAL = {
     "epic": "Epic Metal",
     "desert": "Desert Metal",
     "spaghetti": "Spaghetti Metal",
-    "psych": "Psychedelic Metal",
-    "psychedelic": "Psychedelic Metal",
-    "noise": "Noise Metal",
-    "drone": "Drone Metal",
-    "southern": "Southern Metal",
-    "country": "Country Metal",
     "rap metal": "Rap Metal",
     "funk metal": "Funk Metal",
     "jazz metal": "Jazz Metal",

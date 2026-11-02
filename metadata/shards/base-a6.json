@@ -8,15 +8,13 @@
         "year": "2026",
         "genres": [
           "Death Metal",
-          "Melodic Death Metal",
-          "Metal"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Melodic Death Metal",
-      "Metal"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -50,26 +48,26 @@
         "name": "His Name Was Aiwass",
         "year": "2021",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Wayward Gods",
         "year": "2021",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "The Falling",
         "year": "2023",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Doom"
+      "Psychedelic Doom Metal"
     ]
   },
   {
@@ -333,19 +331,19 @@
         "name": "Hunted",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Warriors Of Rock",
         "year": "1986",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       }
     ],
     "tags": [
-      "New Wave Of British Heavy"
+      "NWOBHM"
     ]
   },
   {
@@ -436,13 +434,13 @@
         "name": "Underground Revolution",
         "year": "2019",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Metalcore"
     ]
   },
@@ -495,38 +493,38 @@
         "name": "The Orange Tree",
         "year": "2010",
         "genres": [
-          "Psychedelic Stoner",
-          "Progressive Doom"
+          "Psychedelic Stoner Metal",
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "The Moles Of A Dying Race",
         "year": "2012",
         "genres": [
-          "Psychedelic Stoner",
-          "Progressive Doom"
+          "Psychedelic Stoner Metal",
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "The White Staff Burned By The Blue Sun",
         "year": "2016",
         "genres": [
-          "Psychedelic Stoner",
-          "Progressive Doom"
+          "Psychedelic Stoner Metal",
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "The Race Is Over",
         "year": "2017",
         "genres": [
-          "Psychedelic Stoner",
-          "Progressive Doom"
+          "Psychedelic Stoner Metal",
+          "Progressive Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Stoner",
-      "Progressive Doom"
+      "Psychedelic Stoner Metal",
+      "Progressive Doom Metal"
     ]
   },
   {
@@ -539,8 +537,8 @@
         "year": "2023",
         "genres": [
           "Electronic",
-          "Ambient Metal",
-          "Avantgarde Metal",
+          "Ambient",
+          "Avant-garde",
           "Rock"
         ]
       },
@@ -549,8 +547,8 @@
         "year": "2023",
         "genres": [
           "Electronic",
-          "Ambient Metal",
-          "Avantgarde Metal",
+          "Ambient",
+          "Avant-garde",
           "Rock"
         ]
       },
@@ -562,8 +560,8 @@
     ],
     "tags": [
       "Electronic",
-      "Ambient Metal",
-      "Avantgarde Metal",
+      "Ambient",
+      "Avant-garde",
       "Rock"
     ]
   },
@@ -578,7 +576,7 @@
         "genres": [
           "Alternative Rock",
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -587,14 +585,14 @@
         "genres": [
           "Alternative Rock",
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
       "Metalcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -670,7 +668,7 @@
         "name": "Speed Metal Symphony",
         "year": "1987",
         "genres": [
-          "Neoclassical Power",
+          "Neoclassical Power Metal",
           "Progressive Metal"
         ]
       },
@@ -678,13 +676,13 @@
         "name": "Go Off!",
         "year": "1988",
         "genres": [
-          "Neoclassical Power",
+          "Neoclassical Power Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Power",
+      "Neoclassical Power Metal",
       "Progressive Metal"
     ]
   },
@@ -1061,52 +1059,52 @@
         "name": "Evil Of All Decades",
         "year": "2014",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Lone Aeon",
         "year": "2014",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Low Of Wisdom",
         "year": "2015",
         "genres": [
-          "Experimental Black",
-          "Ambient Metal"
+          "Experimental Black Metal",
+          "Ambient"
         ]
       },
       {
         "name": "Relativist",
         "year": "2015",
         "genres": [
-          "Experimental Black",
-          "Ambient Metal"
+          "Experimental Black Metal",
+          "Ambient"
         ]
       },
       {
         "name": "Monologue",
         "year": "2016",
         "genres": [
-          "Experimental Black",
-          "Ambient Metal"
+          "Experimental Black Metal",
+          "Ambient"
         ]
       },
       {
         "name": "Woe",
         "year": "2022",
         "genres": [
-          "Experimental Black",
-          "Ambient Metal"
+          "Experimental Black Metal",
+          "Ambient"
         ]
       }
     ],
     "tags": [
-      "Experimental Black",
-      "Ambient Metal"
+      "Experimental Black Metal",
+      "Ambient"
     ]
   },
   {
@@ -1395,7 +1393,7 @@
         "name": "Breathe Deep The Dark",
         "year": "1998",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -1403,13 +1401,13 @@
         "name": "Transition",
         "year": "2001",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Heavy Metal"
     ]
   },
@@ -1492,8 +1490,7 @@
     ],
     "tags": [
       "Doom Metal",
-      "Psychedelic Rock",
-      "Metal"
+      "Psychedelic Rock"
     ]
   },
   {
@@ -1663,7 +1660,7 @@
         "year": "2001",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -1671,13 +1668,13 @@
         "year": "2009",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -1769,7 +1766,7 @@
         "name": "Goku Shohan Kata Enban",
         "year": "2005",
         "genres": [
-          "J Rock",
+          "J-Rock",
           "Alternative",
           "Power Metal"
         ]
@@ -1778,7 +1775,7 @@
         "name": "13's Reborn",
         "year": "2006",
         "genres": [
-          "J Rock",
+          "J-Rock",
           "Alternative",
           "Power Metal"
         ]
@@ -1787,7 +1784,7 @@
         "name": "Girugämesh",
         "year": "2007",
         "genres": [
-          "J Rock",
+          "J-Rock",
           "Alternative",
           "Power Metal"
         ]
@@ -1796,7 +1793,7 @@
         "name": "Reason Of Crying",
         "year": "2007",
         "genres": [
-          "J Rock",
+          "J-Rock",
           "Alternative",
           "Power Metal"
         ]
@@ -1805,7 +1802,7 @@
         "name": "Music",
         "year": "2008",
         "genres": [
-          "J Rock",
+          "J-Rock",
           "Alternative",
           "Power Metal"
         ]
@@ -1814,7 +1811,7 @@
         "name": "Now",
         "year": "2009",
         "genres": [
-          "J Rock",
+          "J-Rock",
           "Alternative",
           "Power Metal"
         ]
@@ -1823,7 +1820,7 @@
         "name": "Go",
         "year": "2011",
         "genres": [
-          "J Rock",
+          "J-Rock",
           "Alternative",
           "Power Metal"
         ]
@@ -1832,7 +1829,7 @@
         "name": "Monster",
         "year": "2013",
         "genres": [
-          "J Rock",
+          "J-Rock",
           "Alternative",
           "Power Metal"
         ]
@@ -1841,7 +1838,7 @@
         "name": "Gravitation",
         "year": "2014",
         "genres": [
-          "J Rock",
+          "J-Rock",
           "Alternative",
           "Power Metal"
         ]
@@ -1851,14 +1848,14 @@
         "year": "2016",
         "genres": [
           "Visual Kei",
-          "J-rock"
+          "J-Rock"
         ]
       },
       {
         "name": "鵺 -Chimera-",
         "year": "2016",
         "genres": [
-          "J Rock",
+          "J-Rock",
           "Alternative",
           "Power Metal"
         ]
@@ -1866,8 +1863,7 @@
     ],
     "tags": [
       "Visual Kei",
-      "J-rock",
-      "J Rock",
+      "J-Rock",
       "Alternative",
       "Power Metal"
     ]
@@ -2161,14 +2157,13 @@
         "name": "Mín Svarta Hlið",
         "year": "2022",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Post-Rock",
-      "Post Rock",
       "Rock"
     ]
   },
@@ -2401,7 +2396,7 @@
         "year": "2004",
         "genres": [
           "Black Metal",
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       },
       {
@@ -2409,7 +2404,7 @@
         "year": "2005",
         "genres": [
           "Black Metal",
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       },
       {
@@ -2417,7 +2412,7 @@
         "year": "2007",
         "genres": [
           "Black Metal",
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       },
       {
@@ -2425,7 +2420,7 @@
         "year": "2011",
         "genres": [
           "Black Metal",
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       },
       {
@@ -2433,7 +2428,7 @@
         "year": "2015",
         "genres": [
           "Black Metal",
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       },
       {
@@ -2441,7 +2436,7 @@
         "year": "2015",
         "genres": [
           "Black Metal",
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       },
       {
@@ -2449,13 +2444,13 @@
         "year": "2018",
         "genres": [
           "Black Metal",
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Pagan Folk"
+      "Pagan Folk Metal"
     ]
   },
   {
@@ -2516,26 +2511,26 @@
         "name": "Programmed",
         "year": "1990",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Your Favorite God",
         "year": "1995",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Poison Seed",
         "year": "1996",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -2609,7 +2604,7 @@
         "name": "Enigma Garden",
         "year": "2023",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -2621,7 +2616,6 @@
       }
     ],
     "tags": [
-      "Progressive Power",
       "Progressive Power Metal"
     ]
   },
@@ -2802,7 +2796,7 @@
           "Alternative Metal",
           "Hard Rock",
           "Alternative Rock",
-          "Post-grunge"
+          "Post-Grunge"
         ]
       }
     ],
@@ -2811,7 +2805,7 @@
       "Alternative Metal",
       "Hard Rock",
       "Alternative Rock",
-      "Post-grunge"
+      "Post-Grunge"
     ]
   },
   {
@@ -2823,7 +2817,7 @@
         "name": "Oubeos",
         "year": "2010",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
@@ -2836,7 +2830,7 @@
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Heavy Metal",
       "Soft Rock"
     ]
@@ -3150,7 +3144,7 @@
         "name": "Misere Mortem",
         "year": "2010",
         "genres": [
-          "Symphonic Gothic"
+          "Symphonic Gothic Metal"
         ]
       },
       {
@@ -3171,7 +3165,7 @@
         "name": "The Pandemic Pandemonium Sessions",
         "year": "2021",
         "genres": [
-          "Symphonic Gothic"
+          "Symphonic Gothic Metal"
         ]
       },
       {
@@ -3223,12 +3217,12 @@
         "name": "The Covid Aftermath Sessions",
         "year": "2025",
         "genres": [
-          "Symphonic Gothic"
+          "Symphonic Gothic Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Gothic",
+      "Symphonic Gothic Metal",
       "Gothic Rock",
       "Gothic Metal",
       "Power Metal",
@@ -3380,26 +3374,26 @@
         "name": "Dead Of Night",
         "year": "1991",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Men Of Iron",
         "year": "2001",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Stand And Be True",
         "year": "2008",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -4013,7 +4007,7 @@
         "year": "2009",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4021,7 +4015,7 @@
         "year": "2011",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4029,13 +4023,13 @@
         "year": "2011",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -4281,13 +4275,13 @@
         "name": "Yearning To Fly",
         "year": "2022",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -4739,33 +4733,33 @@
         "name": "Last Sons Of Evil",
         "year": "2002",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Norwegian Jesus",
         "year": "2003",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Just Quit Trying",
         "year": "2006",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "A Life Less Necessary",
         "year": "2009",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       }
     ],
     "tags": [
-      "Death 'N' Roll"
+      "Death 'n' Roll"
     ]
   },
   {
@@ -4818,12 +4812,12 @@
         "name": "Converging Parallel Worlds",
         "year": "2024",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -4959,14 +4953,14 @@
         "name": "Gu-cci",
         "year": "2022",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Black Metal",
           "Shoegaze"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Black Metal",
       "Shoegaze"
     ]
@@ -5025,21 +5019,21 @@
         "name": "Særimners Kød",
         "year": "2011",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "Onwards Into Battle",
         "year": "2012",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "The Glorious Dead",
         "year": "2014",
         "genres": [
-          "Viking Folk",
+          "Viking Folk Metal",
           "Melodic Death Metal"
         ]
       },
@@ -5047,7 +5041,7 @@
         "name": "Aldar Rök",
         "year": "2016",
         "genres": [
-          "Viking Folk",
+          "Viking Folk Metal",
           "Melodic Death Metal"
         ]
       },
@@ -5055,7 +5049,7 @@
         "name": "Allfather",
         "year": "2019",
         "genres": [
-          "Viking Folk",
+          "Viking Folk Metal",
           "Melodic Death Metal"
         ]
       },
@@ -5063,7 +5057,7 @@
         "name": "10 Years Of Mead And Metal",
         "year": "2020",
         "genres": [
-          "Viking Folk",
+          "Viking Folk Metal",
           "Melodic Death Metal"
         ]
       },
@@ -5071,7 +5065,7 @@
         "name": "Sagas",
         "year": "2022",
         "genres": [
-          "Viking Folk",
+          "Viking Folk Metal",
           "Melodic Death Metal"
         ]
       },
@@ -5079,7 +5073,7 @@
         "name": "Epitome",
         "year": "2024",
         "genres": [
-          "Viking Folk",
+          "Viking Folk Metal",
           "Melodic Death Metal"
         ]
       },
@@ -5087,7 +5081,7 @@
         "name": "Wyrd",
         "year": "2026",
         "genres": [
-          "Viking Folk",
+          "Viking Folk Metal",
           "Melodic Death Metal"
         ]
       },
@@ -5102,9 +5096,8 @@
       }
     ],
     "tags": [
-      "Viking Folk",
-      "Melodic Death Metal",
       "Viking Folk Metal",
+      "Melodic Death Metal",
       "Folk Metal"
     ]
   },
@@ -5132,19 +5125,19 @@
         "name": "Violent Storm",
         "year": "2005",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Storm Warning",
         "year": "2006",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {

@@ -169,15 +169,15 @@
         "year": "2004",
         "genres": [
           "Alternative Rock",
-          "Experimental Metal",
-          "Post-hardcore"
+          "Experimental",
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
-      "Experimental Metal",
-      "Post-hardcore"
+      "Experimental",
+      "Post-Hardcore"
     ]
   },
   {
@@ -386,7 +386,7 @@
         "year": "1998",
         "genres": [
           "Shred",
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
@@ -394,7 +394,7 @@
         "year": "2009",
         "genres": [
           "Shred",
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
@@ -402,13 +402,13 @@
         "year": "2021",
         "genres": [
           "Shred",
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       }
     ],
     "tags": [
       "Shred",
-      "Neoclassical Power"
+      "Neoclassical Power Metal"
     ]
   },
   {
@@ -948,26 +948,26 @@
         "name": "Low Life Crew",
         "year": "1997",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Resurrected",
         "year": "2003",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "The Book Of Mourning",
         "year": "2006",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -997,68 +997,68 @@
         "name": "Plastic Poem",
         "year": "1999",
         "genres": [
-          "Extreme Avantgarde Metal"
+          "Extreme Avant-garde Metal"
         ]
       },
       {
         "name": "Live & Acoustic",
         "year": "2000",
         "genres": [
-          "Extreme Avantgarde Metal"
+          "Extreme Avant-garde Metal"
         ]
       },
       {
         "name": "Believe The Hype",
         "year": "2001",
         "genres": [
-          "Extreme Avantgarde Metal"
+          "Extreme Avant-garde Metal"
         ]
       },
       {
         "name": "Thankless",
         "year": "2002",
         "genres": [
-          "Extreme Avantgarde Metal"
+          "Extreme Avant-garde Metal"
         ]
       },
       {
         "name": "Leave Me Out",
         "year": "2005",
         "genres": [
-          "Extreme Avantgarde Metal"
+          "Extreme Avant-garde Metal"
         ]
       },
       {
         "name": "Fay-ra-doowra",
         "year": "2007",
         "genres": [
-          "Extreme Avantgarde Metal"
+          "Extreme Avant-garde Metal"
         ]
       },
       {
         "name": "Les Cookies",
         "year": "2007",
         "genres": [
-          "Extreme Avantgarde Metal"
+          "Extreme Avant-garde Metal"
         ]
       },
       {
         "name": "Comercio De Caballos",
         "year": "2008",
         "genres": [
-          "Extreme Avantgarde Metal"
+          "Extreme Avant-garde Metal"
         ]
       },
       {
         "name": "Jaula",
         "year": "2009",
         "genres": [
-          "Extreme Avantgarde Metal"
+          "Extreme Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Extreme Avantgarde Metal"
+      "Extreme Avant-garde Metal"
     ]
   },
   {
@@ -1304,7 +1304,7 @@
         "name": "Borderline Hymns",
         "year": "2003",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Symphonic Metal"
         ]
       },
@@ -1312,18 +1312,18 @@
         "name": "The Butchers Ballroom",
         "year": "2006",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Symphonic Metal",
           "Heavy Metal",
           "Alternative Rock",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
         "name": "Sing-along Songs For The Damned & Delirious",
         "year": "2009",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Symphonic Metal"
         ]
       },
@@ -1331,12 +1331,12 @@
         "name": "Pandoras Pinata",
         "year": "2012",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Symphonic Metal",
           "Heavy Metal",
           "Big Band",
           "Swing",
-          "Prog Rock",
+          "Progressive Rock",
           "Jazz"
         ]
       },
@@ -1344,7 +1344,7 @@
         "name": "Pacifisticuffs",
         "year": "2017",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Symphonic Metal"
         ]
       },
@@ -1352,18 +1352,18 @@
         "name": "Swagger & Stroll Down The Rabbit Hole",
         "year": "2021",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Symphonic Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Symphonic Metal",
       "Heavy Metal",
       "Big Band",
       "Swing",
-      "Prog Rock",
+      "Progressive Rock",
       "Jazz",
       "Alternative Rock"
     ]
@@ -1419,7 +1419,7 @@
         "name": "Hatred For Mankind",
         "year": "2009",
         "genres": [
-          "Blackened Sludge",
+          "Blackened Sludge Metal",
           "Death Metal"
         ]
       },
@@ -1427,7 +1427,7 @@
         "name": "Terminal Aggressor",
         "year": "2009",
         "genres": [
-          "Blackened Sludge",
+          "Blackened Sludge Metal",
           "Death Metal"
         ]
       },
@@ -1435,7 +1435,7 @@
         "name": "Widowmaker",
         "year": "2012",
         "genres": [
-          "Blackened Sludge",
+          "Blackened Sludge Metal",
           "Death Metal"
         ]
       },
@@ -1443,7 +1443,7 @@
         "name": "Gnaw Their Tongues",
         "year": "2015",
         "genres": [
-          "Blackened Sludge",
+          "Blackened Sludge Metal",
           "Death Metal"
         ]
       },
@@ -1451,13 +1451,13 @@
         "name": "Terminal Aggressor Ii",
         "year": "2020",
         "genres": [
-          "Blackened Sludge",
+          "Blackened Sludge Metal",
           "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Sludge",
+      "Blackened Sludge Metal",
       "Death Metal"
     ]
   },
@@ -1469,19 +1469,19 @@
         "name": "The End Of Darkness",
         "year": "2020",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Time Of The Dragon",
         "year": "2025",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -1521,7 +1521,6 @@
     ],
     "tags": [
       "Gothic Doom Metal",
-      "Metal",
       "Doom Metal"
     ]
   },
@@ -2038,26 +2037,26 @@
         "name": "Exhum",
         "year": "2001",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Grendel",
         "year": "2004",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Le Diable En Personne",
         "year": "2007",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2068,22 +2067,22 @@
         "name": "Solar Grom",
         "year": "2022",
         "genres": [
-          "Blackened Post-metal",
-          "Instrumental Progressive"
+          "Blackened Post-Metal",
+          "Instrumental Progressive Metal"
         ]
       },
       {
         "name": "No Sleep",
         "year": "2024",
         "genres": [
-          "Blackened Post-metal",
-          "Instrumental Progressive"
+          "Blackened Post-Metal",
+          "Instrumental Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Post-metal",
-      "Instrumental Progressive"
+      "Blackened Post-Metal",
+      "Instrumental Progressive Metal"
     ]
   },
   {
@@ -2244,26 +2243,26 @@
         "year": "2007",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Your World On Fire",
         "year": "2009",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Imperial",
         "year": "2010",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Metalcore"
     ]
   },
@@ -2876,7 +2875,7 @@
         "name": "The Matchbox Twenty Collection",
         "year": "2013",
         "genres": [
-          "Post-grunge"
+          "Post-Grunge"
         ]
       }
     ],
@@ -2886,7 +2885,7 @@
       "Soft Rock",
       "Rock",
       "Interview",
-      "Post-grunge"
+      "Post-Grunge"
     ]
   },
   {
@@ -3099,19 +3098,19 @@
         "name": "Surachai",
         "year": "2010",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Re-awaken",
         "year": "2011",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       }
     ],
     "tags": [
-      "Noise Metal"
+      "Noise"
     ]
   },
   {
@@ -3520,7 +3519,7 @@
         "genres": [
           "Death Metal",
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3529,14 +3528,14 @@
         "genres": [
           "Death Metal",
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Death Metal",
       "Thrash Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3572,7 +3571,7 @@
         "year": "2013",
         "genres": [
           "Alternative Rock",
-          "Post Rock",
+          "Post-Rock",
           "Metalcore"
         ]
       },
@@ -3581,7 +3580,7 @@
         "year": "2015",
         "genres": [
           "Electronic",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3621,8 +3620,8 @@
     "tags": [
       "Alternative Rock",
       "Electronic",
-      "Prog Rock",
-      "Post Rock",
+      "Progressive Rock",
+      "Post-Rock",
       "Metalcore",
       "Rock"
     ]
@@ -3659,7 +3658,7 @@
         "year": "2016",
         "genres": [
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3667,7 +3666,7 @@
         "year": "2017",
         "genres": [
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3675,7 +3674,7 @@
         "year": "2018",
         "genres": [
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3683,13 +3682,13 @@
         "year": "2020",
         "genres": [
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Grindcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3733,47 +3732,47 @@
         "name": "As I Bequeath My Yesterday",
         "year": "2005",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "We Forget",
         "year": "2008",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Slumber Recon",
         "year": "2011",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Of Blood-red And Gold",
         "year": "2014",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Selenophilia",
         "year": "2016",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "This Time Next Year",
         "year": "2020",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -3815,19 +3814,19 @@
         "name": "Red Room Ensemble",
         "year": "2015",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Endless Dark Red",
         "year": "2020",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -3839,21 +3838,21 @@
         "name": "Holocene",
         "year": "2016",
         "genres": [
-          "Experimental Metal",
+          "Experimental",
           "Alternative Rock",
           "Shoegaze",
           "Acoustic",
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Experimental Metal",
+      "Experimental",
       "Alternative Rock",
       "Shoegaze",
       "Acoustic",
-      "Post Rock",
+      "Post-Rock",
       "Rock"
     ]
   },
@@ -3949,7 +3948,7 @@
         "name": "Night Visions",
         "year": "2003",
         "genres": [
-          "Progressive Power",
+          "Progressive Power Metal",
           "Thrash Metal"
         ]
       },
@@ -3957,7 +3956,7 @@
         "name": "Lost Remembrance",
         "year": "2007",
         "genres": [
-          "Progressive Power",
+          "Progressive Power Metal",
           "Thrash Metal"
         ]
       },
@@ -3965,7 +3964,7 @@
         "name": "Underwater Bells",
         "year": "2009",
         "genres": [
-          "Progressive Power",
+          "Progressive Power Metal",
           "Thrash Metal"
         ]
       },
@@ -3973,7 +3972,7 @@
         "name": "386 High Street North: Come Back To Eternity",
         "year": "2012",
         "genres": [
-          "Progressive Power",
+          "Progressive Power Metal",
           "Thrash Metal"
         ]
       },
@@ -3981,7 +3980,7 @@
         "name": "Underwater Bells Pt. 2: October 9th 1963 Act. 1",
         "year": "2020",
         "genres": [
-          "Progressive Power",
+          "Progressive Power Metal",
           "Thrash Metal"
         ]
       },
@@ -3989,7 +3988,7 @@
         "name": "Celestial Violence",
         "year": "2023",
         "genres": [
-          "Progressive Power",
+          "Progressive Power Metal",
           "Thrash Metal"
         ]
       },
@@ -4025,7 +4024,7 @@
       }
     ],
     "tags": [
-      "Progressive Power",
+      "Progressive Power Metal",
       "Thrash Metal",
       "Power Progressive Metal",
       "Progressive Metal",
@@ -4537,7 +4536,7 @@
         "name": "Never Mind The Emptiness",
         "year": "2014",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4565,7 +4564,7 @@
     "tags": [
       "Black Metal",
       "Neofolk",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -4743,12 +4742,12 @@
         "name": "The Upheaval",
         "year": "1995",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -4906,12 +4905,12 @@
         "name": "State Of Insurrection",
         "year": "2019",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -4922,7 +4921,7 @@
         "name": "Songs For A Year",
         "year": "2005",
         "genres": [
-          "Progressive Doom",
+          "Progressive Doom Metal",
           "Death Metal"
         ]
       },
@@ -4930,7 +4929,7 @@
         "name": "Glorification Of Pain",
         "year": "2009",
         "genres": [
-          "Progressive Doom",
+          "Progressive Doom Metal",
           "Death Metal"
         ]
       },
@@ -4938,7 +4937,7 @@
         "name": "Crown Of Sorrow",
         "year": "2010",
         "genres": [
-          "Progressive Doom",
+          "Progressive Doom Metal",
           "Death Metal"
         ]
       },
@@ -4946,7 +4945,7 @@
         "name": "Barbarian",
         "year": "2011",
         "genres": [
-          "Progressive Doom",
+          "Progressive Doom Metal",
           "Death Metal"
         ]
       },
@@ -4954,7 +4953,7 @@
         "name": "Nekrodepression",
         "year": "2012",
         "genres": [
-          "Progressive Doom",
+          "Progressive Doom Metal",
           "Death Metal"
         ]
       },
@@ -4962,7 +4961,7 @@
         "name": "Romantik",
         "year": "2015",
         "genres": [
-          "Progressive Doom",
+          "Progressive Doom Metal",
           "Death Metal"
         ]
       },
@@ -4970,7 +4969,7 @@
         "name": "Bloodway",
         "year": "2016",
         "genres": [
-          "Progressive Doom",
+          "Progressive Doom Metal",
           "Death Metal"
         ]
       },
@@ -4978,7 +4977,7 @@
         "name": "Endstrand",
         "year": "2017",
         "genres": [
-          "Progressive Doom",
+          "Progressive Doom Metal",
           "Death Metal"
         ]
       },
@@ -4986,7 +4985,7 @@
         "name": "Zentrum",
         "year": "2019",
         "genres": [
-          "Progressive Doom",
+          "Progressive Doom Metal",
           "Death Metal"
         ]
       },
@@ -4994,13 +4993,13 @@
         "name": "Der Alte",
         "year": "2022",
         "genres": [
-          "Progressive Doom",
+          "Progressive Doom Metal",
           "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Doom",
+      "Progressive Doom Metal",
       "Death Metal"
     ]
   },
@@ -5366,7 +5365,7 @@
         "year": "2014",
         "genres": [
           "Atmospheric Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -5374,7 +5373,7 @@
         "year": "2017",
         "genres": [
           "Atmospheric Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -5382,7 +5381,7 @@
         "year": "2019",
         "genres": [
           "Atmospheric Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -5390,7 +5389,7 @@
         "year": "2020",
         "genres": [
           "Atmospheric Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -5398,13 +5397,13 @@
         "year": "2022",
         "genres": [
           "Atmospheric Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {

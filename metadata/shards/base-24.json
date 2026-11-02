@@ -247,12 +247,12 @@
         "name": "Heat",
         "year": "2008",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -286,14 +286,12 @@
         "name": "Motivated By Death",
         "year": "2026",
         "genres": [
-          "Symphonic Metal",
-          "Metal"
+          "Symphonic Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Metal",
-      "Metal"
+      "Symphonic Metal"
     ]
   },
   {
@@ -610,12 +608,12 @@
         "name": "Event Horizon",
         "year": "2019",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -1258,19 +1256,19 @@
         "name": "Fireland",
         "year": "2008",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Fireland Ii",
         "year": "2010",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -1335,7 +1333,7 @@
         "year": "2005",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Math Rock"
         ]
       },
@@ -1344,7 +1342,7 @@
         "year": "2007",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Math Rock"
         ]
       },
@@ -1353,14 +1351,14 @@
         "year": "2009",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Math Rock"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Math Rock"
     ]
   },
@@ -1439,8 +1437,8 @@
         "year": "2004",
         "genres": [
           "Electronic",
-          "Post Rock",
-          "Ambient Metal",
+          "Post-Rock",
+          "Ambient",
           "Rock"
         ]
       },
@@ -1449,8 +1447,8 @@
         "year": "2004",
         "genres": [
           "Electronic",
-          "Post Rock",
-          "Ambient Metal",
+          "Post-Rock",
+          "Ambient",
           "Rock"
         ]
       },
@@ -1521,7 +1519,7 @@
         "name": "Somnia",
         "year": "2022",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -1535,16 +1533,15 @@
         "name": "Falling Leaves",
         "year": "2024",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Post-Rock",
-      "Ambient Metal",
+      "Ambient",
       "Electronic",
-      "Post Rock",
       "Rock"
     ]
   },
@@ -1557,20 +1554,20 @@
         "name": "He Is Not",
         "year": "2019",
         "genres": [
-          "Post-punk",
-          "Post Rock",
+          "Post-Punk",
+          "Post-Rock",
           "Rock",
-          "Goth Rock",
-          "Avantgarde Metal"
+          "Gothic Rock",
+          "Avant-garde"
         ]
       }
     ],
     "tags": [
-      "Post-punk",
-      "Post Rock",
+      "Post-Punk",
+      "Post-Rock",
       "Rock",
-      "Goth Rock",
-      "Avantgarde Metal"
+      "Gothic Rock",
+      "Avant-garde"
     ]
   },
   {
@@ -1656,14 +1653,14 @@
         "name": "Progressive",
         "year": "1994",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "And Thou Shalt Trust The Seer",
         "year": "1997",
         "genres": [
-          "Ambient Metal",
+          "Ambient",
           "Doom Metal",
           "Symphonic Metal",
           "Gothic Metal",
@@ -1721,8 +1718,8 @@
     ],
     "tags": [
       "Symphonic Metal",
-      "Experimental Death",
-      "Ambient Metal",
+      "Experimental Death Metal",
+      "Ambient",
       "Doom Metal",
       "Gothic Metal",
       "Death Metal",
@@ -1756,8 +1753,8 @@
         "name": "Fortune Favours The Insane",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
-          "Prog Rock",
+          "Hardcore",
+          "Progressive Rock",
           "Sludge Metal",
           "Stoner Rock"
         ]
@@ -1774,8 +1771,8 @@
     "tags": [
       "Stoner Metal",
       "Sludge Metal",
-      "Hardcore Metal",
-      "Prog Rock",
+      "Hardcore",
+      "Progressive Rock",
       "Stoner Rock"
     ]
   },
@@ -1954,14 +1951,14 @@
         "year": "2022",
         "genres": [
           "Electronic",
-          "Experimental Metal",
+          "Experimental",
           "Downtempo"
         ]
       }
     ],
     "tags": [
       "Electronic",
-      "Experimental Metal",
+      "Experimental",
       "Downtempo"
     ]
   },
@@ -1992,19 +1989,19 @@
         "name": "Dat Zijn De Peppers",
         "year": "2016",
         "genres": [
-          "Children's Music"
+          "Children's"
         ]
       },
       {
         "name": "Waar Is Mijn Kaboutermuts?",
         "year": "2020",
         "genres": [
-          "Children's Music"
+          "Children's"
         ]
       }
     ],
     "tags": [
-      "Children's Music"
+      "Children's"
     ]
   },
   {
@@ -2142,8 +2139,8 @@
         "name": "The Fame",
         "year": "2008",
         "genres": [
-          "Contemporary R&b",
-          "Electro Metal",
+          "Contemporary R&B",
+          "Electro",
           "Electronic",
           "Dance-pop",
           "Synth-pop",
@@ -2184,8 +2181,8 @@
       "Electronic",
       "Ballad",
       "Acoustic",
-      "Contemporary R&b",
-      "Electro Metal",
+      "Contemporary R&B",
+      "Electro",
       "Dance-pop",
       "Synth-pop"
     ]
@@ -2275,7 +2272,7 @@
         "year": "2007",
         "genres": [
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2283,7 +2280,7 @@
         "year": "2009",
         "genres": [
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2291,13 +2288,13 @@
         "year": "2011",
         "genres": [
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2586,13 +2583,13 @@
         "year": "2013",
         "genres": [
           "Abstract",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Abstract",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -3033,7 +3030,7 @@
         "name": "We Couldn't Think Of A Title",
         "year": "2003",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Comedy"
         ]
       },
@@ -3041,7 +3038,7 @@
         "name": "The Flesh Eating Rollerskate Holiday Joyride",
         "year": "2007",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Comedy"
         ]
       },
@@ -3049,7 +3046,7 @@
         "name": "Sandwich",
         "year": "2009",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Comedy"
         ]
       },
@@ -3057,7 +3054,7 @@
         "name": "The Digital Appetizer",
         "year": "2010",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Comedy"
         ]
       },
@@ -3065,7 +3062,7 @@
         "name": "Space Vampires Vs Zombie Dinosaurs In 3-d",
         "year": "2011",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Comedy"
         ]
       },
@@ -3075,7 +3072,7 @@
         "genres": [
           "Heavy Metal",
           "Parody",
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Comedy"
         ]
       },
@@ -3083,13 +3080,13 @@
         "name": "Do",
         "year": "2018",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Comedy"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Comedy",
       "Heavy Metal",
       "Parody"
@@ -3559,14 +3556,12 @@
         "year": "2026",
         "genres": [
           "Death Metal",
-          "Grindcore | Death Metal",
           "Grindcore"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Grindcore | Death Metal",
       "Grindcore"
     ]
   },
@@ -3578,40 +3573,40 @@
         "name": "Death And Dreaming",
         "year": "2002",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Darklands",
         "year": "2004",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Hellbound Heart",
         "year": "2006",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Inferno",
         "year": "2012",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Damnation A.d.",
         "year": "2013",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -3792,7 +3787,7 @@
           "Teutonic Thrash Metal",
           "Thrash Metal",
           "Punk",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3956,7 +3951,7 @@
       "Thrash Metal",
       "Speed Metal",
       "Punk",
-      "Hardcore Metal",
+      "Hardcore",
       "Black Metal"
     ]
   },
@@ -4012,19 +4007,19 @@
         "name": "Cradled By Oblivion Eyes",
         "year": "2016",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Remnants Of A Repeated Future, Part 1",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -4523,19 +4518,19 @@
         "name": "A Demonstration Of Power",
         "year": "2017",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
         "name": "An Age Undreamed Of",
         "year": "2022",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Epic Heavy"
+      "Epic Heavy Metal"
     ]
   },
   {
@@ -4854,8 +4849,7 @@
     ],
     "tags": [
       "Power Metal",
-      "Speed Metal",
-      "Metal"
+      "Speed Metal"
     ]
   },
   {
@@ -4866,7 +4860,7 @@
         "name": "Of Entity And Mind",
         "year": "2001",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal",
           "Symphonic Metal"
         ]
@@ -4875,7 +4869,7 @@
         "name": "Reflections Of The I",
         "year": "2002",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal",
           "Symphonic Metal"
         ]
@@ -4884,7 +4878,7 @@
         "name": "The Imaginary Direction Of Time",
         "year": "2004",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal",
           "Symphonic Metal"
         ]
@@ -4893,14 +4887,14 @@
         "name": "Prominence And Demise",
         "year": "2007",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal",
           "Symphonic Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Progressive Metal",
       "Symphonic Metal"
     ]
@@ -4974,54 +4968,54 @@
         "name": "Dawn Of The 4th",
         "year": "2009",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
         "name": "Rich With Bloodfuel",
         "year": "2009",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
         "name": "Black Marketeers Of World War Iii",
         "year": "2010",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
         "name": "The Obsidian Plains",
         "year": "2011",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
         "name": "Clawing Into Black Sun",
         "year": "2014",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
         "name": "Death Division",
         "year": "2015",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
         "name": "The Monuments Of Ash & Bone",
         "year": "2018",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Sludge"
+      "Blackened Sludge Metal"
     ]
   },
   {
@@ -5033,54 +5027,54 @@
         "name": "Amount To Nothing",
         "year": "2001",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Way Of The Dead",
         "year": "2003",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Samsara",
         "year": "2006",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Transmutations",
         "year": "2007",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Of Seismic Consequence",
         "year": "2010",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Beyul",
         "year": "2012",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Sutra",
         "year": "2023",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -5094,14 +5088,14 @@
         "name": "Working Class Demon",
         "year": "2010",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Night Vision",
         "year": "2012",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -5122,7 +5116,7 @@
         "name": "Ad Aqua",
         "year": "2023",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -5134,7 +5128,7 @@
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Progressive Metal"
     ]
   },

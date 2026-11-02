@@ -11,7 +11,7 @@
           "Pop",
           "Hip Hop",
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
@@ -19,7 +19,7 @@
       "Pop",
       "Hip Hop",
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -623,7 +623,7 @@
         "name": "Chronicles Of An Aging Mammal",
         "year": "2007",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Death Metal",
           "Industrial Metal"
         ]
@@ -632,7 +632,7 @@
         "name": "The Gravity Of Impermanence",
         "year": "2013",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Death Metal",
           "Industrial Metal"
         ]
@@ -641,7 +641,7 @@
         "name": "The Third Perspective",
         "year": "2020",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Death Metal",
           "Industrial Metal"
         ]
@@ -650,14 +650,14 @@
         "name": "Cryptic Aura",
         "year": "2025",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Death Metal",
           "Industrial Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Death Metal",
       "Industrial Metal"
     ]
@@ -736,7 +736,7 @@
         "year": "2012",
         "genres": [
           "Death Doom Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -744,7 +744,7 @@
         "year": "2013",
         "genres": [
           "Death Doom Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -752,7 +752,7 @@
         "year": "2014",
         "genres": [
           "Death Doom Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -760,7 +760,7 @@
         "year": "2015",
         "genres": [
           "Death Doom Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -775,7 +775,7 @@
         "year": "2018",
         "genres": [
           "Death Doom Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -783,13 +783,13 @@
         "year": "2018",
         "genres": [
           "Death Doom Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Death Doom Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Drone Metal"
     ]
   },
@@ -802,7 +802,7 @@
         "name": "Charred Walls Of The Damned",
         "year": "2010",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -810,7 +810,7 @@
         "name": "Cold Winds On Timeless Days",
         "year": "2011",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -818,7 +818,7 @@
         "name": "Creatures Watching Over The Dead",
         "year": "2016",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -831,7 +831,7 @@
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Thrash Metal",
       "Heavy Metal"
     ]
@@ -1630,14 +1630,12 @@
         "name": "Fields of Agony",
         "year": "2026",
         "genres": [
-          "Black Metal",
-          "Metal"
+          "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Black Metal",
-      "Metal"
+      "Black Metal"
     ]
   },
   {
@@ -1696,7 +1694,7 @@
         "genres": [
           "Thrash Metal",
           "Heavy Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -1774,7 +1772,7 @@
       "Power Metal",
       "Heavy Metal",
       "Speed Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -1785,7 +1783,6 @@
         "name": "Alright / Living / Eternal",
         "year": "2026",
         "genres": [
-          "Various",
           "Experimental",
           "Raw Black Metal",
           "Noise"
@@ -1793,7 +1790,6 @@
       }
     ],
     "tags": [
-      "Various",
       "Experimental",
       "Raw Black Metal",
       "Noise"
@@ -1840,12 +1836,12 @@
         "name": "The Path Ahead",
         "year": "2013",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -1901,7 +1897,7 @@
         "name": "The Art Of Dreaming",
         "year": "1996",
         "genres": [
-          "Gothic Black",
+          "Gothic Black Metal",
           "Extreme Gothic Metal"
         ]
       },
@@ -1909,7 +1905,7 @@
         "name": "A Solemn Day",
         "year": "2000",
         "genres": [
-          "Gothic Black",
+          "Gothic Black Metal",
           "Extreme Gothic Metal"
         ]
       },
@@ -1917,7 +1913,7 @@
         "name": "Masquerade",
         "year": "2003",
         "genres": [
-          "Gothic Black",
+          "Gothic Black Metal",
           "Extreme Gothic Metal"
         ]
       },
@@ -1925,7 +1921,7 @@
         "name": "Return To Provenance",
         "year": "2012",
         "genres": [
-          "Gothic Black",
+          "Gothic Black Metal",
           "Extreme Gothic Metal"
         ]
       },
@@ -1933,7 +1929,7 @@
         "name": "Early Obscurity... Part 1",
         "year": "2017",
         "genres": [
-          "Gothic Black",
+          "Gothic Black Metal",
           "Extreme Gothic Metal"
         ]
       },
@@ -1941,13 +1937,13 @@
         "name": "Early Obscurity... Part 2",
         "year": "2017",
         "genres": [
-          "Gothic Black",
+          "Gothic Black Metal",
           "Extreme Gothic Metal"
         ]
       }
     ],
     "tags": [
-      "Gothic Black",
+      "Gothic Black Metal",
       "Extreme Gothic Metal"
     ]
   },
@@ -2262,7 +2258,7 @@
         "year": "2023",
         "genres": [
           "Contemporary",
-          "Post Rock",
+          "Post-Rock",
           "Classical",
           "Rock"
         ]
@@ -2270,7 +2266,7 @@
     ],
     "tags": [
       "Contemporary",
-      "Post Rock",
+      "Post-Rock",
       "Classical",
       "Rock"
     ]
@@ -2444,18 +2440,16 @@
         "name": "Maligna profanación",
         "year": "2026",
         "genres": [
-          "Black Black Metal",
-          "Death Metal | Death Black Metal",
-          "Black Metal | Death Black Metal",
-          "Black Metal"
+          "Black Metal",
+          "Death Metal",
+          "Death Black Metal"
         ]
       }
     ],
     "tags": [
-      "Black Black Metal",
-      "Death Metal | Death Black Metal",
-      "Black Metal | Death Black Metal",
-      "Black Metal"
+      "Black Metal",
+      "Death Metal",
+      "Death Black Metal"
     ]
   },
   {
@@ -2595,7 +2589,7 @@
         "name": "Be Afraid...",
         "year": "1997",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -2603,7 +2597,7 @@
         "name": "Songs To Bleed To",
         "year": "1998",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -2611,13 +2605,13 @@
         "name": "Faceless",
         "year": "2001",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -2679,13 +2673,13 @@
         "year": "2014",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
     "tags": [
       "Funk / Soul",
-      "Contemporary R&b"
+      "Contemporary R&B"
     ]
   },
   {
@@ -3059,12 +3053,12 @@
         "name": "Rotten Magick",
         "year": "2025",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Heavy"
+      "Blackened Heavy Metal"
     ]
   },
   {
@@ -3245,7 +3239,7 @@
         "year": "1999",
         "genres": [
           "Pop",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3253,7 +3247,7 @@
         "name": "Dont Try This At Home - Live",
         "year": "2000",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3282,7 +3276,7 @@
         "name": "Gluttons For Punishment",
         "year": "2005",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3298,7 +3292,6 @@
         "year": "2006",
         "genres": [
           "Progressive Rock",
-          "Prog Rock",
           "Rock"
         ]
       },
@@ -3313,7 +3306,7 @@
         "name": "Brief Nocturnes & Dreamless Sleep",
         "year": "2013",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3342,7 +3335,7 @@
         "name": "To Breathe Another Day",
         "year": "2018",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3356,7 +3349,6 @@
     ],
     "tags": [
       "Progressive Rock",
-      "Prog Rock",
       "Rock",
       "Pop"
     ]
@@ -4005,13 +3997,13 @@
         "year": "2021",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -4126,22 +4118,28 @@
         "name": "Maximum Metal Vol. 310",
         "year": "2026",
         "genres": [
-          "Heavy Metal | Power Death Metal",
+          "Heavy Metal",
+          "Power Death Metal",
           "Speed Death Metal",
-          "Thrash Metal | Melodic Doom Death Metal",
+          "Thrash Metal",
+          "Melodic Doom Death Metal",
           "Death Metal",
           "Gothic Metal",
-          "Rock  | Blackened Thrash Metal"
+          "Rock",
+          "Blackened Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Heavy Metal | Power Death Metal",
+      "Heavy Metal",
+      "Power Death Metal",
       "Speed Death Metal",
-      "Thrash Metal | Melodic Doom Death Metal",
+      "Thrash Metal",
+      "Melodic Doom Death Metal",
       "Death Metal",
       "Gothic Metal",
-      "Rock  | Blackened Thrash Metal"
+      "Rock",
+      "Blackened Thrash Metal"
     ]
   },
   {
@@ -4406,7 +4404,7 @@
         "name": "Lost In The Light",
         "year": "2016",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -4420,7 +4418,7 @@
         "name": "Into The Sea",
         "year": "2020",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -4446,7 +4444,7 @@
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Symphonic Metal"
     ]
   },

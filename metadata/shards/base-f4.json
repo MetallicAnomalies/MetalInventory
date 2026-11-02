@@ -465,68 +465,68 @@
         "name": "Black Capricorn",
         "year": "2011",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Born Under The Capricorn",
         "year": "2013",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Cult Of Black Friars",
         "year": "2014",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Ira Dei",
         "year": "2015",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Omega",
         "year": "2017",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Equinox",
         "year": "2018",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Solstice Ep",
         "year": "2019",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Cult Of Blood",
         "year": "2022",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Sacrifice Darkness And ... Fire",
         "year": "2024",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Doom"
+      "Psychedelic Doom Metal"
     ]
   },
   {
@@ -1216,7 +1216,7 @@
         "name": "Paramount",
         "year": "2016",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1250,7 +1250,7 @@
     ],
     "tags": [
       "Heavy Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1444,24 +1444,24 @@
         "name": "Try",
         "year": "2005",
         "genres": [
-          "Progressive Math",
-          "Hardcore Metal"
+          "Progressive Math Metal",
+          "Hardcore"
         ]
       },
       {
         "name": "Lifelong Days",
         "year": "2008",
         "genres": [
-          "Progressive Math",
-          "Hardcore Metal"
+          "Progressive Math Metal",
+          "Hardcore"
         ]
       },
       {
         "name": "Computer Crime",
         "year": "2011",
         "genres": [
-          "Progressive Math",
-          "Hardcore Metal"
+          "Progressive Math Metal",
+          "Hardcore"
         ]
       },
       {
@@ -1501,8 +1501,8 @@
       "Alternative",
       "Rock",
       "Death Metal",
-      "Progressive Math",
-      "Hardcore Metal"
+      "Progressive Math Metal",
+      "Hardcore"
     ]
   },
   {
@@ -1583,8 +1583,7 @@
         "genres": [
           "Hard Rock",
           "Progressive Rock",
-          "Rock",
-          "Prog Rock"
+          "Rock"
         ]
       },
       {
@@ -1600,7 +1599,7 @@
         "year": "2026",
         "genres": [
           "Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Space Rock",
           "Hard Rock"
         ]
@@ -1610,7 +1609,7 @@
         "year": "2018",
         "genres": [
           "Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Hard Rock"
         ]
       }
@@ -1619,7 +1618,6 @@
       "Hard Rock",
       "Progressive Rock",
       "Rock",
-      "Prog Rock",
       "Space Rock"
     ]
   },
@@ -1669,26 +1667,26 @@
         "name": "End The Hate",
         "year": "1988",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Face Reality",
         "year": "1988",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Hard Stance",
         "year": "1993",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1888,38 +1886,38 @@
         "name": "Architects Of Humanicide",
         "year": "2006",
         "genres": [
-          "Electro Metal",
-          "Industrial Metal"
+          "Electro",
+          "Industrial"
         ]
       },
       {
         "name": "Tesla",
         "year": "2008",
         "genres": [
-          "Electro Metal",
-          "Industrial Metal"
+          "Electro",
+          "Industrial"
         ]
       },
       {
         "name": "Les 12 Vertiges",
         "year": "2013",
         "genres": [
-          "Electro Metal",
-          "Industrial Metal"
+          "Electro",
+          "Industrial"
         ]
       },
       {
         "name": "Le Festin Du Lion",
         "year": "2019",
         "genres": [
-          "Electro Metal",
-          "Industrial Metal"
+          "Electro",
+          "Industrial"
         ]
       }
     ],
     "tags": [
-      "Electro Metal",
-      "Industrial Metal"
+      "Electro",
+      "Industrial"
     ]
   },
   {
@@ -1930,7 +1928,7 @@
         "name": "Precious Time",
         "year": "2006",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -1938,7 +1936,7 @@
         "name": "Over The Horizon",
         "year": "2007",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -1946,7 +1944,7 @@
         "name": "Eyes Of The Stranger",
         "year": "2011",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -1954,7 +1952,7 @@
         "name": "My Own God",
         "year": "2016",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -1962,13 +1960,13 @@
         "name": "Echoes Beyond",
         "year": "2024",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -2052,7 +2050,7 @@
         "year": "1995",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2060,7 +2058,7 @@
         "year": "1998",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2068,7 +2066,7 @@
         "year": "2001",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2076,7 +2074,7 @@
         "year": "2005",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2084,7 +2082,7 @@
         "year": "2006",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2092,7 +2090,7 @@
         "year": "2008",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2100,7 +2098,7 @@
         "year": "2010",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2113,8 +2111,7 @@
     ],
     "tags": [
       "Thrash Metal",
-      "Us Power",
-      "Metal"
+      "US Power Metal"
     ]
   },
   {
@@ -2431,7 +2428,7 @@
         "name": "Abuse / Plague",
         "year": "2014",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -2439,12 +2436,12 @@
         "name": "Rebirth",
         "year": "2022",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -2456,12 +2453,12 @@
         "name": "Abomination",
         "year": "2011",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2808,7 +2805,7 @@
         "genres": [
           "Alternative Rock",
           "Rock",
-          "Electro Metal"
+          "Electro"
         ]
       },
       {
@@ -2965,7 +2962,7 @@
       "Electro House",
       "Pop Rock",
       "Concert Film",
-      "Electro Metal",
+      "Electro",
       "Breakbeat",
       "Progressive Trance",
       "Trance",
@@ -3043,7 +3040,7 @@
         "year": "2020",
         "genres": [
           "Metalcore",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -3051,7 +3048,7 @@
         "year": "2022",
         "genres": [
           "Metalcore",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -3065,7 +3062,7 @@
     "tags": [
       "Thrash Metal",
       "Metalcore",
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Nu Metal"
     ]
   },
@@ -3157,12 +3154,12 @@
         "name": "Odds And Ends",
         "year": "2025",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -3227,7 +3224,7 @@
         "year": "1982",
         "genres": [
           "Heavy Metal",
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
@@ -3242,7 +3239,7 @@
         "year": "1983",
         "genres": [
           "Heavy Metal",
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
@@ -3250,7 +3247,7 @@
         "year": "1984",
         "genres": [
           "Heavy Metal",
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
@@ -3265,7 +3262,7 @@
         "year": "1993",
         "genres": [
           "Heavy Metal",
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
@@ -3273,7 +3270,7 @@
         "year": "1994",
         "genres": [
           "Heavy Metal",
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
@@ -3281,7 +3278,7 @@
         "year": "1994",
         "genres": [
           "Heavy Metal",
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
@@ -3315,7 +3312,7 @@
     ],
     "tags": [
       "Heavy Metal",
-      "First Wave Of Black"
+      "First Wave Black Metal"
     ]
   },
   {
@@ -3762,8 +3759,7 @@
       }
     ],
     "tags": [
-      "Black Metal",
-      "Metal"
+      "Black Metal"
     ]
   },
   {
@@ -4316,7 +4312,7 @@
         "genres": [
           "Heavy Metal",
           "Power Metal",
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
@@ -4324,7 +4320,7 @@
         "year": "2019",
         "genres": [
           "Power Metal",
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
@@ -4343,7 +4339,7 @@
     ],
     "tags": [
       "Power Metal",
-      "Epic Heavy",
+      "Epic Heavy Metal",
       "Heavy Metal",
       "Epic Heavy Power Metal"
     ]
@@ -4570,8 +4566,7 @@
     ],
     "tags": [
       "Doom Metal",
-      "Stoner Metal",
-      "Metal"
+      "Stoner Metal"
     ]
   },
   {
@@ -4692,24 +4687,16 @@
           "Coke Rap",
           "Mafioso Rap",
           "Pop",
-          "Hip-hop",
+          "Hip Hop",
           "East Coast Hip Hop",
           "Boom Bap",
           "Pop Rap",
           "Gangsta Rap",
-          "90 S Rap",
-          "Double Album",
           "Thug Rap",
-          "Hip Hop/rap",
           "Hip Hop Soul",
           "East Coast Rap",
-          "Pop-rap",
-          "Posthumous",
           "Rap",
-          "Rap/hip Hop",
-          "Hip Hop",
-          "Contemporary R&b",
-          "Hip-hop/rap"
+          "Contemporary R&B"
         ]
       },
       {
@@ -4722,24 +4709,16 @@
       "Coke Rap",
       "Mafioso Rap",
       "Pop",
-      "Hip-hop",
+      "Hip Hop",
       "East Coast Hip Hop",
       "Boom Bap",
       "Pop Rap",
       "Gangsta Rap",
-      "90 S Rap",
-      "Double Album",
       "Thug Rap",
-      "Hip Hop/rap",
       "Hip Hop Soul",
       "East Coast Rap",
-      "Pop-rap",
-      "Posthumous",
       "Rap",
-      "Rap/hip Hop",
-      "Hip Hop",
-      "Contemporary R&b",
-      "Hip-hop/rap"
+      "Contemporary R&B"
     ]
   },
   {
@@ -4751,40 +4730,40 @@
         "name": "Theocracy",
         "year": "2003",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Mirror Of Souls",
         "year": "2008",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "As The World Bleeds",
         "year": "2011",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Ghost Ship",
         "year": "2016",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Mosaic",
         "year": "2023",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -4795,26 +4774,26 @@
         "name": "Breaching Degrade",
         "year": "2012",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "The Art Of Evil",
         "year": "2017",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Obsidian Haze",
         "year": "2022",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -5316,47 +5295,47 @@
         "name": "On The Vortex Of Chasing The Desired Majesty",
         "year": "2012",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Behind The Veil Of The Light",
         "year": "2014",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "What's Shivering In The Dark Eye?",
         "year": "2015",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "On The Vortex Of Chasing The Abyss Of Despair",
         "year": "2016",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "My Sickle",
         "year": "2017",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "там? где!",
         "year": "2018",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -5429,7 +5408,7 @@
         "name": "Reborn",
         "year": "2006",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -5437,7 +5416,7 @@
         "name": "Rise To Power",
         "year": "2013",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -5445,7 +5424,7 @@
         "name": "Warriors",
         "year": "2014",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -5453,7 +5432,7 @@
         "name": "The Hunt",
         "year": "2017",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -5461,7 +5440,7 @@
         "name": "Man Or Machine",
         "year": "2019",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -5469,13 +5448,13 @@
         "name": "Visitors",
         "year": "2025",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Thrash Metal"
     ]
   },

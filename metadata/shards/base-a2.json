@@ -260,7 +260,7 @@
         "year": "2010",
         "genres": [
           "Symphonic Death Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -268,7 +268,7 @@
         "year": "2012",
         "genres": [
           "Symphonic Death Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -276,7 +276,7 @@
         "year": "2017",
         "genres": [
           "Symphonic Death Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -284,7 +284,7 @@
         "year": "2020",
         "genres": [
           "Symphonic Death Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -292,7 +292,7 @@
         "year": "2022",
         "genres": [
           "Symphonic Death Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -305,7 +305,7 @@
     ],
     "tags": [
       "Symphonic Death Metal",
-      "Oriental Folk",
+      "Oriental Folk Metal",
       "Death Metal",
       "Melodic Death Metal"
     ]
@@ -318,19 +318,19 @@
         "name": "De Zwaarte Van Het Doorstane",
         "year": "2010",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
         "name": "Een Van Ons",
         "year": "2021",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Doom"
+      "Atmospheric Doom Metal"
     ]
   },
   {
@@ -582,7 +582,7 @@
           "Music Video",
           "Hard Rock",
           "Rock",
-          "J-rock"
+          "J-Rock"
         ]
       }
     ],
@@ -591,7 +591,7 @@
       "Music Video",
       "Hard Rock",
       "Rock",
-      "J-rock"
+      "J-Rock"
     ]
   },
   {
@@ -638,14 +638,14 @@
         "year": "2023",
         "genres": [
           "Heavy Metal",
-          "Post Rock",
+          "Post-Rock",
           "Math Rock"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Post Rock",
+      "Post-Rock",
       "Math Rock"
     ]
   },
@@ -1345,21 +1345,21 @@
         "name": "Eternity Rites",
         "year": "1998",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "In Nomine Aeternitatis",
         "year": "2000",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "The Dissolution Of Eternity",
         "year": "2001",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -1374,12 +1374,12 @@
         "name": "Rise And Fall",
         "year": "2004",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
-      "Ambient Metal",
+      "Ambient",
       "Electronic",
       "Modern Classical"
     ]
@@ -1883,12 +1883,12 @@
         "name": "The Fading Light",
         "year": "2021",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Death"
+      "Experimental Death Metal"
     ]
   },
   {
@@ -1936,15 +1936,12 @@
         "name": "Asuras",
         "year": "2026",
         "genres": [
-          "Melodic Black Metal with Folk Classical influences",
-          "Classical influences"
+          "Melodic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Black Metal",
-      "Melodic Black Metal with Folk Classical influences",
-      "Classical influences"
+      "Melodic Black Metal"
     ]
   },
   {
@@ -2074,7 +2071,7 @@
         "genres": [
           "Death Metal",
           "Crust Punk",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2083,7 +2080,7 @@
         "genres": [
           "Death Metal",
           "Crust Punk",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2092,14 +2089,14 @@
         "genres": [
           "Death Metal",
           "Crust Punk",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Death Metal",
       "Crust Punk",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2131,7 +2128,7 @@
         "name": "Axiom Of Choice",
         "year": "2021",
         "genres": [
-          "Progressive Gothic",
+          "Progressive Gothic Metal",
           "Progressive Metal"
         ]
       },
@@ -2139,13 +2136,13 @@
         "name": "Galois Paradox",
         "year": "2024",
         "genres": [
-          "Progressive Gothic",
+          "Progressive Gothic Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Gothic",
+      "Progressive Gothic Metal",
       "Progressive Metal"
     ]
   },
@@ -2187,62 +2184,62 @@
         "name": "Prophecy",
         "year": "2013",
         "genres": [
-          "Melodic Heavy",
-          "Symphonic Progressive"
+          "Melodic Heavy Metal",
+          "Symphonic Progressive Metal"
         ]
       },
       {
         "name": "Fist Of The Seven Stars - Act 1: Fist Of Steel",
         "year": "2016",
         "genres": [
-          "Melodic Heavy",
-          "Symphonic Progressive"
+          "Melodic Heavy Metal",
+          "Symphonic Progressive Metal"
         ]
       },
       {
         "name": "\"Over The Olympus\" Concerto For Synthesizer And Orchestra In D Minor Op. 1",
         "year": "2017",
         "genres": [
-          "Melodic Heavy",
-          "Symphonic Progressive"
+          "Melodic Heavy Metal",
+          "Symphonic Progressive Metal"
         ]
       },
       {
         "name": "Fist Of The Seven Stars - Act 2: Hokuto Brothers",
         "year": "2018",
         "genres": [
-          "Melodic Heavy",
-          "Symphonic Progressive"
+          "Melodic Heavy Metal",
+          "Symphonic Progressive Metal"
         ]
       },
       {
         "name": "Fist Of The Seven Stars - Act 3: Nanto Chaos",
         "year": "2020",
         "genres": [
-          "Melodic Heavy",
-          "Symphonic Progressive"
+          "Melodic Heavy Metal",
+          "Symphonic Progressive Metal"
         ]
       },
       {
         "name": "Dragonblood",
         "year": "2022",
         "genres": [
-          "Melodic Heavy",
-          "Symphonic Progressive"
+          "Melodic Heavy Metal",
+          "Symphonic Progressive Metal"
         ]
       },
       {
         "name": "Fist Of The Seven Stars - Act 4: Five Forces",
         "year": "2024",
         "genres": [
-          "Melodic Heavy",
-          "Symphonic Progressive"
+          "Melodic Heavy Metal",
+          "Symphonic Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
-      "Symphonic Progressive"
+      "Melodic Heavy Metal",
+      "Symphonic Progressive Metal"
     ]
   },
   {
@@ -2564,10 +2561,10 @@
         "name": "Asja",
         "year": "2022",
         "genres": [
-          "Ambient Metal",
-          "Folk Metal",
+          "Ambient",
+          "Folk",
           "Electronic",
-          "Experimental Metal",
+          "Experimental",
           "Folk, World, & Country"
         ]
       },
@@ -2575,10 +2572,10 @@
         "name": "Drif",
         "year": "2022",
         "genres": [
-          "Ambient Metal",
-          "Folk Metal",
+          "Ambient",
+          "Folk",
           "Electronic",
-          "Experimental Metal",
+          "Experimental",
           "Folk, World, & Country"
         ]
       },
@@ -2589,10 +2586,10 @@
       }
     ],
     "tags": [
-      "Ambient Metal",
-      "Folk Metal",
+      "Ambient",
+      "Folk",
       "Electronic",
-      "Experimental Metal",
+      "Experimental",
       "Folk, World, & Country"
     ]
   },
@@ -3906,12 +3903,12 @@
         "name": "Strange Transmissions From The Neuralnomicon",
         "year": "2013",
         "genres": [
-          "Psychedelic Death"
+          "Psychedelic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Death"
+      "Psychedelic Death Metal"
     ]
   },
   {
@@ -4072,13 +4069,13 @@
         "name": "I Dreamed Of Electric Sheep",
         "year": "2021",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -4091,26 +4088,26 @@
         "name": "The Unholy Manipulator",
         "year": "2010",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Buried In Violence",
         "year": "2016",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "You Brought This War",
         "year": "2021",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -4307,7 +4304,7 @@
         "name": "Kivisydän",
         "year": "2004",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -4315,7 +4312,7 @@
         "name": "Jäähyvästi",
         "year": "2008",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -4323,7 +4320,7 @@
         "name": "Vuoroveri",
         "year": "2009",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -4331,7 +4328,7 @@
         "name": "Kärsimysnäytelmä",
         "year": "2016",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -4339,13 +4336,13 @@
         "name": "Vain Toinen Heistä",
         "year": "2021",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Doom",
+      "Melodic Doom Metal",
       "Melodic Death Metal"
     ]
   },
@@ -4590,7 +4587,7 @@
         "year": "2002",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -4598,14 +4595,13 @@
         "year": "2005",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal",
-      "Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4620,21 +4616,21 @@
         "name": "Fatal Mistake",
         "year": "2000",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
         "name": "Enter Eternity",
         "year": "2005",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
         "name": "Reset",
         "year": "2008",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
@@ -4652,7 +4648,7 @@
       }
     ],
     "tags": [
-      "Neoclassical Power",
+      "Neoclassical Power Metal",
       "Power Metal",
       "Symphonic Metal"
     ]
@@ -4763,7 +4759,7 @@
         "year": "1997",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4771,7 +4767,7 @@
         "year": "1998",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4779,7 +4775,7 @@
         "year": "2000",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4787,13 +4783,13 @@
         "year": "2003",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -4927,7 +4923,7 @@
         "name": "Dungeons Of Doom",
         "year": "2024",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       },
@@ -4935,13 +4931,13 @@
         "name": "Hyperspace Odyssey",
         "year": "2025",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Doom",
+      "Psychedelic Doom Metal",
       "Stoner Metal"
     ]
   },
@@ -5016,12 +5012,12 @@
         "name": "Super Kids - De Leukste Kinderliedjes",
         "year": "2016",
         "genres": [
-          "Children's Music"
+          "Children's"
         ]
       }
     ],
     "tags": [
-      "Children's Music"
+      "Children's"
     ]
   },
   {
@@ -5032,7 +5028,7 @@
         "name": "Phantasms",
         "year": "2020",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Black Metal"
         ]
       },
@@ -5040,13 +5036,13 @@
         "name": "The Lord Is With Us",
         "year": "2022",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Doom",
+      "Psychedelic Doom Metal",
       "Black Metal"
     ]
   },
@@ -5173,7 +5169,7 @@
         "year": "2025",
         "genres": [
           "Mathcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       }
@@ -5181,7 +5177,7 @@
     "tags": [
       "Metalcore",
       "Mathcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -5275,7 +5271,7 @@
         "year": "2020",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Electronic",
           "Electro House",
           "Synth-pop",
@@ -5285,7 +5281,7 @@
     ],
     "tags": [
       "Funk / Soul",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Electronic",
       "Electro House",
       "Synth-pop",

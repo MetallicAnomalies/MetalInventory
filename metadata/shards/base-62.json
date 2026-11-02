@@ -242,26 +242,26 @@
         "name": "Broken Pledge",
         "year": "2003",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "The Harvest",
         "year": "2005",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Resistance",
         "year": "2006",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -333,21 +333,21 @@
         "name": "The Alliance Of The Kings",
         "year": "2010",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Soulless Child",
         "year": "2011",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "A New Dawn Ending",
         "year": "2014",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -362,7 +362,7 @@
         "name": "Origine",
         "year": "2019",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -377,12 +377,12 @@
         "name": "Artifex",
         "year": "2025",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Symphonic Metal",
       "Power Metal"
     ]
@@ -494,19 +494,19 @@
         "name": "Reign",
         "year": "1992",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "So Alive",
         "year": "1995",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -589,7 +589,7 @@
         "name": "Power From The East",
         "year": "2014",
         "genres": [
-          "Blackened Heavy",
+          "Blackened Heavy Metal",
           "Speed Metal"
         ]
       },
@@ -597,13 +597,13 @@
         "name": "Kings In Saurons Service",
         "year": "2016",
         "genres": [
-          "Blackened Heavy",
+          "Blackened Heavy Metal",
           "Speed Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Heavy",
+      "Blackened Heavy Metal",
       "Speed Metal"
     ]
   },
@@ -708,14 +708,16 @@
         "name": "Signs of the Black Oath",
         "year": "2026",
         "genres": [
-          "Black Death Metal | Black Metal",
-          "Death Metal | Black Metal"
+          "Black Death Metal",
+          "Black Metal",
+          "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Black Death Metal | Black Metal",
-      "Death Metal | Black Metal"
+      "Black Death Metal",
+      "Black Metal",
+      "Death Metal"
     ]
   },
   {
@@ -788,14 +790,14 @@
         "name": "My Mind",
         "year": "2024",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Gothic Metal",
           "Symphonic Metal"
         ]
       }
     ],
     "tags": [
-      "Goth Rock",
+      "Gothic Rock",
       "Gothic Metal",
       "Symphonic Metal"
     ]
@@ -1349,14 +1351,14 @@
         "name": "And On & On...",
         "year": "2011",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Grindcore",
       "Punk"
     ]
@@ -1409,13 +1411,13 @@
         "year": "2020",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -2254,7 +2256,7 @@
         "year": "2024",
         "genres": [
           "Electronic",
-          "Post-punk",
+          "Post-Punk",
           "Rock",
           "Darkwave"
         ]
@@ -2270,7 +2272,7 @@
     "tags": [
       "Industrial Rock",
       "Electronic",
-      "Post-punk",
+      "Post-Punk",
       "Darkwave",
       "Industrial Metal",
       "Doom Metal",
@@ -2413,12 +2415,12 @@
         "name": "Mindflayers",
         "year": "2011",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Epic Heavy"
+      "Epic Heavy Metal"
     ]
   },
   {
@@ -2667,19 +2669,19 @@
         "name": "Immortal Kiss",
         "year": "2003",
         "genres": [
-          "Symphonic Heavy"
+          "Symphonic Heavy Metal"
         ]
       },
       {
         "name": "Into Salvation",
         "year": "2005",
         "genres": [
-          "Symphonic Heavy"
+          "Symphonic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Heavy"
+      "Symphonic Heavy Metal"
     ]
   },
   {
@@ -2769,13 +2771,13 @@
         "name": "Ereshkigal",
         "year": "2019",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Shred"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Shred"
     ]
   },
@@ -2902,12 +2904,12 @@
         "name": "To Take Up The Cross",
         "year": "2014",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Doom"
+      "Atmospheric Doom Metal"
     ]
   },
   {
@@ -3257,26 +3259,26 @@
         "name": "Samples Of Reality",
         "year": "2013",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Secular Noir",
         "year": "2014",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Ii",
         "year": "2017",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Black"
+      "Psychedelic Black Metal"
     ]
   },
   {
@@ -3623,26 +3625,26 @@
         "name": "La Dernière Renaissance",
         "year": "2014",
         "genres": [
-          "Progressive Math"
+          "Progressive Math Metal"
         ]
       },
       {
         "name": "An Zéro",
         "year": "2018",
         "genres": [
-          "Progressive Math"
+          "Progressive Math Metal"
         ]
       },
       {
         "name": "Humain",
         "year": "2021",
         "genres": [
-          "Progressive Math"
+          "Progressive Math Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Math",
+      "Progressive Math Metal",
       "Industrial Metal",
       "Post-Metal",
       "Thrash Metal"
@@ -3798,17 +3800,13 @@
         "year": "2021",
         "genres": [
           "Death Doom Metal",
-          "Doom Death",
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
       "Death Doom Metal",
-      "Doom Death",
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {
@@ -4004,7 +4002,7 @@
         "genres": [
           "Hard Rock",
           "Pop Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4013,14 +4011,14 @@
         "genres": [
           "Hard Rock",
           "Pop Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Hard Rock",
       "Pop Rock",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -4109,7 +4107,7 @@
         "year": "2021",
         "genres": [
           "Folk Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4117,13 +4115,13 @@
         "year": "2025",
         "genres": [
           "Folk Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Folk Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -4220,7 +4218,7 @@
         "name": "Poems To The Wretches Hearts",
         "year": "1999",
         "genres": [
-          "Ambient Metal",
+          "Ambient",
           "Black Metal",
           "Doom Metal"
         ]
@@ -4229,7 +4227,7 @@
         "name": "Tausend Kalte Winter",
         "year": "2000",
         "genres": [
-          "Ambient Metal",
+          "Ambient",
           "Black Metal",
           "Doom Metal"
         ]
@@ -4238,7 +4236,7 @@
         "name": "To The Elements",
         "year": "2017",
         "genres": [
-          "Ambient Metal",
+          "Ambient",
           "Black Metal",
           "Doom Metal"
         ]
@@ -4252,7 +4250,7 @@
       }
     ],
     "tags": [
-      "Ambient Metal",
+      "Ambient",
       "Black Metal",
       "Doom Metal"
     ]
@@ -4596,7 +4594,7 @@
           "Funk / Soul",
           "Easy Listening",
           "Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Ballad",
           "Pop",
           "Jazz",
@@ -4608,7 +4606,7 @@
         "year": "2000",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
@@ -4616,7 +4614,7 @@
       "Funk / Soul",
       "Easy Listening",
       "Soul",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Ballad",
       "Pop",
       "Jazz",
@@ -5018,7 +5016,7 @@
         "name": "La Nueva Era",
         "year": "2021",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -5026,16 +5024,15 @@
         "year": "2026",
         "genres": [
           "Thrash Groove Metal",
-          "Nu-Metal",
-          "Groove Metal",
-          "Nu-Metal"
+          "Nu Metal",
+          "Groove Metal"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Thrash Groove Metal",
-      "Nu-Metal",
+      "Nu Metal",
       "Groove Metal"
     ]
   },
@@ -5112,7 +5109,7 @@
         "name": "As Life Drifts Away",
         "year": "2022",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Black Metal"
         ]
       },
@@ -5120,7 +5117,7 @@
         "name": "Land Of Tragedy",
         "year": "2022",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Black Metal"
         ]
       },
@@ -5128,7 +5125,7 @@
         "name": "Hating Life",
         "year": "2023",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Black Metal"
         ]
       },
@@ -5136,13 +5133,13 @@
         "name": "Death Wash Over Me",
         "year": "2024",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Doom",
+      "Melodic Doom Metal",
       "Melodic Black Metal"
     ]
   },
@@ -5228,7 +5225,7 @@
         "genres": [
           "Black Metal",
           "Death Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Black Metal"
         ]
       },
@@ -5244,7 +5241,7 @@
       "Progressive Black Metal",
       "Black Metal",
       "Death Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {

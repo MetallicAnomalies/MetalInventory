@@ -62,8 +62,7 @@
       "Art Rock",
       "Pop",
       "Dream Pop",
-      "Gothic Metal",
-      "Metal"
+      "Gothic Metal"
     ]
   },
   {
@@ -1358,7 +1357,7 @@
         "year": "2012",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -1366,7 +1365,7 @@
         "year": "2013",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -1374,7 +1373,7 @@
         "year": "2016",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -1382,7 +1381,7 @@
         "year": "2023",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -1404,13 +1403,13 @@
         "year": "2025",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -1557,13 +1556,13 @@
         "name": "Elexorien",
         "year": "2007",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Black Metal"
     ]
   },
@@ -1751,40 +1750,40 @@
         "name": "Lullaby For Heathen Spawn",
         "year": "2009",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "In The Name Of The Father, The Son And The Unholy",
         "year": "2011",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Mark Of The Devil",
         "year": "2013",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Fury Of The Scorned Witch",
         "year": "2016",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Chaosmorphogoria",
         "year": "2023",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Heavy"
+      "Blackened Heavy Metal"
     ]
   },
   {
@@ -1995,12 +1994,12 @@
         "name": "Power And Glory",
         "year": "2008",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Power"
+      "Neoclassical Power Metal"
     ]
   },
   {
@@ -2063,15 +2062,13 @@
         "name": "Projections",
         "year": "2026",
         "genres": [
-          "Doom Metal",
-          "Metal"
+          "Doom Metal"
         ]
       }
     ],
     "tags": [
       "Epic Doom Metal",
-      "Doom Metal",
-      "Metal"
+      "Doom Metal"
     ]
   },
   {
@@ -2082,12 +2079,12 @@
         "name": "Towers In The Distance",
         "year": "2014",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -2113,7 +2110,7 @@
         "name": "The Circle",
         "year": "2017",
         "genres": [
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
@@ -2129,14 +2126,14 @@
         "year": "2023",
         "genres": [
           "Black Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       },
       {
         "name": "Nightsphere",
         "year": "2023",
         "genres": [
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
@@ -2144,30 +2141,30 @@
         "year": "2023",
         "genres": [
           "Black Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       },
       {
         "name": "Wastelands",
         "year": "2023",
         "genres": [
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Solastalgia",
         "year": "2025",
         "genres": [
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-black Metal",
+      "Post-Black Metal",
       "Depressive Black Metal",
       "Black Metal",
       "Post-Metal",
-      "Post Rock"
+      "Post-Rock"
     ]
   },
   {
@@ -2411,7 +2408,7 @@
         "year": "2012",
         "genres": [
           "Symphonic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2420,7 +2417,7 @@
         "year": "2013",
         "genres": [
           "Symphonic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2429,7 +2426,7 @@
         "year": "2015",
         "genres": [
           "Symphonic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2439,14 +2436,14 @@
         "genres": [
           "Art Rock",
           "Symphonic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Symphonic Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock",
       "Art Rock"
     ]
@@ -3112,14 +3109,12 @@
         "name": "Altar of Dispair",
         "year": "2026",
         "genres": [
-          "Black Metal with Doom Sludge elements",
-          "Sludge elements"
+          "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Black Metal with Doom Sludge elements",
-      "Sludge elements"
+      "Black Metal"
     ]
   },
   {
@@ -3146,19 +3141,19 @@
         "name": "Blurred Vision Of Hope",
         "year": "1998",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "N-coded",
         "year": "2001",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -3265,7 +3260,7 @@
         "year": "1993",
         "genres": [
           "Folk Metal",
-          "Gothic Black"
+          "Gothic Black Metal"
         ]
       },
       {
@@ -3273,7 +3268,7 @@
         "year": "1994",
         "genres": [
           "Folk Metal",
-          "Gothic Black"
+          "Gothic Black Metal"
         ]
       },
       {
@@ -3281,7 +3276,7 @@
         "year": "1995",
         "genres": [
           "Folk Metal",
-          "Gothic Black"
+          "Gothic Black Metal"
         ]
       },
       {
@@ -3318,7 +3313,7 @@
         "name": "Butterfly Effect",
         "year": "1999",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Death Metal",
           "Doom Metal"
         ]
@@ -3334,7 +3329,7 @@
         "name": "Darkness & Hope",
         "year": "2001",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Doom Metal"
         ]
       },
@@ -3350,7 +3345,7 @@
         "year": "2003",
         "genres": [
           "Black Metal",
-          "Goth Rock"
+          "Gothic Rock"
         ]
       },
       {
@@ -3435,16 +3430,14 @@
     ],
     "tags": [
       "Folk Metal",
-      "Gothic Black",
+      "Gothic Black Metal",
       "Gothic Metal",
       "Symphonic Black Metal",
-      "Goth Rock",
+      "Gothic Rock",
       "Death Metal",
       "Doom Metal",
       "Black Metal",
-      "Folk Rock",
-      "Gothic Rock",
-      "Metal"
+      "Folk Rock"
     ]
   },
   {
@@ -3480,7 +3473,7 @@
         "year": "2005",
         "genres": [
           "Heavy Metal",
-          "Goth Rock",
+          "Gothic Rock",
           "Gothic Metal"
         ]
       },
@@ -3495,7 +3488,7 @@
     "tags": [
       "Gothic Metal",
       "Heavy Metal",
-      "Goth Rock"
+      "Gothic Rock"
     ]
   },
   {
@@ -3599,7 +3592,7 @@
         "name": "Nanoverzum",
         "year": "2011",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       },
@@ -3607,7 +3600,7 @@
         "name": "űRerdő",
         "year": "2011",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       },
@@ -3615,7 +3608,7 @@
         "name": "űRkert",
         "year": "2011",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       },
@@ -3623,7 +3616,7 @@
         "name": "Lombotómia",
         "year": "2012",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       },
@@ -3631,7 +3624,7 @@
         "name": "Oort",
         "year": "2012",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       },
@@ -3639,7 +3632,7 @@
         "name": "Oort Ii.",
         "year": "2012",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       },
@@ -3647,7 +3640,7 @@
         "name": "Belaja Tajga",
         "year": "2013",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       },
@@ -3655,7 +3648,7 @@
         "name": "Belaja Tajga 2.",
         "year": "2014",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       },
@@ -3663,7 +3656,7 @@
         "name": "Eventvm Fatali",
         "year": "2014",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       },
@@ -3671,7 +3664,7 @@
         "name": "Rabies Lyssa",
         "year": "2014",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       },
@@ -3679,7 +3672,7 @@
         "name": "Gleccserek",
         "year": "2015",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       },
@@ -3687,7 +3680,7 @@
         "name": "D.i.m.",
         "year": "2016",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       },
@@ -3695,7 +3688,7 @@
         "name": "Pulzár",
         "year": "2016",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       },
@@ -3703,7 +3696,7 @@
         "name": "Homo Maleficus",
         "year": "2017",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       },
@@ -3711,7 +3704,7 @@
         "name": "Apples",
         "year": "2018",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       },
@@ -3719,7 +3712,7 @@
         "name": "Templom",
         "year": "2019",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       },
@@ -3727,13 +3720,13 @@
         "name": "Covid Diaries",
         "year": "2020",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Dark Ambient"
         ]
       }
     ],
     "tags": [
-      "Experimental Black",
+      "Experimental Black Metal",
       "Dark Ambient"
     ]
   },
@@ -4099,26 +4092,26 @@
         "name": "Strata",
         "year": "2022",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
         "name": "Erebus",
         "year": "2024",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
         "name": "The Silver Sea",
         "year": "2025",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Doom"
+      "Atmospheric Doom Metal"
     ]
   },
   {
@@ -4268,7 +4261,7 @@
         "name": "2020 Flex",
         "year": "2020",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -4276,7 +4269,7 @@
         "name": "Gang Called Speed",
         "year": "2022",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -4284,7 +4277,7 @@
         "name": "Only One Mode",
         "year": "2024",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -4292,13 +4285,13 @@
         "name": "All My Angels",
         "year": "2025",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -4313,7 +4306,7 @@
         "genres": [
           "Sludge Metal",
           "Stoner Rock",
-          "Post Rock",
+          "Post-Rock",
           "Atmospheric Sludge Metal"
         ]
       },
@@ -4343,7 +4336,7 @@
       "Atmospheric Sludge Metal",
       "Sludge Metal",
       "Stoner Rock",
-      "Post Rock"
+      "Post-Rock"
     ]
   },
   {
@@ -4536,7 +4529,7 @@
         "year": "2002",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4544,14 +4537,14 @@
         "year": "2002",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "In Love & Death",
         "year": "2004",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Nu Metal",
           "Punk",
           "Alternative Rock"
@@ -4562,16 +4555,16 @@
         "year": "2007",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Nu Metal",
       "Punk",
       "Alternative Rock",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -4900,12 +4893,12 @@
         "name": "åSa",
         "year": "2010",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       }
     ],
     "tags": [
-      "Viking Black"
+      "Viking Black Metal"
     ]
   },
   {
@@ -5194,19 +5187,19 @@
         "name": "Wreche",
         "year": "2017",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "All My Dreams Came True",
         "year": "2021",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {

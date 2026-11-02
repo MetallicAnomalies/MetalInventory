@@ -59,13 +59,13 @@
         "name": "Parasites Of Paradise",
         "year": "2013",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Instrumental"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Instrumental"
     ]
   },
@@ -108,35 +108,35 @@
         "name": "Dawn Of Martyrdom",
         "year": "1996",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Rite Of Metamorphosis",
         "year": "1997",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "The Weaving Fates",
         "year": "2002",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Night Mares",
         "year": "2011",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Gilgamesh",
         "year": "2012",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
@@ -148,7 +148,7 @@
       }
     ],
     "tags": [
-      "Blackened Heavy",
+      "Blackened Heavy Metal",
       "Heavy Metal"
     ]
   },
@@ -192,7 +192,7 @@
         "name": "Where Myth Fades To Legend",
         "year": "2008",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Emo"
         ]
       },
@@ -200,7 +200,7 @@
         "name": "The Emptiness",
         "year": "2010",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Emo"
         ]
       },
@@ -209,14 +209,14 @@
         "year": "2015",
         "genres": [
           "Emo",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Emo",
-      "Post-hardcore",
-      "Hardcore Metal",
+      "Post-Hardcore",
+      "Hardcore",
       "Rock"
     ]
   },
@@ -229,7 +229,7 @@
         "year": "2004",
         "genres": [
           "Gothic Metal",
-          "Melodic Progressive"
+          "Melodic Progressive Metal"
         ]
       },
       {
@@ -237,13 +237,13 @@
         "year": "2010",
         "genres": [
           "Gothic Metal",
-          "Melodic Progressive"
+          "Melodic Progressive Metal"
         ]
       }
     ],
     "tags": [
       "Gothic Metal",
-      "Melodic Progressive"
+      "Melodic Progressive Metal"
     ]
   },
   {
@@ -334,34 +334,34 @@
         "name": "Background",
         "year": "2009",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Frontside",
         "year": "2009",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Lines Breaking Circles",
         "year": "2010",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Mirages",
         "year": "2014",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Atmospheric Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Atmospheric Sludge Metal"
     ]
   },
@@ -994,7 +994,7 @@
         "year": "2018",
         "genres": [
           "Country Rock",
-          "Folk Metal",
+          "Folk",
           "Folk, World, & Country",
           "Folk Rock",
           "Nordic"
@@ -1003,7 +1003,7 @@
     ],
     "tags": [
       "Country Rock",
-      "Folk Metal",
+      "Folk",
       "Folk, World, & Country",
       "Folk Rock",
       "Nordic"
@@ -1231,7 +1231,7 @@
         "year": "2015",
         "genres": [
           "Samba",
-          "Cha Cha Cha",
+          "Cha",
           "Tango",
           "Latin Dance"
         ]
@@ -1239,7 +1239,7 @@
     ],
     "tags": [
       "Samba",
-      "Cha Cha Cha",
+      "Cha",
       "Tango",
       "Latin Dance"
     ]
@@ -1258,12 +1258,12 @@
           "Acoustic",
           "Folk Rock",
           "Avant-garde Jazz",
-          "Prog Rock",
-          "Post Rock",
-          "Avantgarde Metal",
-          "Hardcore Metal",
-          "Noise Metal",
-          "Post-hardcore",
+          "Progressive Rock",
+          "Post-Rock",
+          "Avant-garde Metal",
+          "Hardcore",
+          "Noise",
+          "Post-Hardcore",
           "Jazz",
           "Death Metal",
           "Post-Metal",
@@ -1280,12 +1280,12 @@
       "Acoustic",
       "Folk Rock",
       "Avant-garde Jazz",
-      "Prog Rock",
-      "Post Rock",
-      "Avantgarde Metal",
-      "Hardcore Metal",
-      "Noise Metal",
-      "Post-hardcore",
+      "Progressive Rock",
+      "Post-Rock",
+      "Avant-garde Metal",
+      "Hardcore",
+      "Noise",
+      "Post-Hardcore",
       "Jazz",
       "Death Metal",
       "Post-Metal",
@@ -1645,13 +1645,13 @@
         "name": "Planta 4⁰",
         "year": "2008",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Metalcore"
     ]
   },
@@ -1706,12 +1706,12 @@
         "name": "The Metal Opera By Magnus Karlsson",
         "year": "2021",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Power"
+      "Neoclassical Power Metal"
     ]
   },
   {
@@ -2017,8 +2017,7 @@
     ],
     "tags": [
       "Symphonic Black Metal",
-      "Symphonic Deathcore",
-      "Metal"
+      "Symphonic Deathcore"
     ]
   },
   {
@@ -2192,35 +2191,35 @@
         "name": "Super Metal",
         "year": "2012",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Revolution Part I",
         "year": "2014",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Age Of Revolution",
         "year": "2018",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Psychosomatic",
         "year": "2021",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Perfect Person",
         "year": "2022",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -2235,12 +2234,12 @@
         "name": "Unite And Conquer",
         "year": "2023",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power",
+      "Progressive Power Metal",
       "Progressive Metal",
       "Power Metal"
     ]
@@ -2705,33 +2704,33 @@
         "name": "Atom",
         "year": "2013",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "King Goat",
         "year": "2013",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Conduit",
         "year": "2016",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Debt Of Aeons",
         "year": "2018",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Doom"
+      "Psychedelic Doom Metal"
     ]
   },
   {
@@ -3105,7 +3104,7 @@
         "year": "1995",
         "genres": [
           "Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -3114,7 +3113,7 @@
         "genres": [
           "Melodic Death Metal",
           "Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -3172,7 +3171,7 @@
         "year": "2004",
         "genres": [
           "Death Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3251,10 +3250,10 @@
     "tags": [
       "Melodic Death Metal",
       "Death Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Speed Metal",
       "Heavy Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Progressive Melodic Death Metal"
     ]
   },
@@ -3311,7 +3310,7 @@
         "genres": [
           "Punk",
           "Pop Punk",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Alternative Rock"
         ]
       },
@@ -3329,7 +3328,7 @@
     "tags": [
       "Punk",
       "Pop Punk",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Alternative Rock",
       "Emo",
       "Rock"
@@ -3466,14 +3465,14 @@
         "name": "Insemination Rites Of The Succubus",
         "year": "2018",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "Phantasmal Scourge",
         "year": "2022",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
@@ -3483,7 +3482,7 @@
       }
     ],
     "tags": [
-      "Doom Death"
+      "Death Doom Metal"
     ]
   },
   {
@@ -3551,7 +3550,7 @@
         "year": "2015",
         "genres": [
           "Experimental Rock",
-          "Electro Avantgarde"
+          "Electro Avant-garde"
         ]
       },
       {
@@ -3559,13 +3558,13 @@
         "year": "2017",
         "genres": [
           "Experimental Rock",
-          "Electro Avantgarde"
+          "Electro Avant-garde"
         ]
       }
     ],
     "tags": [
       "Experimental Rock",
-      "Electro Avantgarde"
+      "Electro Avant-garde"
     ]
   },
   {
@@ -3795,13 +3794,13 @@
         "year": "2015",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -3990,13 +3989,13 @@
         "name": "Unleash The Freak",
         "year": "2022",
         "genres": [
-          "Psy-trance",
+          "Psytrance",
           "Electronic"
         ]
       }
     ],
     "tags": [
-      "Psy-trance",
+      "Psytrance",
       "Electronic"
     ]
   },
@@ -4044,7 +4043,7 @@
         "year": "2016",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -4052,7 +4051,7 @@
         "year": "2018",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -4060,7 +4059,7 @@
         "year": "2020",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -4068,7 +4067,7 @@
         "year": "2022",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -4076,13 +4075,13 @@
         "year": "2026",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4176,40 +4175,40 @@
         "name": "Aikamme Orjat",
         "year": "2003",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Heikkojen Herralle",
         "year": "2006",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Ihmisen Nimeen",
         "year": "2007",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Feeniks",
         "year": "2009",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Nereus",
         "year": "2012",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -4417,7 +4416,7 @@
         "name": "The Kyteman Orchestra",
         "year": "2012",
         "genres": [
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Classical",
           "Hip Hop",
@@ -4426,7 +4425,7 @@
       }
     ],
     "tags": [
-      "Electro Metal",
+      "Electro",
       "Electronic",
       "Classical",
       "Hip Hop",
@@ -4491,7 +4490,7 @@
         "name": "Fist Held High",
         "year": "1984",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -4499,7 +4498,7 @@
         "name": "Invitation To Insanity",
         "year": "2002",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -4507,7 +4506,7 @@
         "name": "Reincarnation",
         "year": "2015",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -4515,7 +4514,7 @@
         "name": "Harvest Of Souls",
         "year": "2018",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -4523,13 +4522,13 @@
         "name": "The Helm Of Awe",
         "year": "2020",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Heavy Metal"
     ]
   },
@@ -4639,14 +4638,14 @@
         "genres": [
           "Electronic",
           "Pop",
-          "Electro Metal"
+          "Electro"
         ]
       }
     ],
     "tags": [
       "Electronic",
       "Pop",
-      "Electro Metal"
+      "Electro"
     ]
   },
   {
@@ -4674,7 +4673,7 @@
         "name": "Bright Lights Ep",
         "year": "1981",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -4707,9 +4706,8 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
-      "Heavy Metal",
-      "Metal"
+      "NWOBHM",
+      "Heavy Metal"
     ]
   },
   {
@@ -4980,9 +4978,9 @@
         "name": "Dreh Auf!",
         "year": "2019",
         "genres": [
-          "Electro Metal",
+          "Electro",
           "Electronic",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -4998,9 +4996,9 @@
     "tags": [
       "Deathcore",
       "Industrial Metal",
-      "Electro Metal",
+      "Electro",
       "Electronic",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Metalcore"
     ]
   },

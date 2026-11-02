@@ -522,7 +522,7 @@
         "year": "2020",
         "genres": [
           "Progressive Death Metal",
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
@@ -530,7 +530,7 @@
         "year": "2021",
         "genres": [
           "Progressive Death Metal",
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
@@ -538,7 +538,7 @@
         "year": "2022",
         "genres": [
           "Progressive Death Metal",
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
@@ -555,7 +555,7 @@
         "year": "2024",
         "genres": [
           "Progressive Death Metal",
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
@@ -563,13 +563,13 @@
         "year": "2025",
         "genres": [
           "Progressive Death Metal",
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Death Metal",
-      "Progressive Sludge",
+      "Progressive Sludge Metal",
       "Psychedelic Rock",
       "Stoner Metal"
     ]
@@ -583,7 +583,7 @@
         "year": "1994",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -591,13 +591,13 @@
         "year": "1995",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Sludge Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -651,7 +651,7 @@
         "name": "The Beginning",
         "year": "2007",
         "genres": [
-          "Melodic Gothic",
+          "Melodic Gothic Metal",
           "Black Metal"
         ]
       },
@@ -659,7 +659,7 @@
         "name": "The Sin Against The Sinners",
         "year": "2009",
         "genres": [
-          "Melodic Gothic",
+          "Melodic Gothic Metal",
           "Black Metal"
         ]
       },
@@ -667,7 +667,7 @@
         "name": "While The World Sleeps",
         "year": "2010",
         "genres": [
-          "Melodic Gothic",
+          "Melodic Gothic Metal",
           "Black Metal"
         ]
       },
@@ -675,7 +675,7 @@
         "name": "In The Heart Of Nothing",
         "year": "2011",
         "genres": [
-          "Melodic Gothic",
+          "Melodic Gothic Metal",
           "Black Metal"
         ]
       },
@@ -683,7 +683,7 @@
         "name": "(The Wolves) At The End",
         "year": "2014",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Rock"
         ]
       },
@@ -691,15 +691,15 @@
         "name": "At The End",
         "year": "2014",
         "genres": [
-          "Melodic Gothic",
+          "Melodic Gothic Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Gothic",
+      "Melodic Gothic Metal",
       "Black Metal",
-      "Goth Rock",
+      "Gothic Rock",
       "Rock"
     ]
   },
@@ -752,40 +752,40 @@
         "name": "Of Myths And Legend",
         "year": "2006",
         "genres": [
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       },
       {
         "name": "First War Of The World",
         "year": "2009",
         "genres": [
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       },
       {
         "name": "The Final Journey",
         "year": "2012",
         "genres": [
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       },
       {
         "name": "Heimweh",
         "year": "2013",
         "genres": [
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       },
       {
         "name": "Walls Of Vanaheim",
         "year": "2017",
         "genres": [
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       }
     ],
     "tags": [
-      "Pagan Folk",
+      "Pagan Folk Metal",
       "Symphonic Black Metal"
     ]
   },
@@ -877,13 +877,13 @@
         "year": "2019",
         "genres": [
           "Grindcore",
-          "Noise Metal"
+          "Noise"
         ]
       }
     ],
     "tags": [
       "Grindcore",
-      "Noise Metal"
+      "Noise"
     ]
   },
   {
@@ -1039,13 +1039,13 @@
         "year": "2020",
         "genres": [
           "Post-Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       }
     ],
     "tags": [
       "Post-Metal",
-      "Post Rock"
+      "Post-Rock"
     ]
   },
   {
@@ -1340,14 +1340,14 @@
         "name": "Death Is My Only Friend",
         "year": "2009",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Heavy Metal",
       "Punk"
     ]
@@ -1776,7 +1776,7 @@
         "year": "1993",
         "genres": [
           "Death Metal",
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
@@ -1791,7 +1791,7 @@
         "year": "1994",
         "genres": [
           "Death Metal",
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
@@ -1813,7 +1813,7 @@
         "year": "1996",
         "genres": [
           "Death Metal",
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
@@ -1821,7 +1821,7 @@
         "year": "1998",
         "genres": [
           "Death Metal",
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
@@ -1829,7 +1829,7 @@
         "year": "2005",
         "genres": [
           "Death Metal",
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
@@ -1851,13 +1851,13 @@
         "year": "2007",
         "genres": [
           "Death Metal",
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Death 'N' Roll"
+      "Death 'n' Roll"
     ]
   },
   {
@@ -1896,7 +1896,7 @@
         "year": "2010",
         "genres": [
           "Black Metal",
-          "Crust Metal"
+          "Crust Punk"
         ]
       },
       {
@@ -1909,7 +1909,7 @@
     ],
     "tags": [
       "Black Metal",
-      "Crust Metal"
+      "Crust Punk"
     ]
   },
   {
@@ -1955,7 +1955,7 @@
         "name": "Pneuma",
         "year": "2012",
         "genres": [
-          "Blackened Progressive",
+          "Blackened Progressive Metal",
           "Psychedelic Rock"
         ]
       },
@@ -1963,7 +1963,7 @@
         "name": "Oi Magoi",
         "year": "2014",
         "genres": [
-          "Blackened Progressive",
+          "Blackened Progressive Metal",
           "Psychedelic Rock"
         ]
       },
@@ -1971,7 +1971,7 @@
         "name": "Mayhem In Blue",
         "year": "2016",
         "genres": [
-          "Blackened Progressive",
+          "Blackened Progressive Metal",
           "Psychedelic Rock"
         ]
       },
@@ -1994,13 +1994,13 @@
         "name": "Fossil Gardens",
         "year": "2024",
         "genres": [
-          "Blackened Progressive",
+          "Blackened Progressive Metal",
           "Psychedelic Rock"
         ]
       }
     ],
     "tags": [
-      "Blackened Progressive",
+      "Blackened Progressive Metal",
       "Psychedelic Rock",
       "Progressive Metal",
       "Synthwave"
@@ -2096,7 +2096,7 @@
         "year": "2023",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2104,13 +2104,13 @@
         "year": "2025",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -2173,28 +2173,28 @@
         "name": "Live From The Raw Loud 'N' Live Tour",
         "year": "1981",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "The Nightcomers",
         "year": "1981",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Steal The Stars",
         "year": "1983",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "No Man's Land",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -2281,7 +2281,7 @@
     "tags": [
       "Heavy Metal",
       "Progressive Metal",
-      "New Wave Of British Heavy"
+      "NWOBHM"
     ]
   },
   {
@@ -2678,7 +2678,6 @@
       }
     ],
     "tags": [
-      "Metal",
       "Heavy Metal",
       "Progressive Rock",
       "Heavy Power Metal",
@@ -2902,8 +2901,7 @@
     ],
     "tags": [
       "Thrash Metal",
-      "Heavy Metal",
-      "Metal"
+      "Heavy Metal"
     ]
   },
   {
@@ -3277,9 +3275,9 @@
         "genres": [
           "Doom Metal",
           "Psychedelic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Sludge Metal",
-          "Post Rock",
+          "Post-Rock",
           "Stoner Rock"
         ]
       },
@@ -3296,9 +3294,9 @@
       "Stoner Metal",
       "Doom Metal",
       "Psychedelic Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Sludge Metal",
-      "Post Rock",
+      "Post-Rock",
       "Stoner Rock"
     ]
   },
@@ -3320,7 +3318,7 @@
         "year": "2016",
         "genres": [
           "Melodic Death Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
@@ -3336,7 +3334,7 @@
         "year": "2018",
         "genres": [
           "Melodic Death Metal",
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Death Metal",
           "Doom Metal"
         ]
@@ -3346,13 +3344,13 @@
         "year": "2023",
         "genres": [
           "Melodic Death Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Melodic Doom",
+      "Melodic Doom Metal",
       "Doom Metal",
       "Death Metal"
     ]
@@ -3367,7 +3365,7 @@
         "year": "2015",
         "genres": [
           "Symphonic Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -3375,7 +3373,7 @@
         "year": "2017",
         "genres": [
           "Symphonic Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -3383,13 +3381,13 @@
         "year": "2020",
         "genres": [
           "Symphonic Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
       "Symphonic Metal",
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -3400,47 +3398,47 @@
         "name": "Ottone Pesante",
         "year": "2015",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Brassphemy Set In Stone",
         "year": "2016",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Apocalips",
         "year": "2018",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Doomood",
         "year": "2020",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "... And The Black Bells Rang",
         "year": "2022",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Scrolls Of War",
         "year": "2024",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -3452,14 +3450,16 @@
         "year": "2026",
         "genres": [
           "Death Metal",
-          "Hardcore | Death Doom Metal",
+          "Hardcore",
+          "Death Doom Metal",
           "Doom Metal"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Hardcore | Death Doom Metal",
+      "Hardcore",
+      "Death Doom Metal",
       "Doom Metal"
     ]
   },
@@ -3516,7 +3516,7 @@
         "name": "The Piper At The Gates Of Dawn",
         "year": "1967",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -3526,11 +3526,11 @@
         "year": "1971",
         "genres": [
           "Psychedelic Rock",
-          "Experimental Metal",
+          "Experimental",
           "Space Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock",
-          "Avantgarde Metal"
+          "Avant-garde"
         ]
       },
       {
@@ -3538,7 +3538,7 @@
         "year": "1973",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -3548,7 +3548,7 @@
         "year": "1975",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3557,7 +3557,7 @@
         "year": "1977",
         "genres": [
           "Alternative Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3583,7 +3583,7 @@
         "year": "1983",
         "genres": [
           "Classic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -3592,7 +3592,7 @@
         "name": "The Final Cut",
         "year": "1983",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3601,7 +3601,7 @@
         "year": "1987",
         "genres": [
           "Alternative Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3611,7 +3611,7 @@
         "genres": [
           "Psychedelic Rock",
           "Electronic",
-          "Prog Rock",
+          "Progressive Rock",
           "Soundtrack",
           "Classic Rock",
           "Rock",
@@ -3622,7 +3622,7 @@
         "name": "Delicate Sound Of Thunder",
         "year": "1988",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -3631,7 +3631,7 @@
         "name": "Orchestral Maneuvers: The Music Of Pink Floyd",
         "year": "1988",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -3640,7 +3640,7 @@
         "name": "The Best Of Pink Floyd: A Foot In The Door",
         "year": "1988",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -3658,7 +3658,7 @@
         "year": "1991",
         "genres": [
           "Stage & Screen",
-          "Prog Rock",
+          "Progressive Rock",
           "Soundtrack",
           "Rock"
         ]
@@ -3668,7 +3668,7 @@
         "year": "1992",
         "genres": [
           "Psychedelic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Classic Rock",
           "Art Rock",
           "Rock"
@@ -3699,8 +3699,8 @@
         "name": "A Saucerful Of Secrets",
         "year": "1994",
         "genres": [
-          "Experimental Metal",
-          "Prog Rock",
+          "Experimental",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -3709,7 +3709,7 @@
         "name": "Atom Heart Mother",
         "year": "1994",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -3720,7 +3720,7 @@
         "genres": [
           "Psychedelic Rock",
           "Blues Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Art Rock",
           "Rock"
         ]
@@ -3730,7 +3730,7 @@
         "year": "1994",
         "genres": [
           "Arena Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3739,7 +3739,7 @@
         "year": "1994",
         "genres": [
           "Arena Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3747,8 +3747,8 @@
         "name": "Ummagumma",
         "year": "1994",
         "genres": [
-          "Experimental Metal",
-          "Prog Rock",
+          "Experimental",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -3757,8 +3757,8 @@
         "name": "Ummagumma - Cd 1/2",
         "year": "1994",
         "genres": [
-          "Experimental Metal",
-          "Prog Rock",
+          "Experimental",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -3767,8 +3767,8 @@
         "name": "Ummagumma - Disk 2",
         "year": "1994",
         "genres": [
-          "Experimental Metal",
-          "Prog Rock",
+          "Experimental",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -3788,7 +3788,7 @@
         "year": "1995",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -3798,7 +3798,7 @@
         "year": "1995",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -3808,14 +3808,14 @@
         "year": "1995",
         "genres": [
           "Rock",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
         "name": "The Complete Zabriskie Point S",
         "year": "2004",
         "genres": [
-          "Experimental Metal",
+          "Experimental",
           "Stage & Screen",
           "Psychedelic Rock",
           "Rock"
@@ -3825,7 +3825,7 @@
         "name": "The Complete Zabriskie Point Sessions",
         "year": "2004",
         "genres": [
-          "Experimental Metal",
+          "Experimental",
           "Stage & Screen",
           "Psychedelic Rock",
           "Rock"
@@ -3835,7 +3835,7 @@
         "name": "The Early Years 1967-72 Cre/ation",
         "year": "2016",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -3845,8 +3845,8 @@
       "Alternative Rock",
       "Psychedelic Rock",
       "Rock",
-      "Prog Rock",
-      "Experimental Metal",
+      "Progressive Rock",
+      "Experimental",
       "Interview",
       "Classic Rock",
       "Blues Rock",
@@ -3855,7 +3855,7 @@
       "Soundtrack",
       "Electronic",
       "Space Rock",
-      "Avantgarde Metal",
+      "Avant-garde",
       "Arena Rock",
       "House"
     ]
@@ -3868,14 +3868,14 @@
         "name": "Attempted Martyr",
         "year": "2024",
         "genres": [
-          "Post-punk",
-          "Post-hardcore"
+          "Post-Punk",
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Post-punk",
-      "Post-hardcore"
+      "Post-Punk",
+      "Post-Hardcore"
     ]
   },
   {
@@ -3945,13 +3945,13 @@
         "name": "Legacy",
         "year": "2026",
         "genres": [
-          "Doom Death Metal",
+          "Death Doom Metal",
           "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death Metal",
+      "Death Doom Metal",
       "Death Metal"
     ]
   },
@@ -3979,68 +3979,68 @@
         "name": "Renacer",
         "year": "2002",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Senderos Del Alma",
         "year": "2004",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "En Versiones Vol. 1",
         "year": "2007",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Vi",
         "year": "2007",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Hijo Del Viento",
         "year": "2009",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Espíritu Inmortal",
         "year": "2013",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Del Silencio A La Tempestad",
         "year": "2017",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "En Versiones Vol. 2",
         "year": "2021",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Siembra Y Cosecha",
         "year": "2022",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -4116,61 +4116,61 @@
         "name": "Proud Casu",
         "year": "2000",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Oheň A Led",
         "year": "2002",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Stín Křídel",
         "year": "2004",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Vesmírem Plout",
         "year": "2006",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Peklo, Co Rika Si Svet",
         "year": "2012",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Ozvěny Minulosti",
         "year": "2017",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Dvacet čErných Růží",
         "year": "2019",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Věčnost žIvlů",
         "year": "2022",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Power"
+      "Melodic Power Metal"
     ]
   },
   {
@@ -4199,33 +4199,33 @@
         "name": "Jesiennie Mgły Ostatnich Oddechów",
         "year": "2017",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Z Iskier Srebrnych Orszaków",
         "year": "2019",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "The Hidden Portals",
         "year": "2021",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Architektura Przemijania",
         "year": "2023",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -4286,26 +4286,26 @@
         "name": "Sarvas",
         "year": "2014",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "The Throne",
         "year": "2016",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "Unaltered",
         "year": "2019",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Sludge"
+      "Progressive Sludge Metal"
     ]
   },
   {
@@ -4438,10 +4438,10 @@
           "Dub",
           "Latin",
           "Tribal",
-          "Ambient Metal",
+          "Ambient",
           "Downtempo",
           "Electronic",
-          "Psy-trance"
+          "Psytrance"
         ]
       },
       {
@@ -4450,18 +4450,18 @@
         "genres": [
           "Electronic",
           "Downtempo",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Electronic",
       "Downtempo",
-      "Ambient Metal",
+      "Ambient",
       "Dub",
       "Latin",
       "Tribal",
-      "Psy-trance"
+      "Psytrance"
     ]
   },
   {
@@ -4796,7 +4796,7 @@
         "name": "Chained To A Tree",
         "year": "2022",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Sludge Metal",
           "Post-Metal"
@@ -4804,7 +4804,7 @@
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
       "Sludge Metal",
       "Post-Metal"
@@ -4848,7 +4848,7 @@
         "name": "New Era Vital Order",
         "year": "2002",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Industrial Metal"
         ]
       },
@@ -4856,7 +4856,7 @@
         "name": "A Clockwork Highway",
         "year": "2004",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Industrial Metal"
         ]
       },
@@ -4864,7 +4864,7 @@
         "name": "Pilot",
         "year": "2007",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Industrial Metal"
         ]
       },
@@ -4872,7 +4872,7 @@
         "name": "Themes For Proxima",
         "year": "2007",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Industrial Metal"
         ]
       },
@@ -4880,7 +4880,7 @@
         "name": "Need The Needle",
         "year": "2009",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Industrial Metal"
         ]
       },
@@ -4888,13 +4888,13 @@
         "name": "Knownothingism",
         "year": "2014",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Industrial Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Industrial Metal"
     ]
   },

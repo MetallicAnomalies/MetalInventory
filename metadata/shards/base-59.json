@@ -45,7 +45,7 @@
         "year": "2020",
         "genres": [
           "Alternative",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -53,7 +53,7 @@
         "year": "2022",
         "genres": [
           "Alternative",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -61,13 +61,13 @@
         "year": "2025",
         "genres": [
           "Alternative",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Alternative",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -236,7 +236,7 @@
         "name": "This Glorious World",
         "year": "2010",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal"
         ]
       },
@@ -260,7 +260,7 @@
     "tags": [
       "Death Metal",
       "Metalcore",
-      "Hardcore Metal",
+      "Hardcore",
       "Heavy Metal"
     ]
   },
@@ -288,19 +288,19 @@
         "name": "Smash The Gates",
         "year": "2009",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
         "name": "Long Live The Ram",
         "year": "2013",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Epic Heavy"
+      "Epic Heavy Metal"
     ]
   },
   {
@@ -546,7 +546,7 @@
         "name": "Churp!!!",
         "year": "1993",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal",
           "Math Rock"
         ]
@@ -555,14 +555,14 @@
         "name": "Exercises And Transmutations Of The Applicable Techniques For The Chrome-plated Mystical Squeegie Of Destiny",
         "year": "1998",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal",
           "Math Rock"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Progressive Metal",
       "Math Rock"
     ]
@@ -577,7 +577,7 @@
         "year": "1998",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -585,7 +585,7 @@
         "year": "2000",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -593,7 +593,7 @@
         "year": "2003",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -601,7 +601,7 @@
         "year": "2007",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -609,7 +609,7 @@
         "year": "2007",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -617,7 +617,7 @@
         "year": "2009",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -625,7 +625,7 @@
         "year": "2011",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -633,7 +633,7 @@
         "year": "2015",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -641,13 +641,13 @@
         "year": "2019",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -1070,12 +1070,12 @@
         "name": "Abstract Principles Taken To Their Logical Extremes",
         "year": "1995",
         "genres": [
-          "Avantgarde Death"
+          "Avant-garde Death Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Death"
+      "Avant-garde Death Metal"
     ]
   },
   {
@@ -1151,8 +1151,7 @@
           "Death Metal",
           "Doom Metal",
           "Progressive Metal",
-          "Thrash Metal",
-          "Metal"
+          "Thrash Metal"
         ]
       }
     ],
@@ -1162,8 +1161,7 @@
       "Death Metal",
       "Doom Metal",
       "Progressive Metal",
-      "Thrash Metal",
-      "Metal"
+      "Thrash Metal"
     ]
   },
   {
@@ -1255,12 +1253,12 @@
         "name": "The World Is Yours",
         "year": "2009",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1637,7 +1635,7 @@
         "name": "Years Of Winter",
         "year": "2012",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
@@ -1652,19 +1650,19 @@
         "name": "Phoenix",
         "year": "2014",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "Mantle",
         "year": "2018",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Sludge",
+      "Progressive Sludge Metal",
       "Progressive Metalcore",
       "Djent",
       "Progressive Metal"
@@ -1678,19 +1676,19 @@
         "name": "Not For Wimps",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Rock Your Brains",
         "year": "1986",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       }
     ],
     "tags": [
-      "New Wave Of British Heavy"
+      "NWOBHM"
     ]
   },
   {
@@ -1814,7 +1812,7 @@
         "year": "2004",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1822,7 +1820,7 @@
         "year": "2006",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1831,7 +1829,7 @@
         "genres": [
           "Alternative Rock",
           "Emo",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1849,7 +1847,7 @@
     ],
     "tags": [
       "Alternative Rock",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Emo",
       "Metalcore"
     ]
@@ -2175,19 +2173,19 @@
         "name": "Sound Over Matter",
         "year": "2005",
         "genres": [
-          "Melodic Thrash"
+          "Melodic Thrash Metal"
         ]
       },
       {
         "name": "Gentle Anarchy",
         "year": "2012",
         "genres": [
-          "Melodic Thrash"
+          "Melodic Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Thrash"
+      "Melodic Thrash Metal"
     ]
   },
   {
@@ -2210,8 +2208,7 @@
       }
     ],
     "tags": [
-      "Doom Metal",
-      "Metal"
+      "Doom Metal"
     ]
   },
   {
@@ -2280,7 +2277,7 @@
         "year": "2019",
         "genres": [
           "Technical Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2288,13 +2285,13 @@
         "year": "2023",
         "genres": [
           "Technical Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Technical Death Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -2305,26 +2302,26 @@
         "name": "Varus",
         "year": "2011",
         "genres": [
-          "Epic Black"
+          "Epic Black Metal"
         ]
       },
       {
         "name": "Tales Of Woe",
         "year": "2016",
         "genres": [
-          "Epic Black"
+          "Epic Black Metal"
         ]
       },
       {
         "name": "Godless Divinity",
         "year": "2018",
         "genres": [
-          "Epic Black"
+          "Epic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Epic Black"
+      "Epic Black Metal"
     ]
   },
   {
@@ -2335,13 +2332,13 @@
         "name": "Acedia",
         "year": "2021",
         "genres": [
-          "Atmospheric Death",
+          "Atmospheric Death Metal",
           "Atmospheric Black Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Death",
+      "Atmospheric Death Metal",
       "Atmospheric Black Metal"
     ]
   },
@@ -2639,14 +2636,14 @@
         "name": "My Fathers Son",
         "year": "2022",
         "genres": [
-          "Melodic Power",
+          "Melodic Power Metal",
           "AOR",
           "Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Power",
+      "Melodic Power Metal",
       "AOR",
       "Power Metal"
     ]
@@ -2839,14 +2836,14 @@
         "year": "2023",
         "genres": [
           "Mathcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Math Rock"
         ]
       }
     ],
     "tags": [
       "Mathcore",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Math Rock"
     ]
   },
@@ -3054,7 +3051,7 @@
         "year": "2015",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3062,7 +3059,7 @@
         "year": "2016",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3070,7 +3067,7 @@
         "year": "2017",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3078,7 +3075,7 @@
         "year": "2018",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3086,13 +3083,13 @@
         "year": "2022",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -3138,13 +3135,13 @@
         "year": "2010",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -3522,12 +3519,12 @@
         "name": "Navigator",
         "year": "2006",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -3825,7 +3822,7 @@
         "name": "From The Depths Of Dreams",
         "year": "2003",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Emo"
         ]
       },
@@ -3834,7 +3831,7 @@
         "year": "2004",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3847,7 +3844,7 @@
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Emo",
       "Alternative Rock",
       "Rock"
@@ -3963,13 +3960,13 @@
         "year": "1983",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -4431,33 +4428,33 @@
         "name": "Poetica",
         "year": "2021",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Visions From Space And Mind",
         "year": "2021",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Wasteland",
         "year": "2022",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Faust Act 1: Prelude To Darkness",
         "year": "2024",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Power"
+      "Melodic Power Metal"
     ]
   },
   {

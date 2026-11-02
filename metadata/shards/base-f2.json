@@ -74,13 +74,11 @@
         "name": "Idlewild South",
         "year": "1970",
         "genres": [
-          "Live",
           "Album Rock",
           "Classic Rock",
-          "Rock/pop",
-          "Blues-rock",
-          "Southern Rock",
+          "Pop Rock",
           "Blues Rock",
+          "Southern Rock",
           "Blues",
           "Roots Rock",
           "Rock"
@@ -94,11 +92,10 @@
           "Jam Band",
           "Classic Rock",
           "Southern Rock",
-          "Rock Music",
+          "Rock",
           "Country Rock",
           "Blues Rock",
-          "Roots Rock",
-          "Rock"
+          "Roots Rock"
         ]
       },
       {
@@ -107,7 +104,6 @@
         "genres": [
           "Electric Blues",
           "Southern Rock",
-          "Oldies 70 S",
           "Blues Rock",
           "Rock"
         ]
@@ -129,16 +125,12 @@
       "Jam Band",
       "Classic Rock",
       "Southern Rock",
-      "Rock Music",
+      "Rock",
       "Country Rock",
       "Blues Rock",
       "Roots Rock",
-      "Rock",
       "Electric Blues",
-      "Oldies 70 S",
-      "Live",
-      "Rock/pop",
-      "Blues-rock",
+      "Pop Rock",
       "Blues"
     ]
   },
@@ -522,13 +514,13 @@
         "year": "2002",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
     "tags": [
       "Funk / Soul",
-      "Contemporary R&b"
+      "Contemporary R&B"
     ]
   },
   {
@@ -578,26 +570,26 @@
         "name": "Blackhearth",
         "year": "2019",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "The Wrath Of God",
         "year": "2021",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Feast Of The Savages",
         "year": "2024",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -747,33 +739,33 @@
         "name": "French Cancan",
         "year": "1999",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Vivalavida",
         "year": "1999",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Fear Not",
         "year": "2001",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Collection Prestige",
         "year": "2005",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -864,7 +856,7 @@
         "name": "Final Shape / In Search Of Truth",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Mathcore"
         ]
@@ -873,7 +865,7 @@
         "name": "Hatred Softly Spoken",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Mathcore"
         ]
@@ -882,7 +874,7 @@
         "name": "Ripping/pulling/tearing",
         "year": "2019",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Mathcore"
         ]
@@ -891,7 +883,7 @@
         "name": "Cost Of Sacrifice",
         "year": "2020",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Mathcore"
         ]
@@ -900,7 +892,7 @@
         "name": "Carved In Stone",
         "year": "2022",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Mathcore"
         ]
@@ -909,14 +901,14 @@
         "name": "A Love To Kill For",
         "year": "2023",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Mathcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore",
       "Mathcore"
     ]
@@ -1069,13 +1061,13 @@
         "name": "Culture Killer",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -1764,26 +1756,26 @@
         "name": "Ghost Spawn",
         "year": "2020",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "Recollected Dismemberment",
         "year": "2020",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "The Haunting Continuum",
         "year": "2020",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death"
+      "Death Doom Metal"
     ]
   },
   {
@@ -1923,7 +1915,7 @@
         "year": "2025",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -1931,7 +1923,7 @@
         "year": "2025",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -1966,10 +1958,9 @@
     "tags": [
       "Gothic Metal",
       "Progressive Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Acoustic",
       "Doom Metal",
-      "Progressive Rock",
       "Norsk Rock",
       "Rock",
       "Death Metal",
@@ -2183,7 +2174,7 @@
         "name": "Welcome To Hel",
         "year": "2020",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
@@ -2197,7 +2188,7 @@
       }
     ],
     "tags": [
-      "Blackened Heavy",
+      "Blackened Heavy Metal",
       "Black Metal",
       "Norsk Rock",
       "Folk Metal"
@@ -2254,54 +2245,54 @@
         "name": "Hollow Haze",
         "year": "2006",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "The Hanged Man",
         "year": "2008",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "End Of A Dark Era",
         "year": "2010",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Poison In Black",
         "year": "2012",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Countdown To Revenge",
         "year": "2013",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Memories Of An Ancient Time",
         "year": "2015",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Between Wild Landscapes And Deep Blue Seas",
         "year": "2019",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -2315,7 +2306,7 @@
         "genres": [
           "Pop",
           "Stage & Screen",
-          "K-pop",
+          "K-Pop",
           "Soundtrack",
           "Theme"
         ]
@@ -2324,7 +2315,7 @@
     "tags": [
       "Pop",
       "Stage & Screen",
-      "K-pop",
+      "K-Pop",
       "Soundtrack",
       "Theme"
     ]
@@ -2424,33 +2415,33 @@
         "name": "Konzaross",
         "year": "1999",
         "genres": [
-          "Neo Classical"
+          "Neoclassical"
         ]
       },
       {
         "name": "The End Is The Beginning Of Pain",
         "year": "1999",
         "genres": [
-          "Neo Classical"
+          "Neoclassical"
         ]
       },
       {
         "name": "When The Dawnlight Break",
         "year": "2005",
         "genres": [
-          "Neo Classical"
+          "Neoclassical"
         ]
       },
       {
         "name": "The Depression Of The Untitled Part",
         "year": "2007",
         "genres": [
-          "Neo Classical"
+          "Neoclassical"
         ]
       }
     ],
     "tags": [
-      "Neo Classical"
+      "Neoclassical"
     ]
   },
   {
@@ -2685,12 +2676,12 @@
         "name": "In The Garden Of Earthly Delights",
         "year": "2024",
         "genres": [
-          "Avantgarde Death"
+          "Avant-garde Death Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Death"
+      "Avant-garde Death Metal"
     ]
   },
   {
@@ -2971,7 +2962,7 @@
         "genres": [
           "Progressive Metal",
           "Power Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -2986,7 +2977,7 @@
     "tags": [
       "Progressive Metal",
       "Power Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -3027,13 +3018,13 @@
         "name": "Proven Lands",
         "year": "2021",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Instrumental"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde",
       "Instrumental"
     ]
   },
@@ -3114,12 +3105,12 @@
         "name": "The New Messiah",
         "year": "2012",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -3179,12 +3170,12 @@
         "name": "Opus I - Dona Eis Requiem",
         "year": "2009",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -3429,40 +3420,40 @@
         "name": "Et Fugit Intera Fugit Irreparabile Tempus",
         "year": "2004",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Near Death Experience",
         "year": "2006",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Mescalyne",
         "year": "2007",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Cypher",
         "year": "2013",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "The Art To Disappear",
         "year": "2016",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Black"
+      "Experimental Black Metal"
     ]
   },
   {
@@ -3557,12 +3548,12 @@
         "name": "Superstition",
         "year": "2011",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -3723,86 +3714,86 @@
         "name": "Sacrilegium",
         "year": "2005",
         "genres": [
-          "Experimental Black",
-          "Noise Metal"
+          "Experimental Black Metal",
+          "Noise"
         ]
       },
       {
         "name": "Macabre Noize Royale",
         "year": "2007",
         "genres": [
-          "Experimental Black",
-          "Noise Metal"
+          "Experimental Black Metal",
+          "Noise"
         ]
       },
       {
         "name": "Braakland Trilogie Iii",
         "year": "2008",
         "genres": [
-          "Experimental Black",
-          "Noise Metal"
+          "Experimental Black Metal",
+          "Noise"
         ]
       },
       {
         "name": "Uag",
         "year": "2010",
         "genres": [
-          "Experimental Black",
-          "Noise Metal"
+          "Experimental Black Metal",
+          "Noise"
         ]
       },
       {
         "name": "Xesse",
         "year": "2011",
         "genres": [
-          "Experimental Black",
-          "Noise Metal"
+          "Experimental Black Metal",
+          "Noise"
         ]
       },
       {
         "name": "Third Wave Holocaust",
         "year": "2013",
         "genres": [
-          "Experimental Black",
-          "Noise Metal"
+          "Experimental Black Metal",
+          "Noise"
         ]
       },
       {
         "name": "Fury Nocturnus",
         "year": "2016",
         "genres": [
-          "Experimental Black",
-          "Noise Metal"
+          "Experimental Black Metal",
+          "Noise"
         ]
       },
       {
         "name": "Thin The Veil",
         "year": "2020",
         "genres": [
-          "Experimental Black",
-          "Noise Metal"
+          "Experimental Black Metal",
+          "Noise"
         ]
       },
       {
         "name": "Death My Bride",
         "year": "2022",
         "genres": [
-          "Experimental Black",
-          "Noise Metal"
+          "Experimental Black Metal",
+          "Noise"
         ]
       },
       {
         "name": "Terror Winds",
         "year": "2022",
         "genres": [
-          "Experimental Black",
-          "Noise Metal"
+          "Experimental Black Metal",
+          "Noise"
         ]
       }
     ],
     "tags": [
-      "Experimental Black",
-      "Noise Metal"
+      "Experimental Black Metal",
+      "Noise"
     ]
   },
   {
@@ -3922,7 +3913,7 @@
         "year": "2001",
         "genres": [
           "Funeral Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3930,7 +3921,7 @@
         "year": "2001",
         "genres": [
           "Funeral Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3938,7 +3929,7 @@
         "year": "2003",
         "genres": [
           "Funeral Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3946,7 +3937,7 @@
         "year": "2004",
         "genres": [
           "Funeral Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3954,7 +3945,7 @@
         "year": "2006",
         "genres": [
           "Funeral Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3962,7 +3953,7 @@
         "year": "2009",
         "genres": [
           "Funeral Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3970,7 +3961,7 @@
         "year": "2016",
         "genres": [
           "Funeral Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3978,7 +3969,7 @@
         "year": "2018",
         "genres": [
           "Funeral Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3986,7 +3977,7 @@
         "year": "2020",
         "genres": [
           "Funeral Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3994,7 +3985,7 @@
         "year": "2022",
         "genres": [
           "Funeral Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4002,7 +3993,7 @@
         "year": "2023",
         "genres": [
           "Funeral Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4010,13 +4001,13 @@
         "year": "2024",
         "genres": [
           "Funeral Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Funeral Doom Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -4421,46 +4412,46 @@
         "name": "Youth Code",
         "year": "2013",
         "genres": [
-          "Ebm",
-          "Industrial Metal"
+          "EBM",
+          "Industrial"
         ]
       },
       {
         "name": "A Place To Stand",
         "year": "2014",
         "genres": [
-          "Ebm",
-          "Industrial Metal"
+          "EBM",
+          "Industrial"
         ]
       },
       {
         "name": "Commitment To Complications",
         "year": "2016",
         "genres": [
-          "Ebm",
-          "Industrial Metal"
+          "EBM",
+          "Industrial"
         ]
       },
       {
         "name": "A Skeleton Key In The Doors Of Depression",
         "year": "2021",
         "genres": [
-          "Ebm",
-          "Industrial Metal"
+          "EBM",
+          "Industrial"
         ]
       },
       {
         "name": "Yours, With Malice",
         "year": "2025",
         "genres": [
-          "Ebm",
-          "Industrial Metal"
+          "EBM",
+          "Industrial"
         ]
       }
     ],
     "tags": [
-      "Ebm",
-      "Industrial Metal"
+      "EBM",
+      "Industrial"
     ]
   },
   {

@@ -885,19 +885,19 @@
         "name": "Cult Of The Lost Cause",
         "year": "2013",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "Contritions",
         "year": "2016",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       }
     ],
     "tags": [
-      "Instrumental Post-metal"
+      "Instrumental Post-Metal"
     ]
   },
   {
@@ -998,7 +998,7 @@
         "name": "Dirty Rotten Lp",
         "year": "1983",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1006,7 +1006,7 @@
         "name": "Violent Pacification",
         "year": "1984",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1014,7 +1014,7 @@
         "name": "Dealing With It!",
         "year": "1985",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1022,7 +1022,7 @@
         "name": "Crossover",
         "year": "1987",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Crossover Thrash"
         ]
@@ -1061,7 +1061,7 @@
         "genres": [
           "Thrash Metal",
           "Punk",
-          "Hardcore Metal",
+          "Hardcore",
           "Hardcore Punk",
           "Speed Metal",
           "Crossover Thrash"
@@ -1069,7 +1069,7 @@
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
       "Crossover Thrash",
       "Thrash Metal",
@@ -1378,12 +1378,12 @@
         "name": "Unholy Alliance",
         "year": "2026",
         "genres": [
-          "Death Metal | Death Metal"
+          "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Death Metal | Death Metal"
+      "Death Metal"
     ]
   },
   {
@@ -1571,7 +1571,7 @@
         "year": "2003",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1579,7 +1579,7 @@
         "year": "2007",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1587,7 +1587,7 @@
         "year": "2010",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1595,7 +1595,7 @@
         "year": "2013",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1603,7 +1603,7 @@
         "year": "2016",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1611,13 +1611,13 @@
         "year": "2023",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1653,7 +1653,7 @@
         "name": "Milliontown",
         "year": "2006",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -1668,7 +1668,7 @@
         "name": "The Philadelphia Experiment - Live 2009",
         "year": "2010",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -1685,7 +1685,7 @@
         "genres": [
           "Pop",
           "Electronic",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -1710,7 +1710,7 @@
         "genres": [
           "Pop Rock",
           "Electronic",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -1732,7 +1732,7 @@
         "name": "Life In The Wires",
         "year": "2024",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -1748,11 +1748,10 @@
       "Black Metal",
       "Pop Rock",
       "Electronic",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock",
       "Pop",
-      "Neo-progressive Rock",
-      "Progressive Rock"
+      "Neo-progressive Rock"
     ]
   },
   {
@@ -1773,7 +1772,7 @@
         "genres": [
           "Experimental Metal",
           "Shoegaze",
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       },
@@ -1814,7 +1813,6 @@
       "Doom Metal",
       "Experimental Metal",
       "Shoegaze",
-      "Post Rock",
       "Rock"
     ]
   },
@@ -1922,7 +1920,7 @@
         "name": "Under The Knife",
         "year": "1996",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1930,7 +1928,7 @@
         "name": "Satisfaction Is The Death Of Desire",
         "year": "1997",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1938,7 +1936,7 @@
         "name": "Perseverance",
         "year": "2002",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1946,7 +1944,7 @@
         "name": "The Rise Of Brutality",
         "year": "2003",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1954,7 +1952,7 @@
         "name": "Supremacy",
         "year": "2006",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1962,7 +1960,7 @@
         "name": "For The Lions",
         "year": "2009",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1970,7 +1968,7 @@
         "name": "Hatebreed",
         "year": "2009",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1978,7 +1976,7 @@
         "name": "The Divinity Of Purpose",
         "year": "2013",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1986,14 +1984,14 @@
         "name": "A.d.",
         "year": "2016",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "The Concrete Confessional",
         "year": "2016",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -2001,7 +1999,7 @@
         "name": "Weight Of The False Self",
         "year": "2020",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -2019,7 +2017,7 @@
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore",
       "Heavy Metal"
     ]
@@ -2294,7 +2292,7 @@
         "year": "2003",
         "genres": [
           "Experimental Rock",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -2303,7 +2301,7 @@
         "year": "2006",
         "genres": [
           "Experimental Rock",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -2312,7 +2310,7 @@
         "year": "2008",
         "genres": [
           "Experimental Rock",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -2321,7 +2319,7 @@
         "year": "2010",
         "genres": [
           "Experimental Rock",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -2330,7 +2328,7 @@
         "year": "2010",
         "genres": [
           "Experimental Rock",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -2339,7 +2337,7 @@
         "year": "2012",
         "genres": [
           "Experimental Rock",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -2348,7 +2346,7 @@
         "year": "2013",
         "genres": [
           "Experimental Rock",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -2357,7 +2355,7 @@
         "year": "2014",
         "genres": [
           "Experimental Rock",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -2366,7 +2364,7 @@
         "year": "2016",
         "genres": [
           "Experimental Rock",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -2375,7 +2373,7 @@
         "year": "2019",
         "genres": [
           "Experimental Rock",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -2384,7 +2382,7 @@
         "year": "2021",
         "genres": [
           "Experimental Rock",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -2393,14 +2391,14 @@
         "year": "2025",
         "genres": [
           "Experimental Rock",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
       "Experimental Rock",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Progressive Metal"
     ]
   },
@@ -2708,7 +2706,7 @@
         "name": "Silent Embrace",
         "year": "2022",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       },
@@ -2717,7 +2715,7 @@
         "year": "2022",
         "genres": [
           "Stage & Screen",
-          "Post Rock",
+          "Post-Rock",
           "Score"
         ]
       },
@@ -2745,7 +2743,6 @@
     ],
     "tags": [
       "Post-Rock",
-      "Post Rock",
       "Stage & Screen",
       "Score",
       "Rock"
@@ -3139,21 +3136,21 @@
         "name": "Athens",
         "year": "2012",
         "genres": [
-          "Progressive Post-metal"
+          "Progressive Post-Metal"
         ]
       },
       {
         "name": "In Time With Gravity",
         "year": "2017",
         "genres": [
-          "Progressive Post-metal"
+          "Progressive Post-Metal"
         ]
       },
       {
         "name": "The Death Of Death",
         "year": "2022",
         "genres": [
-          "Progressive Post-metal"
+          "Progressive Post-Metal"
         ]
       },
       {
@@ -3163,7 +3160,7 @@
       }
     ],
     "tags": [
-      "Progressive Post-metal"
+      "Progressive Post-Metal"
     ]
   },
   {
@@ -3386,7 +3383,7 @@
         "name": "Fairytale",
         "year": "2018",
         "genres": [
-          "Oriental Folk",
+          "Oriental Folk Metal",
           "Progressive Metal"
         ]
       },
@@ -3409,13 +3406,13 @@
         "name": "Shadows And Flames",
         "year": "2022",
         "genres": [
-          "Oriental Folk",
+          "Oriental Folk Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Oriental Folk",
+      "Oriental Folk Metal",
       "Progressive Metal",
       "Folk Metal"
     ]
@@ -3494,7 +3491,7 @@
         "genres": [
           "Acoustic",
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
@@ -3503,7 +3500,7 @@
       "Blues",
       "Folk, World, & Country",
       "Acoustic",
-      "Folk Metal",
+      "Folk",
       "Rock"
     ]
   },
@@ -3528,13 +3525,13 @@
         "name": "Loss",
         "year": "2016",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Deathcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Deathcore"
     ]
   },
@@ -3949,12 +3946,12 @@
         "name": "Hollywood",
         "year": "2015",
         "genres": [
-          "K-rock"
+          "K-Rock"
         ]
       }
     ],
     "tags": [
-      "K-rock"
+      "K-Rock"
     ]
   },
   {
@@ -3965,19 +3962,19 @@
         "name": "Requiem Of Weeping Souls",
         "year": "1998",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "Inevitable",
         "year": "2017",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death"
+      "Death Doom Metal"
     ]
   },
   {
@@ -3997,7 +3994,7 @@
         "name": "The Browning",
         "year": "2010",
         "genres": [
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Metalcore",
           "Deathcore"
@@ -4033,7 +4030,7 @@
         "genres": [
           "Electronic",
           "Metalcore",
-          "Electro Metal"
+          "Electro"
         ]
       },
       {
@@ -4075,7 +4072,6 @@
           "Deathcore",
           "Metalcore",
           "Deathstep",
-          "Metal",
           "Djent"
         ]
       }
@@ -4084,10 +4080,9 @@
       "Metalcore",
       "Trancecore",
       "Electronic",
-      "Electro Metal",
+      "Electro",
       "Deathcore",
       "Deathstep",
-      "Metal",
       "Djent"
     ]
   },
@@ -4299,7 +4294,7 @@
         "year": "2013",
         "genres": [
           "Experimental Rock",
-          "Ambient Metal",
+          "Ambient",
           "Djent",
           "Experimental Electronic",
           "Post-Rock",
@@ -4335,7 +4330,7 @@
       "Djent",
       "Progressive Metal",
       "Experimental Rock",
-      "Ambient Metal",
+      "Ambient",
       "Experimental Electronic",
       "Post-Rock"
     ]
@@ -4741,7 +4736,7 @@
         "name": "Night Crimes",
         "year": "1994",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -4749,7 +4744,7 @@
         "name": "Red Skies",
         "year": "1995",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -4757,13 +4752,13 @@
         "name": "Renaissance",
         "year": "1997",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -4821,26 +4816,26 @@
         "name": "The Paramount Question",
         "year": "2001",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Lithium",
         "year": "2002",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Beware And Whisper",
         "year": "2012",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -4916,12 +4911,12 @@
         "name": "X-factor",
         "year": "2012",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   }
 ]

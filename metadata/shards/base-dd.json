@@ -313,42 +313,42 @@
         "name": "Antibes",
         "year": "2006",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Astrolabe In Your Heart",
         "year": "2010",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Akashic",
         "year": "2012",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Aberration: “Pt”",
         "year": "2016",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Ambrosian Blood",
         "year": "2021",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Archeonyx",
         "year": "2021",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -360,7 +360,6 @@
       }
     ],
     "tags": [
-      "Symphonic Power",
       "Symphonic Power Metal"
     ]
   },
@@ -460,7 +459,7 @@
         "name": "The Awakening / Last Fight Of The Primordial",
         "year": "2013",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -468,7 +467,7 @@
         "name": "The Mcmurdo Expedition 1909",
         "year": "2016",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -476,7 +475,7 @@
         "name": "Chosen",
         "year": "2020",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -484,13 +483,13 @@
         "name": "The Break",
         "year": "2023",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Progressive Metal"
     ]
   },
@@ -503,7 +502,7 @@
         "name": "Sick",
         "year": "2013",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -511,7 +510,7 @@
         "name": "Disgusting",
         "year": "2014",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -519,7 +518,7 @@
         "name": "Aggressive",
         "year": "2016",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -527,7 +526,7 @@
         "name": "Agressive",
         "year": "2016",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore",
           "Alternative Rock"
         ]
@@ -536,7 +535,7 @@
         "name": "Disease",
         "year": "2018",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Alternative Rock"
         ]
       },
@@ -544,7 +543,7 @@
         "name": "B-sides",
         "year": "2019",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Alternative Rock"
         ]
       },
@@ -552,7 +551,7 @@
         "name": "Below",
         "year": "2021",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Alternative Rock"
         ]
       },
@@ -560,16 +559,16 @@
         "name": "The Surface",
         "year": "2023",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Alternative Rock"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Metalcore",
       "Alternative Rock",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -622,12 +621,12 @@
         "name": "Decorticated Burial Of Delirium",
         "year": "2021",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death"
+      "Death Doom Metal"
     ]
   },
   {
@@ -700,14 +699,14 @@
         "genres": [
           "Grindcore",
           "Progressive Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Screaming Machines",
         "year": "1996",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Rock"
         ]
       }
@@ -716,7 +715,7 @@
       "Death Metal",
       "Grindcore",
       "Progressive Death Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Progressive Rock"
     ]
   },
@@ -871,7 +870,7 @@
         "name": "Loco",
         "year": "1997",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Nu Metal",
           "Alternative Rock",
           "Hard Rock"
@@ -881,7 +880,7 @@
         "name": "The Best Of Coal Chamber",
         "year": "1997",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Nu Metal",
           "Alternative Rock",
           "Hard Rock"
@@ -919,7 +918,7 @@
         "name": "Best Of",
         "year": "2004",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Nu Metal"
         ]
       },
@@ -940,7 +939,7 @@
     ],
     "tags": [
       "Nu Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Heavy Metal",
       "Alternative Rock",
       "Hard Rock"
@@ -1069,8 +1068,8 @@
         "year": "2015",
         "genres": [
           "Post-Metal",
-          "Post Rock",
-          "Post-hardcore"
+          "Post-Rock",
+          "Post-Hardcore"
         ]
       },
       {
@@ -1078,10 +1077,10 @@
         "year": "2016",
         "genres": [
           "Experimental Metal",
-          "Prog Rock",
-          "Post-hardcore",
+          "Progressive Rock",
+          "Post-Hardcore",
           "Sludge Metal",
-          "Post Rock",
+          "Post-Rock",
           "Post-Metal"
         ]
       },
@@ -1098,10 +1097,10 @@
         "year": "2016",
         "genres": [
           "Experimental Metal",
-          "Prog Rock",
-          "Post-hardcore",
+          "Progressive Rock",
+          "Post-Hardcore",
           "Sludge Metal",
-          "Post Rock",
+          "Post-Rock",
           "Post-Metal"
         ]
       },
@@ -1118,7 +1117,7 @@
         "year": "2020",
         "genres": [
           "Post-Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       },
       {
@@ -1158,9 +1157,9 @@
       "Post-Metal",
       "Sludge Metal",
       "Experimental Metal",
-      "Prog Rock",
-      "Post-hardcore",
-      "Post Rock",
+      "Progressive Rock",
+      "Post-Hardcore",
+      "Post-Rock",
       "Atmospheric Sludge Post-Metal"
     ]
   },
@@ -1520,13 +1519,13 @@
         "year": "2017",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -1599,7 +1598,7 @@
         "name": "A Bare Reminiscence Of Infected Wonderlands",
         "year": "2010",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Death Metal"
         ]
       },
@@ -1607,13 +1606,13 @@
         "name": "Dead End Proclama",
         "year": "2013",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Death Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Progressive Death Metal"
     ]
   },
@@ -1714,7 +1713,7 @@
         "year": "2007",
         "genres": [
           "Pagan Black Metal",
-          "Blackened Folk"
+          "Blackened Folk Metal"
         ]
       },
       {
@@ -1722,7 +1721,7 @@
         "year": "2015",
         "genres": [
           "Pagan Black Metal",
-          "Blackened Folk"
+          "Blackened Folk Metal"
         ]
       },
       {
@@ -1730,13 +1729,13 @@
         "year": "2025",
         "genres": [
           "Pagan Black Metal",
-          "Blackened Folk"
+          "Blackened Folk Metal"
         ]
       }
     ],
     "tags": [
       "Pagan Black Metal",
-      "Blackened Folk"
+      "Blackened Folk Metal"
     ]
   },
   {
@@ -1898,7 +1897,7 @@
         "year": "2014",
         "genres": [
           "Progressive Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Jazz Fusion"
         ]
       },
@@ -1907,7 +1906,7 @@
         "year": "2015",
         "genres": [
           "Progressive Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Jazz Fusion"
         ]
       },
@@ -1916,14 +1915,14 @@
         "year": "2018",
         "genres": [
           "Progressive Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Jazz Fusion"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Jazz Fusion"
     ]
   },
@@ -2345,7 +2344,6 @@
     "tags": [
       "Power Metal",
       "Speed Metal",
-      "Metal",
       "Alternative Rock",
       "Folk Rock",
       "Pop",
@@ -2452,7 +2450,7 @@
         "year": "2007",
         "genres": [
           "Indie Rock",
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Pop",
           "Rock",
@@ -2462,7 +2460,7 @@
     ],
     "tags": [
       "Indie Rock",
-      "Electro Metal",
+      "Electro",
       "Electronic",
       "Pop",
       "Rock",
@@ -2653,7 +2651,7 @@
         "name": "The Things They Believe",
         "year": "2021",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2672,7 +2670,7 @@
     "tags": [
       "Alternative",
       "Metalcore",
-      "Ambient Metal",
+      "Ambient",
       "Shoegaze",
       "Heavy Metal",
       "Alternative Rock",
@@ -2696,8 +2694,7 @@
           "Art Rock",
           "Spoken Word",
           "Album Rock",
-          "Contemporary Pop/rock",
-          "Pop/rock",
+          "Pop Rock",
           "Avant-garde Metal",
           "Heavy Metal"
         ]
@@ -2712,8 +2709,7 @@
       "Art Rock",
       "Spoken Word",
       "Album Rock",
-      "Contemporary Pop/rock",
-      "Pop/rock",
+      "Pop Rock",
       "Avant-garde Metal",
       "Heavy Metal"
     ]
@@ -2904,13 +2900,13 @@
         "year": "2005",
         "genres": [
           "Heavy Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -3127,7 +3123,7 @@
         "name": "Ark Of The Covenant",
         "year": "2005",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       },
@@ -3135,7 +3131,7 @@
         "name": "Pillars Of The Creation",
         "year": "2006",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       },
@@ -3143,7 +3139,7 @@
         "name": "The Secret Place",
         "year": "2007",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       },
@@ -3151,7 +3147,7 @@
         "name": "Powerstation",
         "year": "2009",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       },
@@ -3159,7 +3155,7 @@
         "name": "Guitar Christmas",
         "year": "2011",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       },
@@ -3167,7 +3163,7 @@
         "name": "Dominate The Fallen",
         "year": "2012",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       },
@@ -3175,7 +3171,7 @@
         "name": "Higher Dimension",
         "year": "2013",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       },
@@ -3183,7 +3179,7 @@
         "name": "Master Of The Universe",
         "year": "2014",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       },
@@ -3191,7 +3187,7 @@
         "name": "Equilibrium",
         "year": "2017",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       },
@@ -3199,7 +3195,7 @@
         "name": "Mastermind",
         "year": "2018",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       },
@@ -3207,7 +3203,7 @@
         "name": "Vital Elements",
         "year": "2019",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       },
@@ -3215,7 +3211,7 @@
         "name": "Chronicles Of A Neoclasical Era",
         "year": "2022",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       },
@@ -3223,13 +3219,13 @@
         "name": "World On Fire",
         "year": "2024",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Heavy",
+      "Neoclassical Heavy Metal",
       "Instrumental"
     ]
   },
@@ -3369,7 +3365,7 @@
         "name": "U.m.a.",
         "year": "2013",
         "genres": [
-          "Ambient Metal",
+          "Ambient",
           "Electronic",
           "Experimental Metal",
           "Atmospheric Black Metal",
@@ -3380,7 +3376,7 @@
         "name": "Asteroidi",
         "year": "2014",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3400,7 +3396,7 @@
     ],
     "tags": [
       "Industrial Black Metal",
-      "Ambient Metal",
+      "Ambient",
       "Electronic",
       "Experimental Metal",
       "Atmospheric Black Metal"
@@ -3569,14 +3565,14 @@
         "year": "2017",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Emo"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Emo"
     ]
   },
@@ -3656,7 +3652,7 @@
         "name": "A Simple Act Of Redirection",
         "year": "2018",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       },
@@ -3671,7 +3667,7 @@
         "name": "Menetekel",
         "year": "2021",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       },
@@ -3679,14 +3675,14 @@
         "name": "Determined To End",
         "year": "2022",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Post Rock",
+      "Post-Rock",
       "Rock"
     ]
   },
@@ -3778,26 +3774,26 @@
         "name": "Schiztome",
         "year": "2000",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Puritanically Unreconstructed",
         "year": "2003",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "The Art Of Dying",
         "year": "2005",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3961,19 +3957,19 @@
         "name": "Cronaca Nera",
         "year": "2005",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Ode To Silence",
         "year": "2006",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4359,19 +4355,19 @@
         "name": "Titan Force",
         "year": "1989",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Winner/loser",
         "year": "1991",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -4736,7 +4732,7 @@
         "name": "Abuse / Dispose",
         "year": "2020",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Death Metal",
           "Powerviolence"
         ]
@@ -4745,7 +4741,7 @@
         "name": "Subservient",
         "year": "2022",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Death Metal",
           "Powerviolence"
         ]
@@ -4754,7 +4750,7 @@
         "name": "Holocene Extinction",
         "year": "2024",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Death Metal",
           "Powerviolence"
         ]
@@ -4763,14 +4759,14 @@
         "name": "Prevail In Absence",
         "year": "2025",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Death Metal",
           "Powerviolence"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Death Metal",
       "Powerviolence"
     ]

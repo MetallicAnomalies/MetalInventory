@@ -9,19 +9,19 @@
         "year": "2017",
         "genres": [
           "Electronic",
-          "Industrial Metal"
+          "Industrial"
         ]
       },
       {
         "name": "American Landfill",
         "year": "2019",
         "genres": [
-          "Industrial Metal"
+          "Industrial"
         ]
       }
     ],
     "tags": [
-      "Industrial Metal",
+      "Industrial",
       "Electronic"
     ]
   },
@@ -57,19 +57,19 @@
         "name": "Sireless",
         "year": "2018",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "The Ailing Facade",
         "year": "2022",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Death"
+      "Experimental Death Metal"
     ]
   },
   {
@@ -268,12 +268,12 @@
         "name": "кровоизлияние",
         "year": "1992",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -569,75 +569,75 @@
         "name": "Bethmoora",
         "year": "2009",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Bong",
         "year": "2009",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Beyond Ancient Space",
         "year": "2011",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Mana-yood-sushai",
         "year": "2012",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Another Dose",
         "year": "2013",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Idle Days On The Yann",
         "year": "2013",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Untitled",
         "year": "2013",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Stoner Rock",
         "year": "2014",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "We Are, We Were And We Will Have Been",
         "year": "2015",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Thought And Existence",
         "year": "2018",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Doom"
+      "Psychedelic Doom Metal"
     ]
   },
   {
@@ -682,17 +682,17 @@
         "year": "2012",
         "genres": [
           "Electronic",
-          "Experimental Metal",
-          "Noise Metal",
-          "Ambient Metal"
+          "Experimental",
+          "Noise",
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Electronic",
-      "Experimental Metal",
-      "Noise Metal",
-      "Ambient Metal"
+      "Experimental",
+      "Noise",
+      "Ambient"
     ]
   },
   {
@@ -1345,7 +1345,7 @@
         "year": "1975",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock",
           "Krautrock"
         ]
@@ -1353,7 +1353,7 @@
     ],
     "tags": [
       "Art Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock",
       "Krautrock"
     ]
@@ -1825,23 +1825,23 @@
         "name": "Everything You Ever Wanted To Know About Silence Remaster",
         "year": "2000",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Material Control",
         "year": "2017",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Alternative Rock",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1881,14 +1881,14 @@
         "genres": [
           "Acoustic",
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Acoustic",
       "Folk, World, & Country",
-      "Folk Metal",
+      "Folk",
       "Folk Rock",
       "Rock"
     ]
@@ -1902,24 +1902,24 @@
         "name": "Age Of Resentment",
         "year": "2022",
         "genres": [
-          "Blackened Sludge",
-          "Doom Death"
+          "Blackened Sludge Metal",
+          "Death Doom Metal"
         ]
       },
       {
         "name": "Reversion Of The Repressed",
         "year": "2023",
         "genres": [
-          "Blackened Sludge",
-          "Doom Death"
+          "Blackened Sludge Metal",
+          "Death Doom Metal"
         ]
       },
       {
         "name": "Dysphoric Devotion",
         "year": "2025",
         "genres": [
-          "Blackened Sludge",
-          "Doom Death"
+          "Blackened Sludge Metal",
+          "Death Doom Metal"
         ]
       },
       {
@@ -1939,8 +1939,8 @@
       }
     ],
     "tags": [
-      "Blackened Sludge",
-      "Doom Death",
+      "Blackened Sludge Metal",
+      "Death Doom Metal",
       "Black Metal",
       "Death Metal",
       "Sludge Metal"
@@ -2285,12 +2285,12 @@
         "name": "Est. 2012",
         "year": "2013",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -3200,7 +3200,7 @@
         "year": "2022",
         "genres": [
           "Industrial Metal",
-          "Goth Rock",
+          "Gothic Rock",
           "Metalcore"
         ]
       },
@@ -3209,7 +3209,7 @@
         "year": "2022",
         "genres": [
           "Industrial Metal",
-          "Goth Rock",
+          "Gothic Rock",
           "Metalcore"
         ]
       },
@@ -3230,7 +3230,7 @@
       "Melodic Metalcore",
       "Metalcore",
       "Industrial Metal",
-      "Goth Rock"
+      "Gothic Rock"
     ]
   },
   {
@@ -4069,7 +4069,7 @@
         "genres": [
           "Atmospheric Black Metal",
           "Post-Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4078,7 +4078,7 @@
         "genres": [
           "Atmospheric Black Metal",
           "Post-Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4087,7 +4087,7 @@
         "genres": [
           "Atmospheric Black Metal",
           "Post-Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4103,7 +4103,7 @@
         "genres": [
           "Atmospheric Black Metal",
           "Post-Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4112,7 +4112,7 @@
         "genres": [
           "Atmospheric Black Metal",
           "Post-Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4121,14 +4121,14 @@
         "genres": [
           "Atmospheric Black Metal",
           "Post-Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
       "Post-Rock",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Modern Classical"
     ]
   },
@@ -4197,7 +4197,7 @@
         "genres": [
           "Leftfield",
           "Trip Hop",
-          "Ambient Metal",
+          "Ambient",
           "Downtempo",
           "Electronic",
           "House"
@@ -4232,7 +4232,7 @@
       "House",
       "Leftfield",
       "Trip Hop",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -4868,7 +4868,7 @@
         "genres": [
           "Stoner Metal",
           "Psychedelic Rock",
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
@@ -4877,7 +4877,7 @@
         "genres": [
           "Stoner Metal",
           "Psychedelic Rock",
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
@@ -4886,14 +4886,14 @@
         "genres": [
           "Stoner Metal",
           "Psychedelic Rock",
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       }
     ],
     "tags": [
       "Stoner Metal",
       "Psychedelic Rock",
-      "Psychedelic Doom"
+      "Psychedelic Doom Metal"
     ]
   },
   {
@@ -5025,16 +5025,16 @@
         "genres": [
           "Indie Rock",
           "Punk",
-          "Post-hardcore",
-          "Post Rock"
+          "Post-Hardcore",
+          "Post-Rock"
         ]
       }
     ],
     "tags": [
       "Indie Rock",
       "Punk",
-      "Post-hardcore",
-      "Post Rock"
+      "Post-Hardcore",
+      "Post-Rock"
     ]
   },
   {
@@ -5608,13 +5608,13 @@
         "name": "Waylon & Willie",
         "year": "1970",
         "genres": [
-          "Country Metal",
+          "Country",
           "Folk, World, & Country"
         ]
       }
     ],
     "tags": [
-      "Country Metal",
+      "Country",
       "Folk, World, & Country"
     ]
   },

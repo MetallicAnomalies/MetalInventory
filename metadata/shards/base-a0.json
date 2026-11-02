@@ -145,12 +145,12 @@
         "name": "Desire To Burn",
         "year": "2003",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -284,7 +284,7 @@
         "name": "Night Reign",
         "year": "2024",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Ghazal",
           "Qawwali",
           "Folk, World, & Country",
@@ -293,7 +293,7 @@
       }
     ],
     "tags": [
-      "Folk Metal",
+      "Folk",
       "Ghazal",
       "Qawwali",
       "Folk, World, & Country",
@@ -308,26 +308,26 @@
         "name": "Gloomy Experiments",
         "year": "1990",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Resurrection - Beginning Of The End",
         "year": "2020",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Cosmos And Chaos",
         "year": "2024",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -338,12 +338,12 @@
         "name": "Nación De Bastardos",
         "year": "2011",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -452,7 +452,7 @@
         "year": "2019",
         "genres": [
           "Technical Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -463,7 +463,7 @@
     ],
     "tags": [
       "Technical Death Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -566,10 +566,10 @@
         "name": "Course Over Ground",
         "year": "2007",
         "genres": [
-          "Noise Metal",
+          "Noise",
           "Indie Rock",
           "Punk",
-          "Post Rock"
+          "Post-Rock"
         ]
       },
       {
@@ -584,7 +584,7 @@
         "year": "2009",
         "genres": [
           "Alternative Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -593,7 +593,7 @@
         "year": "2019",
         "genres": [
           "Alternative Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
@@ -601,11 +601,11 @@
     "tags": [
       "Alternative",
       "Alternative Rock",
-      "Prog Rock",
-      "Noise Metal",
+      "Progressive Rock",
+      "Noise",
       "Indie Rock",
       "Punk",
-      "Post Rock",
+      "Post-Rock",
       "Rock"
     ]
   },
@@ -656,7 +656,6 @@
       }
     ],
     "tags": [
-      "Metal",
       "Sludge Metal"
     ]
   },
@@ -795,21 +794,21 @@
         "name": "Poltetun Veden Pinta",
         "year": "2015",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Guide My Fury",
         "year": "2017",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "152",
         "year": "2019",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -830,19 +829,18 @@
         "name": "Songs And Tales Of Grievance",
         "year": "2021",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Consciousness",
         "year": "2025",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg",
       "Melodic Death Metal"
     ]
   },
@@ -952,7 +950,7 @@
         "year": "2015",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -988,7 +986,7 @@
     "tags": [
       "Melodic Death Metal",
       "Metalcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1051,20 +1049,20 @@
         "year": "2000",
         "genres": [
           "Music Video",
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Euro House",
-          "Italodance",
+          "Italo Dance",
           "Stage & Screen"
         ]
       }
     ],
     "tags": [
       "Music Video",
-      "Electro Metal",
+      "Electro",
       "Electronic",
       "Euro House",
-      "Italodance",
+      "Italo Dance",
       "Stage & Screen"
     ]
   },
@@ -1361,7 +1359,7 @@
         "name": "Next To Bleed",
         "year": "2025",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Death Metal"
         ]
       }
@@ -1369,7 +1367,7 @@
     "tags": [
       "Metalcore",
       "Deathcore",
-      "Hardcore Metal",
+      "Hardcore",
       "Death Metal"
     ]
   },
@@ -2318,7 +2316,7 @@
         "year": "2011",
         "genres": [
           "Electronic",
-          "Goth Rock",
+          "Gothic Rock",
           "Synth-pop",
           "Rock"
         ]
@@ -2326,7 +2324,7 @@
     ],
     "tags": [
       "Electronic",
-      "Goth Rock",
+      "Gothic Rock",
       "Synth-pop",
       "Rock"
     ]
@@ -2348,7 +2346,7 @@
         "name": "Legado De Una Tragedia Ii",
         "year": "2014",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -2371,40 +2369,40 @@
         "name": "Legado De Una Tragedia Iii",
         "year": "2016",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "El Secreto De Los Templarios",
         "year": "2019",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Britania",
         "year": "2021",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Aquelarre De Sombras",
         "year": "2023",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Lovecraft",
         "year": "2025",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Heavy Metal",
       "Hard Rock"
     ]
@@ -2518,7 +2516,7 @@
         "genres": [
           "Sludge Metal",
           "Doom Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2527,7 +2525,7 @@
         "genres": [
           "Sludge Metal",
           "Doom Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2536,7 +2534,7 @@
         "genres": [
           "Sludge Metal",
           "Doom Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2545,7 +2543,7 @@
         "genres": [
           "Sludge Metal",
           "Doom Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2554,14 +2552,14 @@
         "genres": [
           "Sludge Metal",
           "Doom Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Sludge Metal",
       "Doom Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2969,12 +2967,12 @@
         "name": "פרפר נחמד",
         "year": "1983",
         "genres": [
-          "Children's Music"
+          "Children's"
         ]
       }
     ],
     "tags": [
-      "Children's Music"
+      "Children's"
     ]
   },
   {
@@ -3143,28 +3141,28 @@
         "name": "Gate Of Sin",
         "year": "2008",
         "genres": [
-          "Symphonic Gothic"
+          "Symphonic Gothic Metal"
         ]
       },
       {
         "name": "The Depths Inside",
         "year": "2014",
         "genres": [
-          "Symphonic Gothic"
+          "Symphonic Gothic Metal"
         ]
       },
       {
         "name": "Tessellation Of The Universe",
         "year": "2017",
         "genres": [
-          "Symphonic Gothic"
+          "Symphonic Gothic Metal"
         ]
       },
       {
         "name": "Ornaments",
         "year": "2020",
         "genres": [
-          "Symphonic Gothic"
+          "Symphonic Gothic Metal"
         ]
       },
       {
@@ -3183,7 +3181,7 @@
       }
     ],
     "tags": [
-      "Symphonic Gothic",
+      "Symphonic Gothic Metal",
       "Symphonic Metal"
     ]
   },
@@ -3267,10 +3265,10 @@
         "name": "Songs For The Firing Squad",
         "year": "2019",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Experimental Metal",
           "Metalcore",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -3304,7 +3302,7 @@
         "genres": [
           "Melodic Metalcore",
           "Mathcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3316,11 +3314,11 @@
     "tags": [
       "Melodic Metalcore",
       "Mathcore",
-      "Post-hardcore",
-      "Hardcore Metal",
+      "Post-Hardcore",
+      "Hardcore",
       "Experimental Metal",
       "Metalcore",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Emo"
     ]
   },
@@ -3631,19 +3629,19 @@
         "name": "240.25 Actual Reality",
         "year": "1996",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Bound",
         "year": "1996",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -3659,7 +3657,7 @@
           "Alternative Metal",
           "Alternative Rock",
           "Hard Rock",
-          "Post-grunge",
+          "Post-Grunge",
           "Metalcore"
         ]
       },
@@ -3672,7 +3670,7 @@
           "Alternative Metal",
           "Alternative Rock",
           "Hard Rock",
-          "Post-grunge",
+          "Post-Grunge",
           "Metalcore"
         ]
       },
@@ -3686,7 +3684,7 @@
           "Alternative Metal",
           "Alternative Rock",
           "Hard Rock",
-          "Post-grunge",
+          "Post-Grunge",
           "Metalcore"
         ]
       },
@@ -3699,7 +3697,7 @@
           "Alternative Metal",
           "Alternative Rock",
           "Hard Rock",
-          "Post-grunge"
+          "Post-Grunge"
         ]
       }
     ],
@@ -3709,7 +3707,7 @@
       "Alternative Metal",
       "Alternative Rock",
       "Hard Rock",
-      "Post-grunge",
+      "Post-Grunge",
       "Metalcore",
       "Punk"
     ]
@@ -3780,7 +3778,7 @@
         "name": "Slave Design",
         "year": "2004",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Industrial Metal"
         ]
       },
@@ -3788,7 +3786,7 @@
         "name": "Antares",
         "year": "2007",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Industrial Metal"
         ]
       },
@@ -3796,7 +3794,7 @@
         "name": "A.e.o.n.",
         "year": "2009",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Industrial Metal"
         ]
       },
@@ -3804,7 +3802,7 @@
         "name": "The Pulse Of Awakening",
         "year": "2009",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Industrial Metal"
         ]
       },
@@ -3812,7 +3810,7 @@
         "name": "Challenger",
         "year": "2011",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Industrial Metal"
         ]
       },
@@ -3820,7 +3818,7 @@
         "name": "God Is An Automaton",
         "year": "2012",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Industrial Metal"
         ]
       },
@@ -3833,8 +3831,7 @@
       }
     ],
     "tags": [
-      "Metal",
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Industrial Metal"
     ]
   },
@@ -3849,7 +3846,7 @@
         "genres": [
           "New Wave",
           "Art Rock",
-          "Post-punk",
+          "Post-Punk",
           "Proto-punk"
         ]
       }
@@ -3857,7 +3854,7 @@
     "tags": [
       "New Wave",
       "Art Rock",
-      "Post-punk",
+      "Post-Punk",
       "Proto-punk"
     ]
   },
@@ -4041,14 +4038,14 @@
         "year": "2021",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
         "name": "More Wild",
         "year": "2021",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -4056,7 +4053,7 @@
         "name": "No Limits",
         "year": "2022",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
@@ -4066,7 +4063,7 @@
       "Progressive Metal",
       "Symphonic Metal",
       "Gothic Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -4148,7 +4145,7 @@
         "name": "Storming The Walls",
         "year": "2023",
         "genres": [
-          "Epic Heavy",
+          "Epic Heavy Metal",
           "Power Metal"
         ]
       },
@@ -4156,13 +4153,13 @@
         "name": "Spirit Invictus",
         "year": "2024",
         "genres": [
-          "Epic Heavy",
+          "Epic Heavy Metal",
           "Power Metal"
         ]
       }
     ],
     "tags": [
-      "Epic Heavy",
+      "Epic Heavy Metal",
       "Power Metal"
     ]
   },
@@ -4174,12 +4171,12 @@
         "name": "Illusion",
         "year": "2002",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -4273,8 +4270,7 @@
         "genres": [
           "Gothic Thrash Metal",
           "Symphonic Black Metal",
-          "Thrash Metal",
-          "Symphonic Black Metal"
+          "Thrash Metal"
         ]
       }
     ],

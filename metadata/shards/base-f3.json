@@ -48,7 +48,7 @@
         "year": "2005",
         "genres": [
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -56,7 +56,7 @@
         "year": "2011",
         "genres": [
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -64,7 +64,7 @@
         "year": "2014",
         "genres": [
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -72,7 +72,7 @@
         "year": "2020",
         "genres": [
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -80,7 +80,7 @@
         "year": "2024",
         "genres": [
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -88,14 +88,14 @@
         "year": "2024",
         "genres": [
           "Grindcore",
-          "Power Violence"
+          "Powerviolence"
         ]
       }
     ],
     "tags": [
       "Grindcore",
-      "Hardcore Metal",
-      "Power Violence"
+      "Hardcore",
+      "Powerviolence"
     ]
   },
   {
@@ -108,7 +108,7 @@
         "genres": [
           "Speed Metal",
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -117,7 +117,7 @@
         "genres": [
           "Speed Metal",
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -126,7 +126,7 @@
         "genres": [
           "Speed Metal",
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -135,7 +135,7 @@
         "genres": [
           "Speed Metal",
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -144,7 +144,7 @@
         "genres": [
           "Speed Metal",
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -153,7 +153,7 @@
         "genres": [
           "Speed Metal",
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -162,14 +162,14 @@
         "genres": [
           "Speed Metal",
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Speed Metal",
       "Thrash Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -362,7 +362,7 @@
         "genres": [
           "New Wave",
           "Indie Rock",
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Synth-pop",
           "Rock"
@@ -373,7 +373,7 @@
       "Indie Rock",
       "Rock",
       "New Wave",
-      "Electro Metal",
+      "Electro",
       "Electronic",
       "Synth-pop"
     ]
@@ -796,13 +796,13 @@
         "name": "De Avonturen Van Bollo",
         "year": "2002",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Post Rock",
+      "Post-Rock",
       "Rock"
     ]
   },
@@ -955,13 +955,13 @@
         "year": "2015",
         "genres": [
           "Folk Metal",
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
       "Folk Metal",
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -1058,21 +1058,21 @@
         "name": "The Warrior",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "All Alone Again",
         "year": "1985",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Burning Ambition",
         "year": "1986",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -1105,7 +1105,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal"
     ]
   },
@@ -1585,7 +1585,7 @@
         "year": "2007",
         "genres": [
           "Gothic Metal",
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
@@ -1593,7 +1593,7 @@
         "year": "2010",
         "genres": [
           "Gothic Metal",
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
@@ -1601,13 +1601,13 @@
         "year": "2013",
         "genres": [
           "Gothic Metal",
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
       "Gothic Metal",
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -1907,7 +1907,7 @@
         "year": "2022",
         "genres": [
           "Progressive Death Metal",
-          "Post-punk"
+          "Post-Punk"
         ]
       },
       {
@@ -1915,13 +1915,13 @@
         "year": "2025",
         "genres": [
           "Progressive Death Metal",
-          "Post-punk"
+          "Post-Punk"
         ]
       }
     ],
     "tags": [
       "Progressive Death Metal",
-      "Post-punk"
+      "Post-Punk"
     ]
   },
   {
@@ -2147,13 +2147,13 @@
         "year": "2016",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -2629,21 +2629,21 @@
         "name": "Strangling From Within",
         "year": "1999",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Amor Fati",
         "year": "2000",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Oh, My Regrets",
         "year": "2000",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2652,26 +2652,26 @@
         "genres": [
           "Heavy Metal",
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Lost In Reverie",
         "year": "2004",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "The Moribund People",
         "year": "2005",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Heavy Metal",
       "Black Metal"
     ]
@@ -2895,7 +2895,7 @@
         "year": "1986",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2903,7 +2903,7 @@
         "year": "1991",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2911,7 +2911,7 @@
         "year": "2002",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2919,13 +2919,13 @@
         "year": "2003",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -2985,12 +2985,12 @@
         "name": "Skjør",
         "year": "2023",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3165,7 +3165,7 @@
         "year": "2015",
         "genres": [
           "Alternative",
-          "Industrial Metal"
+          "Industrial"
         ]
       },
       {
@@ -3173,7 +3173,7 @@
         "year": "2018",
         "genres": [
           "Alternative",
-          "Industrial Metal"
+          "Industrial"
         ]
       },
       {
@@ -3181,7 +3181,7 @@
         "year": "2022",
         "genres": [
           "Alternative",
-          "Industrial Metal"
+          "Industrial"
         ]
       },
       {
@@ -3189,13 +3189,13 @@
         "year": "2025",
         "genres": [
           "Alternative",
-          "Industrial Metal"
+          "Industrial"
         ]
       }
     ],
     "tags": [
       "Alternative",
-      "Industrial Metal"
+      "Industrial"
     ]
   },
   {
@@ -3498,49 +3498,49 @@
         "name": "Strength In Hate",
         "year": "1990",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "The Heart Grows Harder",
         "year": "1992",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "The Calling Of The Just",
         "year": "1993",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Hymns For An Unknown God",
         "year": "1995",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Stick Tight",
         "year": "1998",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Do Unto Others...",
         "year": "1999",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Conditioned To Murder",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -3548,13 +3548,13 @@
         "name": "Stigmata",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -3569,7 +3569,7 @@
         "genres": [
           "Blues Rock",
           "Alternative Rock",
-          "Experimental Metal",
+          "Experimental",
           "Rock"
         ]
       }
@@ -3577,7 +3577,7 @@
     "tags": [
       "Blues Rock",
       "Alternative Rock",
-      "Experimental Metal",
+      "Experimental",
       "Rock"
     ]
   },
@@ -3607,12 +3607,12 @@
         "name": "Swallow The Ocean",
         "year": "2007",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3889,13 +3889,15 @@
         "year": "2026",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient | Raw Black Metal"
+          "Ambient",
+          "Raw Black Metal"
         ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Ambient | Raw Black Metal"
+      "Ambient",
+      "Raw Black Metal"
     ]
   },
   {

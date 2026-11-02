@@ -162,7 +162,7 @@
         "year": "2005",
         "genres": [
           "Heavy Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -171,7 +171,7 @@
         "genres": [
           "Heavy Metal",
           "Latin",
-          "Prog Rock",
+          "Progressive Rock",
           "Hard Rock",
           "Progressive Metal"
         ]
@@ -217,7 +217,7 @@
       "Progressive Metal",
       "Heavy Metal",
       "Latin",
-      "Prog Rock",
+      "Progressive Rock",
       "Hard Rock"
     ]
   },
@@ -286,8 +286,7 @@
         "year": "2020",
         "genres": [
           "Post-Black Metal",
-          "Ambient Metal",
-          "Post-black Metal"
+          "Ambient"
         ]
       },
       {
@@ -295,8 +294,7 @@
         "year": "2021",
         "genres": [
           "Post-Black Metal",
-          "Ambient Metal",
-          "Post-black Metal"
+          "Ambient"
         ]
       },
       {
@@ -304,8 +302,7 @@
         "year": "2021",
         "genres": [
           "Post-Black Metal",
-          "Ambient Metal",
-          "Post-black Metal"
+          "Ambient"
         ]
       },
       {
@@ -313,15 +310,13 @@
         "year": "2025",
         "genres": [
           "Post-Black Metal",
-          "Ambient Metal",
-          "Post-black Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Post-Black Metal",
-      "Ambient Metal",
-      "Post-black Metal"
+      "Ambient"
     ]
   },
   {
@@ -332,14 +327,14 @@
         "name": "Blood Sports",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Killer Elite",
         "year": "1985",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -351,7 +346,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal"
     ]
   },
@@ -945,7 +940,7 @@
         "name": "Live In New York City",
         "year": "2001",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Screamo"
         ]
       },
@@ -953,7 +948,7 @@
         "name": "City Of Caterpillar",
         "year": "2002",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Screamo"
         ]
       },
@@ -961,7 +956,7 @@
         "name": "Driving Spain Up A Wall",
         "year": "2017",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Screamo"
         ]
       },
@@ -969,13 +964,13 @@
         "name": "Mystic Sisters",
         "year": "2022",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Screamo"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Screamo"
     ]
   },
@@ -1479,33 +1474,33 @@
         "name": "Penetrations From The Lost World",
         "year": "1997",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Silent Night Fever",
         "year": "2002",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "This Is Hell",
         "year": "2003",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "He Who Shall Not Bleed",
         "year": "2007",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -1794,26 +1789,26 @@
         "name": "Reprieved To Totality",
         "year": "2020",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Hunchback Hatred",
         "year": "2023",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Let There Be Sin",
         "year": "2025",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -2114,7 +2109,7 @@
         "year": "2017",
         "genres": [
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2122,7 +2117,7 @@
         "year": "2018",
         "genres": [
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2130,13 +2125,13 @@
         "year": "2020",
         "genres": [
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Grindcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2224,14 +2219,14 @@
         "year": "2024",
         "genres": [
           "Folk, World, & Country",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Folk, World, & Country",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -4447,12 +4442,12 @@
         "name": "Marscherar & Förstör",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4464,7 +4459,7 @@
         "year": "2001",
         "genres": [
           "Gothic Metal",
-          "Electro Industrial"
+          "Electro-Industrial"
         ]
       },
       {
@@ -4472,7 +4467,7 @@
         "year": "2003",
         "genres": [
           "Gothic Metal",
-          "Electro Industrial"
+          "Electro-Industrial"
         ]
       },
       {
@@ -4480,13 +4475,13 @@
         "year": "2005",
         "genres": [
           "Gothic Metal",
-          "Electro Industrial"
+          "Electro-Industrial"
         ]
       }
     ],
     "tags": [
       "Gothic Metal",
-      "Electro Industrial"
+      "Electro-Industrial"
     ]
   },
   {
@@ -4568,14 +4563,14 @@
         "name": "Sinus",
         "year": "2009",
         "genres": [
-          "Experimental Progressive"
+          "Experimental Progressive Metal"
         ]
       },
       {
         "name": "Nonsense",
         "year": "2010",
         "genres": [
-          "Experimental Progressive"
+          "Experimental Progressive Metal"
         ]
       },
       {
@@ -4589,7 +4584,7 @@
         "name": "Moist Computer",
         "year": "2011",
         "genres": [
-          "Experimental Progressive"
+          "Experimental Progressive Metal"
         ]
       },
       {
@@ -4603,40 +4598,40 @@
         "name": "Muscle Explosion",
         "year": "2013",
         "genres": [
-          "Experimental Progressive"
+          "Experimental Progressive Metal"
         ]
       },
       {
         "name": "Cosmos Compost",
         "year": "2014",
         "genres": [
-          "Experimental Progressive"
+          "Experimental Progressive Metal"
         ]
       },
       {
         "name": "Psycho Soundwaves",
         "year": "2016",
         "genres": [
-          "Experimental Progressive"
+          "Experimental Progressive Metal"
         ]
       },
       {
         "name": "Spezialist",
         "year": "2019",
         "genres": [
-          "Experimental Progressive"
+          "Experimental Progressive Metal"
         ]
       },
       {
         "name": "Parasitus Apparatus",
         "year": "2023",
         "genres": [
-          "Experimental Progressive"
+          "Experimental Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Progressive",
+      "Experimental Progressive Metal",
       "Progressive Metal"
     ]
   },
@@ -4806,14 +4801,12 @@
         "name": "FUBAR",
         "year": "2026",
         "genres": [
-          "Thrash Metal",
-          "Metal"
+          "Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Thrash Metal",
-      "Metal"
+      "Thrash Metal"
     ]
   },
   {
@@ -5051,7 +5044,7 @@
         "name": "Nova",
         "year": "2019",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Melodic Hardcore",
           "Metalcore"
         ]
@@ -5060,7 +5053,7 @@
         "name": "Everywhere, Everything",
         "year": "2023",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Melodic Hardcore",
           "Metalcore"
         ]
@@ -5069,7 +5062,7 @@
         "name": "Gods & Heathens",
         "year": "2023",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Melodic Hardcore",
           "Metalcore"
         ]
@@ -5078,13 +5071,13 @@
         "name": "Paranoia",
         "year": "2024",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Melodic Hardcore",
       "Metalcore",
       "Punk"
@@ -5167,7 +5160,7 @@
         "name": "Radiant",
         "year": "2018",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -5175,13 +5168,13 @@
         "name": "Written By Life",
         "year": "2022",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -5209,40 +5202,40 @@
         "name": "Evolution, Devolution, Revolution",
         "year": "1998",
         "genres": [
-          "Industrial Thrash"
+          "Industrial Thrash Metal"
         ]
       },
       {
         "name": "Nude",
         "year": "2003",
         "genres": [
-          "Industrial Thrash"
+          "Industrial Thrash Metal"
         ]
       },
       {
         "name": "Planet Earth",
         "year": "2005",
         "genres": [
-          "Industrial Thrash"
+          "Industrial Thrash Metal"
         ]
       },
       {
         "name": "Visions",
         "year": "2009",
         "genres": [
-          "Industrial Thrash"
+          "Industrial Thrash Metal"
         ]
       },
       {
         "name": "Insidiously",
         "year": "2022",
         "genres": [
-          "Industrial Thrash"
+          "Industrial Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Industrial Thrash",
+      "Industrial Thrash Metal",
       "Heavy Metal",
       "Thrash Metal"
     ]
@@ -5406,7 +5399,7 @@
         "year": "1993",
         "genres": [
           "Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -5484,7 +5477,7 @@
       "Progressive Death Metal",
       "Nu Metal",
       "Death Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -5997,54 +5990,54 @@
         "name": "Torrential Downpour",
         "year": "2009",
         "genres": [
-          "Experimental Thrash"
+          "Experimental Thrash Metal"
         ]
       },
       {
         "name": "Connected Through",
         "year": "2011",
         "genres": [
-          "Experimental Thrash"
+          "Experimental Thrash Metal"
         ]
       },
       {
         "name": "Wire",
         "year": "2011",
         "genres": [
-          "Experimental Thrash"
+          "Experimental Thrash Metal"
         ]
       },
       {
         "name": "The Phaneron",
         "year": "2013",
         "genres": [
-          "Experimental Thrash"
+          "Experimental Thrash Metal"
         ]
       },
       {
         "name": "Truth Knowledge Vision",
         "year": "2014",
         "genres": [
-          "Experimental Thrash"
+          "Experimental Thrash Metal"
         ]
       },
       {
         "name": "Rmx / Rmstr / Rdux",
         "year": "2020",
         "genres": [
-          "Experimental Thrash"
+          "Experimental Thrash Metal"
         ]
       },
       {
         "name": "Twentytwentytwenty",
         "year": "2020",
         "genres": [
-          "Experimental Thrash"
+          "Experimental Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Thrash"
+      "Experimental Thrash Metal"
     ]
   },
   {
@@ -6335,7 +6328,7 @@
         "year": "2017",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -6343,13 +6336,13 @@
         "year": "2019",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -6422,7 +6415,7 @@
         "genres": [
           "Electronic",
           "Downtempo",
-          "Uk Garage",
+          "UK Garage",
           "Garage House"
         ]
       },
@@ -6431,7 +6424,7 @@
         "year": "2004",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       },
       {
@@ -6439,7 +6432,7 @@
         "year": "2010",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Electronic",
           "Hip Hop",
           "Pop",
@@ -6457,12 +6450,12 @@
     ],
     "tags": [
       "Funk / Soul",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Pop",
       "Hip Hop",
       "Electronic",
       "Downtempo",
-      "Uk Garage",
+      "UK Garage",
       "Garage House",
       "Pop Rap"
     ]
@@ -6540,19 +6533,19 @@
         "name": "Einblick In Den Qualenfall",
         "year": "2007",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Weder Licht Noch Schatten",
         "year": "2012",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Black"
+      "Psychedelic Black Metal"
     ]
   },
   {

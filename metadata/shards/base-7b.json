@@ -8,7 +8,7 @@
         "year": "2015",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -16,7 +16,7 @@
         "year": "2016",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -24,7 +24,7 @@
         "year": "2017",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -32,7 +32,7 @@
         "year": "2018",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -40,7 +40,7 @@
         "year": "2020",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -48,7 +48,7 @@
         "year": "2021",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -56,7 +56,7 @@
         "year": "2022",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -64,7 +64,7 @@
         "year": "2024",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -75,7 +75,7 @@
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -205,12 +205,12 @@
         "name": "At First Sight",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -360,33 +360,33 @@
         "name": "Kosmoskampf",
         "year": "2015",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "No Temple",
         "year": "2015",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Zeroes",
         "year": "2015",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Into The Cunt Of The Witch",
         "year": "2016",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Black"
+      "Experimental Black Metal"
     ]
   },
   {
@@ -427,26 +427,26 @@
         "name": "Book Of Reflections",
         "year": "2004",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
         "name": "Chapter Ii - Unfold The Future",
         "year": "2006",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
         "name": "Relentless Fighter",
         "year": "2012",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Power"
+      "Neoclassical Power Metal"
     ]
   },
   {
@@ -673,13 +673,13 @@
         "name": "Unleash Hell",
         "year": "2016",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -786,12 +786,12 @@
         "name": "The Hamelin Duality",
         "year": "2016",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -803,13 +803,13 @@
         "name": "In Death",
         "year": "2020",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -1809,9 +1809,9 @@
         "year": "2006",
         "genres": [
           "Gospel",
-          "Country Metal",
+          "Country",
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -1828,7 +1828,7 @@
         "year": "2002",
         "genres": [
           "Country Rock",
-          "Folk Metal",
+          "Folk",
           "Acoustic",
           "Folk, World, & Country"
         ]
@@ -1836,11 +1836,11 @@
     ],
     "tags": [
       "Country Rock",
-      "Folk Metal",
+      "Folk",
       "Acoustic",
       "Folk, World, & Country",
       "Gospel",
-      "Country Metal",
+      "Country",
       "Rock & Roll",
       "Classic Rock",
       "Rock"
@@ -1959,12 +1959,12 @@
         "name": "Pimedus",
         "year": "2022",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -2004,7 +2004,7 @@
         "year": "2014",
         "genres": [
           "Electronic",
-          "Avantgarde Metal"
+          "Avant-garde"
         ]
       },
       {
@@ -2012,7 +2012,7 @@
         "year": "2017",
         "genres": [
           "Electronic",
-          "Avantgarde Metal"
+          "Avant-garde"
         ]
       },
       {
@@ -2020,13 +2020,13 @@
         "year": "2024",
         "genres": [
           "Electronic",
-          "Avantgarde Metal"
+          "Avant-garde"
         ]
       }
     ],
     "tags": [
       "Electronic",
-      "Avantgarde Metal"
+      "Avant-garde"
     ]
   },
   {
@@ -2634,12 +2634,12 @@
         "name": "Thirteen",
         "year": "2013",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -2846,21 +2846,21 @@
         "name": "First Visit",
         "year": "1985",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Animal Man",
         "year": "1986",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Belfast",
         "year": "1986",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -2879,7 +2879,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal"
     ]
   },
@@ -3086,12 +3086,12 @@
         "name": "Whereabouts Unknown",
         "year": "2024",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Sludge"
+      "Blackened Sludge Metal"
     ]
   },
   {
@@ -3179,7 +3179,7 @@
         "name": "Nova Persei",
         "year": "2007",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal",
           "Post-Metal"
         ]
@@ -3188,7 +3188,7 @@
         "name": "Resilience",
         "year": "2011",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal",
           "Post-Metal"
         ]
@@ -3197,14 +3197,14 @@
         "name": "Ruina Draconis",
         "year": "2025",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal",
           "Post-Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Black Metal",
       "Post-Metal"
     ]
@@ -3670,7 +3670,7 @@
         "genres": [
           "Black Metal",
           "Death Metal",
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       },
       {
@@ -3741,7 +3741,7 @@
     "tags": [
       "Black Metal",
       "Death Metal",
-      "Pagan Folk"
+      "Pagan Folk Metal"
     ]
   },
   {

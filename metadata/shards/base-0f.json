@@ -89,12 +89,12 @@
         "name": "Masked By Midnight",
         "year": "1995",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       }
     ],
     "tags": [
-      "New Wave Of British Heavy"
+      "NWOBHM"
     ]
   },
   {
@@ -222,7 +222,7 @@
         "name": "Sutemus Skambės",
         "year": "1996",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -230,13 +230,13 @@
         "name": "Kai Pilnaties Akis Užmerks Mirtis",
         "year": "1997",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Black Metal"
     ]
   },
@@ -250,7 +250,7 @@
         "year": "2008",
         "genres": [
           "Progressive Metal",
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -258,7 +258,7 @@
         "year": "2011",
         "genres": [
           "Progressive Metal",
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -266,7 +266,7 @@
         "year": "2014",
         "genres": [
           "Progressive Metal",
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -274,13 +274,13 @@
         "year": "2019",
         "genres": [
           "Progressive Metal",
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -356,11 +356,11 @@
         "year": "2009",
         "genres": [
           "Doom Metal",
-          "Ambient Metal",
+          "Ambient",
           "Experimental Metal",
           "Electronic",
           "Drone Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       },
       {
@@ -402,11 +402,11 @@
     "tags": [
       "Post-Metal",
       "Doom Metal",
-      "Ambient Metal",
+      "Ambient",
       "Experimental Metal",
       "Electronic",
       "Drone Metal",
-      "Post Rock"
+      "Post-Rock"
     ]
   },
   {
@@ -1024,7 +1024,7 @@
         "year": "1992",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1074,7 +1074,7 @@
         "name": "Bloodlust (Instrumental)",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Thrash Metal"
         ]
       },
@@ -1083,7 +1083,7 @@
         "year": "2020",
         "genres": [
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1103,7 +1103,7 @@
     ],
     "tags": [
       "Crossover Thrash",
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
       "Thrash Metal"
     ]
@@ -1424,7 +1424,7 @@
         "year": "2012",
         "genres": [
           "Shoegaze",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1432,7 +1432,7 @@
         "year": "2015",
         "genres": [
           "Shoegaze",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1440,7 +1440,7 @@
         "year": "2017",
         "genres": [
           "Shoegaze",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1448,7 +1448,7 @@
         "year": "2022",
         "genres": [
           "Shoegaze",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1456,13 +1456,13 @@
         "year": "2025",
         "genres": [
           "Shoegaze",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Shoegaze",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1475,7 +1475,7 @@
         "genres": [
           "Melodic Black Metal",
           "Melodic Death Metal",
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
@@ -1484,7 +1484,7 @@
         "genres": [
           "Melodic Black Metal",
           "Melodic Death Metal",
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
@@ -1493,7 +1493,7 @@
         "genres": [
           "Melodic Black Metal",
           "Melodic Death Metal",
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
@@ -1502,7 +1502,7 @@
         "genres": [
           "Melodic Black Metal",
           "Melodic Death Metal",
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
@@ -1511,7 +1511,7 @@
         "genres": [
           "Melodic Black Metal",
           "Melodic Death Metal",
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
@@ -1520,14 +1520,14 @@
         "genres": [
           "Melodic Black Metal",
           "Melodic Death Metal",
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       }
     ],
     "tags": [
       "Melodic Black Metal",
       "Melodic Death Metal",
-      "Atmospheric Doom"
+      "Atmospheric Doom Metal"
     ]
   },
   {
@@ -1702,7 +1702,7 @@
         "year": "2020",
         "genres": [
           "Screamo",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1710,7 +1710,7 @@
         "year": "2022",
         "genres": [
           "Screamo",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1718,13 +1718,13 @@
         "year": "2023",
         "genres": [
           "Screamo",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Screamo",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1758,19 +1758,19 @@
         "name": "Vigor Mortis",
         "year": "2007",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Saturday Night Evil",
         "year": "2009",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -2006,7 +2006,7 @@
         "name": "Doomed To Wander And Never Die",
         "year": "2016",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Atmospheric Black Metal",
           "Metalgaze"
         ]
@@ -2015,14 +2015,14 @@
         "name": "My Bones Shall Rest Upon The Mountain",
         "year": "2021",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Atmospheric Black Metal",
           "Metalgaze"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Doom",
+      "Atmospheric Doom Metal",
       "Atmospheric Black Metal",
       "Metalgaze"
     ]
@@ -2233,7 +2233,7 @@
         "name": "The Prelude",
         "year": "2022",
         "genres": [
-          "Epic Folk",
+          "Epic Folk Metal",
           "Melodic Death Metal"
         ]
       },
@@ -2241,13 +2241,13 @@
         "name": "The Sunken Lands",
         "year": "2025",
         "genres": [
-          "Epic Folk",
+          "Epic Folk Metal",
           "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Epic Folk",
+      "Epic Folk Metal",
       "Melodic Death Metal"
     ]
   },
@@ -2295,13 +2295,13 @@
         "name": "How Strange, Innocence",
         "year": "2000",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Post Rock",
+      "Post-Rock",
       "Rock"
     ]
   },
@@ -2475,19 +2475,19 @@
         "name": "Blood Ritual",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "One Last Prayer",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2565,33 +2565,33 @@
         "name": "Gothic Knights",
         "year": "1996",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Kingdom Of The Knights",
         "year": "1999",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Up From The Ashes",
         "year": "2003",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Reflections From The Other Side",
         "year": "2012",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -2602,19 +2602,19 @@
         "name": "Ascending//descending",
         "year": "2014",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Love, Lust And Greed",
         "year": "2018",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -2656,8 +2656,7 @@
     "tags": [
       "Heavy Metal",
       "Doom Metal",
-      "Melodic Death Metal",
-      "Metal"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -2924,28 +2923,28 @@
         "name": "Not Light But Rather Visible Darkness",
         "year": "2001",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Beholding The Unpure",
         "year": "2005",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Nervous System Checking",
         "year": "2006",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Nervous System Failure",
         "year": "2009",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
@@ -2957,7 +2956,7 @@
       }
     ],
     "tags": [
-      "Experimental Death",
+      "Experimental Death Metal",
       "Progressive Death Metal"
     ]
   },
@@ -3005,63 +3004,63 @@
         "name": "King Of Rome",
         "year": "2012",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Sleepy Plessow",
         "year": "2013",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Coping Mechanism",
         "year": "2014",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "At The Expense Of Humanity",
         "year": "2015",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "The Last Emperor",
         "year": "2018",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Let There Be Nothing",
         "year": "2020",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "The Majesty Of Decay",
         "year": "2022",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "I Am The Void",
         "year": "2023",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Concord",
         "year": "2025",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -3073,7 +3072,7 @@
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Power Metal"
     ]
   },
@@ -3105,18 +3104,18 @@
         "year": "2011",
         "genres": [
           "Abstract",
-          "Noise Metal",
+          "Noise",
           "Electronic",
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Abstract",
-      "Noise Metal",
+      "Noise",
       "Electronic",
-      "Post Rock",
+      "Post-Rock",
       "Rock"
     ]
   },
@@ -3210,12 +3209,12 @@
         "name": "Future Revisionists",
         "year": "2013",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3634,12 +3633,12 @@
         "name": "Point Blank",
         "year": "1994",
         "genres": [
-          "Industrial Thrash"
+          "Industrial Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Industrial Thrash"
+      "Industrial Thrash Metal"
     ]
   },
   {
@@ -4290,7 +4289,7 @@
         "name": "Betrayal",
         "year": "2022",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       },
@@ -4319,7 +4318,7 @@
     ],
     "tags": [
       "Post-Metal",
-      "Post Rock",
+      "Post-Rock",
       "Rock",
       "Post-Metal Rock"
     ]
@@ -4693,13 +4692,13 @@
         "name": "Knight's Fall",
         "year": "1982",
         "genres": [
-          "New Wave Of British Heavy",
+          "NWOBHM",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Hard Rock"
     ]
   },
@@ -4724,7 +4723,7 @@
         "name": "Bloody Tales Of Disgraced Lands",
         "year": "2005",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Pagan Black Metal"
         ]
       },
@@ -4732,7 +4731,7 @@
         "name": "Determined Damnation",
         "year": "2009",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Pagan Black Metal"
         ]
       },
@@ -4740,7 +4739,7 @@
         "name": "Call Of The Black Winds",
         "year": "2011",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Pagan Black Metal"
         ]
       },
@@ -4748,7 +4747,7 @@
         "name": "Embraced By Fire",
         "year": "2013",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Pagan Black Metal"
         ]
       },
@@ -4756,7 +4755,7 @@
         "name": "Bloodwinter",
         "year": "2017",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Pagan Black Metal"
         ]
       },
@@ -4764,7 +4763,7 @@
         "name": "Omega : Bestia",
         "year": "2021",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Pagan Black Metal"
         ]
       },
@@ -4772,7 +4771,7 @@
         "name": "A Pagan Storm",
         "year": "2024",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Pagan Black Metal"
         ]
       },
@@ -4780,13 +4779,13 @@
         "name": "Echoes Of A Time Once Past",
         "year": "2026",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Pagan Black Metal"
         ]
       }
     ],
     "tags": [
-      "Pagan Folk",
+      "Pagan Folk Metal",
       "Pagan Black Metal"
     ]
   },

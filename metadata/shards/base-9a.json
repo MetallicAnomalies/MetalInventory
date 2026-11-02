@@ -480,14 +480,14 @@
         "genres": [
           "Funk / Soul",
           "Soul",
-          "Psychedelic Metal"
+          "Psychedelic"
         ]
       }
     ],
     "tags": [
       "Funk / Soul",
       "Soul",
-      "Psychedelic Metal"
+      "Psychedelic"
     ]
   },
   {
@@ -1103,46 +1103,46 @@
         "name": "The Sound Of Meditation",
         "year": "2013",
         "genres": [
-          "Progressive Stoner",
-          "Progressive Sludge"
+          "Progressive Stoner Metal",
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "Cycles Of Mobeum",
         "year": "2016",
         "genres": [
-          "Progressive Stoner",
-          "Progressive Sludge"
+          "Progressive Stoner Metal",
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "Spirit Compass",
         "year": "2017",
         "genres": [
-          "Progressive Stoner",
-          "Progressive Sludge"
+          "Progressive Stoner Metal",
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "Monument",
         "year": "2019",
         "genres": [
-          "Progressive Stoner",
-          "Progressive Sludge"
+          "Progressive Stoner Metal",
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "Shadow Work",
         "year": "2022",
         "genres": [
-          "Progressive Stoner",
-          "Progressive Sludge"
+          "Progressive Stoner Metal",
+          "Progressive Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Stoner",
-      "Progressive Sludge"
+      "Progressive Stoner Metal",
+      "Progressive Sludge Metal"
     ]
   },
   {
@@ -1310,14 +1310,14 @@
         "name": "We Held The Line",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1550,7 +1550,7 @@
         "year": "2013",
         "genres": [
           "Progressive Black Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1558,13 +1558,13 @@
         "year": "2020",
         "genres": [
           "Progressive Black Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Progressive Black Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1732,19 +1732,19 @@
         "name": "Best Worst Case Scenario",
         "year": "2016",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Telluric Inharmonies",
         "year": "2025",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -1886,12 +1886,12 @@
         "name": "Music For Moviebikers",
         "year": "2006",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -3034,13 +3034,13 @@
         "name": "Rad To The Bone EP",
         "year": "2026",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -3287,7 +3287,7 @@
         "name": "The Dominatress",
         "year": "1983",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -3295,7 +3295,7 @@
         "name": "Master Of Disguise",
         "year": "1985",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -3303,7 +3303,7 @@
         "name": "After The Fall From Grace",
         "year": "1986",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -3311,7 +3311,7 @@
         "name": "Ride Into The Night",
         "year": "1987",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -3319,7 +3319,7 @@
         "name": "The Lost Grace",
         "year": "2010",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -3327,7 +3327,7 @@
         "name": "Sign Of The Cross",
         "year": "2023",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -3349,7 +3349,7 @@
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Heavy Metal",
       "Power Speed Metal",
       "Speed Metal"
@@ -3372,7 +3372,7 @@
         "name": "First Light To My Death Bed",
         "year": "2013",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Melodic Hardcore"
         ]
       },
@@ -3436,7 +3436,7 @@
         "name": "Tidal Wave",
         "year": "2022",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
@@ -3444,8 +3444,8 @@
       "Death Metal",
       "Melodic Hardcore",
       "Metalcore",
-      "Hardcore Metal",
-      "Post-hardcore",
+      "Hardcore",
+      "Post-Hardcore",
       "Rock"
     ]
   },
@@ -3846,8 +3846,7 @@
         "year": "2021",
         "genres": [
           "Post-Black Metal",
-          "Blackened Hardcore",
-          "Post-black Metal"
+          "Blackened Hardcore"
         ]
       },
       {
@@ -3855,15 +3854,13 @@
         "year": "2025",
         "genres": [
           "Post-Black Metal",
-          "Blackened Hardcore",
-          "Post-black Metal"
+          "Blackened Hardcore"
         ]
       }
     ],
     "tags": [
       "Post-Black Metal",
-      "Blackened Hardcore",
-      "Post-black Metal"
+      "Blackened Hardcore"
     ]
   },
   {
@@ -4560,7 +4557,7 @@
         "genres": [
           "Heavy Metal",
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4569,7 +4566,7 @@
         "genres": [
           "Heavy Metal",
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4612,8 +4609,7 @@
         "year": "2026",
         "genres": [
           "Progressive Metal",
-          "Symphonic Metal",
-          "Metal"
+          "Symphonic Metal"
         ]
       }
     ],
@@ -4621,10 +4617,9 @@
       "Progressive Metal",
       "Thrash Metal",
       "Heavy Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Alternative Metal",
-      "Symphonic Metal",
-      "Metal"
+      "Symphonic Metal"
     ]
   },
   {
@@ -4691,12 +4686,12 @@
         "name": "Down Eternity's Hall",
         "year": "1996",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {

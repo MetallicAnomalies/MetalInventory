@@ -87,7 +87,7 @@
         "year": "2007",
         "genres": [
           "Death Metal",
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Latin Jazz"
         ]
       },
@@ -96,7 +96,7 @@
         "year": "2010",
         "genres": [
           "Death Metal",
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Latin Jazz"
         ]
       },
@@ -105,7 +105,7 @@
         "year": "2012",
         "genres": [
           "Death Metal",
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Latin Jazz"
         ]
       },
@@ -128,7 +128,7 @@
         "year": "2015",
         "genres": [
           "Death Metal",
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Latin Jazz"
         ]
       },
@@ -145,14 +145,14 @@
         "year": "2023",
         "genres": [
           "Death Metal",
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Latin Jazz"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Technical Thrash",
+      "Technical Thrash Metal",
       "Latin Jazz",
       "Deathcore"
     ]
@@ -358,7 +358,7 @@
         "name": "Minus.mensch",
         "year": "2009",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal"
         ]
       },
@@ -366,13 +366,13 @@
         "name": "Lichtlærm",
         "year": "2010",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Sludge Metal"
     ]
   },
@@ -677,7 +677,7 @@
         "year": "2009",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -685,7 +685,7 @@
         "year": "2011",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -693,7 +693,7 @@
         "year": "2013",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -701,7 +701,7 @@
         "year": "2015",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -709,7 +709,7 @@
         "year": "2017",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -717,13 +717,13 @@
         "year": "2018",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -736,13 +736,13 @@
         "year": "2008",
         "genres": [
           "Screamo",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Screamo",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -788,16 +788,16 @@
         "name": "Link",
         "year": "2023",
         "genres": [
-          "Post Rock",
-          "Prog Rock",
+          "Post-Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Post Rock",
-      "Prog Rock",
+      "Post-Rock",
+      "Progressive Rock",
       "Psychedelic Rock",
       "Rock"
     ]
@@ -844,7 +844,7 @@
         "name": "Baptists",
         "year": "2011",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -852,7 +852,7 @@
         "name": "Bushcraft",
         "year": "2013",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -860,7 +860,7 @@
         "name": "Bloodmines",
         "year": "2014",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -868,13 +868,13 @@
         "name": "Beacon Of Faith",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -1041,7 +1041,7 @@
         "year": "2007",
         "genres": [
           "Atmospheric Black Metal",
-          "Blackened Industrial"
+          "Blackened Industrial Metal"
         ]
       },
       {
@@ -1049,7 +1049,7 @@
         "year": "2007",
         "genres": [
           "Atmospheric Black Metal",
-          "Blackened Industrial"
+          "Blackened Industrial Metal"
         ]
       },
       {
@@ -1057,7 +1057,7 @@
         "year": "2008",
         "genres": [
           "Atmospheric Black Metal",
-          "Blackened Industrial"
+          "Blackened Industrial Metal"
         ]
       },
       {
@@ -1065,7 +1065,7 @@
         "year": "2009",
         "genres": [
           "Atmospheric Black Metal",
-          "Blackened Industrial"
+          "Blackened Industrial Metal"
         ]
       },
       {
@@ -1073,7 +1073,7 @@
         "year": "2010",
         "genres": [
           "Atmospheric Black Metal",
-          "Blackened Industrial"
+          "Blackened Industrial Metal"
         ]
       },
       {
@@ -1081,7 +1081,7 @@
         "year": "2012",
         "genres": [
           "Atmospheric Black Metal",
-          "Blackened Industrial"
+          "Blackened Industrial Metal"
         ]
       },
       {
@@ -1089,7 +1089,7 @@
         "year": "2015",
         "genres": [
           "Atmospheric Black Metal",
-          "Blackened Industrial"
+          "Blackened Industrial Metal"
         ]
       },
       {
@@ -1097,7 +1097,7 @@
         "year": "2020",
         "genres": [
           "Atmospheric Black Metal",
-          "Blackened Industrial"
+          "Blackened Industrial Metal"
         ]
       },
       {
@@ -1105,7 +1105,7 @@
         "year": "2021",
         "genres": [
           "Atmospheric Black Metal",
-          "Blackened Industrial"
+          "Blackened Industrial Metal"
         ]
       },
       {
@@ -1113,13 +1113,13 @@
         "year": "2025",
         "genres": [
           "Atmospheric Black Metal",
-          "Blackened Industrial"
+          "Blackened Industrial Metal"
         ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Blackened Industrial"
+      "Blackened Industrial Metal"
     ]
   },
   {
@@ -1157,7 +1157,7 @@
         "year": "1999",
         "genres": [
           "Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1165,7 +1165,7 @@
         "year": "2001",
         "genres": [
           "Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1173,7 +1173,7 @@
         "year": "2005",
         "genres": [
           "Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1181,13 +1181,13 @@
         "year": "2009",
         "genres": [
           "Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Sludge Metal",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1223,35 +1223,35 @@
         "name": "Candy Says",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Good To Feel",
         "year": "2018",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Super-stare",
         "year": "2019",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Heaven Is Here",
         "year": "2022",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Existenz",
         "year": "2024",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Alternative Rock"
         ]
       },
@@ -1259,19 +1259,19 @@
         "name": "Flipping",
         "year": "2024",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "It's Inside You",
         "year": "2024",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Alternative Rock"
     ]
   },
@@ -1560,14 +1560,14 @@
         "name": "When Sparks Ignite",
         "year": "2016",
         "genres": [
-          "Goth Rock",
-          "Industrial Metal"
+          "Gothic Rock",
+          "Industrial"
         ]
       }
     ],
     "tags": [
-      "Goth Rock",
-      "Industrial Metal"
+      "Gothic Rock",
+      "Industrial"
     ]
   },
   {
@@ -1716,7 +1716,7 @@
         "year": "1989",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1724,7 +1724,7 @@
         "year": "1998",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1732,7 +1732,7 @@
         "year": "2002",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1740,7 +1740,7 @@
         "year": "2015",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1748,13 +1748,13 @@
         "year": "2017",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Crossover Thrash",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1791,26 +1791,26 @@
         "name": "Thanatotropic Principle",
         "year": "2009",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Dreams Of The Drowned I",
         "year": "2019",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Missed Springs",
         "year": "2021",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -2027,7 +2027,7 @@
         "name": "I",
         "year": "2004",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Heavy Metal"
         ]
       },
@@ -2035,7 +2035,7 @@
         "name": "The Coming Of The Tempest",
         "year": "2007",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Heavy Metal"
         ]
       },
@@ -2043,7 +2043,7 @@
         "name": "Lifeless Alive",
         "year": "2009",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Heavy Metal"
         ]
       },
@@ -2051,13 +2051,13 @@
         "name": "Seeking No Peace",
         "year": "2013",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Heavy Metal"
     ]
   },
@@ -2596,14 +2596,14 @@
         "name": "Drop Of Dream",
         "year": "2008",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Only The Beginning",
         "year": "2009",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -2617,12 +2617,11 @@
         "name": "Generation Of The Last",
         "year": "2014",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg",
       "Melodic Death Metal"
     ]
   },
@@ -2771,7 +2770,7 @@
         "genres": [
           "Funk / Soul",
           "Pop",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       },
       {
@@ -2781,7 +2780,7 @@
           "Pop",
           "Electronic",
           "Hip Hop",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       },
       {
@@ -2791,7 +2790,7 @@
           "Pop",
           "Funk / Soul",
           "Hip Hop",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
@@ -2799,7 +2798,7 @@
       "Pop",
       "Electronic",
       "Hip Hop",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Funk / Soul"
     ]
   },
@@ -3491,7 +3490,6 @@
       }
     ],
     "tags": [
-      "Metal",
       "Heavy Metal",
       "Doom Metal",
       "Black Metal",
@@ -3507,14 +3505,14 @@
         "name": "Meshuggah",
         "year": "1989",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Contradictions Collapse",
         "year": "1991",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Progressive Metal"
         ]
       },
@@ -3530,7 +3528,7 @@
         "name": "None",
         "year": "1994",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Progressive Metal"
         ]
       },
@@ -3538,7 +3536,7 @@
         "name": "Destroy Erase Improve",
         "year": "1995",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Progressive Metal",
           "Math Metal"
         ]
@@ -3555,7 +3553,7 @@
         "name": "The True Human Design",
         "year": "1997",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Progressive Metal",
           "Math Metal"
         ]
@@ -3564,7 +3562,7 @@
         "name": "Chaosphere",
         "year": "1998",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Progressive Metal",
           "Math Metal"
         ]
@@ -3589,7 +3587,7 @@
         "name": "Nothing",
         "year": "2002",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Progressive Metal",
           "Math Metal"
         ]
@@ -3607,7 +3605,7 @@
         "name": "I",
         "year": "2004",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Progressive Metal",
           "Math Metal"
         ]
@@ -3624,7 +3622,7 @@
         "name": "Catch Thirtythree",
         "year": "2005",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Progressive Metal",
           "Math Metal"
         ]
@@ -3633,7 +3631,7 @@
         "name": "Obzen",
         "year": "2008",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Progressive Metal",
           "Math Metal"
         ]
@@ -3642,7 +3640,7 @@
         "name": "Alive",
         "year": "2010",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Death Metal",
           "Math Rock"
         ]
@@ -3651,7 +3649,7 @@
         "name": "Koloss",
         "year": "2012",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Progressive Metal",
           "Math Metal"
         ]
@@ -3660,7 +3658,7 @@
         "name": "Pitch Black",
         "year": "2013",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Progressive Metal",
           "Math Metal"
         ]
@@ -3671,7 +3669,7 @@
         "genres": [
           "Math Rock",
           "Death Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3680,7 +3678,7 @@
         "genres": [
           "Math Rock",
           "Death Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3689,7 +3687,7 @@
         "genres": [
           "Math Rock",
           "Death Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3705,7 +3703,7 @@
         "name": "The Violent Sleep Of Reason",
         "year": "2016",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Progressive Metal",
           "Math Metal"
         ]
@@ -3714,7 +3712,7 @@
         "name": "Immutable",
         "year": "2022",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Progressive Metal",
           "Math Metal"
         ]
@@ -3749,10 +3747,10 @@
       }
     ],
     "tags": [
-      "Technical Thrash",
+      "Technical Thrash Metal",
       "Progressive Metal",
       "Math Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Death Metal",
       "Math Rock",
       "Thrash Metal",
@@ -3949,33 +3947,33 @@
         "name": "Ni",
         "year": "2012",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Les Insurgés De Romilly",
         "year": "2015",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Pantophobie",
         "year": "2019",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Fol Naïs",
         "year": "2023",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -4124,7 +4122,7 @@
         "year": "2017",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4132,7 +4130,7 @@
         "year": "2018",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -4140,14 +4138,14 @@
         "year": "2021",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Avantgarde Metal",
-      "Prog Rock"
+      "Avant-garde Metal",
+      "Progressive Rock"
     ]
   },
   {
@@ -4160,7 +4158,7 @@
         "year": "2013",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4168,7 +4166,7 @@
         "year": "2015",
         "genres": [
           "Electronic",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4181,7 +4179,7 @@
     ],
     "tags": [
       "Electronic",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Metalcore",
       "Rock"
     ]
@@ -4299,17 +4297,17 @@
         "year": "2011",
         "genres": [
           "Electronic",
-          "Experimental Metal",
+          "Experimental",
           "Alternative Rock",
-          "Industrial Metal"
+          "Industrial"
         ]
       }
     ],
     "tags": [
       "Electronic",
-      "Experimental Metal",
+      "Experimental",
       "Alternative Rock",
-      "Industrial Metal",
+      "Industrial",
       "Downtempo",
       "Rock"
     ]
@@ -4394,14 +4392,12 @@
         "name": "George's Bush",
         "year": "2026",
         "genres": [
-          "Metalcore",
-          "Metal"
+          "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Metalcore",
-      "Metal"
+      "Metalcore"
     ]
   },
   {
@@ -5300,15 +5296,15 @@
         "year": "2010",
         "genres": [
           "Alternative Rock",
-          "Prog Rock",
-          "Post-hardcore"
+          "Progressive Rock",
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
-      "Prog Rock",
-      "Post-hardcore"
+      "Progressive Rock",
+      "Post-Hardcore"
     ]
   },
   {
@@ -5374,7 +5370,7 @@
         "year": "2018",
         "genres": [
           "Brutal Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -5382,7 +5378,7 @@
         "year": "2019",
         "genres": [
           "Brutal Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -5390,7 +5386,7 @@
         "year": "2023",
         "genres": [
           "Brutal Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -5398,13 +5394,13 @@
         "year": "2023",
         "genres": [
           "Brutal Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Brutal Death Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {

@@ -139,7 +139,7 @@
         "year": "2017",
         "genres": [
           "Electronic",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -147,13 +147,13 @@
         "year": "2017",
         "genres": [
           "Electronic",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Electronic",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -189,13 +189,13 @@
         "year": "1988",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -586,12 +586,14 @@
         "name": "Swamp Will Take You",
         "year": "2026",
         "genres": [
-          "Depressive Black Metal | Black Metal"
+          "Depressive Black Metal",
+          "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Depressive Black Metal | Black Metal"
+      "Depressive Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -756,30 +758,26 @@
         "name": "The Dog That Follows",
         "year": "2019",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Stranger",
         "year": "2020",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "No Heartbeat",
         "year": "2021",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {
@@ -1049,7 +1047,7 @@
         "year": "2018",
         "genres": [
           "Symphonic Metal",
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
@@ -1057,13 +1055,13 @@
         "year": "2024",
         "genres": [
           "Symphonic Metal",
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
       "Symphonic Metal",
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -1248,7 +1246,7 @@
         "name": "Out Of Misery",
         "year": "1998",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Metalcore"
         ]
       },
@@ -1256,7 +1254,7 @@
         "name": "Reject The Sickness",
         "year": "1999",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Metalcore"
         ]
       },
@@ -1264,7 +1262,7 @@
         "name": "Determination",
         "year": "2001",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Metalcore"
         ]
       },
@@ -1272,7 +1270,7 @@
         "name": "Better Days",
         "year": "2004",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Metalcore"
         ]
       },
@@ -1280,7 +1278,7 @@
         "name": "Gone Forever",
         "year": "2004",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Metalcore"
         ]
       },
@@ -1288,9 +1286,9 @@
         "name": "Iv: Constitution Of Treason",
         "year": "2005",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal",
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Metalcore"
         ]
       },
@@ -1298,7 +1296,7 @@
         "name": "Sickness & Misery",
         "year": "2007",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal"
         ]
       },
@@ -1306,7 +1304,7 @@
         "name": "Earthsblood",
         "year": "2009",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Metalcore"
         ]
       },
@@ -1314,15 +1312,15 @@
         "name": "Equilibrium",
         "year": "2012",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Melodic Thrash",
+      "Melodic Thrash Metal",
       "Metalcore",
-      "Hardcore Metal",
+      "Hardcore",
       "Heavy Metal"
     ]
   },
@@ -1544,10 +1542,9 @@
         "year": "2020",
         "genres": [
           "Post-Black Metal",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Metal",
-          "Screamo",
-          "Post-black Metal"
+          "Screamo"
         ]
       },
       {
@@ -1555,10 +1552,9 @@
         "year": "2021",
         "genres": [
           "Post-Black Metal",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Metal",
-          "Screamo",
-          "Post-black Metal"
+          "Screamo"
         ]
       },
       {
@@ -1566,19 +1562,17 @@
         "year": "2024",
         "genres": [
           "Post-Black Metal",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Metal",
-          "Screamo",
-          "Post-black Metal"
+          "Screamo"
         ]
       }
     ],
     "tags": [
       "Post-Black Metal",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Post-Metal",
-      "Screamo",
-      "Post-black Metal"
+      "Screamo"
     ]
   },
   {
@@ -1590,12 +1584,12 @@
         "name": "Spotify Singles",
         "year": "2020",
         "genres": [
-          "Country Metal"
+          "Country"
         ]
       }
     ],
     "tags": [
-      "Country Metal"
+      "Country"
     ]
   },
   {
@@ -1654,7 +1648,7 @@
         "year": "1997",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -1662,14 +1656,14 @@
         "year": "1999",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Pure",
         "year": "2016",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Black Metal"
         ]
       },
@@ -1677,7 +1671,7 @@
         "name": "Cease The Day",
         "year": "2018",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Black Metal"
         ]
       },
@@ -1685,7 +1679,7 @@
         "name": "Diversum",
         "year": "2022",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Black Metal"
         ]
       },
@@ -1707,14 +1701,14 @@
         "name": "Otra",
         "year": "2025",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Black Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Black Metal",
       "Progressive Black Metal",
       "Doom Metal"
@@ -1728,19 +1722,19 @@
         "name": "Uplifting Metal",
         "year": "2019",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Ecstasy Of The Enlightened",
         "year": "2020",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -1969,7 +1963,7 @@
         "name": "Freedom's Rise",
         "year": "1985",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -1977,7 +1971,7 @@
         "name": "Burn To My Touch",
         "year": "1987",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -1985,13 +1979,13 @@
         "name": "Master Control",
         "year": "1988",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Thrash Metal"
     ]
   },
@@ -2673,12 +2667,12 @@
         "name": "Frail Grasp Of Broken Hands",
         "year": "2025",
         "genres": [
-          "Blackened Post-metal"
+          "Blackened Post-Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Post-metal"
+      "Blackened Post-Metal"
     ]
   },
   {
@@ -2707,13 +2701,13 @@
         "name": "Draw Back A Stump",
         "year": "2011",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crust Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Crust Punk"
     ]
   },
@@ -3507,7 +3501,7 @@
         "year": "2008",
         "genres": [
           "Heavy Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -3515,7 +3509,7 @@
         "year": "2013",
         "genres": [
           "Heavy Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -3523,7 +3517,7 @@
         "year": "2017",
         "genres": [
           "Heavy Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -3531,13 +3525,13 @@
         "year": "2022",
         "genres": [
           "Heavy Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -3791,7 +3785,7 @@
         "name": "Out Of Time",
         "year": "2005",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -3799,7 +3793,7 @@
         "name": "Asylum",
         "year": "2011",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -3807,13 +3801,13 @@
         "name": "Point Of No Return",
         "year": "2021",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -4071,7 +4065,7 @@
         "year": "2017",
         "genres": [
           "Math Rock",
-          "Experimental Metal",
+          "Experimental",
           "Lo-fi",
           "Shoegaze",
           "Rock"
@@ -4106,7 +4100,7 @@
       "Alternative",
       "Post-Rock",
       "Math Rock",
-      "Experimental Metal",
+      "Experimental",
       "Lo-fi",
       "Shoegaze",
       "Rock"

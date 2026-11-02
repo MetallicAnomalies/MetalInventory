@@ -153,7 +153,7 @@
         "name": "Decemberunderground",
         "year": "2006",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Electronic",
           "Punk",
           "Alternative Rock"
@@ -161,7 +161,7 @@
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Electronic",
       "Punk",
       "Alternative Rock"
@@ -175,7 +175,7 @@
         "name": "Attack Of The Neon Shark",
         "year": "1989",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -183,7 +183,7 @@
         "name": "Vertical Invader",
         "year": "1990",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -191,7 +191,7 @@
         "name": "Tales From The North",
         "year": "1995",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -242,7 +242,7 @@
       }
     ],
     "tags": [
-      "Neoclassical Heavy",
+      "Neoclassical Heavy Metal",
       "Hard Rock",
       "Classical",
       "Heavy Metal"
@@ -2316,14 +2316,14 @@
         "name": "No Escape",
         "year": "1984",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Under The Spell",
         "year": "1986",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2352,19 +2352,19 @@
         "name": "Wrath Of The Reaper",
         "year": "2017",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Entangled In Sin",
         "year": "2020",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Death Metal",
       "Thrash Metal"
     ]
@@ -2391,12 +2391,12 @@
         "name": "Canis",
         "year": "2021",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -2460,13 +2460,13 @@
         "name": "Frame Wars Flame Wars",
         "year": "2011",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Shred"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Heavy",
+      "Neoclassical Heavy Metal",
       "Shred"
     ]
   },
@@ -2727,7 +2727,7 @@
         "name": "Funeral Bell",
         "year": "2003",
         "genres": [
-          "Black 'N Roll",
+          "Black 'n' Roll",
           "Thrash Metal"
         ]
       },
@@ -2735,7 +2735,7 @@
         "name": "White Hot Fire",
         "year": "2004",
         "genres": [
-          "Black 'N Roll",
+          "Black 'n' Roll",
           "Thrash Metal"
         ]
       },
@@ -2743,7 +2743,7 @@
         "name": "Slay The Spits",
         "year": "2007",
         "genres": [
-          "Black 'N Roll",
+          "Black 'n' Roll",
           "Thrash Metal"
         ]
       },
@@ -2751,7 +2751,7 @@
         "name": "Farewell To Hell",
         "year": "2008",
         "genres": [
-          "Black 'N Roll",
+          "Black 'n' Roll",
           "Thrash Metal"
         ]
       },
@@ -2759,7 +2759,7 @@
         "name": "Satanic Royalty",
         "year": "2011",
         "genres": [
-          "Black 'N Roll",
+          "Black 'n' Roll",
           "Thrash Metal"
         ]
       },
@@ -2767,7 +2767,7 @@
         "name": "Usa Violates Australia 2013",
         "year": "2013",
         "genres": [
-          "Black 'N Roll",
+          "Black 'n' Roll",
           "Thrash Metal"
         ]
       },
@@ -2775,7 +2775,7 @@
         "name": "No Mercy For Mayhem",
         "year": "2014",
         "genres": [
-          "Black 'N Roll",
+          "Black 'n' Roll",
           "Thrash Metal"
         ]
       },
@@ -2783,7 +2783,7 @@
         "name": "Shox Of Violence",
         "year": "2016",
         "genres": [
-          "Black 'N Roll",
+          "Black 'n' Roll",
           "Thrash Metal"
         ]
       },
@@ -2791,7 +2791,7 @@
         "name": "Sweet Death And Ecstasy",
         "year": "2017",
         "genres": [
-          "Black 'N Roll",
+          "Black 'n' Roll",
           "Thrash Metal"
         ]
       },
@@ -2799,7 +2799,7 @@
         "name": "Professor Black",
         "year": "2018",
         "genres": [
-          "Black 'N Roll",
+          "Black 'n' Roll",
           "Thrash Metal"
         ]
       },
@@ -2807,7 +2807,7 @@
         "name": "Midnight",
         "year": "2019",
         "genres": [
-          "Black 'N Roll",
+          "Black 'n' Roll",
           "Thrash Metal"
         ]
       },
@@ -2815,7 +2815,7 @@
         "name": "Rebirth By Blasphemy",
         "year": "2020",
         "genres": [
-          "Black 'N Roll",
+          "Black 'n' Roll",
           "Thrash Metal"
         ]
       },
@@ -2823,7 +2823,7 @@
         "name": "Let There Be Witchery",
         "year": "2022",
         "genres": [
-          "Black 'N Roll",
+          "Black 'n' Roll",
           "Thrash Metal"
         ]
       },
@@ -2831,7 +2831,7 @@
         "name": "Hellish Expectations",
         "year": "2024",
         "genres": [
-          "Black 'N Roll",
+          "Black 'n' Roll",
           "Thrash Metal"
         ]
       },
@@ -2842,7 +2842,7 @@
       }
     ],
     "tags": [
-      "Black 'N Roll",
+      "Black 'n' Roll",
       "Thrash Metal"
     ]
   },
@@ -3549,25 +3549,25 @@
         "name": "黒舞台",
         "year": "2026",
         "genres": [
-          "Melodic Groove Nu-Metal",
-          "Heavy Nu-Metal",
-          "Nu-Metal"
+          "Melodic Groove Nu Metal",
+          "Heavy Nu Metal",
+          "Nu Metal"
         ]
       },
       {
         "name": "Rewind",
         "year": "2026",
         "genres": [
-          "Melodic Groove Nu-Metal",
-          "Heavy Nu-Metal",
-          "Nu-Metal"
+          "Melodic Groove Nu Metal",
+          "Heavy Nu Metal",
+          "Nu Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Groove Nu-Metal",
-      "Heavy Nu-Metal",
-      "Nu-Metal"
+      "Melodic Groove Nu Metal",
+      "Heavy Nu Metal",
+      "Nu Metal"
     ]
   },
   {
@@ -4505,7 +4505,7 @@
         "name": "Waltari",
         "year": "1988",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative"
         ]
       },
@@ -4513,7 +4513,7 @@
         "name": "Mut Hei",
         "year": "1990",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative"
         ]
       },
@@ -4521,7 +4521,7 @@
         "name": "Monk-punk",
         "year": "1991",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative"
         ]
       },
@@ -4529,45 +4529,45 @@
         "name": "Aika Tuulee",
         "year": "1992",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Torcha!",
         "year": "1992",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "So Fine!",
         "year": "1994",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Big Bang",
         "year": "1995",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Yeah! Yeah! Die! Die! Death Metal Symphony In Deep C",
         "year": "1996",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Symphonic Death Metal"
         ]
       },
@@ -4575,9 +4575,9 @@
         "name": "Space Avenue",
         "year": "1997",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Industrial Metal"
         ]
       },
@@ -4585,99 +4585,99 @@
         "name": "Radium Round",
         "year": "1999",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Channel Nordica",
         "year": "2000",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Back To Persepolis",
         "year": "2001",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Rare Species",
         "year": "2004",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Blood Sample",
         "year": "2005",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Release Date",
         "year": "2007",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Below Zero",
         "year": "2009",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Covers All!",
         "year": "2011",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "You Are Waltari",
         "year": "2015",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Global Rock",
         "year": "2020",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "3rd Decade – The Anniversary Edition",
         "year": "2021",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4692,16 +4692,16 @@
         "name": "Nations' Neurosis",
         "year": "2025",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash",
+      "Progressive Thrash Metal",
       "Alternative",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Symphonic Death Metal",
       "Industrial Metal",
       "Alternative Rock",
@@ -4758,26 +4758,26 @@
         "name": "в клетке Bремён",
         "year": "2021",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Only Snow Covers Them",
         "year": "2022",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Winteria",
         "year": "2022",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -4860,30 +4860,26 @@
         "name": "Ziemie Jałowe",
         "year": "2020",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Druga Fala",
         "year": "2021",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Wielkie Zanikanie",
         "year": "2025",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ],
     "origin": "PL"
   },

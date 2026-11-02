@@ -23,13 +23,13 @@
         "name": "An Escape For Tthe Guilty",
         "year": "2024",
         "genres": [
-          "Death  Doom",
+          "Death Doom Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Death  Doom",
+      "Death Doom Metal",
       "Black Metal"
     ]
   },
@@ -493,7 +493,7 @@
         "genres": [
           "Electronic",
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -516,7 +516,7 @@
     "tags": [
       "Electronic",
       "Progressive Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Experimental Metal"
     ]
   },
@@ -639,7 +639,7 @@
         "name": "The Darker Shades Of White",
         "year": "2009",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal"
         ]
       },
@@ -653,7 +653,7 @@
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal",
+      "Hardcore",
       "Heavy Metal"
     ]
   },
@@ -925,37 +925,31 @@
         "year": "1982",
         "genres": [
           "Pop Rock",
-          "Post-punk",
+          "Post-Punk",
           "Celtic Soul",
           "Celtic Rock",
-          "English",
           "Soul",
           "Folk Rock",
           "New Wave",
           "Pop",
           "Alternative And Punk",
-          "Offizielle Charts",
           "Rock",
-          "Blue-eyed Soul",
-          "5+ Wochen"
+          "Blue-eyed Soul"
         ]
       }
     ],
     "tags": [
       "Pop Rock",
-      "Post-punk",
+      "Post-Punk",
       "Celtic Soul",
       "Celtic Rock",
-      "English",
       "Soul",
       "Folk Rock",
       "New Wave",
       "Pop",
       "Alternative And Punk",
-      "Offizielle Charts",
       "Rock",
-      "Blue-eyed Soul",
-      "5+ Wochen"
+      "Blue-eyed Soul"
     ]
   },
   {
@@ -1057,14 +1051,14 @@
         "name": "утоплення",
         "year": "2021",
         "genres": [
-          "Ambient Metal",
+          "Ambient",
           "Funeral Doom Metal"
         ]
       }
     ],
     "tags": [
       "Funeral Doom Metal",
-      "Ambient Metal",
+      "Ambient",
       "Black Metal",
       "Doom Metal",
       "Atmospheric Black Metal",
@@ -1181,26 +1175,26 @@
         "name": "...And The Rest Is Silence",
         "year": "2007",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "The Glorious Sickness",
         "year": "2008",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Zion",
         "year": "2013",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -1325,14 +1319,14 @@
         "name": "Entreat.",
         "year": "2000",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Shaded",
         "year": "2001",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1344,7 +1338,7 @@
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Metalcore"
     ]
   },
@@ -1665,7 +1659,7 @@
         "name": "A Sacrament; Ill City",
         "year": "2008",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1673,13 +1667,13 @@
         "year": "2010",
         "genres": [
           "Pop Punk",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Emo"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Pop Punk",
       "Emo"
     ]
@@ -1770,13 +1764,13 @@
         "year": "2023",
         "genres": [
           "Gothic Rock",
-          "Synthpop"
+          "Synth-pop"
         ]
       }
     ],
     "tags": [
       "Gothic Rock",
-      "Synthpop",
+      "Synth-pop",
       "Black Metal"
     ]
   },
@@ -1843,7 +1837,7 @@
           "House",
           "Electronic",
           "Hip Hop",
-          "Electro Metal"
+          "Electro"
         ]
       }
     ],
@@ -1851,7 +1845,7 @@
       "House",
       "Electronic",
       "Hip Hop",
-      "Electro Metal"
+      "Electro"
     ]
   },
   {
@@ -2253,13 +2247,13 @@
         "name": "Trials & Punishments",
         "year": "2006",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Gothic Metal"
         ]
       }
     ],
     "tags": [
-      "Goth Rock",
+      "Gothic Rock",
       "Gothic Metal"
     ]
   },
@@ -2768,12 +2762,12 @@
         "name": "The Mask Within",
         "year": "2013",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -3028,313 +3022,313 @@
         "name": "Beautiful Monolith Two",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Blondesummer Snowqueen",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Broken Spine Fantasia",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Cursegoback",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Fucking Dracula Clouds",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Goddess Of Ten",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Stillborn Plague Angels",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Blanket Universe Duo",
         "year": "2010",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Blue Eyes Are My Reward",
         "year": "2010",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Dogstar White Ka-pow!",
         "year": "2010",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Greychant Glitterseven",
         "year": "2010",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "I Hate Even Numbers",
         "year": "2010",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Ships Cloud Mascara",
         "year": "2010",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Armchair Astronaut",
         "year": "2011",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Our Love Will Destroy The World & Tomutonttu",
         "year": "2011",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Twitching Mirage",
         "year": "2011",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Limbless Soldiers Flight",
         "year": "2012",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Phast Eddie Fourteen",
         "year": "2012",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Sugar Processions Saints",
         "year": "2012",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Thousands Raised To The Sixth",
         "year": "2012",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Jet Plane Joy",
         "year": "2013",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Mogadons Miracle Legion",
         "year": "2013",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Frigid Antichrist",
         "year": "2014",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Hive Hum Golden Remorse",
         "year": "2014",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Awakensleep",
         "year": "2015",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Carnivorous Rainbows",
         "year": "2015",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Gargoyle Lurid Ottoman",
         "year": "2015",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Liber Raven Angelika",
         "year": "2015",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Like Tambourines Before The Genius Of Plague",
         "year": "2015",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Raven Brazen / Burial Emperors",
         "year": "2015",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Sol Airborne Pyramid",
         "year": "2015",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Xeper Becoming",
         "year": "2015",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Culver & Our Love Will Destroy The World",
         "year": "2016",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Devils Take Me Barefoot",
         "year": "2016",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "In Serpent Cult Circles",
         "year": "2016",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Mountainteeth",
         "year": "2016",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Powers",
         "year": "2016",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Ships Hull Phantom",
         "year": "2016",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Our Love Will Destroy The World / Guilty Connector",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Second Temptress Factory Chapels",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Temptress Factory Chapels",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Thick Dark Of Number",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Thinkpower",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Harm",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       }
     ],
     "tags": [
-      "Noise Metal",
+      "Noise",
       "Metal"
     ]
   },
@@ -3460,12 +3454,12 @@
         "name": "Dew",
         "year": "1994",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -3476,7 +3470,7 @@
         "name": "Throne Of Gold",
         "year": "2022",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -3484,7 +3478,7 @@
         "name": "The Lion's Road",
         "year": "2023",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -3492,13 +3486,13 @@
         "name": "Shadows Of The Dying Light",
         "year": "2025",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -3790,7 +3784,7 @@
         "name": "Stolen Babies",
         "year": "2002",
         "genres": [
-          "Extreme Avantgarde Metal",
+          "Extreme Avant-garde Metal",
           "Dark Cabaret"
         ]
       },
@@ -3798,7 +3792,7 @@
         "name": "There Be Squabbles Ahead",
         "year": "2006",
         "genres": [
-          "Extreme Avantgarde Metal",
+          "Extreme Avant-garde Metal",
           "Dark Cabaret"
         ]
       },
@@ -3806,13 +3800,13 @@
         "name": "Naught",
         "year": "2012",
         "genres": [
-          "Extreme Avantgarde Metal",
+          "Extreme Avant-garde Metal",
           "Dark Cabaret"
         ]
       }
     ],
     "tags": [
-      "Extreme Avantgarde Metal",
+      "Extreme Avant-garde Metal",
       "Dark Cabaret"
     ]
   },
@@ -3851,26 +3845,26 @@
         "name": "Voice From The Silence",
         "year": "2008",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "King Of Persia",
         "year": "2016",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Marco Polo - The Metal Soundtrack",
         "year": "2022",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -4096,40 +4090,40 @@
         "name": "Another Kind Of Consciousness",
         "year": "2022",
         "genres": [
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
         "name": "From Darkness To Light",
         "year": "2022",
         "genres": [
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
         "name": "Shattered Memories",
         "year": "2023",
         "genres": [
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
         "name": "New Horizons",
         "year": "2024",
         "genres": [
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
         "name": "The Fall Of Mother Earth",
         "year": "2025",
         "genres": [
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Doom"
+      "Melodic Doom Metal"
     ]
   },
   {
@@ -4197,12 +4191,12 @@
         "name": "In Death I Shall Arise",
         "year": "2023",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {

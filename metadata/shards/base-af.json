@@ -101,7 +101,7 @@
           "Indie",
           "Emo",
           "Post-Rock",
-          "Experimental Metal"
+          "Experimental"
         ]
       }
     ],
@@ -109,7 +109,7 @@
       "Indie",
       "Emo",
       "Post-Rock",
-      "Experimental Metal"
+      "Experimental"
     ]
   },
   {
@@ -222,20 +222,20 @@
         "name": "Death Can Wait",
         "year": "2024",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Flesh & Bone",
         "year": "2024",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Melodic Hardcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -465,12 +465,12 @@
         "name": "Karma",
         "year": "1999",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -750,15 +750,13 @@
         "name": "Pious Impiety",
         "year": "2026",
         "genres": [
-          "Death Metal",
-          "Metal"
+          "Death Metal"
         ]
       }
     ],
     "tags": [
       "Brutal Death Metal",
-      "Death Metal",
-      "Metal"
+      "Death Metal"
     ]
   },
   {
@@ -1247,31 +1245,30 @@
         "name": "I",
         "year": "2019",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "Ii",
         "year": "2022",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "III",
         "year": "2026",
         "genres": [
-          "Doom Death Metal",
+          "Death Doom Metal",
           "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death",
+      "Death Doom Metal",
       "Experimental Metal",
       "Death Metal",
-      "Doom Metal",
-      "Doom Death Metal"
+      "Doom Metal"
     ]
   },
   {
@@ -1538,33 +1535,33 @@
         "name": "Sworn To Vengeance",
         "year": "2012",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "Awaiting Dawn",
         "year": "2014",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "The Blackening Tide",
         "year": "2018",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "To Hell Or Kingdom Come",
         "year": "2022",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       }
     ],
     "tags": [
-      "Viking Folk",
+      "Viking Folk Metal",
       "Viking Metal"
     ]
   },
@@ -1599,26 +1596,26 @@
         "name": "Memoires",
         "year": "1997",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Fingerprints Of The Gods",
         "year": "1999",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Fragmenta",
         "year": "2012",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -1898,26 +1895,26 @@
         "name": "Iron Cross",
         "year": "1986",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Die Like That",
         "year": "1987",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Halloween",
         "year": "1999",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -2131,7 +2128,7 @@
         "name": "Spilled Blood Never Dries",
         "year": "2019",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -2155,7 +2152,7 @@
       "Metalcore",
       "Crossover Thrash",
       "Thrash Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2646,7 +2643,7 @@
         "year": "1997",
         "genres": [
           "Alternative",
-          "Industrial Metal"
+          "Industrial"
         ]
       },
       {
@@ -2654,7 +2651,7 @@
         "year": "1999",
         "genres": [
           "Alternative",
-          "Industrial Metal"
+          "Industrial"
         ]
       },
       {
@@ -2662,7 +2659,7 @@
         "year": "2001",
         "genres": [
           "Alternative",
-          "Industrial Metal"
+          "Industrial"
         ]
       },
       {
@@ -2670,7 +2667,7 @@
         "year": "2005",
         "genres": [
           "Alternative",
-          "Industrial Metal"
+          "Industrial"
         ]
       },
       {
@@ -2678,7 +2675,7 @@
         "year": "2007",
         "genres": [
           "Alternative",
-          "Industrial Metal"
+          "Industrial"
         ]
       },
       {
@@ -2686,7 +2683,7 @@
         "year": "2009",
         "genres": [
           "Alternative",
-          "Industrial Metal"
+          "Industrial"
         ]
       },
       {
@@ -2694,7 +2691,7 @@
         "year": "2012",
         "genres": [
           "Alternative",
-          "Industrial Metal"
+          "Industrial"
         ]
       },
       {
@@ -2702,7 +2699,7 @@
         "year": "2015",
         "genres": [
           "Alternative",
-          "Industrial Metal"
+          "Industrial"
         ]
       },
       {
@@ -2710,7 +2707,7 @@
         "year": "2018",
         "genres": [
           "Alternative",
-          "Industrial Metal"
+          "Industrial"
         ]
       },
       {
@@ -2718,13 +2715,13 @@
         "year": "2023",
         "genres": [
           "Alternative",
-          "Industrial Metal"
+          "Industrial"
         ]
       }
     ],
     "tags": [
       "Alternative",
-      "Industrial Metal"
+      "Industrial"
     ]
   },
   {
@@ -2846,12 +2843,12 @@
         "name": "Goddess Of Revenge",
         "year": "2003",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -2862,12 +2859,12 @@
         "name": "Freedom Has No Price",
         "year": "2010",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Power"
+      "Neoclassical Power Metal"
     ]
   },
   {
@@ -2978,19 +2975,19 @@
         "name": "Dominion Of Avyaktam",
         "year": "2010",
         "genres": [
-          "Death Thrash"
+          "Death Thrash Metal"
         ]
       },
       {
         "name": "Kapalgnosis",
         "year": "2013",
         "genres": [
-          "Death Thrash"
+          "Death Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Death Thrash"
+      "Death Thrash Metal"
     ]
   },
   {
@@ -3283,7 +3280,7 @@
         "name": "Hold Dear The Ember",
         "year": "2010",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       },
@@ -3291,13 +3288,13 @@
         "name": "Salt Of The Earth",
         "year": "2014",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Doom",
+      "Psychedelic Doom Metal",
       "Stoner Metal"
     ]
   },
@@ -3608,12 +3605,12 @@
         "name": "United We Stand...together We Fall",
         "year": "2014",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -3884,7 +3881,7 @@
         "name": "Trapt",
         "year": "2002",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock",
           "Grunge"
         ]
@@ -3913,7 +3910,7 @@
     "tags": [
       "Alternative Rock",
       "Nu Metal",
-      "Post Rock",
+      "Post-Rock",
       "Grunge",
       "Rock"
     ]
@@ -3945,7 +3942,7 @@
         "genres": [
           "Folk Metal",
           "Progressive Metal",
-          "Prog Rock",
+          "Progressive Rock",
           "Folk, World, & Country",
           "Folk Rock"
         ]
@@ -3954,7 +3951,7 @@
     "tags": [
       "Folk Metal",
       "Progressive Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Folk, World, & Country",
       "Folk Rock"
     ]
@@ -3967,12 +3964,12 @@
         "name": "Darkness, We Are God",
         "year": "2023",
         "genres": [
-          "Melodic  Death"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic  Death"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -4080,7 +4077,7 @@
         "year": "2023",
         "genres": [
           "Funk / Soul",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Alternative Rock",
           "Rhythm & Blues",
           "Pop"
@@ -4094,7 +4091,7 @@
     ],
     "tags": [
       "Funk / Soul",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Alternative Rock",
       "Rhythm & Blues",
       "Pop"
@@ -4218,14 +4215,14 @@
         "genres": [
           "Folk, World, & Country",
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       }
     ],
     "tags": [
       "Folk, World, & Country",
       "Progressive Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {

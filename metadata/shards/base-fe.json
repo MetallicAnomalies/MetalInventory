@@ -7,7 +7,7 @@
         "name": "Winter, So Unsagbar Winter...",
         "year": "2002",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Gothic Metal"
         ]
       },
@@ -15,7 +15,7 @@
         "name": "Einer Nacht Gewesenes",
         "year": "2005",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Gothic Metal"
         ]
       },
@@ -23,7 +23,7 @@
         "name": "Laya",
         "year": "2007",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Gothic Metal"
         ]
       },
@@ -31,13 +31,13 @@
         "name": "Der Zeit Abhanden - Elf Märchen Für Entflohene",
         "year": "2010",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Gothic Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Gothic Metal"
     ]
   },
@@ -71,7 +71,7 @@
         "name": "Alexisonfire",
         "year": "2003",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Alternative Rock"
         ]
       },
@@ -79,7 +79,7 @@
         "name": "Watch Out!",
         "year": "2004",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -94,7 +94,7 @@
         "name": "Old Crows / Young Cardinals",
         "year": "2009",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Alternative Rock"
         ]
       },
@@ -102,7 +102,7 @@
         "name": "Demo",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Emo"
         ]
       },
@@ -110,14 +110,14 @@
         "name": "Otherness",
         "year": "2022",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Alternative Rock"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
-      "Hardcore Metal",
+      "Post-Hardcore",
+      "Hardcore",
       "Alternative Rock",
       "Punk",
       "Indie Rock",
@@ -191,7 +191,7 @@
         "name": "The Inheritance Of Sin & Shame",
         "year": "2000",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Doom Metal",
           "Death Doom Metal"
         ]
@@ -214,7 +214,7 @@
     "tags": [
       "Death Doom Metal",
       "Gothic Doom Metal",
-      "Goth Rock",
+      "Gothic Rock",
       "Doom Metal"
     ]
   },
@@ -315,7 +315,7 @@
         "genres": [
           "Heavy Metal",
           "Symphonic Rock",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -330,7 +330,7 @@
       "Progressive Metal",
       "Heavy Metal",
       "Symphonic Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Power Metal"
     ]
   },
@@ -627,7 +627,7 @@
         "year": "1994",
         "genres": [
           "Industrial Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -635,7 +635,7 @@
         "year": "1996",
         "genres": [
           "Industrial Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -643,13 +643,13 @@
         "year": "1998",
         "genres": [
           "Industrial Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Industrial Metal",
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Death Metal"
     ]
   },
@@ -679,47 +679,47 @@
         "name": "Son Of Gods",
         "year": "2001",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Dark Light's Shades",
         "year": "2004",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Angel Secret Masquerade",
         "year": "2010",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Metalhead",
         "year": "2016",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Aenigma",
         "year": "2018",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "9 Ways To Salvation",
         "year": "2025",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -788,54 +788,54 @@
         "name": "El Legado",
         "year": "2004",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "El Lado Oscuro",
         "year": "2006",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "The Dark Side",
         "year": "2007",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Libera Me",
         "year": "2008",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Tocar El Sol",
         "year": "2010",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Memento Mori",
         "year": "2012",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Crónicas De Aravan",
         "year": "2016",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -1450,19 +1450,19 @@
         "name": "The Monolith Effect",
         "year": "2010",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "They Live",
         "year": "2012",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -1761,7 +1761,7 @@
           "Doom Metal",
           "Progressive Metal",
           "Melodic Death Metal",
-          "Goth Rock"
+          "Gothic Rock"
         ]
       },
       {
@@ -1771,7 +1771,7 @@
           "Doom Metal",
           "Progressive Metal",
           "Melodic Death Metal",
-          "Goth Rock"
+          "Gothic Rock"
         ]
       },
       {
@@ -1942,7 +1942,7 @@
       "Doom Metal",
       "Melodic Death Metal",
       "Progressive Metal",
-      "Goth Rock",
+      "Gothic Rock",
       "Progressive Death Metal"
     ]
   },
@@ -2639,14 +2639,14 @@
         "genres": [
           "Christian Alternative Rock",
           "Christian Rock",
-          "Ccm"
+          "CCM"
         ]
       }
     ],
     "tags": [
       "Christian Alternative Rock",
       "Christian Rock",
-      "Ccm"
+      "CCM"
     ]
   },
   {
@@ -2658,7 +2658,7 @@
         "year": "2013",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2666,7 +2666,7 @@
         "year": "2016",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2674,7 +2674,7 @@
         "year": "2017",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2682,13 +2682,13 @@
         "year": "2019",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Sludge Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2788,13 +2788,13 @@
         "year": "2021",
         "genres": [
           "Electronic",
-          "Drum N Bass"
+          "Drum & Bass"
         ]
       }
     ],
     "tags": [
       "Electronic",
-      "Drum N Bass"
+      "Drum & Bass"
     ]
   },
   {
@@ -2899,12 +2899,12 @@
         "name": "Entrance",
         "year": "1995",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -3088,7 +3088,6 @@
     ],
     "tags": [
       "Power Metal",
-      "Metal",
       "Heavy Metal",
       "Speed Metal"
     ]
@@ -3396,75 +3395,75 @@
         "name": "Instinct: Decay",
         "year": "2006",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Assassins: Black Meddle, Part 1",
         "year": "2008",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Worldfall",
         "year": "2008",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Doomsday Derelicts",
         "year": "2009",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Addicts: Black Meddle, Part 2",
         "year": "2010",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Silencing Machine",
         "year": "2012",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "The World We Left Behind",
         "year": "2014",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Ancient Howls Of Dawning Fury",
         "year": "2018",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Resilient",
         "year": "2018",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Blight Privilege",
         "year": "2024",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Black",
+      "Psychedelic Black Metal",
       "Black Metal"
     ]
   },
@@ -3514,35 +3513,35 @@
         "name": "Yell Of Fright",
         "year": "2003",
         "genres": [
-          "Ebm"
+          "EBM"
         ]
       },
       {
         "name": "Son Of Evil",
         "year": "2004",
         "genres": [
-          "Ebm"
+          "EBM"
         ]
       },
       {
         "name": "Tomb Of The Dead",
         "year": "2005",
         "genres": [
-          "Ebm"
+          "EBM"
         ]
       },
       {
         "name": "Erection Body Mutilated",
         "year": "2009",
         "genres": [
-          "Ebm"
+          "EBM"
         ]
       },
       {
         "name": "Symphony Of Decay",
         "year": "2010",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Aggrotech"
         ]
       },
@@ -3550,7 +3549,7 @@
         "name": "Highway Of Horrors",
         "year": "2013",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Aggrotech"
         ]
       },
@@ -3558,15 +3557,15 @@
         "name": "Master Of Giallo",
         "year": "2019",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Aggrotech"
         ]
       }
     ],
     "tags": [
-      "Industrial Metal",
+      "Industrial",
       "Aggrotech",
-      "Ebm"
+      "EBM"
     ]
   },
   {
@@ -4097,12 +4096,12 @@
         "name": "Heavy Metal Heroes",
         "year": "2026",
         "genres": [
-          "Heavy Metal | Heavy Metal"
+          "Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Heavy Metal | Heavy Metal"
+      "Heavy Metal"
     ]
   },
   {
@@ -4241,7 +4240,7 @@
         "name": "Barely Hanging On",
         "year": "2021",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -4249,13 +4248,13 @@
         "name": "After The Storm",
         "year": "2023",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -4271,14 +4270,14 @@
           "Electronic",
           "Electro House",
           "Dubstep",
-          "Electro Metal"
+          "Electro"
         ]
       },
       {
         "name": "Scary Monsters & Nice Sprites",
         "year": "2010",
         "genres": [
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Dubstep",
           "Electro House",
@@ -4298,14 +4297,14 @@
         "name": "Quest For Fire",
         "year": "2023",
         "genres": [
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Dubstep",
           "Jungle",
-          "Drum N Bass",
+          "Drum & Bass",
           "Grime",
           "Hip Hop",
-          "Uk Garage",
+          "UK Garage",
           "Garage House"
         ]
       }
@@ -4315,12 +4314,12 @@
       "Progressive House",
       "Dubstep",
       "Electro House",
-      "Electro Metal",
+      "Electro",
       "Jungle",
-      "Drum N Bass",
+      "Drum & Bass",
       "Grime",
       "Hip Hop",
-      "Uk Garage",
+      "UK Garage",
       "Garage House"
     ]
   },
@@ -4519,22 +4518,22 @@
         "name": "Prepare For The Judgement Of Mankind",
         "year": "2005",
         "genres": [
-          "Us Power",
-          "Technical Thrash"
+          "US Power Metal",
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Overlord",
         "year": "2008",
         "genres": [
-          "Us Power",
-          "Technical Thrash"
+          "US Power Metal",
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
-      "Technical Thrash"
+      "US Power Metal",
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -4547,7 +4546,7 @@
         "genres": [
           "Black Metal",
           "Death Metal",
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
@@ -4556,7 +4555,7 @@
         "genres": [
           "Black Metal",
           "Death Metal",
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
@@ -4565,7 +4564,7 @@
         "genres": [
           "Black Metal",
           "Death Metal",
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
@@ -4574,14 +4573,14 @@
         "genres": [
           "Black Metal",
           "Death Metal",
-          "Noise Metal"
+          "Noise"
         ]
       }
     ],
     "tags": [
       "Black Metal",
       "Death Metal",
-      "Noise Metal"
+      "Noise"
     ]
   },
   {
@@ -4593,19 +4592,19 @@
         "name": "From Below",
         "year": "2007",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
         "name": "Amends",
         "year": "2013",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Doom"
+      "Atmospheric Doom Metal"
     ]
   },
   {
@@ -4650,12 +4649,12 @@
         "name": "Her True Nature",
         "year": "2022",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Black"
+      "Psychedelic Black Metal"
     ]
   },
   {
@@ -5002,12 +5001,12 @@
         "name": "Volume 1",
         "year": "2018",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Symphonic Metal"
     ]
   },
@@ -5019,19 +5018,19 @@
         "name": "Brute Force And Ignorance",
         "year": "1983",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Summer Lightning",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       }
     ],
     "tags": [
-      "New Wave Of British Heavy"
+      "NWOBHM"
     ]
   },
   {

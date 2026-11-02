@@ -16,7 +16,7 @@
         "year": "2017",
         "genres": [
           "Metalcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Melodic Hardcore"
         ]
       },
@@ -24,20 +24,20 @@
         "name": "Revive",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "The Grey",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal",
+      "Hardcore",
       "Melodic Hardcore"
     ]
   },
@@ -86,14 +86,14 @@
         "name": "Harvest Years",
         "year": "2010",
         "genres": [
-          "Progressive Sludge",
-          "Hardcore Metal"
+          "Progressive Sludge Metal",
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Progressive Sludge",
-      "Hardcore Metal"
+      "Progressive Sludge Metal",
+      "Hardcore"
     ]
   },
   {
@@ -1134,14 +1134,14 @@
         "genres": [
           "Funk / Soul",
           "Pop",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
     "tags": [
       "Funk / Soul",
       "Pop",
-      "Contemporary R&b"
+      "Contemporary R&B"
     ]
   },
   {
@@ -1328,7 +1328,7 @@
         "year": "2012",
         "genres": [
           "Doom Metal",
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
@@ -1336,7 +1336,7 @@
         "year": "2013",
         "genres": [
           "Doom Metal",
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
@@ -1344,7 +1344,7 @@
         "year": "2015",
         "genres": [
           "Doom Metal",
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
@@ -1352,7 +1352,7 @@
         "year": "2015",
         "genres": [
           "Doom Metal",
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
@@ -1360,7 +1360,7 @@
         "year": "2018",
         "genres": [
           "Doom Metal",
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
@@ -1368,13 +1368,13 @@
         "year": "2021",
         "genres": [
           "Doom Metal",
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Blackened Sludge"
+      "Blackened Sludge Metal"
     ]
   },
   {
@@ -1563,21 +1563,21 @@
         "name": "First Depression",
         "year": "1992",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Lying In Wait",
         "year": "1993",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Symbols For The Blue Times",
         "year": "1994",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative Rock"
         ]
       },
@@ -1585,7 +1585,7 @@
         "name": "Electric Scum",
         "year": "1996",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative Rock"
         ]
       },
@@ -1593,13 +1593,13 @@
         "name": "Smalltown Boy",
         "year": "1997",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Alternative Rock"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash",
+      "Progressive Thrash Metal",
       "Alternative Rock"
     ]
   },
@@ -1625,7 +1625,7 @@
         "year": "2013",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -1634,7 +1634,7 @@
         "year": "2015",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -1643,7 +1643,7 @@
         "year": "2017",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -1655,7 +1655,7 @@
           "Psychedelic Rock",
           "Folk Metal",
           "Progressive Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       },
       {
@@ -1663,7 +1663,7 @@
         "year": "2019",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -1679,7 +1679,7 @@
         "year": "2022",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -1691,12 +1691,12 @@
     ],
     "tags": [
       "Black Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Progressive Metal",
       "Doom Metal",
       "Psychedelic Rock",
       "Folk Metal",
-      "Post Rock"
+      "Post-Rock"
     ]
   },
   {
@@ -1708,26 +1708,26 @@
         "name": "Komödia",
         "year": "1997",
         "genres": [
-          "Symphonic  Gothic"
+          "Symphonic Gothic"
         ]
       },
       {
         "name": "Masquerade",
         "year": "1999",
         "genres": [
-          "Symphonic  Gothic"
+          "Symphonic Gothic"
         ]
       },
       {
         "name": "The Game",
         "year": "2000",
         "genres": [
-          "Symphonic  Gothic"
+          "Symphonic Gothic"
         ]
       }
     ],
     "tags": [
-      "Symphonic  Gothic"
+      "Symphonic Gothic"
     ]
   },
   {
@@ -1770,14 +1770,14 @@
         "name": "The Son Of Odin",
         "year": "1986",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Lethal Potion",
         "year": "1990",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -1818,7 +1818,7 @@
     ],
     "tags": [
       "Heavy Metal",
-      "New Wave Of British Heavy"
+      "NWOBHM"
     ]
   },
   {
@@ -1830,7 +1830,7 @@
         "name": "The Carved Karma",
         "year": "2018",
         "genres": [
-          "Progressive Doom",
+          "Progressive Doom Metal",
           "Progressive Death Metal"
         ]
       },
@@ -1838,13 +1838,13 @@
         "name": "Lava",
         "year": "2022",
         "genres": [
-          "Progressive Doom",
+          "Progressive Doom Metal",
           "Progressive Death Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Doom",
+      "Progressive Doom Metal",
       "Progressive Death Metal"
     ]
   },
@@ -3044,13 +3044,13 @@
         "name": "Time Out Of Mind",
         "year": "1993",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -3430,7 +3430,7 @@
         "name": "Visions",
         "year": "1995",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal",
           "Progressive Metal"
         ]
@@ -3439,14 +3439,14 @@
         "name": "In The Test Of Time",
         "year": "1999",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Heavy Metal",
       "Progressive Metal"
     ]
@@ -3459,7 +3459,7 @@
         "name": "No Boundaries",
         "year": "1995",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental Hard Rock"
         ]
       },
@@ -3467,7 +3467,7 @@
         "name": "Holiday Strings",
         "year": "1996",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental Hard Rock"
         ]
       },
@@ -3475,7 +3475,7 @@
         "name": "Planet Gemini",
         "year": "1997",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental Hard Rock"
         ]
       },
@@ -3483,7 +3483,7 @@
         "name": "Tradition",
         "year": "1999",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental Hard Rock"
         ]
       },
@@ -3491,7 +3491,7 @@
         "name": "Lucid Intervals And Moments Of Clarity",
         "year": "2000",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental Hard Rock"
         ]
       },
@@ -3499,7 +3499,7 @@
         "name": "Hands Without Shadows",
         "year": "2005",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental Hard Rock"
         ]
       },
@@ -3507,7 +3507,7 @@
         "name": "Hands Without Shadows 2 - Voices",
         "year": "2009",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental Hard Rock"
         ]
       },
@@ -3515,7 +3515,7 @@
         "name": "Intermezzo",
         "year": "2013",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental Hard Rock"
         ]
       },
@@ -3523,7 +3523,7 @@
         "name": "Soul In Sight",
         "year": "2016",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental Hard Rock"
         ]
       },
@@ -3531,13 +3531,13 @@
         "name": "More Machine Than Man",
         "year": "2020",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Heavy",
+      "Neoclassical Heavy Metal",
       "Instrumental Hard Rock"
     ]
   },
@@ -3707,8 +3707,7 @@
       }
     ],
     "tags": [
-      "Neoclassical Metal",
-      "Metal"
+      "Neoclassical Metal"
     ]
   },
   {
@@ -4544,7 +4543,7 @@
         "name": "Fin De Siècle",
         "year": "2012",
         "genres": [
-          "Avantgarde Black",
+          "Avant-garde Black Metal",
           "Doom Metal"
         ]
       },
@@ -4552,7 +4551,7 @@
         "name": "Megalomaniac",
         "year": "2012",
         "genres": [
-          "Avantgarde Black",
+          "Avant-garde Black Metal",
           "Doom Metal"
         ]
       },
@@ -4560,7 +4559,7 @@
         "name": "Kaiserschnitt",
         "year": "2015",
         "genres": [
-          "Avantgarde Black",
+          "Avant-garde Black Metal",
           "Doom Metal"
         ]
       },
@@ -4575,13 +4574,13 @@
         "name": "Weltende",
         "year": "2023",
         "genres": [
-          "Avantgarde Black",
+          "Avant-garde Black Metal",
           "Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black",
+      "Avant-garde Black Metal",
       "Doom Metal",
       "Black Metal"
     ]
@@ -4622,13 +4621,13 @@
         "year": "2018",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -4749,19 +4748,19 @@
         "name": "Polis Rouge",
         "year": "2008",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Shambhala Vril Saucers",
         "year": "2015",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -5305,13 +5304,13 @@
         "year": "2024",
         "genres": [
           "Post-Metal",
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       }
     ],
     "tags": [
       "Post-Metal",
-      "Progressive Doom"
+      "Progressive Doom Metal"
     ]
   },
   {
@@ -5338,7 +5337,7 @@
           "Electronic",
           "Punk",
           "Ragga Hiphop",
-          "Drum N Bass",
+          "Drum & Bass",
           "Hip Hop"
         ]
       },
@@ -5424,7 +5423,7 @@
       "Electronic",
       "Punk",
       "Ragga Hiphop",
-      "Drum N Bass",
+      "Drum & Bass",
       "Hip Hop"
     ]
   },
@@ -5937,47 +5936,47 @@
         "name": "Morituri Te Salutant",
         "year": "2011",
         "genres": [
-          "Melodic  Black"
+          "Melodic Black Metal"
         ]
       },
       {
         "name": "Aus Fremder Heimat",
         "year": "2013",
         "genres": [
-          "Melodic  Black"
+          "Melodic Black Metal"
         ]
       },
       {
         "name": "Traum Und Trauma",
         "year": "2014",
         "genres": [
-          "Melodic  Black"
+          "Melodic Black Metal"
         ]
       },
       {
         "name": "Via Falsa 1866",
         "year": "2017",
         "genres": [
-          "Melodic  Black"
+          "Melodic Black Metal"
         ]
       },
       {
         "name": "Via Falsa 1898",
         "year": "2018",
         "genres": [
-          "Melodic  Black"
+          "Melodic Black Metal"
         ]
       },
       {
         "name": "Via Falsa 1914",
         "year": "2019",
         "genres": [
-          "Melodic  Black"
+          "Melodic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic  Black"
+      "Melodic Black Metal"
     ]
   },
   {
@@ -6219,7 +6218,7 @@
         "year": "2015",
         "genres": [
           "Gothic Metal",
-          "Prog Rock",
+          "Progressive Rock",
           "Doom Metal"
         ]
       },
@@ -6265,7 +6264,7 @@
       "Gothic Metal",
       "Gothic Rock",
       "Gothic Doom Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Doom Metal"
     ]
   },
@@ -6788,26 +6787,26 @@
         "name": "Receiving Tomorrow",
         "year": "2004",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Surreal",
         "year": "2007",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Equilibrio",
         "year": "2008",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -6836,13 +6835,13 @@
         "name": "La Grande Heresie",
         "year": "2025",
         "genres": [
-          "Blackened Heavy",
+          "Blackened Heavy Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Heavy",
+      "Blackened Heavy Metal",
       "Black Metal"
     ]
   }

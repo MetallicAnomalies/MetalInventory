@@ -81,26 +81,26 @@
         "name": "The White Path To Rebirth",
         "year": "2011",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Dispelling The Veil Of Illusions",
         "year": "2014",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Kingdom Of Thyne Illusions",
         "year": "2017",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -249,13 +249,13 @@
         "name": "Andrew Lee's Heavy Metal Shrapnel",
         "year": "2021",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Shred"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Heavy",
+      "Neoclassical Heavy Metal",
       "Shred"
     ]
   },
@@ -394,7 +394,7 @@
         "name": "Rehearsal",
         "year": "2005",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal"
         ]
       },
@@ -402,7 +402,7 @@
         "name": "War Of Aggression",
         "year": "2007",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -410,12 +410,12 @@
         "name": "Demonize",
         "year": "2013",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Heavy Metal",
       "Metalcore"
     ]
@@ -773,96 +773,96 @@
         "name": "I: The Suicide Tree / Ii: A Rose From The Dead",
         "year": "2011",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Iii: Doom In Bloom",
         "year": "2012",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Iv: Mandragora",
         "year": "2013",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Vi: Flora",
         "year": "2014",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Hammer Of Botany",
         "year": "2015",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Collective: The Shape Of He To Come",
         "year": "2017",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Ecosystem",
         "year": "2019",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Ep2: Hammer Of Botany + Oplopanax Horridus",
         "year": "2019",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Ep1: The Hanging Gardens Of Hell",
         "year": "2020",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Photosynthesis",
         "year": "2020",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Viii: Selenotrope",
         "year": "2023",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Paleobotany",
         "year": "2024",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Vii: Beast Of Arpocalyx",
         "year": "2024",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Black"
+      "Experimental Black Metal"
     ]
   },
   {
@@ -1270,12 +1270,12 @@
         "year": "2026",
         "genres": [
           "Post-Punk",
-          "Dark Wave"
+          "Darkwave"
         ]
       }
     ],
     "tags": [
-      "Dark Wave",
+      "Darkwave",
       "Post-Punk"
     ]
   },
@@ -1373,7 +1373,7 @@
           "Djent",
           "Rap Metal",
           "Metalcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Deathcore"
         ]
       }
@@ -1384,7 +1384,7 @@
       "Nu Metal",
       "Djent",
       "Rap Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1618,21 +1618,21 @@
         "name": "The Drug In Me Is Reimagined",
         "year": "2011",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "The Drug In Me Is You",
         "year": "2011",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Fashionably Late",
         "year": "2013",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1647,7 +1647,7 @@
         "year": "2017",
         "genres": [
           "Electronic",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Alternative Rock",
           "Hard Rock"
         ]
@@ -1658,16 +1658,16 @@
         "genres": [
           "Hard Rock",
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Popular Monster",
         "year": "2019",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Hard Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1676,7 +1676,7 @@
         "genres": [
           "Hard Rock",
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1696,11 +1696,11 @@
     ],
     "tags": [
       "Electronic",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Alternative Rock",
       "Hard Rock",
       "Metalcore",
-      "Hardcore Metal",
+      "Hardcore",
       "Alternative Metal"
     ]
   },
@@ -2236,7 +2236,7 @@
         "name": "The Fallout",
         "year": "2010",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -2250,7 +2250,7 @@
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2360,26 +2360,26 @@
         "name": "Apocalypse",
         "year": "2007",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Holyhell",
         "year": "2009",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Darkness Visible",
         "year": "2012",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -2618,19 +2618,19 @@
         "name": "Thrash, Kill 'N' Deströy",
         "year": "2007",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Atheist Crusade",
         "year": "2010",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -2884,8 +2884,8 @@
         "genres": [
           "Doom Rock",
           "Sludge Rock",
-          "Stoner Metal | Southern Rock",
           "Stoner Metal",
+          "Southern Rock",
           "Rock"
         ]
       }
@@ -2893,8 +2893,8 @@
     "tags": [
       "Doom Rock",
       "Sludge Rock",
-      "Stoner Metal | Southern Rock",
       "Stoner Metal",
+      "Southern Rock",
       "Rock"
     ]
   },
@@ -2984,12 +2984,12 @@
         "name": "Mare Nostrum",
         "year": "2024",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Doom"
+      "Psychedelic Doom Metal"
     ]
   },
   {
@@ -3889,40 +3889,40 @@
         "name": "Demon Stration",
         "year": "2015",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
         "name": "Live Ep",
         "year": "2017",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
         "name": "Spewtrid",
         "year": "2020",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
         "name": "Monolith",
         "year": "2023",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
         "name": "Gargling Rot",
         "year": "2025",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Sludge"
+      "Blackened Sludge Metal"
     ]
   },
   {
@@ -4329,26 +4329,26 @@
         "name": "Seven Wishes",
         "year": "1999",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Utopia",
         "year": "2001",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Destination: Alive",
         "year": "2005",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -4419,7 +4419,7 @@
         "year": "1997",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4427,7 +4427,7 @@
         "year": "1997",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4435,7 +4435,7 @@
         "year": "1999",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4443,7 +4443,7 @@
         "year": "2001",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4451,7 +4451,7 @@
         "year": "2005",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4459,7 +4459,7 @@
         "year": "2007",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4467,7 +4467,7 @@
         "year": "2010",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4475,7 +4475,7 @@
         "year": "2010",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4483,7 +4483,7 @@
         "year": "2012",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4491,7 +4491,7 @@
         "year": "2015",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4499,7 +4499,7 @@
         "year": "2018",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4525,7 +4525,7 @@
         "year": "2022",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4533,7 +4533,7 @@
         "year": "2025",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4547,7 +4547,7 @@
     ],
     "tags": [
       "Black Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Thrash Metal",
       "Death Metal",
       "Progressive Metal",
@@ -4741,12 +4741,12 @@
         "name": "Skullreader",
         "year": "2009",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -4922,65 +4922,65 @@
         "name": "The Fall Of Troy",
         "year": "2003",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Doppelganger",
         "year": "2005",
         "genres": [
-          "Experimental Metal",
-          "Avantgarde Metal",
-          "Post-hardcore"
+          "Experimental",
+          "Avant-garde",
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Manipulator",
         "year": "2007",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Phantom On The Horizon",
         "year": "2008",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "In The Unlikely Event",
         "year": "2009",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Ok",
         "year": "2016",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Ok#2",
         "year": "2016",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Mukiltearth",
         "year": "2024",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
-      "Experimental Metal",
-      "Avantgarde Metal"
+      "Post-Hardcore",
+      "Experimental",
+      "Avant-garde"
     ]
   },
   {
@@ -5377,13 +5377,13 @@
         "name": "Nato Per Ragioni Ignote",
         "year": "2015",
         "genres": [
-          "Avantgarde Doom",
+          "Avant-garde Doom Metal",
           "Drone Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Doom",
+      "Avant-garde Doom Metal",
       "Drone Metal"
     ]
   },

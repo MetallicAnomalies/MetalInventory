@@ -98,21 +98,21 @@
         "name": "Tū",
         "year": "2018",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Ahi Kā",
         "year": "2019",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Tangaroa",
         "year": "2021",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -127,12 +127,12 @@
         "name": "Te Rā",
         "year": "2025",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Thrash Metal",
       "Groove Metal",
       "Alternative Rock"
@@ -377,13 +377,13 @@
         "name": "Piece",
         "year": "2023",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Progressive Metal"
     ]
   },
@@ -665,7 +665,7 @@
         "name": "Immortality",
         "year": "1999",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -673,7 +673,7 @@
         "name": "Reclaiming The Crown",
         "year": "2002",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -681,7 +681,7 @@
         "name": "Sands Of Time",
         "year": "2003",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -689,7 +689,7 @@
         "name": "In Love With The End",
         "year": "2005",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -697,7 +697,7 @@
         "name": "War",
         "year": "2006",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -705,7 +705,7 @@
         "name": "Survival",
         "year": "2008",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -713,7 +713,7 @@
         "name": "Warfare",
         "year": "2009",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -721,7 +721,7 @@
         "name": "The New Future",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -729,7 +729,7 @@
         "name": "Dance With The Devil",
         "year": "2014",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -737,7 +737,7 @@
         "name": "True Love",
         "year": "2019",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -745,13 +745,13 @@
         "name": "Siege Mentality",
         "year": "2025",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -927,14 +927,14 @@
         "genres": [
           "Black Metal",
           "Death Metal",
-          "Noise Metal"
+          "Noise"
         ]
       }
     ],
     "tags": [
       "Black Metal",
       "Death Metal",
-      "Noise Metal"
+      "Noise"
     ]
   },
   {
@@ -945,33 +945,33 @@
         "name": "From Rust To Dust",
         "year": "2013",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Blackening The Shadows",
         "year": "2014",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Dusting The Rust",
         "year": "2014",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Prophecies",
         "year": "2017",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -1846,12 +1846,12 @@
         "name": "Sectors",
         "year": "2013",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -2159,7 +2159,7 @@
         "year": "2009",
         "genres": [
           "Death Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2167,7 +2167,7 @@
         "year": "2011",
         "genres": [
           "Death Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2175,13 +2175,13 @@
         "year": "2012",
         "genres": [
           "Death Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2330,7 +2330,7 @@
         "name": "Horror Vacui",
         "year": "2016",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -2338,7 +2338,7 @@
         "name": "Ruins",
         "year": "2019",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -2346,7 +2346,7 @@
         "name": "Fata Morgana",
         "year": "2021",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -2354,7 +2354,7 @@
         "name": "Auer",
         "year": "2023",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -2372,13 +2372,13 @@
         "name": "The Bereaved",
         "year": "2026",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Doom",
+      "Melodic Doom Metal",
       "Melodic Death Metal",
       "Doom Metal",
       "Funeral Doom Metal",
@@ -2438,26 +2438,26 @@
         "name": "Of Wind And Weeping",
         "year": "2003",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Carriers Of Dust",
         "year": "2006",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Gangrene",
         "year": "2008",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Black Metal"
     ]
   },
@@ -2492,7 +2492,7 @@
         "year": "2007",
         "genres": [
           "Progressive Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -2500,7 +2500,7 @@
         "year": "2010",
         "genres": [
           "Progressive Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -2515,7 +2515,7 @@
         "year": "2011",
         "genres": [
           "Progressive Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -2523,7 +2523,7 @@
         "year": "2016",
         "genres": [
           "Progressive Metal",
-          "Oriental Folk",
+          "Oriental Folk Metal",
           "Heavy Metal"
         ]
       },
@@ -2540,7 +2540,7 @@
         "year": "2019",
         "genres": [
           "Progressive Metal",
-          "Oriental Folk",
+          "Oriental Folk Metal",
           "Heavy Metal"
         ]
       },
@@ -2558,7 +2558,7 @@
         "year": "2024",
         "genres": [
           "Progressive Metal",
-          "Oriental Folk",
+          "Oriental Folk Metal",
           "Heavy Metal"
         ]
       },
@@ -2567,7 +2567,7 @@
         "year": "2026",
         "genres": [
           "Progressive Metal",
-          "Oriental Folk",
+          "Oriental Folk Metal",
           "Heavy Metal"
         ]
       },
@@ -2590,7 +2590,7 @@
     ],
     "tags": [
       "Progressive Metal",
-      "Oriental Folk",
+      "Oriental Folk Metal",
       "Heavy Metal",
       "Power Metal",
       "Symphonic Metal",
@@ -2607,8 +2607,7 @@
         "genres": [
           "Progressive Sludge Doom Metal",
           "Post-Rock",
-          "Doom Metal",
-          "Post-Rock"
+          "Doom Metal"
         ]
       }
     ],
@@ -2720,7 +2719,7 @@
         "name": "Sounds Like Armageddon",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Nu Metal"
         ]
       },
@@ -2760,7 +2759,7 @@
     "tags": [
       "Nu Metal",
       "Alternative",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3028,14 +3027,14 @@
         "genres": [
           "Funk / Soul",
           "Hip Hop",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
     "tags": [
       "Funk / Soul",
       "Hip Hop",
-      "Contemporary R&b"
+      "Contemporary R&B"
     ]
   },
   {
@@ -3222,7 +3221,7 @@
         "year": "2008",
         "genres": [
           "Melodic Death Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -3230,7 +3229,7 @@
         "year": "2009",
         "genres": [
           "Melodic Death Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -3245,7 +3244,7 @@
         "year": "2011",
         "genres": [
           "Melodic Death Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -3282,13 +3281,13 @@
         "year": "2023",
         "genres": [
           "Melodic Death Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Progressive Power",
+      "Progressive Power Metal",
       "Progressive Metal",
       "Death Metal"
     ]
@@ -3350,14 +3349,14 @@
         "genres": [
           "House",
           "Electronic",
-          "Electro Metal"
+          "Electro"
         ]
       }
     ],
     "tags": [
       "House",
       "Electronic",
-      "Electro Metal"
+      "Electro"
     ]
   },
   {
@@ -3494,14 +3493,14 @@
         "genres": [
           "Funk / Soul",
           "Reggae",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
     "tags": [
       "Funk / Soul",
       "Reggae",
-      "Contemporary R&b"
+      "Contemporary R&B"
     ]
   },
   {
@@ -3555,19 +3554,19 @@
         "name": "The Mirror Star",
         "year": "2020",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Dark Horizons",
         "year": "2024",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -3749,7 +3748,7 @@
         "year": "2010",
         "genres": [
           "Thrash Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3773,7 +3772,7 @@
         "year": "2012",
         "genres": [
           "Thrash Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3865,7 +3864,7 @@
       "Progressive Metal",
       "Heavy Metal",
       "Finnish Rock",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -4107,13 +4106,13 @@
         "year": "1994",
         "genres": [
           "Gothic Rock",
-          "Dark Wave"
+          "Darkwave"
         ]
       }
     ],
     "tags": [
       "Gothic Rock",
-      "Dark Wave"
+      "Darkwave"
     ]
   },
   {
@@ -4144,12 +4143,12 @@
         "name": "Unfinished Business",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4580,7 +4579,7 @@
         "name": "Break Down A Venue",
         "year": "2015",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -4596,7 +4595,7 @@
         "year": "2018",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4604,7 +4603,7 @@
         "year": "2018",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4716,7 +4715,7 @@
         "name": "Praying Mantis",
         "year": "2024",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -4752,14 +4751,14 @@
         "name": "Duality",
         "year": "2025",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -4861,14 +4860,14 @@
         "name": "Directions",
         "year": "2010",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "On The Edge",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -4876,12 +4875,12 @@
         "name": "Empowering Life",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -4932,12 +4931,12 @@
         "name": "The First",
         "year": "2021",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   }
 ]

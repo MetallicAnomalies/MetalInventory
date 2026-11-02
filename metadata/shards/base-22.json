@@ -597,12 +597,12 @@
         "name": "Reborn",
         "year": "2017",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -654,7 +654,7 @@
         "name": "Part I",
         "year": "2021",
         "genres": [
-          "Blackened Gothic",
+          "Blackened Gothic Metal",
           "Atmospheric Black Metal"
         ]
       },
@@ -662,7 +662,7 @@
         "name": "Vampire Harvest",
         "year": "2021",
         "genres": [
-          "Blackened Gothic",
+          "Blackened Gothic Metal",
           "Atmospheric Black Metal"
         ]
       },
@@ -670,7 +670,7 @@
         "name": "Drown Corpses In A Silent Mountain River",
         "year": "2023",
         "genres": [
-          "Blackened Gothic",
+          "Blackened Gothic Metal",
           "Atmospheric Black Metal"
         ]
       },
@@ -678,7 +678,7 @@
         "name": "Part Ii",
         "year": "2023",
         "genres": [
-          "Blackened Gothic",
+          "Blackened Gothic Metal",
           "Atmospheric Black Metal"
         ]
       },
@@ -686,13 +686,13 @@
         "name": "небесная кровоточащая луна",
         "year": "2024",
         "genres": [
-          "Blackened Gothic",
+          "Blackened Gothic Metal",
           "Atmospheric Black Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Gothic",
+      "Blackened Gothic Metal",
       "Atmospheric Black Metal"
     ]
   },
@@ -871,7 +871,7 @@
         "genres": [
           "Doom Metal",
           "Heavy Metal",
-          "Celtic Black"
+          "Celtic Black Metal"
         ]
       },
       {
@@ -880,7 +880,7 @@
         "genres": [
           "Doom Metal",
           "Heavy Metal",
-          "Celtic Black"
+          "Celtic Black Metal"
         ]
       },
       {
@@ -889,14 +889,14 @@
         "genres": [
           "Doom Metal",
           "Heavy Metal",
-          "Celtic Black"
+          "Celtic Black Metal"
         ]
       }
     ],
     "tags": [
       "Doom Metal",
       "Heavy Metal",
-      "Celtic Black"
+      "Celtic Black Metal"
     ]
   },
   {
@@ -1066,40 +1066,40 @@
         "name": "War Master",
         "year": "2013",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Hallowed Ground",
         "year": "2015",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Conquered Lands",
         "year": "2020",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Fuel Injected Suicide Machine",
         "year": "2021",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Reign Of Steel",
         "year": "2026",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -1568,8 +1568,8 @@
         "name": "Disforia",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
-          "Noise Metal",
+          "Hardcore",
+          "Noise",
           "Grindcore",
           "Punk"
         ]
@@ -1586,8 +1586,8 @@
     "tags": [
       "Power Metal",
       "Progressive Metal",
-      "Hardcore Metal",
-      "Noise Metal",
+      "Hardcore",
+      "Noise",
       "Grindcore",
       "Punk"
     ]
@@ -1817,14 +1817,14 @@
         "genres": [
           "Funk / Soul",
           "Neo Soul",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
     "tags": [
       "Funk / Soul",
       "Neo Soul",
-      "Contemporary R&b"
+      "Contemporary R&B"
     ]
   },
   {
@@ -1916,7 +1916,7 @@
         "year": "2008",
         "genres": [
           "Power Metal",
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
@@ -1924,13 +1924,13 @@
         "year": "2009",
         "genres": [
           "Power Metal",
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
       "Power Metal",
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -2405,19 +2405,19 @@
         "name": "...And The Weird Turned Pro",
         "year": "2012",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Whiskey Tango Foxtrot",
         "year": "2017",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -2428,14 +2428,14 @@
         "name": "äR Du Av Den Rätta Tron?",
         "year": "2022",
         "genres": [
-          "Avantgarde Black",
-          "Noise Metal"
+          "Avant-garde Black Metal",
+          "Noise"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black",
-      "Noise Metal"
+      "Avant-garde Black Metal",
+      "Noise"
     ]
   },
   {
@@ -2535,19 +2535,19 @@
         "name": "Last Empire",
         "year": "2003",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Heir To The Throne",
         "year": "2009",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -2783,7 +2783,7 @@
         "year": "2012",
         "genres": [
           "Heavy Metal",
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -2791,7 +2791,7 @@
         "year": "2016",
         "genres": [
           "Heavy Metal",
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -2799,7 +2799,7 @@
         "year": "2018",
         "genres": [
           "Heavy Metal",
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -2807,13 +2807,13 @@
         "year": "2023",
         "genres": [
           "Heavy Metal",
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Hard Rock",
       "Pop Rock"
     ]
@@ -3256,7 +3256,7 @@
         "name": "Prone Mortal Form",
         "year": "1993",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3268,7 +3268,7 @@
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metal"
     ]
   },
@@ -3314,7 +3314,7 @@
         "name": "Rëvëürt",
         "year": "2011",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Gothic Metal"
         ]
       },
@@ -3322,7 +3322,7 @@
         "name": "Nämïdäë",
         "year": "2015",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Gothic Metal"
         ]
       },
@@ -3330,7 +3330,7 @@
         "name": "ÿ",
         "year": "2019",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Gothic Metal"
         ]
       },
@@ -3338,13 +3338,13 @@
         "name": "+",
         "year": "2024",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Gothic Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Gothic Metal"
     ]
   },
@@ -3389,7 +3389,7 @@
         "year": "2015",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3397,7 +3397,7 @@
         "year": "2018",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3405,13 +3405,13 @@
         "year": "2019",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Crossover Thrash",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3697,7 +3697,7 @@
         "name": "наследие",
         "year": "2010",
         "genres": [
-          "Blackened Folk",
+          "Blackened Folk Metal",
           "Pagan Black Metal"
         ]
       },
@@ -3705,13 +3705,13 @@
         "name": "лебедь белая",
         "year": "2014",
         "genres": [
-          "Blackened Folk",
+          "Blackened Folk Metal",
           "Pagan Black Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Folk",
+      "Blackened Folk Metal",
       "Pagan Black Metal"
     ]
   },
@@ -4144,26 +4144,26 @@
         "name": "Triumphant Serenade",
         "year": "2007",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
         "name": "The Fatal Wounding Gaze",
         "year": "2010",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
         "name": "Relentless Tragedy",
         "year": "2025",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Epic Heavy"
+      "Epic Heavy Metal"
     ]
   },
   {
@@ -4174,19 +4174,19 @@
         "name": "Burned Down",
         "year": "2011",
         "genres": [
-          "Melodic Thrash"
+          "Melodic Thrash Metal"
         ]
       },
       {
         "name": "The Addication",
         "year": "2013",
         "genres": [
-          "Melodic Thrash"
+          "Melodic Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Thrash"
+      "Melodic Thrash Metal"
     ]
   },
   {
@@ -4287,21 +4287,21 @@
         "name": "Choose Euphoria",
         "year": "2023",
         "genres": [
-          "Ambient Metal",
+          "Ambient",
           "Electronic",
-          "Experimental Metal",
+          "Experimental",
           "Space Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Ambient Metal",
+      "Ambient",
       "Electronic",
-      "Experimental Metal",
+      "Experimental",
       "Space Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -4337,7 +4337,7 @@
         "name": "Beyond Repair",
         "year": "1999",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -4345,7 +4345,7 @@
         "name": "Throwdown",
         "year": "1999",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -4353,7 +4353,7 @@
         "name": "Drive Me Dead",
         "year": "2000",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -4361,7 +4361,7 @@
         "name": "You Dont Have To Be Blood To Be Family",
         "year": "2001",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -4369,7 +4369,7 @@
         "name": "Face The Mirror",
         "year": "2002",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -4377,7 +4377,7 @@
         "name": "Haymaker",
         "year": "2003",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -4385,7 +4385,7 @@
         "name": "Vendetta",
         "year": "2005",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -4393,7 +4393,7 @@
         "name": "Venom And Tears",
         "year": "2007",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -4402,14 +4402,14 @@
         "year": "2007",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Deathless",
         "year": "2009",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -4417,7 +4417,7 @@
         "name": "Intolerance",
         "year": "2014",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -4425,13 +4425,13 @@
         "name": "Take Cover",
         "year": "2020",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -4443,7 +4443,7 @@
         "name": "Dawn Of Dissent",
         "year": "2005",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Speed Metal"
         ]
       },
@@ -4451,13 +4451,13 @@
         "name": "Regeneration",
         "year": "2007",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Speed Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Speed Metal"
     ]
   },
@@ -4631,91 +4631,91 @@
         "name": "Euthanasia",
         "year": "1979",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Suzie Smiled",
         "year": "1980",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Wild Cat",
         "year": "1980",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Crazy Nights",
         "year": "1981",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Don't Stop By",
         "year": "1981",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Hellbound",
         "year": "1981",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Spellbound",
         "year": "1981",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Making Tracks",
         "year": "1982",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Rendezvous",
         "year": "1982",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "The Cage",
         "year": "1982",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Rock And Roll Man",
         "year": "1985",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "The Wreck-age",
         "year": "1985",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Burning In The Shade",
         "year": "1987",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -4806,7 +4806,7 @@
         "name": "Electrifyed",
         "year": "2026",
         "genres": [
-          "NWOBHM Heavy Metal",
+          "NWOBHM",
           "Heavy Metal",
           "Hard Rock",
           "AOR"
@@ -4814,9 +4814,8 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal",
-      "NWOBHM Heavy Metal",
       "Hard Rock",
       "AOR"
     ]
@@ -4829,19 +4828,19 @@
         "name": "Istor",
         "year": "2019",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
         "name": "Last Villain Testament",
         "year": "2022",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Epic Heavy"
+      "Epic Heavy Metal"
     ]
   },
   {
@@ -5124,13 +5123,13 @@
         "name": "Lust, Loathing, & Love",
         "year": "2011",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Mathcore"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Mathcore"
     ]
   }

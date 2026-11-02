@@ -96,7 +96,7 @@
         "year": "2011",
         "genres": [
           "Progressive Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -104,7 +104,7 @@
         "year": "2015",
         "genres": [
           "Progressive Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -112,7 +112,7 @@
         "year": "2018",
         "genres": [
           "Progressive Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -120,13 +120,13 @@
         "year": "2021",
         "genres": [
           "Progressive Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Death Metal",
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -289,7 +289,7 @@
         "year": "2013",
         "genres": [
           "Experimental Metal",
-          "Prog Rock",
+          "Progressive Rock",
           "Groove Metal"
         ]
       },
@@ -298,7 +298,7 @@
         "year": "2013",
         "genres": [
           "Heavy Metal",
-          "Prog Rock",
+          "Progressive Rock",
           "Metalcore",
           "Death Metal"
         ]
@@ -327,7 +327,7 @@
       "Progressive Metal",
       "Groove Metal",
       "Metalcore",
-      "Prog Rock",
+      "Progressive Rock",
       "Heavy Metal",
       "Death Metal"
     ]
@@ -407,12 +407,12 @@
         "name": "On The Verge Of Existence",
         "year": "2003",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death"
+      "Death Doom Metal"
     ]
   },
   {
@@ -694,7 +694,7 @@
         "year": "1998",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -702,7 +702,7 @@
         "year": "1998",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -745,7 +745,7 @@
         "year": "2009",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -754,7 +754,7 @@
         "year": "2011",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -763,7 +763,7 @@
         "year": "2019",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -771,7 +771,7 @@
         "year": "2022",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -779,16 +779,16 @@
         "year": "2022",
         "genres": [
           "Progressive Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
       "Metalcore",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Progressive Metal",
-      "Post Rock"
+      "Post-Rock"
     ]
   },
   {
@@ -801,7 +801,7 @@
         "year": "2013",
         "genres": [
           "Alternative Rock",
-          "Goth Rock",
+          "Gothic Rock",
           "Hard Rock",
           "Rock"
         ]
@@ -809,7 +809,7 @@
     ],
     "tags": [
       "Alternative Rock",
-      "Goth Rock",
+      "Gothic Rock",
       "Hard Rock",
       "Rock"
     ]
@@ -1300,14 +1300,14 @@
         "year": "2006",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Void",
         "year": "2016",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal",
           "Metalcore"
         ]
@@ -1315,8 +1315,8 @@
     ],
     "tags": [
       "Metalcore",
-      "Post-hardcore",
-      "Hardcore Metal",
+      "Post-Hardcore",
+      "Hardcore",
       "Heavy Metal"
     ]
   },
@@ -2097,7 +2097,6 @@
       }
     ],
     "tags": [
-      "Metal",
       "Groove Metal"
     ]
   },
@@ -2125,13 +2124,13 @@
         "name": "Emotional Disorder",
         "year": "2004",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Post-Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Post-Metal"
     ]
   },
@@ -2485,13 +2484,13 @@
         "year": "2019",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -2635,7 +2634,7 @@
         "name": "Into The Swirl",
         "year": "2009",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Progressive Death Metal"
         ]
       },
@@ -2643,7 +2642,7 @@
         "name": "Eterea",
         "year": "2012",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Progressive Death Metal"
         ]
       },
@@ -2651,7 +2650,7 @@
         "name": "Cortex",
         "year": "2021",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Progressive Death Metal"
         ]
       },
@@ -2665,7 +2664,7 @@
       }
     ],
     "tags": [
-      "Progressive Thrash",
+      "Progressive Thrash Metal",
       "Progressive Death Metal",
       "Progressive Thrash Death Metal",
       "Death Metal"
@@ -2679,26 +2678,26 @@
         "name": "The Hound",
         "year": "2016",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Monte Luna",
         "year": "2017",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Drowners' Wives",
         "year": "2019",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Doom"
+      "Psychedelic Doom Metal"
     ]
   },
   {
@@ -3172,7 +3171,7 @@
         "name": "Eyes And Liquid Skies",
         "year": "2009",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Alternative"
         ]
       },
@@ -3180,7 +3179,7 @@
         "name": "Stories Of Old",
         "year": "2013",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Alternative"
         ]
       },
@@ -3249,7 +3248,7 @@
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Alternative",
       "Progressive Metal",
       "Metalcore",
@@ -3425,7 +3424,7 @@
         "year": "2004",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -3433,7 +3432,7 @@
         "year": "2006",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -3441,7 +3440,7 @@
         "year": "2010",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -3449,13 +3448,13 @@
         "year": "2015",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -3638,12 +3637,12 @@
         "name": "Suns Of The Morning Star",
         "year": "2012",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Sludge"
+      "Progressive Sludge Metal"
     ]
   },
   {
@@ -3833,14 +3832,14 @@
         "name": "The Dark Element",
         "year": "2017",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Songs The Night Sings",
         "year": "2019",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -3852,7 +3851,7 @@
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Symphonic Metal"
     ]
   },
@@ -4481,21 +4480,21 @@
         "name": "I",
         "year": "2017",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Ii",
         "year": "2018",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Iii",
         "year": "2019",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4517,7 +4516,7 @@
         "year": "2021",
         "genres": [
           "Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4525,7 +4524,7 @@
         "year": "2021",
         "genres": [
           "Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4533,7 +4532,7 @@
         "year": "2022",
         "genres": [
           "Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4541,13 +4540,13 @@
         "year": "2024",
         "genres": [
           "Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {

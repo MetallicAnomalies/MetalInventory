@@ -7,19 +7,19 @@
         "name": "The Weight Of The World",
         "year": "2006",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Into Forever",
         "year": "2010",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -449,14 +449,12 @@
         "name": "These Graven Halls",
         "year": "2026",
         "genres": [
-          "Metalcore",
-          "Metal"
+          "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Metalcore",
-      "Metal"
+      "Metalcore"
     ]
   },
   {
@@ -677,19 +675,19 @@
         "name": "Deathroad",
         "year": "2013",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Resurrection",
         "year": "2016",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -829,26 +827,26 @@
         "name": "Times And Unknown Waters",
         "year": "2000",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
         "name": "A World To Drown In",
         "year": "2003",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
         "name": "A Certain End Of Everything",
         "year": "2024",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Doom"
+      "Atmospheric Doom Metal"
     ]
   },
   {
@@ -1403,7 +1401,7 @@
         "name": "Everything Sucks & I Think Im A Big Part Of It",
         "year": "2022",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal",
           "Metalcore"
         ]
@@ -1420,7 +1418,7 @@
     "tags": [
       "Melodic Death Metal",
       "Metalcore",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Progressive Metal",
       "Thrash Metal",
       "Death Metal",
@@ -1500,14 +1498,14 @@
         "year": "2016",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Third Law",
         "year": "2018",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1515,7 +1513,7 @@
         "year": "2019",
         "genres": [
           "Hip Hop",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1528,7 +1526,7 @@
     ],
     "tags": [
       "Hip Hop",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Metalcore"
     ]
   },
@@ -1939,14 +1937,14 @@
         "genres": [
           "Doom Metal",
           "Alternative Rock",
-          "Goth Rock"
+          "Gothic Rock"
         ]
       }
     ],
     "tags": [
       "Doom Metal",
       "Alternative Rock",
-      "Goth Rock"
+      "Gothic Rock"
     ]
   },
   {
@@ -2166,14 +2164,14 @@
         "name": "Book Of Shadows",
         "year": "2008",
         "genres": [
-          "Symphonic Gothic"
+          "Symphonic Gothic Metal"
         ]
       },
       {
         "name": "B Sides And Rarities",
         "year": "2009",
         "genres": [
-          "Symphonic Gothic"
+          "Symphonic Gothic Metal"
         ]
       },
       {
@@ -2202,7 +2200,7 @@
       }
     ],
     "tags": [
-      "Symphonic Gothic",
+      "Symphonic Gothic Metal",
       "Heavy Metal",
       "Doom Metal",
       "Black Speed Metal",
@@ -2470,35 +2468,35 @@
         "name": "Beyond Tomorrow",
         "year": "1999",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Reigning Memories",
         "year": "2003",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Iv V1.0",
         "year": "2011",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Iv V2.0",
         "year": "2012",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Ion Vein",
         "year": "2014",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2508,7 +2506,7 @@
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -2520,21 +2518,21 @@
         "name": "Saurian Meditation",
         "year": "2004",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Saurian Exorcisms",
         "year": "2009",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Saurian Apocalypse",
         "year": "2022",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2542,7 +2540,7 @@
         "year": "2022",
         "genres": [
           "New Age",
-          "Ambient Metal",
+          "Ambient",
           "Psychedelic Rock",
           "Electronic",
           "Rock",
@@ -2555,7 +2553,7 @@
         "year": "2022",
         "genres": [
           "New Age",
-          "Ambient Metal",
+          "Ambient",
           "Psychedelic Rock",
           "Electronic",
           "Rock",
@@ -2565,7 +2563,7 @@
       }
     ],
     "tags": [
-      "Ambient Metal",
+      "Ambient",
       "New Age",
       "Psychedelic Rock",
       "Electronic",
@@ -3037,7 +3035,7 @@
         "name": "Lyonesse",
         "year": "2011",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Jazz Fusion"
         ]
       },
@@ -3045,7 +3043,7 @@
         "name": "A Lament For The Lamb",
         "year": "2012",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Jazz Fusion"
         ]
       },
@@ -3053,7 +3051,7 @@
         "name": "Moloch",
         "year": "2014",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Jazz Fusion"
         ]
       },
@@ -3061,13 +3059,13 @@
         "name": "Million Miles",
         "year": "2017",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Jazz Fusion"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde",
       "Jazz Fusion"
     ]
   },
@@ -3097,13 +3095,13 @@
         "name": "Michael Peterson",
         "year": "1997",
         "genres": [
-          "Country Metal",
+          "Country",
           "Folk, World, & Country"
         ]
       }
     ],
     "tags": [
-      "Country Metal",
+      "Country",
       "Folk, World, & Country"
     ]
   },
@@ -3183,54 +3181,54 @@
         "name": "Hoods Up",
         "year": "2014",
         "genres": [
-          "Hip-hop",
-          "Hardcore Metal"
+          "Hip Hop",
+          "Hardcore"
         ]
       },
       {
         "name": "Here To Stay",
         "year": "2015",
         "genres": [
-          "Hip-hop",
-          "Hardcore Metal"
+          "Hip Hop",
+          "Hardcore"
         ]
       },
       {
         "name": "Boltcutter",
         "year": "2018",
         "genres": [
-          "Hip-hop",
-          "Hardcore Metal"
+          "Hip Hop",
+          "Hardcore"
         ]
       },
       {
         "name": "Bad Accent Anthems",
         "year": "2020",
         "genres": [
-          "Hip-hop",
-          "Hardcore Metal"
+          "Hip Hop",
+          "Hardcore"
         ]
       },
       {
         "name": "Flares Are Burning",
         "year": "2021",
         "genres": [
-          "Hip-hop",
-          "Hardcore Metal"
+          "Hip Hop",
+          "Hardcore"
         ]
       },
       {
         "name": "Radio Hope",
         "year": "2024",
         "genres": [
-          "Hip-hop",
-          "Hardcore Metal"
+          "Hip Hop",
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hip-hop",
-      "Hardcore Metal"
+      "Hip Hop",
+      "Hardcore"
     ]
   },
   {
@@ -3427,7 +3425,7 @@
         "year": "2017",
         "genres": [
           "Heavy Metal",
-          "Post-punk"
+          "Post-Punk"
         ]
       },
       {
@@ -3435,7 +3433,7 @@
         "year": "2019",
         "genres": [
           "Heavy Metal",
-          "Post-punk"
+          "Post-Punk"
         ]
       },
       {
@@ -3443,7 +3441,7 @@
         "year": "2021",
         "genres": [
           "Heavy Metal",
-          "Post-punk"
+          "Post-Punk"
         ]
       },
       {
@@ -3451,13 +3449,13 @@
         "year": "2024",
         "genres": [
           "Heavy Metal",
-          "Post-punk"
+          "Post-Punk"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Post-punk"
+      "Post-Punk"
     ]
   },
   {
@@ -3931,27 +3929,27 @@
         "name": "Past The Gate",
         "year": "2019",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
         "name": "Thresholds Of The Unseen, Book I: The Abyss",
         "year": "2025",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
         "name": "Thresholds Of The Unseen, Book Ii: The Unfolding",
         "year": "2025",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       }
     ],
     "tags": [
       "Death Doom Metal",
-      "Atmospheric Doom"
+      "Atmospheric Doom Metal"
     ]
   },
   {
@@ -4191,33 +4189,33 @@
         "name": "Skáphe",
         "year": "2014",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Skáphe²",
         "year": "2016",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Untitled",
         "year": "2017",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Skáphe³",
         "year": "2020",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Black"
+      "Psychedelic Black Metal"
     ]
   },
   {
@@ -4691,11 +4689,11 @@
         "name": "Blómi (Edit)",
         "year": "2023",
         "genres": [
-          "Ambient Metal",
-          "Folk Metal",
+          "Ambient",
+          "Folk",
           "Indie Pop",
           "Contemporary Jazz",
-          "Experimental Metal",
+          "Experimental",
           "Neofolk",
           "Ballad",
           "Pop",
@@ -4707,11 +4705,11 @@
       }
     ],
     "tags": [
-      "Ambient Metal",
-      "Folk Metal",
+      "Ambient",
+      "Folk",
       "Indie Pop",
       "Contemporary Jazz",
-      "Experimental Metal",
+      "Experimental",
       "Neofolk",
       "Ballad",
       "Pop",
@@ -4834,7 +4832,7 @@
         "name": "Metamorphosis",
         "year": "2023",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -4846,7 +4844,7 @@
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Symphonic Metal"
     ]
   },
@@ -4872,13 +4870,13 @@
         "name": "And You Were A Crow",
         "year": "2008",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Heavy Metal"
     ]
   },
@@ -4904,7 +4902,7 @@
         "genres": [
           "Death Doom Metal",
           "Shoegaze",
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
@@ -4913,7 +4911,7 @@
         "genres": [
           "Death Doom Metal",
           "Shoegaze",
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
@@ -4922,14 +4920,14 @@
         "genres": [
           "Death Doom Metal",
           "Shoegaze",
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       }
     ],
     "tags": [
       "Death Doom Metal",
       "Shoegaze",
-      "Atmospheric Death"
+      "Atmospheric Death Metal"
     ]
   },
   {
@@ -5034,12 +5032,14 @@
         "name": "Goat Sperm / Vastator",
         "year": "2026",
         "genres": [
-          "Black Metal | Raw Black Metal"
+          "Black Metal",
+          "Raw Black Metal"
         ]
       }
     ],
     "tags": [
-      "Black Metal | Raw Black Metal"
+      "Black Metal",
+      "Raw Black Metal"
     ]
   },
   {
@@ -5080,7 +5080,7 @@
         "name": "Walls Of Agony",
         "year": "2019",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -5088,7 +5088,7 @@
         "name": "A Step Closer To The Grave",
         "year": "2023",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -5102,7 +5102,7 @@
       }
     ],
     "tags": [
-      "Atmospheric Doom",
+      "Atmospheric Doom Metal",
       "Melodic Death Metal",
       "Melodic Death Doom Metal",
       "Doom Metal"

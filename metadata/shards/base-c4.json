@@ -53,19 +53,19 @@
         "name": "Trinity Road",
         "year": "2014",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Reinventing Time",
         "year": "2021",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -117,19 +117,19 @@
         "name": "Depresie Totala Apocalips",
         "year": "2002",
         "genres": [
-          "Melodic Thrash"
+          "Melodic Thrash Metal"
         ]
       },
       {
         "name": "Gate To Infinity",
         "year": "2010",
         "genres": [
-          "Melodic Thrash"
+          "Melodic Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Thrash"
+      "Melodic Thrash Metal"
     ]
   },
   {
@@ -320,7 +320,7 @@
         "year": "2014",
         "genres": [
           "Stoner Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -328,7 +328,7 @@
         "year": "2015",
         "genres": [
           "Stoner Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -336,7 +336,7 @@
         "year": "2016",
         "genres": [
           "Stoner Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -344,7 +344,7 @@
         "year": "2017",
         "genres": [
           "Stoner Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -352,7 +352,7 @@
         "year": "2019",
         "genres": [
           "Stoner Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -360,7 +360,7 @@
         "year": "2021",
         "genres": [
           "Stoner Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -368,13 +368,13 @@
         "year": "2024",
         "genres": [
           "Stoner Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Stoner Rock",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -580,7 +580,7 @@
         "name": "Voievozii",
         "year": "2008",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Folk Rock"
         ]
       },
@@ -588,7 +588,7 @@
         "name": "Miorița",
         "year": "2017",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Folk Rock"
         ]
       },
@@ -596,13 +596,13 @@
         "name": "Zimbrul Alb / White Wisent",
         "year": "2022",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Folk Rock"
         ]
       }
     ],
     "tags": [
-      "Folk Metal",
+      "Folk",
       "Folk Rock"
     ]
   },
@@ -732,7 +732,7 @@
         "name": "Epic Discordant Vision",
         "year": "2022",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -740,13 +740,13 @@
         "name": "Uncommon Grounds",
         "year": "2025",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Progressive Metal"
     ]
   },
@@ -1668,7 +1668,7 @@
         "name": "Poisse",
         "year": "2014",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal"
         ]
       },
@@ -1676,7 +1676,7 @@
         "name": "Skapheusis",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal"
         ]
       },
@@ -1684,7 +1684,7 @@
         "name": "Purge",
         "year": "2016",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal"
         ]
       },
@@ -1692,7 +1692,7 @@
         "name": "Pourrissoir",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal"
         ]
       },
@@ -1700,7 +1700,7 @@
         "name": "Punir",
         "year": "2019",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal",
           "Industrial Metal"
         ]
@@ -1709,7 +1709,7 @@
         "name": "Poigne",
         "year": "2020",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal",
           "Industrial Metal"
         ]
@@ -1718,7 +1718,7 @@
         "name": "Pudeur",
         "year": "2020",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal",
           "Industrial Metal"
         ]
@@ -1727,7 +1727,7 @@
         "name": "Pantocrator",
         "year": "2021",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal",
           "Industrial Metal"
         ]
@@ -1736,7 +1736,7 @@
         "name": "Privation",
         "year": "2023",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal",
           "Industrial Metal"
         ]
@@ -1745,7 +1745,7 @@
         "name": "Perdition",
         "year": "2024",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal",
           "Industrial Metal"
         ]
@@ -1754,14 +1754,14 @@
         "name": "Purulences",
         "year": "2025",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal",
           "Industrial Metal"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Sludge Metal",
       "Industrial Metal"
     ]
@@ -1852,7 +1852,7 @@
         "name": "Relentless",
         "year": "2009",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1860,7 +1860,7 @@
         "year": "2011",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1868,7 +1868,7 @@
         "year": "2012",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1884,7 +1884,7 @@
         "year": "2018",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1897,9 +1897,9 @@
     ],
     "tags": [
       "Metalcore",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Melodic Hardcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2562,7 +2562,7 @@
         "genres": [
           "Heavy Metal",
           "Nu Metal",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       }
@@ -2570,7 +2570,7 @@
     "tags": [
       "Heavy Metal",
       "Nu Metal",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Metalcore"
     ]
   },
@@ -2861,9 +2861,9 @@
           "Jazz",
           "Instrumental Rock",
           "Neo-progressive Rock",
-          "Pop/rock",
+          "Pop Rock",
           "Acoustic Rock",
-          "Western Classical Music",
+          "Classical",
           "Guitar Virtuoso",
           "Progressive Rock",
           "Progressive Metal"
@@ -2876,9 +2876,9 @@
       "Jazz",
       "Instrumental Rock",
       "Neo-progressive Rock",
-      "Pop/rock",
+      "Pop Rock",
       "Acoustic Rock",
-      "Western Classical Music",
+      "Classical",
       "Guitar Virtuoso",
       "Progressive Rock",
       "Progressive Metal"
@@ -3047,38 +3047,38 @@
         "name": "Demo 2004",
         "year": "2004",
         "genres": [
-          "Hardcore Metal",
-          "Groove Thrash"
+          "Hardcore",
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Iii",
         "year": "2005",
         "genres": [
-          "Hardcore Metal",
-          "Groove Thrash"
+          "Hardcore",
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "The Green Rage",
         "year": "2010",
         "genres": [
-          "Hardcore Metal",
-          "Groove Thrash"
+          "Hardcore",
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "You Get Out What You Put In",
         "year": "2013",
         "genres": [
-          "Hardcore Metal",
-          "Groove Thrash"
+          "Hardcore",
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
-      "Groove Thrash"
+      "Hardcore",
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -3221,7 +3221,7 @@
         "name": "A.s.a Crew",
         "year": "1999",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -3230,7 +3230,7 @@
         "name": "Hō",
         "year": "2001",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -3239,7 +3239,7 @@
         "name": "Mimi Kajiru",
         "year": "2002",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -3248,7 +3248,7 @@
         "name": "Kusoban",
         "year": "2004",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -3257,7 +3257,7 @@
         "name": "Rokkinpo Goroshi",
         "year": "2005",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -3266,7 +3266,7 @@
         "name": "Buiikikaesu",
         "year": "2007",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -3275,7 +3275,7 @@
         "name": "Yoshu Fukushu",
         "year": "2013",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -3284,7 +3284,7 @@
         "name": "Mimi Kajiru Shinuchi",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -3293,14 +3293,14 @@
         "name": "Korekara No Menkata Cottelee No Hanashi Wo Shiyou",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
       "Alternative"
     ]
@@ -3729,7 +3729,7 @@
         "year": "2026",
         "genres": [
           "Alternative Rock",
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Rock"
         ]
@@ -3737,7 +3737,7 @@
     ],
     "tags": [
       "Alternative Rock",
-      "Electro Metal",
+      "Electro",
       "Electronic",
       "Rock"
     ],
@@ -4144,13 +4144,13 @@
         "name": "Kralj Gora",
         "year": "2021",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Instrumental"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy",
+      "Progressive Heavy Metal",
       "Instrumental"
     ]
   },
@@ -4290,20 +4290,20 @@
         "name": "Everfree",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Electronic",
           "Progressive Metal",
-          "Prog Rock",
+          "Progressive Rock",
           "Hard Rock",
           "Industrial Metal"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Electronic",
       "Progressive Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Hard Rock",
       "Industrial Metal"
     ]
@@ -4807,7 +4807,7 @@
         "genres": [
           "Metalcore",
           "Hardcore Punk",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Melodic Hardcore"
         ]
       },
@@ -4815,7 +4815,7 @@
         "name": "Elegy",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Melodic Hardcore"
         ]
       }
@@ -4823,9 +4823,9 @@
     "tags": [
       "Metalcore",
       "Hardcore Punk",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Melodic Hardcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4887,13 +4887,13 @@
         "name": "Heart Means Everything",
         "year": "2004",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -5047,12 +5047,12 @@
         "name": "My Hiding Place",
         "year": "2023",
         "genres": [
-          "Death  Doom"
+          "Death Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Death  Doom"
+      "Death Doom Metal"
     ]
   },
   {

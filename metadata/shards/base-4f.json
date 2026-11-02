@@ -44,7 +44,7 @@
         "name": "Fenrir",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -52,12 +52,12 @@
         "year": "2019",
         "genres": [
           "Instrumental",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power",
+      "Progressive Power Metal",
       "Instrumental"
     ]
   },
@@ -133,7 +133,7 @@
         "name": "Destined To Burn",
         "year": "1994",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Crossover Thrash"
         ]
@@ -142,7 +142,7 @@
         "name": "For Those Who Were Crucified",
         "year": "1998",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Crossover Thrash"
         ]
@@ -151,7 +151,7 @@
         "name": "Truth In The Age Of Lies",
         "year": "1998",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Crossover Thrash"
         ]
@@ -160,7 +160,7 @@
         "name": "Condemned To Suffer",
         "year": "2003",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Crossover Thrash"
         ]
@@ -169,7 +169,7 @@
         "name": "Assassins In The House Of God",
         "year": "2007",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Crossover Thrash"
         ]
@@ -178,7 +178,7 @@
         "name": "Into The Killing Fields",
         "year": "2010",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Crossover Thrash"
         ]
@@ -187,7 +187,7 @@
         "name": "Dying Gods",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Crossover Thrash"
         ]
@@ -196,7 +196,7 @@
         "name": "Give Us Extinction",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Crossover Thrash"
         ]
@@ -205,7 +205,7 @@
         "name": "Crawl Among The Filth",
         "year": "2019",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Crossover Thrash"
         ]
@@ -214,14 +214,14 @@
         "name": "Celestial Rot",
         "year": "2023",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Crossover Thrash"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore",
       "Crossover Thrash"
     ]
@@ -590,7 +590,7 @@
           "Fusion",
           "Turntablism",
           "Jazzy Hip-hop",
-          "Experimental Metal",
+          "Experimental",
           "Acid Jazz",
           "Instrumental",
           "Boom Bap",
@@ -616,7 +616,7 @@
       "Fusion",
       "Turntablism",
       "Jazzy Hip-hop",
-      "Experimental Metal",
+      "Experimental",
       "Acid Jazz",
       "Instrumental",
       "Boom Bap",
@@ -829,7 +829,7 @@
         "name": "The Re-arrival",
         "year": "2002",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Death Metal",
           "Heavy Metal"
         ]
@@ -914,7 +914,7 @@
       "Electronic",
       "Experimental Metal",
       "Death Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Heavy Metal"
     ]
   },
@@ -1032,14 +1032,12 @@
         "name": "Sunless Meridian",
         "year": "2013",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {
@@ -1074,7 +1072,7 @@
         "genres": [
           "Funk / Soul",
           "Pop Rock",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Electronic",
           "Neo Soul",
           "Synth-pop",
@@ -1089,7 +1087,7 @@
       "Hip Hop",
       "Rnb/swing",
       "Pop Rock",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Electronic",
       "Neo Soul",
       "Synth-pop",
@@ -1185,75 +1183,75 @@
         "name": "Dis-ease",
         "year": "2012",
         "genres": [
-          "Industrial Doom"
+          "Industrial Doom Metal"
         ]
       },
       {
         "name": "Disengage To None",
         "year": "2012",
         "genres": [
-          "Industrial Doom"
+          "Industrial Doom Metal"
         ]
       },
       {
         "name": "Subsistence",
         "year": "2014",
         "genres": [
-          "Industrial Doom"
+          "Industrial Doom Metal"
         ]
       },
       {
         "name": "The Sum Of Our Parts",
         "year": "2016",
         "genres": [
-          "Industrial Doom"
+          "Industrial Doom Metal"
         ]
       },
       {
         "name": "Savoured Lacerations",
         "year": "2018",
         "genres": [
-          "Industrial Doom"
+          "Industrial Doom Metal"
         ]
       },
       {
         "name": "Tragic Doom",
         "year": "2018",
         "genres": [
-          "Industrial Doom"
+          "Industrial Doom Metal"
         ]
       },
       {
         "name": "Towards Peace",
         "year": "2020",
         "genres": [
-          "Industrial Doom"
+          "Industrial Doom Metal"
         ]
       },
       {
         "name": "Useful Ruins",
         "year": "2022",
         "genres": [
-          "Industrial Doom"
+          "Industrial Doom Metal"
         ]
       },
       {
         "name": "From Faith To Death",
         "year": "2023",
         "genres": [
-          "Industrial Doom"
+          "Industrial Doom Metal"
         ]
       },
       {
         "name": "This Concrete Earth",
         "year": "2023",
         "genres": [
-          "Industrial Doom"
+          "Industrial Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Industrial Doom"
+      "Industrial Doom Metal"
     ]
   },
   {
@@ -1452,12 +1450,12 @@
         "name": "Bij Sinterklaas",
         "year": "2001",
         "genres": [
-          "Children's Music"
+          "Children's"
         ]
       }
     ],
     "tags": [
-      "Children's Music"
+      "Children's"
     ]
   },
   {
@@ -1610,19 +1608,19 @@
         "name": "Plagued By Sufferers",
         "year": "2018",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
         "name": "Fixed Ritual",
         "year": "2021",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Sludge"
+      "Blackened Sludge Metal"
     ]
   },
   {
@@ -1772,8 +1770,8 @@
         "year": "2022",
         "genres": [
           "Progressive Metal",
-          "Prog Rock",
-          "Post Rock",
+          "Progressive Rock",
+          "Post-Rock",
           "Post-Metal"
         ]
       }
@@ -1782,8 +1780,7 @@
       "Progressive Metal",
       "Progressive Rock",
       "Post-Metal",
-      "Prog Rock",
-      "Post Rock"
+      "Post-Rock"
     ]
   },
   {
@@ -2589,7 +2586,7 @@
         "year": "2019",
         "genres": [
           "Pop",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2597,13 +2594,13 @@
         "name": "Contranym",
         "year": "2022",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Rock",
       "Pop"
     ]
@@ -2743,7 +2740,7 @@
         "genres": [
           "Art Rock",
           "Indie Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2753,7 +2750,7 @@
         "genres": [
           "Art Rock",
           "Indie Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
@@ -2764,7 +2761,7 @@
       "Rock",
       "Art Rock",
       "Indie Rock",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -3196,7 +3193,7 @@
         "year": "1995",
         "genres": [
           "Death Metal",
-          "Psychedelic Stoner"
+          "Psychedelic Stoner Metal"
         ]
       },
       {
@@ -3204,7 +3201,7 @@
         "year": "1999",
         "genres": [
           "Death Metal",
-          "Psychedelic Stoner"
+          "Psychedelic Stoner Metal"
         ]
       },
       {
@@ -3212,7 +3209,7 @@
         "year": "2005",
         "genres": [
           "Death Metal",
-          "Psychedelic Stoner"
+          "Psychedelic Stoner Metal"
         ]
       },
       {
@@ -3220,13 +3217,13 @@
         "year": "2019",
         "genres": [
           "Death Metal",
-          "Psychedelic Stoner"
+          "Psychedelic Stoner Metal"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Psychedelic Stoner"
+      "Psychedelic Stoner Metal"
     ]
   },
   {
@@ -3284,7 +3281,7 @@
         "year": "2012",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3292,7 +3289,7 @@
         "year": "2013",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3300,7 +3297,7 @@
         "year": "2015",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3308,7 +3305,7 @@
         "year": "2018",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3316,13 +3313,13 @@
         "year": "2020",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -3506,19 +3503,19 @@
         "name": "Silent Fall",
         "year": "1997",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Schizoid",
         "year": "2002",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -3530,12 +3527,12 @@
         "year": "2026",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -3573,7 +3570,7 @@
         "name": "Aus Alten Zeiten",
         "year": "2011",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Black Metal"
         ]
       },
@@ -3581,7 +3578,7 @@
         "name": "Stethu",
         "year": "2015",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Black Metal"
         ]
       },
@@ -3589,13 +3586,13 @@
         "name": "...Zu Staub",
         "year": "2019",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Pagan Folk",
+      "Pagan Folk Metal",
       "Black Metal"
     ]
   },
@@ -4170,12 +4167,12 @@
         "name": "La Via Del Guerriero",
         "year": "2012",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -4248,14 +4245,14 @@
         "genres": [
           "Black Metal",
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "I, Guilt Bearer",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Black Metal",
           "Doom Metal",
           "Punk"
@@ -4267,7 +4264,7 @@
         "genres": [
           "Black Metal",
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -4276,7 +4273,7 @@
         "genres": [
           "Black Metal",
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -4285,7 +4282,7 @@
         "genres": [
           "Black Metal",
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -4294,7 +4291,7 @@
         "genres": [
           "Sludge Metal",
           "Black Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -4303,7 +4300,7 @@
         "genres": [
           "Sludge Metal",
           "Black Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -4312,14 +4309,14 @@
         "genres": [
           "Black Metal",
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Black Metal",
       "Sludge Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Doom Metal",
       "Punk"
     ]
@@ -4355,20 +4352,20 @@
         "year": "2003",
         "genres": [
           "Symphonic Black Metal",
-          "Blackened Industrial"
+          "Blackened Industrial Metal"
         ]
       },
       {
         "name": "Travesty Of Heavenly Essence",
         "year": "2005",
         "genres": [
-          "Blackened Industrial"
+          "Blackened Industrial Metal"
         ]
       }
     ],
     "tags": [
       "Symphonic Black Metal",
-      "Blackened Industrial"
+      "Blackened Industrial Metal"
     ]
   },
   {
@@ -4631,96 +4628,96 @@
         "name": "Sppears",
         "year": "2009",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Alchemic Heart",
         "year": "2011",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Rule The World/deathtiny Land",
         "year": "2011",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Hefner Trombones Vol.1",
         "year": "2013",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Nadja",
         "year": "2013",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "My Beautiful Twisted Nightmares In Aurora Rainbow Darkness",
         "year": "2014",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Some Nightmares Take You Aurora Rainbow Darkness",
         "year": "2014",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "The Divine Move",
         "year": "2014",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "White Silence",
         "year": "2014",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "The Body",
         "year": "2015",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "My Heart Will Go On",
         "year": "2016",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Watashi Ga Nakou Hototogisu",
         "year": "2016",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Happiness Brought By Endless Sorrow",
         "year": "2018",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {

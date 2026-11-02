@@ -25,33 +25,33 @@
         "name": "Thundermark",
         "year": "2018",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Far Flung Realm",
         "year": "2020",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "The Daemon's Strain",
         "year": "2022",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Reforged",
         "year": "2025",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -64,13 +64,13 @@
         "year": "2023",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -114,7 +114,7 @@
         "name": "Nightmare Anatomy",
         "year": "2005",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -122,13 +122,13 @@
         "name": "Our Gangs Dark Oath",
         "year": "2006",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -179,7 +179,7 @@
         "year": "2013",
         "genres": [
           "Black Metal",
-          "Crust Metal",
+          "Crust Punk",
           "Grindcore"
         ]
       },
@@ -259,8 +259,8 @@
         "year": "2018",
         "genres": [
           "Dark Ambient",
-          "Ambient Metal",
-          "Noise Metal",
+          "Ambient",
+          "Noise",
           "Electronic",
           "Drone Metal",
           "Industrial Metal"
@@ -278,8 +278,8 @@
         "name": "Dying Embers",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
-          "Crust Metal",
+          "Hardcore",
+          "Crust Punk",
           "Metalcore"
         ]
       },
@@ -287,8 +287,8 @@
         "name": "Dysthymia",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
-          "Crust Metal",
+          "Hardcore",
+          "Crust Punk",
           "Metalcore"
         ]
       },
@@ -304,8 +304,8 @@
         "name": "Unmasking The Imposters",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
-          "Crust Metal",
+          "Hardcore",
+          "Crust Punk",
           "Metalcore"
         ]
       },
@@ -381,12 +381,11 @@
       "Crust Punk",
       "Dark Ambient",
       "Drone Metal",
-      "Ambient Metal",
-      "Noise Metal",
+      "Ambient",
+      "Noise",
       "Electronic",
       "Industrial Metal",
-      "Hardcore Metal",
-      "Crust Metal",
+      "Hardcore",
       "Metalcore",
       "Grindcore",
       "Crust Dark Ambient",
@@ -438,7 +437,7 @@
         "year": "2010",
         "genres": [
           "Progressive Metal",
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
@@ -446,13 +445,13 @@
         "year": "2017",
         "genres": [
           "Progressive Metal",
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Neoclassical Power"
+      "Neoclassical Power Metal"
     ]
   },
   {
@@ -487,22 +486,22 @@
         "name": "Destination Unknown",
         "year": "1990",
         "genres": [
-          "Technical Thrash",
-          "Us Power"
+          "Technical Thrash Metal",
+          "US Power Metal"
         ]
       },
       {
         "name": "Ambiguity",
         "year": "1994",
         "genres": [
-          "Technical Thrash",
-          "Us Power"
+          "Technical Thrash Metal",
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash",
-      "Us Power"
+      "Technical Thrash Metal",
+      "US Power Metal"
     ]
   },
   {
@@ -801,7 +800,7 @@
         "name": "Crime Of Passion",
         "year": "2021",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Rock"
         ]
       },
@@ -809,7 +808,7 @@
         "name": "Lace",
         "year": "2021",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Rock"
         ]
       },
@@ -817,7 +816,7 @@
         "name": "My Legacy",
         "year": "2021",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Rock"
         ]
       },
@@ -825,7 +824,7 @@
         "name": "My Little Demon",
         "year": "2021",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Rock"
         ]
       },
@@ -833,7 +832,7 @@
         "name": "To Get Her (Acoustic)",
         "year": "2021",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Rock"
         ]
       },
@@ -912,7 +911,7 @@
       "Gothic Metal",
       "Folk Metal",
       "Symphonic Metal",
-      "Goth Rock",
+      "Gothic Rock",
       "Rock"
     ]
   },
@@ -966,14 +965,14 @@
         "name": "Saligia",
         "year": "2011",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Headless Kingdom",
         "year": "2014",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -981,14 +980,14 @@
         "name": "Downfall Magnificat",
         "year": "2020",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -1643,21 +1642,21 @@
         "name": "Bleed On My Own",
         "year": "2007",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Under The Influence",
         "year": "2008",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Corrupt Desires",
         "year": "2011",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -1669,8 +1668,8 @@
       }
     ],
     "tags": [
-      "Technical Thrash",
-      "Progressive Thrash",
+      "Technical Thrash Metal",
+      "Progressive Thrash Metal",
       "Progressive Hard Rock"
     ]
   },
@@ -1684,7 +1683,7 @@
         "year": "2018",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Black Metal"
         ]
       },
@@ -1693,7 +1692,7 @@
         "year": "2021",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Black Metal"
         ]
       },
@@ -1715,10 +1714,9 @@
     ],
     "tags": [
       "Sludge Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Black Metal",
-      "Mathcore",
-      "Metal"
+      "Mathcore"
     ]
   },
   {
@@ -2306,49 +2304,49 @@
         "name": "Lunar Strain",
         "year": "1994",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Subterranean",
         "year": "1995",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "The Jester Race",
         "year": "1996",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Black-ash Inheritance",
         "year": "1997",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Whoracle",
         "year": "1997",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Colony",
         "year": "1999",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Clayman",
         "year": "2000",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Alternative"
         ]
       },
@@ -2363,7 +2361,7 @@
         "name": "Reroute To Remain",
         "year": "2002",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Alternative"
         ]
       },
@@ -2371,7 +2369,7 @@
         "name": "Trigger",
         "year": "2003",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Alternative"
         ]
       },
@@ -2379,7 +2377,7 @@
         "name": "Soundtrack To Your Escape",
         "year": "2004",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Alternative"
         ]
       },
@@ -2387,7 +2385,7 @@
         "name": "Come Clarity",
         "year": "2006",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Alternative"
         ]
       },
@@ -2395,7 +2393,7 @@
         "name": "A Sense Of Purpose",
         "year": "2008",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Alternative"
         ]
       },
@@ -2403,7 +2401,7 @@
         "name": "The Mirror's Truth",
         "year": "2008",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Alternative"
         ]
       },
@@ -2411,7 +2409,7 @@
         "name": "8 Songs",
         "year": "2011",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Alternative"
         ]
       },
@@ -2419,7 +2417,7 @@
         "name": "Sounds Of A Playground Fading",
         "year": "2011",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Alternative"
         ]
       },
@@ -2533,9 +2531,8 @@
       }
     ],
     "tags": [
-      "Gothenburg",
-      "Alternative",
       "Melodic Death Metal",
+      "Alternative",
       "Heavy Metal",
       "Alternative Rock",
       "Death Metal",
@@ -2956,7 +2953,7 @@
           "Funk Metal",
           "Experimental Metal",
           "Hard Rock",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -3028,7 +3025,7 @@
       "Funk Metal",
       "Experimental Metal",
       "Hard Rock",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -3102,7 +3099,7 @@
         "year": "2009",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -3111,7 +3108,7 @@
         "year": "2010",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -3119,21 +3116,21 @@
         "name": "Death Ritual",
         "year": "2012",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       },
       {
         "name": "Cursed To See The Future",
         "year": "2014",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Sludge",
+      "Blackened Sludge Metal",
       "Sludge Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -3701,7 +3698,7 @@
         "name": "Velvet Noise Extended",
         "year": "2002",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Industrial Metal"
         ]
       },
@@ -3760,7 +3757,7 @@
       "Alternative",
       "Industrial Metal",
       "Melodic Death Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4580,40 +4577,40 @@
         "name": "Total Doom, Total Death",
         "year": "2010",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "Cover Versions/demo/rough Mixes",
         "year": "2013",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "Total Doom//desecration",
         "year": "2013",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "Sinistrous Diabolus Ii",
         "year": "2016",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "Monolith Iii/v",
         "year": "2018",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death"
+      "Death Doom Metal"
     ]
   },
   {
@@ -4625,7 +4622,7 @@
         "name": "Blinding White Noise: Illusion & Chaos",
         "year": "2012",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -4633,7 +4630,7 @@
         "name": "Guiding Lights",
         "year": "2014",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -4648,13 +4645,13 @@
         "name": "Sunshine Dust",
         "year": "2018",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       }
     ],
     "tags": [
-      "Progressive Math",
+      "Progressive Math Metal",
       "Djent",
       "Progressive Metal"
     ]
@@ -5003,14 +5000,14 @@
         "name": "Feel Like Rock 'N' Roll?",
         "year": "1983",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Beauty And The Beasts",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -5029,7 +5026,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal"
     ]
   },
@@ -5205,14 +5202,14 @@
         "name": "Awaiting The Heat Death Of The Universe",
         "year": "2015",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "I, Nihilist",
         "year": "2016",
         "genres": [
-          "Noise Metal",
+          "Noise",
           "Drone Doom Metal"
         ]
       },
@@ -5220,13 +5217,13 @@
         "name": "Postcards From Limbo",
         "year": "2016",
         "genres": [
-          "Noise Metal",
+          "Noise",
           "Drone Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Noise Metal",
+      "Noise",
       "Drone Doom Metal"
     ]
   },
@@ -5332,54 +5329,54 @@
         "name": "Unknown Soldier",
         "year": "2000",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Beyond Abilities",
         "year": "2002",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Accept The Fact",
         "year": "2005",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Japanese Hospitality",
         "year": "2009",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "First Of The Five Elements",
         "year": "2014",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Here For None",
         "year": "2023",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Band Of Brothers",
         "year": "2025",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -5463,7 +5460,7 @@
         "year": "1996",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -5471,7 +5468,7 @@
         "year": "1998",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -5479,7 +5476,7 @@
         "year": "2002",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -5487,7 +5484,7 @@
         "year": "2006",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -5495,7 +5492,7 @@
         "year": "2009",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -5503,13 +5500,13 @@
         "year": "2015",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   }
 ]

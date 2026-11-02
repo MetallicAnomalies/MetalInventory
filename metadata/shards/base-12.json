@@ -8,14 +8,14 @@
         "name": "Darkness Inside",
         "year": "2011",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Death Metal",
           "Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Goth Rock",
+      "Gothic Rock",
       "Death Metal",
       "Doom Metal"
     ]
@@ -275,54 +275,54 @@
         "name": "Evil Prevails",
         "year": "1992",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "The Diabolic Serenades",
         "year": "1994",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "Blasfemia Eternal",
         "year": "1996",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "Fatherland",
         "year": "1998",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "Dim Carcosa",
         "year": "2001",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "Rubicon",
         "year": "2006",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "Laguz",
         "year": "2015",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       }
     ],
     "tags": [
-      "Viking Black"
+      "Viking Black Metal"
     ]
   },
   {
@@ -333,15 +333,17 @@
         "name": "Hymni sub Pacto Mysticismi Obscuri",
         "year": "2026",
         "genres": [
-          "Melodic Black Black Metal",
-          "Gothic Metal | Gothic Black Metal",
+          "Melodic Black Metal",
+          "Gothic Metal",
+          "Gothic Black Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Black Black Metal",
-      "Gothic Metal | Gothic Black Metal",
+      "Melodic Black Metal",
+      "Gothic Metal",
+      "Gothic Black Metal",
       "Black Metal"
     ]
   },
@@ -354,13 +356,13 @@
         "year": "2026",
         "genres": [
           "Brutal Death Metal",
-          "Goregrind | Goregrind"
+          "Goregrind"
         ]
       }
     ],
     "tags": [
       "Brutal Death Metal",
-      "Goregrind | Goregrind"
+      "Goregrind"
     ]
   },
   {
@@ -477,33 +479,33 @@
         "name": "5743",
         "year": "2001",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "The Last Day Of Icarius",
         "year": "2004",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Harsh Means Of Answer Against",
         "year": "2007",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Hail The Sick Ones",
         "year": "2010",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -530,14 +532,14 @@
         "name": "Theater Of Sorcery",
         "year": "2021",
         "genres": [
-          "Operatic Power"
+          "Operatic Power Metal"
         ]
       },
       {
         "name": "The Legend Of The Storyteller",
         "year": "2023",
         "genres": [
-          "Operatic Power"
+          "Operatic Power Metal"
         ]
       },
       {
@@ -547,7 +549,7 @@
       }
     ],
     "tags": [
-      "Operatic Power"
+      "Operatic Power Metal"
     ]
   },
   {
@@ -589,7 +591,7 @@
           "Glam Metal",
           "Hard Rock",
           "Industrial Metal",
-          "Goth Rock"
+          "Gothic Rock"
         ]
       }
     ],
@@ -597,7 +599,7 @@
       "Glam Metal",
       "Hard Rock",
       "Industrial Metal",
-      "Goth Rock"
+      "Gothic Rock"
     ]
   },
   {
@@ -783,7 +785,7 @@
           "Leftfield",
           "Electronic",
           "Techno",
-          "Industrial Metal",
+          "Industrial",
           "Minimal"
         ]
       }
@@ -792,7 +794,7 @@
       "Leftfield",
       "Electronic",
       "Techno",
-      "Industrial Metal",
+      "Industrial",
       "Minimal"
     ]
   },
@@ -830,12 +832,12 @@
         "name": "Hidden In Plain Sight",
         "year": "1991",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -1109,14 +1111,14 @@
         "name": "Beyond The Fall Of Time",
         "year": "2011",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Slave To The Sword",
         "year": "2014",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -1130,7 +1132,7 @@
         "name": "Ride Forth",
         "year": "2016",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -1151,7 +1153,7 @@
         "name": "The Sound Of Steel",
         "year": "2018",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -1165,21 +1167,21 @@
         "name": "Legions Of The Undead",
         "year": "2019",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Necrophony",
         "year": "2023",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Death Metal",
       "Thrash Metal",
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -1598,26 +1600,26 @@
         "name": "Deadly Sin",
         "year": "2014",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "God Has No Name",
         "year": "2019",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "Behold The Unlighted",
         "year": "2022",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death"
+      "Death Doom Metal"
     ]
   },
   {
@@ -1755,49 +1757,49 @@
         "name": "Iron Maiden",
         "year": "1980",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Women In Uniform",
         "year": "1980",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Killers",
         "year": "1981",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "The Number Of The Beast",
         "year": "1982",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Piece Of Mind",
         "year": "1983",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Where Eagles Dare",
         "year": "1983",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Powerslave",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -1818,7 +1820,7 @@
         "name": "Somewhere In Time",
         "year": "1986",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -1832,7 +1834,7 @@
         "name": "Seventh Son Of A Seventh Son",
         "year": "1988",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -2088,7 +2090,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal",
       "Stage & Screen",
       "Soundtrack",
@@ -2104,10 +2106,10 @@
         "name": "New Demons",
         "year": "2013",
         "genres": [
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Dubstep",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Electro House",
           "Metalcore"
         ]
@@ -2121,10 +2123,10 @@
       }
     ],
     "tags": [
-      "Electro Metal",
+      "Electro",
       "Electronic",
       "Dubstep",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Electro House",
       "Metalcore",
       "Rock"
@@ -2175,7 +2177,6 @@
           "Classical",
           "Soundtrack",
           "Score",
-          "Modern",
           "Stage & Screen"
         ]
       }
@@ -2185,7 +2186,6 @@
       "Classical",
       "Soundtrack",
       "Score",
-      "Modern",
       "Stage & Screen"
     ]
   },
@@ -2585,7 +2585,7 @@
         "year": "2002",
         "genres": [
           "Heavy Metal",
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
@@ -2593,14 +2593,14 @@
         "year": "2012",
         "genres": [
           "Heavy Metal",
-          "Death Rock",
+          "Deathrock",
           "Gothic Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Death Rock",
+      "Deathrock",
       "Gothic Metal"
     ]
   },
@@ -2688,13 +2688,13 @@
         "year": "2023",
         "genres": [
           "Electronic",
-          "Industrial Metal"
+          "Industrial"
         ]
       }
     ],
     "tags": [
       "Electronic",
-      "Industrial Metal"
+      "Industrial"
     ]
   },
   {
@@ -2825,12 +2825,12 @@
         "name": "Mystic Alchemy",
         "year": "2011",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -3244,7 +3244,7 @@
         "name": "Love, Fear & The Time Machine",
         "year": "2015",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3291,7 +3291,6 @@
     "tags": [
       "Progressive Metal",
       "Progressive Rock",
-      "Prog Rock",
       "Rock"
     ]
   },
@@ -3353,12 +3352,12 @@
         "name": "The Paradox",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -3941,7 +3940,7 @@
         "name": "The Three Lightbearers",
         "year": "2014",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Blackened Death Metal"
         ]
       },
@@ -3949,7 +3948,7 @@
         "name": "Noumenon",
         "year": "2015",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Blackened Death Metal"
         ]
       },
@@ -3957,7 +3956,7 @@
         "name": "The Obscene Rite",
         "year": "2016",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Blackened Death Metal"
         ]
       },
@@ -3965,7 +3964,7 @@
         "name": "A Sire To The Ghouls Of Lunacy",
         "year": "2018",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Blackened Death Metal"
         ]
       },
@@ -3973,7 +3972,7 @@
         "name": "Lurkers In The Capsule Of Skull",
         "year": "2021",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Blackened Death Metal"
         ]
       },
@@ -3981,7 +3980,7 @@
         "name": "Vlbrnr",
         "year": "2022",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Blackened Death Metal"
         ]
       },
@@ -3989,7 +3988,7 @@
         "name": "The Duality Of Decapitation And Wisdom",
         "year": "2024",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Blackened Death Metal"
         ]
       },
@@ -3997,7 +3996,7 @@
         "name": "Longing For Triumph, Reeking Of Tragedy",
         "year": "2025",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Blackened Death Metal"
         ]
       },
@@ -4008,7 +4007,7 @@
       }
     ],
     "tags": [
-      "Experimental Black",
+      "Experimental Black Metal",
       "Blackened Death Metal"
     ]
   },
@@ -4243,12 +4242,12 @@
         "name": "Procreation",
         "year": "2018",
         "genres": [
-          "Death Thrash"
+          "Death Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Death Thrash"
+      "Death Thrash Metal"
     ]
   },
   {
@@ -4259,12 +4258,12 @@
         "name": "Becoming Flesh",
         "year": "2012",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Heavy"
+      "Blackened Heavy Metal"
     ]
   },
   {
@@ -4278,7 +4277,7 @@
         "genres": [
           "New Wave",
           "Electronic",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4287,7 +4286,7 @@
         "genres": [
           "New Wave",
           "Electronic",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4296,7 +4295,7 @@
         "genres": [
           "New Wave",
           "Electronic",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4305,7 +4304,7 @@
         "genres": [
           "New Wave",
           "Electronic",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4314,7 +4313,7 @@
         "genres": [
           "New Wave",
           "Electronic",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4323,7 +4322,7 @@
         "genres": [
           "New Wave",
           "Electronic",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4332,7 +4331,7 @@
         "genres": [
           "New Wave",
           "Electronic",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4349,7 +4348,7 @@
       "Folk, World, & Country",
       "New Wave",
       "Electronic",
-      "Ambient Metal"
+      "Ambient"
     ]
   }
 ]

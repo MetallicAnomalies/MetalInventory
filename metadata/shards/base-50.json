@@ -133,47 +133,47 @@
         "name": "Breathing Necropolis",
         "year": "2021",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Sentïence",
         "year": "2022",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "The Greatest Curse",
         "year": "2022",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Eyeclöser",
         "year": "2023",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Retching Necropolis",
         "year": "2023",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "The Spectrum Of Human Emotion",
         "year": "2024",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -485,12 +485,14 @@
         "name": "Funereal Winds of the Black Throne",
         "year": "2026",
         "genres": [
-          "Depressive Black Metal | Black Metal"
+          "Depressive Black Metal",
+          "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Depressive Black Metal | Black Metal"
+      "Depressive Black Metal",
+      "Black Metal"
     ]
   },
   {
@@ -814,7 +816,7 @@
         "year": "2013",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -822,7 +824,7 @@
         "year": "2014",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -830,13 +832,13 @@
         "year": "2018",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1152,7 +1154,7 @@
         "name": "Cold (Deetown Remix Featuring Miss Eighty 6)",
         "year": "2004",
         "genres": [
-          "Post-grunge",
+          "Post-Grunge",
           "Alternative Metal"
         ]
       },
@@ -1167,7 +1169,7 @@
         "name": "Crossfade",
         "year": "2004",
         "genres": [
-          "Post-grunge",
+          "Post-Grunge",
           "Alternative Metal"
         ]
       },
@@ -1190,7 +1192,7 @@
     ],
     "tags": [
       "Hard Rock",
-      "Post-grunge",
+      "Post-Grunge",
       "Alternative Metal",
       "Alternative Rock",
       "Rock"
@@ -1251,7 +1253,7 @@
         "genres": [
           "Heavy Metal",
           "Alternative Rock",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -1295,8 +1297,7 @@
       "Progressive Metal",
       "Progressive Rock",
       "Heavy Metal",
-      "Alternative Rock",
-      "Prog Rock"
+      "Alternative Rock"
     ]
   },
   {
@@ -1851,13 +1852,13 @@
         "name": "Place Your Bets",
         "year": "2022",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -1972,12 +1973,12 @@
         "name": "Screaming For Change",
         "year": "2009",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -2049,13 +2050,13 @@
         "name": "Exitium Verum",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Death Metal"
     ]
   },
@@ -2068,7 +2069,7 @@
         "name": "Stronger",
         "year": "2018",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -2107,7 +2108,7 @@
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Symphonic Metal",
       "Power Metal",
       "Gothic Metal"
@@ -2443,19 +2444,19 @@
         "name": "Les Grandes Compagnies",
         "year": "2019",
         "genres": [
-          "Folk Black"
+          "Folk Black Metal"
         ]
       },
       {
         "name": "éGrotants, Souffreteux, Cacochymes, Covidards",
         "year": "2024",
         "genres": [
-          "Folk Black"
+          "Folk Black Metal"
         ]
       }
     ],
     "tags": [
-      "Folk Black"
+      "Folk Black Metal"
     ]
   },
   {
@@ -2610,7 +2611,7 @@
         "name": "The Edifice",
         "year": "2023",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal"
         ]
       }
@@ -2618,7 +2619,7 @@
     "tags": [
       "Post-Metal",
       "Math Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Sludge Metal"
     ]
   },
@@ -2785,19 +2786,19 @@
         "name": "Human Reason",
         "year": "2012",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Oblivion",
         "year": "2024",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -2982,7 +2983,7 @@
         "year": "1989",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2990,7 +2991,7 @@
         "year": "2018",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2998,13 +2999,13 @@
         "year": "2022",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -3066,7 +3067,7 @@
         "name": "Of Bards And Madmen",
         "year": "2005",
         "genres": [
-          "Melodic Power",
+          "Melodic Power Metal",
           "Folk Metal"
         ]
       },
@@ -3074,7 +3075,7 @@
         "name": "Some Ways Back No More",
         "year": "2008",
         "genres": [
-          "Melodic Power",
+          "Melodic Power Metal",
           "Folk Metal"
         ]
       },
@@ -3082,7 +3083,7 @@
         "name": "Raving Souls Society",
         "year": "2012",
         "genres": [
-          "Melodic Power",
+          "Melodic Power Metal",
           "Folk Metal"
         ]
       },
@@ -3090,7 +3091,7 @@
         "name": "Unfinished Fairytale",
         "year": "2013",
         "genres": [
-          "Melodic Power",
+          "Melodic Power Metal",
           "Folk Metal"
         ]
       },
@@ -3098,7 +3099,7 @@
         "name": "Some Ways Back Some More",
         "year": "2014",
         "genres": [
-          "Melodic Power",
+          "Melodic Power Metal",
           "Folk Metal"
         ]
       },
@@ -3106,13 +3107,13 @@
         "name": "Principles Of A Past Tomorrow",
         "year": "2015",
         "genres": [
-          "Melodic Power",
+          "Melodic Power Metal",
           "Folk Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Power",
+      "Melodic Power Metal",
       "Folk Metal"
     ]
   },
@@ -3172,12 +3173,12 @@
         "name": "Intent",
         "year": "2024",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3223,13 +3224,13 @@
         "name": "Anonymous Souls",
         "year": "2019",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Speed Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash",
+      "Progressive Thrash Metal",
       "Speed Metal"
     ]
   },
@@ -3399,17 +3400,17 @@
         "year": "2010",
         "genres": [
           "Math Rock",
-          "Experimental Metal",
+          "Experimental",
           "Punk",
-          "Avantgarde Metal"
+          "Avant-garde"
         ]
       }
     ],
     "tags": [
       "Math Rock",
-      "Experimental Metal",
+      "Experimental",
       "Punk",
-      "Avantgarde Metal"
+      "Avant-garde"
     ]
   },
   {
@@ -3765,8 +3766,7 @@
         "year": "2011",
         "genres": [
           "Post-Black Metal",
-          "Progressive Post-metal",
-          "Post-black Metal"
+          "Progressive Post-Metal"
         ]
       },
       {
@@ -3774,16 +3774,14 @@
         "year": "2013",
         "genres": [
           "Post-Black Metal",
-          "Progressive Post-metal",
-          "Post-black Metal"
+          "Progressive Post-Metal"
         ]
       },
       {
         "name": "Aube Noir",
         "year": "2021",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
@@ -3791,15 +3789,13 @@
         "year": "2025",
         "genres": [
           "Post-Black Metal",
-          "Progressive Post-metal",
-          "Post-black Metal"
+          "Progressive Post-Metal"
         ]
       }
     ],
     "tags": [
       "Post-Black Metal",
-      "Progressive Post-metal",
-      "Post-black Metal"
+      "Progressive Post-Metal"
     ]
   },
   {
@@ -3849,7 +3845,7 @@
         "year": "1995",
         "genres": [
           "Rock",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3904,7 +3900,7 @@
     ],
     "tags": [
       "Death Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -3953,13 +3949,15 @@
         "year": "2026",
         "genres": [
           "Brutal Death Metal",
-          "Hardcore | Slam Brutal Death Metal"
+          "Hardcore",
+          "Slam Brutal Death Metal"
         ]
       }
     ],
     "tags": [
       "Brutal Death Metal",
-      "Hardcore | Slam Brutal Death Metal"
+      "Hardcore",
+      "Slam Brutal Death Metal"
     ]
   },
   {
@@ -3993,64 +3991,64 @@
         "name": "Big Sexy Land",
         "year": "1986",
         "genres": [
-          "Industrial Metal",
-          "Ebm"
+          "Industrial",
+          "EBM"
         ]
       },
       {
         "name": "Beers, Steers, And Queers",
         "year": "1990",
         "genres": [
-          "Industrial Metal",
-          "Ebm"
+          "Industrial",
+          "EBM"
         ]
       },
       {
         "name": "Linger Ficken' Good",
         "year": "1993",
         "genres": [
-          "Industrial Metal",
-          "Ebm"
+          "Industrial",
+          "EBM"
         ]
       },
       {
         "name": "Cocked And Loaded",
         "year": "2006",
         "genres": [
-          "Industrial Metal",
-          "Ebm"
+          "Industrial",
+          "EBM"
         ]
       },
       {
         "name": "Cocktail Mixxx",
         "year": "2007",
         "genres": [
-          "Industrial Metal",
-          "Ebm"
+          "Industrial",
+          "EBM"
         ]
       },
       {
         "name": "Sex-o Mixxx-o",
         "year": "2009",
         "genres": [
-          "Industrial Metal",
-          "Ebm"
+          "Industrial",
+          "EBM"
         ]
       },
       {
         "name": "Sex-o Olympic-o",
         "year": "2009",
         "genres": [
-          "Industrial Metal",
-          "Ebm"
+          "Industrial",
+          "EBM"
         ]
       },
       {
         "name": "Got Cock?",
         "year": "2010",
         "genres": [
-          "Industrial Metal",
-          "Ebm"
+          "Industrial",
+          "EBM"
         ]
       },
       {
@@ -4062,8 +4060,8 @@
       }
     ],
     "tags": [
-      "Industrial Metal",
-      "Ebm",
+      "Industrial",
+      "EBM",
       "Metal"
     ]
   },
@@ -4076,21 +4074,21 @@
         "name": "Rhema",
         "year": "2006",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Equinox",
         "year": "2012",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Decretum",
         "year": "2016",
         "genres": [
-          "Symphonic Gothic"
+          "Symphonic Gothic Metal"
         ]
       },
       {
@@ -4105,8 +4103,8 @@
     "tags": [
       "Blackened Death Metal",
       "Symphonic Black Metal",
-      "Melodic Power",
-      "Symphonic Gothic"
+      "Melodic Power Metal",
+      "Symphonic Gothic Metal"
     ]
   },
   {
@@ -4431,7 +4429,7 @@
         "name": "Routine Breathing",
         "year": "2015",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4444,7 +4442,7 @@
     ],
     "tags": [
       "Thrash Metal",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -4702,7 +4700,7 @@
         "name": "Icu",
         "year": "2025",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Nu Metal",
           "Electronic",
           "Deathcore"
@@ -4712,7 +4710,7 @@
     "tags": [
       "Deathcore",
       "Metalcore",
-      "Hardcore Metal",
+      "Hardcore",
       "Nu Metal",
       "Electronic"
     ]
@@ -5199,7 +5197,7 @@
         "genres": [
           "Indie Rock",
           "Pop Rock",
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Pop",
           "Rock"
@@ -5209,7 +5207,7 @@
     "tags": [
       "Indie Rock",
       "Pop Rock",
-      "Electro Metal",
+      "Electro",
       "Electronic",
       "Pop",
       "Rock"
@@ -5239,19 +5237,19 @@
         "name": "Venus Victrix I",
         "year": "2014",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Woe To The Vanquished",
         "year": "2014",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Doom"
+      "Psychedelic Doom Metal"
     ]
   },
   {
@@ -5473,20 +5471,20 @@
         "name": "Fear Of Infinity",
         "year": "2011",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Suspended At Aphelion",
         "year": "2014",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {

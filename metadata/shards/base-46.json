@@ -46,15 +46,15 @@
         "name": "Solace",
         "year": "2014",
         "genres": [
-          "Hardcore Metal",
-          "Post Rock"
+          "Hardcore",
+          "Post-Rock"
         ]
       },
       {
         "name": "In Sickness & Health",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Alternative Rock",
           "Melodic Hardcore"
         ]
@@ -64,7 +64,7 @@
         "year": "2019",
         "genres": [
           "Melodic Hardcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -72,14 +72,14 @@
         "year": "2019",
         "genres": [
           "Melodic Hardcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Burning Throne",
         "year": "2023",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -87,7 +87,7 @@
         "year": "2024",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -95,7 +95,7 @@
         "year": "2024",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -103,7 +103,7 @@
         "year": "2024",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -111,7 +111,7 @@
         "year": "2025",
         "genres": [
           "Electronic",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -119,19 +119,19 @@
         "year": "2025",
         "genres": [
           "Electronic",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Electronic",
-      "Hardcore Metal",
+      "Hardcore",
       "Alternative Rock",
       "Melodic Hardcore",
       "Folk, World, & Country",
-      "Post Rock",
+      "Post-Rock",
       "Rock"
     ]
   },
@@ -159,12 +159,12 @@
         "name": "The Great Burst Of Light",
         "year": "2021",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Death"
+      "Atmospheric Death Metal"
     ]
   },
   {
@@ -179,7 +179,7 @@
           "Funk / Soul",
           "Neo Soul",
           "Hip Hop",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       },
       {
@@ -188,7 +188,7 @@
         "genres": [
           "Funk / Soul",
           "Neo Soul",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       },
       {
@@ -197,7 +197,7 @@
         "genres": [
           "Funk / Soul",
           "Neo Soul",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       },
       {
@@ -206,7 +206,7 @@
         "genres": [
           "Funk / Soul",
           "Neo Soul",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       },
       {
@@ -229,7 +229,7 @@
       "Funk / Soul",
       "Neo Soul",
       "Pop",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Hip Hop"
     ]
   },
@@ -642,24 +642,24 @@
         "name": "Bewitcher",
         "year": "2016",
         "genres": [
-          "Blackened Speed",
-          "Blackened Heavy"
+          "Blackened Speed Metal",
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Under The Witching Cross",
         "year": "2019",
         "genres": [
-          "Blackened Speed",
-          "Blackened Heavy"
+          "Blackened Speed Metal",
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Cursed Be Thy Kingdom",
         "year": "2021",
         "genres": [
-          "Blackened Speed",
-          "Blackened Heavy"
+          "Blackened Speed Metal",
+          "Blackened Heavy Metal"
         ]
       },
       {
@@ -691,8 +691,8 @@
         "name": "Spell Shock",
         "year": "2024",
         "genres": [
-          "Blackened Speed",
-          "Blackened Heavy"
+          "Blackened Speed Metal",
+          "Blackened Heavy Metal"
         ]
       },
       {
@@ -706,8 +706,8 @@
       }
     ],
     "tags": [
-      "Blackened Speed",
-      "Blackened Heavy",
+      "Blackened Speed Metal",
+      "Blackened Heavy Metal",
       "Black Metal",
       "Speed Metal",
       "Thrash Metal",
@@ -723,7 +723,7 @@
         "name": "Stagmata",
         "year": "2021",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
@@ -733,7 +733,7 @@
       }
     ],
     "tags": [
-      "Psychedelic Doom"
+      "Psychedelic Doom Metal"
     ]
   },
   {
@@ -954,13 +954,13 @@
         "year": "2001",
         "genres": [
           "Electronic",
-          "Uk Garage"
+          "UK Garage"
         ]
       }
     ],
     "tags": [
       "Electronic",
-      "Uk Garage"
+      "UK Garage"
     ]
   },
   {
@@ -1476,26 +1476,26 @@
         "name": "Nocte Sabbathi: A Tribute To Black Sabbath",
         "year": "2019",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Apulia Patria Mea",
         "year": "2020",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Rudias Dei Peucetii: Patria Mea",
         "year": "2020",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Heavy"
+      "Blackened Heavy Metal"
     ]
   },
   {
@@ -1587,7 +1587,7 @@
         "genres": [
           "Alternative Metal",
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1602,7 +1602,7 @@
       "Alternative",
       "Alternative Metal",
       "Metalcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1615,7 +1615,7 @@
         "year": "1978",
         "genres": [
           "New Age",
-          "Ambient Metal",
+          "Ambient",
           "Electronic",
           "Classical",
           "Folk, World, & Country"
@@ -1627,16 +1627,16 @@
         "genres": [
           "Classical",
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Classical",
       "Folk, World, & Country",
-      "Folk Metal",
+      "Folk",
       "New Age",
-      "Ambient Metal",
+      "Ambient",
       "Electronic"
     ]
   },
@@ -1756,19 +1756,19 @@
         "name": "Illusory World",
         "year": "2013",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "King",
         "year": "2018",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -2173,12 +2173,12 @@
         "year": "2012",
         "genres": [
           "Pop Rock",
-          "Contemporary R&b",
-          "Electro Metal",
+          "Contemporary R&B",
+          "Electro",
           "Electronic",
           "Dubstep",
           "Hip Hop",
-          "Drum N Bass",
+          "Drum & Bass",
           "Grime",
           "Rock",
           "Pop",
@@ -2197,12 +2197,12 @@
     ],
     "tags": [
       "Pop Rock",
-      "Contemporary R&b",
-      "Electro Metal",
+      "Contemporary R&B",
+      "Electro",
       "Electronic",
       "Dubstep",
       "Hip Hop",
-      "Drum N Bass",
+      "Drum & Bass",
       "Grime",
       "Rock",
       "Pop",
@@ -2387,7 +2387,7 @@
         "year": "1982",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2395,7 +2395,7 @@
         "year": "1983",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2403,7 +2403,7 @@
         "year": "1984",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2411,7 +2411,7 @@
         "year": "1984",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2419,7 +2419,7 @@
         "year": "1987",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2427,7 +2427,7 @@
         "year": "1988",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2435,7 +2435,7 @@
         "year": "1992",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2443,7 +2443,7 @@
         "year": "1996",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2451,7 +2451,7 @@
         "year": "2002",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2459,7 +2459,7 @@
         "year": "2002",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2467,7 +2467,7 @@
         "year": "2006",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2475,7 +2475,7 @@
         "year": "2007",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2483,7 +2483,7 @@
         "year": "2009",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2491,7 +2491,7 @@
         "year": "2010",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2499,7 +2499,7 @@
         "year": "2012",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2507,7 +2507,7 @@
         "year": "2014",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2515,7 +2515,7 @@
         "year": "2019",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2523,13 +2523,13 @@
         "year": "2022",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -2557,28 +2557,28 @@
         "name": "The Assembly Of Tyrants",
         "year": "2005",
         "genres": [
-          "Industrial Symphonic"
+          "Industrial Symphonic Metal"
         ]
       },
       {
         "name": "Tyrannical Resurrection",
         "year": "2007",
         "genres": [
-          "Industrial Symphonic"
+          "Industrial Symphonic Metal"
         ]
       },
       {
         "name": "Conqueror",
         "year": "2011",
         "genres": [
-          "Industrial Symphonic"
+          "Industrial Symphonic Metal"
         ]
       },
       {
         "name": "Empyrean",
         "year": "2013",
         "genres": [
-          "Industrial Symphonic"
+          "Industrial Symphonic Metal"
         ]
       },
       {
@@ -2593,63 +2593,63 @@
         "name": "Xenon",
         "year": "2014",
         "genres": [
-          "Industrial Symphonic"
+          "Industrial Symphonic Metal"
         ]
       },
       {
         "name": "Acheron",
         "year": "2015",
         "genres": [
-          "Industrial Symphonic"
+          "Industrial Symphonic Metal"
         ]
       },
       {
         "name": "Progenitor",
         "year": "2016",
         "genres": [
-          "Industrial Symphonic"
+          "Industrial Symphonic Metal"
         ]
       },
       {
         "name": "As Embers Turn To Dust",
         "year": "2017",
         "genres": [
-          "Industrial Symphonic"
+          "Industrial Symphonic Metal"
         ]
       },
       {
         "name": "Telesterion",
         "year": "2019",
         "genres": [
-          "Industrial Symphonic"
+          "Industrial Symphonic Metal"
         ]
       },
       {
         "name": "Siege",
         "year": "2021",
         "genres": [
-          "Industrial Symphonic"
+          "Industrial Symphonic Metal"
         ]
       },
       {
         "name": "Venator",
         "year": "2022",
         "genres": [
-          "Industrial Symphonic"
+          "Industrial Symphonic Metal"
         ]
       },
       {
         "name": "Cenotaph",
         "year": "2023",
         "genres": [
-          "Industrial Symphonic"
+          "Industrial Symphonic Metal"
         ]
       },
       {
         "name": "Bellum Interruptum",
         "year": "2025",
         "genres": [
-          "Industrial Symphonic"
+          "Industrial Symphonic Metal"
         ]
       },
       {
@@ -2663,7 +2663,7 @@
       }
     ],
     "tags": [
-      "Industrial Symphonic",
+      "Industrial Symphonic Metal",
       "Heavy Metal",
       "Industrial Metal",
       "Symphonic Djent",
@@ -2953,12 +2953,12 @@
         "name": "No Flame No Sense",
         "year": "2011",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -3576,61 +3576,61 @@
         "name": "Need So Much Attention",
         "year": "1984",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Burial Mai So",
         "year": "1987",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Now That I Have The Attention What Do I Do With It?",
         "year": "1987",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Kichigai",
         "year": "1988",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Somewhere In Time",
         "year": "1988",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Daymare",
         "year": "1992",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Theme From Ozo Bozo",
         "year": "1992",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Uncontrollable Proof",
         "year": "1999",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4001,13 +4001,13 @@
         "year": "2022",
         "genres": [
           "Heavy Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -4645,7 +4645,7 @@
         "name": "The Cosmic Escape Of Admiral Masuka",
         "year": "2011",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal"
         ]
       },
@@ -4653,7 +4653,7 @@
         "name": "The Eternal Drift's Canticles",
         "year": "2016",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal"
         ]
       },
@@ -4661,7 +4661,7 @@
         "name": "Astral Sabbath",
         "year": "2019",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal"
         ]
       },
@@ -4672,7 +4672,7 @@
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Sludge Metal"
     ]
   },

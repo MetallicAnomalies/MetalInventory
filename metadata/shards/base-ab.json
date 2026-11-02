@@ -111,7 +111,7 @@
         "year": "2011",
         "genres": [
           "Metalcore",
-          "Experimental Thrash"
+          "Experimental Thrash Metal"
         ]
       },
       {
@@ -119,13 +119,13 @@
         "year": "2013",
         "genres": [
           "Metalcore",
-          "Experimental Thrash"
+          "Experimental Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Experimental Thrash"
+      "Experimental Thrash Metal"
     ]
   },
   {
@@ -136,12 +136,12 @@
         "name": "Waves Of Human Suffering",
         "year": "2008",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -152,19 +152,19 @@
         "name": "Engraved Power",
         "year": "2020",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Hollowed Lake",
         "year": "2020",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -307,7 +307,7 @@
         "name": "Acosados Nuestros Indios Murieron Al Luchar",
         "year": "1993",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Alternative",
           "Heavy Metal"
         ]
@@ -316,7 +316,7 @@
         "name": "Fin De Un Mundo Enfermo",
         "year": "1994",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Alternative"
         ]
       },
@@ -324,7 +324,7 @@
         "name": "El Nuevo Camino Del Hombre",
         "year": "1996",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Alternative"
         ]
       },
@@ -332,7 +332,7 @@
         "name": "Poder Latino",
         "year": "1998",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Alternative",
           "Nu Metal"
         ]
@@ -341,7 +341,7 @@
         "name": "Usa Toda Tu Fuerza",
         "year": "1999",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Alternative",
           "Nu Metal"
         ]
@@ -350,7 +350,7 @@
         "name": "Animal 6",
         "year": "2001",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Alternative",
           "Nu Metal"
         ]
@@ -366,7 +366,7 @@
         "name": "Combativo",
         "year": "2004",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Alternative",
           "Nu Metal"
         ]
@@ -389,7 +389,7 @@
         "name": "Una Razón Para Seguir",
         "year": "2018",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Alternative"
         ]
       },
@@ -397,7 +397,7 @@
         "name": "íNtimo Extremo - 30 Años",
         "year": "2022",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Alternative"
         ]
       },
@@ -405,13 +405,13 @@
         "name": "Legado",
         "year": "2025",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Alternative"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Alternative",
       "Nu Metal",
       "Heavy Metal"
@@ -425,33 +425,33 @@
         "name": "No Boundaries",
         "year": "2002",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Beginning Of The New Legend",
         "year": "2003",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "The Everlasting Wheel",
         "year": "2004",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Voyage Of The Rage",
         "year": "2018",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -553,7 +553,7 @@
         "genres": [
           "Electronic",
           "Deathcore",
-          "Electro Metal"
+          "Electro"
         ]
       },
       {
@@ -569,7 +569,7 @@
         "genres": [
           "Electronic",
           "Deathcore",
-          "Electro Metal"
+          "Electro"
         ]
       },
       {
@@ -578,7 +578,7 @@
         "genres": [
           "Electronic",
           "Deathcore",
-          "Electro Metal"
+          "Electro"
         ]
       },
       {
@@ -600,7 +600,7 @@
       "Metalcore",
       "Electronic",
       "Deathcore",
-      "Electro Metal"
+      "Electro"
     ]
   },
   {
@@ -737,26 +737,26 @@
         "name": "Spread Your Wings",
         "year": "2005",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Holy And Bright",
         "year": "2007",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Force Of Glory",
         "year": "2009",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Power"
+      "Melodic Power Metal"
     ]
   },
   {
@@ -1767,7 +1767,6 @@
         "year": "2026",
         "genres": [
           "Metalcore",
-          "Metal",
           "Industrial Metal"
         ]
       },
@@ -1781,7 +1780,6 @@
     ],
     "tags": [
       "Metalcore",
-      "Metal",
       "Industrial Metal"
     ]
   },
@@ -1801,7 +1799,7 @@
         "year": "2015",
         "genres": [
           "Deathcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Folk Metal"
         ]
       },
@@ -1810,7 +1808,7 @@
         "year": "2018",
         "genres": [
           "Deathcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Folk Metal"
         ]
       },
@@ -1819,16 +1817,15 @@
         "year": "2019",
         "genres": [
           "Deathcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Folk Metal"
         ]
       }
     ],
     "tags": [
       "Deathcore",
-      "Hardcore Metal",
-      "Folk Metal",
-      "Metal"
+      "Hardcore",
+      "Folk Metal"
     ]
   },
   {
@@ -2082,7 +2079,7 @@
         "name": "The Turns",
         "year": "1997",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Doom Metal"
         ]
       },
@@ -2090,7 +2087,7 @@
         "name": "The Eerie",
         "year": "1998",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Doom Metal"
         ]
       },
@@ -2098,7 +2095,7 @@
         "name": "Steel Says Last",
         "year": "2011",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Doom Metal"
         ]
       },
@@ -2106,13 +2103,13 @@
         "name": "Roll Out",
         "year": "2013",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Pagan Folk",
+      "Pagan Folk Metal",
       "Doom Metal"
     ]
   },
@@ -2161,19 +2158,19 @@
         "name": "Primordial Principles | Fundamental Forces",
         "year": "2019",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "Bones To Harvest",
         "year": "2023",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death"
+      "Death Doom Metal"
     ]
   },
   {
@@ -2220,13 +2217,13 @@
         "name": "The Goswell Divorce",
         "year": "2009",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Deathcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Deathcore"
     ]
   },
@@ -2574,9 +2571,8 @@
         "name": "Larks Tongues In Aspic",
         "year": "1973",
         "genres": [
-          "Prog Rock",
-          "Rock",
-          "Progressive Rock"
+          "Progressive Rock",
+          "Rock"
         ]
       },
       {
@@ -2626,10 +2622,9 @@
         "year": "1974",
         "genres": [
           "Art Rock",
-          "Experimental Metal",
-          "Prog Rock",
-          "Rock",
-          "Progressive Rock"
+          "Experimental",
+          "Progressive Rock",
+          "Rock"
         ]
       },
       {
@@ -2719,10 +2714,9 @@
     ],
     "tags": [
       "Progressive Rock",
-      "Prog Rock",
       "Rock",
       "Art Rock",
-      "Experimental Metal"
+      "Experimental"
     ]
   },
   {
@@ -2827,13 +2821,13 @@
         "name": "Triumph And Glory",
         "year": "2012",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Heavy Metal"
     ]
   },
@@ -3009,7 +3003,7 @@
         "name": "Demo",
         "year": "2000",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Math Rock"
         ]
       },
@@ -3017,14 +3011,14 @@
         "name": "Lifesblood",
         "year": "2001",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "Slick Leg",
         "year": "2001",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
@@ -3039,28 +3033,28 @@
         "name": "Remission",
         "year": "2002",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "March Of The Fire Ants",
         "year": "2003",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "Leviathan",
         "year": "2004",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "Lifesblood [Ep]",
         "year": "2004",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Math Rock"
         ]
       },
@@ -3068,7 +3062,7 @@
         "name": "Blood Mountain",
         "year": "2006",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
@@ -3076,7 +3070,7 @@
         "year": "2006",
         "genres": [
           "Heavy Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Math Rock",
           "Progressive Metal"
         ]
@@ -3095,7 +3089,7 @@
         "year": "2006",
         "genres": [
           "Heavy Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Math Rock",
           "Progressive Metal"
         ]
@@ -3104,14 +3098,14 @@
         "name": "Crack The Skye",
         "year": "2009",
         "genres": [
-          "Progressive Stoner"
+          "Progressive Stoner Metal"
         ]
       },
       {
         "name": "Oblivion Ep",
         "year": "2009",
         "genres": [
-          "Progressive Stoner"
+          "Progressive Stoner Metal"
         ]
       },
       {
@@ -3119,7 +3113,7 @@
         "year": "2010",
         "genres": [
           "Heavy Metal",
-          "Prog Rock",
+          "Progressive Rock",
           "Soundtrack",
           "Stage & Screen"
         ]
@@ -3128,7 +3122,7 @@
         "name": "Jonah Hex: Revenge Gets Ugly",
         "year": "2010",
         "genres": [
-          "Progressive Stoner"
+          "Progressive Stoner Metal"
         ]
       },
       {
@@ -3136,7 +3130,7 @@
         "year": "2011",
         "genres": [
           "Stoner Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3144,7 +3138,7 @@
         "name": "The Hunter",
         "year": "2011",
         "genres": [
-          "Progressive Stoner"
+          "Progressive Stoner Metal"
         ]
       },
       {
@@ -3159,9 +3153,9 @@
         "name": "Once More Round The Sun",
         "year": "2014",
         "genres": [
-          "Progressive Stoner",
+          "Progressive Stoner Metal",
           "Sludge Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3176,14 +3170,14 @@
         "name": "Cold Dark Place",
         "year": "2017",
         "genres": [
-          "Progressive Stoner"
+          "Progressive Stoner Metal"
         ]
       },
       {
         "name": "Emperor Of Sand",
         "year": "2017",
         "genres": [
-          "Progressive Stoner"
+          "Progressive Stoner Metal"
         ]
       },
       {
@@ -3207,7 +3201,7 @@
         "year": "2017",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3223,7 +3217,7 @@
         "name": "Hushed And Grim",
         "year": "2021",
         "genres": [
-          "Progressive Stoner"
+          "Progressive Stoner Metal"
         ]
       },
       {
@@ -3265,20 +3259,19 @@
       }
     ],
     "tags": [
-      "Progressive Stoner",
-      "Progressive Sludge",
+      "Progressive Stoner Metal",
+      "Progressive Sludge Metal",
       "Sludge Metal",
       "Progressive Metal",
       "Heavy Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Math Rock",
       "Stoner Rock",
       "Groove Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Soundtrack",
       "Stage & Screen",
-      "Rock",
-      "Progressive Sludge Metal"
+      "Rock"
     ]
   },
   {
@@ -3340,2581 +3333,2581 @@
         "name": "Fuckexercise",
         "year": "1980",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Collection 002",
         "year": "1981",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Collection 004",
         "year": "1981",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Collection 007",
         "year": "1981",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Collection:001",
         "year": "1981",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Collection:003",
         "year": "1981",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Collection:006",
         "year": "1981",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Collection:008",
         "year": "1981",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Collection:009",
         "year": "1981",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Collection:010",
         "year": "1981",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Material Action For 2 Microphones",
         "year": "1981",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Metal Acoustic Music",
         "year": "1981",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Remblandt Assemblage",
         "year": "1981",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Expanded Music 1",
         "year": "1982",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Expanded Music 2",
         "year": "1982",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Lowest Music 2",
         "year": "1982",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merz / Lowest Music",
         "year": "1982",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Normal Music",
         "year": "1982",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Solonoise 1",
         "year": "1982",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Solonoise 2",
         "year": "1982",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Tatoo Junk",
         "year": "1982",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Tridal Production",
         "year": "1982",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Yantra Material Action",
         "year": "1982",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Dying Mapa I",
         "year": "1983",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Dying Mapa Ii",
         "year": "1983",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Dying Mapa Iii",
         "year": "1983",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Kibbutz",
         "year": "1983",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Le Cuisinier",
         "year": "1983",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Material Action 2 N.a.m.",
         "year": "1983",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Mechanization Takes Command",
         "year": "1983",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Mondo Bizzaro",
         "year": "1983",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Musick From Simulation World",
         "year": "1983",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Worker Machine",
         "year": "1983",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Yahatahachiman",
         "year": "1983",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Aerovivanda #1",
         "year": "1984",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Aerovivanda #2",
         "year": "1984",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Age Of 369",
         "year": "1984",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Aka Meme",
         "year": "1984",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Chant",
         "year": "1984",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Das",
         "year": "1984",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Deus Irae",
         "year": "1984",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Disembody",
         "year": "1984",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Pornoise / Extra",
         "year": "1984",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Régalade",
         "year": "1984",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Sonic Command",
         "year": "1984",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Chant 2",
         "year": "1985",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Live Performance Feb. 85",
         "year": "1985",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Nil Vagina Mail-action",
         "year": "1985",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Sadomasochismo",
         "year": "1985",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "The Lampinak",
         "year": "1985",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Ushi-tra",
         "year": "1985",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Antimonument",
         "year": "1986",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Batztoutai With Memorial Gadgets",
         "year": "1986",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "A Collaboration Tape",
         "year": "1987",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Ecobondage",
         "year": "1987",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Enclosure",
         "year": "1987",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merzbowkapottemuziek",
         "year": "1987",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Pornoise 1 Kg",
         "year": "1987",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "The Haters+merzbow",
         "year": "1987",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Vratya Southward",
         "year": "1987",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Collaborative",
         "year": "1988",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Crocidura Dsi Nezumi",
         "year": "1988",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Storage",
         "year": "1988",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Flesh Metal Orgasm",
         "year": "1989",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Je Rumpelsturz Desto Burzelblock",
         "year": "1989",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "The Time Stream",
         "year": "1989",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Cloud Cock Oo Grand",
         "year": "1990",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Documentation / Collaboration",
         "year": "1990",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Fifty",
         "year": "1990",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Rainbow Electronics",
         "year": "1990",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Ars Elektroica",
         "year": "1991",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Artificial Invagination",
         "year": "1991",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Grav",
         "year": "1991",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Hannover Interruption",
         "year": "1991",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Music For Bondage Performance",
         "year": "1991",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "干渉ハノーバー",
         "year": "1991",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Metal Mad Man",
         "year": "1992",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Recycled",
         "year": "1992",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Batztoutai With Material Gadgets",
         "year": "1993",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Metalvelodrome",
         "year": "1993",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Neo Orgasm",
         "year": "1993",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Nil Vagina For Mice",
         "year": "1993",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Rod Drug 93",
         "year": "1993",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Sleeper Awakes On The Edge Of The Abyss",
         "year": "1993",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Sniper",
         "year": "1993",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Electroploitation",
         "year": "1994",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Flare Gun",
         "year": "1994",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Hole",
         "year": "1994",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merzbow / John Goff",
         "year": "1994",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Music For Man With No Name",
         "year": "1994",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Noisembryo",
         "year": "1994",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "The Science Of Dissecting Society",
         "year": "1994",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Venereology",
         "year": "1994",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "White Blues",
         "year": "1994",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Coruscanto - きらめく",
         "year": "1995",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Dadarottenvator",
         "year": "1995",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Electroknots",
         "year": "1995",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Green Wheels",
         "year": "1995",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Horn Of The Goat",
         "year": "1995",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Music For The Dead Man 2: Return Of The Dead Man",
         "year": "1995",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Wakantanka / Aboriginie Of Anniversary 50 Years After War",
         "year": "1995",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Whizzerbait",
         "year": "1995",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Brisbane ? Tokyo Interlace",
         "year": "1996",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Electric Salad",
         "year": "1996",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Magnesia Nova",
         "year": "1996",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Mercurated",
         "year": "1996",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merzbow Loves Emil Beaulieau",
         "year": "1996",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Music For Bondage Performance 2",
         "year": "1996",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Oersted",
         "year": "1996",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Pinkream",
         "year": "1996",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Project Frequency",
         "year": "1996",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Pulse Demon",
         "year": "1996",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Rainbow Electronics 2",
         "year": "1996",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Red 2 Eyes",
         "year": "1996",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Seven Inches Inside Vagina",
         "year": "1996",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Spiral Honey",
         "year": "1996",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Hybrid Noisebloom",
         "year": "1997",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merzbow Mixed Total",
         "year": "1997",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Space Metalizer",
         "year": "1997",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "1930",
         "year": "1998",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Aqua Necromancer",
         "year": "1998",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Balance",
         "year": "1998",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Maschinenstil",
         "year": "1998",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "New Takamagahara",
         "year": "1998",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Psychorazer",
         "year": "1998",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Tauromachine",
         "year": "1998",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Vibractance",
         "year": "1998",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "A Perfect Pain",
         "year": "1999",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Blues Maggots",
         "year": "1999",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Door Open At 8 Am",
         "year": "1999",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Happenings 1000 Years Time Ago",
         "year": "1999",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Paradise Pachinko",
         "year": "1999",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Tentacle",
         "year": "1999",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Collapse 12 Floors",
         "year": "2000",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Dharma",
         "year": "2001",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Frog",
         "year": "2001",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Hard Lovin' Man",
         "year": "2001",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Hummingbird",
         "year": "2001",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Live At Molde International Jazz Festival",
         "year": "2001",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Puroland",
         "year": "2001",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "24 Hours - A Day Of Seals",
         "year": "2002",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "A Taste Of...",
         "year": "2002",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Amlux",
         "year": "2002",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Fantail",
         "year": "2002",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Ikebukuro Dada",
         "year": "2002",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merzbeat",
         "year": "2002",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merzzow",
         "year": "2002",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Animal Magnetism",
         "year": "2003",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Cycle",
         "year": "2003",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Scsi Duck",
         "year": "2003",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Timehunter",
         "year": "2003",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "V",
         "year": "2003",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "1633",
         "year": "2004",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Electro Magnetic Unit",
         "year": "2004",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merzbird",
         "year": "2004",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Mini Cycle / Yoshino Tamago / Yonos Bigfoot",
         "year": "2004",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Nordvargr",
         "year": "2004",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Offering",
         "year": "2004",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Oumagatoki",
         "year": "2004",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Rondo / 7phases / Blowback",
         "year": "2004",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Sha Mo 3000",
         "year": "2004",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Tamago",
         "year": "2004",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "The Ten Foot Square Hut",
         "year": "2004",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Yoshinotsune",
         "year": "2004",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Bariken",
         "year": "2005",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Dust Of Dreams",
         "year": "2005",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Early Computer Works",
         "year": "2005",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Free Piano B/w Hypersomnia",
         "year": "2005",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merzbuddha",
         "year": "2005",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merzbuta",
         "year": "2005",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Multiplication",
         "year": "2005",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Rattus Rattus",
         "year": "2005",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Scene",
         "year": "2005",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Senmaida",
         "year": "2005",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Sphere",
         "year": "2005",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Black Bone, Part 5",
         "year": "2006",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Bloody Sea",
         "year": "2006",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "F.i.d.",
         "year": "2006",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merzdub",
         "year": "2006",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Metamorphism",
         "year": "2006",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Minazo Vol. 1",
         "year": "2006",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Minazo Vol. 2",
         "year": "2006",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Turmeric",
         "year": "2006",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Coma Berenices",
         "year": "2007",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Higanbana",
         "year": "2007",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merzbear",
         "year": "2007",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Peace For Animals",
         "year": "2007",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Zophorus",
         "year": "2007",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Annica",
         "year": "2008",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Dead Leaves",
         "year": "2008",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Dolphin Sonar",
         "year": "2008",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Eucalypse",
         "year": "2008",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Here",
         "year": "2008",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Hodosan",
         "year": "2008",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Keio Line",
         "year": "2008",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Porn",
         "year": "2008",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Protean World",
         "year": "2008",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Tombo",
         "year": "2008",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Camouflage",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Don't Steal My Coat",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "E-study",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Fukurou: 13 Japanese Birds Pt. 2",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Hiranya",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Hiyodori: 13 Japanese Birds Pt. 9",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Kamo: 13 Japanese Birds Pt. 6",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Karasu: 13 Japanese Birds Pt. 4",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Kokuchou: 13 Japanese Birds Pt. 8",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Kujakubato: 13 Japanese Birds Pt. 7",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Microkosmos | Volume 1",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Niwatori: 13 Japanese Birds Pt. 10",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Shirasagi: 13 Japanese Birds Pt. 11",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Somei...",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Suzume: 13 Japanese Birds Pt. 1",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Tempi / Matatabi",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Tsubame: 13 Japanese Birds Pt. 12",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Uzura: 13 Japanese Birds Pt. 5",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Yurikamome: 13 Japanese Birds Pt. 3",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "9888a",
         "year": "2010",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Chabo: 13 Japanese Birds Pt. 13",
         "year": "2010",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Graft",
         "year": "2010",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Marmo",
         "year": "2010",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Ouroboros",
         "year": "2010",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Spiral Right / Spiral Left",
         "year": "2010",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Untitled Nov 1989",
         "year": "2010",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "April 1992",
         "year": "2011",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Dead Zone",
         "year": "2011",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Jigokuhen",
         "year": "2011",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Kamadhenu",
         "year": "2011",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Lop Lop",
         "year": "2011",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Paris 2008",
         "year": "2011",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Rhizome",
         "year": "2011",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Surabhi",
         "year": "2011",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Variations For Electric Fan",
         "year": "2011",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Yaho-niva",
         "year": "2011",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Zara",
         "year": "2011",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Gman//hjyugtf2",
         "year": "2012",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Katowice",
         "year": "2012",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Kibako",
         "year": "2012",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Ko To No O To",
         "year": "2012",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Mer Mar",
         "year": "2012",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merzbuddha Variations",
         "year": "2012",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Oat",
         "year": "2012",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Uzu Me Ku",
         "year": "2012",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Cat's Squirrel",
         "year": "2013",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Cuts",
         "year": "2013",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Grand Owl Habitat",
         "year": "2013",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merzbow Meets M.b.",
         "year": "2013",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "No Closure",
         "year": "2013",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Samidara",
         "year": "2013",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Takahe Collage",
         "year": "2013",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Tamayodo",
         "year": "2013",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Nezumimochi",
         "year": "2014",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Pulse Vegan",
         "year": "2014",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Amalgamelody",
         "year": "2015",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Cuts Of Guilt, Cuts Deeper",
         "year": "2015",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Flying Basket",
         "year": "2015",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Konchuuki",
         "year": "2015",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merzxiu",
         "year": "2015",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Wildwood",
         "year": "2015",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Atsusaku",
         "year": "2016",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Dualthm",
         "year": "2016",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Escape Mask",
         "year": "2016",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Hanakisasage",
         "year": "2016",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Hatobana",
         "year": "2016",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Kakapo",
         "year": "2016",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Strange City",
         "year": "2016",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Thisrhythmia",
         "year": "2016",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "迷惑をかけない無防備 = An Untroublesome Defencelessness",
         "year": "2016",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "1.10.16",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "3rensa",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "3rensa Fb01",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Alessandro Cortini And Merzbow",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Aodron",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Eureka Moment",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Gomata",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Hyakki Echo",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Kaoscitron",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Muen",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Tomarigi",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Torus",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Wildwood Ii",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "3rensa Fb02",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "3rensa Fb03",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "3rensa Fb04",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "3rensa Fb05",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Achromatic",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Cretin Merz",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Exoking",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Hyper Music 1 Vol. 1",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "L'age D'or",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Le Sang Et La Rose",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merzbow Duo 86 + 89",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Monoakuma",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Musick For Screen",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Scissors For Cutting Merzbow",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": ") Mmvii",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Agni Hotra",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Antimonument Tapes",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Antimony",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Batztoutai Mix",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Coastal Erosion",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Crash For Hi-fi Tapes",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "De-soundtrack",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Dead Lotus",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Environmental Percussion Vol. 1",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Environmental Percussion Vol. 2",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Hermerzaphrodites",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Indigo Dada",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Jinrinkinmouzui",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Kaerutope",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Material H2",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Noise Mass",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Travelling",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Untitled 1991 Vol. 1",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Untitled 1991 Vol. 2",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Untitled 1991 Vol. 3",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "мерцбау и балаж панди",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Black Rome",
         "year": "2020",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Broken Landscapes",
         "year": "2020",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Cuts Open",
         "year": "2020",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Electric Union",
         "year": "2020",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Exd",
         "year": "2020",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Merzbird Variation",
         "year": "2020",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Mukogenerator",
         "year": "2020",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Plasma Door",
         "year": "2020",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Screaming Dove",
         "year": "2020",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Spring Harp-o",
         "year": "2020",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "15 August 2006",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "27 August 2006",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Arijigoku",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Bit Blues",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Black Crows Cyborg",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Bloodour",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Coma Test",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Double Beat Sequencer Vol.1",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Double Beat Sequencer Vol.2",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Double Beat Sequencer Vol.3",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Double Beat Sequencer Vol.4",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Double Beat Sequencer Vol.5",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Double Beat Sequencer Vol.6",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Drumorph",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Ensemble Drums",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Faltered Pursuit",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Feedback Purple Yellow",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Flare Blues",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Gman+",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Groon Lesson",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Hikaru Hane",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Insect 801",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Kazakiribane",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Kotorhizome",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Mukomodulator",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Pi-eggplant",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Red Brick",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Scandal",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Sugamo Flower",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Triwave Pagoda",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Yono's Journey",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "雲の絶対値 Kumo No Zettaichi",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Beetle",
         "year": "2022",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Hope",
         "year": "2022",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Janus Guitar",
         "year": "2022",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Persimmon Mask",
         "year": "2022",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Purple Fish",
         "year": "2022",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Seven Sides",
         "year": "2022",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "White Bird",
         "year": "2022",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Catalysis 猫媒",
         "year": "2023",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Noise Matrix",
         "year": "2023",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       }
     ],
     "tags": [
-      "Noise Metal"
+      "Noise"
     ]
   },
   {
@@ -5977,7 +5970,7 @@
         "year": "1999",
         "genres": [
           "Hip Hop",
-          "Electro Metal"
+          "Electro"
         ]
       },
       {
@@ -5985,7 +5978,7 @@
         "year": "2001",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Electronic",
           "Hip Hop",
           "Pop Rap"
@@ -6001,9 +5994,9 @@
     ],
     "tags": [
       "Hip Hop",
-      "Electro Metal",
+      "Electro",
       "Funk / Soul",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Electronic",
       "Pop Rap"
     ]
@@ -6091,13 +6084,13 @@
         "name": "Go Well Diamond Heart - Cd1",
         "year": "2010",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -6434,13 +6427,13 @@
         "year": "2022",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -6993,33 +6986,33 @@
         "name": "Hajléktalan Lélek",
         "year": "2012",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Szilánkok",
         "year": "2015",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "A Fény Nyomában",
         "year": "2018",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "A New Dawn Awaits",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -7093,8 +7086,7 @@
         "name": "Agnomysticism",
         "year": "2026",
         "genres": [
-          "Death Metal",
-          "Metal"
+          "Death Metal"
         ]
       }
     ],
@@ -7102,8 +7094,7 @@
       "Progressive Death Metal",
       "Progressive Metal",
       "Technical Death Metal",
-      "Death Metal",
-      "Metal"
+      "Death Metal"
     ]
   },
   {
@@ -7269,13 +7260,13 @@
         "year": "2018",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -7327,19 +7318,19 @@
         "name": "Years Of Exile",
         "year": "2016",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "Dance Of The Undesirables",
         "year": "2021",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Sludge"
+      "Progressive Sludge Metal"
     ]
   },
   {
@@ -7460,20 +7451,20 @@
         "name": "...To The Sun",
         "year": "2003",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
         "name": "The Unveiling",
         "year": "2010",
         "genres": [
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Doom",
-      "Melodic Doom"
+      "Atmospheric Doom Metal",
+      "Melodic Doom Metal"
     ]
   },
   {

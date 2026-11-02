@@ -39,14 +39,12 @@
         "year": "2026",
         "genres": [
           "Black Death Metal",
-          "Death Metal | Black Death Metal",
           "Death Metal"
         ]
       }
     ],
     "tags": [
       "Black Death Metal",
-      "Death Metal | Black Death Metal",
       "Death Metal"
     ]
   },
@@ -59,7 +57,7 @@
         "year": "2007",
         "genres": [
           "Progressive Metal",
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
@@ -67,7 +65,7 @@
         "year": "2009",
         "genres": [
           "Progressive Metal",
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
@@ -75,13 +73,13 @@
         "year": "2012",
         "genres": [
           "Progressive Metal",
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Experimental Black"
+      "Experimental Black Metal"
     ]
   },
   {
@@ -303,7 +301,7 @@
         "name": "Livable Hatred",
         "year": "2009",
         "genres": [
-          "Progressive Power",
+          "Progressive Power Metal",
           "Thrash Metal"
         ]
       },
@@ -311,7 +309,7 @@
         "name": "Phobia",
         "year": "2010",
         "genres": [
-          "Progressive Power",
+          "Progressive Power Metal",
           "Thrash Metal"
         ]
       },
@@ -319,7 +317,7 @@
         "name": "Necropolis",
         "year": "2016",
         "genres": [
-          "Progressive Power",
+          "Progressive Power Metal",
           "Thrash Metal"
         ]
       },
@@ -327,13 +325,13 @@
         "name": "Human God Machine",
         "year": "2025",
         "genres": [
-          "Progressive Power",
+          "Progressive Power Metal",
           "Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power",
+      "Progressive Power Metal",
       "Thrash Metal"
     ]
   },
@@ -375,13 +373,13 @@
         "name": "Six Years Of Sorrow",
         "year": "2012",
         "genres": [
-          "Doom Death",
+          "Death Doom Metal",
           "Gothic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death",
+      "Death Doom Metal",
       "Gothic Doom Metal"
     ]
   },
@@ -845,7 +843,7 @@
         "year": "2022",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -853,13 +851,13 @@
         "year": "2023",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -1295,13 +1293,13 @@
         "name": "The Man Left In Space",
         "year": "2013",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -1805,7 +1803,7 @@
         "year": "2008",
         "genres": [
           "Gothic Metal",
-          "Goth Rock"
+          "Gothic Rock"
         ]
       },
       {
@@ -1818,7 +1816,7 @@
     ],
     "tags": [
       "Gothic Metal",
-      "Goth Rock"
+      "Gothic Rock"
     ]
   },
   {
@@ -1964,14 +1962,14 @@
         "name": "The Law",
         "year": "1992",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Mourn The Southern Skies",
         "year": "2019",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -1986,13 +1984,13 @@
         "name": "Defectum Omnium",
         "year": "2024",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Groove Metal"
     ]
   },
@@ -2094,7 +2092,7 @@
         "name": "Cognitive Erosion",
         "year": "2017",
         "genres": [
-          "Blackened Sludge",
+          "Blackened Sludge Metal",
           "Blackened Death Metal"
         ]
       },
@@ -2102,7 +2100,7 @@
         "name": "Glacial Tomb",
         "year": "2018",
         "genres": [
-          "Blackened Sludge",
+          "Blackened Sludge Metal",
           "Blackened Death Metal"
         ]
       },
@@ -2110,13 +2108,13 @@
         "name": "Lightless Expanse",
         "year": "2024",
         "genres": [
-          "Blackened Sludge",
+          "Blackened Sludge Metal",
           "Blackened Death Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Sludge",
+      "Blackened Sludge Metal",
       "Blackened Death Metal"
     ]
   },
@@ -2905,7 +2903,7 @@
         "year": "2026",
         "genres": [
           "Industrial Chiptune",
-          "Electronic Metal",
+          "Electronic",
           "Synthwave Chiptune",
           "Chiptune"
         ]
@@ -2919,7 +2917,7 @@
     "tags": [
       "Instrumental Industrial",
       "Industrial Chiptune",
-      "Electronic Metal",
+      "Electronic",
       "Synthwave Chiptune",
       "Chiptune"
     ]
@@ -3758,7 +3756,7 @@
         "year": "1988",
         "genres": [
           "Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -3766,7 +3764,7 @@
         "year": "1990",
         "genres": [
           "Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -3774,7 +3772,7 @@
         "year": "1992",
         "genres": [
           "Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -3782,7 +3780,7 @@
         "year": "1997",
         "genres": [
           "Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -3790,7 +3788,7 @@
         "year": "2006",
         "genres": [
           "Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -3806,13 +3804,13 @@
         "year": "2023",
         "genres": [
           "Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Technical Thrash",
+      "Technical Thrash Metal",
       "Thrash Metal"
     ]
   },
@@ -4862,7 +4860,7 @@
         "name": "Februus",
         "year": "2011",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4902,7 +4900,7 @@
       }
     ],
     "tags": [
-      "Ambient Metal",
+      "Ambient",
       "Djent",
       "Progressive Metal"
     ]

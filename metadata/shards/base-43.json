@@ -848,12 +848,12 @@
         "name": "Chaos Walker",
         "year": "2021",
         "genres": [
-          "Avantgarde Death"
+          "Avant-garde Death Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Death",
+      "Avant-garde Death Metal",
       "Death Metal"
     ]
   },
@@ -899,7 +899,7 @@
         "name": "Desolation Angels",
         "year": "1986",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -939,7 +939,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal"
     ]
   },
@@ -1143,21 +1143,21 @@
         "name": "Turis Fratyr",
         "year": "2005",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "Sagas",
         "year": "2008",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "Rekreatur",
         "year": "2010",
         "genres": [
-          "Viking Folk",
+          "Viking Folk Metal",
           "Folk Rock",
           "Viking Metal"
         ]
@@ -1166,23 +1166,23 @@
         "name": "Waldschrein",
         "year": "2013",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "Erdentempel",
         "year": "2014",
         "genres": [
-          "Viking Folk",
-          "Gothenburg"
+          "Viking Folk Metal",
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Armageddon",
         "year": "2016",
         "genres": [
-          "Viking Folk",
-          "Gothenburg"
+          "Viking Folk Metal",
+          "Melodic Death Metal"
         ]
       },
       {
@@ -1196,7 +1196,7 @@
         "name": "Renegades",
         "year": "2019",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -1247,7 +1247,7 @@
         "name": "Equinox",
         "year": "2025",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -1268,10 +1268,9 @@
       }
     ],
     "tags": [
-      "Viking Folk",
-      "Gothenburg",
-      "Medieval Metal",
+      "Viking Folk Metal",
       "Melodic Death Metal",
+      "Medieval Metal",
       "Symphonic Metal",
       "Power Metal",
       "Folk Metal",
@@ -1379,7 +1378,7 @@
           "Black Metal",
           "Death Metal",
           "Symphonic Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -1396,7 +1395,7 @@
       "Black Metal",
       "Death Metal",
       "Symphonic Black Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -1407,26 +1406,26 @@
         "name": "Offerings To The Hunger",
         "year": "2001",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "Ordeal",
         "year": "2005",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "... En Doodenakkers Tot Den Horizon",
         "year": "2016",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       }
     ],
     "tags": [
-      "Viking Black"
+      "Viking Black Metal"
     ]
   },
   {
@@ -1540,7 +1539,7 @@
         "name": "Green",
         "year": "1997",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -1558,7 +1557,7 @@
     ],
     "tags": [
       "Bay Area Thrash Metal",
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Thrash Metal"
     ]
   },
@@ -1572,7 +1571,7 @@
         "year": "2014",
         "genres": [
           "Djent",
-          "Progressive Math"
+          "Progressive Math Metal"
         ]
       },
       {
@@ -1580,7 +1579,7 @@
         "year": "2015",
         "genres": [
           "Djent",
-          "Progressive Math"
+          "Progressive Math Metal"
         ]
       },
       {
@@ -1588,7 +1587,7 @@
         "year": "2017",
         "genres": [
           "Djent",
-          "Progressive Math"
+          "Progressive Math Metal"
         ]
       },
       {
@@ -1596,13 +1595,13 @@
         "year": "2021",
         "genres": [
           "Djent",
-          "Progressive Math"
+          "Progressive Math Metal"
         ]
       }
     ],
     "tags": [
       "Djent",
-      "Progressive Math"
+      "Progressive Math Metal"
     ]
   },
   {
@@ -1746,8 +1745,7 @@
       }
     ],
     "tags": [
-      "Atmospheric Black Metal",
-      "Metal"
+      "Atmospheric Black Metal"
     ]
   },
   {
@@ -1827,7 +1825,7 @@
         "year": "2017",
         "genres": [
           "Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1835,7 +1833,7 @@
         "year": "2019",
         "genres": [
           "Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1843,7 +1841,7 @@
         "year": "2021",
         "genres": [
           "Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1851,7 +1849,7 @@
         "year": "2022",
         "genres": [
           "Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1859,13 +1857,13 @@
         "year": "2024",
         "genres": [
           "Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Sludge Metal",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -2118,26 +2116,26 @@
         "name": "D'incanto",
         "year": "2003",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "Anteroom",
         "year": "2006",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "The Last Day Of An Ordinary Life",
         "year": "2011",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Doom"
+      "Progressive Doom Metal"
     ]
   },
   {
@@ -2163,7 +2161,7 @@
         "name": "The Blueprint 3",
         "year": "2001",
         "genres": [
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Hip Hop",
           "Hardcore Hip-hop"
         ]
@@ -2188,7 +2186,7 @@
     "tags": [
       "Nu Metal",
       "Hip Hop",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Hardcore Hip-hop"
     ]
   },
@@ -2235,13 +2233,13 @@
         "year": "2015",
         "genres": [
           "Heavy Metal",
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -2303,14 +2301,12 @@
         "name": "Karas",
         "year": "2018",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {
@@ -2420,19 +2416,19 @@
         "name": "A Moment In Chiros",
         "year": "2011",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Reprogram",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -2462,28 +2458,28 @@
         "name": "Sedna",
         "year": "2007",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Ellipsis",
         "year": "2009",
         "genres": [
-          "Symphonic Power",
-          "Symphonic Progressive"
+          "Symphonic Power Metal",
+          "Symphonic Progressive Metal"
         ]
       },
       {
         "name": "Aeon",
         "year": "2016",
         "genres": [
-          "Symphonic Progressive"
+          "Symphonic Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power",
-      "Symphonic Progressive"
+      "Symphonic Power Metal",
+      "Symphonic Progressive Metal"
     ]
   },
   {
@@ -3077,35 +3073,35 @@
         "name": "Radiant Knife",
         "year": "2017",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "Science Fiction",
         "year": "2018",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "The Body",
         "year": "2020",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "The Ghost",
         "year": "2020",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "Pressure",
         "year": "2023",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
@@ -3115,7 +3111,7 @@
       }
     ],
     "tags": [
-      "Progressive Sludge"
+      "Progressive Sludge Metal"
     ]
   },
   {
@@ -3139,8 +3135,7 @@
       }
     ],
     "tags": [
-      "Death Metal",
-      "Metal"
+      "Death Metal"
     ]
   },
   {
@@ -3265,19 +3260,19 @@
         "name": "Rites Of Spring",
         "year": "1985",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "All Through A Life",
         "year": "1987",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -3762,7 +3757,7 @@
         "year": "2001",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3770,7 +3765,7 @@
         "year": "2002",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3778,7 +3773,7 @@
         "year": "2003",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3786,7 +3781,7 @@
         "year": "2005",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3794,7 +3789,7 @@
         "year": "2007",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3802,13 +3797,13 @@
         "year": "2010",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -3865,26 +3860,26 @@
         "name": "Black Roses",
         "year": "2006",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "A Good Day To Die",
         "year": "2007",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Black Widow",
         "year": "2010",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -4071,34 +4066,33 @@
         "name": "A Slight Amplification",
         "year": "2008",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Black Stone Opus",
         "year": "2013",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Among The Stone",
         "year": "2015",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Vesper, The Evening Star",
         "year": "2023",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash",
-      "Metal"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -4110,7 +4104,7 @@
         "year": "1995",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4118,13 +4112,13 @@
         "year": "1997",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {

@@ -35,7 +35,7 @@
         "genres": [
           "Funk / Soul",
           "Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Concert Film",
           "Stage & Screen"
         ]
@@ -59,7 +59,7 @@
         "genres": [
           "Funk / Soul",
           "Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Concert Film",
           "Stage & Screen"
         ]
@@ -93,8 +93,8 @@
           "Funk / Soul",
           "Blues",
           "Soul",
-          "Contemporary R&b",
-          "Folk Metal",
+          "Contemporary R&B",
+          "Folk",
           "Electronic",
           "Piano Blues",
           "Neo Soul",
@@ -112,8 +112,8 @@
           "Funk / Soul",
           "Blues",
           "Soul",
-          "Contemporary R&b",
-          "Folk Metal",
+          "Contemporary R&B",
+          "Folk",
           "Electronic",
           "Piano Blues",
           "Neo Soul",
@@ -151,8 +151,8 @@
       "Pop",
       "Jazz",
       "Soul",
-      "Contemporary R&b",
-      "Folk Metal",
+      "Contemporary R&B",
+      "Folk",
       "Electronic",
       "Ballad",
       "Rhythm & Blues",
@@ -329,16 +329,16 @@
         "name": "Everyday Is A Bad Hair Day For Satan Because We're Here!",
         "year": "2011",
         "genres": [
-          "Epic Trash Metal",
-          "Epic Progressive",
-          "Epic Symphonic"
+          "Epic Thrash Metal",
+          "Epic Progressive Metal",
+          "Epic Symphonic Metal"
         ]
       }
     ],
     "tags": [
-      "Epic Trash Metal",
-      "Epic Progressive",
-      "Epic Symphonic"
+      "Epic Thrash Metal",
+      "Epic Progressive Metal",
+      "Epic Symphonic Metal"
     ]
   },
   {
@@ -1115,26 +1115,26 @@
         "name": "Silent Symphony",
         "year": "2009",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Lotus",
         "year": "2010",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Tainted Songs",
         "year": "2016",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -1803,7 +1803,7 @@
         "year": "2013",
         "genres": [
           "Technical Death Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -1811,7 +1811,7 @@
         "year": "2016",
         "genres": [
           "Technical Death Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -1819,13 +1819,13 @@
         "year": "2019",
         "genres": [
           "Technical Death Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Technical Death Metal",
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -1887,7 +1887,7 @@
         "name": "Contract With Hell",
         "year": "1985",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -1913,7 +1913,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Thrash Metal"
     ]
   },
@@ -2138,7 +2138,7 @@
         "year": "2019",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -2187,7 +2187,7 @@
     ],
     "tags": [
       "Metalcore",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Djent",
       "Deathcore",
       "Melodic Hardcore"
@@ -2220,7 +2220,7 @@
         "year": "2017",
         "genres": [
           "Folk Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2232,7 +2232,7 @@
     ],
     "tags": [
       "Folk Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -2385,7 +2385,7 @@
         "genres": [
           "Folk Rock",
           "Doom Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2475,7 +2475,7 @@
       "Post-Rock",
       "Folk Metal",
       "Folk Rock",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -2487,26 +2487,26 @@
         "name": "Beertje Bollie Bas Liedjes Met Zang",
         "year": "2021",
         "genres": [
-          "Children's Music"
+          "Children's"
         ]
       },
       {
         "name": "Begin De Dag Met Een Dansje Alle Versies",
         "year": "2021",
         "genres": [
-          "Children's Music"
+          "Children's"
         ]
       },
       {
         "name": "Bekende Nederlandse Kinderliedjes Deel 1 Met Zang",
         "year": "2021",
         "genres": [
-          "Children's Music"
+          "Children's"
         ]
       }
     ],
     "tags": [
-      "Children's Music"
+      "Children's"
     ]
   },
   {
@@ -2876,7 +2876,7 @@
         "name": "The Fire",
         "year": "2012",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Shred"
         ]
       },
@@ -2884,13 +2884,13 @@
         "name": "The Truth Of The Lion",
         "year": "2015",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Shred"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Heavy",
+      "Neoclassical Heavy Metal",
       "Shred"
     ]
   },
@@ -2905,7 +2905,7 @@
         "genres": [
           "Breaks",
           "Electronic",
-          "Industrial Metal",
+          "Industrial",
           "Hip Hop"
         ]
       }
@@ -2913,7 +2913,7 @@
     "tags": [
       "Breaks",
       "Electronic",
-      "Industrial Metal",
+      "Industrial",
       "Hip Hop"
     ]
   },
@@ -3241,7 +3241,7 @@
         "name": "Now Or Never",
         "year": "1988",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -3249,7 +3249,7 @@
         "name": "Backstage Girls",
         "year": "1990",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -3257,13 +3257,13 @@
         "name": "Iii",
         "year": "1994",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -3543,22 +3543,19 @@
         "name": "Pale",
         "year": "2018",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Our Hearts In Your Heaven",
         "year": "2025",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {
@@ -3572,14 +3569,14 @@
         "genres": [
           "Stage & Screen",
           "Post-Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       }
     ],
     "tags": [
       "Stage & Screen",
       "Post-Metal",
-      "Post Rock"
+      "Post-Rock"
     ]
   },
   {
@@ -3701,8 +3698,7 @@
       }
     ],
     "tags": [
-      "Death Metal",
-      "Metal"
+      "Death Metal"
     ]
   },
   {
@@ -3713,12 +3709,12 @@
         "name": "Capture Of Ziz",
         "year": "2014",
         "genres": [
-          "Experimental Avantgarde"
+          "Experimental Avant-garde"
         ]
       }
     ],
     "tags": [
-      "Experimental Avantgarde"
+      "Experimental Avant-garde"
     ]
   },
   {
@@ -4286,13 +4282,13 @@
         "name": "Unity Is Strength",
         "year": "1989",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Alternative"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Alternative"
     ]
   },
@@ -4575,13 +4571,13 @@
         "name": "Time & Eternity",
         "year": "2019",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Folk, World, & Country"
         ]
       }
     ],
     "tags": [
-      "Folk Metal",
+      "Folk",
       "Folk, World, & Country"
     ]
   },
@@ -4982,26 +4978,26 @@
         "name": "The Three Tremors",
         "year": "2018",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "The Solo Versions",
         "year": "2019",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Guardians Of The Void",
         "year": "2021",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -5444,7 +5440,7 @@
         "year": "1984",
         "genres": [
           "Speed Metal",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -5452,7 +5448,7 @@
         "year": "1985",
         "genres": [
           "Speed Metal",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -5460,7 +5456,7 @@
         "year": "1986",
         "genres": [
           "Speed Metal",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -5468,7 +5464,7 @@
         "year": "1988",
         "genres": [
           "Speed Metal",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -5476,7 +5472,7 @@
         "year": "1990",
         "genres": [
           "Speed Metal",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -5484,7 +5480,7 @@
         "year": "1991",
         "genres": [
           "Speed Metal",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -5511,7 +5507,7 @@
     ],
     "tags": [
       "Speed Metal",
-      "New Wave Of British Heavy"
+      "NWOBHM"
     ]
   },
   {

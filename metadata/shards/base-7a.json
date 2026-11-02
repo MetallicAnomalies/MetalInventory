@@ -125,7 +125,7 @@
         "year": "2005",
         "genres": [
           "Heavy Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -133,7 +133,7 @@
         "year": "2007",
         "genres": [
           "Heavy Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -156,7 +156,7 @@
     ],
     "tags": [
       "Heavy Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Hard Rock",
       "Arena Rock",
       "Rock"
@@ -422,7 +422,7 @@
         "year": "2010",
         "genres": [
           "Alternative Rock",
-          "Post Rock",
+          "Post-Rock",
           "Folk Rock",
           "Rock"
         ]
@@ -467,7 +467,7 @@
       "Hard Rock",
       "Pop",
       "Pop Rock",
-      "Post Rock",
+      "Post-Rock",
       "Folk Rock"
     ]
   },
@@ -542,19 +542,19 @@
         "name": "...And Now You're Gone",
         "year": "1987",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Lost In Oneself",
         "year": "1989",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -947,7 +947,7 @@
         "name": "Eden Sank To Grief",
         "year": "2010",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Punk"
         ]
@@ -956,7 +956,7 @@
         "name": "War Begins With You",
         "year": "2010",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Punk"
         ]
@@ -965,7 +965,7 @@
         "name": "All Hail The Void",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Punk"
         ]
@@ -974,7 +974,7 @@
         "name": "Flies",
         "year": "2013",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Punk"
         ]
@@ -983,7 +983,7 @@
         "name": "Shift Of Redemption",
         "year": "2013",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Punk"
         ]
@@ -992,7 +992,7 @@
         "name": "La Fin Absolue Du Monde",
         "year": "2014",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Punk"
         ]
@@ -1001,7 +1001,7 @@
         "name": "By Demons Denied",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Punk"
         ]
@@ -1010,14 +1010,14 @@
         "name": "Fail To Feel Safe",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore",
       "Punk"
     ]
@@ -1101,7 +1101,7 @@
         "name": "It's Understood",
         "year": "2000",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Fusion"
         ]
       },
@@ -1109,7 +1109,7 @@
         "name": "Buck Fever",
         "year": "2001",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Fusion"
         ]
       },
@@ -1117,7 +1117,7 @@
         "name": "The Silent Elk Of Yesterday",
         "year": "2001",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Fusion"
         ]
       },
@@ -1125,7 +1125,7 @@
         "name": "Quadropus",
         "year": "2003",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Fusion"
         ]
       },
@@ -1133,7 +1133,7 @@
         "name": "Palace Of Mirrors",
         "year": "2006",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Fusion"
         ]
       },
@@ -1141,13 +1141,13 @@
         "name": "Pegasus Vault",
         "year": "2008",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Fusion"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde",
       "Fusion"
     ]
   },
@@ -1160,14 +1160,14 @@
         "name": "In Shadow Lies Utopia",
         "year": "2008",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Black Mirrors Reflection",
         "year": "2012",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Heavy Metal",
           "Death Metal"
         ]
@@ -1176,19 +1176,19 @@
         "name": "The Second Reflection",
         "year": "2013",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Archgod",
         "year": "2014",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg",
+      "Melodic Death Metal",
       "Heavy Metal",
       "Death Metal"
     ]
@@ -1287,21 +1287,21 @@
         "name": "Beschwörung",
         "year": "1999",
         "genres": [
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
         "name": "Heimkehr",
         "year": "2015",
         "genres": [
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
         "name": "As Dusend Düwel",
         "year": "2016",
         "genres": [
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -1311,7 +1311,7 @@
           "Folk Rock",
           "Folk, World, & Country",
           "Rock",
-          "Celtic Metal"
+          "Celtic"
         ]
       },
       {
@@ -1321,7 +1321,7 @@
           "Folk Rock",
           "Folk, World, & Country",
           "Rock",
-          "Celtic Metal"
+          "Celtic"
         ]
       },
       {
@@ -1329,21 +1329,21 @@
         "year": "2018",
         "genres": [
           "Folk Rock",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
         "name": "Kinder Des Zorns",
         "year": "2019",
         "genres": [
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
         "name": "Geister Und Dämonen",
         "year": "2021",
         "genres": [
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -1351,7 +1351,7 @@
         "year": "2021",
         "genres": [
           "Folk Rock",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -1359,7 +1359,7 @@
         "year": "2021",
         "genres": [
           "Folk Rock",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -1367,14 +1367,14 @@
         "year": "2021",
         "genres": [
           "Folk Rock",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
         "name": "äRa Ii",
         "year": "2022",
         "genres": [
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -1382,16 +1382,16 @@
         "year": "2022",
         "genres": [
           "Folk Rock",
-          "Folk Metal",
+          "Folk",
           "Folk, World, & Country"
         ]
       }
     ],
     "tags": [
-      "Folk Metal",
+      "Folk",
       "Folk Rock",
       "Folk, World, & Country",
-      "Celtic Metal",
+      "Celtic",
       "Rock"
     ]
   },
@@ -1416,7 +1416,7 @@
         "year": "2010",
         "genres": [
           "Drone Doom Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -1425,7 +1425,7 @@
         "year": "2011",
         "genres": [
           "Drone Doom Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -1434,7 +1434,7 @@
         "year": "2012",
         "genres": [
           "Drone Doom Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -1443,7 +1443,7 @@
         "year": "2015",
         "genres": [
           "Drone Doom Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -1452,7 +1452,7 @@
         "year": "2016",
         "genres": [
           "Drone Doom Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -1470,7 +1470,7 @@
         "year": "2017",
         "genres": [
           "Drone Doom Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -1489,7 +1489,7 @@
       "Heavy Metal",
       "Crust Punk",
       "Drone Doom Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Experimental Metal"
     ]
   },
@@ -1501,26 +1501,26 @@
         "name": "Spring Thaw",
         "year": "2014",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "On Tap",
         "year": "2015",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Bastard Thrash",
         "year": "2020",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -1805,7 +1805,7 @@
         "year": "2002",
         "genres": [
           "Alternative Rock",
-          "Post-punk",
+          "Post-Punk",
           "Indie Rock",
           "Rock"
         ]
@@ -1851,7 +1851,7 @@
       "Alternative Rock",
       "Indie Rock",
       "Rock",
-      "Post-punk"
+      "Post-Punk"
     ]
   },
   {
@@ -2002,7 +2002,7 @@
         "year": "2016",
         "genres": [
           "Holiday",
-          "Folk Metal",
+          "Folk",
           "Indie Pop",
           "Pop",
           "Folk, World, & Country"
@@ -2011,7 +2011,7 @@
     ],
     "tags": [
       "Holiday",
-      "Folk Metal",
+      "Folk",
       "Indie Pop",
       "Pop",
       "Folk, World, & Country"
@@ -2092,19 +2092,19 @@
         "name": "Spetterles 2",
         "year": "2019",
         "genres": [
-          "Children's Music"
+          "Children's"
         ]
       },
       {
         "name": "Spetterles 4",
         "year": "2019",
         "genres": [
-          "Children's Music"
+          "Children's"
         ]
       }
     ],
     "tags": [
-      "Children's Music"
+      "Children's"
     ]
   },
   {
@@ -3318,14 +3318,14 @@
         "year": "2008",
         "genres": [
           "Electronic",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Concealing Fate",
         "year": "2010",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -3341,7 +3341,7 @@
         "name": "One",
         "year": "2011",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -3356,7 +3356,7 @@
         "name": "Perspective",
         "year": "2012",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -3364,7 +3364,7 @@
         "name": "Altered State",
         "year": "2013",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -3373,7 +3373,7 @@
         "year": "2013",
         "genres": [
           "Heavy Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3387,7 +3387,7 @@
         "name": "Odyssey",
         "year": "2015",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3395,7 +3395,7 @@
         "name": "Polaris",
         "year": "2015",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -3424,7 +3424,7 @@
         "name": "Errai",
         "year": "2016",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -3453,7 +3453,7 @@
         "name": "Sonder",
         "year": "2018",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -3468,7 +3468,7 @@
         "name": "Regrowth",
         "year": "2022",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -3477,28 +3477,28 @@
         "year": "2023",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
         "name": "War Of Being",
         "year": "2023",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       }
     ],
     "tags": [
-      "Progressive Math",
+      "Progressive Math Metal",
       "Djent",
       "Jazz",
       "Electronic",
-      "Ambient Metal",
+      "Ambient",
       "Progressive Metal",
       "Math Rock",
       "Heavy Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -3531,14 +3531,13 @@
           "Electro House",
           "Electronic",
           "Dance-pop",
-          "Ambient Metal",
+          "Ambient",
           "Pop",
           "Hip Hop",
           "Pop Rap",
           "Electro Hop",
           "Electropop",
           "Rock",
-          "Pixel Art",
           "Dance"
         ]
       },
@@ -3559,10 +3558,9 @@
       "Pop Rap",
       "Electro Hop",
       "Electropop",
-      "Ambient Metal",
+      "Ambient",
       "Hip Hop",
       "Rock",
-      "Pixel Art",
       "Dance"
     ]
   },
@@ -3575,13 +3573,13 @@
         "name": "Hold Conversation",
         "year": "2006",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -3676,56 +3674,56 @@
         "name": "Pressure To Succeed",
         "year": "2011",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Step 2 Rhythm",
         "year": "2013",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Nonstop Feeling",
         "year": "2015",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Move Thru Me",
         "year": "2016",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "I Dont Wanna Be Blind",
         "year": "2018",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Time & Space",
         "year": "2018",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Share A View",
         "year": "2020",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Glow On",
         "year": "2021",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Alternative Rock"
         ]
       },
@@ -3733,7 +3731,7 @@
         "name": "Never Enough",
         "year": "2025",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Alternative Rock"
         ]
       },
@@ -3744,7 +3742,7 @@
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Alternative Rock"
     ]
   },
@@ -3925,22 +3923,19 @@
         "name": "I",
         "year": "2021",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Ii",
         "year": "2025",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {

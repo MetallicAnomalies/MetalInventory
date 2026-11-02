@@ -10,14 +10,14 @@
         "genres": [
           "Pop Punk",
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Pop Punk",
       "Metalcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -232,26 +232,26 @@
         "name": "N'yxlwrr",
         "year": "2022",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Ss'unnhl",
         "year": "2022",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "R'ynn'wr",
         "year": "2023",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Death"
+      "Experimental Death Metal"
     ]
   },
   {
@@ -409,19 +409,19 @@
         "name": "Dynamite World",
         "year": "2009",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Voices Of Eternity",
         "year": "2013",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -559,7 +559,7 @@
         "name": "Dying Desire",
         "year": "2001",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Stoner Rock",
           "Doom Metal"
         ]
@@ -575,8 +575,8 @@
         "name": "Ordeal Of The Century (Ep)",
         "year": "2003",
         "genres": [
-          "Hardcore Metal",
-          "Post Rock",
+          "Hardcore",
+          "Post-Rock",
           "Doom Metal"
         ]
       },
@@ -585,7 +585,7 @@
         "year": "2004",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -619,11 +619,11 @@
     ],
     "tags": [
       "Post-Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Stoner Rock",
       "Doom Metal",
       "Sludge Metal",
-      "Post Rock"
+      "Post-Rock"
     ]
   },
   {
@@ -653,33 +653,33 @@
         "name": "Like A Sickness",
         "year": "2011",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Alpha",
         "year": "2012",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Letchworth Village",
         "year": "2013",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Sever The 6th Head",
         "year": "2015",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -808,13 +808,13 @@
         "year": "2019",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -1601,13 +1601,13 @@
         "name": "Hold High The Flame",
         "year": "2015",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Heavy Metal"
     ]
   },
@@ -1619,19 +1619,19 @@
         "name": "Reflection Of A Shadow",
         "year": "2013",
         "genres": [
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
         "name": "A Perspective Of Existence",
         "year": "2017",
         "genres": [
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Doom"
+      "Melodic Doom Metal"
     ]
   },
   {
@@ -1682,13 +1682,13 @@
         "year": "2018",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -1720,12 +1720,12 @@
         "name": "Mind's Door",
         "year": "2001",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -1899,7 +1899,7 @@
         "year": "1990",
         "genres": [
           "Alternative",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1907,7 +1907,7 @@
         "year": "1991",
         "genres": [
           "Alternative",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1915,7 +1915,7 @@
         "year": "1993",
         "genres": [
           "Alternative",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1923,7 +1923,7 @@
         "year": "1995",
         "genres": [
           "Alternative",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Shoegaze"
         ]
       },
@@ -1932,7 +1932,7 @@
         "year": "1998",
         "genres": [
           "Alternative",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Shoegaze"
         ]
       },
@@ -1947,7 +1947,7 @@
     ],
     "tags": [
       "Alternative",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Shoegaze"
     ]
   },
@@ -2081,12 +2081,12 @@
         "name": "Out Of The Ashes",
         "year": "2017",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -2956,7 +2956,6 @@
       }
     ],
     "tags": [
-      "Metal",
       "Gothic Metal"
     ]
   },
@@ -3099,12 +3098,12 @@
         "name": "Owlcrusher",
         "year": "2017",
         "genres": [
-          "Blackened Sludge"
+          "Blackened Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Sludge"
+      "Blackened Sludge Metal"
     ]
   },
   {
@@ -3198,19 +3197,19 @@
         "name": "Year Of Sleep",
         "year": "2013",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "Yun",
         "year": "2025",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Sludge"
+      "Progressive Sludge Metal"
     ]
   },
   {
@@ -3295,12 +3294,12 @@
         "name": "Transcendence",
         "year": "2020",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Power Metal"
     ]
   },
@@ -3355,33 +3354,33 @@
         "name": "Rage Of Creation",
         "year": "2000",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Eyes Of Eternity",
         "year": "2003",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Holy Hell",
         "year": "2005",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Garden Of Chaos",
         "year": "2007",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -3392,26 +3391,26 @@
         "name": "Untitled Lp1",
         "year": "2013",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Zabijanie Czasu I",
         "year": "2020",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Dom, W Którym Mieszkał Wąż",
         "year": "2022",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -3882,13 +3881,13 @@
         "name": "Uncertainty",
         "year": "2023",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Post Rock",
+      "Post-Rock",
       "Rock"
     ]
   },
@@ -4427,12 +4426,12 @@
         "name": "Subject To Change",
         "year": "1983",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4751,19 +4750,19 @@
         "name": "The Sorcerer Sessions Vol. 1",
         "year": "2002",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Twilight Odyssey",
         "year": "2005",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -4811,13 +4810,13 @@
         "name": "Age Of The Void",
         "year": "2025",
         "genres": [
-          "Epic Heavy",
+          "Epic Heavy Metal",
           "Power Metal"
         ]
       }
     ],
     "tags": [
-      "Epic Heavy",
+      "Epic Heavy Metal",
       "Power Metal"
     ]
   },
@@ -4915,7 +4914,7 @@
         "year": "2017",
         "genres": [
           "Death Metal",
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
@@ -4923,13 +4922,13 @@
         "year": "2022",
         "genres": [
           "Death Metal",
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Psychedelic Doom"
+      "Psychedelic Doom Metal"
     ]
   },
   {

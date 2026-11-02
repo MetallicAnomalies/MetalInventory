@@ -7,12 +7,12 @@
         "name": "Concrete Visions",
         "year": "2000",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -39,7 +39,7 @@
         "name": "Albino Slug",
         "year": "1993",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -47,13 +47,13 @@
         "name": "Barabbas",
         "year": "1994",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Experimental Metal"
     ]
   },
@@ -465,61 +465,61 @@
         "name": "The Night Comes Illuminated With Death",
         "year": "2011",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Ancient Paths Through Timeless Voids",
         "year": "2012",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "None",
         "year": "2013",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Plague Beasts",
         "year": "2014",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Manifestation",
         "year": "2015",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "I Reached For The Light That Drowned In Your Mouth",
         "year": "2017",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Zero Devil",
         "year": "2018",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Sheathed Swords Drip With Poisonous Honey",
         "year": "2021",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -550,7 +550,7 @@
         "name": "Coliseum",
         "year": "2004",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -558,7 +558,7 @@
         "name": "Goddamage",
         "year": "2005",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -566,7 +566,7 @@
         "name": "No Salvation",
         "year": "2007",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -574,7 +574,7 @@
         "name": "True Quiet / Last Wave",
         "year": "2009",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -582,7 +582,7 @@
         "name": "House With A Curse",
         "year": "2010",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -590,7 +590,7 @@
         "name": "Parasites",
         "year": "2011",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -598,7 +598,7 @@
         "name": "Sister Chance",
         "year": "2013",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Punk"
         ]
       },
@@ -606,7 +606,7 @@
         "name": "Sister Faith",
         "year": "2013",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Punk"
         ]
       },
@@ -614,16 +614,16 @@
         "name": "Anxietys Kiss",
         "year": "2015",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Punk",
           "New Wave"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
-      "Post-hardcore",
+      "Post-Hardcore",
       "New Wave"
     ]
   },
@@ -834,12 +834,12 @@
         "name": "Capital Punishment",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1061,12 +1061,12 @@
         "name": "The Echoing Despair",
         "year": "2022",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death"
+      "Death Doom Metal"
     ]
   },
   {
@@ -1077,12 +1077,12 @@
         "name": "Journey Of The Time Shaman",
         "year": "2019",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -1505,14 +1505,13 @@
         "year": "2005",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       }
     ],
     "tags": [
       "Progressive Rock",
-      "Progressive Metal",
-      "Prog Rock"
+      "Progressive Metal"
     ]
   },
   {
@@ -1828,7 +1827,6 @@
         "genres": [
           "Gothic Metal",
           "Gothic Rock",
-          "Goth Rock",
           "Rock"
         ]
       },
@@ -1906,7 +1904,6 @@
       "Gothic Metal",
       "Gothic Doom Metal",
       "Gothic Rock",
-      "Goth Rock",
       "Rock"
     ]
   },
@@ -2278,7 +2275,6 @@
         "genres": [
           "Melodic Death Metal",
           "Thrash Metal",
-          "Gothenburg",
           "Heavy Metal"
         ]
       },
@@ -2286,7 +2282,7 @@
         "name": "Architect Of Lies",
         "year": "2008",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Heavy Metal"
         ]
       },
@@ -2294,7 +2290,7 @@
         "name": "Metamorphosis",
         "year": "2011",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Heavy Metal"
         ]
       },
@@ -2310,7 +2306,7 @@
         "name": "Through Our Darkest Days",
         "year": "2013",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Heavy Metal"
         ]
       },
@@ -2326,7 +2322,7 @@
         "name": "Soundtrack For The End Times",
         "year": "2023",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Heavy Metal"
         ]
       }
@@ -2334,7 +2330,6 @@
     "tags": [
       "Melodic Death Metal",
       "Thrash Metal",
-      "Gothenburg",
       "Heavy Metal",
       "Groove Metal",
       "Death Metal",
@@ -2832,8 +2827,8 @@
         "name": "Logic Ravaged By Brute Force",
         "year": "2020",
         "genres": [
-          "Post-punk",
-          "Hardcore Metal"
+          "Post-Punk",
+          "Hardcore"
         ]
       },
       {
@@ -2853,8 +2848,8 @@
     ],
     "tags": [
       "Grindcore",
-      "Post-punk",
-      "Hardcore Metal",
+      "Post-Punk",
+      "Hardcore",
       "Death Metal"
     ]
   },
@@ -2885,14 +2880,14 @@
         "genres": [
           "Folk Rock",
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Folk Rock",
       "Folk, World, & Country",
-      "Folk Metal",
+      "Folk",
       "Rock"
     ]
   },
@@ -3064,7 +3059,7 @@
         "name": "The Vulture's Riot",
         "year": "2008",
         "genres": [
-          "Avantgarde Black",
+          "Avant-garde Black Metal",
           "Mathcore"
         ]
       },
@@ -3072,7 +3067,7 @@
         "name": "How Hate Is Hard To Define",
         "year": "2010",
         "genres": [
-          "Avantgarde Black",
+          "Avant-garde Black Metal",
           "Mathcore"
         ]
       },
@@ -3080,7 +3075,7 @@
         "name": "Lowgazers",
         "year": "2014",
         "genres": [
-          "Avantgarde Black",
+          "Avant-garde Black Metal",
           "Mathcore"
         ]
       },
@@ -3088,7 +3083,7 @@
         "name": "False Highs, True Lows",
         "year": "2016",
         "genres": [
-          "Avantgarde Black",
+          "Avant-garde Black Metal",
           "Mathcore"
         ]
       },
@@ -3096,13 +3091,13 @@
         "name": "Rien Ne Suffit",
         "year": "2021",
         "genres": [
-          "Avantgarde Black",
+          "Avant-garde Black Metal",
           "Mathcore"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black",
+      "Avant-garde Black Metal",
       "Mathcore"
     ]
   },
@@ -3115,69 +3110,69 @@
         "name": "The End Mills",
         "year": "2002",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Seepia",
         "year": "2003",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "The Sweyy",
         "year": "2004",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Outre'",
         "year": "2007",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Swarth",
         "year": "2009",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Vexovoid",
         "year": "2013",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Ion",
         "year": "2018",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Avow",
         "year": "2021",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Hagbulbia",
         "year": "2021",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       }
     ],
     "tags": [
-      "Experimental Death",
-      "Noise Metal"
+      "Experimental Death Metal",
+      "Noise"
     ]
   },
   {
@@ -3190,7 +3185,7 @@
         "year": "1987",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -3198,7 +3193,7 @@
         "year": "1988",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -3206,7 +3201,7 @@
         "year": "1989",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -3214,13 +3209,13 @@
         "year": "2015",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -3587,7 +3582,7 @@
         "name": "Shylock",
         "year": "1999",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -3595,7 +3590,7 @@
         "name": "Pyronized",
         "year": "2001",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -3603,7 +3598,7 @@
         "name": "Welcome To Illusion",
         "year": "2004",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -3611,7 +3606,7 @@
         "name": "Devotion",
         "year": "2007",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -3619,7 +3614,7 @@
         "name": "Rockbuster",
         "year": "2010",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -3627,13 +3622,13 @@
         "name": "Walking Tall",
         "year": "2013",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -3798,7 +3793,7 @@
         "name": "Savia",
         "year": "2012",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3806,7 +3801,7 @@
         "name": "Kuraman",
         "year": "2014",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3814,7 +3809,7 @@
         "name": "Tabula Rasa",
         "year": "2014",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3868,7 +3863,7 @@
         "year": "2019",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3876,7 +3871,7 @@
         "year": "2019",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3931,7 +3926,7 @@
         "name": "Atlantis",
         "year": "2022",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3939,7 +3934,7 @@
         "name": "Snuff",
         "year": "2022",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3947,7 +3942,7 @@
         "name": "Trials",
         "year": "2022",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3997,9 +3992,8 @@
       "Progressive Metal",
       "Alternative",
       "Alternative Rock",
-      "Prog Rock",
-      "Djent",
       "Progressive Rock",
+      "Djent",
       "Alternative Metal",
       "Rock"
     ]
@@ -4207,13 +4201,13 @@
         "name": "The Eternal Resonance",
         "year": "2020",
         "genres": [
-          "Atmospheric Death",
+          "Atmospheric Death Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Death",
+      "Atmospheric Death Metal",
       "Progressive Metal"
     ]
   },
@@ -4301,7 +4295,7 @@
         "name": "Thought Insertion",
         "year": "2021",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Power Metal"
         ]
       },
@@ -4309,13 +4303,13 @@
         "name": "Abyssal",
         "year": "2023",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy",
+      "Progressive Heavy Metal",
       "Power Metal"
     ]
   },
@@ -4607,7 +4601,7 @@
         "name": "Scratch And Scream",
         "year": "1984",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Speed Metal"
         ]
       },
@@ -4615,7 +4609,7 @@
         "name": "Rapture And Wrath",
         "year": "2015",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Speed Metal"
         ]
       },
@@ -4623,7 +4617,7 @@
         "name": "As The World Dies",
         "year": "2018",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Speed Metal"
         ]
       },
@@ -4631,13 +4625,13 @@
         "name": "Awakening",
         "year": "2022",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Speed Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Speed Metal"
     ]
   },
@@ -4895,7 +4889,7 @@
         "year": "2016",
         "genres": [
           "Mizrahi",
-          "Children's Music"
+          "Children's"
         ]
       },
       {
@@ -4903,7 +4897,7 @@
         "year": "2017",
         "genres": [
           "Mizrahi",
-          "Children's Music"
+          "Children's"
         ]
       },
       {
@@ -4911,13 +4905,13 @@
         "year": "2019",
         "genres": [
           "Mizrahi",
-          "Children's Music"
+          "Children's"
         ]
       }
     ],
     "tags": [
       "Mizrahi",
-      "Children's Music"
+      "Children's"
     ]
   },
   {
@@ -4929,12 +4923,12 @@
         "name": "Lightworker",
         "year": "2005",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {

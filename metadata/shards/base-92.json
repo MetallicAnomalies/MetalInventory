@@ -79,19 +79,19 @@
         "name": "Meeting In The Mist",
         "year": "2003",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Through Painful Lanes",
         "year": "2008",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -207,26 +207,23 @@
         "genres": [
           "Post-Black Metal",
           "Blackgaze",
-          "Chinese Folk Rock",
-          "Post-black Metal"
+          "Chinese Folk Rock"
         ]
       },
       {
         "name": "離·極光淨天",
         "year": "2019",
         "genres": [
-          "Post-black Metal",
+          "Post-Black Metal",
           "Blackgaze",
-          "Chinese Folk Rock",
-          "Post-Black Metal"
+          "Chinese Folk Rock"
         ]
       }
     ],
     "tags": [
       "Post-Black Metal",
       "Blackgaze",
-      "Chinese Folk Rock",
-      "Post-black Metal"
+      "Chinese Folk Rock"
     ]
   },
   {
@@ -245,7 +242,7 @@
         "year": "2010",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -253,13 +250,13 @@
         "year": "2012",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -288,12 +285,12 @@
         "name": "Scientific Necromancy",
         "year": "2026",
         "genres": [
-          "Death Metal | Death Metal"
+          "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Death Metal | Death Metal"
+      "Death Metal"
     ]
   },
   {
@@ -305,21 +302,21 @@
         "year": "2018",
         "genres": [
           "Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "The Threshold",
         "year": "2024",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Sludge",
+      "Progressive Sludge Metal",
       "Sludge Metal",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -383,19 +380,19 @@
         "name": "The Bridge Between",
         "year": "2006",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "The Reckoning",
         "year": "2008",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -554,7 +551,7 @@
         "name": "Down Under 2012",
         "year": "2012",
         "genres": [
-          "Drum And Bass"
+          "Drum & Bass"
         ]
       },
       {
@@ -574,7 +571,7 @@
       "Pop",
       "Ballad",
       "Acoustic",
-      "Drum And Bass"
+      "Drum & Bass"
     ]
   },
   {
@@ -971,7 +968,7 @@
         "name": "Death Routines",
         "year": "2021",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Screamo"
         ]
       },
@@ -979,13 +976,13 @@
         "name": "Demersal",
         "year": "2024",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Screamo"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Screamo",
       "Blackened Hardcore"
     ]
@@ -1477,7 +1474,7 @@
         "genres": [
           "Black Metal",
           "Doom Metal",
-          "Ambient Metal",
+          "Ambient",
           "Electronic"
         ]
       }
@@ -1487,7 +1484,7 @@
       "Post-Metal",
       "Black Metal",
       "Doom Metal",
-      "Ambient Metal",
+      "Ambient",
       "Electronic"
     ]
   },
@@ -1785,7 +1782,6 @@
     ],
     "tags": [
       "Metalcore",
-      "Metal",
       "Heavy Metal"
     ]
   },
@@ -1977,7 +1973,7 @@
         "name": "Ultra Mono",
         "year": "2020",
         "genres": [
-          "Post-punk",
+          "Post-Punk",
           "Punk"
         ]
       }
@@ -1985,7 +1981,7 @@
     "tags": [
       "Alternative Rock",
       "Punk",
-      "Post-punk"
+      "Post-Punk"
     ]
   },
   {
@@ -2085,12 +2081,14 @@
         "name": "Tyrants Rise from the Ashes",
         "year": "2026",
         "genres": [
-          "Black Metal | Raw Black Metal"
+          "Black Metal",
+          "Raw Black Metal"
         ]
       }
     ],
     "tags": [
-      "Black Metal | Raw Black Metal"
+      "Black Metal",
+      "Raw Black Metal"
     ]
   },
   {
@@ -2551,8 +2549,8 @@
         "name": "Locust Christ",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
-          "Noise Metal",
+          "Hardcore",
+          "Noise",
           "Doom Metal",
           "Sludge Metal"
         ]
@@ -2577,8 +2575,8 @@
     "tags": [
       "Post-Metal",
       "Sludge Metal",
-      "Hardcore Metal",
-      "Noise Metal",
+      "Hardcore",
+      "Noise",
       "Doom Metal"
     ]
   },
@@ -2609,13 +2607,13 @@
         "year": "2020",
         "genres": [
           "Black Metal",
-          "Post-punk"
+          "Post-Punk"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Post-punk"
+      "Post-Punk"
     ]
   },
   {
@@ -2694,8 +2692,7 @@
         "year": "2020",
         "genres": [
           "Post-Black Metal",
-          "Shoegaze",
-          "Post-black Metal"
+          "Shoegaze"
         ]
       },
       {
@@ -2703,8 +2700,7 @@
         "year": "2021",
         "genres": [
           "Post-Black Metal",
-          "Shoegaze",
-          "Post-black Metal"
+          "Shoegaze"
         ]
       },
       {
@@ -2712,15 +2708,13 @@
         "year": "2023",
         "genres": [
           "Post-Black Metal",
-          "Shoegaze",
-          "Post-black Metal"
+          "Shoegaze"
         ]
       }
     ],
     "tags": [
       "Post-Black Metal",
-      "Shoegaze",
-      "Post-black Metal"
+      "Shoegaze"
     ]
   },
   {
@@ -2865,14 +2859,14 @@
         "year": "2018",
         "genres": [
           "Nu Metal",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
       "Nu Metal",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Metalcore",
       "Alternative Rock",
       "Grunge"
@@ -3113,12 +3107,12 @@
         "name": "Mother's Guilty Pleasure Part One",
         "year": "2023",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -3174,12 +3168,12 @@
         "name": "Opus Atlantica",
         "year": "2002",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -3191,7 +3185,7 @@
         "name": "Oracle",
         "year": "2015",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -3240,12 +3234,12 @@
         "name": "Sign Of The Hourglass",
         "year": "2020",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power",
+      "Progressive Power Metal",
       "Death Metal",
       "Melodic Death Metal",
       "Thrash Metal",
@@ -3310,7 +3304,7 @@
         "year": "2015",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3318,7 +3312,7 @@
         "year": "2016",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3326,7 +3320,7 @@
         "year": "2016",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3334,7 +3328,7 @@
         "year": "2017",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3342,7 +3336,7 @@
         "year": "2017",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3350,7 +3344,7 @@
         "year": "2018",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3358,7 +3352,7 @@
         "year": "2018",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3366,7 +3360,7 @@
         "year": "2019",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3374,7 +3368,7 @@
         "year": "2019",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3382,7 +3376,7 @@
         "year": "2019",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3390,7 +3384,7 @@
         "year": "2019",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3398,7 +3392,7 @@
         "year": "2020",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3406,13 +3400,13 @@
         "year": "2020",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -3693,7 +3687,7 @@
         "genres": [
           "Metalcore",
           "Mathcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3702,7 +3696,7 @@
         "genres": [
           "Metalcore",
           "Mathcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3711,14 +3705,14 @@
         "genres": [
           "Metalcore",
           "Mathcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
       "Mathcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3925,7 +3919,7 @@
         "year": "2002",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3933,7 +3927,7 @@
         "year": "2004",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3941,14 +3935,14 @@
         "year": "2006",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Unearthed : Possessed",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Metalcore"
         ]
@@ -3958,13 +3952,13 @@
         "year": "2021",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Crossover Thrash",
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
       "Metalcore"
     ]
@@ -4485,8 +4479,8 @@
         "year": "2014",
         "genres": [
           "Fusion",
-          "Noise Metal",
-          "Experimental Metal",
+          "Noise",
+          "Experimental",
           "Electronic",
           "Alternative Rock",
           "Art Rock",
@@ -4497,8 +4491,8 @@
     ],
     "tags": [
       "Fusion",
-      "Noise Metal",
-      "Experimental Metal",
+      "Noise",
+      "Experimental",
       "Electronic",
       "Alternative Rock",
       "Art Rock",
@@ -4671,31 +4665,15 @@
         "year": "2011",
         "genres": [
           "Soundtrack",
-          "Fun",
           "Children's",
-          "Stage & Screen",
-          "Muppets",
-          "Cute",
-          "The Muppets",
-          "Children",
-          "Kids",
-          "Dead Hensons",
-          "Muppet"
+          "Stage & Screen"
         ]
       }
     ],
     "tags": [
       "Soundtrack",
-      "Fun",
       "Children's",
-      "Stage & Screen",
-      "Muppets",
-      "Cute",
-      "The Muppets",
-      "Children",
-      "Kids",
-      "Dead Hensons",
-      "Muppet"
+      "Stage & Screen"
     ]
   },
   {
@@ -4960,7 +4938,7 @@
         "name": "Alien Shivers",
         "year": "2018",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -5015,7 +4993,6 @@
       "Progressive Metal",
       "Djent",
       "Progressive Rock",
-      "Prog Rock",
       "Electronic",
       "Rock"
     ]

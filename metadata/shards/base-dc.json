@@ -140,19 +140,19 @@
         "name": "A World Depraved",
         "year": "2002",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Pristine In Bondage",
         "year": "2004",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -480,13 +480,13 @@
         "name": "Kyrie",
         "year": "1992",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Death Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Death Doom Metal"
     ]
   },
@@ -499,19 +499,19 @@
         "name": "בייבי אוריינטל",
         "year": "2015",
         "genres": [
-          "Children's Music"
+          "Children's"
         ]
       },
       {
         "name": "בייבי אוריינטל 2",
         "year": "2015",
         "genres": [
-          "Children's Music"
+          "Children's"
         ]
       }
     ],
     "tags": [
-      "Children's Music"
+      "Children's"
     ]
   },
   {
@@ -679,28 +679,28 @@
         "name": "Black Rose",
         "year": "1983",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Boys Will Be Boys",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Nightmare",
         "year": "1985",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Walk It How You Talk It",
         "year": "1987",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -719,7 +719,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal"
     ]
   },
@@ -761,16 +761,16 @@
         "name": "Bloodsoaked Necrovoid / Defunto",
         "year": "2026",
         "genres": [
-          "Death Death Metal",
-          "Doom Metal | Doom Death Metal",
-          "Death Metal"
+          "Death Metal",
+          "Doom Metal",
+          "Death Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Death Death Metal",
-      "Doom Metal | Doom Death Metal",
-      "Death Metal"
+      "Death Metal",
+      "Doom Metal",
+      "Death Doom Metal"
     ]
   },
   {
@@ -886,7 +886,7 @@
           "Heavy Metal",
           "Experimental Metal",
           "Progressive Metal",
-          "Prog Rock",
+          "Progressive Rock",
           "Alternative Metal"
         ]
       }
@@ -897,7 +897,7 @@
       "Sludge Metal",
       "Heavy Metal",
       "Experimental Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Alternative Metal"
     ]
   },
@@ -991,7 +991,7 @@
         "year": "2022",
         "genres": [
           "Progressive Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -999,7 +999,7 @@
         "year": "2023",
         "genres": [
           "Progressive Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -1007,13 +1007,13 @@
         "year": "2025",
         "genres": [
           "Progressive Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Black Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -1243,14 +1243,14 @@
         "name": "Vacuum Horror, Horror Vacuum",
         "year": "1994",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Superhuman Dome",
         "year": "1996",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
@@ -1292,13 +1292,13 @@
         "name": "Vol. 2",
         "year": "2011",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Death 'N' Roll",
+      "Death 'n' Roll",
       "Hard Rock"
     ]
   },
@@ -1655,33 +1655,33 @@
         "name": "The Unrevealed Secret",
         "year": "2016",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Renaissance",
         "year": "2020",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Rocking With The Idols",
         "year": "2021",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Behind A Vision",
         "year": "2025",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power",
+      "Progressive Power Metal",
       "Progressive Metal",
       "Symphonic Metal"
     ]
@@ -1736,12 +1736,12 @@
         "name": "Mirror Of Perception Part I - Coma Vigil",
         "year": "2005",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -1752,26 +1752,26 @@
         "name": "Devourers Of Light",
         "year": "2014",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "Roots Of Darkness",
         "year": "2016",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "Rotting Ceremony",
         "year": "2021",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death"
+      "Death Doom Metal"
     ]
   },
   {
@@ -2314,13 +2314,13 @@
         "year": "2026",
         "genres": [
           "Death Metal",
-          "Crust"
+          "Crust Punk"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Crust"
+      "Crust Punk"
     ]
   },
   {
@@ -2375,7 +2375,7 @@
         "year": "2010",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -2383,7 +2383,7 @@
         "year": "2011",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -2391,13 +2391,13 @@
         "year": "2016",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -2930,7 +2930,7 @@
         "year": "2016",
         "genres": [
           "Sludge Metal",
-          "Post Rock",
+          "Post-Rock",
           "Doom Metal"
         ]
       }
@@ -2939,7 +2939,7 @@
       "Death Metal",
       "Black Metal",
       "Sludge Metal",
-      "Post Rock",
+      "Post-Rock",
       "Doom Metal"
     ]
   },
@@ -2986,19 +2986,19 @@
         "name": "The Distortion Of Lies And The Overdriven Truth",
         "year": "2014",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "The Final Cull",
         "year": "2015",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -3228,12 +3228,12 @@
         "name": "Rise Against",
         "year": "2007",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3350,12 +3350,12 @@
         "name": "Queen Of Darkness",
         "year": "2018",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Black",
+      "Experimental Black Metal",
       "Breakcore"
     ]
   },
@@ -3412,21 +3412,15 @@
       {
         "name": "Make-Koshi",
         "year": "2026",
-        "genres": [
-          "Various"
-        ]
+        "genres": []
       },
       {
         "name": "Help Point",
         "year": "2026",
-        "genres": [
-          "Various"
-        ]
+        "genres": []
       }
     ],
-    "tags": [
-      "Various"
-    ]
+    "tags": []
   },
   {
     "normalizedName": "sierra",
@@ -3501,13 +3495,13 @@
         "name": "Forsaken",
         "year": "2003",
         "genres": [
-          "Symphonic Gothic",
+          "Symphonic Gothic Metal",
           "Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Gothic",
+      "Symphonic Gothic Metal",
       "Doom Metal"
     ]
   },
@@ -3651,26 +3645,26 @@
         "name": "Stream",
         "year": "1988",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Take It Or Leave It",
         "year": "1995",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Nothing Is Sacred",
         "year": "1998",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -3797,16 +3791,16 @@
         "genres": [
           "Power Electronics",
           "Electronic",
-          "Noise Metal",
-          "Ambient Metal"
+          "Noise",
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Power Electronics",
       "Electronic",
-      "Noise Metal",
-      "Ambient Metal"
+      "Noise",
+      "Ambient"
     ]
   },
   {
@@ -3945,7 +3939,7 @@
         "year": "2010",
         "genres": [
           "Black Metal",
-          "Post-punk"
+          "Post-Punk"
         ]
       },
       {
@@ -3953,7 +3947,7 @@
         "year": "2013",
         "genres": [
           "Black Metal",
-          "Post-punk"
+          "Post-Punk"
         ]
       },
       {
@@ -3961,7 +3955,7 @@
         "year": "2014",
         "genres": [
           "Black Metal",
-          "Post-punk"
+          "Post-Punk"
         ]
       },
       {
@@ -3969,13 +3963,13 @@
         "year": "2016",
         "genres": [
           "Black Metal",
-          "Post-punk"
+          "Post-Punk"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Post-punk"
+      "Post-Punk"
     ]
   },
   {
@@ -4081,7 +4075,7 @@
         "name": "Prototype",
         "year": "1994",
         "genres": [
-          "Industrial Thrash"
+          "Industrial Thrash Metal"
         ]
       },
       {
@@ -4095,20 +4089,20 @@
         "name": "Enter The Metal",
         "year": "2013",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Return Of The Metal",
         "year": "2014",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash",
-      "Industrial Thrash",
+      "Groove Thrash Metal",
+      "Industrial Thrash Metal",
       "Thrash Metal"
     ]
   },
@@ -4257,8 +4251,8 @@
         "year": "2013",
         "genres": [
           "Heavy Metal",
-          "Prog Rock",
-          "Hardcore Metal"
+          "Progressive Rock",
+          "Hardcore"
         ]
       },
       {
@@ -4274,8 +4268,8 @@
       "Djent",
       "Progressive Metal",
       "Heavy Metal",
-      "Prog Rock",
-      "Hardcore Metal"
+      "Progressive Rock",
+      "Hardcore"
     ]
   },
   {
@@ -4286,14 +4280,14 @@
         "name": "Syntheosis",
         "year": "2019",
         "genres": [
-          "Psychedelic Doom",
-          "Psychedelic Black"
+          "Psychedelic Doom Metal",
+          "Psychedelic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Doom",
-      "Psychedelic Black"
+      "Psychedelic Doom Metal",
+      "Psychedelic Black Metal"
     ]
   },
   {
@@ -4368,30 +4362,26 @@
         "name": "Thresholder",
         "year": "2013",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Unraveling; Arising",
         "year": "2018",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Tides Of Fire",
         "year": "2020",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {

@@ -141,7 +141,7 @@
         "genres": [
           "Black Metal",
           "Electronic",
-          "Prog Rock",
+          "Progressive Rock",
           "Folk, World, & Country",
           "Folk Rock"
         ]
@@ -184,8 +184,7 @@
           "Atmospheric Folk Metal",
           "Doom Metal",
           "Black Metal",
-          "Post-Rock Metal",
-          "Metal"
+          "Post-Rock Metal"
         ]
       }
     ],
@@ -194,14 +193,13 @@
       "Neofolk",
       "Black Metal",
       "Electronic",
-      "Prog Rock",
+      "Progressive Rock",
       "Folk, World, & Country",
       "Folk Rock",
       "Rock",
       "Atmospheric Folk Metal",
       "Doom Metal",
-      "Post-Rock Metal",
-      "Metal"
+      "Post-Rock Metal"
     ]
   },
   {
@@ -978,7 +976,7 @@
         "genres": [
           "Funk / Soul",
           "Hip Hop",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Pop Rap"
         ]
       }
@@ -986,7 +984,7 @@
     "tags": [
       "Funk / Soul",
       "Hip Hop",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Pop Rap"
     ]
   },
@@ -1075,10 +1073,8 @@
         "genres": [
           "Death Metal",
           "Rock",
-          "Ukraine",
           "Technical Death Metal",
-          "Ukrainian Death Metal",
-          "Lugansk"
+          "Ukrainian Death Metal"
         ]
       },
       {
@@ -1094,10 +1090,8 @@
     "tags": [
       "Death Metal",
       "Rock",
-      "Ukraine",
       "Technical Death Metal",
-      "Ukrainian Death Metal",
-      "Lugansk"
+      "Ukrainian Death Metal"
     ]
   },
   {
@@ -1238,19 +1232,19 @@
         "name": "Love - Gastronomy",
         "year": "1996",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Clorophile?",
         "year": "1999",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Death"
+      "Experimental Death Metal"
     ]
   },
   {
@@ -1861,7 +1855,7 @@
         "name": "Evil Forces Command",
         "year": "2018",
         "genres": [
-          "Blackened Speed",
+          "Blackened Speed Metal",
           "Blackened Thrash Metal"
         ]
       },
@@ -1869,7 +1863,7 @@
         "name": "At The Darkest Night",
         "year": "2020",
         "genres": [
-          "Blackened Speed",
+          "Blackened Speed Metal",
           "Blackened Thrash Metal"
         ]
       },
@@ -1877,7 +1871,7 @@
         "name": "The Devil Is Always Looking For Souls",
         "year": "2023",
         "genres": [
-          "Blackened Speed",
+          "Blackened Speed Metal",
           "Blackened Thrash Metal"
         ]
       },
@@ -1885,13 +1879,13 @@
         "name": "Triumph Of Evil",
         "year": "2025",
         "genres": [
-          "Blackened Speed",
+          "Blackened Speed Metal",
           "Blackened Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Speed",
+      "Blackened Speed Metal",
       "Blackened Thrash Metal"
     ]
   },
@@ -2175,33 +2169,33 @@
         "name": "Where Dreams Turn To Dust",
         "year": "2001",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
         "name": "Departure",
         "year": "2004",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
         "name": "Six Waves Of Woe",
         "year": "2008",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
         "name": "Among The Dormant Watchers",
         "year": "2018",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Doom"
+      "Atmospheric Doom Metal"
     ]
   },
   {
@@ -2299,8 +2293,7 @@
       }
     ],
     "tags": [
-      "Sludge Metal",
-      "Metal"
+      "Sludge Metal"
     ]
   },
   {
@@ -2313,7 +2306,7 @@
         "year": "1983",
         "genres": [
           "Country Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Art Rock",
           "Ballad",
           "Pop",
@@ -2325,7 +2318,7 @@
     ],
     "tags": [
       "Country Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Art Rock",
       "Ballad",
       "Pop",
@@ -2565,7 +2558,7 @@
         "name": "Samus Octology",
         "year": "2007",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       },
@@ -2574,15 +2567,15 @@
         "year": "2009",
         "genres": [
           "Progressive Metal",
-          "Post Rock",
-          "Prog Rock"
+          "Post-Rock",
+          "Progressive Rock"
         ]
       }
     ],
     "tags": [
-      "Post Rock",
+      "Post-Rock",
       "Progressive Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -2728,42 +2721,42 @@
         "name": "Turn To Red",
         "year": "1979",
         "genres": [
-          "Post-punk"
+          "Post-Punk"
         ]
       },
       {
         "name": "Killing Joke",
         "year": "1980",
         "genres": [
-          "Post-punk"
+          "Post-Punk"
         ]
       },
       {
         "name": "What's This For...!",
         "year": "1981",
         "genres": [
-          "Post-punk"
+          "Post-Punk"
         ]
       },
       {
         "name": "Birds Of A Feather",
         "year": "1982",
         "genres": [
-          "Post-punk"
+          "Post-Punk"
         ]
       },
       {
         "name": "Revelations",
         "year": "1982",
         "genres": [
-          "Post-punk"
+          "Post-Punk"
         ]
       },
       {
         "name": "Fire Dances",
         "year": "1983",
         "genres": [
-          "Post-punk"
+          "Post-Punk"
         ]
       },
       {
@@ -2798,8 +2791,8 @@
         "name": "Extremities, Dirt & Various Repressed Emotions",
         "year": "1990",
         "genres": [
-          "Post-punk",
-          "Industrial Metal"
+          "Post-Punk",
+          "Industrial"
         ]
       },
       {
@@ -2808,87 +2801,87 @@
         "genres": [
           "New Wave",
           "Electronic",
-          "Industrial Metal",
-          "Post-punk"
+          "Industrial",
+          "Post-Punk"
         ]
       },
       {
         "name": "Pandemonium",
         "year": "1994",
         "genres": [
-          "Post-punk",
-          "Industrial Metal"
+          "Post-Punk",
+          "Industrial"
         ]
       },
       {
         "name": "Jana",
         "year": "1995",
         "genres": [
-          "Post-punk",
-          "Industrial Metal"
+          "Post-Punk",
+          "Industrial"
         ]
       },
       {
         "name": "Democracy",
         "year": "1996",
         "genres": [
-          "Post-punk",
-          "Industrial Metal"
+          "Post-Punk",
+          "Industrial"
         ]
       },
       {
         "name": "Hosannas From The Basements Of Hell",
         "year": "2006",
         "genres": [
-          "Post-punk",
-          "Industrial Metal"
+          "Post-Punk",
+          "Industrial"
         ]
       },
       {
         "name": "Absolute Dissent",
         "year": "2010",
         "genres": [
-          "Post-punk",
-          "Industrial Metal"
+          "Post-Punk",
+          "Industrial"
         ]
       },
       {
         "name": "In Excelsis",
         "year": "2010",
         "genres": [
-          "Post-punk",
-          "Industrial Metal"
+          "Post-Punk",
+          "Industrial"
         ]
       },
       {
         "name": "Mmxii",
         "year": "2012",
         "genres": [
-          "Post-punk",
-          "Industrial Metal"
+          "Post-Punk",
+          "Industrial"
         ]
       },
       {
         "name": "Pylon",
         "year": "2015",
         "genres": [
-          "Post-punk",
-          "Industrial Metal"
+          "Post-Punk",
+          "Industrial"
         ]
       },
       {
         "name": "Lord Of Chaos",
         "year": "2022",
         "genres": [
-          "Post-punk",
-          "Industrial Metal"
+          "Post-Punk",
+          "Industrial"
         ]
       }
     ],
     "tags": [
       "Darkwave",
-      "Post-punk",
-      "Industrial Metal",
+      "Post-Punk",
+      "Industrial",
       "New Wave",
       "Electronic"
     ]
@@ -3106,7 +3099,7 @@
           "Funk / Soul",
           "Ballad",
           "Pop",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       },
       {
@@ -3114,7 +3107,7 @@
         "year": "1995",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Ballad",
           "Pop",
           "Hip Hop"
@@ -3126,7 +3119,7 @@
         "genres": [
           "Funk / Soul",
           "Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Ballad",
           "New Jack Swing",
           "Pop"
@@ -3139,7 +3132,7 @@
           "Funk / Soul",
           "Ballad",
           "Pop",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       },
       {
@@ -3148,7 +3141,7 @@
         "genres": [
           "Funk / Soul",
           "Latin",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Electronic",
           "Ballad",
           "House",
@@ -3191,7 +3184,7 @@
         "genres": [
           "Funk / Soul",
           "Holiday",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Gospel",
           "Classical",
           "Pop",
@@ -3212,7 +3205,7 @@
       "Ballad",
       "Garage House",
       "Funk / Soul",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Hip Hop",
       "Latin",
       "House",
@@ -3558,14 +3551,14 @@
         "name": "Rasen",
         "year": "2016",
         "genres": [
-          "Groove Death"
+          "Groove Death Metal"
         ]
       },
       {
         "name": "Redfog",
         "year": "2018",
         "genres": [
-          "Groove Death"
+          "Groove Death Metal"
         ]
       },
       {
@@ -3582,7 +3575,7 @@
         "name": "Nija",
         "year": "2020",
         "genres": [
-          "Groove Death"
+          "Groove Death Metal"
         ]
       },
       {
@@ -3599,21 +3592,21 @@
         "name": "Shaman",
         "year": "2021",
         "genres": [
-          "Groove Death"
+          "Groove Death Metal"
         ]
       },
       {
         "name": "Descent",
         "year": "2023",
         "genres": [
-          "Groove Death"
+          "Groove Death Metal"
         ]
       },
       {
         "name": "The Forgotten",
         "year": "2023",
         "genres": [
-          "Groove Death"
+          "Groove Death Metal"
         ]
       },
       {
@@ -3636,7 +3629,7 @@
         "name": "Death Above Life",
         "year": "2025",
         "genres": [
-          "Groove Death"
+          "Groove Death Metal"
         ]
       },
       {
@@ -3657,7 +3650,7 @@
       }
     ],
     "tags": [
-      "Groove Death",
+      "Groove Death Metal",
       "Melodic Death Metal",
       "Groove Metal",
       "Industrial Metal",
@@ -3938,7 +3931,7 @@
           "Black Metal",
           "Doom Metal",
           "Sludge Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       }
     ],
@@ -3947,7 +3940,7 @@
       "Black Metal",
       "Doom Metal",
       "Sludge Metal",
-      "Post Rock"
+      "Post-Rock"
     ]
   },
   {
@@ -4032,7 +4025,7 @@
           "Experimental Metal",
           "Industrial Metal",
           "Jazz",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4155,7 +4148,6 @@
       "Jazz-rock",
       "Industrial Metal",
       "Jazz",
-      "Avantgarde Metal",
       "Avant-garde Metal",
       "Progressive Metal",
       "Symphonic Metal"
@@ -4221,13 +4213,13 @@
         "name": "Wrong Way To Salvation",
         "year": "2008",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Gothic Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Gothic Metal"
     ]
   },
@@ -4441,19 +4433,19 @@
         "name": "Darkened Silhouette",
         "year": "2004",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Daylight Deception",
         "year": "2009",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -5193,26 +5185,26 @@
         "name": "Heart Of A Killer",
         "year": "1993",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Girth",
         "year": "1997",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Redivivus",
         "year": "2006",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -5224,15 +5216,13 @@
         "year": "2026",
         "genres": [
           "Death Metal",
-          "Metalcore",
-          "Metal"
+          "Metalcore"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Metalcore",
-      "Metal"
+      "Metalcore"
     ]
   },
   {

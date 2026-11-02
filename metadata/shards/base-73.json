@@ -7,33 +7,33 @@
         "name": "Nox",
         "year": "2017",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Interminable Conniption",
         "year": "2019",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Repression's Blossom",
         "year": "2019",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "In The Falls",
         "year": "2021",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -432,33 +432,33 @@
         "name": "Before Eden",
         "year": "2001",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "The Legacy Of Gaia",
         "year": "2005",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Dark Entity",
         "year": "2007",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "A Realm Reborn",
         "year": "2015",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -604,14 +604,16 @@
         "year": "2026",
         "genres": [
           "Heavy Hard Rock",
-          "Doom Metal | Heavy Metal",
+          "Doom Metal",
+          "Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
       "Heavy Hard Rock",
-      "Doom Metal | Heavy Metal",
+      "Doom Metal",
+      "Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -678,7 +680,7 @@
         "genres": [
           "Heavy Metal",
           "Punk",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -738,7 +740,7 @@
       "Heavy Metal",
       "Hard Rock",
       "Punk",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -960,7 +962,7 @@
         "name": "Monumento",
         "year": "2008",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Gothic Metal"
         ]
       },
@@ -968,13 +970,13 @@
         "name": "Crime Scene",
         "year": "2010",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Gothic Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Gothic Metal"
     ]
   },
@@ -1897,19 +1899,19 @@
         "name": "The Crossroads Conundrum",
         "year": "2017",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Heirs Of Isildur Vs Tales From Nocturnia",
         "year": "2021",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -2146,8 +2148,8 @@
         "genres": [
           "Comedy",
           "Pop Rock",
-          "Folk Metal",
-          "Prog Rock",
+          "Folk",
+          "Progressive Rock",
           "Classic Rock",
           "Folk, World, & Country",
           "Folk Rock"
@@ -2159,8 +2161,8 @@
         "genres": [
           "Comedy",
           "Pop Rock",
-          "Folk Metal",
-          "Prog Rock",
+          "Folk",
+          "Progressive Rock",
           "Classic Rock",
           "Folk, World, & Country",
           "Folk Rock"
@@ -2172,8 +2174,8 @@
         "genres": [
           "Comedy",
           "Pop Rock",
-          "Folk Metal",
-          "Prog Rock",
+          "Folk",
+          "Progressive Rock",
           "Classic Rock",
           "Folk, World, & Country",
           "Folk Rock"
@@ -2185,8 +2187,8 @@
         "genres": [
           "Comedy",
           "Pop Rock",
-          "Folk Metal",
-          "Prog Rock",
+          "Folk",
+          "Progressive Rock",
           "Classic Rock",
           "Folk, World, & Country",
           "Folk Rock"
@@ -2196,8 +2198,8 @@
     "tags": [
       "Comedy",
       "Pop Rock",
-      "Folk Metal",
-      "Prog Rock",
+      "Folk",
+      "Progressive Rock",
       "Classic Rock",
       "Folk, World, & Country",
       "Folk Rock"
@@ -2212,8 +2214,7 @@
         "year": "2019",
         "genres": [
           "Post-Black Metal",
-          "Shoegaze",
-          "Post-black Metal"
+          "Shoegaze"
         ]
       },
       {
@@ -2221,8 +2222,7 @@
         "year": "2020",
         "genres": [
           "Post-Black Metal",
-          "Shoegaze",
-          "Post-black Metal"
+          "Shoegaze"
         ]
       },
       {
@@ -2230,15 +2230,13 @@
         "year": "2022",
         "genres": [
           "Post-Black Metal",
-          "Shoegaze",
-          "Post-black Metal"
+          "Shoegaze"
         ]
       }
     ],
     "tags": [
       "Post-Black Metal",
-      "Shoegaze",
-      "Post-black Metal"
+      "Shoegaze"
     ]
   },
   {
@@ -2352,19 +2350,19 @@
         "name": "Limelight",
         "year": "1980",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Ashes To Ashes",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       }
     ],
     "tags": [
-      "New Wave Of British Heavy"
+      "NWOBHM"
     ]
   },
   {
@@ -2619,89 +2617,89 @@
         "name": "Lost Renaissance",
         "year": "2004",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Memoirs",
         "year": "2007",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Reflections",
         "year": "2009",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Rose Funeral Of Tragedy",
         "year": "2011",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Tales Of Historia",
         "year": "2012",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Through The Gates Of Splendor",
         "year": "2012",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Through The Gates Of Death",
         "year": "2013",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Chronostrings",
         "year": "2014",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Lost Renaissance ～The Road Of Evangelist～",
         "year": "2014",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Eternal Zero",
         "year": "2017",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "11 Trajectories",
         "year": "2021",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Minstrelics",
         "year": "2024",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -2780,15 +2778,13 @@
         "name": "Out Loud",
         "year": "2005",
         "genres": [
-          "Goth Rock",
-          "Nu Metal",
-          "Gothic Rock"
+          "Gothic Rock",
+          "Nu Metal"
         ]
       }
     ],
     "tags": [
       "Gothic Rock",
-      "Goth Rock",
       "Nu Metal"
     ]
   },
@@ -2983,40 +2979,40 @@
         "name": "Life Imitates Art",
         "year": "2002",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Beyond Good And Evil",
         "year": "2007",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Out With The Old",
         "year": "2010",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "The Music Of Chance",
         "year": "2014",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "In The Shadow Of The Beast",
         "year": "2018",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Death"
+      "Experimental Death Metal"
     ]
   },
   {
@@ -3061,7 +3057,7 @@
         "name": "Just For Fun",
         "year": "1989",
         "genres": [
-          "Neoclassical Power",
+          "Neoclassical Power Metal",
           "Heavy Metal",
           "Hard Rock"
         ]
@@ -3070,7 +3066,7 @@
         "name": "Rape Of The Earth",
         "year": "1991",
         "genres": [
-          "Neoclassical Power",
+          "Neoclassical Power Metal",
           "Heavy Metal",
           "Hard Rock",
           "Progressive Metal"
@@ -3080,7 +3076,7 @@
         "name": "Amphibia",
         "year": "1996",
         "genres": [
-          "Neoclassical Power",
+          "Neoclassical Power Metal",
           "Heavy Metal",
           "Hard Rock",
           "Progressive Metal"
@@ -3090,7 +3086,7 @@
         "name": "On The Edge",
         "year": "1999",
         "genres": [
-          "Neoclassical Power",
+          "Neoclassical Power Metal",
           "Heavy Metal",
           "Hard Rock",
           "Progressive Metal"
@@ -3100,7 +3096,7 @@
         "name": "An Ephemeral World",
         "year": "2004",
         "genres": [
-          "Neoclassical Power",
+          "Neoclassical Power Metal",
           "Heavy Metal",
           "Hard Rock",
           "Progressive Metal"
@@ -3110,7 +3106,7 @@
         "name": "Patrick Rondat & Hervé N'kaoua",
         "year": "2008",
         "genres": [
-          "Neoclassical Power",
+          "Neoclassical Power Metal",
           "Heavy Metal",
           "Hard Rock",
           "Progressive Metal"
@@ -3120,7 +3116,7 @@
         "name": "Escape From Shadows",
         "year": "2025",
         "genres": [
-          "Neoclassical Power",
+          "Neoclassical Power Metal",
           "Heavy Metal",
           "Hard Rock",
           "Progressive Metal"
@@ -3128,7 +3124,7 @@
       }
     ],
     "tags": [
-      "Neoclassical Power",
+      "Neoclassical Power Metal",
       "Heavy Metal",
       "Hard Rock",
       "Progressive Metal"
@@ -3142,14 +3138,14 @@
         "name": "Too Different",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Rise Up",
         "year": "1986",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -3169,7 +3165,7 @@
     ],
     "tags": [
       "Heavy Metal",
-      "New Wave Of British Heavy"
+      "NWOBHM"
     ]
   },
   {
@@ -3247,7 +3243,7 @@
         "year": "2022",
         "genres": [
           "Stoner Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -3255,7 +3251,7 @@
     ],
     "tags": [
       "Stoner Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Psychedelic Rock",
       "Rock"
     ]
@@ -3471,14 +3467,12 @@
         "name": "daily reminders to repent from sin [vol. 3]",
         "year": "2026",
         "genres": [
-          "Metalcore",
-          "Metal"
+          "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Metalcore",
-      "Metal"
+      "Metalcore"
     ]
   },
   {
@@ -3660,7 +3654,6 @@
           "Romantic",
           "Pop",
           "Folk, World, & Country",
-          "Modern",
           "Nordic"
         ]
       }
@@ -3671,7 +3664,6 @@
       "Romantic",
       "Pop",
       "Folk, World, & Country",
-      "Modern",
       "Nordic"
     ]
   },
@@ -4126,19 +4118,19 @@
         "name": "A Glance From Unreality",
         "year": "2002",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Spleen",
         "year": "2005",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {

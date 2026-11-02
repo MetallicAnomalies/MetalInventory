@@ -24,13 +24,13 @@
         "name": "Aegisthus",
         "year": "2012",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Symphonic Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Symphonic Metal"
     ]
   },
@@ -104,7 +104,7 @@
         "year": "2011",
         "genres": [
           "Death Metal",
-          "Crust Metal"
+          "Crust Punk"
         ]
       },
       {
@@ -126,7 +126,7 @@
         "year": "2022",
         "genres": [
           "Death Metal",
-          "Crust Metal"
+          "Crust Punk"
         ]
       },
       {
@@ -134,7 +134,7 @@
         "year": "2022",
         "genres": [
           "Death Metal",
-          "Crust Metal"
+          "Crust Punk"
         ]
       },
       {
@@ -147,8 +147,7 @@
     ],
     "tags": [
       "Death Metal",
-      "Crust Punk",
-      "Crust Metal"
+      "Crust Punk"
     ]
   },
   {
@@ -540,7 +539,7 @@
         "name": "Båkü",
         "year": "2023",
         "genres": [
-          "Blackened Sludge",
+          "Blackened Sludge Metal",
           "Post-Metal"
         ]
       },
@@ -548,13 +547,13 @@
         "name": "Soma",
         "year": "2025",
         "genres": [
-          "Blackened Sludge",
+          "Blackened Sludge Metal",
           "Post-Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Sludge",
+      "Blackened Sludge Metal",
       "Post-Metal"
     ]
   },
@@ -854,7 +853,7 @@
         "year": "2008",
         "genres": [
           "Screamo",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore",
           "Christian Alternative Rock"
         ]
@@ -864,7 +863,7 @@
         "year": "2014",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -872,7 +871,7 @@
         "year": "2015",
         "genres": [
           "Screamo",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore",
           "Christian Alternative Rock"
         ]
@@ -880,7 +879,7 @@
     ],
     "tags": [
       "Screamo",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Metalcore",
       "Christian Alternative Rock"
     ]
@@ -1159,7 +1158,7 @@
         "year": "2014",
         "genres": [
           "Gothic Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
@@ -1167,7 +1166,7 @@
         "year": "2015",
         "genres": [
           "Gothic Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
@@ -1175,7 +1174,7 @@
         "year": "2017",
         "genres": [
           "Gothic Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
@@ -1207,7 +1206,7 @@
         "year": "2020",
         "genres": [
           "Gothic Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
@@ -1215,7 +1214,7 @@
         "year": "2022",
         "genres": [
           "Gothic Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
@@ -1228,7 +1227,7 @@
     ],
     "tags": [
       "Gothic Metal",
-      "Melodic Doom",
+      "Melodic Doom Metal",
       "Doom Metal"
     ]
   },
@@ -1455,8 +1454,7 @@
     ],
     "tags": [
       "Progressive Metal",
-      "Technical Death Metal",
-      "Metal"
+      "Technical Death Metal"
     ]
   },
   {
@@ -1525,7 +1523,7 @@
         "year": "2021",
         "genres": [
           "Screamo",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1533,7 +1531,7 @@
         "year": "2023",
         "genres": [
           "Screamo",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1544,7 +1542,7 @@
     ],
     "tags": [
       "Screamo",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1591,7 +1589,7 @@
         "name": "Eidola",
         "year": "2011",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Progressive Rock"
         ]
       },
@@ -1599,7 +1597,7 @@
         "name": "The Great Glass Elephant",
         "year": "2012",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Progressive Rock"
         ]
       },
@@ -1607,7 +1605,7 @@
         "name": "Degeneraterra",
         "year": "2015",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Progressive Rock"
         ]
       },
@@ -1615,7 +1613,7 @@
         "name": "To Speak, To Listen",
         "year": "2017",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Progressive Rock"
         ]
       },
@@ -1623,7 +1621,7 @@
         "name": "The Architect",
         "year": "2021",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Progressive Rock"
         ]
       },
@@ -1631,7 +1629,7 @@
         "name": "Eviscerate",
         "year": "2024",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Djent"
         ]
       },
@@ -1639,7 +1637,7 @@
         "name": "Mend",
         "year": "2025",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Djent"
         ]
       },
@@ -1650,7 +1648,7 @@
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Progressive Rock",
       "Djent"
     ]
@@ -1739,7 +1737,7 @@
         "year": "1986",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1747,7 +1745,7 @@
         "year": "1987",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1755,7 +1753,7 @@
         "year": "1988",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1763,13 +1761,13 @@
         "year": "1990",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Crossover Thrash",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1989,33 +1987,33 @@
         "name": "Vol. 1",
         "year": "2018",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "Frozen Wastes",
         "year": "2020",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "The Holocene Conclusion",
         "year": "2023",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       },
       {
         "name": "Eye To Windward",
         "year": "2025",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Sludge"
+      "Progressive Sludge Metal"
     ]
   },
   {
@@ -2147,7 +2145,7 @@
         "name": "惨劇の血に赫く染まった愛と絶望の黒い死とが紡ぐ最期の物語",
         "year": "2009",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Melodic Death Metal"
         ]
       },
@@ -2155,7 +2153,7 @@
         "name": "廃した少女は、這い寄る混沌と邂逅す",
         "year": "2010",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Melodic Death Metal"
         ]
       },
@@ -2163,7 +2161,7 @@
         "name": "狂おしく咲いた凄惨な骸は奏で、愛おしく裂いた少女は聖餐の詞を謳う",
         "year": "2011",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Melodic Death Metal"
         ]
       },
@@ -2171,7 +2169,7 @@
         "name": "黄泉より聴こゆ、皇国の燈と焔の少女",
         "year": "2014",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Melodic Death Metal"
         ]
       },
@@ -2179,7 +2177,7 @@
         "name": "腐蝕ルサンチマン、不死欲の猿楽座。",
         "year": "2016",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Melodic Death Metal"
         ]
       },
@@ -2187,13 +2185,13 @@
         "name": "殯――死へ耽る想いは戮辱すら喰らい、彼方の生を愛する為に命を讃える――。",
         "year": "2022",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Melodic Death Metal"
     ]
   },
@@ -2277,7 +2275,7 @@
         "name": "Palindrome",
         "year": "2019",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Jazz"
         ]
       },
@@ -2285,13 +2283,13 @@
         "name": "Chthonian Transmissions",
         "year": "2022",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Jazz"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Doom",
+      "Atmospheric Doom Metal",
       "Jazz",
       "Black Metal"
     ]
@@ -2357,12 +2355,12 @@
         "name": "Nachash",
         "year": "2014",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Sludge"
+      "Progressive Sludge Metal"
     ]
   },
   {
@@ -2482,7 +2480,7 @@
         "genres": [
           "Jazz-rock",
           "Trip Hop",
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Instrumental",
           "Hip Hop",
@@ -2508,7 +2506,7 @@
       "Soul",
       "Jazz-rock",
       "Trip Hop",
-      "Electro Metal",
+      "Electro",
       "Electronic",
       "Instrumental",
       "Hip Hop",
@@ -2963,12 +2961,12 @@
         "name": "No Hope For The Future",
         "year": "1995",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -3403,70 +3401,70 @@
         "name": "'Oropa'a",
         "year": "1998",
         "genres": [
-          "Hardcore Metal",
-          "Groove Heavy"
+          "Hardcore",
+          "Groove Heavy Metal"
         ]
       },
       {
         "name": "What We See Is Not What We Wanna See",
         "year": "2003",
         "genres": [
-          "Hardcore Metal",
-          "Groove Heavy"
+          "Hardcore",
+          "Groove Heavy Metal"
         ]
       },
       {
         "name": "Bleeding My World",
         "year": "2006",
         "genres": [
-          "Hardcore Metal",
-          "Groove Heavy"
+          "Hardcore",
+          "Groove Heavy Metal"
         ]
       },
       {
         "name": "The Almighty",
         "year": "2011",
         "genres": [
-          "Hardcore Metal",
-          "Groove Heavy"
+          "Hardcore",
+          "Groove Heavy Metal"
         ]
       },
       {
         "name": "Resurrection",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
-          "Groove Heavy"
+          "Hardcore",
+          "Groove Heavy Metal"
         ]
       },
       {
         "name": "Horizon Noir",
         "year": "2019",
         "genres": [
-          "Hardcore Metal",
-          "Groove Heavy"
+          "Hardcore",
+          "Groove Heavy Metal"
         ]
       },
       {
         "name": "Vision Obscure",
         "year": "2020",
         "genres": [
-          "Hardcore Metal",
-          "Groove Heavy"
+          "Hardcore",
+          "Groove Heavy Metal"
         ]
       },
       {
         "name": "Ecorché Vif",
         "year": "2023",
         "genres": [
-          "Hardcore Metal",
-          "Groove Heavy"
+          "Hardcore",
+          "Groove Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
-      "Groove Heavy"
+      "Hardcore",
+      "Groove Heavy Metal"
     ]
   },
   {
@@ -3575,40 +3573,40 @@
         "name": "Terminus Ep",
         "year": "2012",
         "genres": [
-          "Progressive Stoner"
+          "Progressive Stoner Metal"
         ]
       },
       {
         "name": "Terminus",
         "year": "2013",
         "genres": [
-          "Progressive Stoner"
+          "Progressive Stoner Metal"
         ]
       },
       {
         "name": "Safe Travels, See You Never",
         "year": "2016",
         "genres": [
-          "Progressive Stoner"
+          "Progressive Stoner Metal"
         ]
       },
       {
         "name": "Fortune Looming",
         "year": "2018",
         "genres": [
-          "Progressive Stoner"
+          "Progressive Stoner Metal"
         ]
       },
       {
         "name": "The Silent Bell Toll",
         "year": "2021",
         "genres": [
-          "Progressive Stoner"
+          "Progressive Stoner Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Stoner"
+      "Progressive Stoner Metal"
     ]
   },
   {
@@ -3620,7 +3618,7 @@
         "year": "2019",
         "genres": [
           "Melodic Death Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
@@ -3628,7 +3626,7 @@
         "year": "2020",
         "genres": [
           "Melodic Death Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
@@ -3636,13 +3634,13 @@
         "year": "2021",
         "genres": [
           "Melodic Death Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Melodic Doom"
+      "Melodic Doom Metal"
     ]
   },
   {
@@ -3726,9 +3724,9 @@
         "name": "Not Just Breathing",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3767,8 +3765,8 @@
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal",
-      "Post-hardcore"
+      "Hardcore",
+      "Post-Hardcore"
     ]
   },
   {
@@ -3838,12 +3836,12 @@
         "name": "This Viper Womb",
         "year": "2016",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -4014,26 +4012,26 @@
         "name": "Death Is Proof Of Satan's Power",
         "year": "2017",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Light The Candle In Honour Of Devils",
         "year": "2019",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Decomposing Spells",
         "year": "2022",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Heavy"
+      "Blackened Heavy Metal"
     ]
   },
   {

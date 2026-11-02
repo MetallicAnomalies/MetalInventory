@@ -114,7 +114,7 @@
         "year": "2019",
         "genres": [
           "Progressive Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -130,7 +130,7 @@
         "year": "2019",
         "genres": [
           "Progressive Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -156,7 +156,7 @@
       "Progressive Deathcore",
       "Metalcore",
       "Progressive Metal",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Djent",
       "Deathcore",
       "Math Rock"
@@ -534,7 +534,7 @@
           "Heavy Metal",
           "Doom Metal",
           "Horror Rock",
-          "Goth Rock",
+          "Gothic Rock",
           "Gothic Metal"
         ]
       },
@@ -577,7 +577,7 @@
       "Rock & Roll",
       "Heavy Metal",
       "Horror Rock",
-      "Goth Rock",
+      "Gothic Rock",
       "Gothic Metal",
       "Rock"
     ]
@@ -592,7 +592,7 @@
         "genres": [
           "Grindcore",
           "Industrial Metal",
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
@@ -601,14 +601,14 @@
         "genres": [
           "Grindcore",
           "Industrial Metal",
-          "Noise Metal"
+          "Noise"
         ]
       }
     ],
     "tags": [
       "Grindcore",
       "Industrial Metal",
-      "Noise Metal"
+      "Noise"
     ]
   },
   {
@@ -672,9 +672,9 @@
         "year": "2005",
         "genres": [
           "Emo",
-          "Experimental Metal",
-          "Prog Rock",
-          "Post-hardcore"
+          "Experimental",
+          "Progressive Rock",
+          "Post-Hardcore"
         ]
       },
       {
@@ -682,7 +682,7 @@
         "year": "2007",
         "genres": [
           "Indie Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock",
           "Emo"
         ]
@@ -699,9 +699,9 @@
     "tags": [
       "Indie Rock",
       "Emo",
-      "Experimental Metal",
-      "Prog Rock",
-      "Post-hardcore",
+      "Experimental",
+      "Progressive Rock",
+      "Post-Hardcore",
       "Rock"
     ]
   },
@@ -737,13 +737,13 @@
         "name": "Chrysalides Funèbres",
         "year": "2004",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Death Metal"
     ]
   },
@@ -1058,7 +1058,7 @@
         "name": "The Voyager",
         "year": "2013",
         "genres": [
-          "Viking Black",
+          "Viking Black Metal",
           "Folk Metal"
         ]
       },
@@ -1066,7 +1066,7 @@
         "name": "Tales Of Loot And Plunder",
         "year": "2014",
         "genres": [
-          "Viking Black",
+          "Viking Black Metal",
           "Folk Metal"
         ]
       },
@@ -1074,7 +1074,7 @@
         "name": "Chronicles Untold",
         "year": "2015",
         "genres": [
-          "Viking Black",
+          "Viking Black Metal",
           "Folk Metal"
         ]
       },
@@ -1082,7 +1082,7 @@
         "name": "Winterspell",
         "year": "2017",
         "genres": [
-          "Viking Black",
+          "Viking Black Metal",
           "Folk Metal"
         ]
       },
@@ -1090,13 +1090,13 @@
         "name": "Plagueweaver",
         "year": "2019",
         "genres": [
-          "Viking Black",
+          "Viking Black Metal",
           "Folk Metal"
         ]
       }
     ],
     "tags": [
-      "Viking Black",
+      "Viking Black Metal",
       "Folk Metal"
     ]
   },
@@ -1351,36 +1351,36 @@
         "name": "Fugazi",
         "year": "1988",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "3 Songs",
         "year": "1989",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Margin Walker",
         "year": "1989",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Repeater",
         "year": "1990",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Steady Diet Of Nothing",
         "year": "1991",
         "genres": [
-          "Post-hardcore",
-          "Experimental Metal",
+          "Post-Hardcore",
+          "Experimental",
           "Alternative Rock"
         ]
       },
@@ -1388,8 +1388,8 @@
         "name": "In On The Kill Taker",
         "year": "1993",
         "genres": [
-          "Post-hardcore",
-          "Experimental Metal",
+          "Post-Hardcore",
+          "Experimental",
           "Noise Rock"
         ]
       },
@@ -1397,8 +1397,8 @@
         "name": "Red Medicine",
         "year": "1995",
         "genres": [
-          "Post-hardcore",
-          "Experimental Metal",
+          "Post-Hardcore",
+          "Experimental",
           "Noise Rock"
         ]
       },
@@ -1406,8 +1406,8 @@
         "name": "End Hits",
         "year": "1998",
         "genres": [
-          "Post-hardcore",
-          "Experimental Metal",
+          "Post-Hardcore",
+          "Experimental",
           "Noise Rock"
         ]
       },
@@ -1415,8 +1415,8 @@
         "name": "Instrument Soundtrack",
         "year": "1999",
         "genres": [
-          "Post-hardcore",
-          "Experimental Metal",
+          "Post-Hardcore",
+          "Experimental",
           "Noise Rock"
         ]
       },
@@ -1424,8 +1424,8 @@
         "name": "Furniture",
         "year": "2001",
         "genres": [
-          "Post-hardcore",
-          "Experimental Metal",
+          "Post-Hardcore",
+          "Experimental",
           "Noise Rock"
         ]
       },
@@ -1433,15 +1433,15 @@
         "name": "The Argument",
         "year": "2001",
         "genres": [
-          "Post-hardcore",
-          "Experimental Metal",
+          "Post-Hardcore",
+          "Experimental",
           "Noise Rock"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
-      "Experimental Metal",
+      "Post-Hardcore",
+      "Experimental",
       "Noise Rock",
       "Alternative Rock"
     ]
@@ -1490,7 +1490,7 @@
         "year": "2016",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1498,7 +1498,7 @@
         "year": "2016",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1506,7 +1506,7 @@
         "year": "2019",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1514,7 +1514,7 @@
         "year": "2021",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1522,22 +1522,20 @@
         "year": "2023",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Armour Of Angels",
         "year": "2026",
         "genres": [
-          "Metalcore",
-          "Metal"
+          "Metalcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal",
-      "Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1557,7 +1555,7 @@
         "year": "2010",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -1585,7 +1583,7 @@
     "tags": [
       "Progressive Black Metal",
       "Black Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -1762,7 +1760,7 @@
         "name": "Gravity",
         "year": "2020",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1781,7 +1779,7 @@
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Melodic Hardcore",
       "Metalcore",
       "Emo"
@@ -2385,7 +2383,7 @@
         "name": "Territory: Guitar Kill !!!",
         "year": "2000",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Shred"
         ]
       },
@@ -2393,7 +2391,7 @@
         "name": "The Spilling",
         "year": "2001",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Shred"
         ]
       },
@@ -2401,7 +2399,7 @@
         "name": "This Is War",
         "year": "2012",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Shred"
         ]
       },
@@ -2409,13 +2407,13 @@
         "name": "The Metalworker",
         "year": "2013",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Shred"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy",
+      "Progressive Heavy Metal",
       "Shred"
     ]
   },
@@ -2480,14 +2478,14 @@
         "year": "2026",
         "genres": [
           "Black Thrash Metal",
-          "Death Metal | Black Thrash Metal",
+          "Death Metal",
           "Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Black Thrash Metal",
-      "Death Metal | Black Thrash Metal",
+      "Death Metal",
       "Thrash Metal"
     ]
   },
@@ -2520,19 +2518,16 @@
         "name": "Sleep Beneath the Water",
         "year": "2026",
         "genres": [
-          "Melodic Metalcore Electronic elements",
+          "Melodic Metalcore",
           "Power Metal",
-          "Alternative Rock with Chiptune Electronic elements",
-          "Electronic elements"
+          "Alternative Rock"
         ]
       }
     ],
     "tags": [
       "Melodic Metalcore",
-      "Melodic Metalcore Electronic elements",
       "Power Metal",
-      "Alternative Rock with Chiptune Electronic elements",
-      "Electronic elements"
+      "Alternative Rock"
     ]
   },
   {
@@ -2940,7 +2935,7 @@
         "year": "2013",
         "genres": [
           "Death Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -2983,7 +2978,7 @@
     "tags": [
       "Progressive Death Metal",
       "Death Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Progressive Metal"
     ]
   },
@@ -3025,7 +3020,7 @@
         "name": "Aveilut",
         "year": "2022",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Atmospheric Black Metal"
         ]
       },
@@ -3033,13 +3028,13 @@
         "name": "The Promise Of Rain",
         "year": "2024",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Atmospheric Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Atmospheric Black Metal"
     ]
   },
@@ -3468,26 +3463,26 @@
         "name": "Loneliness",
         "year": "2013",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "The Visage Unbiased",
         "year": "2019",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Three Faces",
         "year": "2022",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Death"
+      "Experimental Death Metal"
     ]
   },
   {
@@ -3684,14 +3679,14 @@
         "name": "Soliloquy",
         "year": "2012",
         "genres": [
-          "Progressive Power",
-          "Melodic Heavy"
+          "Progressive Power Metal",
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power",
-      "Melodic Heavy"
+      "Progressive Power Metal",
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -3702,33 +3697,33 @@
         "name": "Step By Step",
         "year": "2006",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "New Dawn",
         "year": "2009",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "And Life Begins",
         "year": "2010",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Second",
         "year": "2016",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Power"
+      "Melodic Power Metal"
     ]
   },
   {
@@ -3862,7 +3857,7 @@
         "name": "Songs For Insects",
         "year": "1992",
         "genres": [
-          "Avantgarde  Thrash",
+          "Avant-garde Thrash Metal",
           "Progressive Metal"
         ]
       },
@@ -3870,7 +3865,7 @@
         "name": "Mods Carve The Pig: Assassins, Toads And God's Flesh",
         "year": "1993",
         "genres": [
-          "Avantgarde  Thrash",
+          "Avant-garde Thrash Metal",
           "Progressive Metal"
         ]
       },
@@ -3879,7 +3874,7 @@
         "year": "1996",
         "genres": [
           "Progressive Metal",
-          "Alternative  Rock"
+          "Alternative Rock"
         ]
       },
       {
@@ -3887,7 +3882,7 @@
         "year": "1997",
         "genres": [
           "Progressive Metal",
-          "Alternative  Rock"
+          "Alternative Rock"
         ]
       },
       {
@@ -3895,14 +3890,14 @@
         "year": "2001",
         "genres": [
           "Progressive Metal",
-          "Alternative  Rock"
+          "Alternative Rock"
         ]
       }
     ],
     "tags": [
-      "Avantgarde  Thrash",
+      "Avant-garde Thrash Metal",
       "Progressive Metal",
-      "Alternative  Rock"
+      "Alternative Rock"
     ]
   },
   {
@@ -3963,15 +3958,13 @@
         "name": "The Dave Dufort Tapes",
         "year": "2026",
         "genres": [
-          "NWOBHM Heavy Metal",
-          "Heavy Metal | NWOBHM Heavy Metal",
+          "NWOBHM",
           "Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "NWOBHM Heavy Metal",
-      "Heavy Metal | NWOBHM Heavy Metal",
+      "NWOBHM",
       "Heavy Metal"
     ]
   },
@@ -4269,7 +4262,7 @@
         "name": "Irrational Behavior",
         "year": "2016",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       },
@@ -4277,13 +4270,13 @@
         "name": "Chaos Farm",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Crossover Thrash"
     ]
   },

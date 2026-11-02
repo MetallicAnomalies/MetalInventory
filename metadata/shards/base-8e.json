@@ -49,7 +49,7 @@
         "year": "2010",
         "genres": [
           "Progressive Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -57,7 +57,7 @@
         "year": "2012",
         "genres": [
           "Progressive Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -65,13 +65,13 @@
         "year": "2016",
         "genres": [
           "Progressive Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Oriental Folk"
+      "Oriental Folk Metal"
     ]
   },
   {
@@ -82,12 +82,12 @@
         "name": "Wraith",
         "year": "2011",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -349,7 +349,7 @@
         "year": "2001",
         "genres": [
           "Blackened Death Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -357,7 +357,7 @@
         "year": "2001",
         "genres": [
           "Blackened Death Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -365,7 +365,7 @@
         "year": "2002",
         "genres": [
           "Blackened Death Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -373,7 +373,7 @@
         "year": "2005",
         "genres": [
           "Blackened Death Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -381,7 +381,7 @@
         "year": "2009",
         "genres": [
           "Blackened Death Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -389,7 +389,7 @@
         "year": "2009",
         "genres": [
           "Blackened Death Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -397,7 +397,7 @@
         "year": "2015",
         "genres": [
           "Blackened Death Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -405,7 +405,7 @@
         "year": "2017",
         "genres": [
           "Blackened Death Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -413,7 +413,7 @@
         "year": "2019",
         "genres": [
           "Blackened Death Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -421,7 +421,7 @@
         "year": "2022",
         "genres": [
           "Blackened Death Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -429,13 +429,13 @@
         "year": "2025",
         "genres": [
           "Blackened Death Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       }
     ],
     "tags": [
       "Blackened Death Metal",
-      "Oriental Folk"
+      "Oriental Folk Metal"
     ]
   },
   {
@@ -613,47 +613,47 @@
         "name": "The Mark Bleeds Through",
         "year": "2001",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "The Rise, The Fall, The Rebirth",
         "year": "2012",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "The Mark Bleeds Through: First Blood",
         "year": "2013",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "A Decadence Divine",
         "year": "2017",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Black Widow",
         "year": "2019",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Rise Of The Phoenix",
         "year": "2021",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -665,7 +665,7 @@
         "year": "1985",
         "genres": [
           "Hard Rock",
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
@@ -673,13 +673,13 @@
         "year": "2000",
         "genres": [
           "Hard Rock",
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
       "Hard Rock",
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -693,7 +693,7 @@
         "genres": [
           "Alternative Rock",
           "Nu Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -705,7 +705,7 @@
     "tags": [
       "Alternative Rock",
       "Nu Metal",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -848,14 +848,14 @@
         "name": "Survival Of The Innocent",
         "year": "2013",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Stay On Track",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -863,12 +863,12 @@
         "name": "Triumph",
         "year": "2016",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -1011,7 +1011,7 @@
         "year": "2018",
         "genres": [
           "Progressive Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -1019,7 +1019,7 @@
         "year": "2019",
         "genres": [
           "Progressive Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -1027,7 +1027,7 @@
         "year": "2020",
         "genres": [
           "Progressive Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -1035,13 +1035,13 @@
         "year": "2021",
         "genres": [
           "Progressive Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Black Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -1092,7 +1092,7 @@
         "name": "First Strike",
         "year": "1986",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -1111,7 +1111,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal"
     ]
   },
@@ -1236,26 +1236,26 @@
         "name": "...Hacia Lo Desconocido",
         "year": "2005",
         "genres": [
-          "Melodic Thrash"
+          "Melodic Thrash Metal"
         ]
       },
       {
         "name": "Mundo Diablo",
         "year": "2010",
         "genres": [
-          "Melodic Thrash"
+          "Melodic Thrash Metal"
         ]
       },
       {
         "name": "Dèjá Vu",
         "year": "2012",
         "genres": [
-          "Melodic Thrash"
+          "Melodic Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Thrash"
+      "Melodic Thrash Metal"
     ]
   },
   {
@@ -1439,14 +1439,14 @@
         "genres": [
           "Chinese Indie",
           "Chinese Rock",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Chinese Indie",
       "Chinese Rock",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -1670,26 +1670,26 @@
         "name": "Pathogens",
         "year": "2009",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Altars & Arsonists",
         "year": "2010",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Cycles Of Light",
         "year": "2012",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1701,7 +1701,7 @@
         "year": "2015",
         "genres": [
           "Post-Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Jazz"
         ]
       },
@@ -1710,7 +1710,7 @@
         "year": "2017",
         "genres": [
           "Post-Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Jazz"
         ]
       },
@@ -1719,7 +1719,7 @@
         "year": "2019",
         "genres": [
           "Post-Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Jazz"
         ]
       },
@@ -1728,7 +1728,7 @@
         "year": "2019",
         "genres": [
           "Post-Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Jazz"
         ]
       },
@@ -1737,7 +1737,7 @@
         "year": "2021",
         "genres": [
           "Post-Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Jazz"
         ]
       },
@@ -1746,14 +1746,14 @@
         "year": "2024",
         "genres": [
           "Post-Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Jazz"
         ]
       }
     ],
     "tags": [
       "Post-Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Jazz"
     ]
   },
@@ -2020,14 +2020,12 @@
         "name": "Miljonair (Feat. Sbmg, Lil Kleine, Boef & Ronnie Flex)",
         "year": "2018",
         "genres": [
-          "Hip Hop",
-          "Dutch"
+          "Hip Hop"
         ]
       }
     ],
     "tags": [
-      "Hip Hop",
-      "Dutch"
+      "Hip Hop"
     ]
   },
   {
@@ -2249,14 +2247,14 @@
         "genres": [
           "Funk / Soul",
           "Hip Hop",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
     "tags": [
       "Funk / Soul",
       "Hip Hop",
-      "Contemporary R&b"
+      "Contemporary R&B"
     ]
   },
   {
@@ -2594,7 +2592,7 @@
         "name": "Decadance",
         "year": "2010",
         "genres": [
-          "Atmospheric Death",
+          "Atmospheric Death Metal",
           "Gothic Metal"
         ]
       },
@@ -2602,13 +2600,13 @@
         "name": "Impure Speculum Replete With Eeriness",
         "year": "2012",
         "genres": [
-          "Atmospheric Death",
+          "Atmospheric Death Metal",
           "Gothic Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Death",
+      "Atmospheric Death Metal",
       "Gothic Metal"
     ]
   },
@@ -2695,7 +2693,7 @@
         "genres": [
           "Black Metal",
           "Death Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -2711,7 +2709,7 @@
         "genres": [
           "Black Metal",
           "Death Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -2720,7 +2718,7 @@
         "genres": [
           "Black Metal",
           "Death Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -2729,7 +2727,7 @@
         "genres": [
           "Black Metal",
           "Death Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -2772,7 +2770,7 @@
       "Black Metal",
       "Death Metal",
       "Progressive Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -3124,26 +3122,26 @@
         "name": "Overlorde",
         "year": "1987",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Return Of The Snow Giant",
         "year": "2004",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Awaken The Fury",
         "year": "2023",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -3154,26 +3152,26 @@
         "name": "Fairytales",
         "year": "1994",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Worlds And Worlds",
         "year": "1996",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Sidereal Journey",
         "year": "1998",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -3436,26 +3434,26 @@
         "name": "The Great Tribulation",
         "year": "2011",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Atonement",
         "year": "2015",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Más Fuerte Que La Muerte",
         "year": "2020",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -3483,13 +3481,13 @@
         "name": "Altra Seccatura",
         "year": "2022",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -3759,7 +3757,7 @@
         "name": "Split Cranium",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crust Punk"
         ]
       },
@@ -3767,13 +3765,13 @@
         "name": "I'm The Devil And I'm Ok",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crust Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Crust Punk"
     ]
   },
@@ -3786,7 +3784,7 @@
         "name": "Last Chance To Breathe",
         "year": "2005",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3802,7 +3800,7 @@
     "tags": [
       "Hard Rock",
       "Alternative Rock",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Rock"
     ]
   },
@@ -4067,14 +4065,12 @@
         "name": "Oceans Above",
         "year": "2023",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {
@@ -4391,13 +4387,13 @@
         "name": "Sequestrum / Torture Rack",
         "year": "2026",
         "genres": [
-          "Death Metal | Death Metal",
+          "Death Metal",
           "Grindcore"
         ]
       }
     ],
     "tags": [
-      "Death Metal | Death Metal",
+      "Death Metal",
       "Grindcore"
     ]
   },
@@ -4608,13 +4604,13 @@
         "year": "2020",
         "genres": [
           "Pagan Black Metal",
-          "Blackened Folk"
+          "Blackened Folk Metal"
         ]
       }
     ],
     "tags": [
       "Pagan Black Metal",
-      "Blackened Folk"
+      "Blackened Folk Metal"
     ],
     "origin": "RU"
   },

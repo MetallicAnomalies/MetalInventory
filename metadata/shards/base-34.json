@@ -146,7 +146,7 @@
           "Pop",
           "Funk / Soul",
           "Hip Hop",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
@@ -154,7 +154,7 @@
       "Pop",
       "Funk / Soul",
       "Hip Hop",
-      "Contemporary R&b"
+      "Contemporary R&B"
     ]
   },
   {
@@ -347,7 +347,7 @@
           "IDM",
           "Trip Hop",
           "Downtempo",
-          "Experimental Metal",
+          "Experimental",
           "Electronic",
           "Big Beat",
           "Pop"
@@ -367,7 +367,7 @@
       "Big Band",
       "IDM",
       "Trip Hop",
-      "Experimental Metal",
+      "Experimental",
       "Big Beat"
     ]
   },
@@ -379,19 +379,19 @@
         "name": "Illuminated",
         "year": "2010",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Siren",
         "year": "2019",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -782,19 +782,19 @@
         "name": "A Thousand Flatlines",
         "year": "2011",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Going Postal",
         "year": "2013",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -1442,7 +1442,7 @@
         "year": "2016",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -1474,7 +1474,7 @@
     "tags": [
       "Black Metal",
       "Sludge Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Stoner Black Metal",
       "Southern Black Metal"
     ]
@@ -1531,7 +1531,7 @@
         "year": "2018",
         "genres": [
           "Folk Metal",
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
@@ -1539,7 +1539,7 @@
         "year": "2019",
         "genres": [
           "Folk Metal",
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
@@ -1547,13 +1547,13 @@
         "year": "2024",
         "genres": [
           "Folk Metal",
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       }
     ],
     "tags": [
       "Folk Metal",
-      "Epic Heavy"
+      "Epic Heavy Metal"
     ]
   },
   {
@@ -1761,7 +1761,7 @@
         "name": "Blunt Force Nihilist",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Groove Metal"
         ]
       },
@@ -1769,7 +1769,7 @@
         "name": "Burn Victim",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Groove Metal"
         ]
       },
@@ -1777,7 +1777,7 @@
         "name": "Dyatlov",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Groove Metal"
         ]
       },
@@ -1785,7 +1785,7 @@
         "name": "The Peoples Temple",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Groove Metal"
         ]
       },
@@ -1800,7 +1800,7 @@
     ],
     "tags": [
       "Death Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Groove Metal",
       "Thrash Heavy Metal",
       "Heavy Metal"
@@ -2191,33 +2191,33 @@
         "name": "Faith In Salvation",
         "year": "2009",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "5'55'' Till The End Of Days",
         "year": "2015",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "War For All And All For Won",
         "year": "2019",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Dreamlord Opera",
         "year": "2022",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -2305,7 +2305,7 @@
         "year": "2013",
         "genres": [
           "Psychedelic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Pop",
           "Rock",
           "Folk, World, & Country",
@@ -2370,7 +2370,7 @@
       "Funk / Soul",
       "Jazz-funk",
       "Psychedelic Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Pop",
       "Folk, World, & Country",
       "Folk Rock",
@@ -3379,7 +3379,7 @@
         "name": "The Crooked Path",
         "year": "2008",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       },
@@ -3387,7 +3387,7 @@
         "name": "Black Axis Abraxas",
         "year": "2009",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       },
@@ -3395,7 +3395,7 @@
         "name": "Baron Citadel",
         "year": "2010",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       },
@@ -3403,7 +3403,7 @@
         "name": "Iconoclast Dream",
         "year": "2011",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       },
@@ -3411,7 +3411,7 @@
         "name": "Maleficia Lamiah",
         "year": "2013",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Stoner Metal"
         ]
       },
@@ -3419,12 +3419,12 @@
         "name": "Flesh Throne Press",
         "year": "2015",
         "genres": [
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Doom",
+      "Psychedelic Doom Metal",
       "Stoner Metal"
     ]
   },
@@ -3954,7 +3954,7 @@
         "name": "Ordinary Fate",
         "year": "2010",
         "genres": [
-          "Progressive Power",
+          "Progressive Power Metal",
           "Symphonic Metal"
         ]
       },
@@ -3962,13 +3962,13 @@
         "name": "Universeasons",
         "year": "2012",
         "genres": [
-          "Progressive Power",
+          "Progressive Power Metal",
           "Symphonic Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power",
+      "Progressive Power Metal",
       "Symphonic Metal"
     ]
   },
@@ -4031,40 +4031,40 @@
         "name": "Psychodiagnostics",
         "year": "1993",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Das Lexikon",
         "year": "1995",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "All Things Are Equal In Death",
         "year": "2008",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Veil",
         "year": "2015",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "The Inevitable",
         "year": "2020",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -4075,19 +4075,19 @@
         "name": "Mission Executed",
         "year": "1987",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Master Project Genesis",
         "year": "1988",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -4649,28 +4649,28 @@
         "genres": [
           "Black Metal",
           "Folk Metal",
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "Arntor",
         "year": "1999",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "1184",
         "year": "2001",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "Likferd",
         "year": "2003",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
@@ -4684,7 +4684,7 @@
       }
     ],
     "tags": [
-      "Viking Black",
+      "Viking Black Metal",
       "Black Metal",
       "Folk Metal",
       "Viking Metal"

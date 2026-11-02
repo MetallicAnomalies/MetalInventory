@@ -217,13 +217,13 @@
         "name": "Eerie Monsters",
         "year": "2023",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -758,42 +758,42 @@
         "name": "Conspiracy In Mind",
         "year": "2005",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Waves Of Visual Decay",
         "year": "2006",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Payment Of Existence",
         "year": "2008",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "The Bottom Deep",
         "year": "2011",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Where Echoes Gather",
         "year": "2017",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Where Echoes Gather, Pt. 1: Beneath The Giant",
         "year": "2017",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -801,13 +801,13 @@
         "name": "Hiding From The World",
         "year": "2020",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy",
-      "Prog Rock",
+      "Progressive Heavy Metal",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -1035,7 +1035,7 @@
         "name": "Starting Over",
         "year": "1984",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Heavy Metal"
         ]
       },
@@ -1043,7 +1043,7 @@
         "name": "Animals",
         "year": "1986",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Heavy Metal"
         ]
       },
@@ -1051,7 +1051,7 @@
         "name": "Holy One",
         "year": "2000",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Heavy Metal"
         ]
       },
@@ -1059,13 +1059,13 @@
         "name": "Times Of Terror",
         "year": "2003",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Doom",
+      "Psychedelic Doom Metal",
       "Heavy Metal"
     ]
   },
@@ -1144,15 +1144,13 @@
         "name": "Forever Feared",
         "year": "2026",
         "genres": [
-          "Thrash Metal",
-          "Metal"
+          "Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Blackened Thrash Metal",
-      "Thrash Metal",
-      "Metal"
+      "Thrash Metal"
     ]
   },
   {
@@ -1163,19 +1161,19 @@
         "name": "Fatal Force",
         "year": "2006",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Unholy Rites",
         "year": "2012",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Power"
+      "Melodic Power Metal"
     ]
   },
   {
@@ -1313,7 +1311,7 @@
         "year": "2016",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1321,7 +1319,7 @@
         "year": "2018",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1329,13 +1327,13 @@
         "year": "2024",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1533,12 +1531,12 @@
         "name": "Between Two Worlds",
         "year": "2006",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Heavy"
+      "Blackened Heavy Metal"
     ]
   },
   {
@@ -1700,12 +1698,12 @@
         "name": "Diversity",
         "year": "2017",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -1718,7 +1716,7 @@
         "year": "2002",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1726,7 +1724,7 @@
         "year": "2004",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1734,7 +1732,7 @@
         "year": "2006",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1742,13 +1740,13 @@
         "year": "2009",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1794,40 +1792,40 @@
         "name": "Among The Ruins And Desolate Lands",
         "year": "2013",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "35 Supersonic",
         "year": "2016",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Holy Chrüst",
         "year": "2019",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Lücifer",
         "year": "2019",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Rising",
         "year": "2023",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       }
     ],
     "tags": [
-      "Death 'N' Roll"
+      "Death 'n' Roll"
     ]
   },
   {
@@ -1966,12 +1964,12 @@
         "name": "Untold Stories: The Scriptures Of Sadness",
         "year": "2015",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -2502,13 +2500,13 @@
         "name": "Amplify Human Vibration",
         "year": "2017",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Post Rock",
+      "Post-Rock",
       "Rock"
     ]
   },
@@ -2626,14 +2624,14 @@
         "year": "2018",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Folk Rock",
       "Folk, World, & Country",
-      "Folk Metal",
+      "Folk",
       "Acoustic",
       "Rock"
     ]
@@ -2679,8 +2677,7 @@
       }
     ],
     "tags": [
-      "Heavy Metal",
-      "Metal"
+      "Heavy Metal"
     ]
   },
   {
@@ -2691,7 +2688,7 @@
         "name": "Prepare To Die",
         "year": "1983",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -2700,12 +2697,12 @@
         "year": "1988",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Heavy Metal"
     ]
   },
@@ -2717,12 +2714,12 @@
         "name": "Empire Of The Mind",
         "year": "2012",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -2759,14 +2756,14 @@
         "name": "Worms In The Keys",
         "year": "2012",
         "genres": [
-          "Avantgarde Metal",
-          "Experimental Black"
+          "Avant-garde Metal",
+          "Experimental Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
-      "Experimental Black"
+      "Avant-garde Metal",
+      "Experimental Black Metal"
     ]
   },
   {
@@ -2976,7 +2973,7 @@
         "year": "1985",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -2985,14 +2982,14 @@
         "year": "1999",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
       "Crossover Thrash",
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -3048,12 +3045,12 @@
         "name": "Teaser",
         "year": "1978",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -3171,82 +3168,82 @@
         "name": "Megaliths Of The Abyss",
         "year": "2009",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       },
       {
         "name": "Shadows Over The Cosmos",
         "year": "2010",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       },
       {
         "name": "The Womb Beyond The World",
         "year": "2012",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       },
       {
         "name": "Nightfall",
         "year": "2013",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       },
       {
         "name": "Runa",
         "year": "2013",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       },
       {
         "name": "The Triumph Of Ruin",
         "year": "2016",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       },
       {
         "name": "The Darkness αT τHe Edge οF Dawn",
         "year": "2017",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       },
       {
         "name": "Bleak And Everlasting",
         "year": "2019",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       },
       {
         "name": "Into Darkness Ever More Profound",
         "year": "2023",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       },
       {
         "name": "Advaita",
         "year": "2025",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       },
       {
         "name": "The Glow Of A Distant Fire",
         "year": "2025",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Doom"
+      "Symphonic Doom Metal"
     ]
   },
   {
@@ -3445,7 +3442,6 @@
       }
     ],
     "tags": [
-      "Metal",
       "Heavy Metal",
       "Hard Rock"
     ]
@@ -3475,12 +3471,12 @@
         "name": "Shattering Light's Creation",
         "year": "2017",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Black"
+      "Experimental Black Metal"
     ]
   },
   {
@@ -3532,12 +3528,11 @@
         "name": "Kol Haderech Im Tzipi Shavit",
         "year": "2005",
         "genres": [
-          "Children's Music"
+          "Children's"
         ]
       }
     ],
     "tags": [
-      "Children's Music",
       "Children's",
       "Folk, World, & Country"
     ]
@@ -3601,7 +3596,7 @@
         "year": "2012",
         "genres": [
           "Sludge Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       },
       {
@@ -3609,7 +3604,7 @@
         "year": "2013",
         "genres": [
           "Sludge Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       },
       {
@@ -3712,7 +3707,7 @@
     ],
     "tags": [
       "Sludge Metal",
-      "Post Rock",
+      "Post-Rock",
       "Stoner Rock",
       "Stoner Metal",
       "Progressive Metal",
@@ -3855,19 +3850,19 @@
         "name": "Contempt Over The Stormfall",
         "year": "2015",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "The Awakening",
         "year": "2017",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {

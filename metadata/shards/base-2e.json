@@ -350,7 +350,6 @@
         "name": "Lp",
         "year": "1997",
         "genres": [
-          "Swedish",
           "Trance",
           "House",
           "Electronic"
@@ -362,7 +361,6 @@
       "Techno",
       "Hard House",
       "Trance",
-      "Swedish",
       "House"
     ]
   },
@@ -778,28 +776,28 @@
         "name": "Outlines",
         "year": "1994",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Friction",
         "year": "1995",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Old Songs Vs. New Beats",
         "year": "1996",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "It's Me God",
         "year": "1997",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Metal"
         ]
       },
@@ -807,7 +805,7 @@
         "name": "Venom",
         "year": "1999",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Metal"
         ]
       },
@@ -815,7 +813,7 @@
         "name": "Godbox",
         "year": "2000",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Metal"
         ]
       },
@@ -823,7 +821,7 @@
         "name": "Kollapse",
         "year": "2001",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Metal"
         ]
       },
@@ -834,7 +832,7 @@
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Post-Metal"
     ]
   },
@@ -1466,7 +1464,7 @@
         "year": "2016",
         "genres": [
           "Black Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       },
       {
@@ -1474,13 +1472,13 @@
         "year": "2016",
         "genres": [
           "Black Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Post Rock"
+      "Post-Rock"
     ]
   },
   {
@@ -1491,19 +1489,19 @@
         "name": "Experience",
         "year": "1995",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "And If...",
         "year": "1998",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -1690,7 +1688,7 @@
         "year": "2013",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -1703,7 +1701,7 @@
     ],
     "tags": [
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -1969,22 +1967,22 @@
         "name": "In Regno Langobardorum",
         "year": "2009",
         "genres": [
-          "Viking Folk",
-          "Viking Black"
+          "Viking Folk Metal",
+          "Viking Black Metal"
         ]
       },
       {
         "name": "Omnia Fert Aetas",
         "year": "2014",
         "genres": [
-          "Viking Folk",
-          "Viking Black"
+          "Viking Folk Metal",
+          "Viking Black Metal"
         ]
       }
     ],
     "tags": [
-      "Viking Folk",
-      "Viking Black"
+      "Viking Folk Metal",
+      "Viking Black Metal"
     ]
   },
   {
@@ -2101,30 +2099,30 @@
         "name": "For Those Who Seek Darkness",
         "year": "2018",
         "genres": [
-          "Ambient Metal",
-          "Experimental Doom"
+          "Ambient",
+          "Experimental Doom Metal"
         ]
       },
       {
         "name": "Macabre Hauntings",
         "year": "2020",
         "genres": [
-          "Ambient Metal",
-          "Experimental Doom"
+          "Ambient",
+          "Experimental Doom Metal"
         ]
       },
       {
         "name": "Infernal Underworld",
         "year": "2022",
         "genres": [
-          "Ambient Metal",
-          "Experimental Doom"
+          "Ambient",
+          "Experimental Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Ambient Metal",
-      "Experimental Doom"
+      "Ambient",
+      "Experimental Doom Metal"
     ]
   },
   {
@@ -2862,7 +2860,7 @@
         "year": "2010",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2870,7 +2868,7 @@
         "year": "2014",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2878,7 +2876,7 @@
         "year": "2015",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2886,7 +2884,7 @@
         "year": "2017",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2894,7 +2892,7 @@
         "year": "2019",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2902,7 +2900,7 @@
         "year": "2022",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2910,7 +2908,7 @@
         "year": "2024",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2919,13 +2917,13 @@
         "genres": [
           "Deathcore",
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal",
+      "Hardcore",
       "Deathcore"
     ]
   },
@@ -3379,56 +3377,56 @@
         "name": "Suden Uni",
         "year": "2001",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "Voimasta Ja Kunniasta",
         "year": "2001",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "Kivenkantaja",
         "year": "2003",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "Verisäkeet",
         "year": "2005",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "V: Hävitetty",
         "year": "2007",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "Tulimyrsky",
         "year": "2008",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "Varjoina Kuljemme Kuolleiden Maassa",
         "year": "2011",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "Jumalten Aika",
         "year": "2016",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
@@ -3441,7 +3439,7 @@
       }
     ],
     "tags": [
-      "Viking Folk",
+      "Viking Folk Metal",
       "Black Metal",
       "Folk Metal"
     ]
@@ -3853,7 +3851,7 @@
         "genres": [
           "Heavy Metal",
           "Electronic",
-          "Ebm",
+          "EBM",
           "Alternative Rock",
           "Industrial Metal"
         ]
@@ -3911,7 +3909,7 @@
       "Industrial Rock",
       "Heavy Metal",
       "Electronic",
-      "Ebm",
+      "EBM",
       "Alternative Rock"
     ]
   },
@@ -4104,15 +4102,13 @@
         "name": "Vertebrae After Vertebrae",
         "year": "2026",
         "genres": [
-          "Death Metal",
-          "Metal"
+          "Death Metal"
         ]
       }
     ],
     "tags": [
       "Goregrind",
-      "Death Metal",
-      "Metal"
+      "Death Metal"
     ]
   },
   {
@@ -4180,13 +4176,13 @@
         "name": "Downwards",
         "year": "2013",
         "genres": [
-          "Experimental Death",
+          "Experimental Death Metal",
           "Math Rock"
         ]
       }
     ],
     "tags": [
-      "Experimental Death",
+      "Experimental Death Metal",
       "Math Rock"
     ]
   },
@@ -4417,28 +4413,28 @@
         "name": "Saxon",
         "year": "1979",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Strong Arm Of The Law",
         "year": "1980",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Wheels Of Steel",
         "year": "1980",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Denim And Leather",
         "year": "1981",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -4452,28 +4448,28 @@
         "name": "Power And The Glory",
         "year": "1983",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Crusader",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Innocence Is No Excuse",
         "year": "1985",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Rock The Nations",
         "year": "1986",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -4487,7 +4483,7 @@
         "name": "Destiny",
         "year": "1988",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -4551,7 +4547,7 @@
         "year": "2002",
         "genres": [
           "Heavy Metal",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -4566,7 +4562,7 @@
         "year": "2002",
         "genres": [
           "Heavy Metal",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -4662,7 +4658,6 @@
     ],
     "tags": [
       "Heavy Metal",
-      "New Wave Of British Heavy",
       "NWOBHM"
     ]
   },
@@ -4900,14 +4895,14 @@
         "name": "Realms Of The Unseen",
         "year": "2024",
         "genres": [
-          "Melodic Heavy",
-          "Melodic Power"
+          "Melodic Heavy Metal",
+          "Melodic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
-      "Melodic Power"
+      "Melodic Heavy Metal",
+      "Melodic Power Metal"
     ]
   },
   {
@@ -5029,7 +5024,7 @@
           "Electronic",
           "Euro House",
           "Synth-pop",
-          "Electro Metal"
+          "Electro"
         ]
       }
     ],
@@ -5037,7 +5032,7 @@
       "Electronic",
       "Euro House",
       "Synth-pop",
-      "Electro Metal"
+      "Electro"
     ]
   },
   {
@@ -5213,13 +5208,13 @@
         "year": "2017",
         "genres": [
           "Black Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -5230,19 +5225,19 @@
         "name": "Vol. 0",
         "year": "2017",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Illusions Of A Broken Mind",
         "year": "2018",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -5373,16 +5368,14 @@
         "name": "Iridescence",
         "year": "2026",
         "genres": [
-          "Black Metal",
-          "Metal"
+          "Black Metal"
         ]
       }
     ],
     "tags": [
       "Post-Metal",
       "Atmospheric Black Metal",
-      "Black Metal",
-      "Metal"
+      "Black Metal"
     ]
   },
   {
@@ -5425,26 +5418,26 @@
         "name": "Who's Watching You?",
         "year": "2008",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Reborn",
         "year": "2012",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Flesh Upon The Feelings",
         "year": "2017",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -5718,14 +5711,12 @@
         "name": "Self-Portrait as Healing Wounds",
         "year": "2026",
         "genres": [
-          "Metalcore",
-          "Metal"
+          "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Metalcore",
-      "Metal"
+      "Metalcore"
     ]
   },
   {

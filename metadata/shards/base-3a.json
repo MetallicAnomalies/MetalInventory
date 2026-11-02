@@ -242,7 +242,7 @@
           "Heavy Metal",
           "Math Rock",
           "Electronic",
-          "Prog Rock",
+          "Progressive Rock",
           "Acoustic"
         ]
       },
@@ -299,7 +299,7 @@
       "Heavy Metal",
       "Math Rock",
       "Electronic",
-      "Prog Rock",
+      "Progressive Rock",
       "Acoustic"
     ]
   },
@@ -361,13 +361,13 @@
         "name": "One Ocean",
         "year": "2020",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Melodic Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Melodic Hard Rock"
     ]
   },
@@ -792,14 +792,14 @@
         "genres": [
           "Black Metal",
           "Death Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Black Metal",
       "Death Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -834,7 +834,7 @@
         "name": "Deep In The Mental",
         "year": "1995",
         "genres": [
-          "Avantgarde Math",
+          "Avant-garde Math Metal",
           "Grindcore",
           "Jazz"
         ]
@@ -843,7 +843,7 @@
         "name": "Surrealistic Madness",
         "year": "1995",
         "genres": [
-          "Avantgarde Math",
+          "Avant-garde Math Metal",
           "Grindcore",
           "Jazz"
         ]
@@ -852,7 +852,7 @@
         "name": "Beyond Reasonable Doubt",
         "year": "1997",
         "genres": [
-          "Avantgarde Math",
+          "Avant-garde Math Metal",
           "Grindcore",
           "Jazz"
         ]
@@ -862,7 +862,7 @@
         "year": "1999",
         "genres": [
           "Heavy Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Fusion",
           "Free Improvisation",
           "Math Rock",
@@ -877,7 +877,7 @@
         "name": "The Process Of Self Development",
         "year": "1999",
         "genres": [
-          "Avantgarde Math",
+          "Avant-garde Math Metal",
           "Grindcore",
           "Jazz"
         ]
@@ -886,7 +886,7 @@
         "name": "300 Percent Density",
         "year": "2001",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Jazz-rock",
           "Fusion",
           "Math Rock",
@@ -899,7 +899,7 @@
         "name": "300% Density",
         "year": "2001",
         "genres": [
-          "Avantgarde Math",
+          "Avant-garde Math Metal",
           "Grindcore",
           "Jazz"
         ]
@@ -908,7 +908,7 @@
         "name": "Ghosts Of The Canal: Five Episodes From The Subconscious",
         "year": "2002",
         "genres": [
-          "Avantgarde Math",
+          "Avant-garde Math Metal",
           "Grindcore",
           "Jazz"
         ]
@@ -917,7 +917,7 @@
         "name": "The C.o.m.a. Imprint",
         "year": "2002",
         "genres": [
-          "Avantgarde Math",
+          "Avant-garde Math Metal",
           "Grindcore",
           "Jazz"
         ]
@@ -926,7 +926,7 @@
         "name": "What Doesn't Kill You...",
         "year": "2004",
         "genres": [
-          "Avantgarde Math",
+          "Avant-garde Math Metal",
           "Grindcore",
           "Jazz"
         ]
@@ -935,7 +935,7 @@
         "name": "What Doesnt Kill You Will Make You Stronger",
         "year": "2004",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Conscious",
           "Thrash Metal",
           "Hip Hop"
@@ -945,7 +945,7 @@
         "name": "Kiss The Lie",
         "year": "2008",
         "genres": [
-          "Avantgarde Math",
+          "Avant-garde Math Metal",
           "Grindcore",
           "Jazz"
         ]
@@ -963,17 +963,17 @@
         "name": "While They Were Sleeping",
         "year": "2016",
         "genres": [
-          "Avantgarde Math",
+          "Avant-garde Math Metal",
           "Grindcore",
           "Jazz"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Math",
+      "Avant-garde Math Metal",
       "Grindcore",
       "Jazz",
-      "Hardcore Metal",
+      "Hardcore",
       "Jazz-rock",
       "Fusion",
       "Math Rock",
@@ -1102,26 +1102,26 @@
         "name": "Waiting For Tomorrow",
         "year": "2015",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Lost Reality",
         "year": "2017",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Playing Gods",
         "year": "2020",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -1177,13 +1177,13 @@
         "name": "My Sweet Mortuary",
         "year": "2024",
         "genres": [
-          "Blackened Heavy",
+          "Blackened Heavy Metal",
           "Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Heavy",
+      "Blackened Heavy Metal",
       "Doom Metal"
     ]
   },
@@ -1269,12 +1269,12 @@
         "name": "Revelation In Blood",
         "year": "1994",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -1301,61 +1301,61 @@
         "name": "A Little Devil Ain't Enough",
         "year": "2002",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Soldiers From Hell",
         "year": "2003",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Metal Dictator",
         "year": "2004",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Metalizer",
         "year": "2004",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "At Hell's Deep",
         "year": "2005",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Doom Devilution",
         "year": "2014",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Devil Equinox Ov Doom",
         "year": "2018",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Doomysterium Of Nomed Live",
         "year": "2018",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Heavy"
+      "Blackened Heavy Metal"
     ]
   },
   {
@@ -1542,12 +1542,14 @@
         "name": "Vanguard of Volkish Resistance",
         "year": "2026",
         "genres": [
-          "Black Metal | Raw Black Metal | Raw Black Metal"
+          "Black Metal",
+          "Raw Black Metal"
         ]
       }
     ],
     "tags": [
-      "Black Metal | Raw Black Metal | Raw Black Metal"
+      "Black Metal",
+      "Raw Black Metal"
     ]
   },
   {
@@ -1622,12 +1624,12 @@
         "name": "כיף לי בגן שלי",
         "year": "2011",
         "genres": [
-          "Children's Music"
+          "Children's"
         ]
       }
     ],
     "tags": [
-      "Children's Music"
+      "Children's"
     ]
   },
   {
@@ -1859,33 +1861,33 @@
         "name": "Oni Monogatari",
         "year": "2010",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "天照大御神",
         "year": "2015",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Reborn In Butterfly",
         "year": "2019",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "The Cathartic Anointing Of Heterodoxy In Resilience",
         "year": "2022",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Black"
+      "Experimental Black Metal"
     ]
   },
   {
@@ -2186,7 +2188,7 @@
         "name": "Songs For The Future",
         "year": "2023",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2197,7 +2199,7 @@
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -2320,14 +2322,14 @@
         "genres": [
           "Alternative Rock",
           "Pop Punk",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
       "Pop Punk",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -2341,14 +2343,14 @@
         "genres": [
           "Art Rock",
           "Math Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Art Rock",
       "Math Rock",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -3351,7 +3353,7 @@
         "genres": [
           "Funk / Soul",
           "Rhythm & Blues",
-          "Country Metal",
+          "Country",
           "Folk, World, & Country"
         ]
       },
@@ -3370,7 +3372,7 @@
       "Soul",
       "Rhythm & Blues",
       "Chicago Blues",
-      "Country Metal",
+      "Country",
       "Folk, World, & Country",
       "Jazz",
       "Contemporary Jazz"
@@ -3408,26 +3410,26 @@
         "name": "Darkness Process",
         "year": "2017",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Ancient Remains",
         "year": "2019",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Le Diadème D'argent",
         "year": "2022",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Heavy"
+      "Blackened Heavy Metal"
     ]
   },
   {
@@ -3557,7 +3559,7 @@
         "name": "Antiphon",
         "year": "2012",
         "genres": [
-          "Avantgarde Black",
+          "Avant-garde Black Metal",
           "Blackened Death Metal"
         ]
       },
@@ -3565,7 +3567,7 @@
         "name": "Provoke",
         "year": "2015",
         "genres": [
-          "Avantgarde Black",
+          "Avant-garde Black Metal",
           "Blackened Death Metal"
         ]
       },
@@ -3573,7 +3575,7 @@
         "name": "L'enfer Gris",
         "year": "2017",
         "genres": [
-          "Avantgarde Black",
+          "Avant-garde Black Metal",
           "Blackened Death Metal"
         ]
       },
@@ -3581,7 +3583,7 @@
         "name": "Stele",
         "year": "2018",
         "genres": [
-          "Avantgarde Black",
+          "Avant-garde Black Metal",
           "Blackened Death Metal"
         ]
       },
@@ -3589,7 +3591,7 @@
         "name": "Fracture",
         "year": "2021",
         "genres": [
-          "Avantgarde Black",
+          "Avant-garde Black Metal",
           "Blackened Death Metal"
         ]
       },
@@ -3604,14 +3606,14 @@
         "name": "Motiv",
         "year": "2024",
         "genres": [
-          "Avantgarde Black",
+          "Avant-garde Black Metal",
           "Blackened Death Metal"
         ]
       }
     ],
     "tags": [
       "Deathcore",
-      "Avantgarde Black",
+      "Avant-garde Black Metal",
       "Blackened Death Metal"
     ]
   },
@@ -3645,7 +3647,7 @@
         "year": "2007",
         "genres": [
           "Experimental Jazz",
-          "Avantgarde Metal"
+          "Avant-garde"
         ]
       },
       {
@@ -3653,7 +3655,7 @@
         "year": "2010",
         "genres": [
           "Experimental Jazz",
-          "Avantgarde Metal"
+          "Avant-garde"
         ]
       },
       {
@@ -3682,7 +3684,7 @@
     ],
     "tags": [
       "Experimental Jazz",
-      "Avantgarde Metal",
+      "Avant-garde",
       "Alternative",
       "Jazz"
     ]
@@ -4020,7 +4022,7 @@
         "name": "Chuck",
         "year": "2004",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Emo"
         ]
@@ -4037,7 +4039,7 @@
     "tags": [
       "Pop Punk",
       "Punk",
-      "Hardcore Metal",
+      "Hardcore",
       "Emo",
       "Pop",
       "Pop Rock"
@@ -4709,7 +4711,7 @@
         "year": "1995",
         "genres": [
           "Metalcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -4718,7 +4720,7 @@
         "year": "1996",
         "genres": [
           "Metalcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -4727,7 +4729,7 @@
         "year": "1998",
         "genres": [
           "Metalcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -4736,7 +4738,7 @@
         "year": "1998",
         "genres": [
           "Metalcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -4745,7 +4747,7 @@
         "year": "1999",
         "genres": [
           "Metalcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -4754,7 +4756,7 @@
         "year": "2001",
         "genres": [
           "Metalcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -4762,7 +4764,7 @@
         "name": "From Bliss To Devestation",
         "year": "2001",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal",
           "Nu Metal"
         ]
@@ -4772,7 +4774,7 @@
         "year": "2012",
         "genres": [
           "Metalcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -4781,14 +4783,14 @@
         "year": "2015",
         "genres": [
           "Metalcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
       "Heavy Metal",
       "Nu Metal"

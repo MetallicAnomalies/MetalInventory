@@ -77,7 +77,7 @@
         "year": "2014",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Symphonic Metal"
         ]
       },
@@ -110,7 +110,7 @@
       "Symphonic Metal",
       "Gothic Metal",
       "Progressive Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -1044,7 +1044,7 @@
         "name": "Dead Cross",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1052,13 +1052,13 @@
         "name": "Ii",
         "year": "2022",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -1072,7 +1072,7 @@
         "year": "2019",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1080,7 +1080,7 @@
         "year": "2021",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1088,7 +1088,7 @@
         "year": "2023",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1096,7 +1096,7 @@
         "year": "2025",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1104,13 +1104,13 @@
         "year": "2025",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Crossover Thrash",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1121,7 +1121,7 @@
         "name": "Guitar Chop Shop",
         "year": "2008",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Shred"
         ]
       },
@@ -1129,7 +1129,7 @@
         "name": "Neoclassical Fire",
         "year": "2011",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Shred"
         ]
       },
@@ -1137,13 +1137,13 @@
         "name": "Shred Crusade",
         "year": "2015",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Shred"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Heavy",
+      "Neoclassical Heavy Metal",
       "Shred"
     ]
   },
@@ -1253,7 +1253,7 @@
         "name": "Screenplay",
         "year": "2021",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -1269,7 +1269,6 @@
     "tags": [
       "Progressive Metal",
       "Progressive Rock",
-      "Prog Rock",
       "Rock"
     ]
   },
@@ -1343,12 +1342,14 @@
         "name": "Metal Dragon (Official Movie Soundtrack)",
         "year": "2026",
         "genres": [
-          "Power Metal | Melodic Heavy Metal"
+          "Power Metal",
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Power Metal | Melodic Heavy Metal"
+      "Power Metal",
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -1402,7 +1403,7 @@
         "year": "2022",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1410,13 +1411,13 @@
         "year": "2023",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal"
+      "Hardcore"
     ],
     "origin": "DE"
   },
@@ -1430,14 +1431,14 @@
         "year": "2011",
         "genres": [
           "Alternative Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -1696,12 +1697,12 @@
         "name": "This Is A War",
         "year": "2008",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1805,14 +1806,14 @@
         "name": "New Heaven / New Earth",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
-          "Post Rock"
+          "Hardcore",
+          "Post-Rock"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
-      "Post Rock"
+      "Hardcore",
+      "Post-Rock"
     ]
   },
   {
@@ -1925,8 +1926,7 @@
         "genres": [
           "Industrial Grindcore Black Metal",
           "Noise",
-          "Black Metal",
-          "Noise"
+          "Black Metal"
         ]
       }
     ],
@@ -2031,7 +2031,7 @@
         "genres": [
           "Alternative Rock",
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -2085,7 +2085,7 @@
       "Metalcore",
       "Alternative Metal",
       "Alternative Rock",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -2118,13 +2118,13 @@
         "year": "2018",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -2211,14 +2211,14 @@
         "name": "Elemental Fury",
         "year": "2018",
         "genres": [
-          "Atmospheric  Black"
+          "Atmospheric Black Metal"
         ]
       },
       {
         "name": "Dunkle Millennia",
         "year": "2021",
         "genres": [
-          "Atmospheric  Black"
+          "Atmospheric Black Metal"
         ]
       },
       {
@@ -2232,12 +2232,11 @@
         "name": "Ascension",
         "year": "2023",
         "genres": [
-          "Atmospheric  Black"
+          "Atmospheric Black Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric  Black",
       "Atmospheric Black Metal"
     ]
   },
@@ -2486,33 +2485,33 @@
         "name": "Perpetual Consciousness Nightmare",
         "year": "2015",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Negative Atonal Dissonance",
         "year": "2017",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Omniscient Hallucinatory Delusion",
         "year": "2020",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Autology: The Shadow Work",
         "year": "2021",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Black"
+      "Experimental Black Metal"
     ]
   },
   {
@@ -2703,33 +2702,33 @@
         "name": "Inauguration",
         "year": "2010",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "For Queen And Metal",
         "year": "2012",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Revolution",
         "year": "2014",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Seduction",
         "year": "2019",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -2852,19 +2851,19 @@
         "name": "Odiosior",
         "year": "2019",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       },
       {
         "name": "Syvyyksistä",
         "year": "2020",
         "genres": [
-          "Experimental Black"
+          "Experimental Black Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Black"
+      "Experimental Black Metal"
     ]
   },
   {
@@ -2976,12 +2975,12 @@
         "name": "As Darkness Reigns",
         "year": "1993",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -2992,7 +2991,7 @@
         "name": "Orchid",
         "year": "1998",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Screamo",
           "Grindcore"
         ]
@@ -3001,7 +3000,7 @@
         "name": "Chaos Is Me",
         "year": "1999",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Screamo",
           "Grindcore"
         ]
@@ -3010,14 +3009,14 @@
         "name": "Dance Tonight! Revolution Tomorrow!",
         "year": "2000",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Screamo",
           "Grindcore"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Screamo",
       "Grindcore"
     ]
@@ -3248,54 +3247,54 @@
         "name": "Psycho Punko Metal Groove",
         "year": "1996",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Pissing Razors",
         "year": "1998",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Cast Down The Plague",
         "year": "1999",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Fields Of Disbelief",
         "year": "2000",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Where We Come From",
         "year": "2001",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Evolution",
         "year": "2003",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Eulogy Death March",
         "year": "2021",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -3311,8 +3310,7 @@
           "Rnb/swing",
           "Pop",
           "Hip Hop",
-          "Pop Rap",
-          "Hip-hop"
+          "Pop Rap"
         ]
       }
     ],
@@ -3321,8 +3319,7 @@
       "Rnb/swing",
       "Pop",
       "Hip Hop",
-      "Pop Rap",
-      "Hip-hop"
+      "Pop Rap"
     ]
   },
   {
@@ -3702,7 +3699,7 @@
         "name": "Eisenkopf",
         "year": "1994",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Alternative"
         ]
       },
@@ -3710,7 +3707,7 @@
         "name": "Willkommen Im Club",
         "year": "1996",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Alternative"
         ]
       },
@@ -3718,7 +3715,7 @@
         "name": "Heiland",
         "year": "1997",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Alternative"
         ]
       },
@@ -3726,7 +3723,7 @@
         "name": ">>Bitte Warten",
         "year": "1999",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Alternative"
         ]
       },
@@ -3734,13 +3731,13 @@
         "name": "Pororoca",
         "year": "2006",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Alternative"
         ]
       }
     ],
     "tags": [
-      "Industrial Metal",
+      "Industrial",
       "Alternative",
       "Punk Rock"
     ]
@@ -3934,7 +3931,7 @@
         "name": "Leave Me Alone",
         "year": "1986",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -3942,7 +3939,7 @@
         "name": "Don't Be Swindle",
         "year": "1987",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -3950,7 +3947,7 @@
         "name": "Osaka Mon Amour",
         "year": "1988",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -3994,7 +3991,7 @@
         "year": "1994",
         "genres": [
           "Punk",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -4002,7 +3999,7 @@
         "year": "1999",
         "genres": [
           "Punk",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -4015,7 +4012,7 @@
     ],
     "tags": [
       "Punk",
-      "Hardcore Metal",
+      "Hardcore",
       "Grindcore",
       "Deathgrind"
     ]
@@ -4335,14 +4332,14 @@
         "genres": [
           "Folk Rock",
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Folk Rock",
       "Folk, World, & Country",
-      "Folk Metal",
+      "Folk",
       "Rock"
     ]
   },
@@ -4603,77 +4600,77 @@
         "name": "Themes From William Blake's The Marriage Of Heaven & Hell",
         "year": "1998",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       },
       {
         "name": "Metamorphosis",
         "year": "1999",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       },
       {
         "name": "Perdition City",
         "year": "2000",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       },
       {
         "name": "Silence Teaches You How To Sing",
         "year": "2001",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       },
       {
         "name": "Silencing The Singing",
         "year": "2001",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       },
       {
         "name": "Lyckantropen Themes",
         "year": "2002",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       },
       {
         "name": "A Quick Fix Of Melancholy",
         "year": "2003",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       },
       {
         "name": "Svidd Neger",
         "year": "2003",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       },
       {
         "name": "Blood Inside",
         "year": "2005",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       },
       {
         "name": "Shadows Of The Sun",
         "year": "2007",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       },
       {
         "name": "Wars Of The Roses",
         "year": "2011",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       },
       {
@@ -4688,14 +4685,14 @@
         "name": "Roadburn Ep",
         "year": "2012",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       },
       {
         "name": "Messe I.x-vi.x",
         "year": "2013",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       },
       {
@@ -4712,7 +4709,7 @@
         "name": "Riverhead",
         "year": "2016",
         "genres": [
-          "Ambient Metal",
+          "Ambient",
           "Experimental Metal",
           "Electronic",
           "Soundtrack",
@@ -4725,28 +4722,28 @@
         "name": "Riverhead O.s.t",
         "year": "2016",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       },
       {
         "name": "Sic Transit Gloria Mundi",
         "year": "2017",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       },
       {
         "name": "The Assassination Of Julius Caesar",
         "year": "2017",
         "genres": [
-          "Synthpop"
+          "Synth-pop"
         ]
       },
       {
         "name": "Flowers Of Evil",
         "year": "2020",
         "genres": [
-          "Synthpop"
+          "Synth-pop"
         ]
       },
       {
@@ -4768,22 +4765,22 @@
         "name": "Liminal Animals",
         "year": "2024",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       },
       {
         "name": "Neverland",
         "year": "2025",
         "genres": [
-          "Electronic Avantgarde"
+          "Electronic Avant-garde"
         ]
       }
     ],
     "tags": [
       "Folk Metal",
       "Black Metal",
-      "Electronic Avantgarde",
-      "Synthpop",
+      "Electronic Avant-garde",
+      "Synth-pop",
       "Neofolk",
       "Psychedelic Pop",
       "Psychedelic Rock",
@@ -4792,7 +4789,7 @@
       "Experimental Metal",
       "Krautrock",
       "Synthwave",
-      "Ambient Metal",
+      "Ambient",
       "Soundtrack",
       "Drone Metal",
       "Stage & Screen",
@@ -4933,7 +4930,7 @@
         "year": "2014",
         "genres": [
           "Heavy Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -5001,7 +4998,7 @@
       "Progressive Metal",
       "Symphonic Metal",
       "Heavy Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -5203,8 +5200,7 @@
       }
     ],
     "tags": [
-      "Blackened Thrash Metal",
-      "Metal"
+      "Blackened Thrash Metal"
     ]
   },
   {

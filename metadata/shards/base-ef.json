@@ -500,7 +500,7 @@
         "year": "2000",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Europop",
           "Ballad",
           "Pop",
@@ -512,7 +512,7 @@
         "year": "2001",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Europop",
           "Electronic",
           "Dance-pop",
@@ -525,8 +525,8 @@
         "year": "2003",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b",
-          "Electro Metal",
+          "Contemporary R&B",
+          "Electro",
           "Electronic",
           "Ballad",
           "Synth-pop",
@@ -555,12 +555,12 @@
       "House",
       "Electronic",
       "Funk / Soul",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Europop",
       "Dance-pop",
       "Ballad",
       "Pop",
-      "Electro Metal",
+      "Electro",
       "Synth-pop",
       "Hip Hop",
       "Holiday",
@@ -681,7 +681,7 @@
         "year": "2008",
         "genres": [
           "Black Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -695,7 +695,7 @@
     "tags": [
       "Melodic Black Metal",
       "Black Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -797,28 +797,28 @@
         "name": "The Opening Ritual",
         "year": "1982",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Cloven Hoof",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Dominator",
         "year": "1988",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "A Sultan's Ransom",
         "year": "1989",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -874,7 +874,7 @@
         "name": "Never a Prophet in Your Own Land",
         "year": "2026",
         "genres": [
-          "NWOBHM Heavy Metal",
+          "NWOBHM",
           "Heavy Metal",
           "Heavy Power Metal",
           "Power Metal"
@@ -882,9 +882,8 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal",
-      "NWOBHM Heavy Metal",
       "Heavy Power Metal",
       "Power Metal"
     ]
@@ -1190,13 +1189,13 @@
         "name": "Fateweaver",
         "year": "2022",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Symphonic Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Symphonic Metal"
     ]
   },
@@ -1225,19 +1224,19 @@
         "name": "Inside Shells",
         "year": "2020",
         "genres": [
-          "Avantgarde Death"
+          "Avant-garde Death Metal"
         ]
       },
       {
         "name": "Mondestrunken",
         "year": "2024",
         "genres": [
-          "Avantgarde Death"
+          "Avant-garde Death Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Death"
+      "Avant-garde Death Metal"
     ]
   },
   {
@@ -1662,14 +1661,13 @@
         "name": "Beach City Doom Vol. 1",
         "year": "2026",
         "genres": [
-          "Doom Death Metal",
+          "Death Doom Metal",
           "Death Metal"
         ]
       }
     ],
     "tags": [
       "Death Doom Metal",
-      "Doom Death Metal",
       "Death Metal"
     ]
   },
@@ -1859,54 +1857,54 @@
         "name": "Outward Calm, Inward Chaos",
         "year": "2017",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "I'm So Fucking Lonely",
         "year": "2018",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Aaa",
         "year": "2019",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Aaaaaaaaaaaaa",
         "year": "2019",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "If Ears Could Breathe",
         "year": "2019",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "The Cycle",
         "year": "2020",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "They",
         "year": "2022",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -1962,33 +1960,33 @@
         "name": "Génesis",
         "year": "2015",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Human",
         "year": "2017",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Human Sinfónico",
         "year": "2018",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Supremacy",
         "year": "2019",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -2017,12 +2015,12 @@
         "name": "Inhuman Nature",
         "year": "2010",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -2134,14 +2132,14 @@
         "year": "2006",
         "genres": [
           "Electronic",
-          "Ambient Metal",
+          "Ambient",
           "Modern Classical"
         ]
       }
     ],
     "tags": [
       "Electronic",
-      "Ambient Metal",
+      "Ambient",
       "Modern Classical"
     ]
   },
@@ -2345,14 +2343,14 @@
         "genres": [
           "Heavy Metal",
           "Hard Rock",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
       "Hard Rock",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -2507,13 +2505,13 @@
         "name": "Петербургские слёзы",
         "year": "2026",
         "genres": [
-          "Doom Death Metal",
+          "Death Doom Metal",
           "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death Metal",
+      "Death Doom Metal",
       "Death Metal"
     ]
   },
@@ -2582,56 +2580,56 @@
         "name": "Verderbnis",
         "year": "2011",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Umbriel",
         "year": "2013",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Mogontiacum",
         "year": "2016",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Totholz",
         "year": "2017",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Irrlicht",
         "year": "2020",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Karwoche",
         "year": "2023",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Hammergeddon 666 - Die Katakomben Betritt Man Nicht Allein",
         "year": "2024",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Black Metal",
       "Black Metal",
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -2697,7 +2695,7 @@
         "name": "Ordained Fate",
         "year": "1992",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -2705,13 +2703,13 @@
         "name": "Glimmer Of Hope",
         "year": "1995",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Thrash Metal"
     ]
   },
@@ -2909,7 +2907,7 @@
         "name": "Trials Of Torment",
         "year": "1993",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -2917,13 +2915,13 @@
         "name": "Ritual Of Torment",
         "year": "2006",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Thrash Metal"
     ]
   },
@@ -2935,19 +2933,19 @@
         "name": "Balls Deep In Metal",
         "year": "2007",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Reality Hammer",
         "year": "2011",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -3161,12 +3159,12 @@
         "name": "Rɡyaɡ̇dźé!",
         "year": "2025",
         "genres": [
-          "Extreme Avantgarde Metal"
+          "Extreme Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Extreme Avantgarde Metal"
+      "Extreme Avant-garde Metal"
     ]
   },
   {
@@ -3221,12 +3219,12 @@
         "name": "Skull Tower",
         "year": "2014",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3318,7 +3316,7 @@
         "genres": [
           "Jazz-rock",
           "Fusion",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock",
           "Jazz"
         ]
@@ -3327,7 +3325,7 @@
     "tags": [
       "Jazz-rock",
       "Fusion",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock",
       "Jazz"
     ]
@@ -3399,7 +3397,6 @@
       "Melodic Groove Metal",
       "Melodic Hardcore",
       "Alternative Rock",
-      "Metal",
       "Rock"
     ]
   },
@@ -3551,7 +3548,7 @@
         "name": "Perfect World",
         "year": "2015",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Noise Rock"
         ]
       },
@@ -3559,7 +3556,7 @@
         "name": "Ghosthouse",
         "year": "2016",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Noise Rock"
         ]
       },
@@ -3567,7 +3564,7 @@
         "name": "Wake In Fright",
         "year": "2017",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Noise Rock"
         ]
       },
@@ -3575,7 +3572,7 @@
         "name": "The Long Walk",
         "year": "2018",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Noise Rock"
         ]
       },
@@ -3583,7 +3580,7 @@
         "name": "Shame",
         "year": "2020",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Noise Rock"
         ]
       },
@@ -3591,13 +3588,13 @@
         "name": "American Standard",
         "year": "2024",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Noise Rock"
         ]
       }
     ],
     "tags": [
-      "Industrial Metal",
+      "Industrial",
       "Noise Rock"
     ]
   },
@@ -3730,12 +3727,12 @@
         "name": "The Final Massacre",
         "year": "2006",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -3788,26 +3785,26 @@
         "name": "Desecrated Internal Journey",
         "year": "2009",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Various Shades Of Black",
         "year": "2013",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Senestre",
         "year": "2017",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -3860,12 +3857,12 @@
         "name": "Systematic Enslavement",
         "year": "2016",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -3902,16 +3899,14 @@
         "name": "Iei",
         "year": "2023",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Hellven",
         "year": "2024",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
@@ -3923,8 +3918,7 @@
       }
     ],
     "tags": [
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {

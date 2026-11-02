@@ -20,19 +20,19 @@
         "name": "Deeper Secrets",
         "year": "1996",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Resurrection",
         "year": "2019",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -576,7 +576,7 @@
         "year": "2017",
         "genres": [
           "Stoner Metal",
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
@@ -584,7 +584,7 @@
         "year": "2019",
         "genres": [
           "Stoner Metal",
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       },
       {
@@ -592,13 +592,13 @@
         "year": "2021",
         "genres": [
           "Stoner Metal",
-          "Psychedelic Doom"
+          "Psychedelic Doom Metal"
         ]
       }
     ],
     "tags": [
       "Stoner Metal",
-      "Psychedelic Doom"
+      "Psychedelic Doom Metal"
     ]
   },
   {
@@ -1444,7 +1444,7 @@
         "year": "1992",
         "genres": [
           "Death Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -1453,7 +1453,7 @@
         "year": "1994",
         "genres": [
           "Death Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -1462,7 +1462,7 @@
         "year": "2002",
         "genres": [
           "Death Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -1471,7 +1471,7 @@
         "year": "2016",
         "genres": [
           "Death Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       },
@@ -1480,14 +1480,14 @@
         "year": "2017",
         "genres": [
           "Death Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Progressive Metal",
       "Grindcore"
     ]
@@ -1521,7 +1521,7 @@
         "name": "No Time",
         "year": "1999",
         "genres": [
-          "Atmospheric Gothic",
+          "Atmospheric Gothic Metal",
           "Doom Metal"
         ]
       },
@@ -1529,7 +1529,7 @@
         "name": "Secretly",
         "year": "2000",
         "genres": [
-          "Atmospheric Gothic",
+          "Atmospheric Gothic Metal",
           "Doom Metal"
         ]
       },
@@ -1537,7 +1537,7 @@
         "name": "Voyage",
         "year": "2002",
         "genres": [
-          "Atmospheric Gothic",
+          "Atmospheric Gothic Metal",
           "Doom Metal"
         ]
       },
@@ -1545,7 +1545,7 @@
         "name": "Sweet Disillusions",
         "year": "2004",
         "genres": [
-          "Atmospheric Gothic",
+          "Atmospheric Gothic Metal",
           "Doom Metal"
         ]
       },
@@ -1553,7 +1553,7 @@
         "name": "Relief",
         "year": "2007",
         "genres": [
-          "Atmospheric Gothic",
+          "Atmospheric Gothic Metal",
           "Doom Metal"
         ]
       },
@@ -1594,7 +1594,7 @@
       }
     ],
     "tags": [
-      "Atmospheric Gothic",
+      "Atmospheric Gothic Metal",
       "Doom Metal",
       "Alternative Rock"
     ]
@@ -1665,13 +1665,13 @@
         "name": "Black Hole",
         "year": "2022",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Post Rock",
+      "Post-Rock",
       "Rock"
     ]
   },
@@ -1752,33 +1752,33 @@
         "name": "Fellowship",
         "year": "2020",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "The Saberlight Chronicles",
         "year": "2022",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "The Winterlight Chronicles",
         "year": "2023",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "The Skies Above Eternity",
         "year": "2024",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -1807,33 +1807,33 @@
         "name": "The Gatecrusher",
         "year": "2004",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Frozen Chambers",
         "year": "2008",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Saints Of Sulphur",
         "year": "2011",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "The Rise Of Starlit Fires",
         "year": "2017",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Power"
+      "Melodic Power Metal"
     ]
   },
   {
@@ -1845,15 +1845,12 @@
         "year": "2026",
         "genres": [
           "Avant-garde Progressive Death Metal",
-          "Various",
-          "Progressive Death Metal",
-          "Various"
+          "Progressive Death Metal"
         ]
       }
     ],
     "tags": [
       "Avant-garde Progressive Death Metal",
-      "Various",
       "Progressive Death Metal"
     ]
   },
@@ -2035,7 +2032,7 @@
         "genres": [
           "Heavy Metal",
           "Symphonic Rock",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -2056,7 +2053,7 @@
     "tags": [
       "Heavy Metal",
       "Symphonic Rock",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -2496,12 +2493,12 @@
         "name": "Malpractice",
         "year": "2024",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -2514,7 +2511,7 @@
         "year": "2019",
         "genres": [
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2522,7 +2519,7 @@
         "year": "2020",
         "genres": [
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2530,7 +2527,7 @@
         "year": "2022",
         "genres": [
           "Alternative",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Industrial Metal",
           "Experimental Metal",
           "Electronic",
@@ -2545,13 +2542,13 @@
         "year": "2024",
         "genres": [
           "Alternative",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Alternative",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Industrial Metal",
       "Experimental Metal",
       "Electronic",
@@ -2727,12 +2724,16 @@
         "name": "The Void Communion",
         "year": "2026",
         "genres": [
-          "Black Metal | Black Metal | Pagan Black Metal | Melodic Black Metal"
+          "Black Metal",
+          "Pagan Black Metal",
+          "Melodic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Black Metal | Black Metal | Pagan Black Metal | Melodic Black Metal"
+      "Black Metal",
+      "Pagan Black Metal",
+      "Melodic Black Metal"
     ]
   },
   {
@@ -3114,7 +3115,7 @@
         "name": "Planet Pit",
         "year": "2011",
         "genres": [
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Hip Hop",
           "Hip-house",
@@ -3125,7 +3126,7 @@
         "name": "Global Warming: Meltdown",
         "year": "2012",
         "genres": [
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Pop",
           "Hip Hop",
@@ -3151,7 +3152,7 @@
     ],
     "tags": [
       "Pop",
-      "Electro Metal",
+      "Electro",
       "Electronic",
       "Hip Hop",
       "Pop Rap",
@@ -3187,7 +3188,7 @@
           "Jazz-rock",
           "Fusion",
           "Symphonic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock",
           "Jazz"
         ]
@@ -3197,7 +3198,7 @@
       "Jazz-rock",
       "Fusion",
       "Symphonic Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock",
       "Jazz"
     ]
@@ -3210,7 +3211,7 @@
         "name": "Season Of Blood",
         "year": "2022",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Metalcore"
         ]
       },
@@ -3218,7 +3219,7 @@
         "name": "Eminence Or Disgrace",
         "year": "2023",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Metalcore"
         ]
       },
@@ -3226,13 +3227,13 @@
         "name": "Hourglass And Revenge",
         "year": "2023",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Metalcore"
     ]
   },
@@ -3708,7 +3709,6 @@
       }
     ],
     "tags": [
-      "Metal",
       "Metalcore"
     ]
   },
@@ -4094,19 +4094,19 @@
         "name": "The Passageway From Hell To Earth",
         "year": "2012",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "The Book Of Chaos",
         "year": "2021",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -4365,13 +4365,15 @@
         "year": "2026",
         "genres": [
           "Brutal Death Metal",
-          "Grindcore | Slam Brutal Death Metal"
+          "Grindcore",
+          "Slam Brutal Death Metal"
         ]
       }
     ],
     "tags": [
       "Brutal Death Metal",
-      "Grindcore | Slam Brutal Death Metal"
+      "Grindcore",
+      "Slam Brutal Death Metal"
     ]
   },
   {
@@ -4716,14 +4718,14 @@
         "name": "Yeah",
         "year": "1991",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "First & Magical",
         "year": "1993",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
@@ -4765,7 +4767,7 @@
     ],
     "tags": [
       "Grindcore",
-      "Death 'N' Roll",
+      "Death 'n' Roll",
       "Hard Rock",
       "Rock"
     ]
@@ -4780,13 +4782,13 @@
         "year": "1978",
         "genres": [
           "Israeli",
-          "Children's Music"
+          "Children's"
         ]
       }
     ],
     "tags": [
       "Israeli",
-      "Children's Music"
+      "Children's"
     ]
   },
   {

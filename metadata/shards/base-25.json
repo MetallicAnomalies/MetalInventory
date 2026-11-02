@@ -166,56 +166,56 @@
         "name": "Dark Age Of Reason",
         "year": "1996",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Cantar De Procella",
         "year": "1997",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Lizabeth",
         "year": "1997",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Isabel",
         "year": "1999",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "The Last Embrace",
         "year": "2000",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Body Of Sin",
         "year": "2002",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Inner Pale Sun",
         "year": "2002",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Le Serpent Rouge",
         "year": "2004",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -223,7 +223,7 @@
         "year": "2004",
         "genres": [
           "Electronic",
-          "Ambient Metal",
+          "Ambient",
           "Modern Classical"
         ]
       },
@@ -231,28 +231,28 @@
         "name": "Raspail",
         "year": "2008",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Un Passage Silencieux",
         "year": "2011",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "As Bright As A Thousand Suns",
         "year": "2012",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Emerald",
         "year": "2012",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -264,7 +264,7 @@
       }
     ],
     "tags": [
-      "Ambient Metal",
+      "Ambient",
       "Electronic",
       "Modern Classical",
       "Neoclassical Darkwave"
@@ -715,7 +715,7 @@
         "year": "2009",
         "genres": [
           "Grindcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal"
         ]
       },
@@ -724,7 +724,7 @@
         "year": "2013",
         "genres": [
           "Grindcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal"
         ]
       },
@@ -733,14 +733,14 @@
         "year": "2020",
         "genres": [
           "Grindcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal"
         ]
       }
     ],
     "tags": [
       "Grindcore",
-      "Hardcore Metal",
+      "Hardcore",
       "Sludge Metal"
     ]
   },
@@ -752,19 +752,19 @@
         "name": "None To Sell",
         "year": "2002",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Strange Fruit",
         "year": "2004",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Heavy"
+      "Blackened Heavy Metal"
     ]
   },
   {
@@ -1431,12 +1431,12 @@
         "name": "Breaking & Entering",
         "year": "2016",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1463,13 +1463,13 @@
         "name": "I-iii",
         "year": "1993",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde",
           "Progressive Rock"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde",
       "Progressive Rock"
     ]
   },
@@ -1933,13 +1933,13 @@
         "name": "No Sense No Feeling",
         "year": "2019",
         "genres": [
-          "Post-punk",
+          "Post-Punk",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Post-punk",
+      "Post-Punk",
       "Rock"
     ]
   },
@@ -1985,13 +1985,13 @@
         "name": "The Core",
         "year": "2013",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Technical Death Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash",
+      "Progressive Thrash Metal",
       "Technical Death Metal"
     ]
   },
@@ -2180,7 +2180,7 @@
         "name": "Clean The Beast",
         "year": "2017",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       },
@@ -2195,7 +2195,7 @@
         "name": "The Queens Constellation",
         "year": "2017",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       },
@@ -2207,7 +2207,6 @@
     ],
     "tags": [
       "Post-Rock",
-      "Post Rock",
       "Rock"
     ]
   },
@@ -2242,7 +2241,7 @@
         "year": "2003",
         "genres": [
           "Noise Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2250,7 +2249,7 @@
         "year": "2006",
         "genres": [
           "Noise Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2258,7 +2257,7 @@
         "year": "2008",
         "genres": [
           "Noise Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2266,7 +2265,7 @@
         "year": "2011",
         "genres": [
           "Noise Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2274,7 +2273,7 @@
         "year": "2013",
         "genres": [
           "Noise Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2282,7 +2281,7 @@
         "year": "2015",
         "genres": [
           "Noise Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2290,7 +2289,7 @@
         "year": "2016",
         "genres": [
           "Noise Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2298,7 +2297,7 @@
         "year": "2018",
         "genres": [
           "Noise Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2320,7 +2319,7 @@
         "year": "2022",
         "genres": [
           "Noise Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2328,13 +2327,13 @@
         "year": "2023",
         "genres": [
           "Noise Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Noise Rock",
-      "Hardcore Metal",
+      "Hardcore",
       "Rock"
     ]
   },
@@ -2695,7 +2694,7 @@
         "name": "Pneuma",
         "year": "2019",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Progressive Metal"
         ]
       },
@@ -2722,7 +2721,7 @@
       "Death Metal",
       "Progressive Metal",
       "Technical Death Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2950,7 +2949,7 @@
         "year": "2016",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2958,13 +2957,13 @@
         "year": "2018",
         "genres": [
           "Crossover Thrash",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Crossover Thrash",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3261,12 +3260,12 @@
         "name": "Teoría De Cuerdas",
         "year": "2010",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -3289,7 +3288,7 @@
         "genres": [
           "Electronic",
           "Rock",
-          "Electro Metal"
+          "Electro"
         ]
       },
       {
@@ -3315,7 +3314,7 @@
     "tags": [
       "Electronic",
       "Rock",
-      "Electro Metal",
+      "Electro",
       "Alternative Rock",
       "Hard Rock"
     ]
@@ -3485,7 +3484,7 @@
           "Black Metal",
           "Psychedelic Rock",
           "Experimental Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       },
       {
@@ -3495,7 +3494,7 @@
           "Black Metal",
           "Psychedelic Rock",
           "Experimental Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       },
       {
@@ -3552,7 +3551,6 @@
       "Post-Metal",
       "Psychedelic Rock",
       "Experimental Metal",
-      "Post Rock",
       "Ethereal"
     ]
   },
@@ -4003,16 +4001,16 @@
         "name": "Mandylion",
         "year": "1995",
         "genres": [
-          "Atmospheric Gothic"
+          "Atmospheric Gothic Metal"
         ]
       },
       {
         "name": "Adrenaline/leaves",
         "year": "1996",
         "genres": [
-          "Atmospheric Gothic",
+          "Atmospheric Gothic Metal",
           "Alternative Rock",
-          "Goth Rock",
+          "Gothic Rock",
           "Rock"
         ]
       },
@@ -4020,7 +4018,7 @@
         "name": "Nighttime Birds",
         "year": "1997",
         "genres": [
-          "Atmospheric Gothic"
+          "Atmospheric Gothic Metal"
         ]
       },
       {
@@ -4028,7 +4026,7 @@
         "year": "1998",
         "genres": [
           "Alternative Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock",
           "Experimental Rock"
@@ -4053,9 +4051,9 @@
         "year": "2002",
         "genres": [
           "Experimental Metal",
-          "Prog Rock",
+          "Progressive Rock",
           "Alternative Rock",
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       },
@@ -4162,16 +4160,16 @@
       }
     ],
     "tags": [
-      "Atmospheric Gothic",
+      "Atmospheric Gothic Metal",
       "Experimental Rock",
       "Death Doom Metal",
       "Doom Metal",
       "Alternative Rock",
-      "Goth Rock",
+      "Gothic Rock",
       "Death Metal",
       "Experimental Metal",
-      "Prog Rock",
-      "Post Rock",
+      "Progressive Rock",
+      "Post-Rock",
       "Psychedelic Rock",
       "Rock"
     ]
@@ -4286,10 +4284,9 @@
           "Dub",
           "Latin",
           "Psychedelic Rock",
-          "Experimental Metal",
+          "Experimental",
           "Electronic",
-          "Prog Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4312,9 +4309,9 @@
         "name": "Bedlam In Goliath",
         "year": "2008",
         "genres": [
-          "Experimental Metal",
-          "Prog Rock",
-          "Avantgarde Metal",
+          "Experimental",
+          "Progressive Rock",
+          "Avant-garde",
           "Rock"
         ]
       },
@@ -4370,15 +4367,14 @@
     "tags": [
       "Progressive Rock",
       "Fusion",
-      "Experimental Metal",
-      "Prog Rock",
-      "Avantgarde Metal",
+      "Experimental",
+      "Avant-garde",
       "Abstract",
       "Dub",
       "Latin",
       "Psychedelic Rock",
       "Electronic",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Rock"
     ]
   },
@@ -4587,13 +4583,13 @@
         "year": "2011",
         "genres": [
           "Doom Metal",
-          "Psychedelic Sludge"
+          "Psychedelic Sludge Metal"
         ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Psychedelic Sludge"
+      "Psychedelic Sludge Metal"
     ]
   },
   {
@@ -4696,7 +4692,7 @@
         "genres": [
           "Heavy Metal",
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -4728,7 +4724,7 @@
       "Progressive Metal",
       "Alternative",
       "Heavy Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -4740,19 +4736,19 @@
         "name": "Within The Mist Of Sorrow",
         "year": "2016",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
         "name": "Melancholia",
         "year": "2018",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Doom"
+      "Atmospheric Doom Metal"
     ]
   },
   {

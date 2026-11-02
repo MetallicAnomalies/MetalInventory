@@ -315,19 +315,19 @@
         "name": "Half In Shadows",
         "year": "1994",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Mirrored Thoughts",
         "year": "1997",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -392,12 +392,12 @@
         "name": "Night Is Burning",
         "year": "2012",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       }
     ],
     "tags": [
-      "New Wave Of British Heavy"
+      "NWOBHM"
     ]
   },
   {
@@ -409,7 +409,7 @@
         "year": "2000",
         "genres": [
           "Grindcore",
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
@@ -422,7 +422,7 @@
     ],
     "tags": [
       "Grindcore",
-      "Noise Metal",
+      "Noise",
       "Metal"
     ]
   },
@@ -872,13 +872,15 @@
         "name": "Bloodsurge",
         "year": "2026",
         "genres": [
-          "Thrash Metal | Black Speed Metal",
+          "Thrash Metal",
+          "Black Speed Metal",
           "Speed Metal"
         ]
       }
     ],
     "tags": [
-      "Thrash Metal | Black Speed Metal",
+      "Thrash Metal",
+      "Black Speed Metal",
       "Speed Metal"
     ]
   },
@@ -1045,7 +1047,7 @@
         "year": "2018",
         "genres": [
           "Melodic Death Metal",
-          "Melodic Thrash"
+          "Melodic Thrash Metal"
         ]
       },
       {
@@ -1053,13 +1055,13 @@
         "year": "2020",
         "genres": [
           "Melodic Death Metal",
-          "Melodic Thrash"
+          "Melodic Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Melodic Thrash",
+      "Melodic Thrash Metal",
       "Death Metal"
     ]
   },
@@ -1154,7 +1156,7 @@
         "year": "2003",
         "genres": [
           "Industrial Rock",
-          "Ebm"
+          "EBM"
         ]
       },
       {
@@ -1162,7 +1164,7 @@
         "year": "2005",
         "genres": [
           "Industrial Rock",
-          "Ebm"
+          "EBM"
         ]
       },
       {
@@ -1170,7 +1172,7 @@
         "year": "2006",
         "genres": [
           "Industrial Rock",
-          "Ebm"
+          "EBM"
         ]
       },
       {
@@ -1178,7 +1180,7 @@
         "year": "2006",
         "genres": [
           "Industrial Rock",
-          "Ebm"
+          "EBM"
         ]
       },
       {
@@ -1186,7 +1188,7 @@
         "year": "2009",
         "genres": [
           "Industrial Rock",
-          "Ebm"
+          "EBM"
         ]
       },
       {
@@ -1194,7 +1196,7 @@
         "year": "2009",
         "genres": [
           "Industrial Rock",
-          "Ebm"
+          "EBM"
         ]
       },
       {
@@ -1202,7 +1204,7 @@
         "year": "2011",
         "genres": [
           "Industrial Rock",
-          "Ebm"
+          "EBM"
         ]
       },
       {
@@ -1210,13 +1212,13 @@
         "year": "2015",
         "genres": [
           "Industrial Rock",
-          "Ebm"
+          "EBM"
         ]
       }
     ],
     "tags": [
       "Industrial Rock",
-      "Ebm"
+      "EBM"
     ]
   },
   {
@@ -1244,7 +1246,7 @@
         "name": "Downfall Of Gaia / In The Hearts Of Emperors Split",
         "year": "2011",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Doom Metal"
         ]
       },
@@ -1306,7 +1308,7 @@
       "Atmospheric Sludge Metal",
       "Post-Metal",
       "Atmospheric Black Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Doom Metal",
       "Black Metal"
     ]
@@ -1598,13 +1600,13 @@
         "name": "Elyria",
         "year": "1998",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Goth Rock",
+      "Gothic Rock",
       "Rock"
     ]
   },
@@ -1826,33 +1828,33 @@
         "name": "Growing Apart",
         "year": "2013",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Melt The Ice Away",
         "year": "2016",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Square One",
         "year": "2021",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Transitional Objects",
         "year": "2025",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy",
+      "Progressive Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -1864,19 +1866,19 @@
         "name": "Against Rationalism",
         "year": "2017",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Montage",
         "year": "2023",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -2380,19 +2382,19 @@
         "name": "Meadows Of Maseilya",
         "year": "1993",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
         "name": "An Angel's Tale",
         "year": "1994",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Epic Heavy"
+      "Epic Heavy Metal"
     ]
   },
   {
@@ -2917,7 +2919,7 @@
         "year": "2017",
         "genres": [
           "Death Metal",
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -2925,13 +2927,13 @@
         "year": "2021",
         "genres": [
           "Death Metal",
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Gothenburg"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -3019,13 +3021,13 @@
         "name": "Fleshvoid To Naught",
         "year": "2019",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Black Metal"
     ]
   },
@@ -3232,7 +3234,7 @@
         "year": "2013",
         "genres": [
           "Neoclassical Metal",
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
@@ -3240,14 +3242,14 @@
         "year": "2016",
         "genres": [
           "Neoclassical Metal",
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Grand Guignol Orchestra",
         "year": "2019",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
@@ -3255,7 +3257,7 @@
         "year": "2022",
         "genres": [
           "Neoclassical Metal",
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
@@ -3269,7 +3271,6 @@
     "tags": [
       "Neoclassical Metal",
       "Depressive Black Metal",
-      "Avantgarde Black",
       "Avant-garde Black Metal"
     ]
   },
@@ -3388,12 +3389,12 @@
         "name": "Wedderbergen-disco-hits 2015",
         "year": "2015",
         "genres": [
-          "Children's Music"
+          "Children's"
         ]
       }
     ],
     "tags": [
-      "Children's Music"
+      "Children's"
     ]
   },
   {
@@ -3461,40 +3462,40 @@
         "name": "Truth Is - What Is",
         "year": "1990",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Recesses For The Depraved",
         "year": "1991",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Tragic Intense",
         "year": "1993",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Necropolis",
         "year": "2018",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Kidron",
         "year": "2025",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -3505,14 +3506,12 @@
         "name": "Heavy Is The Head",
         "year": "2026",
         "genres": [
-          "Metalcore",
-          "Metal"
+          "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Metalcore",
-      "Metal"
+      "Metalcore"
     ]
   },
   {
@@ -3819,40 +3818,40 @@
         "name": "Tales Of The Reaper",
         "year": "2004",
         "genres": [
-          "Blackened Speed"
+          "Blackened Speed Metal"
         ]
       },
       {
         "name": "The Dead Shall Rise To Kill",
         "year": "2007",
         "genres": [
-          "Blackened Speed"
+          "Blackened Speed Metal"
         ]
       },
       {
         "name": "Jesus Is Not Here Today",
         "year": "2011",
         "genres": [
-          "Blackened Speed"
+          "Blackened Speed Metal"
         ]
       },
       {
         "name": "Confessioni Di Un Cannibale",
         "year": "2016",
         "genres": [
-          "Blackened Speed"
+          "Blackened Speed Metal"
         ]
       },
       {
         "name": "Grim Tales Of The Reaper",
         "year": "2018",
         "genres": [
-          "Blackened Speed"
+          "Blackened Speed Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Speed"
+      "Blackened Speed Metal"
     ]
   },
   {
@@ -3897,7 +3896,7 @@
         "genres": [
           "Electronic",
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3906,14 +3905,14 @@
         "year": "2011",
         "genres": [
           "Acoustic",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Acoustic",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock",
       "Electronic",
       "Art Rock"
@@ -4309,7 +4308,7 @@
         "year": "2013",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -4317,13 +4316,13 @@
         "year": "2018",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -4373,7 +4372,7 @@
         "year": "2017",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Djent"
         ]
       },
@@ -4382,14 +4381,14 @@
         "year": "2023",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Djent"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Djent"
     ]
   },

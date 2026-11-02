@@ -664,7 +664,7 @@
         "genres": [
           "Black Metal",
           "Post-Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -678,7 +678,7 @@
     "tags": [
       "Black Metal",
       "Post-Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -756,25 +756,25 @@
         "name": "Feral Songs For The Epic Decline",
         "year": "2011",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Broken Limbs Excite No Pity",
         "year": "2018",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Progressive Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -1684,14 +1684,14 @@
         "name": "Ex Eye",
         "year": "2017",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Post-Metal",
           "Experimental Jazz"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Post-Metal",
       "Experimental Jazz"
     ]
@@ -1861,7 +1861,7 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1871,7 +1871,7 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1881,7 +1881,7 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1891,7 +1891,7 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1901,7 +1901,7 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1911,7 +1911,7 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1921,7 +1921,7 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1931,7 +1931,7 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1941,7 +1941,7 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1951,7 +1951,7 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1961,7 +1961,7 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1971,7 +1971,7 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1981,7 +1981,7 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1998,7 +1998,7 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -2008,7 +2008,7 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -2027,7 +2027,7 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -2037,16 +2037,14 @@
         "genres": [
           "Alternative",
           "Thrash Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
       {
         "name": "The Pink Seven Inch",
         "year": "2026",
-        "genres": [
-          "Various"
-        ]
+        "genres": []
       },
       {
         "name": "Beyond Hell Re-Release",
@@ -2056,19 +2054,16 @@
       {
         "name": "Gwar and the Last Drive-In-Stein",
         "year": "2026",
-        "genres": [
-          "Various"
-        ]
+        "genres": []
       }
     ],
     "tags": [
       "Alternative",
       "Thrash Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
       "Heavy Metal",
-      "Horror Rock",
-      "Various"
+      "Horror Rock"
     ]
   },
   {
@@ -2364,38 +2359,33 @@
         "name": "Chrysalis",
         "year": "2018",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Magnolia",
         "year": "2018",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Nausea",
         "year": "2019",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Acacia",
         "year": "2022",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {
@@ -2460,7 +2450,7 @@
         "year": "2007",
         "genres": [
           "Heavy Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -2468,7 +2458,7 @@
         "year": "2010",
         "genres": [
           "Heavy Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -2476,7 +2466,7 @@
         "year": "2014",
         "genres": [
           "Heavy Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -2484,7 +2474,7 @@
         "year": "2018",
         "genres": [
           "Heavy Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -2492,13 +2482,13 @@
         "year": "2025",
         "genres": [
           "Heavy Metal",
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -2609,7 +2599,7 @@
         "year": "2022",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2624,7 +2614,7 @@
         "name": "Take The Prescription",
         "year": "2023",
         "genres": [
-          "Avant-garde Metal",
+          "Avant-garde",
           "Norsk Rock",
           "Progressive Rock",
           "Norwegian Pop"
@@ -2634,8 +2624,7 @@
     "tags": [
       "Progressive Rock",
       "Art Rock",
-      "Prog Rock",
-      "Avant-garde Metal",
+      "Avant-garde",
       "Norsk Rock",
       "Norwegian Pop",
       "Rock"
@@ -3301,33 +3290,33 @@
         "name": "Discomfort",
         "year": "2015",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Dogma",
         "year": "2016",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Sex Money Power",
         "year": "2017",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       },
       {
         "name": "Nee",
         "year": "2018",
         "genres": [
-          "Psychedelic Black"
+          "Psychedelic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Black"
+      "Psychedelic Black Metal"
     ]
   },
   {
@@ -3595,7 +3584,7 @@
         "name": "Sutra",
         "year": "2011",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -3603,13 +3592,13 @@
         "name": "Cape Zero",
         "year": "2013",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -3773,7 +3762,7 @@
         "name": "Ancient Rites Of The Moon",
         "year": "2014",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Folk Metal"
         ]
       },
@@ -3781,13 +3770,13 @@
         "name": "Proclamation Of Shadows",
         "year": "2015",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Folk Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy",
+      "Progressive Heavy Metal",
       "Folk Metal"
     ]
   },
@@ -4392,75 +4381,75 @@
         "name": "High Definition",
         "year": "1997",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
         "name": "Extreme Measures",
         "year": "1998",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
         "name": "Vk3",
         "year": "1999",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
         "name": "Works Of Liszt And Chopin",
         "year": "2001",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
         "name": "Forward And Beyond",
         "year": "2004",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
         "name": "Revenge",
         "year": "2005",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
         "name": "The Modern European Tradition",
         "year": "2005",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
         "name": "Glacial Inferno",
         "year": "2007",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
         "name": "12 Months Of The Year",
         "year": "2008",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
         "name": "Progression",
         "year": "2020",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Power"
+      "Neoclassical Power Metal"
     ]
   },
   {

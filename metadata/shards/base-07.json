@@ -249,13 +249,13 @@
         "year": "1996",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
     "tags": [
       "Funk / Soul",
-      "Contemporary R&b"
+      "Contemporary R&B"
     ]
   },
   {
@@ -285,7 +285,7 @@
         "year": "2017",
         "genres": [
           "Death Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -293,7 +293,7 @@
         "year": "2018",
         "genres": [
           "Death Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -301,7 +301,7 @@
         "year": "2020",
         "genres": [
           "Death Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -309,7 +309,7 @@
         "year": "2021",
         "genres": [
           "Death Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -317,13 +317,13 @@
         "year": "2022",
         "genres": [
           "Death Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -378,13 +378,13 @@
         "name": "Feel My Pain",
         "year": "1998",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -784,12 +784,12 @@
         "name": "Liberation's Fall",
         "year": "2018",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -1172,19 +1172,19 @@
         "name": "Triangle Of The Lost",
         "year": "1992",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Release",
         "year": "1994",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -1440,7 +1440,7 @@
         "year": "2012",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Electronic",
           "Neo Soul",
           "Pop",
@@ -1450,7 +1450,7 @@
     ],
     "tags": [
       "Funk / Soul",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Electronic",
       "Neo Soul",
       "Pop",
@@ -1713,37 +1713,35 @@
         "name": "Exodus",
         "year": "2017",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "The Other Side Of Suffering",
         "year": "2021",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "No Good At Goodbyes",
         "year": "2022",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Lights Out",
         "year": "2026",
         "genres": [
-          "Metalcore",
-          "Metal"
+          "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash",
-      "Hardcore Metal",
-      "Metalcore",
-      "Metal"
+      "Groove Thrash Metal",
+      "Hardcore",
+      "Metalcore"
     ]
   },
   {
@@ -1767,19 +1765,19 @@
         "name": "Altar",
         "year": "2015",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Unreflected Mirror",
         "year": "2018",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -2055,7 +2053,7 @@
         "name": "Infant Island",
         "year": "2018",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Shoegaze"
         ]
       },
@@ -2063,7 +2061,7 @@
         "name": "Beneath",
         "year": "2020",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Shoegaze"
         ]
       },
@@ -2071,7 +2069,7 @@
         "name": "Sepulcher",
         "year": "2020",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Shoegaze"
         ]
       },
@@ -2079,13 +2077,13 @@
         "name": "Obsidian Wreath",
         "year": "2024",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Shoegaze"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Shoegaze"
     ]
   },
@@ -2207,13 +2205,13 @@
         "name": "Bbddssmm",
         "year": "2023",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Progressive Metal"
     ]
   },
@@ -2659,19 +2657,19 @@
         "name": "Skydancers",
         "year": "2009",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Nightstalkers",
         "year": "2012",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -2738,7 +2736,7 @@
         "year": "1997",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2746,7 +2744,7 @@
         "year": "1998",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2754,7 +2752,7 @@
         "year": "2000",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2762,7 +2760,7 @@
         "year": "2005",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2770,7 +2768,7 @@
         "year": "2014",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -2778,13 +2776,13 @@
         "year": "2016",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -3112,38 +3110,38 @@
         "name": "Veridical Dreams",
         "year": "2018",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       },
       {
         "name": "A Decay In Gray Matter",
         "year": "2022",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       },
       {
         "name": "For No One",
         "year": "2022",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       },
       {
         "name": "I Can't Take It With Me",
         "year": "2022",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       }
     ],
     "tags": [
-      "Industrial Metal",
-      "Noise Metal"
+      "Industrial",
+      "Noise"
     ]
   },
   {
@@ -3324,7 +3322,7 @@
         "name": "Determined To Strike",
         "year": "2023",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Technical Death Metal",
           "Jazz"
         ]
@@ -3333,7 +3331,7 @@
         "name": "Dubious Disk",
         "year": "2023",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Technical Death Metal",
           "Jazz"
         ]
@@ -3342,14 +3340,14 @@
         "name": "Upgrade",
         "year": "2025",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Technical Death Metal",
           "Jazz"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Technical Death Metal",
       "Jazz"
     ]
@@ -4260,12 +4258,12 @@
         "name": "World Under Control",
         "year": "2007",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {

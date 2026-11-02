@@ -80,7 +80,7 @@
         "year": "2014",
         "genres": [
           "Melodic Death Metal",
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
@@ -88,13 +88,13 @@
         "year": "2018",
         "genres": [
           "Melodic Death Metal",
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Viking Folk"
+      "Viking Folk Metal"
     ]
   },
   {
@@ -548,7 +548,7 @@
         "name": "The Silent Circus",
         "year": "2003",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Experimental Metal",
           "Metalcore"
         ]
@@ -567,7 +567,7 @@
         "year": "2006",
         "genres": [
           "Heavy Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Thrash Metal",
           "Alternative Rock",
           "Classic Rock"
@@ -607,8 +607,8 @@
         "year": "2012",
         "genres": [
           "Heavy Metal",
-          "Prog Rock",
-          "Avantgarde Metal"
+          "Progressive Rock",
+          "Avant-garde Metal"
         ]
       },
       {
@@ -650,12 +650,12 @@
       "Math Rock",
       "Death Metal",
       "Heavy Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Thrash Metal",
       "Alternative Rock",
       "Classic Rock",
-      "Prog Rock",
-      "Avantgarde Metal"
+      "Progressive Rock",
+      "Avant-garde Metal"
     ]
   },
   {
@@ -686,17 +686,17 @@
         "year": "2016",
         "genres": [
           "Electronic",
-          "Ambient Metal",
+          "Ambient",
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Electronic",
-      "Ambient Metal",
+      "Ambient",
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -780,19 +780,19 @@
         "name": "Bludy Gyres",
         "year": "2014",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "Echoes Of A Distant Scream",
         "year": "2017",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Doom"
+      "Progressive Doom Metal"
     ]
   },
   {
@@ -864,12 +864,12 @@
         "name": "Carbamazépine",
         "year": "2007",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -910,28 +910,28 @@
         "name": "Sacrament",
         "year": "1996",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Unbleed",
         "year": "1997",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Catharsis Instinct",
         "year": "2000",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "In Sickness And In Dreams",
         "year": "2008",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
@@ -966,13 +966,13 @@
         "name": "Snake",
         "year": "2020",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Blackened Heavy"
+      "Blackened Heavy Metal"
     ]
   },
   {
@@ -1100,26 +1100,26 @@
         "name": "Soleil Rouge",
         "year": "2008",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Prophétie Mmxii",
         "year": "2012",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "La Valse Des âMes",
         "year": "2025",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Heavy"
+      "Blackened Heavy Metal"
     ]
   },
   {
@@ -1228,7 +1228,7 @@
         "year": "2012",
         "genres": [
           "Death Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1236,13 +1236,13 @@
         "year": "2015",
         "genres": [
           "Death Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1725,7 +1725,7 @@
         "genres": [
           "Heavy Metal",
           "Progressive Metal",
-          "Prog Rock",
+          "Progressive Rock",
           "Hard Rock"
         ]
       },
@@ -1740,7 +1740,7 @@
     "tags": [
       "Progressive Metal",
       "Heavy Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Hard Rock"
     ]
   },
@@ -1864,33 +1864,33 @@
         "name": "The Cannibalism Of Objects",
         "year": "2008",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "Apotheosynthesis",
         "year": "2015",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "Macrocosmos",
         "year": "2021",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "Convergence",
         "year": "2024",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Death"
+      "Atmospheric Death Metal"
     ]
   },
   {
@@ -2285,7 +2285,7 @@
           "Electronic",
           "Industrial Metal",
           "Experimental Metal",
-          "Electro Metal"
+          "Electro"
         ]
       },
       {
@@ -2294,7 +2294,7 @@
         "genres": [
           "Nu Metal",
           "Emo",
-          "Prog Rock",
+          "Progressive Rock",
           "Grunge"
         ]
       },
@@ -2303,7 +2303,7 @@
         "year": "2006",
         "genres": [
           "Alternative Rock",
-          "Post-grunge",
+          "Post-Grunge",
           "Nu Alternative"
         ]
       },
@@ -2312,7 +2312,7 @@
         "year": "2007",
         "genres": [
           "Alternative Rock",
-          "Post-grunge",
+          "Post-Grunge",
           "Nu Alternative"
         ]
       },
@@ -2321,7 +2321,7 @@
         "year": "2007",
         "genres": [
           "Alternative Rock",
-          "Post-grunge",
+          "Post-Grunge",
           "Nu Alternative"
         ]
       },
@@ -2330,7 +2330,7 @@
         "year": "2008",
         "genres": [
           "Alternative Rock",
-          "Post-grunge",
+          "Post-Grunge",
           "Nu Alternative"
         ]
       },
@@ -2339,7 +2339,7 @@
         "year": "2009",
         "genres": [
           "Alternative Rock",
-          "Post-grunge",
+          "Post-Grunge",
           "Nu Alternative"
         ]
       },
@@ -2348,22 +2348,22 @@
         "year": "2012",
         "genres": [
           "Alternative Rock",
-          "Post-grunge",
+          "Post-Grunge",
           "Nu Alternative"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
-      "Post-grunge",
+      "Post-Grunge",
       "Nu Alternative",
       "Electronic",
       "Industrial Metal",
       "Experimental Metal",
-      "Electro Metal",
+      "Electro",
       "Nu Metal",
       "Emo",
-      "Prog Rock",
+      "Progressive Rock",
       "Grunge"
     ]
   },
@@ -2401,15 +2401,13 @@
         "year": "2025",
         "genres": [
           "Alternative",
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
       "Alternative",
       "Post-Black Metal",
-      "Post-black Metal",
       "Post-Metal",
       "Alternative Metal"
     ]
@@ -2487,26 +2485,26 @@
         "name": "Set Me Free",
         "year": "2014",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "The Dark Side...",
         "year": "2016",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Way Of Heroes",
         "year": "2022",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -2647,33 +2645,33 @@
         "name": "Where The Evil Lays",
         "year": "2004",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "...In Disgrace",
         "year": "2007",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Imágenes",
         "year": "2014",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Facing Chaos",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -2829,7 +2827,7 @@
         "genres": [
           "Breaks",
           "Downtempo",
-          "Experimental Metal",
+          "Experimental",
           "Electronic",
           "Big Beat",
           "Alternative Rock",
@@ -2846,7 +2844,7 @@
       "Electronic",
       "Big Beat",
       "Downtempo",
-      "Experimental Metal",
+      "Experimental",
       "Alternative Rock",
       "Hard Rock",
       "Doo Wop",
@@ -2902,7 +2900,7 @@
         "year": "2023",
         "genres": [
           "Electronic",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2916,7 +2914,7 @@
     ],
     "tags": [
       "Electronic",
-      "Ambient Metal",
+      "Ambient",
       "New Age"
     ]
   },
@@ -3146,7 +3144,7 @@
         "name": "Welcome To The...",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -3154,7 +3152,7 @@
         "name": "Just Another Day",
         "year": "2019",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -3162,7 +3160,7 @@
         "name": "Halo & Wings",
         "year": "2021",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -3170,13 +3168,13 @@
         "name": "Outcry",
         "year": "2023",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -3355,7 +3353,7 @@
         "year": "1998",
         "genres": [
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3363,13 +3361,13 @@
         "year": "2000",
         "genres": [
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3381,13 +3379,13 @@
         "year": "2007",
         "genres": [
           "Progressive Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Oriental Folk"
+      "Oriental Folk Metal"
     ]
   },
   {
@@ -3498,7 +3496,7 @@
         "year": "2017",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3522,7 +3520,7 @@
       "Alternative",
       "Gothic Metal",
       "Progressive Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -4162,14 +4160,14 @@
         "name": "Divine",
         "year": "2003",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Bedtime Prayers",
         "year": "2007",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -4181,7 +4179,7 @@
       }
     ],
     "tags": [
-      "Gothenburg",
+      "Melodic Death Metal",
       "Melodic Metalcore"
     ]
   },
@@ -4445,7 +4443,7 @@
         "year": "2022",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -4458,7 +4456,7 @@
     ],
     "tags": [
       "Progressive Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -4637,49 +4635,49 @@
         "name": "Toundra",
         "year": "2008",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "Ii",
         "year": "2010",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "Iii",
         "year": "2012",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "Iv",
         "year": "2015",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "Vortex",
         "year": "2018",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "Das Cabinet Des Dr. Caligari",
         "year": "2020",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "Hex",
         "year": "2022",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
@@ -4692,7 +4690,7 @@
       }
     ],
     "tags": [
-      "Instrumental Post-metal",
+      "Instrumental Post-Metal",
       "Atmospheric Post-Metal Rock",
       "Rock"
     ]
@@ -4804,15 +4802,13 @@
         "name": "The Great Yinzer Trendkill",
         "year": "2026",
         "genres": [
-          "Metalcore",
-          "Metal"
+          "Metalcore"
         ]
       }
     ],
     "tags": [
       "Gothic Metal",
-      "Metalcore",
-      "Metal"
+      "Metalcore"
     ]
   },
   {
@@ -4905,7 +4901,7 @@
         "name": "Tale Of Crime",
         "year": "2010",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Death Metal"
         ]
       },
@@ -4913,7 +4909,7 @@
         "name": "Full Of Lies",
         "year": "2011",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Death Metal"
         ]
       },
@@ -4959,7 +4955,7 @@
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Death Metal",
       "Metalcore",
       "Deathcore",

@@ -50,7 +50,7 @@
         "year": "2012",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -58,7 +58,7 @@
         "year": "2014",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -66,7 +66,7 @@
         "year": "2018",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -74,7 +74,7 @@
         "year": "2019",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -82,7 +82,7 @@
         "year": "2022",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -90,7 +90,7 @@
         "year": "2023",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -98,13 +98,13 @@
         "year": "2025",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -204,19 +204,19 @@
         "name": "Another Day Living In Hatred",
         "year": "2002",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "One Life One Sentence",
         "year": "2005",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -228,7 +228,7 @@
         "name": "You, Always",
         "year": "2010",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -236,7 +236,7 @@
         "name": "The Lucid Dream",
         "year": "2012",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -244,10 +244,10 @@
         "name": "The Lucid Dream (Er)",
         "year": "2014",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Emo",
           "Electronic",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -255,7 +255,7 @@
         "name": "Enigmatic Smile",
         "year": "2015",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -263,7 +263,7 @@
         "name": "Annie Are You Okay?",
         "year": "2016",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -271,7 +271,7 @@
         "name": "Devil May Care",
         "year": "2016",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -279,7 +279,7 @@
         "name": "Arms",
         "year": "2018",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -287,28 +287,28 @@
         "name": "Arms Instrumentals",
         "year": "2018",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Coma Blue",
         "year": "2018",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Good Stories",
         "year": "2018",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Aurora",
         "year": "2021",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -316,7 +316,7 @@
         "name": "Abyss Pt. I",
         "year": "2023",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -324,7 +324,7 @@
         "name": "Abyss Pt. Ii",
         "year": "2025",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -337,9 +337,9 @@
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Metalcore",
-      "Hardcore Metal",
+      "Hardcore",
       "Emo",
       "Electronic"
     ]
@@ -370,7 +370,7 @@
         "year": "2013",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -378,7 +378,7 @@
         "year": "2018",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -386,7 +386,7 @@
         "year": "2020",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -402,7 +402,7 @@
         "year": "2022",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -410,13 +410,13 @@
         "year": "2025",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power",
+      "US Power Metal",
       "Power Metal"
     ]
   },
@@ -583,14 +583,14 @@
         "name": "Breathe",
         "year": "1996",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Black Symphony",
         "year": "1998",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -598,7 +598,7 @@
         "year": "1998",
         "genres": [
           "Heavy Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -606,35 +606,35 @@
         "year": "1998",
         "genres": [
           "Heavy Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
         "name": "Tears Of Blood",
         "year": "2001",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Black Symphony No. Iv",
         "year": "2007",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Sewing The Seeds Of Destruction",
         "year": "2007",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power",
+      "Progressive Power Metal",
       "Heavy Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -707,12 +707,12 @@
         "name": "Dive",
         "year": "2020",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -885,7 +885,7 @@
         "name": "Homework",
         "year": "1997",
         "genres": [
-          "Electro Metal",
+          "Electro",
           "Acid",
           "Electronic",
           "Techno",
@@ -898,7 +898,7 @@
         "name": "Discovery",
         "year": "2001",
         "genres": [
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "French House",
           "House",
@@ -910,7 +910,7 @@
         "year": "2013",
         "genres": [
           "Funk / Soul",
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Synth-pop",
           "Pop",
@@ -920,7 +920,7 @@
       }
     ],
     "tags": [
-      "Electro Metal",
+      "Electro",
       "Electronic",
       "French House",
       "House",
@@ -941,33 +941,33 @@
         "name": "Purity: The Darwinian Paradox",
         "year": "2005",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "The Difference Engine",
         "year": "2007",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "A Fine Game Of Nil",
         "year": "2019",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "World Turned Hell",
         "year": "2023",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Death"
+      "Experimental Death Metal"
     ]
   },
   {
@@ -1126,33 +1126,33 @@
         "name": "Astronomical Minds",
         "year": "2012",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Queen Of The Galaxy",
         "year": "2014",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Through Time And Space",
         "year": "2015",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "The Extraterrestrial Compendium",
         "year": "2018",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -1186,7 +1186,7 @@
         "name": "Insurgency",
         "year": "2016",
         "genres": [
-          "Blackened Sludge",
+          "Blackened Sludge Metal",
           "Black Metal"
         ]
       },
@@ -1194,13 +1194,13 @@
         "name": "Warpath Never Ended",
         "year": "2019",
         "genres": [
-          "Blackened Sludge",
+          "Blackened Sludge Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Sludge",
+      "Blackened Sludge Metal",
       "Black Metal"
     ]
   },
@@ -1212,13 +1212,13 @@
         "name": "Welcome The End",
         "year": "2004",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Heavy Metal"
     ]
   },
@@ -1509,7 +1509,7 @@
         "year": "2015",
         "genres": [
           "Groove Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1517,13 +1517,13 @@
         "year": "2017",
         "genres": [
           "Groove Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Groove Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1642,7 +1642,7 @@
           "Math Rock",
           "Psychedelic Rock",
           "Pop Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Alternative Metal",
           "Alternative Rock",
           "Art Rock",
@@ -1655,7 +1655,7 @@
       "Math Rock",
       "Psychedelic Rock",
       "Pop Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Alternative Metal",
       "Alternative Rock",
       "Art Rock",
@@ -1672,14 +1672,14 @@
         "year": "2005",
         "genres": [
           "Gothic Doom Metal",
-          "Blackened Folk",
+          "Blackened Folk Metal",
           "Melodic Black Metal"
         ]
       }
     ],
     "tags": [
       "Gothic Doom Metal",
-      "Blackened Folk",
+      "Blackened Folk Metal",
       "Melodic Black Metal"
     ]
   },
@@ -1692,7 +1692,7 @@
         "name": "Des Deux L'une Est L'autre",
         "year": "2007",
         "genres": [
-          "Experimental Progressive",
+          "Experimental Progressive Metal",
           "Math Metal",
           "Metalcore"
         ]
@@ -1701,7 +1701,7 @@
         "name": "A Backward Glance On A Travel Road",
         "year": "2009",
         "genres": [
-          "Experimental Progressive",
+          "Experimental Progressive Metal",
           "Math Metal",
           "Metalcore"
         ]
@@ -1710,7 +1710,7 @@
         "name": "Acid Mist Tomorrow",
         "year": "2012",
         "genres": [
-          "Experimental Progressive",
+          "Experimental Progressive Metal",
           "Math Metal",
           "Metalcore"
         ]
@@ -1719,7 +1719,7 @@
         "name": "Shores Of The Abstract Line",
         "year": "2016",
         "genres": [
-          "Experimental Progressive",
+          "Experimental Progressive Metal",
           "Math Metal",
           "Metalcore"
         ]
@@ -1728,7 +1728,7 @@
         "name": "Alba - Les Ombres Errantes",
         "year": "2018",
         "genres": [
-          "Experimental Progressive",
+          "Experimental Progressive Metal",
           "Math Metal",
           "Metalcore"
         ]
@@ -1737,7 +1737,7 @@
         "name": "A Distant  Source",
         "year": "2019",
         "genres": [
-          "Experimental Progressive",
+          "Experimental Progressive Metal",
           "Math Metal",
           "Metalcore"
         ]
@@ -1746,7 +1746,7 @@
         "name": "Sheol",
         "year": "2023",
         "genres": [
-          "Experimental Progressive",
+          "Experimental Progressive Metal",
           "Math Metal",
           "Metalcore"
         ]
@@ -1765,7 +1765,7 @@
       }
     ],
     "tags": [
-      "Experimental Progressive",
+      "Experimental Progressive Metal",
       "Math Metal",
       "Metalcore",
       "Post-Metal"
@@ -2118,7 +2118,6 @@
         "genres": [
           "Deathcore",
           "Death Metal",
-          "Metal",
           "Metalcore"
         ]
       }
@@ -2126,7 +2125,6 @@
     "tags": [
       "Death Metal",
       "Deathcore",
-      "Metal",
       "Metalcore"
     ]
   },
@@ -2479,35 +2477,35 @@
         "name": "The Will To Survive",
         "year": "2007",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Built On Struggle",
         "year": "2011",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Undisputed",
         "year": "2012",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Welcome To The West Coast",
         "year": "2014",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Welcome To The West Coast Ii",
         "year": "2014",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -2515,40 +2513,40 @@
         "name": "Love Don't Live Here",
         "year": "2016",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Trial By Fire",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Valley Of Death",
         "year": "2019",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Welcome To The West Coast Iii",
         "year": "2022",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Valley Of Death Ii",
         "year": "2026",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -2595,7 +2593,7 @@
         "genres": [
           "Contemporary",
           "Classical",
-          "Neo-classical"
+          "Neoclassical"
         ]
       },
       {
@@ -2612,7 +2610,7 @@
       "Contemporary",
       "Post-modern",
       "Classical",
-      "Neo-classical"
+      "Neoclassical"
     ]
   },
   {
@@ -2695,61 +2693,61 @@
         "name": "The Path To Insanity",
         "year": "1999",
         "genres": [
-          "Celtic Doom"
+          "Celtic Doom Metal"
         ]
       },
       {
         "name": "The Inferno Spreads",
         "year": "2000",
         "genres": [
-          "Celtic Doom"
+          "Celtic Doom Metal"
         ]
       },
       {
         "name": "Caoineadh Na Ngael",
         "year": "2003",
         "genres": [
-          "Celtic Doom"
+          "Celtic Doom Metal"
         ]
       },
       {
         "name": "Iv",
         "year": "2003",
         "genres": [
-          "Celtic Doom"
+          "Celtic Doom Metal"
         ]
       },
       {
         "name": "Cluain Tarḃ",
         "year": "2005",
         "genres": [
-          "Celtic Doom"
+          "Celtic Doom Metal"
         ]
       },
       {
         "name": "Gealtacht Mael Mórdha",
         "year": "2007",
         "genres": [
-          "Celtic Doom"
+          "Celtic Doom Metal"
         ]
       },
       {
         "name": "Manannán",
         "year": "2010",
         "genres": [
-          "Celtic Doom"
+          "Celtic Doom Metal"
         ]
       },
       {
         "name": "Damned When Dead",
         "year": "2013",
         "genres": [
-          "Celtic Doom"
+          "Celtic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Celtic Doom"
+      "Celtic Doom Metal"
     ]
   },
   {
@@ -3618,12 +3616,12 @@
         "name": "Clandestine",
         "year": "2007",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -4217,12 +4215,12 @@
         "name": "Prison Of Light",
         "year": "2013",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -4395,12 +4393,12 @@
         "name": "Fight For Your Life",
         "year": "1988",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -4457,26 +4455,26 @@
         "name": "It Now Remains For Us To Explain",
         "year": "1992",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Ohh! Rang Uhh! Tang",
         "year": "1994",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Rollkragen",
         "year": "1997",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {

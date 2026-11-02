@@ -399,7 +399,7 @@
         "year": "1993",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Ballad",
           "New Jack Swing",
           "Hip Hop",
@@ -414,13 +414,13 @@
           "Pop",
           "Funk / Soul",
           "Hip Hop",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
     "tags": [
       "Funk / Soul",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Ballad",
       "New Jack Swing",
       "Hip Hop",
@@ -634,12 +634,12 @@
         "name": "Tales From The Darkside",
         "year": "2018",
         "genres": [
-          "Black 'N Roll"
+          "Black 'n' Roll"
         ]
       }
     ],
     "tags": [
-      "Black 'N Roll"
+      "Black 'n' Roll"
     ]
   },
   {
@@ -692,7 +692,7 @@
         "name": "שירי החגים הגדולים בכל הזמנים",
         "year": "2002",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Ballad",
           "Pop",
           "Vocal",
@@ -706,7 +706,7 @@
         "name": "שירי הילדים הגדולים בכל הזמנים",
         "year": "2002",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Ballad",
           "Pop",
           "Vocal",
@@ -718,7 +718,7 @@
       }
     ],
     "tags": [
-      "Folk Metal",
+      "Folk",
       "Ballad",
       "Pop",
       "Vocal",
@@ -1157,7 +1157,7 @@
         "name": "Golden Serpents",
         "year": "2017",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -1186,7 +1186,7 @@
     ],
     "tags": [
       "Gothic Rock",
-      "Post Rock",
+      "Post-Rock",
       "Psychedelic Rock",
       "Rock"
     ]
@@ -1230,7 +1230,7 @@
         "year": "2020",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -1238,13 +1238,13 @@
         "year": "2021",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -1338,33 +1338,33 @@
         "name": "Problem Of Humanity",
         "year": "2007",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Lynched By Fate",
         "year": "2009",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Waiting For Disaster",
         "year": "2010",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "S.i.n.",
         "year": "2013",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -1375,26 +1375,26 @@
         "name": "Remembrance",
         "year": "2006",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Teardrops In Morning Dew",
         "year": "2011",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Withered Flowers And Cinnamon",
         "year": "2022",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -1966,7 +1966,7 @@
         "name": "Cheyne Stoking",
         "year": "2009",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Progressive Metal"
         ]
       },
@@ -1974,7 +1974,7 @@
         "name": "Mary Celeste",
         "year": "2011",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Progressive Metal"
         ]
       },
@@ -1982,7 +1982,7 @@
         "name": "War Party",
         "year": "2012",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Progressive Metal"
         ]
       },
@@ -1990,13 +1990,13 @@
         "name": "The Dead Stay Dead",
         "year": "2015",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Thrash",
+      "Melodic Thrash Metal",
       "Progressive Metal"
     ]
   },
@@ -2496,12 +2496,12 @@
         "name": "Take It By Storm",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -2602,14 +2602,14 @@
         "name": "A Tale Of Fire",
         "year": "2024",
         "genres": [
-          "Melodic  Death"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Arise",
         "year": "2025",
         "genres": [
-          "Melodic  Death"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -2623,7 +2623,7 @@
       }
     ],
     "tags": [
-      "Melodic  Death",
+      "Melodic Death Metal",
       "Death Metal",
       "Progressive Metal",
       "Symphonic Metal"
@@ -2710,110 +2710,110 @@
         "name": "Australasia",
         "year": "2003",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "Pelican",
         "year": "2003",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "March Into The Sea",
         "year": "2005",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "The Fire In Our Throats Will Beckon The Thaw",
         "year": "2005",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "City Of Echoes",
         "year": "2007",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "Pink Mammoth",
         "year": "2007",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "Ephemeral",
         "year": "2009",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "What We All Come To Need",
         "year": "2009",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "Ataraxia / Taraxis",
         "year": "2012",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "Forever Becoming",
         "year": "2013",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "The Cliff",
         "year": "2015",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "Nighttime Stories",
         "year": "2019",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "Adrift / Tending The Embers",
         "year": "2024",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "Flickering Resonance",
         "year": "2025",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       },
       {
         "name": "Ascending",
         "year": "2026",
         "genres": [
-          "Instrumental Post-metal"
+          "Instrumental Post-Metal"
         ]
       }
     ],
     "tags": [
-      "Instrumental Post-metal"
+      "Instrumental Post-Metal"
     ]
   },
   {
@@ -2843,7 +2843,7 @@
         "year": "1979",
         "genres": [
           "Hard Rock",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -2851,7 +2851,7 @@
         "year": "1980",
         "genres": [
           "Hard Rock",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -2859,7 +2859,7 @@
         "year": "1981",
         "genres": [
           "Hard Rock",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -2867,7 +2867,7 @@
         "year": "1981",
         "genres": [
           "Hard Rock",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -2875,7 +2875,7 @@
         "year": "1982",
         "genres": [
           "Hard Rock",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -2883,7 +2883,7 @@
         "year": "1984",
         "genres": [
           "Hard Rock",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -3001,7 +3001,7 @@
     ],
     "tags": [
       "Hard Rock",
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal"
     ]
   },
@@ -3397,7 +3397,7 @@
         "year": "2010",
         "genres": [
           "Viking Metal",
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
@@ -3405,7 +3405,7 @@
         "year": "2012",
         "genres": [
           "Viking Metal",
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
@@ -3420,7 +3420,7 @@
         "name": "Með Vættum",
         "year": "2014",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
@@ -3428,7 +3428,7 @@
         "year": "2016",
         "genres": [
           "Viking Metal",
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
@@ -3442,14 +3442,14 @@
         "name": "Sorgir",
         "year": "2018",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "ýDalir",
         "year": "2023",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       }
     ],
@@ -3457,7 +3457,7 @@
       "Viking Metal",
       "Melodic Death Metal",
       "Folk Metal",
-      "Viking Folk"
+      "Viking Folk Metal"
     ]
   },
   {
@@ -3742,14 +3742,14 @@
         "name": "Rise Above",
         "year": "2007",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Down Below",
         "year": "2009",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -3762,7 +3762,7 @@
     ],
     "tags": [
       "Progressive Metal",
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -4076,7 +4076,7 @@
         "name": "The Outsider",
         "year": "2016",
         "genres": [
-          "Extreme Avantgarde Metal",
+          "Extreme Avant-garde Metal",
           "Symphonic Death Metal"
         ]
       },
@@ -4084,7 +4084,7 @@
         "name": "Orchestral Renditions From The Unknown",
         "year": "2017",
         "genres": [
-          "Extreme Avantgarde Metal",
+          "Extreme Avant-garde Metal",
           "Symphonic Death Metal"
         ]
       },
@@ -4092,7 +4092,7 @@
         "name": "Ancient Beast Of The Apocalypse",
         "year": "2018",
         "genres": [
-          "Extreme Avantgarde Metal",
+          "Extreme Avant-garde Metal",
           "Symphonic Death Metal"
         ]
       },
@@ -4107,7 +4107,7 @@
         "name": "From Ancient Gods And Forbidden Books",
         "year": "2020",
         "genres": [
-          "Extreme Avantgarde Metal",
+          "Extreme Avant-garde Metal",
           "Symphonic Death Metal"
         ]
       },
@@ -4120,7 +4120,7 @@
       }
     ],
     "tags": [
-      "Extreme Avantgarde Metal",
+      "Extreme Avant-garde Metal",
       "Symphonic Death Metal",
       "Symphonic Metal"
     ]
@@ -4133,7 +4133,7 @@
         "name": "Thermohaline",
         "year": "2020",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -4141,13 +4141,13 @@
         "name": "Maelström",
         "year": "2021",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Black Metal"
     ]
   },
@@ -4564,19 +4564,19 @@
         "name": "Expelling The Evil",
         "year": "1993",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Grey Infinity",
         "year": "1998",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {

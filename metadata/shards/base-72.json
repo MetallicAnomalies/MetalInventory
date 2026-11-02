@@ -93,7 +93,7 @@
         "name": "Prison Of Desire",
         "year": "2000",
         "genres": [
-          "Symphonic Gothic"
+          "Symphonic Gothic Metal"
         ]
       },
       {
@@ -114,7 +114,7 @@
         "name": "Decipher",
         "year": "2001",
         "genres": [
-          "Symphonic Gothic"
+          "Symphonic Gothic Metal"
         ]
       },
       {
@@ -128,8 +128,8 @@
         "name": "Exordium",
         "year": "2003",
         "genres": [
-          "Symphonic Gothic",
-          "Symphonic Progressive"
+          "Symphonic Gothic Metal",
+          "Symphonic Progressive Metal"
         ]
       },
       {
@@ -143,14 +143,14 @@
         "name": "Invisible Circles",
         "year": "2004",
         "genres": [
-          "Symphonic Progressive"
+          "Symphonic Progressive Metal"
         ]
       },
       {
         "name": "Remagine",
         "year": "2005",
         "genres": [
-          "Symphonic Progressive"
+          "Symphonic Progressive Metal"
         ]
       },
       {
@@ -164,7 +164,7 @@
         "name": "After Forever",
         "year": "2007",
         "genres": [
-          "Symphonic Progressive"
+          "Symphonic Progressive Metal"
         ]
       },
       {
@@ -176,8 +176,8 @@
       }
     ],
     "tags": [
-      "Symphonic Gothic",
-      "Symphonic Progressive",
+      "Symphonic Gothic Metal",
+      "Symphonic Progressive Metal",
       "Symphonic Metal",
       "Heavy Metal"
     ]
@@ -381,7 +381,7 @@
         "name": "United Blood",
         "year": "1983",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -389,7 +389,7 @@
         "name": "Victim In Pain",
         "year": "1984",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -397,7 +397,7 @@
         "name": "Cause For Alarm",
         "year": "1986",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Crossover Thrash"
         ]
@@ -406,7 +406,7 @@
         "name": "Liberty And Justice For...",
         "year": "1987",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Crossover Thrash"
         ]
@@ -415,7 +415,7 @@
         "name": "One Voice",
         "year": "1992",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Crossover Thrash"
         ]
@@ -424,7 +424,7 @@
         "name": "Something's Gotta Give",
         "year": "1998",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Crossover Thrash"
         ]
@@ -433,7 +433,7 @@
         "name": "Riot, Riot, Upstart",
         "year": "1999",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -441,7 +441,7 @@
         "name": "Dead Yuppies",
         "year": "2001",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -449,7 +449,7 @@
         "name": "Believe",
         "year": "2003",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -457,7 +457,7 @@
         "name": "Another Voice",
         "year": "2004",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -465,7 +465,7 @@
         "name": "Warriors",
         "year": "2007",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -473,7 +473,7 @@
         "name": "My Life My Way",
         "year": "2011",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -481,7 +481,7 @@
         "name": "The American Dream Died",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -489,7 +489,7 @@
         "name": "Get Loud!",
         "year": "2019",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -497,13 +497,13 @@
         "name": "Echoes In Eternity",
         "year": "2025",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
       "Crossover Thrash"
     ]
@@ -768,7 +768,7 @@
         "year": "2015",
         "genres": [
           "Symphonic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Pop",
           "Power Metal"
         ]
@@ -791,7 +791,7 @@
     "tags": [
       "Progressive Metal",
       "Symphonic Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Pop",
       "Power Metal"
     ]
@@ -839,19 +839,19 @@
         "name": "Darkness",
         "year": "2010",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Mystery",
         "year": "2015",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Heavy"
+      "Blackened Heavy Metal"
     ]
   },
   {
@@ -867,7 +867,7 @@
         "year": "2008",
         "genres": [
           "Electronic",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Techno",
           "Pop"
         ]
@@ -884,7 +884,7 @@
     ],
     "tags": [
       "Electronic",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Techno",
       "Pop",
       "Punk",
@@ -1454,7 +1454,7 @@
         "year": "2015",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Electronic",
           "Alternative Rock",
           "Hip Hop",
@@ -1468,7 +1468,7 @@
         "year": "2015",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Electronic",
           "Alternative Rock",
           "Hip Hop",
@@ -1482,7 +1482,7 @@
         "year": "2015",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Electronic",
           "Alternative Rock",
           "Hip Hop",
@@ -1536,7 +1536,7 @@
         "genres": [
           "Alternative Rock",
           "Space Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -1582,7 +1582,7 @@
     ],
     "tags": [
       "Funk / Soul",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Electronic",
       "Alternative Rock",
       "Hip Hop",
@@ -1593,7 +1593,7 @@
       "Holiday",
       "Indie Rock",
       "Space Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Brass & Military",
       "Arena Rock",
       "Concert Film",
@@ -2836,7 +2836,7 @@
         "name": "Baptism Under Fire",
         "year": "1986",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Speed Metal"
         ]
       },
@@ -2844,7 +2844,7 @@
         "name": "Trouble Within",
         "year": "1987",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Speed Metal"
         ]
       },
@@ -2872,7 +2872,7 @@
       }
     ],
     "tags": [
-      "Technical Thrash",
+      "Technical Thrash Metal",
       "Speed Metal",
       "Thrash Metal",
       "Heavy Metal"
@@ -2928,25 +2928,25 @@
         "year": "1985",
         "genres": [
           "Pop Rock",
-          "Experimental Metal",
+          "Experimental",
           "Electronic",
           "Synth-pop",
           "Pop",
           "Baroque Pop",
           "Rock",
-          "Avantgarde Metal"
+          "Avant-garde"
         ]
       }
     ],
     "tags": [
       "Pop Rock",
-      "Experimental Metal",
+      "Experimental",
       "Electronic",
       "Synth-pop",
       "Pop",
       "Baroque Pop",
       "Rock",
-      "Avantgarde Metal",
+      "Avant-garde",
       "Art Rock"
     ]
   },
@@ -3564,7 +3564,7 @@
         "name": "Oriz",
         "year": "2010",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -3572,13 +3572,13 @@
         "name": "Ii",
         "year": "2011",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -3590,7 +3590,7 @@
         "name": "Guts Of A Virgin",
         "year": "1991",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3598,7 +3598,7 @@
         "name": "Buried Secrets",
         "year": "1992",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3606,7 +3606,7 @@
         "name": "Execution Ground",
         "year": "1994",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3619,9 +3619,8 @@
       }
     ],
     "tags": [
-      "Avantgarde Metal",
-      "Experimental Metal",
-      "Metal"
+      "Avant-garde Metal",
+      "Experimental Metal"
     ]
   },
   {
@@ -3633,7 +3632,7 @@
         "year": "2017",
         "genres": [
           "Thrash Metal",
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
@@ -3641,13 +3640,13 @@
         "year": "2021",
         "genres": [
           "Thrash Metal",
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -3684,14 +3683,14 @@
         "genres": [
           "Classical",
           "Rock",
-          "Neo-classical"
+          "Neoclassical"
         ]
       }
     ],
     "tags": [
       "Classical",
       "Rock",
-      "Neo-classical"
+      "Neoclassical"
     ]
   },
   {
@@ -3910,7 +3909,7 @@
         "year": "2000",
         "genres": [
           "Israeli",
-          "Hip-hop"
+          "Hip Hop"
         ]
       },
       {
@@ -3921,8 +3920,7 @@
     ],
     "tags": [
       "Israeli",
-      "Hip Hop",
-      "Hip-hop"
+      "Hip Hop"
     ]
   },
   {
@@ -4179,13 +4177,13 @@
         "name": "The Dying Light",
         "year": "2014",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Melodic Thrash",
+      "Melodic Thrash Metal",
       "Metalcore"
     ]
   },
@@ -4554,12 +4552,12 @@
         "year": "2026",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -4910,7 +4908,7 @@
         "genres": [
           "Electronic",
           "Downtempo",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4927,7 +4925,7 @@
       "Future Jazz",
       "Downtempo",
       "Trip Hop",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {

@@ -144,19 +144,19 @@
         "name": "La Chasse Sauvage",
         "year": "2001",
         "genres": [
-          "Celtic Black"
+          "Celtic Black Metal"
         ]
       },
       {
         "name": "Formors",
         "year": "2005",
         "genres": [
-          "Celtic Black"
+          "Celtic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Celtic Black"
+      "Celtic Black Metal"
     ]
   },
   {
@@ -282,7 +282,7 @@
         "name": "The Virgin Suicides",
         "year": "2000",
         "genres": [
-          "Ambient Metal",
+          "Ambient",
           "Psychedelic Rock",
           "Electronic",
           "Downtempo",
@@ -296,7 +296,7 @@
         "genres": [
           "Electronic",
           "Downtempo",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
@@ -307,7 +307,7 @@
       "Synth-pop",
       "Pop",
       "Dream Pop",
-      "Ambient Metal",
+      "Ambient",
       "Score",
       "Stage & Screen"
     ]
@@ -1735,12 +1735,12 @@
         "name": "Omniverse Consciousness",
         "year": "2024",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -1770,21 +1770,21 @@
         "name": "All Out War",
         "year": "1992",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Firestorm",
         "year": "1993",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Destroy The Machines",
         "year": "1995",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1792,7 +1792,7 @@
         "name": "Gomorrah's Season Ends",
         "year": "1996",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1800,7 +1800,7 @@
         "name": "Breed The Killers",
         "year": "1998",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1808,7 +1808,7 @@
         "name": "Slither",
         "year": "2000",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1816,7 +1816,7 @@
         "name": "Last Of The Sane",
         "year": "2001",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1824,7 +1824,7 @@
         "name": "To The Death",
         "year": "2009",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1832,7 +1832,7 @@
         "name": "Neutralize The Threat",
         "year": "2011",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1840,7 +1840,7 @@
         "name": "Salvation Of Innocents",
         "year": "2014",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1848,13 +1848,13 @@
         "name": "The Discipline",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -2039,7 +2039,7 @@
         "name": "Estuarine",
         "year": "2013",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Technical Death Metal",
           "Grindcore"
         ]
@@ -2048,7 +2048,7 @@
         "name": "Lucid / Entheogen",
         "year": "2015",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Technical Death Metal",
           "Grindcore"
         ]
@@ -2057,7 +2057,7 @@
         "name": "Sic Erat Scriptum",
         "year": "2018",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Technical Death Metal",
           "Grindcore"
         ]
@@ -2066,7 +2066,7 @@
         "name": "Wisdom Of Silenus",
         "year": "2019",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Technical Death Metal",
           "Grindcore"
         ]
@@ -2075,7 +2075,7 @@
         "name": "Nyarlathotep",
         "year": "2021",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Technical Death Metal",
           "Grindcore"
         ]
@@ -2084,14 +2084,14 @@
         "name": "Corporeal Furnace",
         "year": "2025",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Technical Death Metal",
           "Grindcore"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Technical Death Metal",
       "Grindcore"
     ]
@@ -2139,15 +2139,15 @@
         "name": "Tree Of Tongues",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
-          "Experimental Metal",
+          "Hardcore",
+          "Experimental",
           "Math Rock"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
-      "Experimental Metal",
+      "Hardcore",
+      "Experimental",
       "Math Rock"
     ]
   },
@@ -2572,8 +2572,7 @@
     "tags": [
       "Speed Metal",
       "Thrash Metal",
-      "Death Metal",
-      "Metal"
+      "Death Metal"
     ]
   },
   {
@@ -2597,63 +2596,63 @@
         "name": "Demolition",
         "year": "1980",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Hit And Run",
         "year": "1981",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Live And More",
         "year": "1982",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Screaming Blue Murder",
         "year": "1982",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Wildlife",
         "year": "1982",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Play Dirty",
         "year": "1983",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Running Wild",
         "year": "1985",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Nightmare At Maple Cross",
         "year": "1986",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Take A Bite",
         "year": "1988",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -2721,7 +2720,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal",
       "Hard Rock",
       "Rock & Roll"
@@ -2735,7 +2734,7 @@
         "name": "Gold Spire",
         "year": "2021",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Death Metal"
         ]
       },
@@ -2746,7 +2745,7 @@
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Death Metal"
     ]
   },
@@ -2758,26 +2757,26 @@
         "name": "Nimic Nou",
         "year": "2006",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Printre Voi",
         "year": "2009",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Gri",
         "year": "2016",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3226,13 +3225,13 @@
         "name": "Halloween",
         "year": "1996",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Horror Punk"
         ]
       }
     ],
     "tags": [
-      "Industrial Metal",
+      "Industrial",
       "Horror Punk"
     ]
   },
@@ -3332,26 +3331,26 @@
         "name": "Natural Process Of Progression",
         "year": "1993",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Complex Microcosm",
         "year": "1994",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Poetic Atmosphere Of Seasons",
         "year": "1995",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -4031,7 +4030,7 @@
         "year": "2017",
         "genres": [
           "Screamo",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Sludge Metal"
         ]
       },
@@ -4040,7 +4039,7 @@
         "year": "2018",
         "genres": [
           "Screamo",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Sludge Metal"
         ]
       },
@@ -4049,7 +4048,7 @@
         "year": "2019",
         "genres": [
           "Screamo",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Sludge Metal"
         ]
       },
@@ -4058,7 +4057,7 @@
         "year": "2021",
         "genres": [
           "Screamo",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Sludge Metal"
         ]
       },
@@ -4067,7 +4066,7 @@
         "year": "2021",
         "genres": [
           "Screamo",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Sludge Metal"
         ]
       },
@@ -4076,14 +4075,14 @@
         "year": "2023",
         "genres": [
           "Screamo",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Sludge Metal"
         ]
       }
     ],
     "tags": [
       "Screamo",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Sludge Metal"
     ]
   },
@@ -4125,28 +4124,28 @@
         "name": "Red Cain",
         "year": "2016",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Kindred: Act I",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Kindred: Act Ii",
         "year": "2021",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Näe'bliss",
         "year": "2023",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -4162,7 +4161,7 @@
       }
     ],
     "tags": [
-      "Progressive Power",
+      "Progressive Power Metal",
       "Donk",
       "Electronic",
       "Hard House",
@@ -4373,7 +4372,7 @@
         "name": "Never To Play The Servant",
         "year": "2006",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -4381,7 +4380,7 @@
         "name": "God Burns Like Flesh",
         "year": "2007",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -4389,7 +4388,7 @@
         "name": "Hail The New Cross",
         "year": "2013",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       },
@@ -4397,13 +4396,13 @@
         "name": "Orphans Of Chaos",
         "year": "2016",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Thrash Metal"
     ]
   },
@@ -4458,12 +4457,12 @@
         "name": "Primordial Dominion",
         "year": "2008",
         "genres": [
-          "Psychedelic Death"
+          "Psychedelic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Death",
+      "Psychedelic Death Metal",
       "Death Metal",
       "Grindcore"
     ]
@@ -4626,7 +4625,7 @@
         "name": "Dwarf Jester Rising",
         "year": "1994",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore"
         ]
       },
@@ -4634,7 +4633,7 @@
         "name": "Funky Ass Lil´ Platter 1\" Noise E.p.",
         "year": "1996",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore"
         ]
       },
@@ -4642,7 +4641,7 @@
         "name": "La Revancha",
         "year": "1996",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore"
         ]
       },
@@ -4650,7 +4649,7 @@
         "name": "Tastin' Spoon",
         "year": "1997",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore"
         ]
       },
@@ -4658,7 +4657,7 @@
         "name": "Crush Kill Destroy",
         "year": "1999",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore"
         ]
       },
@@ -4671,7 +4670,7 @@
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Grindcore",
       "Metal"
     ]
@@ -4797,7 +4796,7 @@
         "year": "2024",
         "genres": [
           "Hard Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -4807,7 +4806,7 @@
       "Power Metal",
       "Heavy Metal",
       "Hard Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Psychedelic Rock",
       "Rock"
     ]
@@ -4994,13 +4993,13 @@
         "year": "2026",
         "genres": [
           "Post-Metal Crust",
-          "Crust"
+          "Crust Punk"
         ]
       }
     ],
     "tags": [
       "Post-Metal Crust",
-      "Crust"
+      "Crust Punk"
     ]
   },
   {
@@ -5044,7 +5043,7 @@
         "year": "2012",
         "genres": [
           "Country Rock",
-          "Country Metal",
+          "Country",
           "Neofolk",
           "Southern Rock",
           "Acoustic",
@@ -5060,7 +5059,7 @@
           "Country Rock",
           "Blues",
           "Blues Rock",
-          "Country Metal",
+          "Country",
           "Neofolk",
           "Rock",
           "Folk, World, & Country",
@@ -5072,7 +5071,7 @@
       "Country Rock",
       "Blues",
       "Blues Rock",
-      "Country Metal",
+      "Country",
       "Neofolk",
       "Rock",
       "Folk, World, & Country",
@@ -5157,7 +5156,7 @@
         "name": "Popiół",
         "year": "1996",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Black Metal"
         ]
       },
@@ -5165,7 +5164,7 @@
         "name": "Signum",
         "year": "2005",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Black Metal"
         ]
       },
@@ -5173,7 +5172,7 @@
         "name": "Czarna Dzika Czerwień",
         "year": "2014",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Black Metal"
         ]
       },
@@ -5181,7 +5180,7 @@
         "name": "Ozimina",
         "year": "2015",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Black Metal"
         ]
       },
@@ -5189,7 +5188,7 @@
         "name": "Klechdy",
         "year": "2016",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Black Metal"
         ]
       },
@@ -5197,13 +5196,13 @@
         "name": "Bajki O Staruchu",
         "year": "2021",
         "genres": [
-          "Pagan Folk",
+          "Pagan Folk Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Pagan Folk",
+      "Pagan Folk Metal",
       "Black Metal"
     ]
   },
@@ -5478,7 +5477,7 @@
         "name": "Nyx Secrets",
         "year": "2006",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -5490,26 +5489,26 @@
         "name": "Non Omnis Moriar",
         "year": "2009",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Underneath",
         "year": "2011",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Disclosure",
         "year": "2015",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -5621,7 +5620,7 @@
         "year": "1990",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -5636,7 +5635,7 @@
     ],
     "tags": [
       "Art Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Black Metal",
       "Melodic Death Metal",
       "Rock"

@@ -9,16 +9,16 @@
         "year": "2019",
         "genres": [
           "Electronic",
-          "Industrial Metal",
-          "Drum N Bass",
+          "Industrial",
+          "Drum & Bass",
           "Breakbeat"
         ]
       }
     ],
     "tags": [
       "Electronic",
-      "Industrial Metal",
-      "Drum N Bass",
+      "Industrial",
+      "Drum & Bass",
       "Breakbeat"
     ]
   },
@@ -155,47 +155,47 @@
         "name": "Ruins",
         "year": "2010",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "Home In Decay",
         "year": "2012",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "Dualismus?",
         "year": "2015",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "Everywhere And Nowhere",
         "year": "2017",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "The Alley's Lantern",
         "year": "2021",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "13 Red Lakes",
         "year": "2023",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Doom"
+      "Progressive Doom Metal"
     ]
   },
   {
@@ -424,19 +424,19 @@
         "name": "Music Of Light",
         "year": "2011",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
         "name": "Black Is The Colour",
         "year": "2013",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Power"
+      "Melodic Power Metal"
     ]
   },
   {
@@ -449,14 +449,14 @@
         "genres": [
           "Black Metal",
           "Folk Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Black Metal",
       "Folk Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -874,12 +874,12 @@
         "name": "Honor & Steel",
         "year": "2025",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       }
     ],
     "tags": [
-      "Viking Black"
+      "Viking Black Metal"
     ]
   },
   {
@@ -1215,7 +1215,7 @@
         "genres": [
           "Black Metal",
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -1232,7 +1232,7 @@
       "Progressive Metal",
       "Post-Rock",
       "Progressive Rock",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -1354,12 +1354,12 @@
         "name": "Zone 6 Music",
         "year": "2016",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1372,7 +1372,7 @@
         "year": "2022",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
@@ -1380,7 +1380,7 @@
     ],
     "tags": [
       "Art Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Psychedelic Rock",
       "Rock"
     ]
@@ -1393,40 +1393,40 @@
         "name": "Crimson Glory",
         "year": "1986",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Transcendence",
         "year": "1988",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Strange And Beautiful",
         "year": "1991",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Astronomica",
         "year": "1999",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "War Of The Worlds",
         "year": "2000",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -1698,7 +1698,7 @@
         "name": "Cygnus Oddyssey",
         "year": "2016",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Metal"
         ]
       }
@@ -1706,7 +1706,7 @@
     "tags": [
       "Death Doom Metal",
       "Gothic Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Progressive Metal"
     ]
   },
@@ -1838,7 +1838,7 @@
         "year": "2004",
         "genres": [
           "Raw Black Metal",
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
@@ -1846,7 +1846,7 @@
         "year": "2013",
         "genres": [
           "Raw Black Metal",
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
@@ -1854,7 +1854,7 @@
         "year": "2014",
         "genres": [
           "Raw Black Metal",
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
@@ -1862,7 +1862,7 @@
         "year": "2015",
         "genres": [
           "Raw Black Metal",
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
@@ -1870,7 +1870,7 @@
         "year": "2016",
         "genres": [
           "Raw Black Metal",
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
@@ -1878,7 +1878,7 @@
         "year": "2017",
         "genres": [
           "Raw Black Metal",
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
@@ -1886,7 +1886,7 @@
         "year": "2017",
         "genres": [
           "Raw Black Metal",
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
@@ -1894,7 +1894,7 @@
         "year": "2018",
         "genres": [
           "Raw Black Metal",
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
@@ -1902,13 +1902,13 @@
         "year": "2019",
         "genres": [
           "Raw Black Metal",
-          "Noise Metal"
+          "Noise"
         ]
       }
     ],
     "tags": [
       "Raw Black Metal",
-      "Noise Metal"
+      "Noise"
     ]
   },
   {
@@ -2010,13 +2010,13 @@
         "year": "2016",
         "genres": [
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Grindcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2066,28 +2066,28 @@
         "name": "Crowcifiction",
         "year": "2004",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Sixty-six Minutes Past Six",
         "year": "2009",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Galactic Hunt",
         "year": "2014",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
         "name": "Chapter Iv: Antartarctica",
         "year": "2018",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       },
       {
@@ -2103,12 +2103,12 @@
         "name": "Silicon Tea",
         "year": "2025",
         "genres": [
-          "Blackened Heavy"
+          "Blackened Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Heavy",
+      "Blackened Heavy Metal",
       "Heavy Metal",
       "Gothic Metal",
       "Death Metal"
@@ -2343,9 +2343,9 @@
         "name": "Gords Gold",
         "year": "1987",
         "genres": [
-          "Country Metal",
+          "Country",
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -2373,9 +2373,9 @@
       }
     ],
     "tags": [
-      "Country Metal",
+      "Country",
       "Folk, World, & Country",
-      "Folk Metal",
+      "Folk",
       "Folk Rock",
       "Acoustic",
       "Rock"
@@ -2684,7 +2684,7 @@
         "genres": [
           "Nu Metal",
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2693,7 +2693,7 @@
         "genres": [
           "Nu Metal",
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2702,7 +2702,7 @@
         "genres": [
           "Nu Metal",
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2711,7 +2711,7 @@
         "genres": [
           "Nu Metal",
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2720,7 +2720,7 @@
         "genres": [
           "Nu Metal",
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2729,7 +2729,7 @@
         "genres": [
           "Nu Metal",
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2738,7 +2738,7 @@
         "genres": [
           "Nu Metal",
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2747,7 +2747,7 @@
         "genres": [
           "Nu Metal",
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2756,7 +2756,7 @@
         "genres": [
           "Nu Metal",
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2765,7 +2765,7 @@
         "genres": [
           "Nu Metal",
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2774,7 +2774,7 @@
         "genres": [
           "Nu Metal",
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2783,7 +2783,7 @@
         "genres": [
           "Nu Metal",
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2792,14 +2792,14 @@
         "genres": [
           "Nu Metal",
           "Thrash Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Nu Metal",
       "Thrash Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3068,19 +3068,19 @@
         "name": "Faustian Evangelion",
         "year": "2007",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "Sound Of God's Absence",
         "year": "2009",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Death"
+      "Atmospheric Death Metal"
     ]
   },
   {
@@ -3092,7 +3092,7 @@
         "year": "2004",
         "genres": [
           "Drone Doom Metal",
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
@@ -3100,13 +3100,13 @@
         "year": "2006",
         "genres": [
           "Drone Doom Metal",
-          "Noise Metal"
+          "Noise"
         ]
       }
     ],
     "tags": [
       "Drone Doom Metal",
-      "Noise Metal"
+      "Noise"
     ]
   },
   {
@@ -3297,7 +3297,7 @@
         "year": "2020",
         "genres": [
           "Death Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3305,7 +3305,7 @@
         "year": "2020",
         "genres": [
           "Death Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3319,7 +3319,7 @@
     "tags": [
       "Heavy Metal",
       "Death Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -3447,7 +3447,7 @@
         "name": "Unholy Death",
         "year": "1986",
         "genres": [
-          "Blackened Heavy",
+          "Blackened Heavy Metal",
           "Blackened Thrash Metal"
         ]
       },
@@ -3467,7 +3467,7 @@
       }
     ],
     "tags": [
-      "Blackened Heavy",
+      "Blackened Heavy Metal",
       "Blackened Thrash Metal",
       "Crossover Thrash"
     ]
@@ -3649,13 +3649,13 @@
         "name": "A Variable Invariability Varied In Dependency On Variations Caused By The Invariability Of Invariability Remains The Same When All The Variations Of Fractals Of Delight Have Been Done",
         "year": "2007",
         "genres": [
-          "Experimental Doom",
+          "Experimental Doom Metal",
           "Progressive Death Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Doom",
+      "Experimental Doom Metal",
       "Progressive Death Metal"
     ]
   },
@@ -3721,19 +3721,19 @@
         "name": "Powerdong",
         "year": "2022",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "The Divine Phallusy",
         "year": "2024",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -4043,7 +4043,7 @@
         "name": "The Warmth And The Loss",
         "year": "2015",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4063,7 +4063,7 @@
     ],
     "tags": [
       "Melodic Death Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -4217,76 +4217,76 @@
         "name": "Tribulation",
         "year": "2006",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Circulus Vitiosus Deus",
         "year": "2008",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Desire For A Holy War",
         "year": "2008",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "La Noche De Walpurgis",
         "year": "2008",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Taste The Blood Of The Deceiver",
         "year": "2008",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Malediction",
         "year": "2009",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Strange Keys To Untune Gods' Firmament",
         "year": "2010",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Fucked On A Pile Of Corpses",
         "year": "2011",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Draconis",
         "year": "2014",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "The Spirals Of Great Harm",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       }
     ],
     "tags": [
       "Noise Rock",
-      "Noise Metal"
+      "Noise"
     ]
   },
   {
@@ -4297,19 +4297,19 @@
         "name": "Ritual Of Dissonance",
         "year": "2020",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Vicious Cycle",
         "year": "2022",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -4862,47 +4862,47 @@
         "name": "120 Days",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Justine",
         "year": "2017",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Marat",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Caligula",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "In The Realm Of The Senses",
         "year": "2019",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "Rebu!",
         "year": "2020",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       }
     ],
     "tags": [
-      "Noise Metal"
+      "Noise"
     ]
   },
   {
@@ -5097,7 +5097,7 @@
         "year": "2014",
         "genres": [
           "Djent",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore",
           "Progressive Metal"
         ]
@@ -5114,7 +5114,7 @@
         "year": "2017",
         "genres": [
           "Djent",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore",
           "Progressive Metal"
         ]
@@ -5131,7 +5131,7 @@
         "year": "2018",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -5139,14 +5139,14 @@
         "year": "2018",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Math Metal",
       "Djent",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Metalcore",
       "Progressive Metal"
     ]
@@ -5193,19 +5193,19 @@
         "name": "Hypernatremia",
         "year": "2019",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "The Ceremony Of Marrying A Mummy",
         "year": "2020",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death"
+      "Death Doom Metal"
     ]
   },
   {
@@ -5537,7 +5537,7 @@
         "name": "Varaha",
         "year": "2016",
         "genres": [
-          "Atmospheric Gothic",
+          "Atmospheric Gothic Metal",
           "Doom Metal"
         ]
       },
@@ -5545,13 +5545,13 @@
         "name": "A Passage For Lost Years",
         "year": "2019",
         "genres": [
-          "Atmospheric Gothic",
+          "Atmospheric Gothic Metal",
           "Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Gothic",
+      "Atmospheric Gothic Metal",
       "Doom Metal"
     ]
   },
@@ -5757,14 +5757,12 @@
         "name": "INTERSTICE",
         "year": "2026",
         "genres": [
-          "Metalcore",
-          "Metal"
+          "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Metalcore",
-      "Metal"
+      "Metalcore"
     ]
   },
   {

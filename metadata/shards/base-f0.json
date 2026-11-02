@@ -130,14 +130,14 @@
         "genres": [
           "Melodic Death Metal",
           "Doom Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
       "Doom Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -149,7 +149,7 @@
         "name": "Verse",
         "year": "2001",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -157,13 +157,13 @@
         "name": "The Way Things End",
         "year": "2011",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -176,13 +176,13 @@
         "year": "2007",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -449,14 +449,14 @@
         "name": "Frustrations",
         "year": "1995",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Death Metal",
       "Thrash Metal",
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -470,7 +470,7 @@
         "name": "Voidbound",
         "year": "2013",
         "genres": [
-          "Progressive Sludge",
+          "Progressive Sludge Metal",
           "Doom Metal"
         ]
       },
@@ -485,7 +485,7 @@
         "name": "Bloodmoon / Trapped Within Burning Machinery",
         "year": "2017",
         "genres": [
-          "Progressive Sludge",
+          "Progressive Sludge Metal",
           "Doom Metal"
         ]
       },
@@ -493,14 +493,14 @@
         "name": "Supervoid Trinity",
         "year": "2018",
         "genres": [
-          "Progressive Sludge",
+          "Progressive Sludge Metal",
           "Doom Metal"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Progressive Sludge",
+      "Progressive Sludge Metal",
       "Doom Metal"
     ]
   },
@@ -528,19 +528,19 @@
         "name": "Helm's Deep",
         "year": "1990",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Only Change Is Constant",
         "year": "1992",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -705,7 +705,7 @@
         "name": "Slum Radio",
         "year": "2003",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       },
@@ -713,7 +713,7 @@
         "name": "Manifest From Sudamerica",
         "year": "2008",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       },
@@ -721,7 +721,7 @@
         "name": "Latino Revolution",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       },
@@ -729,13 +729,13 @@
         "name": "Les Liquid Temps",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Crossover Thrash"
     ]
   },
@@ -868,14 +868,14 @@
         "genres": [
           "Deathcore",
           "Hardcore Punk",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Deathcore",
       "Hardcore Punk",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1134,12 +1134,12 @@
         "name": "Forsaken Memories",
         "year": "2021",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -1339,33 +1339,33 @@
         "name": "Fifth Angel",
         "year": "1986",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Time Will Tell",
         "year": "1989",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "The Third Secret",
         "year": "2018",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "When Angels Kill",
         "year": "2023",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -1639,33 +1639,33 @@
         "name": "Lullabies For Living Dead",
         "year": "2009",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Stop Pretending",
         "year": "2013",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "The Resilience",
         "year": "2017",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Negative Sun",
         "year": "2022",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -1878,7 +1878,7 @@
         "name": "The Usual Tragedy",
         "year": "2003",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Gothic Metal"
         ]
       },
@@ -1901,7 +1901,7 @@
         "name": "Restless",
         "year": "2008",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Gothic Metal"
         ]
       },
@@ -1909,14 +1909,14 @@
         "name": "Golden Decadence",
         "year": "2011",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Gothic Metal"
         ]
       }
     ],
     "tags": [
       "Industrial Metal",
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Gothic Metal",
       "Power Metal",
       "Symphonic Metal"
@@ -2818,7 +2818,7 @@
         "year": "2021",
         "genres": [
           "Pop Rock",
-          "Country Metal",
+          "Country",
           "Pop",
           "Vocal",
           "Folk, World, & Country",
@@ -2833,7 +2833,7 @@
       "Soft Rock",
       "Rock",
       "Pop Rock",
-      "Country Metal",
+      "Country",
       "Pop",
       "Vocal",
       "Folk, World, & Country",
@@ -2974,14 +2974,14 @@
         "year": "2010",
         "genres": [
           "Jazz",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Jazz",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -3313,12 +3313,12 @@
         "name": "Ricochet - Zarah - A Teartown Story",
         "year": "1994",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3422,14 +3422,14 @@
         "name": "Cant Slow Down",
         "year": "1998",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Emo"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
       "Emo"
     ]
@@ -3533,7 +3533,7 @@
         "genres": [
           "Electronic",
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3541,13 +3541,13 @@
         "year": "2017",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Electronic"
     ]
   },
@@ -3610,14 +3610,12 @@
         "name": "An Ending In Itself",
         "year": "2026",
         "genres": [
-          "Metal",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Metalcore",
-      "Metal"
+      "Metalcore"
     ]
   },
   {
@@ -3692,7 +3690,7 @@
         "name": "Mass Destruction",
         "year": "2004",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Metalcore"
         ]
       },
@@ -3700,7 +3698,7 @@
         "name": "Derision Of Conformity",
         "year": "2006",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Metalcore"
         ]
       },
@@ -3708,7 +3706,7 @@
         "name": "Sworn Amongst",
         "year": "2006",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Metalcore"
         ]
       },
@@ -3716,7 +3714,7 @@
         "name": "And So It Begins",
         "year": "2008",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Metalcore"
         ]
       },
@@ -3724,7 +3722,7 @@
         "name": "Severance",
         "year": "2010",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Metalcore"
         ]
       },
@@ -3732,7 +3730,7 @@
         "name": "Evolution",
         "year": "2011",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Metalcore"
         ]
       },
@@ -3740,7 +3738,7 @@
         "name": "Scourge Of The Omnipotent",
         "year": "2014",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Metalcore"
         ]
       },
@@ -3748,7 +3746,7 @@
         "name": "Under A Titan Sky",
         "year": "2016",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Metalcore"
         ]
       },
@@ -3756,13 +3754,13 @@
         "name": "Reclamation",
         "year": "2019",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Metalcore"
     ]
   },
@@ -3823,13 +3821,13 @@
         "name": "Dead Of Night",
         "year": "2007",
         "genres": [
-          "Trash Metal",
+          "Thrash Metal",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Trash Metal",
+      "Thrash Metal",
       "Metalcore"
     ]
   },

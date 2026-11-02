@@ -316,7 +316,7 @@
           "Nu Metal",
           "Indie Rock",
           "Funk Metal",
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Alternative Rock"
         ]
@@ -326,7 +326,7 @@
       "Nu Metal",
       "Indie Rock",
       "Funk Metal",
-      "Electro Metal",
+      "Electro",
       "Electronic",
       "Alternative Rock",
       "Punk",
@@ -430,12 +430,12 @@
         "name": "Killing The Dream",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -514,7 +514,7 @@
         "year": "2013",
         "genres": [
           "Grindcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -523,7 +523,7 @@
         "year": "2015",
         "genres": [
           "Grindcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -532,7 +532,7 @@
         "year": "2016",
         "genres": [
           "Grindcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -541,14 +541,14 @@
         "year": "2019",
         "genres": [
           "Grindcore",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
       "Grindcore",
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -619,13 +619,13 @@
         "year": "2025",
         "genres": [
           "Thai Pop",
-          "K-rock"
+          "K-Rock"
         ]
       }
     ],
     "tags": [
       "Thai Pop",
-      "K-rock"
+      "K-Rock"
     ]
   },
   {
@@ -698,7 +698,7 @@
         "name": "Come One, Come All",
         "year": "2021",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -706,7 +706,7 @@
         "name": "Lost Behind The Mask",
         "year": "2023",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -714,13 +714,13 @@
         "name": "Hellfire",
         "year": "2025",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -798,33 +798,33 @@
         "name": "Infinite Stargaze",
         "year": "2009",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Out From The Cold",
         "year": "2011",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Frozen Paradise",
         "year": "2013",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "A New World Arise",
         "year": "2017",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -1472,7 +1472,7 @@
         "name": "Beneath It Devores",
         "year": "2005",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1480,7 +1480,7 @@
         "name": "Notre Niveau Est Trop éLevé Pour Que Vous, Misérables Créatures Bipèdes Pour Lesquelles Nous N'éprouvons Que Du Mépris, Puissiez Porter Un Jugement à L'encontre De Nos Délicieuses Cr",
         "year": "2007",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1488,7 +1488,7 @@
         "name": "Notes Du Paradis - Whoop Whoop Whee Whee",
         "year": "2008",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1496,7 +1496,7 @@
         "name": "Contemptus Saeculi",
         "year": "2014",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Black Metal"
         ]
       },
@@ -1504,13 +1504,13 @@
         "name": "Trimphus Haeretici",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Black Metal",
       "Punk"
     ]
@@ -1649,7 +1649,7 @@
         "year": "2012",
         "genres": [
           "Experimental Metal",
-          "Prog Rock",
+          "Progressive Rock",
           "Alternative Rock",
           "Art Rock",
           "Acoustic",
@@ -1661,7 +1661,7 @@
         "year": "2012",
         "genres": [
           "Experimental Metal",
-          "Prog Rock",
+          "Progressive Rock",
           "Alternative Rock",
           "Art Rock",
           "Rock"
@@ -1672,7 +1672,7 @@
       "Progressive Metal",
       "Alternative",
       "Experimental Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Alternative Rock",
       "Art Rock",
       "Acoustic",
@@ -1754,13 +1754,13 @@
         "name": "When You Have Won, You Have Lost",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -2507,12 +2507,12 @@
         "name": "Starlight's Guide",
         "year": "2014",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Doom"
+      "Atmospheric Doom Metal"
     ]
   },
   {
@@ -2688,28 +2688,28 @@
         "name": "Industrial",
         "year": "1991",
         "genres": [
-          "Industrial Metal"
+          "Industrial"
         ]
       },
       {
         "name": "Submit",
         "year": "1992",
         "genres": [
-          "Industrial Metal"
+          "Industrial"
         ]
       },
       {
         "name": "Desensitized",
         "year": "1993",
         "genres": [
-          "Industrial Metal"
+          "Industrial"
         ]
       },
       {
         "name": "Infotainment?",
         "year": "1996",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Alternative"
         ]
       },
@@ -2717,7 +2717,7 @@
         "name": "Www.pitchshifter.com",
         "year": "1998",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Alternative"
         ]
       },
@@ -2725,7 +2725,7 @@
         "name": "Un-united Kingdom",
         "year": "1999",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Alternative"
         ]
       },
@@ -2733,7 +2733,7 @@
         "name": "Deviant",
         "year": "2000",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Alternative"
         ]
       },
@@ -2741,13 +2741,13 @@
         "name": "Psi",
         "year": "2002",
         "genres": [
-          "Industrial Metal",
+          "Industrial",
           "Alternative"
         ]
       }
     ],
     "tags": [
-      "Industrial Metal",
+      "Industrial",
       "Alternative"
     ]
   },
@@ -3891,7 +3891,7 @@
         "year": "1994",
         "genres": [
           "Hip Hop",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Pop Rap"
         ]
       },
@@ -3901,18 +3901,18 @@
         "genres": [
           "Funk / Soul",
           "Electronic",
-          "Contemporary R&b",
-          "Electro Metal"
+          "Contemporary R&B",
+          "Electro"
         ]
       }
     ],
     "tags": [
       "Hip Hop",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Pop Rap",
       "Funk / Soul",
       "Electronic",
-      "Electro Metal"
+      "Electro"
     ]
   },
   {
@@ -4330,19 +4330,19 @@
         "name": "Songs Of The Spilman",
         "year": "2013",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Banners",
         "year": "2021",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {

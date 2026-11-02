@@ -447,7 +447,7 @@
         "year": "1999",
         "genres": [
           "Symphonic Black Metal",
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
@@ -461,7 +461,7 @@
     "tags": [
       "Black Metal",
       "Symphonic Black Metal",
-      "Atmospheric Death"
+      "Atmospheric Death Metal"
     ]
   },
   {
@@ -488,7 +488,7 @@
         "name": "Erkale",
         "year": "2014",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Drone Metal"
         ]
       },
@@ -496,13 +496,13 @@
         "name": "Keräily",
         "year": "2016",
         "genres": [
-          "Psychedelic Doom",
+          "Psychedelic Doom Metal",
           "Drone Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Doom",
+      "Psychedelic Doom Metal",
       "Drone Metal"
     ]
   },
@@ -1475,12 +1475,12 @@
         "name": "New Built Ghetto Status",
         "year": "1993",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -1639,7 +1639,7 @@
         "year": "2000",
         "genres": [
           "Heavy Metal",
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
@@ -1647,7 +1647,7 @@
         "year": "2002",
         "genres": [
           "Heavy Metal",
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
@@ -1655,7 +1655,7 @@
         "year": "2003",
         "genres": [
           "Heavy Metal",
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
@@ -1663,13 +1663,13 @@
         "year": "2008",
         "genres": [
           "Heavy Metal",
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Melodic Power"
+      "Melodic Power Metal"
     ]
   },
   {
@@ -1764,8 +1764,8 @@
         "year": "2023",
         "genres": [
           "Electronic",
-          "Post Rock",
-          "Avantgarde Metal",
+          "Post-Rock",
+          "Avant-garde",
           "Rock"
         ]
       },
@@ -1782,8 +1782,7 @@
       "Experimental Rock",
       "Post-Rock",
       "Electronic",
-      "Post Rock",
-      "Avantgarde Metal",
+      "Avant-garde",
       "Rock"
     ]
   },
@@ -1850,17 +1849,17 @@
         "name": "Play Minstrel Play Ft. Ian Anderson [Single]",
         "year": "2023",
         "genres": [
-          "Medieval Metal",
+          "Medieval",
           "Folk Rock",
-          "Celtic Metal",
+          "Celtic",
           "Celtic Rock"
         ]
       }
     ],
     "tags": [
-      "Medieval Metal",
+      "Medieval",
       "Folk Rock",
-      "Celtic Metal",
+      "Celtic",
       "Celtic Rock"
     ]
   },
@@ -2138,47 +2137,47 @@
         "name": "No One Gets Out Alive",
         "year": "1992",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Cornered",
         "year": "1995",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Forever War",
         "year": "1997",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Les 150 Passions Meurtrières",
         "year": "2000",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "No Surrender",
         "year": "2009",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Et Le Diable Rit Avec Nous",
         "year": "2011",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2766,14 +2765,14 @@
         "name": "May The Forze Be With You",
         "year": "1994",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Electronic",
           "Gabber"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Electronic",
       "Gabber"
     ]
@@ -2881,26 +2880,26 @@
         "name": "The Odyssey To Room 101",
         "year": "2018",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "A Pill Hard To Swallow",
         "year": "2020",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Novo Oružje Protiv Bola",
         "year": "2023",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -3213,7 +3212,7 @@
         "genres": [
           "Trip Hop",
           "Breaks",
-          "Experimental Metal",
+          "Experimental",
           "Electronic",
           "House"
         ]
@@ -3222,7 +3221,7 @@
     "tags": [
       "Trip Hop",
       "Breaks",
-      "Experimental Metal",
+      "Experimental",
       "Electronic",
       "House"
     ]
@@ -3460,8 +3459,8 @@
         "name": "Between The Heart & The Synapse",
         "year": "2005",
         "genres": [
-          "Prog Rock",
-          "Post-hardcore"
+          "Progressive Rock",
+          "Post-Hardcore"
         ]
       },
       {
@@ -3475,8 +3474,8 @@
       }
     ],
     "tags": [
-      "Prog Rock",
-      "Post-hardcore",
+      "Progressive Rock",
+      "Post-Hardcore",
       "Alternative Rock",
       "Indie Rock",
       "Rock"
@@ -3754,19 +3753,19 @@
         "name": "Gates To Hell",
         "year": "2008",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "One Way",
         "year": "2011",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -3777,12 +3776,12 @@
         "name": "Faceless Phenomena",
         "year": "2010",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -3841,7 +3840,7 @@
         "name": "Bromio",
         "year": "1999",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3849,7 +3848,7 @@
         "name": "The Zu Side Of The Chadbourne",
         "year": "2000",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3857,7 +3856,7 @@
         "name": "Motorhellington",
         "year": "2001",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3865,7 +3864,7 @@
         "name": "Igneo",
         "year": "2002",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3873,7 +3872,7 @@
         "name": "Radiale",
         "year": "2004",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3881,7 +3880,7 @@
         "name": "Dälek Vs Zu",
         "year": "2005",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3889,7 +3888,7 @@
         "name": "How To Raise An Ox",
         "year": "2005",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3897,7 +3896,7 @@
         "name": "The Way Of The Animal Powers",
         "year": "2005",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3905,7 +3904,7 @@
         "name": "Phonometak Series # 1",
         "year": "2006",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3913,7 +3912,7 @@
         "name": "Identification With The Enemy: A Key To The Underworld",
         "year": "2007",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3921,7 +3920,7 @@
         "name": "Observing The Armies In The Battlefield",
         "year": "2007",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3929,7 +3928,7 @@
         "name": "Il Teatro Degli Orrori / Zu",
         "year": "2008",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3937,7 +3936,7 @@
         "name": "Phonometak Series # 4",
         "year": "2008",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3945,7 +3944,7 @@
         "name": "Carboniferous",
         "year": "2009",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3953,7 +3952,7 @@
         "name": "Goodnight, Civilization",
         "year": "2014",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3961,7 +3960,7 @@
         "name": "The Left Hand Path",
         "year": "2014",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3969,7 +3968,7 @@
         "name": "Cortar Todo",
         "year": "2015",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3977,7 +3976,7 @@
         "name": "Jhator",
         "year": "2017",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3985,7 +3984,7 @@
         "name": "Terminalia Amazonia",
         "year": "2019",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       },
@@ -3993,13 +3992,13 @@
         "name": "Ferrum Sidereum",
         "year": "2026",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Experimental Metal"
     ]
   },

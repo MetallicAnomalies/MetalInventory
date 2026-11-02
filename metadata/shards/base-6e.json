@@ -93,7 +93,7 @@
         "name": "Vengeance Prevail",
         "year": "2010",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -101,7 +101,7 @@
         "name": "We Are The Flood",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -109,7 +109,7 @@
         "name": "Vultures Chapter 1",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -117,13 +117,13 @@
         "name": "Vultures Chapter 2",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -185,33 +185,33 @@
         "name": "Thirsty Fields",
         "year": "1995",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "The Landing",
         "year": "1997",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "The New Prophecy",
         "year": "2020",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Dimension 5",
         "year": "2024",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -279,35 +279,35 @@
         "name": "Constellation",
         "year": "1994",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Aspera Hiems Symfonia",
         "year": "1996",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "La Masquerade Infernale",
         "year": "1997",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "The Sham Mirrors",
         "year": "2002",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Sideshow Symphonies",
         "year": "2005",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -315,15 +315,15 @@
         "year": "2006",
         "genres": [
           "Black Metal",
-          "Prog Rock",
-          "Avantgarde Metal"
+          "Progressive Rock",
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Arcturian",
         "year": "2015",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -331,16 +331,16 @@
         "year": "2015",
         "genres": [
           "Electronic",
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
-      "Avantgarde Black",
+      "Avant-garde Metal",
+      "Avant-garde Black Metal",
       "Black Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Electronic",
       "Rock"
     ]
@@ -738,14 +738,14 @@
         "name": "Teatro Humanitario",
         "year": "2023",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Ska"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
       "Ska"
     ]
@@ -875,22 +875,22 @@
         "name": "There Is A Place Called Home",
         "year": "2017",
         "genres": [
-          "Ambient Metal",
-          "Avantgarde Black"
+          "Ambient",
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Afterlife Romance",
         "year": "2019",
         "genres": [
-          "Ambient Metal",
-          "Avantgarde Black"
+          "Ambient",
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Ambient Metal",
-      "Avantgarde Black"
+      "Ambient",
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -1602,8 +1602,7 @@
       }
     ],
     "tags": [
-      "Black Metal",
-      "Metal"
+      "Black Metal"
     ]
   },
   {
@@ -1617,7 +1616,7 @@
         "genres": [
           "Funk / Soul",
           "Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Pop",
           "Hip Hop"
         ]
@@ -1626,7 +1625,7 @@
     "tags": [
       "Funk / Soul",
       "Soul",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Pop",
       "Hip Hop"
     ]
@@ -1689,7 +1688,7 @@
         "genres": [
           "Progressive Trance",
           "Electronic",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Funk / Soul"
         ]
       },
@@ -1717,7 +1716,7 @@
       "Soft Rock",
       "Progressive Trance",
       "Electronic",
-      "Contemporary R&b"
+      "Contemporary R&B"
     ]
   },
   {
@@ -1929,26 +1928,26 @@
         "name": "Burnt Sugar",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Noise Rock",
           "Grunge",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Gouge Away On Audiotree Live",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
-          "Post-hardcore"
+          "Hardcore",
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Noise Rock",
       "Grunge",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -2087,61 +2086,61 @@
         "name": "2002",
         "year": "2002",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Uskon Puolesta",
         "year": "2003",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Enne",
         "year": "2006",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Frozen Inside",
         "year": "2008",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Piikki Lihassa",
         "year": "2008",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Pääkallonpaikka",
         "year": "2010",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "The Jesus Metal Explosion",
         "year": "2010",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "The Battle Of God",
         "year": "2011",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -2715,7 +2714,7 @@
         "year": "2014",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2723,7 +2722,7 @@
         "year": "2014",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2731,7 +2730,7 @@
         "year": "2016",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2739,7 +2738,7 @@
         "year": "2019",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2747,7 +2746,7 @@
         "year": "2021",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2755,7 +2754,7 @@
         "year": "2024",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2763,13 +2762,13 @@
         "year": "2025",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Sludge Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3261,12 +3260,12 @@
         "name": "Prepare To Be Let Down",
         "year": "2007",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3329,7 +3328,7 @@
         "year": "1997",
         "genres": [
           "Technical Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -3337,7 +3336,7 @@
         "year": "2002",
         "genres": [
           "Technical Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -3345,7 +3344,7 @@
         "year": "2006",
         "genres": [
           "Technical Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -3353,13 +3352,13 @@
         "year": "2012",
         "genres": [
           "Technical Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Technical Death Metal",
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -3386,12 +3385,12 @@
         "name": "Scattered Horizons",
         "year": "2013",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -3551,19 +3550,19 @@
         "name": "Winter Maiden",
         "year": "2022",
         "genres": [
-          "Melodic  Black"
+          "Melodic Black Metal"
         ]
       },
       {
         "name": "Awakening",
         "year": "2023",
         "genres": [
-          "Melodic  Black"
+          "Melodic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic  Black"
+      "Melodic Black Metal"
     ]
   },
   {
@@ -3883,7 +3882,7 @@
         "name": "...By The Shadows...",
         "year": "2024",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -3891,15 +3890,13 @@
         "name": "...by The Word...",
         "year": "2026",
         "genres": [
-          "Black Metal",
-          "Metal"
+          "Black Metal"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Avantgarde Metal",
-      "Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -3922,21 +3919,21 @@
         "name": "Beware Of The Dog",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Shoot To Kill",
         "year": "1985",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Crimes Of Insanity",
         "year": "1986",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -3962,7 +3959,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal"
     ]
   },
@@ -3998,49 +3995,49 @@
         "name": "Welcome To Hell",
         "year": "1981",
         "genres": [
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
         "name": "Black Metal",
         "year": "1982",
         "genres": [
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
         "name": "At War With Satan",
         "year": "1983",
         "genres": [
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
         "name": "Canadian Assault",
         "year": "1984",
         "genres": [
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
         "name": "American Assault",
         "year": "1985",
         "genres": [
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
         "name": "French Assault",
         "year": "1985",
         "genres": [
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
         "name": "Hell At Hammersmith",
         "year": "1985",
         "genres": [
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
@@ -4054,56 +4051,56 @@
         "name": "Japanese Assault",
         "year": "1985",
         "genres": [
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
         "name": "Nightmare",
         "year": "1985",
         "genres": [
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
         "name": "Possessed",
         "year": "1985",
         "genres": [
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
         "name": "Calm Before The Storm",
         "year": "1987",
         "genres": [
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
         "name": "German Assault",
         "year": "1987",
         "genres": [
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
         "name": "Prime Evil",
         "year": "1989",
         "genres": [
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
         "name": "Tear Your Soul Apart",
         "year": "1990",
         "genres": [
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
         "name": "Temples Of Ice",
         "year": "1991",
         "genres": [
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
@@ -4117,7 +4114,7 @@
         "name": "The Waste Lands",
         "year": "1992",
         "genres": [
-          "First Wave Of Black"
+          "First Wave Black Metal"
         ]
       },
       {
@@ -4185,7 +4182,7 @@
       }
     ],
     "tags": [
-      "First Wave Of Black",
+      "First Wave Black Metal",
       "Heavy Metal",
       "Black Metal"
     ]

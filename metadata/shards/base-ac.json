@@ -137,7 +137,7 @@
         "genres": [
           "Easy Listening",
           "New Age",
-          "Ambient Metal",
+          "Ambient",
           "Electronic",
           "Folk, World, & Country",
           "Jazz",
@@ -164,7 +164,7 @@
       "Rock",
       "Modern Classical",
       "Easy Listening",
-      "Ambient Metal",
+      "Ambient",
       "Folk, World, & Country",
       "Jazz",
       "Smooth Jazz"
@@ -419,7 +419,7 @@
           "Funk / Soul",
           "Reggae-pop",
           "Pop Rock",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Electronic",
           "Reggae",
           "Pop",
@@ -442,7 +442,7 @@
       "Hip Hop",
       "Reggae-pop",
       "Pop Rock",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Electronic",
       "Reggae",
       "Rock",
@@ -684,7 +684,7 @@
         "genres": [
           "Heavy Metal",
           "Alternative Rock",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -708,7 +708,7 @@
       "Pop",
       "Heavy Metal",
       "Alternative Rock",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -1080,12 +1080,12 @@
         "name": "The Abyss",
         "year": "2026",
         "genres": [
-          "Death Metal with Progressive and Thrash elements"
+          "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Death Metal with Progressive and Thrash elements"
+      "Death Metal"
     ]
   },
   {
@@ -1184,47 +1184,47 @@
         "name": "Auf Wiedersehen",
         "year": "1989",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Skrell",
         "year": "1990",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "The Way To Go",
         "year": "1990",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Nuh!",
         "year": "1991",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Xerox Success",
         "year": "1992",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Labyrinth",
         "year": "1994",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -1271,8 +1271,7 @@
         "genres": [
           "Epic Atmospheric Black Metal",
           "Dungeon Synth",
-          "Atmospheric Black Metal",
-          "Dungeon Synth"
+          "Atmospheric Black Metal"
         ]
       }
     ],
@@ -1317,7 +1316,7 @@
         "name": "Monuments To Excess",
         "year": "1995",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Emo"
         ]
       },
@@ -1371,7 +1370,7 @@
     "tags": [
       "Alternative Rock",
       "Grunge",
-      "Hardcore Metal",
+      "Hardcore",
       "Emo",
       "Hard Rock",
       "Rock"
@@ -1385,26 +1384,26 @@
         "name": "Mystic Kingdom",
         "year": "2011",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Tales Of A New Century",
         "year": "2019",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "The Darkest Planet",
         "year": "2021",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -1864,12 +1863,12 @@
         "name": "The Isolation Splendour",
         "year": "2016",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Doom"
+      "Atmospheric Doom Metal"
     ]
   },
   {
@@ -2102,12 +2101,12 @@
         "name": "One Of A Kind",
         "year": "2009",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Power"
+      "Melodic Power Metal"
     ]
   },
   {
@@ -2178,7 +2177,7 @@
         "name": "River Runs Red",
         "year": "1993",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2228,7 +2227,7 @@
         "genres": [
           "Alternative",
           "Grunge",
-          "Hardcore Metal",
+          "Hardcore",
           "Alternative Rock",
           "Hard Rock"
         ]
@@ -2243,7 +2242,7 @@
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Alternative",
       "Grunge",
       "Alternative Rock",
@@ -2259,7 +2258,7 @@
         "name": "Metaphysical Collapse",
         "year": "2010",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Metalcore"
         ]
       },
@@ -2267,13 +2266,13 @@
         "name": "And Everything Slips Away",
         "year": "2012",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Metalcore"
     ]
   },
@@ -2437,19 +2436,19 @@
         "name": "Evolution",
         "year": "1996",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "The Global Village",
         "year": "2000",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -2545,7 +2544,7 @@
         "year": "2019",
         "genres": [
           "Bitpop",
-          "Ambient Metal",
+          "Ambient",
           "Downtempo",
           "Electronic",
           "Chillwave",
@@ -2555,7 +2554,7 @@
     ],
     "tags": [
       "Bitpop",
-      "Ambient Metal",
+      "Ambient",
       "Downtempo",
       "Electronic",
       "Chillwave",
@@ -2824,8 +2823,8 @@
         "name": "Embrace The Wretched Flesh",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
-          "Crust Metal",
+          "Hardcore",
+          "Crust Punk",
           "Grindcore",
           "Punk",
           "Metalcore"
@@ -2833,8 +2832,8 @@
       }
     ],
     "tags": [
-      "Hardcore Metal",
-      "Crust Metal",
+      "Hardcore",
+      "Crust Punk",
       "Grindcore",
       "Punk",
       "Metalcore"
@@ -2864,19 +2863,19 @@
         "name": "Sacrifice Doth Call",
         "year": "2020",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
         "name": "Wielder Of The Steel",
         "year": "2024",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Epic Heavy"
+      "Epic Heavy Metal"
     ]
   },
   {
@@ -3322,14 +3321,14 @@
         "year": "2015",
         "genres": [
           "Thrash Metal",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
         "name": "Dark Orient",
         "year": "2017",
         "genres": [
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -3343,7 +3342,7 @@
         "name": "Nabatea",
         "year": "2021",
         "genres": [
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -3357,7 +3356,7 @@
       }
     ],
     "tags": [
-      "Oriental Folk",
+      "Oriental Folk Metal",
       "Thrash Metal",
       "Folk Metal",
       "Folk, World, & Country",
@@ -3373,7 +3372,7 @@
         "year": "2009",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3381,7 +3380,7 @@
         "year": "2010",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3389,7 +3388,7 @@
         "year": "2014",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3397,13 +3396,13 @@
         "year": "2016",
         "genres": [
           "Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -3414,12 +3413,12 @@
         "name": "Quiet ... Listen!",
         "year": "2013",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -3485,26 +3484,26 @@
         "name": "New Beginning",
         "year": "2017",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Awaken From Disguise",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Far From Silence",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -3726,13 +3725,13 @@
         "name": "Southern Weather",
         "year": "2007",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Emo"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Emo"
     ]
   },
@@ -3825,7 +3824,7 @@
         "year": "2007",
         "genres": [
           "Metalcore",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -3833,7 +3832,7 @@
         "year": "2007",
         "genres": [
           "Metalcore",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -3841,7 +3840,7 @@
         "year": "2008",
         "genres": [
           "Metalcore",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -3849,13 +3848,13 @@
         "year": "2010",
         "genres": [
           "Metalcore",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -4374,40 +4373,40 @@
         "name": "Something Wykked This Way Comes",
         "year": "1996",
         "genres": [
-          "Gothic Black"
+          "Gothic Black Metal"
         ]
       },
       {
         "name": "Angelic Vengeance",
         "year": "2001",
         "genres": [
-          "Gothic Black"
+          "Gothic Black Metal"
         ]
       },
       {
         "name": "Nefret",
         "year": "2004",
         "genres": [
-          "Gothic Black"
+          "Gothic Black Metal"
         ]
       },
       {
         "name": "Memories Of A Dying Whore",
         "year": "2008",
         "genres": [
-          "Gothic Black"
+          "Gothic Black Metal"
         ]
       },
       {
         "name": "The Ultimate Deception",
         "year": "2012",
         "genres": [
-          "Gothic Black"
+          "Gothic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Gothic Black"
+      "Gothic Black Metal"
     ]
   },
   {
@@ -4419,15 +4418,17 @@
         "year": "2026",
         "genres": [
           "Black Metal",
-          "Ambient | Black Gothic Metal | Black Metal | Black Metal | Black Metal | Black Metal",
-          "Gothic Metal | Black Metal | Black Metal | Black Metal | Black Metal"
+          "Ambient",
+          "Black Gothic Metal",
+          "Gothic Metal"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Ambient | Black Gothic Metal | Black Metal | Black Metal | Black Metal | Black Metal",
-      "Gothic Metal | Black Metal | Black Metal | Black Metal | Black Metal"
+      "Ambient",
+      "Black Gothic Metal",
+      "Gothic Metal"
     ]
   },
   {

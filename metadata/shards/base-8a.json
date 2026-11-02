@@ -211,8 +211,8 @@
         "name": "An Absence Of Presence",
         "year": "2020",
         "genres": [
-          "Noise Metal",
-          "Ambient Metal",
+          "Noise",
+          "Ambient",
           "Experimental Metal",
           "Electronic",
           "Progressive Metal",
@@ -225,10 +225,10 @@
         "name": "The City",
         "year": "2021",
         "genres": [
-          "Ambient Metal",
+          "Ambient",
           "Experimental Metal",
           "Electronic",
-          "Ebm",
+          "EBM",
           "Progressive Metal",
           "Glitch",
           "Atmospheric Black Metal",
@@ -237,15 +237,15 @@
       }
     ],
     "tags": [
-      "Noise Metal",
-      "Ambient Metal",
+      "Noise",
+      "Ambient",
       "Experimental Metal",
       "Electronic",
       "Progressive Metal",
       "Atmospheric Black Metal",
       "Blackgaze",
       "Post-Metal",
-      "Ebm",
+      "EBM",
       "Glitch"
     ]
   },
@@ -390,7 +390,7 @@
         "year": "1985",
         "genres": [
           "Speed Metal",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -398,7 +398,7 @@
         "year": "1986",
         "genres": [
           "Speed Metal",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -406,7 +406,7 @@
         "year": "1987",
         "genres": [
           "Speed Metal",
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -420,7 +420,7 @@
     ],
     "tags": [
       "Speed Metal",
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal"
     ]
   },
@@ -1000,7 +1000,7 @@
         "name": "Sunrise",
         "year": "2002",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Experimental Rock"
         ]
       },
@@ -1023,7 +1023,7 @@
         "name": "Forest",
         "year": "2004",
         "genres": [
-          "Pyschedelic Folk",
+          "Psychedelic Folk",
           "Psychedelic Rock"
         ]
       },
@@ -1083,7 +1083,7 @@
         "year": "2007",
         "genres": [
           "Progressive Electronic",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1210,17 +1210,16 @@
       "Psychedelic Rock",
       "Post-Rock",
       "Heavy Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Experimental Rock",
       "Space Rock",
       "Progressive Electronic",
-      "Hardcore Metal",
+      "Hardcore",
       "Avant-garde Jazz",
       "Drone Metal",
       "Death Metal",
       "Psychedelic Folk",
-      "Folk Metal",
-      "Pyschedelic Folk"
+      "Folk Metal"
     ]
   },
   {
@@ -1631,19 +1630,19 @@
         "name": "Harrowing Catharsis",
         "year": "2011",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "Under A Dying Sun",
         "year": "2015",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Doom"
+      "Progressive Doom Metal"
     ]
   },
   {
@@ -1712,13 +1711,13 @@
         "year": "1997",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
     "tags": [
       "Funk / Soul",
-      "Contemporary R&b"
+      "Contemporary R&B"
     ]
   },
   {
@@ -1845,19 +1844,19 @@
         "name": "Our Days Are Numbered",
         "year": "2008",
         "genres": [
-          "Nu-metric Metal"
+          "Nu Metal"
         ]
       },
       {
         "name": "The Probability Theory Proven Wrong",
         "year": "2011",
         "genres": [
-          "Nu-metric Metal"
+          "Nu Metal"
         ]
       }
     ],
     "tags": [
-      "Nu-metric Metal"
+      "Nu Metal"
     ]
   },
   {
@@ -2014,7 +2013,7 @@
         "name": "Haile Selacid Ultras",
         "year": "2020",
         "genres": [
-          "Blackened Heavy",
+          "Blackened Heavy Metal",
           "Black Metal"
         ]
       },
@@ -2022,13 +2021,13 @@
         "name": "Haile Selacid",
         "year": "2024",
         "genres": [
-          "Blackened Heavy",
+          "Blackened Heavy Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Heavy",
+      "Blackened Heavy Metal",
       "Black Metal"
     ]
   },
@@ -2060,7 +2059,7 @@
         "name": "Ghostwood",
         "year": "2013",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2074,9 +2073,8 @@
       }
     ],
     "tags": [
-      "Prog Rock",
-      "Progressive Metal",
       "Progressive Rock",
+      "Progressive Metal",
       "Rock"
     ]
   },
@@ -2210,7 +2208,7 @@
         "genres": [
           "Electronic",
           "Soul",
-          "Club/dance",
+          "Dance",
           "Classic Motown",
           "Pop",
           "Pop Soul",
@@ -2223,7 +2221,7 @@
     "tags": [
       "Electronic",
       "Soul",
-      "Club/dance",
+      "Dance",
       "Classic Motown",
       "Pop",
       "Pop Soul",
@@ -2399,7 +2397,7 @@
         "year": "2021",
         "genres": [
           "Stoner Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2408,7 +2406,7 @@
         "year": "2021",
         "genres": [
           "Stoner Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2416,13 +2414,13 @@
         "name": "Black Sheep",
         "year": "2024",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Stoner Rock",
       "Heavy Metal",
       "Experimental Metal",
@@ -3036,7 +3034,7 @@
         "name": "20th Century Masters - The Millennium Collection: The Best Of Norma Jean",
         "year": "1969",
         "genres": [
-          "Country Metal",
+          "Country",
           "Folk, World, & Country"
         ]
       },
@@ -3121,7 +3119,7 @@
     ],
     "tags": [
       "Metalcore",
-      "Country Metal",
+      "Country",
       "Folk, World, & Country",
       "Mathcore"
     ]
@@ -3281,8 +3279,7 @@
       }
     ],
     "tags": [
-      "Black Metal",
-      "Metal"
+      "Black Metal"
     ]
   },
   {
@@ -3386,7 +3383,7 @@
         "year": "2009",
         "genres": [
           "IDM",
-          "Experimental Metal",
+          "Experimental",
           "Electronic",
           "Dubstep",
           "Instrumental",
@@ -3401,7 +3398,7 @@
           "Electronic",
           "Breakbeat",
           "Hip Hop",
-          "Electro Metal"
+          "Electro"
         ]
       },
       {
@@ -3410,7 +3407,7 @@
         "genres": [
           "Funk / Soul",
           "Soul",
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Hip Hop"
         ]
@@ -3421,7 +3418,7 @@
         "genres": [
           "Funk / Soul",
           "Soul",
-          "Electro Metal",
+          "Electro",
           "Electronic",
           "Hip Hop"
         ]
@@ -3432,11 +3429,11 @@
       "Downtempo",
       "Breakbeat",
       "Hip Hop",
-      "Electro Metal",
+      "Electro",
       "Funk / Soul",
       "Soul",
       "IDM",
-      "Experimental Metal",
+      "Experimental",
       "Dubstep",
       "Instrumental",
       "Glitch"
@@ -3593,8 +3590,7 @@
       }
     ],
     "tags": [
-      "Power Metal",
-      "Metal"
+      "Power Metal"
     ]
   },
   {
@@ -3670,7 +3666,7 @@
         "year": "1985",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -3678,13 +3674,13 @@
         "year": "1988",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -4096,40 +4092,40 @@
         "name": "Projekt Nihil",
         "year": "2003",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Projekt Terrror",
         "year": "2004",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Nihilistik Terrror",
         "year": "2006",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Projekt Misanthropia",
         "year": "2007",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Pure Misanthropia",
         "year": "2008",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -4141,13 +4137,13 @@
         "year": "2007",
         "genres": [
           "Gothic Metal",
-          "Electro Metal"
+          "Electro"
         ]
       }
     ],
     "tags": [
       "Gothic Metal",
-      "Electro Metal"
+      "Electro"
     ]
   },
   {
@@ -4577,12 +4573,12 @@
         "name": "The Beginning Of Chaos",
         "year": "2023",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -4616,7 +4612,7 @@
           "Depressive Black Metal",
           "AOR",
           "Atmospheric Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
@@ -4627,7 +4623,7 @@
       "Depressive Black Metal",
       "AOR",
       "Atmospheric Black Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -4776,13 +4772,12 @@
         "name": "The Imperial Cycle",
         "year": "2026",
         "genres": [
-          "Melodic Death Metal with Folk influences"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Death Metal",
-      "Melodic Death Metal with Folk influences"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -5067,7 +5062,7 @@
         "genres": [
           "Art Rock",
           "Symphonic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -5076,7 +5071,7 @@
         "year": "1972",
         "genres": [
           "Classic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -5085,7 +5080,7 @@
         "year": "1983",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Pop Rock",
           "Rock"
         ]
@@ -5095,7 +5090,7 @@
         "year": "1987",
         "genres": [
           "Hard Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -5104,7 +5099,7 @@
         "year": "1991",
         "genres": [
           "Symphonic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -5112,7 +5107,7 @@
         "name": "Highlights: The Very Best Of Yes",
         "year": "1994",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -5120,14 +5115,14 @@
         "name": "Keys To Ascension 2",
         "year": "1997",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Art Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Pop Rock",
       "Rock",
       "Hard Rock",
@@ -5144,13 +5139,13 @@
         "name": "Bowery (Feat. Kings Of Leon)",
         "year": "2025",
         "genres": [
-          "Country Metal",
+          "Country",
           "Folk, World, & Country"
         ]
       }
     ],
     "tags": [
-      "Country Metal",
+      "Country",
       "Folk, World, & Country"
     ]
   },

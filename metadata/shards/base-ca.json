@@ -229,26 +229,26 @@
         "name": "City Of Shadows",
         "year": "2011",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Sunchaser",
         "year": "2014",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "The Seven",
         "year": "2018",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -375,7 +375,7 @@
         "name": "System",
         "year": "2019",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Heavy Metal"
         ]
       },
@@ -383,13 +383,13 @@
         "name": "Sessions Under A Pale Sun",
         "year": "2022",
         "genres": [
-          "Groove Thrash",
+          "Groove Thrash Metal",
           "Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash",
+      "Groove Thrash Metal",
       "Heavy Metal"
     ]
   },
@@ -745,7 +745,7 @@
         "name": "Brother Against Brother",
         "year": "2021",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -756,7 +756,7 @@
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -801,14 +801,14 @@
         "name": "Creatures",
         "year": "2019",
         "genres": [
-          "Progressive Sludge",
-          "Progressive Stoner"
+          "Progressive Sludge Metal",
+          "Progressive Stoner Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Sludge",
-      "Progressive Stoner"
+      "Progressive Sludge Metal",
+      "Progressive Stoner Metal"
     ]
   },
   {
@@ -1203,33 +1203,33 @@
         "name": "Deadwood",
         "year": "2016",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       },
       {
         "name": "Adorned With The Circle",
         "year": "2017",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       },
       {
         "name": "Immured",
         "year": "2017",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       },
       {
         "name": "...And We Will Move The Stars",
         "year": "2024",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Doom"
+      "Symphonic Doom Metal"
     ]
   },
   {
@@ -1296,9 +1296,9 @@
         "year": "2015",
         "genres": [
           "Indie Rock",
-          "Experimental Metal",
+          "Experimental",
           "Alternative Rock",
-          "Post Rock",
+          "Post-Rock",
           "Pop",
           "Rock",
           "Psychobilly"
@@ -1307,9 +1307,9 @@
     ],
     "tags": [
       "Indie Rock",
-      "Experimental Metal",
+      "Experimental",
       "Alternative Rock",
-      "Post Rock",
+      "Post-Rock",
       "Pop",
       "Rock",
       "Psychobilly",
@@ -2102,7 +2102,7 @@
           "Heavy Metal",
           "Nu Metal",
           "Experimental Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
@@ -2111,7 +2111,7 @@
       "Heavy Metal",
       "Nu Metal",
       "Experimental Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -2173,7 +2173,7 @@
         "name": "The Sin & Doom Of Godless Men (Demo)",
         "year": "2005",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore",
           "Death Metal"
         ]
@@ -2251,7 +2251,7 @@
     ],
     "tags": [
       "Deathcore",
-      "Hardcore Metal",
+      "Hardcore",
       "Grindcore",
       "Death Metal"
     ]
@@ -2616,14 +2616,14 @@
         "name": "Last Day Of The Earth",
         "year": "2011",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Celestial Harmonies",
         "year": "2012",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -2635,7 +2635,7 @@
       }
     ],
     "tags": [
-      "Progressive Power",
+      "Progressive Power Metal",
       "Progressive Rock"
     ]
   },
@@ -2946,19 +2946,19 @@
         "name": "Am Ende...",
         "year": "2008",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Seelenwund",
         "year": "2012",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -2971,13 +2971,13 @@
         "year": "1998",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
     "tags": [
       "Funk / Soul",
-      "Contemporary R&b"
+      "Contemporary R&B"
     ]
   },
   {
@@ -3493,12 +3493,12 @@
         "name": "Rise",
         "year": "2020",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -3512,7 +3512,7 @@
         "genres": [
           "Bluegrass",
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -3533,7 +3533,7 @@
     "tags": [
       "Bluegrass",
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -3601,7 +3601,7 @@
           "Black Metal",
           "Doom Metal",
           "Unblack Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
@@ -3610,7 +3610,7 @@
       "Unblack Metal",
       "Death Metal",
       "Doom Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -4057,7 +4057,7 @@
         "year": "2007",
         "genres": [
           "Extreme Folk Metal",
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -4065,7 +4065,7 @@
         "year": "2010",
         "genres": [
           "Extreme Folk Metal",
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -4073,7 +4073,7 @@
         "year": "2011",
         "genres": [
           "Extreme Folk Metal",
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -4081,7 +4081,7 @@
         "year": "2017",
         "genres": [
           "Extreme Folk Metal",
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -4089,13 +4089,13 @@
         "year": "2022",
         "genres": [
           "Extreme Folk Metal",
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
       "Extreme Folk Metal",
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -4283,13 +4283,13 @@
         "name": "Tomes",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Crossover Thrash"
     ]
   },
@@ -4360,69 +4360,69 @@
         "name": "N.o.i.q",
         "year": "1995",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Burst",
         "year": "1997",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Reload",
         "year": "1997",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Distorted Vision",
         "year": "1998",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Infectious Hazard",
         "year": "2001",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Core",
         "year": "2002",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Nine",
         "year": "2005",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Tear Of Illusions",
         "year": "2011",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Absurdity",
         "year": "2018",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -4511,7 +4511,7 @@
         "year": "2013",
         "genres": [
           "Melodic Black Metal",
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       },
       {
@@ -4519,7 +4519,7 @@
         "year": "2015",
         "genres": [
           "Melodic Black Metal",
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       },
       {
@@ -4535,7 +4535,7 @@
         "year": "2019",
         "genres": [
           "Melodic Black Metal",
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       },
       {
@@ -4543,7 +4543,7 @@
         "year": "2023",
         "genres": [
           "Melodic Black Metal",
-          "Pagan Folk"
+          "Pagan Folk Metal"
         ]
       },
       {
@@ -4558,7 +4558,7 @@
     ],
     "tags": [
       "Melodic Black Metal",
-      "Pagan Folk",
+      "Pagan Folk Metal",
       "Black Metal",
       "Folk Metal",
       "Melodic Death Metal"
@@ -4758,7 +4758,7 @@
         "year": "2006",
         "genres": [
           "Alternative",
-          "Post-grunge",
+          "Post-Grunge",
           "Hard Rock"
         ]
       },
@@ -4767,7 +4767,7 @@
         "year": "2007",
         "genres": [
           "Alternative",
-          "Post-grunge",
+          "Post-Grunge",
           "Hard Rock"
         ]
       },
@@ -4776,14 +4776,14 @@
         "year": "2012",
         "genres": [
           "Alternative",
-          "Post-grunge",
+          "Post-Grunge",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
       "Alternative",
-      "Post-grunge",
+      "Post-Grunge",
       "Hard Rock"
     ]
   },
@@ -4803,8 +4803,7 @@
         "name": "Den Vanstra Stigens Ljus",
         "year": "2012",
         "genres": [
-          "Thrash Metal",
-          "Metal"
+          "Thrash Metal"
         ]
       },
       {
@@ -4824,7 +4823,6 @@
       }
     ],
     "tags": [
-      "Metal",
       "Blackened Thrash Metal",
       "Thrash Metal",
       "Speed Metal"

@@ -120,7 +120,7 @@
         "year": "2016",
         "genres": [
           "Electronic",
-          "Drum N Bass",
+          "Drum & Bass",
           "Dubstep",
           "Bassline"
         ]
@@ -136,7 +136,7 @@
     "tags": [
       "Melodic Death Metal",
       "Electronic",
-      "Drum N Bass",
+      "Drum & Bass",
       "Dubstep",
       "Bassline"
     ]
@@ -499,12 +499,12 @@
         "name": "Bad To My World",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -518,14 +518,14 @@
         "genres": [
           "Sludge Metal",
           "Stoner Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Sludge Metal",
       "Stoner Rock",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -864,12 +864,12 @@
         "name": "Hard Times Hanging At The End Of The World",
         "year": "2009",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -881,13 +881,13 @@
         "name": "Pink Lemonade",
         "year": "2014",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -1015,26 +1015,26 @@
         "name": "Humanity's Prologue",
         "year": "2009",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "The Grand Disguise",
         "year": "2014",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "The Circus Of The Tattered And Torn",
         "year": "2017",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -1063,12 +1063,12 @@
         "name": "Schlacht um Knochenheim 1 / Death of the Bloodking",
         "year": "2026",
         "genres": [
-          "Death 'n' Roll | Death 'n' Roll"
+          "Death 'n' Roll"
         ]
       }
     ],
     "tags": [
-      "Death 'n' Roll | Death 'n' Roll"
+      "Death 'n' Roll"
     ]
   },
   {
@@ -1352,14 +1352,14 @@
         "year": "1978",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Children's",
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -1638,8 +1638,6 @@
           "Indie",
           "Alternative",
           "Pop Rock",
-          "Big Music",
-          "Debut",
           "Electronic",
           "Alternative Singer-songwriter",
           "Indie Rock",
@@ -1650,8 +1648,8 @@
           "Indie Pop",
           "Chamber Pop",
           "Rock",
-          "Vyrzukhisuc-album",
-          "Electronic; House; Pop; Jazz",
+          "House",
+          "Jazz",
           "Art Pop"
         ]
       },
@@ -1661,8 +1659,7 @@
         "genres": [
           "Indie",
           "Pop Rock",
-          "Big Music",
-          "Experimental Metal",
+          "Experimental",
           "Electronic",
           "Alternative Singer-songwriter",
           "Stomp And Holler",
@@ -1673,8 +1670,7 @@
           "Indie Pop",
           "Chamber Pop",
           "Rock",
-          "Electro Metal",
-          "Vyrzukhisuc-album",
+          "Electro",
           "Workout",
           "Art Pop"
         ]
@@ -1685,25 +1681,21 @@
         "genres": [
           "Art Rock",
           "Electronic",
-          "English",
           "Indie Rock",
           "Pop",
           "Alternative Rock",
-          "Offizielle Charts",
           "Baroque Pop",
           "Pop Soul",
           "Chamber Pop",
           "Rock",
-          "Art Pop",
-          "5+ Wochen"
+          "Art Pop"
         ]
       }
     ],
     "tags": [
       "Indie",
       "Pop Rock",
-      "Big Music",
-      "Experimental Metal",
+      "Experimental",
       "Electronic",
       "Alternative Singer-songwriter",
       "Stomp And Holler",
@@ -1714,18 +1706,14 @@
       "Indie Pop",
       "Chamber Pop",
       "Rock",
-      "Electro Metal",
-      "Vyrzukhisuc-album",
+      "Electro",
       "Workout",
       "Art Pop",
       "Art Rock",
-      "English",
-      "Offizielle Charts",
       "Baroque Pop",
-      "5+ Wochen",
       "Alternative",
-      "Debut",
-      "Electronic; House; Pop; Jazz"
+      "House",
+      "Jazz"
     ]
   },
   {
@@ -2140,579 +2128,579 @@
         "name": "Blave Heart",
         "year": "2007",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Evil Mountain",
         "year": "2007",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Iron Attack!",
         "year": "2007",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Unleashed In The East",
         "year": "2007",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Cave Attack!",
         "year": "2008",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Dead Heat Refrain",
         "year": "2008",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Devil's Daughter",
         "year": "2008",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Thunder Concerto",
         "year": "2008",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Crying Destiny",
         "year": "2009",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Far East Judgment",
         "year": "2009",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Miss Understanding",
         "year": "2009",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Savage Flames",
         "year": "2009",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Sparking!",
         "year": "2009",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Arashi No Hurricane",
         "year": "2010",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Poltergeist",
         "year": "2010",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Vampire Concerto",
         "year": "2010",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Angel Mountain",
         "year": "2011",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Bullet Wind",
         "year": "2011",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Concerto Of The Scarlet Elements",
         "year": "2011",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Deamon's Seal ～魔界の封印～",
         "year": "2011",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Pre-historic Eruption",
         "year": "2011",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Burn In Hell",
         "year": "2012",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Paper Moon",
         "year": "2012",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Star Dust",
         "year": "2012",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Fairy Tale",
         "year": "2013",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Heaven's Sword",
         "year": "2013",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Plastic Mind",
         "year": "2013",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Thundercrack",
         "year": "2013",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "燃ゆる海原 ～Sail Up～",
         "year": "2013",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "5150 Attack!",
         "year": "2014",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Artemis",
         "year": "2014",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Dim.starlight",
         "year": "2014",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Icicle Fall",
         "year": "2014",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Scarlet Furor",
         "year": "2014",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "センチメンタル　シンフォニア",
         "year": "2014",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "その純舶に 赤き血を捧げ ～Raise A Flag～",
         "year": "2014",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Death And Rebirth",
         "year": "2015",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Sister Of Puppets ～Iron Attack!ボーカルベスト②～",
         "year": "2015",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Star Dust Memory ～Iron Attack!!ボーカルベスト①～",
         "year": "2015",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "上海牡丹",
         "year": "2015",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "戦け!高砂の皇民よ ～Takasago Army～",
         "year": "2015",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "暁の海 ～Triumph～",
         "year": "2015",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Bullet Blitz",
         "year": "2016",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Perpetual Nightmare",
         "year": "2016",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Sangoku Attack!",
         "year": "2016",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Twilight Under World",
         "year": "2016",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "スペースギャラクシー",
         "year": "2016",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "凱 ～Power And Glory～",
         "year": "2016",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "宇宙とファンタジー",
         "year": "2016",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "皇父の名の下に ～Takasago Army 2～",
         "year": "2016",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "80's グラフィティ",
         "year": "2017",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Holy Krieg 〜紅のアクシズ〜",
         "year": "2017",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Keep Your Faith",
         "year": "2017",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Mystique Concerto",
         "year": "2017",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "士魂 ~占守島の戦い~",
         "year": "2017",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "本当は怖い東方世界",
         "year": "2017",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "魔都幻想物語",
         "year": "2017",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "80's グラフィティ 2",
         "year": "2018",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Future And Past",
         "year": "2018",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Unknown Flowers",
         "year": "2018",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "アイザーネス・クロイツ",
         "year": "2018",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "ドイッチュラントの進撃",
         "year": "2018",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "七人の咎人",
         "year": "2018",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "幻想クライシス",
         "year": "2018",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Blue Faith",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Follow The Destiny",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Japonism",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Red Justice",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "大東亜聖戦記",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "秘封奇塊遺産 1",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Labyrinth With Vampire",
         "year": "2020",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Little Daybreaker",
         "year": "2020",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Perfume Of Silence",
         "year": "2020",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Comic Market Resurrection",
         "year": "2021",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Maze Of Gradation",
         "year": "2021",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "No Loser, No Winner",
         "year": "2021",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Flame Of Deliverance",
         "year": "2022",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Rumour",
         "year": "2022",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Mythology",
         "year": "2023",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Night Blind",
         "year": "2023",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Fortuna Edge",
         "year": "2024",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "パチュリー の秘密日記",
         "year": "2024",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -2841,7 +2829,7 @@
         "name": "Excipio",
         "year": "2013",
         "genres": [
-          "Atmospheric Death",
+          "Atmospheric Death Metal",
           "Deathcore"
         ]
       },
@@ -2857,7 +2845,7 @@
         "name": "Peripety",
         "year": "2015",
         "genres": [
-          "Atmospheric Death",
+          "Atmospheric Death Metal",
           "Deathcore"
         ]
       },
@@ -2865,7 +2853,7 @@
         "name": "The Almanac",
         "year": "2017",
         "genres": [
-          "Atmospheric Death",
+          "Atmospheric Death Metal",
           "Deathcore"
         ]
       },
@@ -2873,7 +2861,7 @@
         "name": "The Baring Of Shadows",
         "year": "2020",
         "genres": [
-          "Atmospheric Death",
+          "Atmospheric Death Metal",
           "Deathcore"
         ]
       },
@@ -2881,7 +2869,7 @@
         "name": "Liminal Rite",
         "year": "2022",
         "genres": [
-          "Atmospheric Death",
+          "Atmospheric Death Metal",
           "Deathcore"
         ]
       },
@@ -2889,7 +2877,7 @@
         "name": "Alunea",
         "year": "2025",
         "genres": [
-          "Atmospheric Death",
+          "Atmospheric Death Metal",
           "Deathcore"
         ]
       },
@@ -2903,7 +2891,7 @@
       }
     ],
     "tags": [
-      "Atmospheric Death",
+      "Atmospheric Death Metal",
       "Deathcore",
       "Metalcore",
       "Technical Death Metal",
@@ -3450,22 +3438,22 @@
         "name": "Glory In Flames",
         "year": "2000",
         "genres": [
-          "Viking Black",
-          "Viking Folk"
+          "Viking Black Metal",
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "Z Popiołów I Krwi...",
         "year": "2018",
         "genres": [
-          "Viking Black",
-          "Viking Folk"
+          "Viking Black Metal",
+          "Viking Folk Metal"
         ]
       }
     ],
     "tags": [
-      "Viking Black",
-      "Viking Folk"
+      "Viking Black Metal",
+      "Viking Folk Metal"
     ]
   },
   {
@@ -3510,70 +3498,70 @@
         "name": "Owl",
         "year": "2011",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "You Are The Moon, I Am The Night",
         "year": "2013",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Into The Absolute",
         "year": "2014",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "The Last Walk",
         "year": "2014",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Aeon Cult",
         "year": "2015",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Nights In Distortion",
         "year": "2018",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Orion Fenix",
         "year": "2018",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Crystal Delirum",
         "year": "2020",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Ghosts Of Summer",
         "year": "2024",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Ivory Eye",
         "year": "2024",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
@@ -3587,7 +3575,7 @@
       }
     ],
     "tags": [
-      "Experimental Death",
+      "Experimental Death Metal",
       "Death Ambient",
       "Doom Metal",
       "Ambient"
@@ -3601,13 +3589,13 @@
         "name": "Lucid",
         "year": "2017",
         "genres": [
-          "Progressive Doom",
+          "Progressive Doom Metal",
           "Post-Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Doom",
+      "Progressive Doom Metal",
       "Post-Metal"
     ]
   },
@@ -3620,8 +3608,8 @@
         "name": "Head Without Eyes",
         "year": "2019",
         "genres": [
-          "Experimental Metal",
-          "Prog Rock",
+          "Experimental",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3629,8 +3617,8 @@
         "name": "All Is Well In The Land Of The Living But For The Rest Of Us… Lights Out",
         "year": "2021",
         "genres": [
-          "Experimental Metal",
-          "Prog Rock",
+          "Experimental",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3643,8 +3631,8 @@
       }
     ],
     "tags": [
-      "Experimental Metal",
-      "Prog Rock",
+      "Experimental",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -3848,7 +3836,7 @@
         "name": "Nekketsu",
         "year": "2018",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3879,7 +3867,7 @@
     "tags": [
       "Metalcore",
       "Hardcore Hip-hop",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4066,205 +4054,205 @@
         "name": "Ich Töte Mich Jedesmal Aufs Neue, Doch Ich Bin Unsterblich, Und Ich Erstehe Wieder Auf...in Einer Vision Des Untergangs",
         "year": "1994",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Ehjeh Ascher Ehjeh",
         "year": "1995",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Todeswunsch",
         "year": "1995",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "The Inexperienced Spiral Traveller",
         "year": "1997",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Voyager - The Jugglers Of Jusa",
         "year": "1998",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Dead Lovers' Sarabande - Face 1",
         "year": "1999",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Dead Lovers' Sarabande - Face 2",
         "year": "1999",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Songs From The Inverted Womb",
         "year": "2000",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Es Reiten Die Toten So Schnell",
         "year": "2003",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Flowers In Formaldehyde",
         "year": "2004",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "La Chambre D'echo",
         "year": "2004",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Les Fleurs Du Mal",
         "year": "2007",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Children Of The Corn",
         "year": "2011",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Have You Seen This Ghost?",
         "year": "2011",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Poetica All Beauty Sleeps",
         "year": "2013",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Mitternacht",
         "year": "2014",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "The Spiral Sacrifice",
         "year": "2018",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Death & Flamingos",
         "year": "2019",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Island Of The Dead",
         "year": "2020",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Alone At Sam's - An Evening With...",
         "year": "2023",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "Dea Mutárion",
         "year": "2025",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       },
       {
         "name": "The Dead Have Come",
         "year": "2025",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Gothic Rock",
-          "Neoclassical Metal"
+          "Neoclassical"
         ]
       }
     ],
     "tags": [
-      "Folk Metal",
+      "Folk",
       "Gothic Rock",
-      "Neoclassical Metal"
+      "Neoclassical"
     ]
   },
   {
@@ -4275,19 +4263,19 @@
         "name": "Enter Reality",
         "year": "2020",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Enduring Physicality",
         "year": "2022",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -4323,26 +4311,26 @@
         "name": "Eternal Search",
         "year": "2007",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Last Dawn",
         "year": "2014",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Beyond The Darkness",
         "year": "2018",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -4757,12 +4745,12 @@
         "name": "Amo Del Mundo",
         "year": "2008",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -4902,7 +4890,7 @@
         "name": "Disir",
         "year": "2016",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Folk Metal"
         ]
       },
@@ -4910,7 +4898,7 @@
         "name": "Ancestors",
         "year": "2017",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Folk Metal"
         ]
       },
@@ -4918,7 +4906,7 @@
         "name": "Death Cult",
         "year": "2020",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Folk Metal"
         ]
       },
@@ -4926,7 +4914,7 @@
         "name": "Veiled City",
         "year": "2020",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Folk Metal"
         ]
       },
@@ -4934,7 +4922,7 @@
         "name": "Zwischen Den Wäldern",
         "year": "2021",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Folk Metal"
         ]
       },
@@ -4942,13 +4930,13 @@
         "name": "Breathless Spirit",
         "year": "2025",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Folk Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Doom",
+      "Atmospheric Doom Metal",
       "Folk Metal"
     ]
   },

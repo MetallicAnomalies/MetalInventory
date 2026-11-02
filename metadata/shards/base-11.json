@@ -81,13 +81,13 @@
         "name": "Mi Ciudad",
         "year": "2022",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -251,8 +251,8 @@
         "genres": [
           "Indie Rock",
           "Math Rock",
-          "Experimental Metal",
-          "Post-punk",
+          "Experimental",
+          "Post-Punk",
           "Rock"
         ]
       }
@@ -260,8 +260,8 @@
     "tags": [
       "Indie Rock",
       "Math Rock",
-      "Experimental Metal",
-      "Post-punk",
+      "Experimental",
+      "Post-Punk",
       "Rock"
     ]
   },
@@ -349,12 +349,12 @@
         "name": "The Harp",
         "year": "2024",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -446,28 +446,28 @@
         "name": "Re-animator",
         "year": "2015",
         "genres": [
-          "Psychedelic Stoner"
+          "Psychedelic Stoner Metal"
         ]
       },
       {
         "name": "Geomancer",
         "year": "2018",
         "genres": [
-          "Psychedelic Stoner"
+          "Psychedelic Stoner Metal"
         ]
       },
       {
         "name": "Harbinger",
         "year": "2021",
         "genres": [
-          "Psychedelic Stoner"
+          "Psychedelic Stoner Metal"
         ]
       },
       {
         "name": "Marionette",
         "year": "2025",
         "genres": [
-          "Psychedelic Stoner"
+          "Psychedelic Stoner Metal"
         ]
       },
       {
@@ -477,7 +477,7 @@
       }
     ],
     "tags": [
-      "Psychedelic Stoner"
+      "Psychedelic Stoner Metal"
     ]
   },
   {
@@ -535,7 +535,6 @@
       }
     ],
     "tags": [
-      "Metal",
       "Death Metal"
     ]
   },
@@ -924,26 +923,26 @@
         "name": "Pace Helvetia",
         "year": "2007",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Silent Echoes",
         "year": "2009",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Moderate Album",
         "year": "2014",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -998,7 +997,7 @@
         "year": "2015",
         "genres": [
           "Black Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1006,13 +1005,13 @@
         "year": "2020",
         "genres": [
           "Black Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1214,7 +1213,7 @@
         "name": "Body.blood.skin.mind",
         "year": "1996",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
@@ -1277,7 +1276,7 @@
     "tags": [
       "Heavy Metal",
       "Groove Metal",
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -1359,7 +1358,7 @@
         "genres": [
           "Symphonic Rock",
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -1368,14 +1367,14 @@
         "genres": [
           "Symphonic Rock",
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
       "Symphonic Rock",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -1521,19 +1520,19 @@
         "name": "Etherna",
         "year": "2008",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Forgotten Beholder",
         "year": "2014",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -1638,7 +1637,7 @@
           "Electronic",
           "Downtempo",
           "Trance",
-          "Drum N Bass",
+          "Drum & Bass",
           "House"
         ]
       },
@@ -1649,7 +1648,7 @@
           "Electronic",
           "Downtempo",
           "Trance",
-          "Drum N Bass",
+          "Drum & Bass",
           "House"
         ]
       },
@@ -1788,7 +1787,7 @@
       "Trip Hop",
       "Progressive Trance",
       "Trance",
-      "Drum N Bass"
+      "Drum & Bass"
     ]
   },
   {
@@ -1946,40 +1945,40 @@
         "name": "Fresh Maggots",
         "year": "2006",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "Garden Of Worm",
         "year": "2010",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "Untitled",
         "year": "2013",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "Idle Stones",
         "year": "2015",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       },
       {
         "name": "Endless Garden",
         "year": "2022",
         "genres": [
-          "Progressive Doom"
+          "Progressive Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Doom"
+      "Progressive Doom Metal"
     ]
   },
   {
@@ -1990,40 +1989,40 @@
         "name": "Death Fuckin' Roll!",
         "year": "2008",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Hellfire Blues",
         "year": "2009",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "The 3rd Death Manifest",
         "year": "2009",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Ghoul Patrol",
         "year": "2011",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "The Undying",
         "year": "2015",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       }
     ],
     "tags": [
-      "Death 'N' Roll"
+      "Death 'n' Roll"
     ]
   },
   {
@@ -2034,40 +2033,40 @@
         "name": "Mystralengine",
         "year": "1996",
         "genres": [
-          "Groove Death"
+          "Groove Death Metal"
         ]
       },
       {
         "name": "Carving Into You",
         "year": "1998",
         "genres": [
-          "Groove Death"
+          "Groove Death Metal"
         ]
       },
       {
         "name": "King Of The Undead",
         "year": "2001",
         "genres": [
-          "Groove Death"
+          "Groove Death Metal"
         ]
       },
       {
         "name": "Sabacthany",
         "year": "2004",
         "genres": [
-          "Groove Death"
+          "Groove Death Metal"
         ]
       },
       {
         "name": "Cryogénie",
         "year": "2006",
         "genres": [
-          "Groove Death"
+          "Groove Death Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Death"
+      "Groove Death Metal"
     ]
   },
   {
@@ -2123,7 +2122,7 @@
         "genres": [
           "Death Metal",
           "Folk, World, & Country",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -2138,7 +2137,7 @@
       "Extreme Progressive Metal",
       "Death Metal",
       "Folk, World, & Country",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -2399,7 +2398,7 @@
         "name": "Star X Speed Story",
         "year": "2013",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       },
@@ -2407,13 +2406,13 @@
         "name": "Life Imitating Art",
         "year": "2018",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Instrumental"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Heavy",
+      "Neoclassical Heavy Metal",
       "Instrumental"
     ]
   },
@@ -2648,7 +2647,7 @@
         "year": "2005",
         "genres": [
           "Depressive Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2656,7 +2655,7 @@
         "year": "2007",
         "genres": [
           "Depressive Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2664,7 +2663,7 @@
         "year": "2012",
         "genres": [
           "Depressive Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2672,7 +2671,7 @@
         "year": "2018",
         "genres": [
           "Depressive Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2680,13 +2679,13 @@
         "year": "2019",
         "genres": [
           "Depressive Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Depressive Black Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -3169,7 +3168,7 @@
         "year": "2005",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -3178,14 +3177,14 @@
         "year": "2011",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
       "Sludge Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -3199,7 +3198,7 @@
         "year": "2016",
         "genres": [
           "Black Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       },
       {
@@ -3229,7 +3228,7 @@
     "tags": [
       "Post-Metal",
       "Black Metal",
-      "Post Rock"
+      "Post-Rock"
     ]
   },
   {
@@ -3364,7 +3363,7 @@
         "genres": [
           "Death Metal",
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3373,7 +3372,7 @@
         "genres": [
           "Death Metal",
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3382,7 +3381,7 @@
         "genres": [
           "Death Metal",
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3391,7 +3390,7 @@
         "genres": [
           "Death Metal",
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3400,7 +3399,7 @@
         "genres": [
           "Death Metal",
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3409,7 +3408,7 @@
         "genres": [
           "Death Metal",
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3418,7 +3417,7 @@
         "genres": [
           "Death Metal",
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3427,14 +3426,14 @@
         "genres": [
           "Death Metal",
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Death Metal",
       "Grindcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3672,7 +3671,7 @@
         "year": "2012",
         "genres": [
           "Blackened Doom Metal",
-          "Blackened Stoner"
+          "Blackened Stoner Metal"
         ]
       },
       {
@@ -3680,7 +3679,7 @@
         "year": "2013",
         "genres": [
           "Blackened Doom Metal",
-          "Blackened Stoner"
+          "Blackened Stoner Metal"
         ]
       },
       {
@@ -3688,13 +3687,13 @@
         "year": "2016",
         "genres": [
           "Blackened Doom Metal",
-          "Blackened Stoner"
+          "Blackened Stoner Metal"
         ]
       }
     ],
     "tags": [
       "Blackened Doom Metal",
-      "Blackened Stoner"
+      "Blackened Stoner Metal"
     ]
   },
   {
@@ -3772,7 +3771,7 @@
         "genres": [
           "Holiday",
           "Rock",
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       }
@@ -3780,7 +3779,7 @@
     "tags": [
       "Holiday",
       "Rock",
-      "Us Power",
+      "US Power Metal",
       "Heavy Metal"
     ]
   },
@@ -3816,19 +3815,19 @@
         "name": "Escape From Shadow Island",
         "year": "2016",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Shadowrise",
         "year": "2018",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -3897,7 +3896,7 @@
         "genres": [
           "Thrash Metal",
           "Heavy Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3930,7 +3929,7 @@
       "Metalcore",
       "Melodic Death Metal",
       "Heavy Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Death Metal"
     ]
   },
@@ -3955,40 +3954,40 @@
         "name": "Trust Is A Disease",
         "year": "2007",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Absolution Of Humanity",
         "year": "2009",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Instincts",
         "year": "2013",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Redemption",
         "year": "2020",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Above The Noise",
         "year": "2025",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -4012,7 +4011,7 @@
         "name": "No Place Like Home",
         "year": "1986",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -4020,7 +4019,7 @@
         "name": "Financial Suicide",
         "year": "1989",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -4028,7 +4027,7 @@
         "name": "Back From The Dead",
         "year": "2020",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -4036,13 +4035,13 @@
         "name": "A Mercenary's Fate",
         "year": "2022",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Heavy Metal"
     ]
   },
@@ -4208,22 +4207,22 @@
         "name": "Faithbringer",
         "year": "2002",
         "genres": [
-          "Symphonic Power",
-          "Symphonic Gothic"
+          "Symphonic Power Metal",
+          "Symphonic Gothic Metal"
         ]
       },
       {
         "name": "Your True Self",
         "year": "2004",
         "genres": [
-          "Symphonic Power",
-          "Symphonic Gothic"
+          "Symphonic Power Metal",
+          "Symphonic Gothic Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power",
-      "Symphonic Gothic"
+      "Symphonic Power Metal",
+      "Symphonic Gothic Metal"
     ]
   },
   {
@@ -4257,110 +4256,110 @@
         "name": "Form",
         "year": "2008",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       },
       {
         "name": "Programmed Cell Death",
         "year": "2008",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       },
       {
         "name": "Designed Deficiency",
         "year": "2009",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       },
       {
         "name": "Decrepit",
         "year": "2010",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       },
       {
         "name": "Plague Diagram",
         "year": "2011",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       },
       {
         "name": "To No Avail",
         "year": "2011",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       },
       {
         "name": "Embraced",
         "year": "2013",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       },
       {
         "name": "Form Volume Ii",
         "year": "2014",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       },
       {
         "name": "Ritual",
         "year": "2014",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       },
       {
         "name": "Heavy Mask",
         "year": "2015",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       },
       {
         "name": "Mnr005: Shared System Series",
         "year": "2015",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       },
       {
         "name": "Instinct And Memory",
         "year": "2016",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       },
       {
         "name": "Come, Deathless",
         "year": "2019",
         "genres": [
-          "Industrial Metal",
-          "Noise Metal"
+          "Industrial",
+          "Noise"
         ]
       }
     ],
     "tags": [
-      "Industrial Metal",
-      "Noise Metal"
+      "Industrial",
+      "Noise"
     ]
   },
   {
@@ -4691,7 +4690,7 @@
         "year": "2010",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4699,7 +4698,7 @@
         "year": "2013",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -4707,13 +4706,13 @@
         "year": "2016",
         "genres": [
           "Black Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -5266,54 +5265,54 @@
         "name": "Wilczy Pająk",
         "year": "1987",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Kingdom Of Paranoia",
         "year": "1990",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Drifting In The Sullen Sea",
         "year": "1991",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Hue Of Evil",
         "year": "1991",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "It's Your Time",
         "year": "2013",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "V",
         "year": "2015",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Vi",
         "year": "2023",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {

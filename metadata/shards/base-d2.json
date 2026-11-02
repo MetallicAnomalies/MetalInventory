@@ -9,13 +9,13 @@
         "year": "2025",
         "genres": [
           "Visual Kei",
-          "J-rock"
+          "J-Rock"
         ]
       }
     ],
     "tags": [
       "Visual Kei",
-      "J-rock"
+      "J-Rock"
     ]
   },
   {
@@ -878,7 +878,7 @@
         "genres": [
           "Progressive Black Metal",
           "Post-Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -887,7 +887,7 @@
         "genres": [
           "Progressive Black Metal",
           "Post-Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -896,14 +896,14 @@
         "genres": [
           "Progressive Black Metal",
           "Post-Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Progressive Black Metal",
       "Post-Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -977,14 +977,14 @@
         "genres": [
           "Pop Punk",
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Pop Punk",
       "Alternative Rock",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1357,12 +1357,12 @@
         "name": "Soul Design",
         "year": "2011",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -1373,22 +1373,22 @@
         "name": "Roi des forêts / Basoen jauna",
         "year": "2026",
         "genres": [
-          "Epic Dungeon Synth | Black Metal | Symphonic Black Metal",
+          "Epic Dungeon Synth",
+          "Black Metal",
+          "Symphonic Black Metal",
           "Dungeon Synth",
           "Atmospheric Black Metal",
-          "Ambient Dungeon Synth | Black Metal | Symphonic Black Metal",
-          "Dungeon Synth",
-          "Dungeon Synth | Black Metal | Symphonic Black Metal",
-          "Dungeon Synth"
+          "Ambient Dungeon Synth"
         ]
       }
     ],
     "tags": [
-      "Epic Dungeon Synth | Black Metal | Symphonic Black Metal",
+      "Epic Dungeon Synth",
+      "Black Metal",
+      "Symphonic Black Metal",
       "Dungeon Synth",
       "Atmospheric Black Metal",
-      "Ambient Dungeon Synth | Black Metal | Symphonic Black Metal",
-      "Dungeon Synth | Black Metal | Symphonic Black Metal"
+      "Ambient Dungeon Synth"
     ]
   },
   {
@@ -1401,7 +1401,7 @@
         "year": "2004",
         "genres": [
           "Celtic Folk",
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -1417,7 +1417,7 @@
         "year": "2006",
         "genres": [
           "Celtic Folk",
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -1425,7 +1425,7 @@
         "year": "2008",
         "genres": [
           "Celtic Folk",
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -1440,7 +1440,7 @@
         "year": "2010",
         "genres": [
           "Celtic Folk",
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -1457,7 +1457,7 @@
         "year": "2012",
         "genres": [
           "Celtic Folk",
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -1465,7 +1465,7 @@
         "year": "2014",
         "genres": [
           "Celtic Folk",
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -1487,7 +1487,7 @@
         "year": "2019",
         "genres": [
           "Celtic Folk",
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -1503,7 +1503,7 @@
         "year": "2025",
         "genres": [
           "Celtic Folk",
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -1523,12 +1523,11 @@
     ],
     "tags": [
       "Celtic Folk",
-      "Gothenburg",
+      "Melodic Death Metal",
       "Folk Metal",
       "Folk Rock",
       "Death Metal",
       "Viking Metal",
-      "Melodic Death Metal",
       "Heavy Metal"
     ]
   },
@@ -2011,15 +2010,13 @@
         "name": "Slamdown is not a phase mom",
         "year": "2026",
         "genres": [
-          "Death Metal",
-          "Metal"
+          "Death Metal"
         ]
       }
     ],
     "tags": [
       "Deathcore",
-      "Death Metal",
-      "Metal"
+      "Death Metal"
     ]
   },
   {
@@ -2088,13 +2085,13 @@
         "name": "Crossing Borders",
         "year": "2021",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -2149,7 +2146,7 @@
         "name": "When Goodbye Means Forever",
         "year": "2004",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -2171,7 +2168,7 @@
         "name": "Sleepless Nights & City Lights",
         "year": "2008",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Death Metal"
         ]
       },
@@ -2185,7 +2182,7 @@
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal",
+      "Hardcore",
       "Death Metal"
     ]
   },
@@ -2457,8 +2454,8 @@
         "genres": [
           "Alternative",
           "Progressive Metal",
-          "Prog Rock",
-          "Avantgarde Metal",
+          "Progressive Rock",
+          "Avant-garde Metal",
           "Rock"
         ]
       },
@@ -2483,7 +2480,7 @@
         "year": "2019",
         "genres": [
           "Progressive Metal",
-          "Prog Rock",
+          "Progressive Rock",
           "Alternative Metal",
           "Alternative Rock"
         ]
@@ -2537,8 +2534,8 @@
       "Progressive Metal",
       "Alternative Rock",
       "Art Rock",
-      "Prog Rock",
-      "Avantgarde Metal",
+      "Progressive Rock",
+      "Avant-garde Metal",
       "Alternative Metal",
       "Rock"
     ]
@@ -2607,7 +2604,6 @@
     ],
     "tags": [
       "Heavy Metal",
-      "Metal",
       "Jazz Rock",
       "Fusion"
     ]
@@ -2759,26 +2755,26 @@
         "name": "Limuria",
         "year": "2021",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Lunar Sanctum",
         "year": "2022",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Lost World",
         "year": "2025",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -3014,26 +3010,26 @@
         "name": "Alcohol Anthems",
         "year": "2005",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Hair Of The Dog",
         "year": "2006",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Iii",
         "year": "2022",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -3149,7 +3145,7 @@
         "name": "The Cleanest War",
         "year": "1996",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -3157,7 +3153,7 @@
         "name": "Martyr",
         "year": "1997",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -3165,7 +3161,7 @@
         "name": "My Statement Of Life In A Dying World",
         "year": "1997",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -3173,7 +3169,7 @@
         "name": "As Tradition Dies Slowly",
         "year": "1998",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -3181,13 +3177,13 @@
         "name": "Survival Instinct",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -3564,15 +3560,13 @@
         "year": "2026",
         "genres": [
           "Blackened Death Metal",
-          "Death Metal",
-          "Metal"
+          "Death Metal"
         ]
       }
     ],
     "tags": [
       "Blackened Death Metal",
-      "Death Metal",
-      "Metal"
+      "Death Metal"
     ]
   },
   {
@@ -3586,14 +3580,14 @@
         "genres": [
           "Electronic",
           "Classical",
-          "Neo-classical"
+          "Neoclassical"
         ]
       }
     ],
     "tags": [
       "Electronic",
       "Classical",
-      "Neo-classical"
+      "Neoclassical"
     ]
   },
   {
@@ -3798,14 +3792,14 @@
         "name": "A Whiter Shade Of Pale",
         "year": "1983",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Psychedelic Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Psychedelic Rock",
       "Rock"
     ]
@@ -3999,13 +3993,13 @@
         "name": "Perfect Chapter",
         "year": "2013",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Power Metal"
     ]
   },
@@ -4077,40 +4071,40 @@
         "name": "äPpelträdet",
         "year": "2011",
         "genres": [
-          "Psychedelic Stoner"
+          "Psychedelic Stoner Metal"
         ]
       },
       {
         "name": "Mesozoikum",
         "year": "2012",
         "genres": [
-          "Psychedelic Stoner"
+          "Psychedelic Stoner Metal"
         ]
       },
       {
         "name": "Sagor",
         "year": "2015",
         "genres": [
-          "Psychedelic Stoner"
+          "Psychedelic Stoner Metal"
         ]
       },
       {
         "name": "Eorþe",
         "year": "2019",
         "genres": [
-          "Psychedelic Stoner"
+          "Psychedelic Stoner Metal"
         ]
       },
       {
         "name": "Vermillion Sky",
         "year": "2024",
         "genres": [
-          "Psychedelic Stoner"
+          "Psychedelic Stoner Metal"
         ]
       }
     ],
     "tags": [
-      "Psychedelic Stoner"
+      "Psychedelic Stoner Metal"
     ]
   },
   {
@@ -4137,14 +4131,14 @@
         "name": "Brush-fires Of The Mind",
         "year": "2010",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Spirit Of The Times",
         "year": "2011",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -4156,7 +4150,7 @@
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Heavy Metal"
     ]
   },
@@ -4171,14 +4165,14 @@
         "genres": [
           "Acoustic",
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Acoustic",
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -4203,16 +4197,16 @@
         "year": "2022",
         "genres": [
           "Stoner Rock",
-          "Goth Rock",
-          "Post Rock",
+          "Gothic Rock",
+          "Post-Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Stoner Rock",
-      "Goth Rock",
-      "Post Rock",
+      "Gothic Rock",
+      "Post-Rock",
       "Rock"
     ]
   },
@@ -4391,12 +4385,12 @@
         "name": "Backstabbers",
         "year": "2016",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4733,7 +4727,7 @@
         "name": "Reload The Violet",
         "year": "2024",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
@@ -4745,7 +4739,6 @@
       }
     ],
     "tags": [
-      "Melodic Power",
       "Melodic Power Metal"
     ]
   },
@@ -4786,12 +4779,7 @@
       {
         "name": "Chimera",
         "year": "2011",
-        "genres": [
-          "Https:",
-          "Www.discogs.com",
-          "R",
-          "Https://www.discogs.com/r"
-        ]
+        "genres": []
       },
       {
         "name": "Damnatio Sacrorum",
@@ -4836,11 +4824,7 @@
     ],
     "tags": [
       "Black Metal",
-      "Death Metal",
-      "Https:",
-      "Www.discogs.com",
-      "R",
-      "Https://www.discogs.com/r"
+      "Death Metal"
     ]
   },
   {
@@ -4923,21 +4907,21 @@
         "name": "Dead When It Comes To Love",
         "year": "1982",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "For Europe Only",
         "year": "1983",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Breakout",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -4963,7 +4947,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal"
     ]
   },

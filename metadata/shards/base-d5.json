@@ -34,14 +34,12 @@
         "name": "Lethal Abuse",
         "year": "2026",
         "genres": [
-          "Death Metal",
-          "Metal"
+          "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Death Metal",
-      "Metal"
+      "Death Metal"
     ]
   },
   {
@@ -78,7 +76,7 @@
         "year": "2020",
         "genres": [
           "Post-Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -86,13 +84,13 @@
         "year": "2025",
         "genres": [
           "Post-Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Post-Metal",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -289,7 +287,7 @@
         "genres": [
           "Symphonic Rock",
           "Space Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Alternative Rock",
           "Rock"
         ]
@@ -309,7 +307,7 @@
       "Rock Opera",
       "Symphonic Metal",
       "Symphonic Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Alternative Rock",
       "Rock"
     ]
@@ -605,26 +603,26 @@
         "name": "Blood Butcher",
         "year": "2020",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Enter Blood Realm",
         "year": "2022",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Artifacts Of Destruction",
         "year": "2025",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       }
     ],
     "tags": [
-      "Death 'N' Roll"
+      "Death 'n' Roll"
     ]
   },
   {
@@ -1111,7 +1109,7 @@
         "name": "The Ghorusalem Codex, Vol 1: Enthroned Upon A Spire",
         "year": "2009",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Melodic Death Metal"
         ]
       },
@@ -1120,8 +1118,8 @@
         "year": "2011",
         "genres": [
           "Heavy Metal",
-          "Prog Rock",
-          "Us Power",
+          "Progressive Rock",
+          "US Power Metal",
           "Melodic Death Metal"
         ]
       },
@@ -1129,7 +1127,7 @@
         "name": "Destroyers Of The Realm",
         "year": "2015",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Melodic Death Metal"
         ]
       },
@@ -1137,16 +1135,16 @@
         "name": "Maelstrom Of The Emerald Dragon",
         "year": "2020",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Melodic Death Metal",
       "Heavy Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -1316,7 +1314,7 @@
         "name": "The Chronicles Of Eunomia Part I",
         "year": "2018",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -1330,12 +1328,12 @@
         "name": "The Chronicles Of Eunomia Part Ii",
         "year": "2023",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Power Metal"
     ]
   },
@@ -1517,19 +1515,19 @@
         "name": "Miles Better",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Zero Four One",
         "year": "1987",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       }
     ],
     "tags": [
-      "New Wave Of British Heavy"
+      "NWOBHM"
     ]
   },
   {
@@ -1599,13 +1597,13 @@
         "name": "Silver Bells",
         "year": "2025",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Post Rock",
+      "Post-Rock",
       "Rock"
     ]
   },
@@ -1623,13 +1621,13 @@
         "name": "100 שירים ראשונים (חלק א)",
         "year": "1981",
         "genres": [
-          "Children's Music",
+          "Children's",
           "Israeli"
         ]
       }
     ],
     "tags": [
-      "Children's Music",
+      "Children's",
       "Israeli"
     ]
   },
@@ -1642,7 +1640,7 @@
         "year": "1983",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -1650,7 +1648,7 @@
         "year": "1987",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -1658,7 +1656,7 @@
         "year": "1988",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -1666,7 +1664,7 @@
         "year": "1990",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -1674,7 +1672,7 @@
         "year": "1999",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -1682,7 +1680,7 @@
         "year": "2003",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -1690,13 +1688,13 @@
         "year": "2014",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -1707,75 +1705,75 @@
         "name": "Victory",
         "year": "2017",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
         "name": "Back For Revenge",
         "year": "2019",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
         "name": "The Triumph Of True Metal",
         "year": "2019",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
         "name": "Victory Mmxix",
         "year": "2019",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
         "name": "Legend Of Metal",
         "year": "2022",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
         "name": "Metal Pounding",
         "year": "2022",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
         "name": "The Final Stand",
         "year": "2023",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
         "name": "Waiting For The King",
         "year": "2023",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
         "name": "Against New World Order",
         "year": "2024",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       },
       {
         "name": "Return Of The Warlord",
         "year": "2024",
         "genres": [
-          "Epic Heavy"
+          "Epic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Epic Heavy"
+      "Epic Heavy Metal"
     ]
   },
   {
@@ -2112,7 +2110,7 @@
         "genres": [
           "Funk / Soul",
           "Hip Hop",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Pop Rap"
         ]
       },
@@ -2121,14 +2119,14 @@
         "year": "2013",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
     "tags": [
       "Funk / Soul",
       "Hip Hop",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Pop Rap"
     ]
   },
@@ -2346,15 +2344,13 @@
         "year": "2026",
         "genres": [
           "Death Metal",
-          "Thrash Metal",
-          "Metal"
+          "Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Thrash Metal",
-      "Metal"
+      "Thrash Metal"
     ]
   },
   {
@@ -2441,7 +2437,7 @@
         "year": "2012",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2449,7 +2445,7 @@
         "year": "2017",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2457,7 +2453,7 @@
         "year": "2017",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2465,7 +2461,7 @@
         "year": "2018",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2473,7 +2469,7 @@
         "year": "2019",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2481,7 +2477,7 @@
         "year": "2019",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2489,7 +2485,7 @@
         "year": "2022",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2497,7 +2493,7 @@
         "year": "2022",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -2505,13 +2501,13 @@
         "year": "2025",
         "genres": [
           "Atmospheric Black Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -2615,7 +2611,6 @@
           "Djent",
           "Math Metal",
           "Progressive Metal",
-          "Alright",
           "Progressive Deathcore",
           "Thall"
         ]
@@ -2658,7 +2653,6 @@
       "Deathstep Math Metal",
       "Brostep Metal",
       "Progressive Metal",
-      "Alright",
       "Progressive Deathcore"
     ],
     "origin": "FR"
@@ -3140,7 +3134,7 @@
         "name": "The Undying",
         "year": "2006",
         "genres": [
-          "Progressive Sludge",
+          "Progressive Sludge Metal",
           "Post-Metal"
         ]
       },
@@ -3148,7 +3142,7 @@
         "name": "Endeavors",
         "year": "2009",
         "genres": [
-          "Progressive Sludge",
+          "Progressive Sludge Metal",
           "Post-Metal"
         ]
       },
@@ -3156,13 +3150,13 @@
         "name": "Avohfasih",
         "year": "2011",
         "genres": [
-          "Progressive Sludge",
+          "Progressive Sludge Metal",
           "Post-Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Sludge",
+      "Progressive Sludge Metal",
       "Post-Metal"
     ]
   },
@@ -3358,7 +3352,7 @@
         "name": "The Silent Stage",
         "year": "2005",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Doom Metal"
         ]
       },
@@ -3379,7 +3373,7 @@
       "Melodic Death Metal",
       "Doom Metal",
       "Chicago House",
-      "Goth Rock"
+      "Gothic Rock"
     ]
   },
   {
@@ -3902,7 +3896,7 @@
         "year": "1995",
         "genres": [
           "Crust Punk",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3910,7 +3904,7 @@
         "year": "1996",
         "genres": [
           "Crust Punk",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3918,7 +3912,7 @@
         "year": "1999",
         "genres": [
           "Crust Punk",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3926,7 +3920,7 @@
         "year": "2001",
         "genres": [
           "Crust Punk",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3934,13 +3928,13 @@
         "year": "2006",
         "genres": [
           "Crust Punk",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Crust Punk",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3978,12 +3972,12 @@
         "name": "Fallout",
         "year": "2004",
         "genres": [
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Doom"
+      "Melodic Doom Metal"
     ]
   },
   {
@@ -4044,13 +4038,13 @@
         "name": "The Morning After (Radio Edit)",
         "year": "2020",
         "genres": [
-          "Swing Music",
+          "Swing",
           "Electro Swing"
         ]
       }
     ],
     "tags": [
-      "Swing Music",
+      "Swing",
       "Electro Swing"
     ]
   },
@@ -4318,21 +4312,21 @@
         "name": "Sorrow",
         "year": "1994",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
         "name": "Tears Laid In Earth",
         "year": "1994",
         "genres": [
-          "Atmospheric Doom"
+          "Atmospheric Doom Metal"
         ]
       },
       {
         "name": "Nightswan",
         "year": "1995",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Ethereal Wave"
         ]
       },
@@ -4340,7 +4334,7 @@
         "name": "Painting On Glass",
         "year": "1996",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Ethereal Wave",
           "Experimental Rock"
         ]
@@ -4357,15 +4351,15 @@
         "year": "2002",
         "genres": [
           "Experimental Rock",
-          "Trip-hop"
+          "Trip Hop"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Doom",
+      "Atmospheric Doom Metal",
       "Ethereal Wave",
       "Experimental Rock",
-      "Trip-hop"
+      "Trip Hop"
     ]
   },
   {
@@ -4749,7 +4743,7 @@
         "year": "2019",
         "genres": [
           "Black Metal",
-          "Crust Metal"
+          "Crust Punk"
         ]
       },
       {
@@ -4757,7 +4751,7 @@
         "year": "2019",
         "genres": [
           "Black Metal",
-          "Crust Metal"
+          "Crust Punk"
         ]
       },
       {
@@ -4794,8 +4788,7 @@
     ],
     "tags": [
       "Black Metal",
-      "Crust Punk",
-      "Crust Metal"
+      "Crust Punk"
     ]
   },
   {

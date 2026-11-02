@@ -449,7 +449,7 @@
         "year": "2017",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -457,7 +457,7 @@
         "year": "2020",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -465,13 +465,13 @@
         "year": "2024",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Sludge Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -793,21 +793,21 @@
         "name": "Drift Of Empathy",
         "year": "1996",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Escape",
         "year": "1998",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Graceful... Yet Forbidding",
         "year": "1999",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -821,14 +821,14 @@
         "name": "Flesh_power_dominion",
         "year": "2002",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "My Passion // Your Pain",
         "year": "2003",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -848,9 +848,8 @@
       }
     ],
     "tags": [
-      "Gothenburg",
-      "Death Metal",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -861,19 +860,19 @@
         "name": "Metastatic Declination",
         "year": "2019",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
         "name": "Encomium To Extinction",
         "year": "2023",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Doom Death"
+      "Death Doom Metal"
     ]
   },
   {
@@ -1643,14 +1642,14 @@
         "genres": [
           "Alternative Rock",
           "Hard Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
       "Hard Rock",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1692,7 +1691,7 @@
         "name": "Breathing And Dying In This Place…",
         "year": "1996",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Screamo"
         ]
       },
@@ -1700,7 +1699,7 @@
         "name": "From Here To Eternity",
         "year": "1998",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Screamo"
         ]
       },
@@ -1708,7 +1707,7 @@
         "name": "Angel's Curse Whispered In The Edge Of Despair",
         "year": "1999",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Screamo"
         ]
       },
@@ -1716,7 +1715,7 @@
         "name": "The Eyes Of Single Eared Prophet",
         "year": "2000",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Rock"
         ]
       },
@@ -1724,7 +1723,7 @@
         "name": "All The Footprints You've Ever Left And The Fear Expecting Ahead",
         "year": "2001",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Rock"
         ]
       },
@@ -1732,7 +1731,7 @@
         "name": "A Dead Sinking Story",
         "year": "2003",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Rock"
         ]
       },
@@ -1740,7 +1739,7 @@
         "name": "Insomniac Doze",
         "year": "2006",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Rock"
         ]
       },
@@ -1748,7 +1747,7 @@
         "name": "Abyssal",
         "year": "2007",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Rock"
         ]
       },
@@ -1756,7 +1755,7 @@
         "name": "Recitation",
         "year": "2010",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Rock"
         ]
       },
@@ -1764,7 +1763,7 @@
         "name": "Atheist's Cornea",
         "year": "2015",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Rock"
         ]
       },
@@ -1772,7 +1771,7 @@
         "name": "The Fallen Crimson",
         "year": "2020",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Rock"
         ]
       },
@@ -1780,7 +1779,7 @@
         "name": "Seimei",
         "year": "2022",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Rock"
         ]
       },
@@ -1788,13 +1787,13 @@
         "name": "Eunoia",
         "year": "2024",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Post-Rock"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
+      "Post-Hardcore",
       "Post-Rock",
       "Screamo"
     ]
@@ -2353,40 +2352,40 @@
         "name": "Eternal God",
         "year": "1991",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "The Ancient Whisper Of Wisdom",
         "year": "1992",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "In The Garden Of The Unearthly Delights",
         "year": "1993",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "Animal",
         "year": "1998",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "Deus Diabolus Inversus",
         "year": "2002",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Death"
+      "Atmospheric Death Metal"
     ]
   },
   {
@@ -2578,7 +2577,7 @@
         "name": "Volatile Beings",
         "year": "2019",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Blackened Death Metal"
         ]
       },
@@ -2586,7 +2585,7 @@
         "name": "The Living Horror Show",
         "year": "2020",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Blackened Death Metal"
         ]
       },
@@ -2594,13 +2593,13 @@
         "name": "Test Of The Pendulum Blade",
         "year": "2024",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Blackened Death Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash",
+      "Technical Thrash Metal",
       "Blackened Death Metal"
     ]
   },
@@ -2649,16 +2648,16 @@
         "name": "Circadia",
         "year": "2016",
         "genres": [
-          "Prog Rock",
-          "Post Rock",
+          "Progressive Rock",
+          "Post-Rock",
           "Math Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
-      "Post Rock",
+      "Progressive Rock",
+      "Post-Rock",
       "Math Rock",
       "Rock"
     ]
@@ -2939,26 +2938,26 @@
         "name": "The Mad Moon Rising",
         "year": "2004",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Deadlock",
         "year": "2006",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "No Signs Of Wisdom",
         "year": "2007",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -3538,7 +3537,7 @@
         "genres": [
           "Thrash Metal",
           "Death Metal",
-          "Hardcore Metal",
+          "Hardcore",
           "Power Metal",
           "Melodic Death Metal"
         ]
@@ -3550,7 +3549,7 @@
       "Heavy Metal",
       "Thrash Metal",
       "Death Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4127,42 +4126,42 @@
         "name": "Sirens",
         "year": "1983",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "The Dungeons Are Calling",
         "year": "1984",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Power Of The Night",
         "year": "1985",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Fight For The Rock",
         "year": "1986",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Hall Of The Mountain King",
         "year": "1987",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Gutter Ballet",
         "year": "1989",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
@@ -4172,56 +4171,56 @@
           "Heavy Metal",
           "Hard Rock",
           "Symphonic Rock",
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Edge Of Thorns",
         "year": "1993",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Handful Of Rain",
         "year": "1994",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Chance",
         "year": "1995",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Dead Winter Dead",
         "year": "1995",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "The Wake Of Magellan",
         "year": "1997",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Poets And Madmen",
         "year": "2001",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "The Hourglass",
         "year": "2021",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
@@ -4231,7 +4230,7 @@
       }
     ],
     "tags": [
-      "Progressive Heavy",
+      "Progressive Heavy Metal",
       "Heavy Metal",
       "Hard Rock",
       "Symphonic Rock"
@@ -4611,7 +4610,7 @@
         "name": "Tithe",
         "year": "2017",
         "genres": [
-          "Doom Death",
+          "Death Doom Metal",
           "Grindcore"
         ]
       },
@@ -4619,7 +4618,7 @@
         "name": "Penance",
         "year": "2020",
         "genres": [
-          "Doom Death",
+          "Death Doom Metal",
           "Grindcore"
         ]
       },
@@ -4627,7 +4626,7 @@
         "name": "Inverse Rapture",
         "year": "2023",
         "genres": [
-          "Doom Death",
+          "Death Doom Metal",
           "Grindcore"
         ]
       },
@@ -4635,13 +4634,13 @@
         "name": "Communion In Anguish",
         "year": "2025",
         "genres": [
-          "Doom Death",
+          "Death Doom Metal",
           "Grindcore"
         ]
       }
     ],
     "tags": [
-      "Doom Death",
+      "Death Doom Metal",
       "Grindcore"
     ]
   },
@@ -4676,7 +4675,7 @@
         "name": "Home Sweet Hell",
         "year": "2005",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Progressive Metal"
         ]
       },
@@ -4684,7 +4683,7 @@
         "name": "Rotting Core",
         "year": "2009",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Progressive Metal"
         ]
       },
@@ -4692,7 +4691,7 @@
         "name": "Elder Lore/the Dark Arts",
         "year": "2012",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Progressive Metal"
         ]
       },
@@ -4700,13 +4699,13 @@
         "name": "Tales",
         "year": "2013",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Thrash",
+      "Melodic Thrash Metal",
       "Progressive Metal"
     ]
   },
@@ -4769,13 +4768,13 @@
         "year": "2024",
         "genres": [
           "Symphonic Black Metal",
-          "Blackened Folk"
+          "Blackened Folk Metal"
         ]
       }
     ],
     "tags": [
       "Symphonic Black Metal",
-      "Blackened Folk"
+      "Blackened Folk Metal"
     ]
   },
   {
@@ -4786,26 +4785,26 @@
         "name": "Demagogue",
         "year": "2007",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "The Peregrine Way",
         "year": "2010",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Cynosure",
         "year": "2014",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -4847,7 +4846,7 @@
         "name": "Echolocate Your Love",
         "year": "2022",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Pop",
           "Rock"
         ]
@@ -4862,7 +4861,7 @@
     ],
     "tags": [
       "Suomi",
-      "Goth Rock",
+      "Gothic Rock",
       "Pop",
       "Rock"
     ]

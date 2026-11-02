@@ -206,7 +206,7 @@
         "genres": [
           "Heavy Metal",
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -293,7 +293,7 @@
       "Screamo",
       "Metalcore",
       "Heavy Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -528,7 +528,7 @@
         "year": "1973",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -583,7 +583,7 @@
     ],
     "tags": [
       "Folk, World, & Country",
-      "Folk Metal",
+      "Folk",
       "Pop"
     ]
   },
@@ -597,7 +597,7 @@
         "year": "2003",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -605,13 +605,13 @@
         "year": "2005",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -982,12 +982,12 @@
         "name": "Conquer Divide",
         "year": "2015",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1024,7 +1024,7 @@
         "name": "Misericordia",
         "year": "1995",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1032,7 +1032,7 @@
         "name": "No More Dreams Of Happy Endings",
         "year": "1995",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1040,7 +1040,7 @@
         "name": "Kingdom Of Lost Souls",
         "year": "1998",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1048,7 +1048,7 @@
         "name": "In This Life Or The Next",
         "year": "2007",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -1056,13 +1056,13 @@
         "name": "Pornography",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -1409,7 +1409,7 @@
         "name": "Hate Incarnate",
         "year": "2008",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Melodic Death Metal"
         ]
       },
@@ -1417,7 +1417,7 @@
         "name": "Scars Of Undying Grief",
         "year": "2011",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Melodic Death Metal"
         ]
       },
@@ -1425,7 +1425,7 @@
         "name": "The Condemnation",
         "year": "2016",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Melodic Death Metal"
         ]
       },
@@ -1433,7 +1433,7 @@
         "name": "Instigate To Annihilate",
         "year": "2022",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Melodic Death Metal"
         ]
       },
@@ -1441,13 +1441,13 @@
         "name": "The Infinite Hell",
         "year": "2025",
         "genres": [
-          "Melodic Thrash",
+          "Melodic Thrash Metal",
           "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Thrash",
+      "Melodic Thrash Metal",
       "Melodic Death Metal"
     ]
   },
@@ -1472,7 +1472,7 @@
         "year": "1995",
         "genres": [
           "Melodic Death Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
@@ -1480,7 +1480,7 @@
         "year": "2015",
         "genres": [
           "Melodic Death Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
@@ -1488,7 +1488,7 @@
         "year": "2016",
         "genres": [
           "Melodic Death Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
@@ -1496,7 +1496,7 @@
         "year": "2018",
         "genres": [
           "Melodic Death Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
@@ -1504,7 +1504,7 @@
         "year": "2019",
         "genres": [
           "Melodic Death Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
@@ -1512,7 +1512,7 @@
         "year": "2020",
         "genres": [
           "Melodic Death Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       },
       {
@@ -1520,13 +1520,13 @@
         "year": "2024",
         "genres": [
           "Melodic Death Metal",
-          "Melodic Doom"
+          "Melodic Doom Metal"
         ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Melodic Doom"
+      "Melodic Doom Metal"
     ]
   },
   {
@@ -1781,8 +1781,7 @@
         "name": "Circadian Promise",
         "year": "2026",
         "genres": [
-          "Doom Metal",
-          "Metal"
+          "Doom Metal"
         ]
       }
     ],
@@ -1790,8 +1789,7 @@
       "Death Doom Metal",
       "Melodic Death Metal",
       "Death Metal",
-      "Doom Metal",
-      "Metal"
+      "Doom Metal"
     ]
   },
   {
@@ -1889,14 +1887,12 @@
         "name": "Beckoning The Void of Eternal Silence",
         "year": "2026",
         "genres": [
-          "Death Metal",
-          "Metal"
+          "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Death Metal",
-      "Metal"
+      "Death Metal"
     ]
   },
   {
@@ -2085,7 +2081,7 @@
         "year": "2011",
         "genres": [
           "Black Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2093,7 +2089,7 @@
         "year": "2012",
         "genres": [
           "Black Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2101,7 +2097,7 @@
         "year": "2012",
         "genres": [
           "Black Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2109,7 +2105,7 @@
         "year": "2014",
         "genres": [
           "Black Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2117,7 +2113,7 @@
         "year": "2015",
         "genres": [
           "Black Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2125,7 +2121,7 @@
         "year": "2017",
         "genres": [
           "Black Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2133,7 +2129,7 @@
         "year": "2017",
         "genres": [
           "Black Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2141,7 +2137,7 @@
         "year": "2020",
         "genres": [
           "Black Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2149,13 +2145,13 @@
         "year": "2022",
         "genres": [
           "Black Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2181,7 +2177,7 @@
         "name": "Theres No Regret",
         "year": "2011",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2208,7 +2204,7 @@
     ],
     "tags": [
       "Pagan Black Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2260,7 +2256,7 @@
         "name": "Break The Spell",
         "year": "2008",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -2268,7 +2264,7 @@
         "name": "Good Sleepless Night",
         "year": "2010",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -2276,7 +2272,7 @@
         "name": "Promise Of Asgaard",
         "year": "2013",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -2284,13 +2280,13 @@
         "name": "The Forbidden World",
         "year": "2020",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Heavy",
+      "Neoclassical Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -2348,7 +2344,7 @@
           "Alternative",
           "Chill-out",
           "Alternative Rock",
-          "Folk Metal",
+          "Folk",
           "Bluegrass"
         ]
       }
@@ -2357,7 +2353,7 @@
       "Alternative",
       "Chill-out",
       "Alternative Rock",
-      "Folk Metal",
+      "Folk",
       "Bluegrass",
       "Folk Rock",
       "Blues Rock",
@@ -2409,7 +2405,7 @@
         "genres": [
           "Heavy Metal",
           "Death Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -2459,7 +2455,7 @@
         "year": "2017",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -2474,7 +2470,7 @@
         "year": "2017",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -2557,7 +2553,7 @@
       "Progressive Metal",
       "Heavy Metal",
       "Death Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Electronic",
       "Experimental Metal",
       "Alternative Metal",
@@ -2611,7 +2607,7 @@
         "year": "1999",
         "genres": [
           "Gothic Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2619,7 +2615,7 @@
         "year": "2001",
         "genres": [
           "Gothic Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2627,7 +2623,7 @@
         "year": "2002",
         "genres": [
           "Gothic Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2635,7 +2631,7 @@
         "year": "2006",
         "genres": [
           "Gothic Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2643,7 +2639,7 @@
         "year": "2006",
         "genres": [
           "Gothic Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2651,7 +2647,7 @@
         "year": "2009",
         "genres": [
           "Gothic Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2660,7 +2656,7 @@
         "genres": [
           "Jazz",
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2668,7 +2664,7 @@
         "year": "2010",
         "genres": [
           "Gothic Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2683,7 +2679,7 @@
         "year": "2016",
         "genres": [
           "Gothic Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2691,7 +2687,7 @@
         "year": "2018",
         "genres": [
           "Gothic Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -2699,13 +2695,13 @@
         "year": "2024",
         "genres": [
           "Gothic Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Gothic Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Progressive Metal",
       "Jazz"
     ]
@@ -2897,7 +2893,7 @@
         "genres": [
           "Funk / Soul",
           "Pop Rock",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Electronic",
           "Ballad",
           "Hip Hop",
@@ -2910,7 +2906,7 @@
     "tags": [
       "Funk / Soul",
       "Pop Rock",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Electronic",
       "Ballad",
       "Hip Hop",
@@ -2928,13 +2924,13 @@
         "year": "2010",
         "genres": [
           "Death Metal",
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Death 'N' Roll"
+      "Death 'n' Roll"
     ]
   },
   {
@@ -3230,47 +3226,47 @@
         "name": "The Void Transmission",
         "year": "2010",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Povijest Trovanja",
         "year": "2012",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Raspored Užasa",
         "year": "2013",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Sebi Jesi Meni Nisi",
         "year": "2014",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Jedva čEkam Da Nikad Ne Umrem",
         "year": "2016",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Zvjerski Pokreti",
         "year": "2022",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -3346,7 +3342,7 @@
         "year": "2013",
         "genres": [
           "Pagan Black Metal",
-          "Blackened Folk"
+          "Blackened Folk Metal"
         ]
       },
       {
@@ -3354,7 +3350,7 @@
         "year": "2014",
         "genres": [
           "Pagan Black Metal",
-          "Blackened Folk"
+          "Blackened Folk Metal"
         ]
       },
       {
@@ -3362,7 +3358,7 @@
         "year": "2016",
         "genres": [
           "Pagan Black Metal",
-          "Blackened Folk"
+          "Blackened Folk Metal"
         ]
       },
       {
@@ -3370,7 +3366,7 @@
         "year": "2017",
         "genres": [
           "Pagan Black Metal",
-          "Blackened Folk"
+          "Blackened Folk Metal"
         ]
       },
       {
@@ -3378,7 +3374,7 @@
         "year": "2020",
         "genres": [
           "Pagan Black Metal",
-          "Blackened Folk"
+          "Blackened Folk Metal"
         ]
       },
       {
@@ -3386,7 +3382,7 @@
         "year": "2022",
         "genres": [
           "Pagan Black Metal",
-          "Blackened Folk"
+          "Blackened Folk Metal"
         ]
       },
       {
@@ -3394,13 +3390,13 @@
         "year": "2025",
         "genres": [
           "Pagan Black Metal",
-          "Blackened Folk"
+          "Blackened Folk Metal"
         ]
       }
     ],
     "tags": [
       "Pagan Black Metal",
-      "Blackened Folk"
+      "Blackened Folk Metal"
     ]
   },
   {
@@ -3536,28 +3532,28 @@
         "name": "Hell Hath No Fury",
         "year": "1983",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "My Angel",
         "year": "1983",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Rock Goddess",
         "year": "1983",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Young & Free",
         "year": "1987",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -3576,7 +3572,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal"
     ]
   },
@@ -3650,15 +3646,15 @@
         "name": "Mandala",
         "year": "2009",
         "genres": [
-          "Experimental Metal",
-          "Prog Rock",
+          "Experimental",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Experimental Metal",
-      "Prog Rock",
+      "Experimental",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -3896,8 +3892,7 @@
       }
     ],
     "tags": [
-      "Atmospheric Black Metal",
-      "Metal"
+      "Atmospheric Black Metal"
     ]
   },
   {
@@ -3909,7 +3904,7 @@
         "year": "2007",
         "genres": [
           "Melodic Death Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -3917,7 +3912,7 @@
         "year": "2010",
         "genres": [
           "Melodic Death Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -3925,7 +3920,7 @@
         "year": "2012",
         "genres": [
           "Melodic Death Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -3933,13 +3928,13 @@
         "year": "2015",
         "genres": [
           "Melodic Death Metal",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -3999,19 +3994,19 @@
         "name": "This Is All We Ever Get",
         "year": "2024",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "No Escape",
         "year": "2025",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4363,7 +4358,7 @@
         "year": "2019",
         "genres": [
           "Gothic Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -4371,7 +4366,7 @@
         "year": "2019",
         "genres": [
           "Gothic Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -4384,8 +4379,7 @@
     ],
     "tags": [
       "Progressive Rock",
-      "Gothic Metal",
-      "Prog Rock"
+      "Gothic Metal"
     ]
   },
   {
@@ -4613,29 +4607,29 @@
         "name": "Vorbid",
         "year": "2016",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Mind",
         "year": "2018",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "A Swan By The Edge Of Mandala",
         "year": "2022",
         "genres": [
-          "Progressive Thrash",
+          "Progressive Thrash Metal",
           "Extreme Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash",
+      "Progressive Thrash Metal",
       "Extreme Progressive Metal",
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -4789,7 +4783,7 @@
         "name": "First Night Back In Port",
         "year": "2017",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Folk, World, & Country",
           "Folk Rock",
           "Sea Shanties"
@@ -4797,7 +4791,7 @@
       }
     ],
     "tags": [
-      "Folk Metal",
+      "Folk",
       "Folk, World, & Country",
       "Folk Rock",
       "Sea Shanties"
@@ -4816,13 +4810,13 @@
         "year": "2019",
         "genres": [
           "Electronic",
-          "Industrial Metal"
+          "Industrial"
         ]
       }
     ],
     "tags": [
       "Electronic",
-      "Industrial Metal"
+      "Industrial"
     ]
   },
   {

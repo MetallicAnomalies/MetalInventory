@@ -908,7 +908,7 @@
         "genres": [
           "Folk, World, & Country",
           "Pop",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -933,7 +933,7 @@
         "genres": [
           "Folk, World, & Country",
           "Pop",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -947,7 +947,7 @@
     "tags": [
       "Folk, World, & Country",
       "Pop",
-      "Folk Metal",
+      "Folk",
       "Alternative Rock",
       "Indie Rock",
       "Acoustic",
@@ -990,13 +990,13 @@
         "name": "Theres No Place Like Home",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Death Metal"
     ]
   },
@@ -1009,40 +1009,40 @@
         "name": "Resurrection Of The Doomed",
         "year": "2017",
         "genres": [
-          "Technical  Death"
+          "Technical Death Metal"
         ]
       },
       {
         "name": "God Killer",
         "year": "2020",
         "genres": [
-          "Technical  Death"
+          "Technical Death Metal"
         ]
       },
       {
         "name": "Abhorrent Obsessions",
         "year": "2022",
         "genres": [
-          "Technical  Death"
+          "Technical Death Metal"
         ]
       },
       {
         "name": "Cannibals Anonymous",
         "year": "2024",
         "genres": [
-          "Technical  Death"
+          "Technical Death Metal"
         ]
       },
       {
         "name": "Slay Utterly",
         "year": "2026",
         "genres": [
-          "Technical  Death"
+          "Technical Death Metal"
         ]
       }
     ],
     "tags": [
-      "Technical  Death"
+      "Technical Death Metal"
     ]
   },
   {
@@ -1054,14 +1054,14 @@
         "name": "Broken Hymns",
         "year": "2013",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Taedium Vitae",
         "year": "2013",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1069,15 +1069,15 @@
         "name": "The Lights Of This Earth Are Blinding",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
-          "Crust Metal"
+          "Hardcore",
+          "Crust Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
-      "Crust Metal"
+      "Crust Punk"
     ]
   },
   {
@@ -1089,9 +1089,9 @@
         "name": "Talvikuningas",
         "year": "2007",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Alternative Rock",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -1114,8 +1114,8 @@
     "tags": [
       "Alternative Rock",
       "Hard Rock",
-      "Hardcore Metal",
-      "Prog Rock",
+      "Hardcore",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -1232,42 +1232,42 @@
         "name": "R.i.p.",
         "year": "1987",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Punishment For Decadence",
         "year": "1988",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "No More Color",
         "year": "1989",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Mental Vortex",
         "year": "1991",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Grin",
         "year": "1993",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Dissonance Theory",
         "year": "2025",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -1286,7 +1286,6 @@
       }
     ],
     "tags": [
-      "Technical Thrash",
       "Technical Thrash Metal"
     ]
   },
@@ -1479,7 +1478,7 @@
         "name": "Amaranthine",
         "year": "1996",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Progressive Metal"
         ]
       },
@@ -1487,7 +1486,7 @@
         "name": "Time Lost",
         "year": "1999",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Progressive Metal"
         ]
       },
@@ -1495,7 +1494,7 @@
         "name": "Transitional Forms",
         "year": "2002",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Progressive Metal"
         ]
       },
@@ -1503,13 +1502,13 @@
         "name": "Reincarnation",
         "year": "2015",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Progressive Metal"
     ]
   },
@@ -1619,19 +1618,19 @@
         "name": "Pleasure And Pain",
         "year": "1998",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Break Your Neck",
         "year": "1999",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -1666,35 +1665,35 @@
         "name": "Hordanes Land",
         "year": "1993",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "Frost",
         "year": "1994",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "Vikingligr Veldi",
         "year": "1994",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "Eld",
         "year": "1997",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
         "name": "Blodhemn",
         "year": "1998",
         "genres": [
-          "Viking Black"
+          "Viking Black Metal"
         ]
       },
       {
@@ -1746,7 +1745,7 @@
           "Black Metal",
           "Psychedelic Rock",
           "Viking Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -1783,7 +1782,7 @@
         "year": "2011",
         "genres": [
           "Black Metal",
-          "Prog Rock",
+          "Progressive Rock",
           "Viking Metal"
         ]
       },
@@ -1895,13 +1894,13 @@
     ],
     "tags": [
       "Progressive Black Metal",
-      "Viking Black",
+      "Viking Black Metal",
       "Black Metal",
       "Viking Metal",
       "Progressive Metal",
       "Concert Film",
       "Stage & Screen",
-      "Prog Rock",
+      "Progressive Rock",
       "Psychedelic Rock"
     ]
   },
@@ -1948,12 +1947,12 @@
         "name": "Darkness",
         "year": "2019",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2246,13 +2245,13 @@
         "name": "Sempiternal Void",
         "year": "2013",
         "genres": [
-          "Experimental Black",
+          "Experimental Black Metal",
           "Funeral Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Black",
+      "Experimental Black Metal",
       "Funeral Doom Metal"
     ]
   },
@@ -2265,7 +2264,7 @@
         "name": "Save Face",
         "year": "2023",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Emo",
           "Mathcore",
           "Metalcore"
@@ -2273,7 +2272,7 @@
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Emo",
       "Mathcore",
       "Metalcore"
@@ -2314,7 +2313,7 @@
         "name": "Naysayer B/w Just Throats",
         "year": "2012",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2343,7 +2342,7 @@
         "name": "Restless Aim",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -2358,7 +2357,7 @@
     "tags": [
       "Atmospheric Sludge Metal",
       "Mathcore",
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -2498,26 +2497,26 @@
         "name": "Up From The Ashes",
         "year": "2001",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Unconscience",
         "year": "2005",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Unity",
         "year": "2018",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -2842,7 +2841,7 @@
         "name": "Spheres",
         "year": "2006",
         "genres": [
-          "Symphonic Gothic",
+          "Symphonic Gothic Metal",
           "Power Metal"
         ]
       },
@@ -2850,7 +2849,7 @@
         "name": "Close To Eternity",
         "year": "2010",
         "genres": [
-          "Symphonic Gothic",
+          "Symphonic Gothic Metal",
           "Power Metal"
         ]
       },
@@ -2858,13 +2857,13 @@
         "name": "A Different Shade Of Darkness",
         "year": "2013",
         "genres": [
-          "Symphonic Gothic",
+          "Symphonic Gothic Metal",
           "Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Gothic",
+      "Symphonic Gothic Metal",
       "Power Metal"
     ]
   },
@@ -2878,7 +2877,7 @@
         "year": "2013",
         "genres": [
           "Melodic Metalcore",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -2886,7 +2885,7 @@
         "year": "2017",
         "genres": [
           "Melodic Metalcore",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
@@ -2894,14 +2893,14 @@
         "year": "2020",
         "genres": [
           "Melodic Metalcore",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Higher Place",
         "year": "2022",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal",
           "Metalcore"
         ]
@@ -2911,14 +2910,14 @@
         "year": "2022",
         "genres": [
           "Melodic Metalcore",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Still Waters Run Deep",
         "year": "2022",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal",
           "Metalcore"
         ]
@@ -2928,14 +2927,14 @@
         "year": "2025",
         "genres": [
           "Melodic Metalcore",
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Melodic Metalcore",
-      "Groove Thrash",
-      "Hardcore Metal",
+      "Groove Thrash Metal",
+      "Hardcore",
       "Heavy Metal",
       "Metalcore"
     ]
@@ -3070,22 +3069,19 @@
         "name": "Temporal Majesty",
         "year": "2017",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "The Natural World",
         "year": "2023",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {
@@ -3895,14 +3891,14 @@
         "name": "Souls At The Event Horizon",
         "year": "2024",
         "genres": [
-          "Progressive  Black",
-          "Progressive  Death"
+          "Progressive Black Metal",
+          "Progressive Death Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive  Black",
-      "Progressive  Death"
+      "Progressive Black Metal",
+      "Progressive Death Metal"
     ]
   },
   {
@@ -3928,7 +3924,7 @@
         "name": "Paraiso",
         "year": "2013",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock",
           "Progressive Metal"
         ]
@@ -3960,7 +3956,7 @@
         "genres": [
           "Art Rock",
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3975,7 +3971,7 @@
     "tags": [
       "Progressive Metal",
       "Art Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -4016,7 +4012,7 @@
         "name": "Rockin Rudolph",
         "year": "2015",
         "genres": [
-          "Swing Music",
+          "Swing",
           "Rockabilly",
           "Boogie-woogie",
           "Christmas",
@@ -4025,7 +4021,7 @@
       }
     ],
     "tags": [
-      "Swing Music",
+      "Swing",
       "Rockabilly",
       "Boogie-woogie",
       "Christmas",
@@ -4269,7 +4265,7 @@
         "name": "Traumatic...",
         "year": "1992",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Death Metal",
           "Progressive Black Metal"
         ]
@@ -4278,7 +4274,7 @@
         "name": "Trauma...",
         "year": "1996",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Death Metal",
           "Progressive Black Metal"
         ]
@@ -4287,7 +4283,7 @@
         "name": "Traumatized...",
         "year": "1996",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Death Metal",
           "Progressive Black Metal"
         ]
@@ -4296,7 +4292,7 @@
         "name": "Cogito Ergo Sum",
         "year": "1998",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Death Metal",
           "Progressive Black Metal"
         ]
@@ -4305,7 +4301,7 @@
         "name": "üBerlebenskunst",
         "year": "2001",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Death Metal",
           "Progressive Black Metal"
         ]
@@ -4314,7 +4310,7 @@
         "name": "Khiaoscuro",
         "year": "2006",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Death Metal",
           "Progressive Black Metal"
         ]
@@ -4323,7 +4319,7 @@
         "name": "Traumaturgie",
         "year": "2011",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Death Metal",
           "Progressive Black Metal"
         ]
@@ -4332,14 +4328,14 @@
         "name": "Gedankenglut",
         "year": "2019",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Progressive Death Metal",
           "Progressive Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Progressive Death Metal",
       "Progressive Black Metal"
     ]

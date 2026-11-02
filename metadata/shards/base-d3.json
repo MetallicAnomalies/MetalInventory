@@ -141,26 +141,26 @@
         "name": "Luxaeterna",
         "year": "2005",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Shambala",
         "year": "2007",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Alethea",
         "year": "2020",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -273,27 +273,27 @@
         "name": "Nocturnal Beauty Of A Dying Land",
         "year": "1997",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "... Of Honesty Forbidden",
         "year": "2000",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Rétroviseur",
         "year": "2004",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Gothenburg",
+      "Melodic Death Metal",
       "Progressive Metal"
     ]
   },
@@ -543,19 +543,19 @@
         "name": "Mindfuckness",
         "year": "2017",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Winter In Paradise",
         "year": "2020",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -580,7 +580,7 @@
         "genres": [
           "Funk / Soul",
           "Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Electronic",
           "Tropical House",
           "Ballad",
@@ -593,7 +593,7 @@
         "genres": [
           "Funk / Soul",
           "Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Ballad",
           "Pop",
           "Funk"
@@ -603,7 +603,7 @@
     "tags": [
       "Funk / Soul",
       "Soul",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Electronic",
       "Tropical House",
       "Ballad",
@@ -740,14 +740,14 @@
         "year": "2002",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "New Medicines",
         "year": "2004",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -755,13 +755,13 @@
         "year": "2007",
         "genres": [
           "Hard Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Hard Rock"
     ]
   },
@@ -774,12 +774,12 @@
         "name": "Deafened To Death",
         "year": "2024",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1113,14 +1113,14 @@
         "year": "2015",
         "genres": [
           "Black Metal",
-          "Post Rock",
+          "Post-Rock",
           "Depressive Black Metal"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Post Rock",
+      "Post-Rock",
       "Depressive Black Metal"
     ]
   },
@@ -1179,19 +1179,19 @@
         "name": "Impressions",
         "year": "2005",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "The Binding Sequence",
         "year": "2015",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -1247,7 +1247,7 @@
         "name": "Terranova",
         "year": "2022",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       },
       {
@@ -1259,7 +1259,6 @@
       }
     ],
     "tags": [
-      "Melodic Power",
       "Melodic Power Metal"
     ]
   },
@@ -1272,13 +1271,13 @@
         "name": "Future History",
         "year": "2013",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -1425,33 +1424,33 @@
         "name": "Demontage",
         "year": "2012",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "D'accord",
         "year": "2014",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Kontakt",
         "year": "2016",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Couleur",
         "year": "2017",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1462,26 +1461,26 @@
         "name": "Only A Dream, Can Kill A Dream...",
         "year": "2007",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Below The Sea Of Light",
         "year": "2013",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Battleship Oceania",
         "year": "2019",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -1493,7 +1492,7 @@
         "year": "1992",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -1501,7 +1500,7 @@
         "year": "1994",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -1509,7 +1508,7 @@
         "year": "1997",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -1517,7 +1516,7 @@
         "year": "1999",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -1525,7 +1524,7 @@
         "year": "2010",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -1533,13 +1532,13 @@
         "year": "2012",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -2149,14 +2148,14 @@
         "name": "Seven Days Of Splendour",
         "year": "1979",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "End Of Part One",
         "year": "1980",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -2175,7 +2174,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal"
     ]
   },
@@ -2187,12 +2186,12 @@
         "name": "Deadly Nature",
         "year": "2019",
         "genres": [
-          "Instrumental Thrash"
+          "Instrumental Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Instrumental Thrash"
+      "Instrumental Thrash Metal"
     ]
   },
   {
@@ -2370,7 +2369,7 @@
         "year": "2005",
         "genres": [
           "Hard Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2385,7 +2384,7 @@
     "tags": [
       "Progressive Metal",
       "Hard Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -2399,14 +2398,14 @@
         "year": "2005",
         "genres": [
           "Heavy Metal",
-          "Goth Rock",
+          "Gothic Rock",
           "Gothic Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Goth Rock",
+      "Gothic Rock",
       "Gothic Metal"
     ]
   },
@@ -2542,26 +2541,26 @@
         "name": "Apocalypse Rising",
         "year": "2018",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Remnants",
         "year": "2021",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Melancholia",
         "year": "2022",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -2689,7 +2688,7 @@
         "year": "2017",
         "genres": [
           "Electronic",
-          "Noise Metal",
+          "Noise",
           "Punk"
         ]
       },
@@ -2701,7 +2700,7 @@
     ],
     "tags": [
       "Electronic",
-      "Noise Metal",
+      "Noise",
       "Punk"
     ]
   },
@@ -2738,13 +2737,13 @@
         "year": "2019",
         "genres": [
           "Sludge Metal",
-          "Doom Death"
+          "Death Doom Metal"
         ]
       }
     ],
     "tags": [
       "Sludge Metal",
-      "Doom Death"
+      "Death Doom Metal"
     ]
   },
   {
@@ -2771,40 +2770,40 @@
         "name": "Marshall Law",
         "year": "1983",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Scarred For Life",
         "year": "1986",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Methods Of Madness",
         "year": "1987",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Carnival Of Lies",
         "year": "2006",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
         "name": "Order Of Chaos",
         "year": "2012",
         "genres": [
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -2942,14 +2941,14 @@
         "genres": [
           "Electronic",
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Electronic",
       "Folk, World, & Country",
-      "Folk Metal",
+      "Folk",
       "Folk Rock",
       "Indie Rock",
       "Rock"
@@ -3824,14 +3823,14 @@
         "name": "Aurum",
         "year": "2017",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Argentum",
         "year": "2018",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
@@ -3848,7 +3847,6 @@
       }
     ],
     "tags": [
-      "Avantgarde Black",
       "Avant-garde Black Metal"
     ]
   },
@@ -4044,7 +4042,7 @@
         "genres": [
           "Progressive Metal",
           "Progressive Rock",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -4053,7 +4051,7 @@
         "genres": [
           "Progressive Metal",
           "Progressive Rock",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -4062,7 +4060,7 @@
         "genres": [
           "Progressive Metal",
           "Progressive Rock",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -4071,7 +4069,7 @@
         "genres": [
           "Progressive Metal",
           "Progressive Rock",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -4080,7 +4078,7 @@
         "genres": [
           "Progressive Metal",
           "Progressive Rock",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       },
       {
@@ -4089,14 +4087,14 @@
         "genres": [
           "Progressive Metal",
           "Progressive Rock",
-          "Oriental Folk"
+          "Oriental Folk Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
       "Progressive Rock",
-      "Oriental Folk"
+      "Oriental Folk Metal"
     ]
   },
   {

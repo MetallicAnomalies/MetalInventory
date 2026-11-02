@@ -461,26 +461,26 @@
         "name": "Desolate Messiah",
         "year": "2001",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Desire For Justice",
         "year": "2002",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Progressiiprocess",
         "year": "2007",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -937,7 +937,7 @@
         "genres": [
           "Black Metal",
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -946,7 +946,7 @@
         "genres": [
           "Black Metal",
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -955,7 +955,7 @@
         "genres": [
           "Black Metal",
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -964,14 +964,14 @@
         "genres": [
           "Black Metal",
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Black Metal",
       "Sludge Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1098,62 +1098,62 @@
         "name": "Terrors",
         "year": "2001",
         "genres": [
-          "Industrial Metal",
-          "J Rock"
+          "Industrial",
+          "J-Rock"
         ]
       },
       {
         "name": "Sexual Beast",
         "year": "2002",
         "genres": [
-          "Industrial Metal",
-          "J Rock"
+          "Industrial",
+          "J-Rock"
         ]
       },
       {
         "name": "Born",
         "year": "2004",
         "genres": [
-          "Industrial Metal",
-          "J Rock"
+          "Industrial",
+          "J-Rock"
         ]
       },
       {
         "name": "Coll:set",
         "year": "2005",
         "genres": [
-          "Industrial Metal",
-          "J Rock"
+          "Industrial",
+          "J-Rock"
         ]
       },
       {
         "name": "Mirror",
         "year": "2007",
         "genres": [
-          "Industrial Metal",
-          "J Rock"
+          "Industrial",
+          "J-Rock"
         ]
       },
       {
         "name": "Redeemer",
         "year": "2009",
         "genres": [
-          "Industrial Metal",
-          "J Rock"
+          "Industrial",
+          "J-Rock"
         ]
       },
       {
         "name": "Monsters",
         "year": "2010",
         "genres": [
-          "Industrial Metal",
-          "J Rock"
+          "Industrial",
+          "J-Rock"
         ]
       }
     ],
     "tags": [
-      "Industrial Metal",
-      "J Rock"
+      "Industrial",
+      "J-Rock"
     ]
   },
   {
@@ -1240,19 +1240,19 @@
         "name": "First Dinner",
         "year": "2005",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "Things As They Should Be",
         "year": "2008",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       }
     ],
     "tags": [
-      "Death Rock"
+      "Deathrock"
     ]
   },
   {
@@ -1279,14 +1279,14 @@
         "name": "Rivers Of Heresy",
         "year": "2023",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Sludge Metal",
           "Alternative"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Sludge Metal",
       "Alternative"
     ]
@@ -1353,19 +1353,19 @@
         "name": "Somnium Obmutum",
         "year": "1996",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       },
       {
         "name": "A Sombre Dance",
         "year": "1999",
         "genres": [
-          "Symphonic Doom"
+          "Symphonic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Doom"
+      "Symphonic Doom Metal"
     ]
   },
   {
@@ -1511,7 +1511,7 @@
         "genres": [
           "Alternative Metal",
           "Alternative Rock",
-          "Post-grunge",
+          "Post-Grunge",
           "Pop"
         ]
       },
@@ -1521,7 +1521,7 @@
         "genres": [
           "Alternative Metal",
           "Alternative Rock",
-          "Post-grunge",
+          "Post-Grunge",
           "Pop"
         ]
       }
@@ -1529,7 +1529,7 @@
     "tags": [
       "Alternative Metal",
       "Alternative Rock",
-      "Post-grunge",
+      "Post-Grunge",
       "Pop"
     ]
   },
@@ -1730,7 +1730,7 @@
           "Funk / Soul",
           "Dub",
           "Trip Hop",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Indie Pop",
           "Downtempo",
           "Electronic",
@@ -1752,7 +1752,7 @@
       "Funk / Soul",
       "Dub",
       "Trip Hop",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Indie Pop",
       "Downtempo",
       "Electronic",
@@ -1940,7 +1940,7 @@
         "year": "2023",
         "genres": [
           "Folk Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
@@ -1948,7 +1948,7 @@
     "tags": [
       "Rock",
       "Folk Rock",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -1960,13 +1960,13 @@
         "year": "1985",
         "genres": [
           "Heavy Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -2063,46 +2063,40 @@
         "name": "No Empathy Before Doomsday",
         "year": "2014",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Sanctuary",
         "year": "2015",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "To Shame Mankind",
         "year": "2017",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Way Of The Serpent",
         "year": "2018",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Sunbeat / Moonflow",
         "year": "2019",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {
@@ -2117,7 +2111,7 @@
           "Electronic",
           "Progressive Trance",
           "Downtempo",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
@@ -2125,7 +2119,7 @@
       "Electronic",
       "Progressive Trance",
       "Downtempo",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -2546,7 +2540,7 @@
         "year": "2017",
         "genres": [
           "Folk Rock",
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       },
@@ -2561,7 +2555,7 @@
     ],
     "tags": [
       "Folk Rock",
-      "Post Rock",
+      "Post-Rock",
       "Rock",
       "Alternative Rock",
       "Indie Rock"
@@ -2665,13 +2659,13 @@
         "year": "2007",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b"
+          "Contemporary R&B"
         ]
       }
     ],
     "tags": [
       "Funk / Soul",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Soul",
       "Hip Hop",
       "Rnb/swing",
@@ -2726,35 +2720,35 @@
         "name": "Mekong Delta",
         "year": "1987",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "The Gnom",
         "year": "1987",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "The Music Of Erich Zann",
         "year": "1988",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "The Principle Of Doubt",
         "year": "1989",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Dances Of Death",
         "year": "1990",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
@@ -2777,7 +2771,7 @@
         "name": "Kaleidoscope",
         "year": "1992",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
@@ -2785,7 +2779,7 @@
         "year": "1993",
         "genres": [
           "Progressive Metal",
-          "Prog Rock",
+          "Progressive Rock",
           "Thrash Metal",
           "Death Metal"
         ]
@@ -2794,7 +2788,7 @@
         "name": "Dance On A Volcano",
         "year": "1993",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
@@ -2809,14 +2803,14 @@
         "name": "Visions Fugitives",
         "year": "1994",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Pictures At An Exhibition",
         "year": "1997",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
@@ -2824,21 +2818,21 @@
         "year": "2005",
         "genres": [
           "Thrash Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
         "name": "Lurking Fear",
         "year": "2007",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Wanderer On The Edge Of Time",
         "year": "2010",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
@@ -2853,21 +2847,21 @@
         "name": "In A Mirror Darkly",
         "year": "2014",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Tales Of A Future Past",
         "year": "2020",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash",
+      "Progressive Thrash Metal",
       "Progressive Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Thrash Metal",
       "Death Metal"
     ]
@@ -2921,7 +2915,7 @@
         "name": "Gap In The Clouds",
         "year": "2024",
         "genres": [
-          "Instrumental Post-metal",
+          "Instrumental Post-Metal",
           "Post-Rock",
           "Atmospheric Rock"
         ]
@@ -2930,7 +2924,7 @@
         "name": "I May Be Some Time",
         "year": "2024",
         "genres": [
-          "Instrumental Post-metal",
+          "Instrumental Post-Metal",
           "Post-Rock",
           "Atmospheric Rock"
         ]
@@ -2942,7 +2936,7 @@
       }
     ],
     "tags": [
-      "Instrumental Post-metal",
+      "Instrumental Post-Metal",
       "Post-Rock",
       "Atmospheric Rock"
     ]
@@ -4494,26 +4488,26 @@
         "name": "Death'n'roll",
         "year": "2008",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Barfight Music",
         "year": "2012",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Iii",
         "year": "2015",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       }
     ],
     "tags": [
-      "Death 'N' Roll"
+      "Death 'n' Roll"
     ]
   },
   {
@@ -4714,26 +4708,26 @@
         "name": "The Ghost Next Door",
         "year": "2015",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "A Feast For The Sixth Sense",
         "year": "2019",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       },
       {
         "name": "Classic Songs About Death And Dismemberment",
         "year": "2024",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -4983,19 +4977,19 @@
         "name": "Check Disc Asshole",
         "year": "2003",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Misterioso",
         "year": "2004",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -5074,13 +5068,13 @@
         "year": "2012",
         "genres": [
           "Grindcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Grindcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {

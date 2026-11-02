@@ -41,19 +41,19 @@
         "name": "Ikarus Dream",
         "year": "1997",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Dividing Horizons",
         "year": "1999",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -299,7 +299,7 @@
         "name": "Ars Longa Vita Brevis",
         "year": "2013",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -307,7 +307,7 @@
         "name": "We Will Never Grow Up",
         "year": "2014",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -315,7 +315,7 @@
         "name": "Blood.death.suffering.pain",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -323,7 +323,7 @@
         "name": "The Thin Line Between Death And Immortality",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -331,13 +331,13 @@
         "name": "Touch These Wounds, I Came Back From Death",
         "year": "2019",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore"
     ]
   },
@@ -614,13 +614,13 @@
         "name": "Demon Bitch / White Magician",
         "year": "2026",
         "genres": [
-          "Heavy Metal | Heavy Metal",
+          "Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Heavy Metal | Heavy Metal",
+      "Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -897,12 +897,12 @@
         "name": "Step In The Machine",
         "year": "2015",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -914,7 +914,7 @@
         "year": "2017",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -922,7 +922,7 @@
         "year": "2020",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -930,13 +930,13 @@
         "year": "2023",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1090,7 +1090,7 @@
         "genres": [
           "Djent",
           "Deathcore",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Melodic Hardcore"
         ]
       }
@@ -1098,7 +1098,7 @@
     "tags": [
       "Djent",
       "Deathcore",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Melodic Hardcore"
     ]
   },
@@ -1714,14 +1714,14 @@
         "name": "Black Riders Part 1",
         "year": "2018",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Black Riders Part Ii",
         "year": "2019",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
@@ -1735,19 +1735,19 @@
         "name": "Medusas Head",
         "year": "2021",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "The Edge Of Times",
         "year": "2022",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power",
+      "Progressive Power Metal",
       "Progressive Rock"
     ]
   },
@@ -2097,14 +2097,10 @@
       {
         "name": "Rhodes Scholar",
         "year": "2026",
-        "genres": [
-          "Various"
-        ]
+        "genres": []
       }
     ],
-    "tags": [
-      "Various"
-    ]
+    "tags": []
   },
   {
     "normalizedName": "janiebecker",
@@ -2287,26 +2283,26 @@
         "name": "Kozh Dall Division",
         "year": "2017",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Memories",
         "year": "2018",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Deaf Mute",
         "year": "2022",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -2808,7 +2804,7 @@
         "year": "2022",
         "genres": [
           "Technical Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -2819,7 +2815,7 @@
     ],
     "tags": [
       "Technical Death Metal",
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -3469,14 +3465,14 @@
         "name": "Die Schönheit Der Einsamkeit",
         "year": "2004",
         "genres": [
-          "Neo Folk",
+          "Neofolk",
           "Melodic Black Metal",
           "Folk Metal"
         ]
       }
     ],
     "tags": [
-      "Neo Folk",
+      "Neofolk",
       "Melodic Black Metal",
       "Folk Metal"
     ]
@@ -3490,12 +3486,12 @@
         "name": "The Elven Dream",
         "year": "2021",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -3583,8 +3579,7 @@
           "Blackened Hardcore",
           "Grindcore",
           "Crust Punk",
-          "Black Metal",
-          "Crust Metal"
+          "Black Metal"
         ]
       }
     ],
@@ -3592,8 +3587,7 @@
       "Blackened Hardcore",
       "Grindcore",
       "Crust Punk",
-      "Black Metal",
-      "Crust Metal"
+      "Black Metal"
     ]
   },
   {
@@ -3837,8 +3831,7 @@
       }
     ],
     "tags": [
-      "Doom Metal",
-      "Metal"
+      "Doom Metal"
     ]
   },
   {
@@ -3933,7 +3926,7 @@
         "genres": [
           "Heavy Metal",
           "Math Rock",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3942,7 +3935,7 @@
         "genres": [
           "Heavy Metal",
           "Math Rock",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -3975,7 +3968,7 @@
       "Instrumental",
       "Heavy Metal",
       "Math Rock",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -4113,12 +4106,12 @@
         "name": "Scavengers",
         "year": "2013",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4318,13 +4311,13 @@
         "year": "2019",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -4657,7 +4650,7 @@
         "year": "2006",
         "genres": [
           "Gothic Metal",
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
@@ -4665,13 +4658,13 @@
         "year": "2007",
         "genres": [
           "Gothic Metal",
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       }
     ],
     "tags": [
       "Gothic Metal",
-      "Death 'N' Roll"
+      "Death 'n' Roll"
     ]
   },
   {

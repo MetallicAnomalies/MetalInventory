@@ -9,13 +9,13 @@
         "year": "2019",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -114,7 +114,6 @@
         "year": "2026",
         "genres": [
           "Alternative Rock",
-          "Metal",
           "Alternative Gothic Metal",
           "Gothic Metal"
         ]
@@ -122,7 +121,6 @@
     ],
     "tags": [
       "Alternative Rock",
-      "Metal",
       "Alternative Gothic Metal",
       "Gothic Metal"
     ]
@@ -278,12 +276,12 @@
         "name": "Marching Towards the Firmament... For Our Noble Blood",
         "year": "2026",
         "genres": [
-          "Black Metal | Black Metal"
+          "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Black Metal | Black Metal"
+      "Black Metal"
     ]
   },
   {
@@ -354,7 +352,7 @@
         "name": "Out:red",
         "year": "2008",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
@@ -366,7 +364,7 @@
       }
     ],
     "tags": [
-      "Atmospheric Death",
+      "Atmospheric Death Metal",
       "Melodic Death Metal",
       "Melodic Black Metal",
       "Death Metal"
@@ -430,21 +428,21 @@
         "name": "Rise Of The Phoenix",
         "year": "2010",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Cottbus",
         "year": "2011",
         "genres": [
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "You, Me & The Violence",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -452,7 +450,7 @@
         "name": "Personal War",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -460,7 +458,7 @@
         "name": "We Already Lost The World",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -468,7 +466,7 @@
         "name": "Gris Klein",
         "year": "2022",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -476,14 +474,14 @@
         "name": "Water Wings",
         "year": "2022",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -673,19 +671,19 @@
         "name": "Contradictum",
         "year": "2009",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Quantumx",
         "year": "2014",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -901,7 +899,7 @@
         "year": "1996",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -917,7 +915,7 @@
         "year": "1997",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -925,13 +923,13 @@
         "name": "Alone",
         "year": "2001",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Rock",
       "Art Rock"
     ]
@@ -987,7 +985,7 @@
         "year": "2016",
         "genres": [
           "Progressive Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -995,13 +993,13 @@
         "year": "2021",
         "genres": [
           "Progressive Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1014,7 +1012,7 @@
         "genres": [
           "Post-Metal",
           "Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1023,7 +1021,7 @@
         "genres": [
           "Post-Metal",
           "Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1032,7 +1030,7 @@
         "genres": [
           "Post-Metal",
           "Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -1041,14 +1039,14 @@
         "genres": [
           "Post-Metal",
           "Sludge Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Post-Metal",
       "Sludge Metal",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1233,7 +1231,7 @@
         "name": "Monuments",
         "year": "2011",
         "genres": [
-          "Progressive Sludge",
+          "Progressive Sludge Metal",
           "Instrumental"
         ]
       },
@@ -1241,7 +1239,7 @@
         "name": "Waiting In Waves",
         "year": "2012",
         "genres": [
-          "Progressive Sludge",
+          "Progressive Sludge Metal",
           "Instrumental"
         ]
       },
@@ -1249,7 +1247,7 @@
         "name": "Secret Snakes / Silent Serpent",
         "year": "2015",
         "genres": [
-          "Progressive Sludge",
+          "Progressive Sludge Metal",
           "Instrumental"
         ]
       },
@@ -1257,12 +1255,12 @@
         "name": "Designed To Disappear",
         "year": "2018",
         "genres": [
-          "Progressive Sludge"
+          "Progressive Sludge Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Sludge",
+      "Progressive Sludge Metal",
       "Instrumental"
     ]
   },
@@ -1454,7 +1452,7 @@
         "name": "Blood Rite",
         "year": "2020",
         "genres": [
-          "Doom Death"
+          "Death Doom Metal"
         ]
       },
       {
@@ -1502,7 +1500,7 @@
     ],
     "tags": [
       "Drone Metal",
-      "Doom Death",
+      "Death Doom Metal",
       "Free Jazz",
       "Grindcore"
     ]
@@ -1568,26 +1566,26 @@
         "name": "Sepulchral Magic",
         "year": "2014",
         "genres": [
-          "Blackened Speed"
+          "Blackened Speed Metal"
         ]
       },
       {
         "name": "Beyond The Realm",
         "year": "2019",
         "genres": [
-          "Blackened Speed"
+          "Blackened Speed Metal"
         ]
       },
       {
         "name": "Beneath The Crimson Prophecy",
         "year": "2023",
         "genres": [
-          "Blackened Speed"
+          "Blackened Speed Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Speed"
+      "Blackened Speed Metal"
     ]
   },
   {
@@ -2360,14 +2358,14 @@
         "name": "Turn The Hell On",
         "year": "1980",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Back With A Vengeance",
         "year": "1982",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -2379,7 +2377,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Metal"
     ]
   },
@@ -2459,26 +2457,26 @@
         "name": "купава",
         "year": "2008",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Chthonica",
         "year": "2012",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Khemosynthesis",
         "year": "2014",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -3112,7 +3110,7 @@
         "year": "2015",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3121,7 +3119,7 @@
         "genres": [
           "Melodic Hardcore",
           "Electronic",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3129,7 +3127,7 @@
         "year": "2019",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3137,7 +3135,7 @@
         "year": "2019",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -3145,7 +3143,7 @@
         "year": "2022",
         "genres": [
           "Djent",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore",
           "Melodic Hardcore"
         ]
@@ -3154,7 +3152,7 @@
     "tags": [
       "Melodic Hardcore",
       "Electronic",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Metalcore",
       "Djent"
     ]
@@ -3259,7 +3257,7 @@
         "genres": [
           "Hard Rock",
           "Symphonic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3270,7 +3268,7 @@
           "Progressive Metal",
           "Art Rock",
           "Symphonic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3286,7 +3284,7 @@
       "Progressive Metal",
       "Art Rock",
       "Symphonic Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Hard Rock",
       "Rock",
       "Heavy Metal",
@@ -3800,33 +3798,33 @@
         "name": "Hate At First Seed",
         "year": "2004",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Antebellum Death'n Roll",
         "year": "2006",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Cornerstone Of The Macabre",
         "year": "2008",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Scornful Of Icons",
         "year": "2016",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       }
     ],
     "tags": [
-      "Death 'N' Roll"
+      "Death 'n' Roll"
     ]
   },
   {
@@ -4124,7 +4122,7 @@
         "genres": [
           "House",
           "Electronic",
-          "Electro Metal"
+          "Electro"
         ]
       },
       {
@@ -4194,7 +4192,7 @@
       "Synth-pop",
       "Soft Rock",
       "House",
-      "Electro Metal",
+      "Electro",
       "Jazz",
       "Swing",
       "Holiday"
@@ -4768,15 +4766,13 @@
         "year": "2018",
         "genres": [
           "Post-Black Metal",
-          "Death Doom Metal",
-          "Post-black Metal"
+          "Death Doom Metal"
         ]
       }
     ],
     "tags": [
       "Post-Black Metal",
-      "Death Doom Metal",
-      "Post-black Metal"
+      "Death Doom Metal"
     ]
   },
   {
@@ -5326,13 +5322,13 @@
         "year": "2026",
         "genres": [
           "Black Metal",
-          "Crust"
+          "Crust Punk"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Crust"
+      "Crust Punk"
     ]
   },
   {

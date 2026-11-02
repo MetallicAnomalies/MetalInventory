@@ -4,6 +4,7 @@ import sys
 
 # Import normalize functions from enrich.py
 from enrich import normalize, shard_key
+from genres import normalise_artist
 
 def main():
     workspace = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -101,7 +102,9 @@ def main():
                 for g in genres:
                     if g not in artist_entry.setdefault("tags", []):
                         artist_entry["tags"].append(g)
-                        
+
+                normalise_artist(artist_entry)
+
                 added_albums += 1
                 shard_modified = True
                 

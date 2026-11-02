@@ -111,7 +111,7 @@
         "year": "2004",
         "genres": [
           "Symphonic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Hard Rock",
           "Rock",
           "Celtic Metal",
@@ -157,7 +157,7 @@
       "Sludge Metal",
       "Drone Metal",
       "Symphonic Rock",
-      "Prog Rock",
+      "Progressive Rock",
       "Hard Rock",
       "Celtic Metal",
       "Folk, World, & Country",
@@ -566,7 +566,7 @@
         "name": "Centers",
         "year": "1997",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -574,13 +574,13 @@
         "name": "Fortune Teller",
         "year": "1997",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy",
+      "Progressive Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -679,19 +679,19 @@
         "name": "Evolution?",
         "year": "2009",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Black Flag",
         "year": "2012",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -2051,7 +2051,7 @@
         "genres": [
           "Melodic Hardcore",
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -2079,7 +2079,7 @@
         "name": "Ark",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -2092,10 +2092,10 @@
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore",
       "Melodic Hardcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -2396,30 +2396,26 @@
         "name": "Eigenlicht",
         "year": "2020",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Metu Mortis",
         "year": "2021",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Thanatos",
         "year": "2021",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {
@@ -2433,7 +2429,7 @@
           "Death Metal",
           "Industrial Metal",
           "Black Metal",
-          "Ebm",
+          "EBM",
           "Hard Rock"
         ]
       },
@@ -2444,7 +2440,7 @@
           "Death Metal",
           "Industrial Metal",
           "Black Metal",
-          "Ebm",
+          "EBM",
           "Hard Rock"
         ]
       },
@@ -2455,7 +2451,7 @@
           "Death Metal",
           "Industrial Metal",
           "Black Metal",
-          "Ebm",
+          "EBM",
           "Hard Rock"
         ]
       },
@@ -2466,7 +2462,7 @@
           "Death Metal",
           "Industrial Metal",
           "Black Metal",
-          "Ebm",
+          "EBM",
           "Hard Rock"
         ]
       },
@@ -2490,10 +2486,9 @@
       "Death Metal",
       "Industrial Metal",
       "Black Metal",
-      "Ebm",
+      "EBM",
       "Hard Rock",
       "Industrial Rock",
-      "EBM",
       "Electronic Industrial Rock",
       "Melodic Groove Metal"
     ]
@@ -2804,7 +2799,7 @@
         "genres": [
           "Art Rock",
           "Symphonic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2812,7 +2807,7 @@
         "name": "Under A New Sign",
         "year": "2007",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2822,7 +2817,7 @@
         "genres": [
           "Art Rock",
           "Symphonic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2830,7 +2825,7 @@
         "name": "Rising Signs From The Shadows",
         "year": "2010",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2838,7 +2833,7 @@
         "name": "Nine Paths",
         "year": "2011",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2846,7 +2841,7 @@
         "name": "Hyperdrive",
         "year": "2014",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2855,7 +2850,7 @@
         "year": "2017",
         "genres": [
           "Symphonic Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -2864,13 +2859,13 @@
         "year": "2019",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Symphonic Rock",
       "Art Rock",
       "Rock"
@@ -3176,7 +3171,7 @@
         "name": "Eros & Thanatos",
         "year": "2026",
         "genres": [
-          "Doom Death Metal",
+          "Death Doom Metal",
           "Death Metal"
         ]
       },
@@ -3189,7 +3184,7 @@
       }
     ],
     "tags": [
-      "Doom Death Metal",
+      "Death Doom Metal",
       "Death Metal"
     ]
   },
@@ -3554,14 +3549,14 @@
         "name": "Passé Décomposé",
         "year": "2009",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Gothic Metal",
           "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Gothic Metal",
       "Death Metal"
     ]
@@ -3633,8 +3628,8 @@
         "name": "Harmonic",
         "year": "2012",
         "genres": [
-          "Post-hardcore",
-          "Experimental Sludge",
+          "Post-Hardcore",
+          "Experimental Sludge Metal",
           "Fusion",
           "Progressive Metal"
         ]
@@ -3643,8 +3638,8 @@
         "name": "Fire From The Evening Sun",
         "year": "2014",
         "genres": [
-          "Post-hardcore",
-          "Experimental Sludge",
+          "Post-Hardcore",
+          "Experimental Sludge Metal",
           "Fusion",
           "Progressive Metal"
         ]
@@ -3653,16 +3648,16 @@
         "name": "Time Burner",
         "year": "2021",
         "genres": [
-          "Post-hardcore",
-          "Experimental Sludge",
+          "Post-Hardcore",
+          "Experimental Sludge Metal",
           "Fusion",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Post-hardcore",
-      "Experimental Sludge",
+      "Post-Hardcore",
+      "Experimental Sludge Metal",
       "Fusion",
       "Progressive Metal"
     ]
@@ -3858,7 +3853,7 @@
         "year": "1995",
         "genres": [
           "Folk, World, & Country",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3867,7 +3862,7 @@
         "year": "1995",
         "genres": [
           "Folk, World, & Country",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -3876,14 +3871,14 @@
         "year": "1995",
         "genres": [
           "Folk, World, & Country",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Folk, World, & Country",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -4386,7 +4381,7 @@
         "year": "2012",
         "genres": [
           "Post-Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4394,7 +4389,7 @@
         "year": "2014",
         "genres": [
           "Post-Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4402,7 +4397,7 @@
         "year": "2016",
         "genres": [
           "Post-Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4410,13 +4405,13 @@
         "year": "2019",
         "genres": [
           "Post-Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Post-Metal",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -4624,12 +4619,12 @@
         "name": "Julma Satu",
         "year": "2009",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Power"
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -4641,7 +4636,7 @@
         "name": "Soldiers Of Sunrise",
         "year": "1987",
         "genres": [
-          "Melodic Power",
+          "Melodic Power Metal",
           "Speed Metal",
           "Thrash Metal"
         ]
@@ -4650,7 +4645,7 @@
         "name": "Theatre Of Fate",
         "year": "1989",
         "genres": [
-          "Melodic Power",
+          "Melodic Power Metal",
           "Speed Metal",
           "Thrash Metal"
         ]
@@ -4659,7 +4654,7 @@
         "name": "Evolution",
         "year": "1992",
         "genres": [
-          "Melodic Power",
+          "Melodic Power Metal",
           "Speed Metal",
           "Thrash Metal"
         ]
@@ -4668,7 +4663,7 @@
         "name": "Vipera Sapiens",
         "year": "1992",
         "genres": [
-          "Melodic Power",
+          "Melodic Power Metal",
           "Speed Metal",
           "Thrash Metal"
         ]
@@ -4677,7 +4672,7 @@
         "name": "Coma Rage",
         "year": "1995",
         "genres": [
-          "Melodic Power",
+          "Melodic Power Metal",
           "Speed Metal",
           "Thrash Metal"
         ]
@@ -4686,7 +4681,7 @@
         "name": "Tem Pra Todo Mundo",
         "year": "1996",
         "genres": [
-          "Melodic Power",
+          "Melodic Power Metal",
           "Speed Metal",
           "Thrash Metal"
         ]
@@ -4695,7 +4690,7 @@
         "name": "All My Life",
         "year": "2007",
         "genres": [
-          "Melodic Power",
+          "Melodic Power Metal",
           "Speed Metal",
           "Thrash Metal"
         ]
@@ -4704,14 +4699,14 @@
         "name": "Timeless",
         "year": "2023",
         "genres": [
-          "Melodic Power",
+          "Melodic Power Metal",
           "Speed Metal",
           "Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Power",
+      "Melodic Power Metal",
       "Speed Metal",
       "Thrash Metal"
     ]
@@ -4743,13 +4738,13 @@
         "year": "2024",
         "genres": [
           "Progressive Death Metal",
-          "Blackened Folk"
+          "Blackened Folk Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Death Metal",
-      "Blackened Folk"
+      "Blackened Folk Metal"
     ]
   },
   {
@@ -4813,35 +4808,35 @@
         "name": "Give 'Em Hell",
         "year": "1980",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Stagefright",
         "year": "1980",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Cloak And Dagger",
         "year": "1983",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Anthems",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Lords Of Sin",
         "year": "1984",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -4860,7 +4855,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal"
     ]
   },
@@ -4875,14 +4870,14 @@
         "genres": [
           "Experimental Metal",
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Experimental Metal",
       "Metalcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -4918,7 +4913,7 @@
         "year": "2009",
         "genres": [
           "Drone Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4926,7 +4921,7 @@
         "year": "2012",
         "genres": [
           "Drone Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -4934,13 +4929,13 @@
         "year": "2016",
         "genres": [
           "Drone Doom Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Drone Doom Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {

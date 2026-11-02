@@ -580,13 +580,13 @@
         "name": "Assjack",
         "year": "2009",
         "genres": [
-          "Country Metal",
+          "Country",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Country Metal",
+      "Country",
       "Rock"
     ]
   },
@@ -944,7 +944,7 @@
         "genres": [
           "Acoustic",
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       },
       {
@@ -959,7 +959,7 @@
     "tags": [
       "Acoustic",
       "Folk, World, & Country",
-      "Folk Metal",
+      "Folk",
       "Pop"
     ]
   },
@@ -1688,19 +1688,19 @@
         "name": "A Fantasy Tale On Music",
         "year": "2019",
         "genres": [
-          "Symphonic Progressive"
+          "Symphonic Progressive Metal"
         ]
       },
       {
         "name": "Trinity Of Evil",
         "year": "2021",
         "genres": [
-          "Symphonic Progressive"
+          "Symphonic Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Progressive",
+      "Symphonic Progressive Metal",
       "Progressive Metal"
     ]
   },
@@ -1934,12 +1934,12 @@
         "name": "Holy Force",
         "year": "2011",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Power"
+      "Neoclassical Power Metal"
     ]
   },
   {
@@ -1952,7 +1952,7 @@
         "year": "2018",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -1960,13 +1960,13 @@
         "year": "2019",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -2043,131 +2043,131 @@
         "name": "In Contrast Of Sin",
         "year": "1990",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Scar Of A Woman",
         "year": "1991",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Those Who Fear Tomorrow",
         "year": "1991",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Systems Overload",
         "year": "1995",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Systems Overload Promo",
         "year": "1995",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Humanity Is The Devil",
         "year": "1996",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Seasons In The Size Of Days",
         "year": "1997",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Integrity 2000",
         "year": "1999",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Split",
         "year": "1999",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Project: Regenesis",
         "year": "2000",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Closure",
         "year": "2001",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "To Die For",
         "year": "2003",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "The Blackest Curse",
         "year": "2010",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "We Are The End",
         "year": "2010",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Burning Flesh Children To Mist",
         "year": "2013",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Suicide Black Snake",
         "year": "2013",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Howling, For The Nightmare Shall Consume",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "I.n.t.e.g.2k.18",
         "year": "2018",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2308,7 +2308,7 @@
         "name": "Dragons Kiss",
         "year": "1988",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal",
           "Heavy Metal"
         ]
@@ -2317,7 +2317,7 @@
         "name": "Scenes",
         "year": "1992",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal"
         ]
       },
@@ -2325,7 +2325,7 @@
         "name": "Introduction",
         "year": "1995",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal"
         ]
       },
@@ -2333,7 +2333,7 @@
         "name": "True Obsessions",
         "year": "1996",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal"
         ]
       },
@@ -2341,7 +2341,7 @@
         "name": "Music For Speeding",
         "year": "2002",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal"
         ]
       },
@@ -2349,7 +2349,7 @@
         "name": "Loudspeaker",
         "year": "2006",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal"
         ]
       },
@@ -2357,7 +2357,7 @@
         "name": "Future Addict",
         "year": "2008",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal"
         ]
       },
@@ -2365,7 +2365,7 @@
         "name": "Tokyo Jukebox",
         "year": "2009",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal"
         ]
       },
@@ -2373,7 +2373,7 @@
         "name": "Bad D.n.a.",
         "year": "2010",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal"
         ]
       },
@@ -2381,7 +2381,7 @@
         "name": "Tokyo Jukebox 2",
         "year": "2011",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal"
         ]
       },
@@ -2389,7 +2389,7 @@
         "name": "Inferno",
         "year": "2014",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal"
         ]
       },
@@ -2397,7 +2397,7 @@
         "name": "Wall Of Sound",
         "year": "2017",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal"
         ]
       },
@@ -2405,7 +2405,7 @@
         "name": "Tokyo Jukebox 3",
         "year": "2020",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal"
         ]
       },
@@ -2413,13 +2413,13 @@
         "name": "Drama",
         "year": "2024",
         "genres": [
-          "Neoclassical Heavy",
+          "Neoclassical Heavy Metal",
           "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Heavy",
+      "Neoclassical Heavy Metal",
       "Progressive Metal",
       "Heavy Metal"
     ]
@@ -3025,7 +3025,7 @@
         "year": "2011",
         "genres": [
           "Black Metal",
-          "Black 'N Roll"
+          "Black 'n' Roll"
         ]
       },
       {
@@ -3033,13 +3033,13 @@
         "year": "2016",
         "genres": [
           "Black Metal",
-          "Black 'N Roll"
+          "Black 'n' Roll"
         ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Black 'N Roll"
+      "Black 'n' Roll"
     ]
   },
   {
@@ -3348,8 +3348,7 @@
         "genres": [
           "Black Metal",
           "Death Metal",
-          "Melodic Death Metal",
-          "Metal"
+          "Melodic Death Metal"
         ]
       }
     ],
@@ -3359,8 +3358,7 @@
       "Speed Metal",
       "Heavy Metal",
       "Black Metal",
-      "Melodic Death Metal",
-      "Metal"
+      "Melodic Death Metal"
     ]
   },
   {
@@ -3709,13 +3707,13 @@
         "year": "2005",
         "genres": [
           "Electronic",
-          "Drum N Bass"
+          "Drum & Bass"
         ]
       }
     ],
     "tags": [
       "Electronic",
-      "Drum N Bass"
+      "Drum & Bass"
     ]
   },
   {
@@ -3951,7 +3949,7 @@
         "name": "None Of This Is Real",
         "year": "2015",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       },
@@ -3959,13 +3957,13 @@
         "name": "Meridiem",
         "year": "2019",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Heavy Metal"
     ]
   },
@@ -3995,131 +3993,131 @@
         "name": "Live And Death",
         "year": "2003",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Lowest Of The Low",
         "year": "2003",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Life & Death - The Demo",
         "year": "2004",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "One With The Underdogs",
         "year": "2004",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Always The Hard Way",
         "year": "2006",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Rhythm Amongst The Chaos",
         "year": "2007",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "The Damned, The Shamed",
         "year": "2008",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "The Rise Of The Poisoned Youth - Blood Tracks Demos",
         "year": "2009",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "K.o.t.f.",
         "year": "2010",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Keepers Of The Faith",
         "year": "2010",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Live By The Code",
         "year": "2013",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Live In Seattle",
         "year": "2014",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "The Twenty Fifth Hour",
         "year": "2015",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "The Walls Will Fall",
         "year": "2017",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Total Retaliation",
         "year": "2018",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Sink To The Hell",
         "year": "2020",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Trapped In A World",
         "year": "2021",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Pain Into Power",
         "year": "2022",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4132,7 +4130,7 @@
         "year": "1991",
         "genres": [
           "Funk / Soul",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Hip Hop",
           "Soul"
         ]
@@ -4150,7 +4148,7 @@
       "Hip Hop",
       "Rnb/swing",
       "Funk / Soul",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Soul"
     ]
   },
@@ -4506,64 +4504,64 @@
         "name": "The Apple Of Every Eye",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "The Sky May Be",
         "year": "2018",
         "genres": [
-          "Noise Metal"
+          "Noise"
         ]
       },
       {
         "name": "The Absolute",
         "year": "2019",
         "genres": [
-          "Death Industrial"
+          "Death Industrial Metal"
         ]
       },
       {
         "name": "The Origin Of My Depression",
         "year": "2019",
         "genres": [
-          "Death Industrial"
+          "Death Industrial Metal"
         ]
       },
       {
         "name": "The Psychoses",
         "year": "2019",
         "genres": [
-          "Death Industrial"
+          "Death Industrial Metal"
         ]
       },
       {
         "name": "The Flesh Of The World",
         "year": "2020",
         "genres": [
-          "Death Industrial"
+          "Death Industrial Metal"
         ]
       },
       {
         "name": "Impossible Light",
         "year": "2024",
         "genres": [
-          "Death Industrial"
+          "Death Industrial Metal"
         ]
       },
       {
         "name": "All The Dead Melt Down As Rain",
         "year": "2025",
         "genres": [
-          "Death Industrial"
+          "Death Industrial Metal"
         ]
       }
     ],
     "tags": [
-      "Death Industrial",
+      "Death Industrial Metal",
       "Dark Ambient",
       "Sludge Metal",
-      "Noise Metal"
+      "Noise"
     ]
   },
   {
@@ -4597,33 +4595,33 @@
         "name": "The Beginning",
         "year": "2016",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "M 'N' R",
         "year": "2018",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Circle",
         "year": "2022",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Kave",
         "year": "2024",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       }
     ],
     "tags": [
-      "Death 'N' Roll"
+      "Death 'n' Roll"
     ]
   },
   {
@@ -4635,12 +4633,12 @@
         "name": "Deimos Xiii",
         "year": "2003",
         "genres": [
-          "Industrial Doom"
+          "Industrial Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Industrial Doom"
+      "Industrial Doom Metal"
     ]
   },
   {
@@ -4651,12 +4649,12 @@
         "name": "Wortgeburt",
         "year": "2010",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {

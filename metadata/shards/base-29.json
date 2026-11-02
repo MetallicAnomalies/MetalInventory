@@ -58,7 +58,7 @@
         "name": "All Pigs Must Die",
         "year": "2010",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore"
         ]
       },
@@ -66,7 +66,7 @@
         "name": "God Is War",
         "year": "2011",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore"
         ]
       },
@@ -74,7 +74,7 @@
         "name": "Curse Of Humanity / Extinction Is Ours",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore"
         ]
       },
@@ -82,7 +82,7 @@
         "name": "Nothing Violates This Nature",
         "year": "2013",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore"
         ]
       },
@@ -90,7 +90,7 @@
         "name": "Silencer",
         "year": "2013",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore"
         ]
       },
@@ -98,7 +98,7 @@
         "name": "A Caustic Vision",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore"
         ]
       },
@@ -106,13 +106,13 @@
         "name": "Hostage Animal",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Grindcore"
     ]
   },
@@ -161,7 +161,7 @@
         "name": "Im Losing Myself",
         "year": "2019",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Atmospheric Black Metal"
         ]
       },
@@ -169,12 +169,12 @@
         "name": "Self Titled",
         "year": "2020",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Atmospheric Black Metal"
     ]
   },
@@ -259,9 +259,9 @@
         "name": "Someone, Somewhere",
         "year": "2011",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Heavy Metal",
-          "Electro Metal",
+          "Electro",
           "Electronic"
         ]
       },
@@ -348,11 +348,10 @@
     "tags": [
       "Melodic Metalcore",
       "Metalcore",
-      "Metal",
       "Heavy Metal",
       "Hard Rock",
-      "Hardcore Metal",
-      "Electro Metal",
+      "Hardcore",
+      "Electro",
       "Electronic",
       "Rock"
     ]
@@ -653,7 +652,7 @@
         "name": "1999",
         "year": "1999",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Progressive Rock"
         ]
       },
@@ -661,7 +660,7 @@
         "name": "2000",
         "year": "2000",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Progressive Rock"
         ]
       },
@@ -669,7 +668,7 @@
         "name": "100 Worlds",
         "year": "2004",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Progressive Rock"
         ]
       },
@@ -677,7 +676,7 @@
         "name": "The Force Within",
         "year": "2007",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Progressive Rock"
         ]
       },
@@ -685,13 +684,13 @@
         "name": "The Video Chronicles",
         "year": "2014",
         "genres": [
-          "Progressive Heavy",
+          "Progressive Heavy Metal",
           "Progressive Rock"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy",
+      "Progressive Heavy Metal",
       "Progressive Rock"
     ]
   },
@@ -1421,13 +1420,13 @@
         "year": "2008",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1505,22 +1504,22 @@
         "name": "Ego Death",
         "year": "2016",
         "genres": [
-          "Progressive Sludge",
-          "Psychedelic Doom"
+          "Progressive Sludge Metal",
+          "Psychedelic Doom Metal"
         ]
       },
       {
         "name": "Animals",
         "year": "2024",
         "genres": [
-          "Progressive Sludge",
-          "Psychedelic Doom"
+          "Progressive Sludge Metal",
+          "Psychedelic Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Sludge",
-      "Psychedelic Doom"
+      "Progressive Sludge Metal",
+      "Psychedelic Doom Metal"
     ]
   },
   {
@@ -1531,33 +1530,33 @@
         "name": "Fantômas",
         "year": "1999",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "The Director's Cut",
         "year": "2001",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Delìrium Còrdia",
         "year": "2004",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Suspended Animation",
         "year": "2005",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -1917,7 +1916,7 @@
         "year": "2014",
         "genres": [
           "Sludge Metal",
-          "Post Rock"
+          "Post-Rock"
         ]
       },
       {
@@ -1952,7 +1951,7 @@
     "tags": [
       "Post-Metal",
       "Sludge Metal",
-      "Post Rock"
+      "Post-Rock"
     ]
   },
   {
@@ -2122,7 +2121,7 @@
         "name": "Heilig Land",
         "year": "2016",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -2130,7 +2129,7 @@
         "name": "Zon",
         "year": "2016",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -2138,7 +2137,7 @@
         "name": "Euprosopon",
         "year": "2018",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -2146,7 +2145,7 @@
         "name": "Gelderse Poort",
         "year": "2020",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -2154,7 +2153,7 @@
         "name": "Vergezicht",
         "year": "2021",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -2162,7 +2161,7 @@
         "name": "Glas",
         "year": "2022",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -2184,7 +2183,7 @@
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Black Metal",
       "Gothic Rock",
       "Folk Gothic Rock"
@@ -2494,38 +2493,38 @@
         "name": "D.é.o.m.é.",
         "year": "2018",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Chamber",
           "Progressive Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Have Heart, Waste Flesh",
         "year": "2020",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Chamber",
           "Progressive Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Requiem",
         "year": "2024",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Chamber",
           "Progressive Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Chamber",
       "Progressive Metal",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -2536,7 +2535,7 @@
         "name": "Ars Arcanvm Vodvm",
         "year": "2017",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -2544,13 +2543,13 @@
         "name": "La Société Satanique Des Poètes Morts",
         "year": "2021",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Black Metal"
     ]
   },
@@ -2735,13 +2734,13 @@
         "year": "2017",
         "genres": [
           "Progressive Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -2999,7 +2998,6 @@
           "Progressive Metal",
           "Pop Rock",
           "Pop",
-          "Prog Rock",
           "Rock"
         ]
       },
@@ -3176,7 +3174,7 @@
         "year": "2023",
         "genres": [
           "Gospel",
-          "Prog Rock",
+          "Progressive Rock",
           "Art Rock",
           "Folk, World, & Country",
           "Rock"
@@ -3219,7 +3217,6 @@
       "Progressive Rock",
       "Progressive Metal",
       "Gospel",
-      "Prog Rock",
       "Art Rock",
       "Folk, World, & Country",
       "Pop Rock",
@@ -3348,7 +3345,7 @@
           "Crunk",
           "Funk / Soul",
           "Conscious",
-          "P.funk",
+          "P-Funk",
           "Hip Hop",
           "Pop Rap"
         ]
@@ -3360,7 +3357,7 @@
           "Future Jazz",
           "Funk / Soul",
           "Conscious",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Electronic",
           "Neo Soul",
           "Hip Hop",
@@ -3375,7 +3372,7 @@
       "Future Jazz",
       "Funk / Soul",
       "Conscious",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Electronic",
       "Neo Soul",
       "Hip Hop",
@@ -3385,7 +3382,7 @@
       "Pop Rap",
       "Gangsta",
       "Crunk",
-      "P.funk"
+      "P-Funk"
     ]
   },
   {
@@ -3476,13 +3473,13 @@
         "year": "2006",
         "genres": [
           "Hard Rock",
-          "Alternative  Rock"
+          "Alternative Rock"
         ]
       }
     ],
     "tags": [
       "Hard Rock",
-      "Alternative  Rock"
+      "Alternative Rock"
     ]
   },
   {
@@ -3619,47 +3616,47 @@
         "name": "Rococo Holocaust",
         "year": "2010",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Hyperblast Super Collider",
         "year": "2013",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Blastbit Rococollider",
         "year": "2014",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Futurologie",
         "year": "2015",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Diabolicus Felinae Pandemonium",
         "year": "2017",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
         "name": "Epic Loon Ost",
         "year": "2018",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -3745,7 +3742,7 @@
         "name": "Malice In Wonderland",
         "year": "1998",
         "genres": [
-          "Epic Folk",
+          "Epic Folk Metal",
           "Black Metal"
         ]
       },
@@ -3753,7 +3750,7 @@
         "name": "Endless Conflict Theorem",
         "year": "2001",
         "genres": [
-          "Epic Folk",
+          "Epic Folk Metal",
           "Black Metal"
         ]
       },
@@ -3855,7 +3852,7 @@
       "Atmospheric Black Metal",
       "Black Metal",
       "Industrial Metal",
-      "Epic Folk"
+      "Epic Folk Metal"
     ]
   },
   {
@@ -3868,7 +3865,7 @@
         "genres": [
           "Doom Metal",
           "Folk Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3877,7 +3874,7 @@
         "genres": [
           "Doom Metal",
           "Folk Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3886,7 +3883,7 @@
         "genres": [
           "Doom Metal",
           "Folk Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3895,7 +3892,7 @@
         "genres": [
           "Doom Metal",
           "Folk Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -3904,14 +3901,14 @@
         "genres": [
           "Doom Metal",
           "Folk Metal",
-          "Ambient Metal"
+          "Ambient"
         ]
       }
     ],
     "tags": [
       "Doom Metal",
       "Folk Metal",
-      "Ambient Metal"
+      "Ambient"
     ]
   },
   {
@@ -4469,12 +4466,12 @@
         "name": "Foreseen",
         "year": "2019",
         "genres": [
-          "Progressive Heavy"
+          "Progressive Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Heavy"
+      "Progressive Heavy Metal"
     ]
   },
   {
@@ -4567,7 +4564,7 @@
         "name": "Use Once & Destroy",
         "year": "2002",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Southern Rock",
           "Heavy Metal"
         ]
@@ -4589,7 +4586,7 @@
     ],
     "tags": [
       "Sludge Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Southern Rock",
       "Heavy Metal"
     ]
@@ -4756,9 +4753,9 @@
         "year": "1999",
         "genres": [
           "Electronic",
-          "Ambient Metal",
+          "Ambient",
           "Big Beat",
-          "Electro Metal"
+          "Electro"
         ]
       },
       {
@@ -4774,9 +4771,9 @@
       "Pop Rock",
       "Rock",
       "Electronic",
-      "Ambient Metal",
+      "Ambient",
       "Big Beat",
-      "Electro Metal"
+      "Electro"
     ]
   },
   {
@@ -4790,7 +4787,7 @@
         "genres": [
           "Black Metal",
           "Doom Metal",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Sludge Metal"
         ]
       },
@@ -4803,7 +4800,7 @@
     "tags": [
       "Black Metal",
       "Doom Metal",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Sludge Metal"
     ]
   },
@@ -5004,26 +5001,26 @@
         "name": "Hand That Feeds",
         "year": "2003",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "From Sacred To Profane",
         "year": "2008",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Burnt Cradles",
         "year": "2018",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -5065,12 +5062,12 @@
         "name": "Chapter I: Apocryphus",
         "year": "2024",
         "genres": [
-          "Melodic  Black"
+          "Melodic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic  Black"
+      "Melodic Black Metal"
     ]
   },
   {

@@ -142,7 +142,7 @@
         "name": "Welcome To The Stage",
         "year": "1996",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -219,7 +219,7 @@
     ],
     "tags": [
       "Progressive Metal",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -694,13 +694,13 @@
         "year": "2015",
         "genres": [
           "Industrial Rock",
-          "Industrial Metal"
+          "Industrial"
         ]
       }
     ],
     "tags": [
       "Industrial Rock",
-      "Industrial Metal"
+      "Industrial"
     ]
   },
   {
@@ -958,14 +958,14 @@
         "name": "Burst",
         "year": "1995",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Shadowcaster",
         "year": "1996",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -973,7 +973,7 @@
         "name": "Two Faced",
         "year": "1997",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore"
         ]
       },
@@ -982,7 +982,7 @@
         "year": "2000",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -990,14 +990,14 @@
         "year": "2002",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "Prey On Life",
         "year": "2003",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Progressive Metalcore"
         ]
       },
@@ -1005,7 +1005,7 @@
         "name": "Origo",
         "year": "2005",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Progressive Metalcore"
         ]
       },
@@ -1013,16 +1013,16 @@
         "name": "Lazarus Bird",
         "year": "2008",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Progressive Metalcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Progressive Metalcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -1346,12 +1346,12 @@
         "name": "Face It",
         "year": "1995",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -1364,13 +1364,13 @@
         "year": "2016",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1381,7 +1381,7 @@
         "name": "Ascend From The Cauldron",
         "year": "1988",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Speed Metal"
         ]
       },
@@ -1389,13 +1389,13 @@
         "name": "Deadly Blessing",
         "year": "1988",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Speed Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Speed Metal"
     ]
   },
@@ -1408,21 +1408,21 @@
         "name": "Moonlit Forest",
         "year": "2022",
         "genres": [
-          "Ambient Metal",
+          "Ambient",
           "Electronic",
-          "Experimental Metal",
-          "Drone Metal",
-          "Post Rock",
+          "Experimental",
+          "Drone",
+          "Post-Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Ambient Metal",
+      "Ambient",
       "Electronic",
-      "Experimental Metal",
-      "Drone Metal",
-      "Post Rock",
+      "Experimental",
+      "Drone",
+      "Post-Rock",
       "Rock"
     ]
   },
@@ -1459,7 +1459,7 @@
         "year": "2007",
         "genres": [
           "Melodic Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -1467,7 +1467,7 @@
         "year": "2011",
         "genres": [
           "Melodic Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -1475,7 +1475,7 @@
         "year": "2014",
         "genres": [
           "Melodic Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
@@ -1483,13 +1483,13 @@
         "year": "2019",
         "genres": [
           "Melodic Death Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -1541,7 +1541,7 @@
         "name": "Karov",
         "year": "1989",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Alternative Rock",
           "Folk, World, & Country",
           "Folk Rock"
@@ -1666,7 +1666,7 @@
       }
     ],
     "tags": [
-      "Folk Metal",
+      "Folk",
       "Alternative Rock",
       "Folk, World, & Country",
       "Folk Rock",
@@ -1967,13 +1967,13 @@
         "name": "Decades In A Bleeding World",
         "year": "2004",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Death Metal"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Death Metal"
     ]
   },
@@ -2111,8 +2111,8 @@
         "name": "Breach Birth",
         "year": "1990",
         "genres": [
-          "Industrial Metal",
-          "Avantgarde Metal",
+          "Industrial",
+          "Avant-garde",
           "Free Jazz"
         ]
       },
@@ -2120,8 +2120,8 @@
         "name": "Possession",
         "year": "1992",
         "genres": [
-          "Industrial Metal",
-          "Avantgarde Metal",
+          "Industrial",
+          "Avant-garde",
           "Free Jazz"
         ]
       },
@@ -2129,8 +2129,8 @@
         "name": "The Anatomy Of Addiction",
         "year": "1994",
         "genres": [
-          "Industrial Metal",
-          "Avantgarde Metal",
+          "Industrial",
+          "Avant-garde",
           "Free Jazz"
         ]
       },
@@ -2138,15 +2138,15 @@
         "name": "Appeal To Human Greed",
         "year": "1995",
         "genres": [
-          "Industrial Metal",
-          "Avantgarde Metal",
+          "Industrial",
+          "Avant-garde",
           "Free Jazz"
         ]
       }
     ],
     "tags": [
-      "Industrial Metal",
-      "Avantgarde Metal",
+      "Industrial",
+      "Avant-garde",
       "Free Jazz"
     ]
   },
@@ -2314,19 +2314,19 @@
         "name": "Falling Down",
         "year": "2016",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "American Nightmare",
         "year": "2020",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -2439,12 +2439,12 @@
         "name": "If Nothing Is",
         "year": "2015",
         "genres": [
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -2550,7 +2550,7 @@
         "year": "2007",
         "genres": [
           "Heavy Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -2644,7 +2644,7 @@
     "tags": [
       "Heavy Metal",
       "Hard Rock",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -2702,14 +2702,14 @@
         "year": "2023",
         "genres": [
           "Jazz",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Jazz",
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -2804,26 +2804,26 @@
         "name": "Ready Or Not",
         "year": "1998",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Unlimited Love",
         "year": "2000",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       },
       {
         "name": "Lost In Vain",
         "year": "2003",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -2893,7 +2893,7 @@
         "year": "1991",
         "genres": [
           "Gothic Rock",
-          "Dark Wave"
+          "Darkwave"
         ]
       },
       {
@@ -2901,7 +2901,7 @@
         "year": "1992",
         "genres": [
           "Gothic Rock",
-          "Dark Wave"
+          "Darkwave"
         ]
       },
       {
@@ -2909,7 +2909,7 @@
         "year": "1992",
         "genres": [
           "Gothic Rock",
-          "Dark Wave"
+          "Darkwave"
         ]
       },
       {
@@ -2917,7 +2917,7 @@
         "year": "1992",
         "genres": [
           "Gothic Rock",
-          "Dark Wave"
+          "Darkwave"
         ]
       },
       {
@@ -2925,7 +2925,7 @@
         "year": "1993",
         "genres": [
           "Gothic Rock",
-          "Dark Wave"
+          "Darkwave"
         ]
       },
       {
@@ -2933,7 +2933,7 @@
         "year": "1993",
         "genres": [
           "Gothic Rock",
-          "Dark Wave"
+          "Darkwave"
         ]
       },
       {
@@ -2941,7 +2941,7 @@
         "year": "1994",
         "genres": [
           "Gothic Rock",
-          "Dark Wave"
+          "Darkwave"
         ]
       },
       {
@@ -2949,7 +2949,7 @@
         "year": "1995",
         "genres": [
           "Gothic Rock",
-          "Dark Wave"
+          "Darkwave"
         ]
       },
       {
@@ -2957,7 +2957,7 @@
         "year": "1998",
         "genres": [
           "Gothic Rock",
-          "Dark Wave"
+          "Darkwave"
         ]
       },
       {
@@ -2965,7 +2965,7 @@
         "year": "1998",
         "genres": [
           "Gothic Rock",
-          "Dark Wave"
+          "Darkwave"
         ]
       },
       {
@@ -2973,7 +2973,7 @@
         "year": "2000",
         "genres": [
           "Gothic Rock",
-          "Dark Wave"
+          "Darkwave"
         ]
       },
       {
@@ -2981,13 +2981,13 @@
         "year": "2001",
         "genres": [
           "Gothic Rock",
-          "Dark Wave"
+          "Darkwave"
         ]
       }
     ],
     "tags": [
       "Gothic Rock",
-      "Dark Wave"
+      "Darkwave"
     ]
   },
   {
@@ -3316,7 +3316,7 @@
         "year": "2002",
         "genres": [
           "Hip Hop",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Pop Rap"
         ]
       },
@@ -3337,7 +3337,7 @@
     ],
     "tags": [
       "Hip Hop",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Pop Rap"
     ]
   },
@@ -3438,7 +3438,7 @@
         "name": "The Age Of The Machine Entities",
         "year": "2024",
         "genres": [
-          "Atmospheric Doom",
+          "Atmospheric Doom Metal",
           "Progressive Metal",
           "Instrumental"
         ]
@@ -3453,7 +3453,7 @@
       }
     ],
     "tags": [
-      "Atmospheric Doom",
+      "Atmospheric Doom Metal",
       "Progressive Metal",
       "Instrumental",
       "Atmospheric Doom Progressive Metal"
@@ -3504,7 +3504,7 @@
         "year": "2022",
         "genres": [
           "Southern Rock",
-          "Goth Rock",
+          "Gothic Rock",
           "Progressive Metal"
         ]
       },
@@ -3513,7 +3513,7 @@
         "year": "2022",
         "genres": [
           "Southern Rock",
-          "Goth Rock",
+          "Gothic Rock",
           "Progressive Metal"
         ]
       },
@@ -3529,7 +3529,7 @@
         "year": "2022",
         "genres": [
           "Southern Rock",
-          "Goth Rock",
+          "Gothic Rock",
           "Progressive Metal"
         ]
       },
@@ -3554,7 +3554,7 @@
       "Progressive Metal",
       "Extreme Progressive Metal",
       "Southern Rock",
-      "Goth Rock",
+      "Gothic Rock",
       "Gothic Metal",
       "Doom Metal"
     ]
@@ -3820,14 +3820,12 @@
         "genres": [
           "Alternative",
           "Pop Rock",
-          "Post-punk",
+          "Post-Punk",
           "Album Rock",
-          "Alternative/indie Rock",
+          "Alternative Rock",
           "Punk Rock",
-          "Contemporary Pop/rock",
           "New Wave",
           "Pop",
-          "80 S",
           "Rock"
         ]
       },
@@ -3844,7 +3842,7 @@
           "Dance-rock",
           "Rock",
           "Rock & Roll",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       }
     ],
@@ -3858,13 +3856,10 @@
       "Dance-rock",
       "Rock",
       "Rock & Roll",
-      "Prog Rock",
+      "Progressive Rock",
       "Pop Rock",
-      "Post-punk",
-      "Alternative/indie Rock",
-      "Punk Rock",
-      "Contemporary Pop/rock",
-      "80 S"
+      "Post-Punk",
+      "Punk Rock"
     ]
   },
   {
@@ -3965,7 +3960,7 @@
         "name": "Chasing A Reflection",
         "year": "2016",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Trancecore"
         ]
       },
@@ -3991,7 +3986,7 @@
         "name": "Imploder",
         "year": "2019",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Trancecore"
         ]
       },
@@ -4018,7 +4013,7 @@
         "name": "Redemption",
         "year": "2021",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Trancecore"
         ]
       },
@@ -4026,7 +4021,7 @@
         "name": "Opaque",
         "year": "2023",
         "genres": [
-          "Gothenburg",
+          "Melodic Death Metal",
           "Trancecore"
         ]
       },
@@ -4039,10 +4034,9 @@
       }
     ],
     "tags": [
-      "Gothenburg",
+      "Melodic Death Metal",
       "Trancecore",
       "Experimental Metal",
-      "Melodic Death Metal",
       "Power Metal",
       "Technical Death Metal",
       "Progressive Metal",
@@ -4153,7 +4147,7 @@
         "year": "2014",
         "genres": [
           "Pop Rock",
-          "Country Metal",
+          "Country",
           "Pop",
           "Folk, World, & Country",
           "Rock"
@@ -4162,7 +4156,7 @@
     ],
     "tags": [
       "Pop Rock",
-      "Country Metal",
+      "Country",
       "Pop",
       "Folk, World, & Country",
       "Rock"
@@ -4296,75 +4290,75 @@
         "name": "Back On The Map",
         "year": "1987",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Step On It",
         "year": "1988",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Sudden Death Overtime",
         "year": "1990",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Blast Furnace",
         "year": "1993",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Unconsciousness",
         "year": "1994",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "16 Valve Hate",
         "year": "1996",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Old Tyme Hardcore",
         "year": "1997",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Digital Warfare",
         "year": "2003",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Tear It Down",
         "year": "2005",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Slapshot",
         "year": "2014",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4417,26 +4411,26 @@
         "name": "Service Weapon",
         "year": "2020",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Habitual Offender",
         "year": "2021",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Satisfaction",
         "year": "2023",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4480,14 +4474,14 @@
         "genres": [
           "Thrash Metal",
           "Death Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Hardcore Death Thrash",
         "year": "2015",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Thrash Metal",
           "Death Metal"
         ]
@@ -4498,14 +4492,14 @@
         "genres": [
           "Thrash Metal",
           "Death Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Thrash Metal",
       "Death Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Heavy Metal"
     ]
   },
@@ -4834,19 +4828,19 @@
         "name": "Strength Through Discipline",
         "year": "2016",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "W.a.r",
         "year": "2018",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -5449,26 +5443,26 @@
         "name": "Climbin' The Walls",
         "year": "1989",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "3-d",
         "year": "1991",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Three Songs From 3-d",
         "year": "1991",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {

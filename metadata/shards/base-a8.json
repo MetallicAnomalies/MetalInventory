@@ -420,13 +420,13 @@
         "year": "2000",
         "genres": [
           "Indie Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Indie Rock",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -582,7 +582,7 @@
         "genres": [
           "Funk / Soul",
           "Conscious",
-          "Contemporary R&b",
+          "Contemporary R&B",
           "Soul",
           "Hip Hop",
           "Funk"
@@ -594,8 +594,8 @@
         "genres": [
           "Funk / Soul",
           "Conscious",
-          "Contemporary R&b",
-          "Electro Metal",
+          "Contemporary R&B",
+          "Electro",
           "Electronic",
           "Hip Hop",
           "Pop",
@@ -606,11 +606,11 @@
     "tags": [
       "Funk / Soul",
       "Conscious",
-      "Contemporary R&b",
+      "Contemporary R&B",
       "Soul",
       "Hip Hop",
       "Funk",
-      "Electro Metal",
+      "Electro",
       "Electronic",
       "Pop",
       "Pop Rap"
@@ -625,14 +625,12 @@
         "year": "2026",
         "genres": [
           "Black Thrash Metal",
-          "Thrash Metal | Black Thrash Metal",
           "Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Black Thrash Metal",
-      "Thrash Metal | Black Thrash Metal",
       "Thrash Metal"
     ]
   },
@@ -697,18 +695,18 @@
         "name": "Apocalyptic Crusades of Doom",
         "year": "2026",
         "genres": [
-          "Thrash Thrash Metal",
+          "Thrash Metal",
           "Death Thrash Metal",
-          "Black Metal | Black Thrash Metal",
-          "Thrash Metal"
+          "Black Metal",
+          "Black Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Thrash Thrash Metal",
+      "Thrash Metal",
       "Death Thrash Metal",
-      "Black Metal | Black Thrash Metal",
-      "Thrash Metal"
+      "Black Metal",
+      "Black Thrash Metal"
     ]
   },
   {
@@ -719,19 +717,19 @@
         "name": "Breed",
         "year": "2007",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Another War",
         "year": "2010",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -766,7 +764,7 @@
         "name": "Ulterior Motives",
         "year": "2010",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -774,7 +772,7 @@
         "name": "Singular Patterns",
         "year": "2012",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -782,7 +780,7 @@
         "name": "Course Of Events",
         "year": "2016",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -790,7 +788,7 @@
         "name": "Fervor",
         "year": "2018",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent"
         ]
       },
@@ -798,7 +796,7 @@
         "name": "The Hindsight Notes",
         "year": "2022",
         "genres": [
-          "Progressive Math",
+          "Progressive Math Metal",
           "Djent",
           "Progressive Rock",
           "Alternative Rock"
@@ -810,18 +808,18 @@
         "genres": [
           "Experimental Metal",
           "Progressive Metal",
-          "Post-hardcore",
+          "Post-Hardcore",
           "Alternative Rock",
           "Metalcore"
         ]
       }
     ],
     "tags": [
-      "Progressive Math",
+      "Progressive Math Metal",
       "Djent",
       "Experimental Metal",
       "Progressive Metal",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Alternative Rock",
       "Metalcore",
       "Progressive Rock"
@@ -1246,20 +1244,20 @@
         "name": "Vita Nova",
         "year": "2022",
         "genres": [
-          "Folk Metal",
+          "Folk",
           "Symphonic Rock",
           "Classical",
           "Folk, World, & Country",
-          "Neo-classical"
+          "Neoclassical"
         ]
       }
     ],
     "tags": [
-      "Folk Metal",
+      "Folk",
       "Symphonic Rock",
       "Classical",
       "Folk, World, & Country",
-      "Neo-classical"
+      "Neoclassical"
     ]
   },
   {
@@ -1307,13 +1305,13 @@
         "year": "2017",
         "genres": [
           "Alternative Rock",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -1588,7 +1586,7 @@
         "name": "Death Beat",
         "year": "2013",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -1596,7 +1594,7 @@
         "name": "Bully",
         "year": "2015",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1610,7 +1608,7 @@
     ],
     "tags": [
       "Heavy Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
       "Hard Rock",
       "Rock"
@@ -1771,7 +1769,7 @@
         "name": "Kaunis Kuolematon",
         "year": "2012",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -1779,7 +1777,7 @@
         "name": "Kylmä Kaunis Maailma",
         "year": "2014",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -1787,7 +1785,7 @@
         "name": "Vapaus",
         "year": "2017",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -1795,7 +1793,7 @@
         "name": "Elämä Ei Tarvitse Minua",
         "year": "2019",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -1803,7 +1801,7 @@
         "name": "Syttyköön Toinen Aurinko",
         "year": "2020",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -1811,7 +1809,7 @@
         "name": "Elävältä Haudattu",
         "year": "2023",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -1819,7 +1817,7 @@
         "name": "Mielenvalta",
         "year": "2023",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       },
@@ -1827,13 +1825,13 @@
         "name": "Kun Valo Minussa Kuoli",
         "year": "2025",
         "genres": [
-          "Melodic Doom",
+          "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Doom",
+      "Melodic Doom Metal",
       "Melodic Death Metal"
     ]
   },
@@ -2283,7 +2281,7 @@
         "genres": [
           "Sludge Metal",
           "Experimental Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -2336,7 +2334,7 @@
     "tags": [
       "Sludge Metal",
       "Experimental Metal",
-      "Post-hardcore",
+      "Post-Hardcore",
       "Post-Metal",
       "Progressive Metal"
     ]
@@ -2592,7 +2590,7 @@
           "Nu Metal",
           "Industrial Metal",
           "Alternative Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
@@ -2601,7 +2599,7 @@
       "Industrial Metal",
       "Nu Metal",
       "Alternative Metal",
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Heavy Metal",
       "Art Rock"
     ]
@@ -2935,14 +2933,14 @@
         "genres": [
           "Latin",
           "Pop",
-          "Bossanova"
+          "Bossa Nova"
         ]
       }
     ],
     "tags": [
       "Latin",
       "Pop",
-      "Bossanova"
+      "Bossa Nova"
     ]
   },
   {
@@ -3286,7 +3284,7 @@
         "name": "End Of The World",
         "year": "2018",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Symphonic Metal"
         ]
       },
@@ -3294,7 +3292,7 @@
         "name": "Project Genesis",
         "year": "2020",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Symphonic Metal"
         ]
       },
@@ -3302,7 +3300,7 @@
         "name": "Intermission",
         "year": "2021",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Symphonic Metal"
         ]
       },
@@ -3310,7 +3308,7 @@
         "name": "Immemorial",
         "year": "2023",
         "genres": [
-          "Symphonic Power",
+          "Symphonic Power Metal",
           "Symphonic Metal"
         ]
       },
@@ -3323,7 +3321,7 @@
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Symphonic Metal"
     ]
   },
@@ -3545,19 +3543,19 @@
         "name": "Dawn Of Time",
         "year": "1996",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Land Of Flames",
         "year": "1998",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -4210,7 +4208,7 @@
         "year": "2012",
         "genres": [
           "Atmospheric Black Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4218,7 +4216,7 @@
         "year": "2013",
         "genres": [
           "Atmospheric Black Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -4226,13 +4224,13 @@
         "year": "2014",
         "genres": [
           "Atmospheric Black Metal",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -4299,19 +4297,19 @@
         "name": "Magica",
         "year": "2002",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
         "name": "Appassionato",
         "year": "2004",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Power"
+      "Neoclassical Power Metal"
     ]
   },
   {

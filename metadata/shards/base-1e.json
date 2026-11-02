@@ -9,7 +9,7 @@
         "year": "2004",
         "genres": [
           "Progressive Metal",
-          "Prog Rock"
+          "Progressive Rock"
         ]
       },
       {
@@ -22,7 +22,7 @@
     ],
     "tags": [
       "Progressive Metal",
-      "Prog Rock"
+      "Progressive Rock"
     ]
   },
   {
@@ -165,28 +165,28 @@
         "name": "Angel Witch",
         "year": "1980",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Sweet Danger",
         "year": "1980",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Screamin' And Bleedin'",
         "year": "1985",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
         "name": "Frontal Assault",
         "year": "1986",
         "genres": [
-          "New Wave Of British Heavy"
+          "NWOBHM"
         ]
       },
       {
@@ -219,7 +219,7 @@
       }
     ],
     "tags": [
-      "New Wave Of British Heavy",
+      "NWOBHM",
       "Heavy Metal",
       "Rock"
     ]
@@ -356,7 +356,7 @@
         "name": "Termination Damnation",
         "year": "2005",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Death Metal"
         ]
       },
@@ -404,7 +404,7 @@
     "tags": [
       "Progressive Metalcore",
       "Melodic Death Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Death Metal"
     ]
   },
@@ -430,7 +430,7 @@
         "name": "Biohazard",
         "year": "1990",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -439,7 +439,7 @@
         "name": "Urban Discipline",
         "year": "1992",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -455,7 +455,7 @@
         "name": "State Of The World Address",
         "year": "1994",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -464,7 +464,7 @@
         "name": "Mata Leão",
         "year": "1996",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -473,7 +473,7 @@
         "name": "New World Disorder",
         "year": "1999",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -482,7 +482,7 @@
         "name": "Uncivilization",
         "year": "2001",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk",
           "Alternative"
         ]
@@ -491,7 +491,7 @@
         "name": "Kill Or Be Killed",
         "year": "2003",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -499,7 +499,7 @@
         "name": "Means To An End",
         "year": "2005",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -507,7 +507,7 @@
         "name": "Reborn In Defiance",
         "year": "2012",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -520,13 +520,13 @@
         "name": "Divided We Fall",
         "year": "2025",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk",
       "Alternative",
       "Heavy Metal"
@@ -1216,7 +1216,7 @@
         "genres": [
           "Thrash Metal",
           "Heavy Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -1318,7 +1318,7 @@
       "Metalcore",
       "Thrash Metal",
       "Heavy Metal",
-      "Hardcore Metal",
+      "Hardcore",
       "Atmospheric Black Metal"
     ]
   },
@@ -2001,13 +2001,13 @@
         "name": "The Ring",
         "year": "2022",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Post Rock",
+      "Post-Rock",
       "Rock"
     ]
   },
@@ -2138,12 +2138,12 @@
         "name": "Grimsever",
         "year": "2023",
         "genres": [
-          "Blackened Speed"
+          "Blackened Speed Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Speed"
+      "Blackened Speed Metal"
     ]
   },
   {
@@ -2548,28 +2548,28 @@
         "name": "Classical Element",
         "year": "2013",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "History Of Genesis",
         "year": "2015",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Tears Of The Sun",
         "year": "2017",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Zeus ~Legends Never Die~",
         "year": "2019",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -2582,7 +2582,7 @@
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Symphonic Neoclassical Power Metal",
       "Neoclassical Power Metal"
     ]
@@ -2621,19 +2621,19 @@
         "name": "Dancing With The Past",
         "year": "2014",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Trauma",
         "year": "2021",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -2956,7 +2956,7 @@
         "year": "2019",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2964,7 +2964,7 @@
         "year": "2021",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -2972,13 +2972,13 @@
         "year": "2023",
         "genres": [
           "Metalcore",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -3091,7 +3091,7 @@
         "name": "Broken Little Doll",
         "year": "2026",
         "genres": [
-          "Atmospheric Black Folk",
+          "Atmospheric Black Folk Metal",
           "Post-Metal Folk",
           "Folk"
         ]
@@ -3105,7 +3105,7 @@
       "Folk, World, & Country",
       "Nordic",
       "Atmospheric Black Metal",
-      "Atmospheric Black Folk",
+      "Atmospheric Black Folk Metal",
       "Post-Metal Folk",
       "Folk"
     ]
@@ -3119,7 +3119,7 @@
         "year": "2009",
         "genres": [
           "Alternative",
-          "Trip-hop"
+          "Trip Hop"
         ]
       },
       {
@@ -3127,7 +3127,7 @@
         "year": "2012",
         "genres": [
           "Alternative",
-          "Trip-hop"
+          "Trip Hop"
         ]
       },
       {
@@ -3135,13 +3135,13 @@
         "year": "2015",
         "genres": [
           "Alternative",
-          "Trip-hop"
+          "Trip Hop"
         ]
       }
     ],
     "tags": [
       "Alternative",
-      "Trip-hop"
+      "Trip Hop"
     ]
   },
   {
@@ -3189,7 +3189,7 @@
         "name": "Resonance",
         "year": "2022",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -3197,13 +3197,13 @@
         "name": "Electric Dreams",
         "year": "2025",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -3233,13 +3233,13 @@
         "year": "2022",
         "genres": [
           "Mathcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Mathcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -3296,26 +3296,26 @@
         "name": "Absentee",
         "year": "2008",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "Burning In Water... Drowning In Flame",
         "year": "2012",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       },
       {
         "name": "As The World Burns",
         "year": "2014",
         "genres": [
-          "Groove Thrash"
+          "Groove Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Thrash"
+      "Groove Thrash Metal"
     ]
   },
   {
@@ -3442,13 +3442,13 @@
         "year": "2022",
         "genres": [
           "Industrial Rock",
-          "Industrial Metal"
+          "Industrial"
         ]
       }
     ],
     "tags": [
       "Industrial Rock",
-      "Industrial Metal"
+      "Industrial"
     ]
   },
   {
@@ -3928,13 +3928,13 @@
         "year": "2023",
         "genres": [
           "Hip Hop",
-          "Electro Metal"
+          "Electro"
         ]
       }
     ],
     "tags": [
       "Hip Hop",
-      "Electro Metal"
+      "Electro"
     ]
   },
   {
@@ -3946,63 +3946,63 @@
         "name": "First Contact",
         "year": "2005",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Grace Grade",
         "year": "2012",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Vice Versa",
         "year": "2014",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Sky Legacy",
         "year": "2015",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Wings Wind",
         "year": "2016",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Skywings",
         "year": "2017",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "The Advent Melody",
         "year": "2018",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "How Beautiful",
         "year": "2021",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Sky Ballad Pt. 1",
         "year": "2021",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -4011,7 +4011,7 @@
         "genres": [
           "Speed Metal",
           "Visual Kei",
-          "J-rock",
+          "J-Rock",
           "Symphonic Metal",
           "Power Metal"
         ]
@@ -4020,14 +4020,14 @@
         "name": "Reincarnation~sky Instrumental Pt.1~",
         "year": "2025",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
         "name": "Sky Carats Pt. 1",
         "year": "2025",
         "genres": [
-          "Symphonic Power"
+          "Symphonic Power Metal"
         ]
       },
       {
@@ -4040,10 +4040,10 @@
       }
     ],
     "tags": [
-      "Symphonic Power",
+      "Symphonic Power Metal",
       "Speed Metal",
       "Visual Kei",
-      "J-rock",
+      "J-Rock",
       "Symphonic Metal",
       "Power Metal",
       "Symphonic Melodic Power Metal",
@@ -4121,7 +4121,7 @@
         "name": "Stargazer",
         "year": "2009",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -4129,7 +4129,7 @@
         "name": "The Sky Is The Limit",
         "year": "2019",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -4137,7 +4137,7 @@
         "name": "Life Will Never Be The Same",
         "year": "2023",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       },
@@ -4145,13 +4145,13 @@
         "name": "Stone Cold Creature",
         "year": "2025",
         "genres": [
-          "Melodic Heavy",
+          "Melodic Heavy Metal",
           "Hard Rock"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy",
+      "Melodic Heavy Metal",
       "Hard Rock"
     ]
   },
@@ -4180,13 +4180,15 @@
         "name": "Theology of Rape",
         "year": "2026",
         "genres": [
-          "Black Metal | Black Metal | Black Metal | Raw Black Metal",
+          "Black Metal",
+          "Raw Black Metal",
           "Ambient"
         ]
       }
     ],
     "tags": [
-      "Black Metal | Black Metal | Black Metal | Raw Black Metal",
+      "Black Metal",
+      "Raw Black Metal",
       "Ambient"
     ]
   },
@@ -4199,7 +4201,7 @@
         "name": "Encounters",
         "year": "2000",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -4208,7 +4210,7 @@
         "year": "2006",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -4216,7 +4218,7 @@
         "name": "Sceneries",
         "year": "2012",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       },
@@ -4225,13 +4227,13 @@
         "year": "2021",
         "genres": [
           "Art Rock",
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Rock",
       "Art Rock"
     ]
@@ -4244,19 +4246,19 @@
         "name": "Angelwing",
         "year": "2009",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       },
       {
         "name": "Blood Rain",
         "year": "2011",
         "genres": [
-          "Neoclassical Power"
+          "Neoclassical Power Metal"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Power"
+      "Neoclassical Power Metal"
     ]
   },
   {
@@ -4268,13 +4270,13 @@
         "year": "1991",
         "genres": [
           "Speed Metal",
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Speed Metal",
-      "Technical Thrash"
+      "Technical Thrash Metal"
     ]
   },
   {
@@ -4456,26 +4458,26 @@
         "name": "Stand Up Straight",
         "year": "2009",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "Blood For Blood",
         "year": "2013",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       },
       {
         "name": "To Hell",
         "year": "2021",
         "genres": [
-          "Death 'N' Roll"
+          "Death 'n' Roll"
         ]
       }
     ],
     "tags": [
-      "Death 'N' Roll"
+      "Death 'n' Roll"
     ]
   },
   {
@@ -4587,7 +4589,7 @@
           "Symphonic Metal",
           "Doom Metal",
           "Alternative Rock",
-          "Goth Rock"
+          "Gothic Rock"
         ]
       },
       {
@@ -4644,7 +4646,7 @@
         "name": "The Beauty In Black (Single)",
         "year": "2000",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Death Metal",
           "Doom Metal"
         ]
@@ -4864,7 +4866,7 @@
       "Gothic Metal",
       "Doom Metal",
       "Alternative Rock",
-      "Goth Rock",
+      "Gothic Rock",
       "Classical"
     ]
   },
@@ -5054,13 +5056,13 @@
         "name": "Rejoice In The Suffering",
         "year": "2021",
         "genres": [
-          "Us Power",
+          "US Power Metal",
           "Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Us Power",
+      "US Power Metal",
       "Heavy Metal"
     ]
   },
@@ -5072,7 +5074,7 @@
         "name": "The Four Scissors",
         "year": "2003",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Symphonic Black Metal"
         ]
       },
@@ -5080,7 +5082,7 @@
         "name": "The Serpent's Manifolds",
         "year": "2008",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Symphonic Black Metal"
         ]
       },
@@ -5088,13 +5090,13 @@
         "name": "The Misanthrope's Fable",
         "year": "2010",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Symphonic Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Symphonic Black Metal"
     ]
   },
@@ -5147,28 +5149,28 @@
         "name": "Merry Christmas",
         "year": "1991",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Out Of Step",
         "year": "1995",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Need For Speed",
         "year": "1996",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
         "name": "Vertical Horizon",
         "year": "2004",
         "genres": [
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
@@ -5180,8 +5182,7 @@
       }
     ],
     "tags": [
-      "Progressive Thrash",
-      "Metal"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -5668,30 +5669,26 @@
         "name": "From the Mountain's Shadow",
         "year": "2026",
         "genres": [
-          "Black Metal",
-          "Various"
+          "Black Metal"
         ]
       },
       {
         "name": "The World Inside a Dream",
         "year": "2026",
         "genres": [
-          "Black Metal",
-          "Various"
+          "Black Metal"
         ]
       },
       {
         "name": "The Old Sky",
         "year": "2026",
         "genres": [
-          "Black Metal",
-          "Various"
+          "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Black Metal",
-      "Various"
+      "Black Metal"
     ]
   },
   {
@@ -5703,7 +5700,7 @@
         "year": "2014",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -5711,7 +5708,7 @@
         "year": "2015",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -5719,7 +5716,7 @@
         "year": "2017",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -5727,13 +5724,13 @@
         "year": "2021",
         "genres": [
           "Sludge Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Sludge Metal",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   }
 ]

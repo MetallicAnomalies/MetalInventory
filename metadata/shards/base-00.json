@@ -229,7 +229,7 @@
         "name": "Pendulum Of Life",
         "year": "2008",
         "genres": [
-          "Melodic Gothic",
+          "Melodic Gothic Metal",
           "Power Metal"
         ]
       },
@@ -237,7 +237,7 @@
         "name": "Daughter Of Moonlight",
         "year": "2009",
         "genres": [
-          "Melodic Gothic",
+          "Melodic Gothic Metal",
           "Power Metal"
         ]
       },
@@ -245,7 +245,7 @@
         "name": "зимние слёзы",
         "year": "2013",
         "genres": [
-          "Melodic Gothic",
+          "Melodic Gothic Metal",
           "Power Metal"
         ]
       },
@@ -253,7 +253,7 @@
         "name": "вечность",
         "year": "2015",
         "genres": [
-          "Melodic Gothic",
+          "Melodic Gothic Metal",
           "Power Metal"
         ]
       },
@@ -261,13 +261,13 @@
         "name": "моя игра",
         "year": "2020",
         "genres": [
-          "Melodic Gothic",
+          "Melodic Gothic Metal",
           "Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Gothic",
+      "Melodic Gothic Metal",
       "Power Metal"
     ]
   },
@@ -853,41 +853,41 @@
         "name": "Chance Encounter Of Flesh And Nail",
         "year": "2024",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Ruined",
         "year": "2024",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Surrender",
         "year": "2024",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
         "name": "Twilight's Heart",
         "year": "2024",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       },
       {
         "name": "Where You And I Shall Not Find Ourselves Together",
         "year": "2024",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black",
-      "Ambient Metal"
+      "Avant-garde Black Metal",
+      "Ambient"
     ]
   },
   {
@@ -922,7 +922,7 @@
         "name": "Bitter Picture",
         "year": "2020",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Nu Metal"
         ]
@@ -931,14 +931,14 @@
         "name": "Depth Perception",
         "year": "2023",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Metalcore",
           "Nu Metal"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore",
       "Nu Metal"
     ]
@@ -1382,7 +1382,7 @@
         "name": "Asphyxiating Late Night Sessions: Collaboration With Sarvok",
         "year": "2023",
         "genres": [
-          "Ambient Metal"
+          "Ambient"
         ]
       },
       {
@@ -1395,7 +1395,7 @@
     ],
     "tags": [
       "Black Metal",
-      "Ambient Metal"
+      "Ambient"
     ],
     "origin": "GR"
   },
@@ -1407,7 +1407,7 @@
         "name": "Ekulu",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       },
@@ -1415,7 +1415,7 @@
         "name": "Half Alive",
         "year": "2019",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       },
@@ -1423,13 +1423,13 @@
         "name": "Unscrew My Head",
         "year": "2021",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Crossover Thrash"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Crossover Thrash"
     ]
   },
@@ -1704,13 +1704,13 @@
         "name": "Power Under Control",
         "year": "2004",
         "genres": [
-          "Post-grunge",
+          "Post-Grunge",
           "Nu Metal"
         ]
       }
     ],
     "tags": [
-      "Post-grunge",
+      "Post-Grunge",
       "Nu Metal"
     ]
   },
@@ -1780,7 +1780,7 @@
         "year": "2010",
         "genres": [
           "Progressive Death Metal",
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       },
       {
@@ -1788,13 +1788,13 @@
         "year": "2013",
         "genres": [
           "Progressive Death Metal",
-          "Progressive Thrash"
+          "Progressive Thrash Metal"
         ]
       }
     ],
     "tags": [
       "Progressive Death Metal",
-      "Progressive Thrash"
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -1878,7 +1878,7 @@
         "name": "Life's Grips To Laughter",
         "year": "2021",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -1886,7 +1886,7 @@
         "name": "Subverse Siphoning Of Suburbia",
         "year": "2021",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -1894,7 +1894,7 @@
         "name": "Cries Methodically",
         "year": "2022",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -1902,7 +1902,7 @@
         "name": "Each Day Orbital",
         "year": "2022",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -1910,7 +1910,7 @@
         "name": "Integument Crystallization",
         "year": "2022",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -1918,7 +1918,7 @@
         "name": "Itch Ecstasy",
         "year": "2022",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -1926,7 +1926,7 @@
         "name": "Life's Wishes To Tears",
         "year": "2022",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -1934,7 +1934,7 @@
         "name": "Old Smeuse",
         "year": "2022",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -1942,7 +1942,7 @@
         "name": "End's Daze Without Organs",
         "year": "2023",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -1950,7 +1950,7 @@
         "name": "Forgetfully Washed Into Callousness",
         "year": "2023",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -1958,13 +1958,13 @@
         "name": "Soul Washed Bleach",
         "year": "2025",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Black Metal"
     ]
   },
@@ -2618,7 +2618,7 @@
         "genres": [
           "Electronic",
           "Hip Hop",
-          "Drum N Bass",
+          "Drum & Bass",
           "Pop",
           "Rock Opera",
           "Pop Rap"
@@ -2628,7 +2628,7 @@
     "tags": [
       "Electronic",
       "Hip Hop",
-      "Drum N Bass",
+      "Drum & Bass",
       "Pop",
       "Rock Opera",
       "Pop Rap"
@@ -2807,7 +2807,7 @@
         "name": "Buried In The Front Yard",
         "year": "2005",
         "genres": [
-          "Technical Thrash",
+          "Technical Thrash Metal",
           "Thrash Metal"
         ]
       },
@@ -2815,19 +2815,19 @@
         "name": "Living For Death, Destroying The Rest",
         "year": "2009",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       },
       {
         "name": "Ghostmaker",
         "year": "2012",
         "genres": [
-          "Technical Thrash"
+          "Technical Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Technical Thrash",
+      "Technical Thrash Metal",
       "Thrash Metal"
     ]
   },
@@ -2915,26 +2915,26 @@
         "name": "Tinman",
         "year": "2006",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "2 Decades Shunning Masks",
         "year": "2009",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Oldskull Revenge",
         "year": "2015",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2973,40 +2973,40 @@
         "name": "The Empire Of Future",
         "year": "2000",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Infatuator",
         "year": "2001",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Worlds Apart",
         "year": "2004",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Walk The Earth",
         "year": "2007",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       },
       {
         "name": "Rising From Ashes",
         "year": "2013",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -3373,68 +3373,68 @@
         "name": "Satanic Idol Whoreship",
         "year": "2011",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "Inverted Goat Orifice",
         "year": "2013",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "Whoreshipping The Depths",
         "year": "2013",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "Through Cosmic Corridors",
         "year": "2014",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "-Eon-",
         "year": "2015",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "Cosmic Void",
         "year": "2016",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "Myriad",
         "year": "2017",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "Endless Spiritual Embodiment",
         "year": "2019",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "Omniscient Pulse",
         "year": "2020",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Death"
+      "Atmospheric Death Metal"
     ]
   },
   {
@@ -4102,12 +4102,12 @@
         "name": "Unsympathetic Empyrean",
         "year": "2020",
         "genres": [
-          "Avantgarde Black"
+          "Avant-garde Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Black"
+      "Avant-garde Black Metal"
     ]
   },
   {
@@ -4167,14 +4167,14 @@
         "year": "2020",
         "genres": [
           "Black Metal",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
       "Black Metal",
       "Crust Punk",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {

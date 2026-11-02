@@ -80,16 +80,16 @@
         "year": "2012",
         "genres": [
           "Power Pop",
-          "Post Rock",
-          "Prog Rock",
+          "Post-Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Power Pop",
-      "Post Rock",
-      "Prog Rock",
+      "Post-Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -208,21 +208,21 @@
         "name": "Black Earth",
         "year": "1996",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Stigmata",
         "year": "1998",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Burning Bridges",
         "year": "1999",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -237,21 +237,21 @@
         "name": "Wages Of Sin",
         "year": "2001",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Burning Angel",
         "year": "2002",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Anthems Of Rebellion",
         "year": "2003",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -265,14 +265,14 @@
         "name": "Dead Eyes See No Future",
         "year": "2004",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Doomsday Machine",
         "year": "2005",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -289,14 +289,14 @@
         "name": "Revolution Begins",
         "year": "2007",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Rise Of The Tyrant",
         "year": "2007",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -334,7 +334,7 @@
         "name": "Khaos Legions",
         "year": "2011",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -349,21 +349,21 @@
         "name": "War Eternal",
         "year": "2014",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Stolen Life",
         "year": "2015",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Live Power",
         "year": "2017",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -384,14 +384,14 @@
         "name": "Will To Power",
         "year": "2017",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
         "name": "Råpunk",
         "year": "2018",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -405,7 +405,7 @@
         "name": "Deceivers",
         "year": "2022",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -419,7 +419,7 @@
         "name": "Blood Dynasty",
         "year": "2025",
         "genres": [
-          "Gothenburg"
+          "Melodic Death Metal"
         ]
       },
       {
@@ -438,11 +438,10 @@
       }
     ],
     "tags": [
-      "Gothenburg",
+      "Melodic Death Metal",
       "Thrash Metal",
       "Death Metal",
       "Heavy Metal",
-      "Melodic Death Metal",
       "Stage & Screen"
     ]
   },
@@ -598,7 +597,7 @@
         "year": "1997",
         "genres": [
           "Alternative",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -606,7 +605,7 @@
         "year": "1999",
         "genres": [
           "Alternative",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -614,7 +613,7 @@
         "year": "2001",
         "genres": [
           "Alternative",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -622,7 +621,7 @@
         "year": "2003",
         "genres": [
           "Alternative",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -630,7 +629,7 @@
         "year": "2005",
         "genres": [
           "Alternative",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -638,7 +637,7 @@
         "year": "2009",
         "genres": [
           "Alternative",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -646,7 +645,7 @@
         "year": "2011",
         "genres": [
           "Alternative",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -654,7 +653,7 @@
         "year": "2014",
         "genres": [
           "Alternative",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -662,13 +661,13 @@
         "year": "2017",
         "genres": [
           "Alternative",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       }
     ],
     "tags": [
       "Alternative",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -690,7 +689,7 @@
         "genres": [
           "Mathcore",
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -706,7 +705,7 @@
       "Metalcore",
       "Math Metal",
       "Mathcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -841,26 +840,26 @@
         "name": "El Virus Del Universo",
         "year": "2018",
         "genres": [
-          "Cedm"
+          "CEDM"
         ]
       },
       {
         "name": "Habitación 47",
         "year": "2019",
         "genres": [
-          "Cedm"
+          "CEDM"
         ]
       },
       {
         "name": "La Bestia",
         "year": "2020",
         "genres": [
-          "Cedm"
+          "CEDM"
         ]
       }
     ],
     "tags": [
-      "Cedm"
+      "CEDM"
     ]
   },
   {
@@ -940,77 +939,77 @@
         "name": "Deathwish",
         "year": "1981",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "Only Theatre Of Pain",
         "year": "1982",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "Catastrophe Ballet",
         "year": "1984",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "Ashes",
         "year": "1985",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "The Wind Kissed Pictures",
         "year": "1985",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "Atrocities",
         "year": "1986",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "The Scriptures",
         "year": "1987",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "Sex And Drugs And Jesus Christ",
         "year": "1988",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "All The Love All The Hate",
         "year": "1989",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "Insanus, Ultio, Proditio, Misericordiaque",
         "year": "1990",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "Jesus Points The Bone At You?",
         "year": "1991",
         "genres": [
-          "Goth Rock",
+          "Gothic Rock",
           "Rock"
         ]
       },
@@ -1018,69 +1017,69 @@
         "name": "Skeleton Kiss",
         "year": "1992",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "The Iron Mask",
         "year": "1992",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "Sexy Death God",
         "year": "1994",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "Prophecies",
         "year": "1996",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "Pornographic Messiah",
         "year": "1998",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "Born Again Anti-christian",
         "year": "2000",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "American Inquisition",
         "year": "2007",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "The Root Of All Evilution",
         "year": "2015",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       },
       {
         "name": "Evil Becomes Rule",
         "year": "2022",
         "genres": [
-          "Death Rock"
+          "Deathrock"
         ]
       }
     ],
     "tags": [
-      "Death Rock",
-      "Goth Rock",
+      "Deathrock",
+      "Gothic Rock",
       "Rock"
     ]
   },
@@ -1163,7 +1162,7 @@
         "name": "Regression",
         "year": "2017",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore"
         ]
       },
@@ -1171,7 +1170,7 @@
         "name": "Human Epidemic",
         "year": "2018",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore"
         ]
       },
@@ -1179,7 +1178,7 @@
         "name": "Indoctrinate",
         "year": "2020",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore"
         ]
       },
@@ -1187,13 +1186,13 @@
         "name": "No Purgatory",
         "year": "2023",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Grindcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Grindcore"
     ]
   },
@@ -1261,33 +1260,33 @@
         "name": "Blessed",
         "year": "2020",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Ethereal",
         "year": "2021",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Griefscapes",
         "year": "2022",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       },
       {
         "name": "Sunbleached",
         "year": "2023",
         "genres": [
-          "Experimental Death"
+          "Experimental Death Metal"
         ]
       }
     ],
     "tags": [
-      "Experimental Death"
+      "Experimental Death Metal"
     ]
   },
   {
@@ -1359,7 +1358,7 @@
         "year": "2004",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -1367,7 +1366,7 @@
         "year": "2005",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -1375,7 +1374,7 @@
         "year": "2006",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       },
       {
@@ -1383,13 +1382,13 @@
         "year": "2008",
         "genres": [
           "Thrash Metal",
-          "Us Power"
+          "US Power Metal"
         ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Us Power"
+      "US Power Metal"
     ]
   },
   {
@@ -1589,7 +1588,7 @@
         "year": "2020",
         "genres": [
           "Deathcore",
-          "Ambient Metal",
+          "Ambient",
           "Progressive Metal",
           "Djent",
           "Metalcore",
@@ -1601,7 +1600,7 @@
       "Djent",
       "Progressive Metal",
       "Deathcore",
-      "Ambient Metal",
+      "Ambient",
       "Metalcore",
       "Post-Metal",
       "Melodic Hardcore",
@@ -1699,7 +1698,7 @@
         "name": "On The Eve Of The Grimly Inventive",
         "year": "1999",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       },
@@ -1707,13 +1706,13 @@
         "name": "In Swathes Of Brooding Light",
         "year": "2011",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Black Metal"
     ]
   },
@@ -2206,13 +2205,13 @@
         "name": "Doom Moon",
         "year": "2022",
         "genres": [
-          "Post Rock",
+          "Post-Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Post Rock",
+      "Post-Rock",
       "Rock"
     ]
   },
@@ -2408,7 +2407,7 @@
         "year": "2007",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
@@ -2416,14 +2415,14 @@
         "year": "2007",
         "genres": [
           "Metalcore",
-          "Post-hardcore"
+          "Post-Hardcore"
         ]
       },
       {
         "name": "I Swear...",
         "year": "2008",
         "genres": [
-          "Post-hardcore",
+          "Post-Hardcore",
           "Metalcore"
         ]
       },
@@ -2431,14 +2430,14 @@
         "name": "Bury Me Alive",
         "year": "2009",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Metalcore",
-      "Post-hardcore"
+      "Post-Hardcore"
     ]
   },
   {
@@ -2476,33 +2475,33 @@
         "name": "Headbanger",
         "year": "2011",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Die Wasted On Doomsday",
         "year": "2012",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Boneshaker",
         "year": "2015",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "We Are Motorpunks",
         "year": "2015",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -2516,9 +2515,9 @@
         "genres": [
           "Synthwave",
           "Electronic",
-          "Medieval Metal",
+          "Medieval",
           "Classical",
-          "Industrial Metal",
+          "Industrial",
           "Pop",
           "Opera",
           "Folk, World, & Country",
@@ -2530,9 +2529,9 @@
     "tags": [
       "Synthwave",
       "Electronic",
-      "Medieval Metal",
+      "Medieval",
       "Classical",
-      "Industrial Metal",
+      "Industrial",
       "Pop",
       "Opera",
       "Folk, World, & Country",
@@ -2548,38 +2547,33 @@
         "name": "éClosion",
         "year": "2021",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Tensions",
         "year": "2022",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Dissolution",
         "year": "2024",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       },
       {
         "name": "Résonances",
         "year": "2025",
         "genres": [
-          "Post-Black Metal",
-          "Post-black Metal"
+          "Post-Black Metal"
         ]
       }
     ],
     "tags": [
-      "Post-Black Metal",
-      "Post-black Metal"
+      "Post-Black Metal"
     ]
   },
   {
@@ -2728,8 +2722,8 @@
         "name": "The Power Of Lard",
         "year": "1989",
         "genres": [
-          "Industrial Metal",
-          "Hardcore Metal",
+          "Industrial",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -2737,8 +2731,8 @@
         "name": "The Last Temptation Of Reid",
         "year": "1990",
         "genres": [
-          "Industrial Metal",
-          "Hardcore Metal",
+          "Industrial",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -2746,8 +2740,8 @@
         "name": "Pure Chewing Satisfaction",
         "year": "1997",
         "genres": [
-          "Industrial Metal",
-          "Hardcore Metal",
+          "Industrial",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -2755,15 +2749,15 @@
         "name": "70's Rock Must Die",
         "year": "2000",
         "genres": [
-          "Industrial Metal",
-          "Hardcore Metal",
+          "Industrial",
+          "Hardcore",
           "Punk"
         ]
       }
     ],
     "tags": [
-      "Industrial Metal",
-      "Hardcore Metal",
+      "Industrial",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -2813,8 +2807,8 @@
         "genres": [
           "Fusion",
           "Free Improvisation",
-          "Experimental Metal",
-          "Prog Rock",
+          "Experimental",
+          "Progressive Rock",
           "Rock",
           "Jazz"
         ]
@@ -2823,8 +2817,8 @@
     "tags": [
       "Fusion",
       "Free Improvisation",
-      "Experimental Metal",
-      "Prog Rock",
+      "Experimental",
+      "Progressive Rock",
       "Rock",
       "Jazz"
     ]
@@ -2839,13 +2833,13 @@
         "year": "2014",
         "genres": [
           "Folk, World, & Country",
-          "Folk Metal"
+          "Folk"
         ]
       }
     ],
     "tags": [
       "Folk, World, & Country",
-      "Folk Metal"
+      "Folk"
     ]
   },
   {
@@ -2884,12 +2878,12 @@
         "name": "Prisoner",
         "year": "2018",
         "genres": [
-          "Melodic Power"
+          "Melodic Power Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Power"
+      "Melodic Power Metal"
     ]
   },
   {
@@ -2901,14 +2895,14 @@
         "name": "Ball Of Destruction",
         "year": "1989",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Droppin Many Suckers",
         "year": "1992",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -2916,21 +2910,21 @@
         "name": "Set It Off",
         "year": "1994",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Demonstrating My Style",
         "year": "1996",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Been There, Done That 7 Inch",
         "year": "1998",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -2938,28 +2932,28 @@
         "name": "Look My Way",
         "year": "1998",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Hold It Down",
         "year": "2000",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "N.y.h.c Ep",
         "year": "2003",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "The Best Of Madball",
         "year": "2003",
         "genres": [
-          "Hardcore Metal",
+          "Hardcore",
           "Punk"
         ]
       },
@@ -2967,49 +2961,49 @@
         "name": "Down By Law Bootleg",
         "year": "2004",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Legacy",
         "year": "2005",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Infiltrate The System",
         "year": "2007",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Empire",
         "year": "2010",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Rebellion",
         "year": "2012",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Hardcore Lives",
         "year": "2014",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "For The Cause",
         "year": "2018",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -3019,7 +3013,7 @@
       }
     ],
     "tags": [
-      "Hardcore Metal",
+      "Hardcore",
       "Punk"
     ]
   },
@@ -3487,7 +3481,7 @@
         "name": "Holoceno",
         "year": "2021",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Sludge Metal",
           "Progressive Rock"
         ]
@@ -3496,14 +3490,14 @@
         "name": "Lampião Rei",
         "year": "2024",
         "genres": [
-          "Avantgarde Metal",
+          "Avant-garde Metal",
           "Sludge Metal",
           "Progressive Rock"
         ]
       }
     ],
     "tags": [
-      "Avantgarde Metal",
+      "Avant-garde Metal",
       "Sludge Metal",
       "Progressive Rock"
     ]
@@ -3588,7 +3582,7 @@
           "Black Metal",
           "Doom Metal",
           "Folk Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -3598,7 +3592,7 @@
           "Black Metal",
           "Doom Metal",
           "Folk Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       },
       {
@@ -3608,7 +3602,7 @@
           "Black Metal",
           "Doom Metal",
           "Folk Metal",
-          "Avantgarde Metal"
+          "Avant-garde Metal"
         ]
       }
     ],
@@ -3616,7 +3610,7 @@
       "Black Metal",
       "Doom Metal",
       "Folk Metal",
-      "Avantgarde Metal"
+      "Avant-garde Metal"
     ]
   },
   {
@@ -3639,12 +3633,12 @@
         "name": "No Exeption Of A Victim Of Crime",
         "year": "1989",
         "genres": [
-          "Melodic Heavy"
+          "Melodic Heavy Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Heavy"
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -3898,19 +3892,19 @@
         "name": "Asylum",
         "year": "2011",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       },
       {
         "name": "Winds Of Apocalypse",
         "year": "2015",
         "genres": [
-          "Atmospheric Death"
+          "Atmospheric Death Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Death"
+      "Atmospheric Death Metal"
     ]
   },
   {
@@ -4065,12 +4059,12 @@
         "name": "The Beginning Of The End",
         "year": "2023",
         "genres": [
-          "Progressive Power"
+          "Progressive Power Metal"
         ]
       }
     ],
     "tags": [
-      "Progressive Power"
+      "Progressive Power Metal"
     ]
   },
   {
@@ -4143,13 +4137,13 @@
         "name": "Embodiment Of Death",
         "year": "2025",
         "genres": [
-          "Blackened Sludge",
+          "Blackened Sludge Metal",
           "Post-Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Sludge",
+      "Blackened Sludge Metal",
       "Post-Metal"
     ]
   },
@@ -4374,13 +4368,13 @@
         "name": "Tardigrades Will Inherit The Earth",
         "year": "2017",
         "genres": [
-          "Prog Rock",
+          "Progressive Rock",
           "Rock"
         ]
       }
     ],
     "tags": [
-      "Prog Rock",
+      "Progressive Rock",
       "Rock"
     ]
   },
@@ -4506,14 +4500,14 @@
         "year": "1993",
         "genres": [
           "Alternative Rock",
-          "Post-punk",
+          "Post-Punk",
           "Rock"
         ]
       }
     ],
     "tags": [
       "Alternative Rock",
-      "Post-punk",
+      "Post-Punk",
       "Rock"
     ]
   },
@@ -4624,7 +4618,7 @@
         "year": "2013",
         "genres": [
           "Math Rock",
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
@@ -4640,7 +4634,7 @@
       "Djent",
       "Progressive Metal",
       "Math Rock",
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
@@ -4736,33 +4730,33 @@
         "name": "Can't Close My Eyes",
         "year": "1985",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Break Down The Walls",
         "year": "1986",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "We're Not In This Alone",
         "year": "1988",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       },
       {
         "name": "Disengage",
         "year": "1990",
         "genres": [
-          "Hardcore Metal"
+          "Hardcore"
         ]
       }
     ],
     "tags": [
-      "Hardcore Metal"
+      "Hardcore"
     ]
   },
   {
