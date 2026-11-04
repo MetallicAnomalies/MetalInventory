@@ -2574,6 +2574,24 @@
     ]
   },
   {
+    "normalizedName": "helterskelter",
+    "displayName": "Helter Skelter",
+    "albums": [
+      {
+        "name": "Luciferous Satanous Doomicus",
+        "year": "2026",
+        "genres": [
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Stoner Metal",
+      "Stoner Metal"
+    ]
+  },
+  {
     "normalizedName": "hers",
     "displayName": "Her's",
     "origin": "US",
@@ -2948,6 +2966,24 @@
       "Rock",
       "Avant-garde",
       "Art Rock"
+    ]
+  },
+  {
+    "normalizedName": "khmerrouge",
+    "displayName": "Khmer Rouge",
+    "albums": [
+      {
+        "name": "Minimal Effort",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Crossover"
     ]
   },
   {

@@ -891,11 +891,21 @@
           "Death Metal",
           "Grindcore"
         ]
+      },
+      {
+        "name": "Bloody Show",
+        "year": "2026",
+        "genres": [
+          "Groove Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Grindcore"
+      "Grindcore",
+      "Groove Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -2115,12 +2125,21 @@
           "Black Metal",
           "Ambient"
         ]
+      },
+      {
+        "name": "Total Art",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dark Ambient"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
       "Ambient",
-      "Experimental Metal"
+      "Experimental Metal",
+      "Dark Ambient"
     ]
   },
   {

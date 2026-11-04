@@ -1776,6 +1776,22 @@
     ]
   },
   {
+    "normalizedName": "eyessewnshut",
+    "displayName": "Eyes Sewn Shut",
+    "albums": [
+      {
+        "name": "Carnage in Collusion",
+        "year": "2026",
+        "genres": [
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Deathcore"
+    ]
+  },
+  {
     "normalizedName": "ezophagothomia",
     "displayName": "Ezophagothomia",
     "albums": [
@@ -5450,6 +5466,26 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "zarachbaaltharagh",
+    "displayName": "Zarach 'Baal' Tharagh",
+    "albums": [
+      {
+        "name": "ZBT Space \"They are Among Us\"",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Ambient Noise",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Ambient Noise",
+      "Noise"
     ]
   }
 ]

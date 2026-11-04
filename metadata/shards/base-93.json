@@ -1617,6 +1617,18 @@
     ]
   },
   {
+    "normalizedName": "fuckedup",
+    "displayName": "Fucked Up",
+    "albums": [
+      {
+        "name": "Year Of The Rooster",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "fudgetunnel",
     "displayName": "Fudge Tunnel",
     "albums": [
@@ -2209,6 +2221,22 @@
       "Black Metal",
       "Experimental Metal",
       "Avant-garde Metal"
+    ]
+  },
+  {
+    "normalizedName": "krucifixionwoods",
+    "displayName": "Krucifixion Woods",
+    "albums": [
+      {
+        "name": "Krucifixion Woods / Kangastus",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

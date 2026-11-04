@@ -1109,6 +1109,11 @@
           "Melodic Groove Power Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "The Shadows We Buried",
+        "year": "2027",
+        "genres": []
       }
     ],
     "tags": [
@@ -1283,6 +1288,22 @@
       "Gothic Metal",
       "Symphonic Black Metal",
       "Blackened Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "deathcorp",
+    "displayName": "Deathcorp",
+    "albums": [
+      {
+        "name": "Cold Blooded Years 1987-1989",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {
@@ -2048,6 +2069,22 @@
     "tags": [
       "Death Metal",
       "Grindcore"
+    ]
+  },
+  {
+    "normalizedName": "gosika",
+    "displayName": "Gosika",
+    "albums": [
+      {
+        "name": "Impaled",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

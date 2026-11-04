@@ -930,11 +930,20 @@
           "Groove Metal",
           "Metalcore"
         ]
+      },
+      {
+        "name": "El destructor",
+        "year": "2026",
+        "genres": [
+          "Thrash Groove Metal",
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
       "Groove Metal",
-      "Metalcore"
+      "Metalcore",
+      "Thrash Groove Metal"
     ]
   },
   {

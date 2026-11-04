@@ -1046,9 +1046,18 @@
         "name": "Echoes",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Veritas",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Post-Black Metal"
+    ]
   },
   {
     "normalizedName": "chariot",

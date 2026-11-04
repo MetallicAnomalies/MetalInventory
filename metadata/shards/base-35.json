@@ -3978,6 +3978,24 @@
     ]
   },
   {
+    "normalizedName": "termiinus",
+    "displayName": "Termiinus",
+    "albums": [
+      {
+        "name": "Light Shattered Torn Within",
+        "year": "2026",
+        "genres": [
+          "Death Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Black Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "thedarkatom",
     "displayName": "The Dark Atom",
     "origin": "FR",
@@ -4246,6 +4264,13 @@
       },
       {
         "name": "Isolierter Geist",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Fortidens essens",
         "year": "2026",
         "genres": [
           "Black Metal"

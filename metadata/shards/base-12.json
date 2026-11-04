@@ -855,10 +855,20 @@
         "name": "Drac",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Dämmerlicht",
+        "year": "2026",
+        "genres": [
+          "Progressive Melodic Death Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Progressive Melodic Death Metal",
+      "Melodic Death Metal"
     ]
   },
   {
@@ -3345,6 +3355,22 @@
     ]
   },
   {
+    "normalizedName": "sepulchralaltar",
+    "displayName": "Sepulchral Altar",
+    "albums": [
+      {
+        "name": "Demo I",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "shipoftheseus",
     "displayName": "Ship Of Theseus",
     "albums": [
@@ -4012,6 +4038,22 @@
     ]
   },
   {
+    "normalizedName": "vkntr",
+    "displayName": "VKNTR",
+    "albums": [
+      {
+        "name": "Grimorium XI",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "vordøna",
     "displayName": "Vordøna",
     "albums": [
@@ -4248,6 +4290,40 @@
     ],
     "tags": [
       "Death Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "xenomorphicautopsy",
+    "displayName": "Xenomorphic Autopsy",
+    "albums": [
+      {
+        "name": "Intergalactic Gravitational Dimension",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      },
+      {
+        "name": "Interstellar Extermination",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      },
+      {
+        "name": "Interdimensional Parasitic Infestation",
+        "year": "2026",
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {

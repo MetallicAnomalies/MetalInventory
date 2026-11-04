@@ -218,6 +218,15 @@
           "Post-Black Metal",
           "Shoegaze"
         ]
+      },
+      {
+        "name": "The Soft Colors of a November Sunrise",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Shoegaze",
+          "Post-Black Metal",
+          "Shoegaze"
+        ]
       }
     ],
     "tags": [
@@ -1201,6 +1210,22 @@
     "tags": [
       "Mathcore",
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "cysgod",
+    "displayName": "Cysgod",
+    "albums": [
+      {
+        "name": "Promo MMXXVI",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -2500,6 +2525,29 @@
       "Neo Soul",
       "Hip Hop",
       "Contemporary R&B"
+    ]
+  },
+  {
+    "normalizedName": "kintraitor",
+    "displayName": "Kintraitor",
+    "albums": [
+      {
+        "name": "Beneath the Neon Skies",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Under Neon Lights",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {

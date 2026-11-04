@@ -520,6 +520,26 @@
     ]
   },
   {
+    "normalizedName": "blackradish",
+    "displayName": "Black Radish",
+    "albums": [
+      {
+        "name": "It's Alive!",
+        "year": "2026",
+        "genres": [
+          "Doom Rock",
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Rock",
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "blackwidows",
     "displayName": "Black Widows",
     "albums": [
@@ -2303,6 +2323,22 @@
     "tags": [
       "Speed Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "lostinmyvoid",
+    "displayName": "Lost in My Void",
+    "albums": [
+      {
+        "name": "Despair",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {

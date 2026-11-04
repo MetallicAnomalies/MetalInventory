@@ -4748,11 +4748,21 @@
           "Crossover Thrash",
           "Hardcore Punk"
         ]
+      },
+      {
+        "name": "Confidential",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
       }
     ],
     "tags": [
       "Crossover Thrash",
-      "Hardcore Punk"
+      "Hardcore Punk",
+      "Thrash Metal",
+      "Crossover"
     ]
   },
   {

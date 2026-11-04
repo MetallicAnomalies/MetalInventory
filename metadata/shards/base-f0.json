@@ -879,6 +879,26 @@
     ]
   },
   {
+    "normalizedName": "darkcitadel",
+    "displayName": "Dark Citadel",
+    "albums": [
+      {
+        "name": "Interstellar Inferno",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Doom Metal",
+      "Death Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "deathless",
     "displayName": "Deathless",
     "albums": [
@@ -1847,10 +1867,22 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Vigilante",
+        "year": "2026",
+        "genres": [
+          "Thrash Crossover",
+          "Speed Metal",
+          "Crossover"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Thrash Crossover",
+      "Speed Metal",
+      "Crossover"
     ]
   },
   {

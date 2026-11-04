@@ -1775,6 +1775,22 @@
     ]
   },
   {
+    "normalizedName": "headofcassandra",
+    "displayName": "Head of Cassandra",
+    "albums": [
+      {
+        "name": "Trup",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "heavydeath",
     "displayName": "Heavydeath",
     "albums": [
@@ -2380,6 +2396,14 @@
       },
       {
         "name": "The Skeletonization of It All",
+        "year": "2026",
+        "genres": [
+          "Death Black Metal",
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Devils Strike on Hell Night with Hell Knights",
         "year": "2026",
         "genres": [
           "Death Black Metal",
@@ -4188,6 +4212,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "thosewholiveindeath",
+    "displayName": "Those Who Live in Death",
+    "albums": [
+      {
+        "name": "Under the Carian Darkmoon",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "toddmichaelhall",

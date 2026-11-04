@@ -1591,6 +1591,26 @@
     ]
   },
   {
+    "normalizedName": "gamemiscondvct",
+    "displayName": "Game Miscondvct",
+    "albums": [
+      {
+        "name": "Full Speed Zamboni Massacre",
+        "year": "2026",
+        "genres": [
+          "Slam Deathcore",
+          "Brutal Death Metal",
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Deathcore",
+      "Brutal Death Metal",
+      "Deathcore"
+    ]
+  },
+  {
     "normalizedName": "ghostkid",
     "displayName": "Ghostkid",
     "albums": [
@@ -2071,6 +2091,13 @@
       {
         "name": "Katastrophic Creation",
         "year": "2024",
+        "genres": [
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Absolut Hate/Fog of War",
+        "year": "2026",
         "genres": [
           "Thrash Metal"
         ]

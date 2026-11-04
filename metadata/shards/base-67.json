@@ -2520,6 +2520,22 @@
     ]
   },
   {
+    "normalizedName": "kryza",
+    "displayName": "Kryza",
+    "albums": [
+      {
+        "name": "Kryza",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "kypck",
     "displayName": "Kypck",
     "albums": [
@@ -3336,6 +3352,26 @@
     "tags": [
       "Hard Rock",
       "Stoner Rock"
+    ]
+  },
+  {
+    "normalizedName": "psychoda",
+    "displayName": "Psychoda",
+    "albums": [
+      {
+        "name": "Under the West End",
+        "year": "2026",
+        "genres": [
+          "Southern Hardcore",
+          "Sludge Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Southern Hardcore",
+      "Sludge Metal",
+      "Hardcore"
     ]
   },
   {
@@ -5135,6 +5171,11 @@
         "genres": [
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Zebra V",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

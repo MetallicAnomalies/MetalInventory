@@ -2357,6 +2357,29 @@
     ]
   },
   {
+    "normalizedName": "loficocaine",
+    "displayName": "Lofi Cocaine",
+    "albums": [
+      {
+        "name": "C17H21NO4",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Lo Fi Cocaine",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "lossswe",
     "displayName": "Loss (Swe)",
     "albums": [
@@ -2569,6 +2592,22 @@
     ],
     "tags": [
       "Atmospheric Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "nemophilic",
+    "displayName": "Nemophilic",
+    "albums": [
+      {
+        "name": "Fall 2026",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

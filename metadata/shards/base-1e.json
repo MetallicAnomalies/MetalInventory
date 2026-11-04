@@ -3912,10 +3912,20 @@
         "genres": [
           "Death Doom Metal"
         ]
+      },
+      {
+        "name": "Near Exquisite Lasting Anguish",
+        "year": "2026",
+        "genres": [
+          "Melodic Doom Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Melodic Doom Death Metal",
+      "Death Metal"
     ]
   },
   {
@@ -5681,6 +5691,13 @@
       },
       {
         "name": "The Old Sky",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Killers",
         "year": "2026",
         "genres": [
           "Black Metal"

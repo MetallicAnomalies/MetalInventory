@@ -3646,11 +3646,20 @@
           "Black Metal",
           "Crust Punk"
         ]
+      },
+      {
+        "name": "Swampthrone",
+        "year": "2027",
+        "genres": [
+          "Black Metal",
+          "Melodic Hardcore"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Crust Punk"
+      "Crust Punk",
+      "Melodic Hardcore"
     ]
   },
   {

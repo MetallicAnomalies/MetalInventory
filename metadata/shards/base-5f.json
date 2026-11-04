@@ -2125,6 +2125,48 @@
     ]
   },
   {
+    "normalizedName": "heteindedertijden",
+    "displayName": "Het Einde der Tijden",
+    "albums": [
+      {
+        "name": "Teleurstelling Split EP",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Metal",
+          "Techno"
+        ]
+      },
+      {
+        "name": "Alleen EP",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Metal",
+          "Techno"
+        ]
+      },
+      {
+        "name": "Machteloos",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Metal",
+          "Techno"
+        ]
+      },
+      {
+        "name": "Onschuldig Bloed",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Metal",
+          "Techno"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Black Metal",
+      "Techno"
+    ]
+  },
+  {
     "normalizedName": "higherpower",
     "displayName": "Higher Power",
     "albums": [
@@ -2831,6 +2873,11 @@
           "Hard Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Re-Vamp",
+        "year": "2027",
+        "genres": []
       }
     ],
     "tags": [

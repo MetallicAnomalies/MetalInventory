@@ -2014,11 +2014,20 @@
         "name": "Skuggor Del 1 EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Skuggor Del 1",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Stoner Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Stoner Doom Metal"
     ]
   },
   {

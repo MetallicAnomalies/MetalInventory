@@ -784,6 +784,22 @@
     ]
   },
   {
+    "normalizedName": "beheadless",
+    "displayName": "Beheadless",
+    "albums": [
+      {
+        "name": "Haunted Kingdom / Hextasy",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "bellemorte",
     "displayName": "Belle Morte",
     "origin": "BY",
@@ -1361,6 +1377,13 @@
         "year": "2020",
         "genres": [
           "Bay Area Thrash Metal"
+        ]
+      },
+      {
+        "name": "The Never Was",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
         ]
       }
     ],

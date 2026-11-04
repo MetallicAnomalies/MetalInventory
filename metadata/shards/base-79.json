@@ -1179,6 +1179,22 @@
     ]
   },
   {
+    "normalizedName": "dangermachine",
+    "displayName": "Danger Machine",
+    "albums": [
+      {
+        "name": "Tale of the Witchburner",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "darkoath",
     "displayName": "Dark Oath",
     "origin": "PT",
@@ -3047,11 +3063,21 @@
         "genres": [
           "Ambient Black Metal"
         ]
+      },
+      {
+        "name": "Die to This",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
       }
     ],
     "tags": [
       "Ambient Black Metal",
-      "Dark Ambient"
+      "Dark Ambient",
+      "Black Metal",
+      "Ambient"
     ]
   },
   {
@@ -3224,6 +3250,24 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "malversation",
+    "displayName": "Malversation",
+    "albums": [
+      {
+        "name": "Imperial Horror",
+        "year": "2026",
+        "genres": [
+          "Blackened Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Sludge Doom Metal",
+      "Doom Metal"
     ]
   },
   {

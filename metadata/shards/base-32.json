@@ -1397,6 +1397,22 @@
     ]
   },
   {
+    "normalizedName": "crummy",
+    "displayName": "Crummy",
+    "albums": [
+      {
+        "name": "Atlas",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "cytoparasitic",
     "displayName": "Cytoparasitic",
     "albums": [
@@ -2428,6 +2444,20 @@
     "albums": [
       {
         "name": "Part: I",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "Ensomhet",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "Helpless",
         "year": "2026",
         "genres": [
           "Depressive Black Metal"

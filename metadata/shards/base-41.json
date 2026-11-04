@@ -1908,6 +1908,24 @@
     ]
   },
   {
+    "normalizedName": "gatesopen",
+    "displayName": "Gates Open",
+    "albums": [
+      {
+        "name": "Beyond the Black Gates",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "ghosther",
     "displayName": "Ghosther",
     "origin": "DE",
@@ -2214,6 +2232,22 @@
     "tags": [
       "Power Metal",
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "lemorla",
+    "displayName": "Lemorla",
+    "albums": [
+      {
+        "name": "All the Way to Ashtaroth",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {

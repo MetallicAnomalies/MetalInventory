@@ -2184,6 +2184,24 @@
     ]
   },
   {
+    "normalizedName": "nemeses",
+    "displayName": "Nemeses",
+    "albums": [
+      {
+        "name": "Life Is Fire",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Thrash Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "nerd",
     "displayName": "N.E.R.D",
     "origin": "US",
@@ -4103,6 +4121,24 @@
     ],
     "tags": [
       "Electro-Industrial"
+    ]
+  },
+  {
+    "normalizedName": "точканевозврата",
+    "displayName": "Точка Невозврата",
+    "albums": [
+      {
+        "name": "Каменный Крест",
+        "year": "2026",
+        "genres": [
+          "Heavy Thrash Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {

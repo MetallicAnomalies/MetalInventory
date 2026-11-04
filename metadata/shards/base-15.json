@@ -177,6 +177,22 @@
     ]
   },
   {
+    "normalizedName": "angrist",
+    "displayName": "Angrist",
+    "albums": [
+      {
+        "name": "Songs of the Silmarils",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "apothesary",
     "displayName": "Apothesary",
     "albums": [
@@ -1231,6 +1247,15 @@
           "Gothic Alternative Rock",
           "Alternative Rock"
         ]
+      },
+      {
+        "name": "Isolde",
+        "year": "2026",
+        "genres": [
+          "Doom Metal",
+          "Gothic Alternative Rock",
+          "Alternative Rock"
+        ]
       }
     ],
     "tags": [
@@ -1311,6 +1336,11 @@
         "genres": [
           "Alternative"
         ]
+      },
+      {
+        "name": "R.I.P.",
+        "year": "2027",
+        "genres": []
       }
     ],
     "tags": [

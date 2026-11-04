@@ -2360,6 +2360,24 @@
     ]
   },
   {
+    "normalizedName": "fleshtomb",
+    "displayName": "Flesh Tomb",
+    "albums": [
+      {
+        "name": "Fucked and Worthless",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "foreigner",
     "displayName": "Foreigner",
     "origin": "US",
@@ -2599,6 +2617,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "grishjarta",
+    "displayName": "Grishjärta",
+    "albums": [
+      {
+        "name": "For the God Bellow",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {
@@ -4200,6 +4234,26 @@
     "tags": [
       "Death Doom Metal",
       "Death Metal",
+      "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "mourner",
+    "displayName": "Mourner",
+    "albums": [
+      {
+        "name": "Hymns of the Unrighteous",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Doom Metal",
+      "Sludge Doom Metal",
       "Doom Metal"
     ]
   },

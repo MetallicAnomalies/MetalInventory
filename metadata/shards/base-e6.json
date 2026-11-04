@@ -640,6 +640,26 @@
     ]
   },
   {
+    "normalizedName": "breaths",
+    "displayName": "Breaths",
+    "albums": [
+      {
+        "name": "Into the Depths",
+        "year": "2026",
+        "genres": [
+          "Black Shoegaze",
+          "Doom Metal",
+          "Shoegaze"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Shoegaze",
+      "Doom Metal",
+      "Shoegaze"
+    ]
+  },
+  {
     "normalizedName": "burialmound",
     "displayName": "Burialmound",
     "albums": [
@@ -4599,6 +4619,18 @@
       "Atmospheric Black Metal",
       "Dark Ambient"
     ]
+  },
+  {
+    "normalizedName": "strength",
+    "displayName": "Strength",
+    "albums": [
+      {
+        "name": "Schwarzes Herz",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "structures",

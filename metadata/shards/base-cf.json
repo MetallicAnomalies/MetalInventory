@@ -2053,6 +2053,13 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Kingdom of Shadows",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -2086,9 +2093,18 @@
         "name": "City Pulse",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Phoenix Down",
+        "year": "2026",
+        "genres": [
+          "Experimental Heavy Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Experimental Heavy Metal"
+    ]
   },
   {
     "normalizedName": "marblecarrion",

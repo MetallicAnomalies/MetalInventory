@@ -905,6 +905,18 @@
     ]
   },
   {
+    "normalizedName": "candorzealot",
+    "displayName": "Candor Zealot",
+    "albums": [
+      {
+        "name": "Revolt! EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "carna",
     "displayName": "Carna",
     "albums": [
@@ -2616,11 +2628,20 @@
           "Death Metal",
           "Black Metal"
         ]
+      },
+      {
+        "name": "Abandoned Souls",
+        "year": "2027",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Black Metal"
+      "Black Metal",
+      "Black Death Metal"
     ]
   },
   {
@@ -3599,6 +3620,22 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "nastyface",
+    "displayName": "Nasty Face",
+    "albums": [
+      {
+        "name": "Face Collection II (2018-2026)",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind"
     ]
   },
   {

@@ -3318,9 +3318,20 @@
         "name": "Silence Is Violence",
         "year": "2024",
         "genres": []
+      },
+      {
+        "name": "Side Effect",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Deathcore"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal",
+      "Deathcore"
+    ]
   },
   {
     "normalizedName": "primigenium",

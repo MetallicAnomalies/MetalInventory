@@ -3581,6 +3581,26 @@
     ]
   },
   {
+    "normalizedName": "nxaaxul",
+    "displayName": "Nxaaxul",
+    "albums": [
+      {
+        "name": "Babylon",
+        "year": "2026",
+        "genres": [
+          "Black Doom Metal",
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Doom Metal",
+      "Death Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "nyktalgia",
     "displayName": "Nyktalgia",
     "albums": [
@@ -4228,6 +4248,14 @@
     "albums": [
       {
         "name": "The Queen of Wildred",
+        "year": "2026",
+        "genres": [
+          "Heavy Power Metal",
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "Valkyries",
         "year": "2026",
         "genres": [
           "Heavy Power Metal",

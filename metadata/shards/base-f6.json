@@ -119,6 +119,22 @@
     ]
   },
   {
+    "normalizedName": "aexeixcla",
+    "displayName": "Aexeixcla",
+    "albums": [
+      {
+        "name": "Unholy Wars",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "afflictiongate",
     "displayName": "Affliction Gate",
     "albums": [
@@ -2440,6 +2456,24 @@
     "tags": [
       "Death Doom Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "infernalknight",
+    "displayName": "Infernal Knight",
+    "albums": [
+      {
+        "name": "Triumvirate",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Black Metal",
+      "Black Metal"
     ]
   },
   {

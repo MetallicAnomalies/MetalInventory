@@ -4981,6 +4981,13 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Veiling the Void",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
@@ -5232,6 +5239,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "waldschratt",
+    "displayName": "Waldschratt",
+    "albums": [
+      {
+        "name": "Mein ist der Wald",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

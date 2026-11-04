@@ -1474,6 +1474,26 @@
     ]
   },
   {
+    "normalizedName": "diarreanuclear",
+    "displayName": "Diarrea Nuclear",
+    "albums": [
+      {
+        "name": "Unanswered",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Goregrind Grindcore",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal",
+      "Goregrind Grindcore",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "discreation",
     "displayName": "Discreation",
     "albums": [
@@ -3462,6 +3482,22 @@
       "Hard Rock",
       "Speed Metal",
       "Industrial Metal"
+    ]
+  },
+  {
+    "normalizedName": "merge",
+    "displayName": "Merge",
+    "albums": [
+      {
+        "name": "Dawn",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal"
     ]
   },
   {

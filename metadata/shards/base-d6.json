@@ -1858,6 +1858,24 @@
     ]
   },
   {
+    "normalizedName": "frakturmentory",
+    "displayName": "Frakturmentory",
+    "albums": [
+      {
+        "name": "Frakturmentory / Desmorrhexis",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "fucklife",
     "displayName": "Fucklife",
     "albums": [
@@ -1896,6 +1914,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "gardenofremembrance",
+    "displayName": "Garden of Remembrance",
+    "albums": [
+      {
+        "name": "Words That Fall on a Page",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Doom Metal"
     ]
   },
   {

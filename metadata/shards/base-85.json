@@ -1,5 +1,21 @@
 [
   {
+    "normalizedName": "abscessed",
+    "displayName": "Abscessed",
+    "albums": [
+      {
+        "name": "Amputation and Gore",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "absentation",
     "displayName": "Absentation",
     "origin": "DE",
@@ -5935,10 +5951,19 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Brimstone",
+        "year": "2026",
+        "genres": [
+          "Metalcore Melodic Death Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Metalcore Melodic Death Metal"
     ]
   }
 ]

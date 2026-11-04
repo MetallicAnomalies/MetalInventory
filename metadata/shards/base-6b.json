@@ -1400,6 +1400,22 @@
     ]
   },
   {
+    "normalizedName": "excineratus",
+    "displayName": "Ex Cineratus",
+    "albums": [
+      {
+        "name": "Jävlar Anamma",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Death Metal"
+    ]
+  },
+  {
     "normalizedName": "fluturipeasfalt",
     "displayName": "Fluturi Pe Asfalt",
     "albums": [
@@ -3573,6 +3589,11 @@
           "Death Metal",
           "Crust Punk"
         ]
+      },
+      {
+        "name": "Dominion",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

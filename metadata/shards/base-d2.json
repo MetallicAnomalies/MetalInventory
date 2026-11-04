@@ -1291,6 +1291,24 @@
     ]
   },
   {
+    "normalizedName": "deithesis",
+    "displayName": "Deithesis",
+    "albums": [
+      {
+        "name": "Disparity Part A",
+        "year": "2026",
+        "genres": [
+          "Heavy Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "denythefallen",
     "displayName": "Deny The Fallen",
     "albums": [
@@ -2078,6 +2096,18 @@
     ]
   },
   {
+    "normalizedName": "heartwind",
+    "displayName": "Heartwind",
+    "albums": [
+      {
+        "name": "Cold Hearted Ballerina",
+        "year": "2027",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "hellbones",
     "displayName": "Hellbones",
     "albums": [
@@ -2527,6 +2557,11 @@
           "Alternative",
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "The Moon Is Witness",
+        "year": "2027",
+        "genres": []
       }
     ],
     "tags": [

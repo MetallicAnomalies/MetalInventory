@@ -1489,6 +1489,22 @@
     ]
   },
   {
+    "normalizedName": "drapedinblack",
+    "displayName": "Draped in Black",
+    "albums": [
+      {
+        "name": "Descending from the Heavens",
+        "year": "2026",
+        "genres": [
+          "Blackened Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Metalcore"
+    ]
+  },
+  {
     "normalizedName": "drownthiscity",
     "displayName": "Drown This City",
     "origin": "AU",
@@ -5070,6 +5086,26 @@
     ],
     "tags": [
       "Death Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "vindalf",
+    "displayName": "Vindalf",
+    "albums": [
+      {
+        "name": "Through the Black Fires of Ascension",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient Dungeon Synth",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Ambient Dungeon Synth",
+      "Dungeon Synth"
     ]
   },
   {

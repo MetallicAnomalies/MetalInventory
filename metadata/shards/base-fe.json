@@ -895,6 +895,24 @@
     ]
   },
   {
+    "normalizedName": "deadlyroots",
+    "displayName": "Deadly Roots",
+    "albums": [
+      {
+        "name": "Metal Colombiano",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "deadsacraments",
     "displayName": "Dead Sacraments",
     "albums": [
@@ -4441,6 +4459,22 @@
     ],
     "tags": [
       "Goregrind"
+    ]
+  },
+  {
+    "normalizedName": "stormpyre",
+    "displayName": "Stormpyre",
+    "albums": [
+      {
+        "name": "On the Throne of a Forgotten God",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
     ]
   },
   {

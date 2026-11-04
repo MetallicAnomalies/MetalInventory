@@ -3124,6 +3124,24 @@
     ]
   },
   {
+    "normalizedName": "resumptiontabernaculum",
+    "displayName": "Resumption/Tabernaculum",
+    "albums": [
+      {
+        "name": "Theatre of Misanthropy",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "ronkeel",
     "displayName": "Ron Keel",
     "albums": [
@@ -3962,6 +3980,24 @@
     "tags": [
       "Folk Metal",
       "Melodic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "tumulovenereo",
+    "displayName": "Túmulo Venéreo",
+    "albums": [
+      {
+        "name": "Aquelarre de baldío",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

@@ -525,6 +525,22 @@
     ]
   },
   {
+    "normalizedName": "bloxectomy",
+    "displayName": "Bloxectomy",
+    "albums": [
+      {
+        "name": "Deathrun Thru My Ass / SUCKPRANOS (King of BLOXsticks)",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind"
+    ]
+  },
+  {
     "normalizedName": "bumilingus",
     "displayName": "Bumilingus",
     "albums": [
@@ -1832,6 +1848,13 @@
       {
         "name": "Empire I: Voices",
         "year": "2026",
+        "genres": [
+          "Symphonic Death Metal"
+        ]
+      },
+      {
+        "name": "Return from Beyond",
+        "year": "2027",
         "genres": [
           "Symphonic Death Metal"
         ]
@@ -5440,9 +5463,20 @@
         "name": "…Of Systematic Decay",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "...Of Systemic Decay",
+        "year": "2026",
+        "genres": [
+          "Thrash Heavy Metal",
+          "Heavy Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Thrash Heavy Metal",
+      "Heavy Metal"
+    ]
   },
   {
     "normalizedName": "wizardmask",

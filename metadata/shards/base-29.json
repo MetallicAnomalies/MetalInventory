@@ -645,6 +645,22 @@
     ]
   },
   {
+    "normalizedName": "blackstultiferya",
+    "displayName": "Black/Stultiferya",
+    "albums": [
+      {
+        "name": "Necromancia - La Danza De Los Espectros",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "byronnemethgroup",
     "displayName": "Byron Nemeth Group",
     "albums": [
@@ -2099,6 +2115,24 @@
     ],
     "tags": [
       "Atmospheric Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "inkfletcher",
+    "displayName": "Ink Fletcher",
+    "albums": [
+      {
+        "name": "October Theater",
+        "year": "2026",
+        "genres": [
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {

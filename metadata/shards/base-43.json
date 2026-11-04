@@ -315,6 +315,22 @@
     ]
   },
   {
+    "normalizedName": "blacnk",
+    "displayName": "Blacnk",
+    "albums": [
+      {
+        "name": "Generations Waiting to Die",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "blazon",
     "displayName": "Blazón",
     "albums": [
@@ -3136,6 +3152,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "ravensfroidnoise",
+    "displayName": "Raven's Froidnoise",
+    "albums": [
+      {
+        "name": "Catharsis",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal",
+      "Rock"
     ]
   },
   {

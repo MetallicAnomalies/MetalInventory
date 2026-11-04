@@ -1225,6 +1225,22 @@
     ]
   },
   {
+    "normalizedName": "dmrbr",
+    "displayName": "DMRBR",
+    "albums": [
+      {
+        "name": "Forgotten Aether",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "elina",
     "displayName": "Elina",
     "origin": "SE",
@@ -4793,6 +4809,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "totenfolge",
+    "displayName": "Totenfolge",
+    "albums": [
+      {
+        "name": "Totenfolge",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Death Metal"
     ]
   },
   {

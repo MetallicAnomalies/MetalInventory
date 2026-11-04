@@ -937,6 +937,14 @@
           "Black Metal",
           "Grindcore"
         ]
+      },
+      {
+        "name": "-C-",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
@@ -1426,6 +1434,18 @@
     "tags": [
       "Grindcore"
     ]
+  },
+  {
+    "normalizedName": "gorma",
+    "displayName": "Gorma",
+    "albums": [
+      {
+        "name": "Eat The Sky",
+        "year": "2027",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "greynovember",

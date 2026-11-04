@@ -785,6 +785,11 @@
           "Heavy Metal",
           "Gothic Rock"
         ]
+      },
+      {
+        "name": "Above, Below & Through",
+        "year": "2027",
+        "genres": []
       }
     ],
     "tags": [
@@ -1258,6 +1263,31 @@
     ],
     "tags": [
       "Electronic Symphonic"
+    ]
+  },
+  {
+    "normalizedName": "doombia",
+    "displayName": "Doombia",
+    "albums": [
+      {
+        "name": "El Diablo Que Conoces",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Doombia Vol. 2: El Diablo que conoces",
+        "year": "2026",
+        "genres": [
+          "Doom Cumbia",
+          "Stoner Metal",
+          "Cumbia"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Cumbia",
+      "Stoner Metal",
+      "Cumbia"
     ]
   },
   {
@@ -3093,6 +3123,24 @@
     ],
     "tags": [
       "Symphonic Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "pretorius",
+    "displayName": "Pretorius",
+    "albums": [
+      {
+        "name": "Visceral",
+        "year": "2026",
+        "genres": [
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Sludge Metal",
+      "Sludge Metal"
     ]
   },
   {

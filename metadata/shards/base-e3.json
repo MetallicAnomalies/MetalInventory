@@ -898,6 +898,18 @@
     ]
   },
   {
+    "normalizedName": "crowquill",
+    "displayName": "Crowquill",
+    "albums": [
+      {
+        "name": "Slept With Cannula",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "crucifixis",
     "displayName": "Crucifixis",
     "albums": [
@@ -1871,11 +1883,20 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Two Decades of Terror",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "Black Death Metal"
     ]
   },
   {
@@ -2477,11 +2498,31 @@
     ]
   },
   {
+    "normalizedName": "lebien",
+    "displayName": "Le Bien",
+    "albums": [
+      {
+        "name": "Losers EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "lilith",
     "displayName": "Lilith",
     "albums": [
       {
         "name": "September Demo",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Thanatosis",
         "year": "2026",
         "genres": [
           "Black Death Metal",
@@ -3200,6 +3241,11 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "The Room Of Shadows Re-Release",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

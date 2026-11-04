@@ -1544,6 +1544,22 @@
     ]
   },
   {
+    "normalizedName": "hopeidie",
+    "displayName": "Hope I Die",
+    "albums": [
+      {
+        "name": "Flesh Wound",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "hurakan",
     "displayName": "Hurakan",
     "origin": "FR",
@@ -3074,6 +3090,26 @@
     "tags": [
       "Melodic Death Metal",
       "Hardcore"
+    ]
+  },
+  {
+    "normalizedName": "phantomexcaliver",
+    "displayName": "Phantom Excaliver",
+    "albums": [
+      {
+        "name": "Heavy Metal Crusaders",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metalcore",
+          "Power Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metalcore",
+      "Power Metal",
+      "Metalcore"
     ]
   },
   {

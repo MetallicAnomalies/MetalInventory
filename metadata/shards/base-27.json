@@ -2750,6 +2750,11 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Crimson Prophecy",
+        "year": "2027",
+        "genres": []
       }
     ],
     "tags": [
@@ -3768,6 +3773,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "onusvitae",
+    "displayName": "Onus Vitae",
+    "albums": [
+      {
+        "name": "Sleeping Giant",
+        "year": "2026",
+        "genres": [
+          "Melodic Heavy Gothic Metal",
+          "Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Heavy Gothic Metal",
+      "Gothic Metal"
     ]
   },
   {

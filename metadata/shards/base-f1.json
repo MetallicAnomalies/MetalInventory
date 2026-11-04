@@ -250,6 +250,22 @@
     ]
   },
   {
+    "normalizedName": "asbjorndaemoniumdenoctis",
+    "displayName": "Asbjorn Daemonium de Noctis",
+    "albums": [
+      {
+        "name": "Abhorrence True",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "ashbringer",
     "displayName": "Ashbringer",
     "origin": "US",
@@ -1755,6 +1771,22 @@
     ]
   },
   {
+    "normalizedName": "isinku",
+    "displayName": "Ìsinkú",
+    "albums": [
+      {
+        "name": "Caput Capricorn",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "jonomccleery",
     "displayName": "Jono McCleery",
     "origin": "GB",
@@ -2470,6 +2502,24 @@
     ],
     "tags": [
       "Deathcore"
+    ]
+  },
+  {
+    "normalizedName": "proprietor",
+    "displayName": "Proprietor",
+    "albums": [
+      {
+        "name": "The House on the Hill",
+        "year": "2026",
+        "genres": [
+          "Heavy Groove Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Groove Metal",
+      "Groove Metal"
     ]
   },
   {
@@ -3431,6 +3481,13 @@
     "albums": [
       {
         "name": "Eye of the Monolith",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Abyssmal Funeral",
         "year": "2026",
         "genres": [
           "Black Metal"

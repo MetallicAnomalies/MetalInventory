@@ -2223,6 +2223,24 @@
     ]
   },
   {
+    "normalizedName": "lvciferianbombardment",
+    "displayName": "Lvciferian Bombardment",
+    "albums": [
+      {
+        "name": "Demo MMXXVI",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "lykhaeon",
     "displayName": "Lykhaeon",
     "albums": [
@@ -3035,6 +3053,22 @@
       "Funk / Soul",
       "Hip Hop",
       "Contemporary R&B"
+    ]
+  },
+  {
+    "normalizedName": "runenwacht",
+    "displayName": "Runenwacht",
+    "albums": [
+      {
+        "name": "Undankbar",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

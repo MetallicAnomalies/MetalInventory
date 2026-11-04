@@ -2157,6 +2157,18 @@
     ]
   },
   {
+    "normalizedName": "hellishweather",
+    "displayName": "Hellish Weather",
+    "albums": [
+      {
+        "name": "Light EP",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "hierarchicalpunishment",
     "displayName": "Hierarchical Punishment",
     "albums": [
@@ -3627,6 +3639,18 @@
     ]
   },
   {
+    "normalizedName": "powercross",
+    "displayName": "Powercross",
+    "albums": [
+      {
+        "name": "Echoes Of Elysium Part I",
+        "year": "2027",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "powerpaladin",
     "displayName": "Power Paladin",
     "albums": [
@@ -4697,6 +4721,26 @@
     "tags": [
       "Drone Doom Metal",
       "Dark Ambient"
+    ]
+  },
+  {
+    "normalizedName": "thefleshtradingcompany",
+    "displayName": "The Flesh Trading Company",
+    "albums": [
+      {
+        "name": "Last Will of the Dead and Damned",
+        "year": "2026",
+        "genres": [
+          "Heavy Death Metal",
+          "Thrash Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Death Metal",
+      "Thrash Death Metal",
+      "Death Metal"
     ]
   },
   {

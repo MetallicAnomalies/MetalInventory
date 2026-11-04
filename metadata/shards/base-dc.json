@@ -3142,6 +3142,24 @@
     ]
   },
   {
+    "normalizedName": "phoenixvalley",
+    "displayName": "Phoenix Valley",
+    "albums": [
+      {
+        "name": "Acolyte",
+        "year": "2026",
+        "genres": [
+          "Doom Stoner Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Stoner Metal",
+      "Stoner Metal"
+    ]
+  },
+  {
     "normalizedName": "pretext",
     "displayName": "Pretext",
     "albums": [
@@ -3416,6 +3434,11 @@
       },
       {
         "name": "Help Point",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Passage Through Air",
         "year": "2026",
         "genres": []
       }

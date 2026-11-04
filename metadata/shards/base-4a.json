@@ -526,6 +526,22 @@
     "tags": []
   },
   {
+    "normalizedName": "bindingdecree",
+    "displayName": "Binding Decree",
+    "albums": [
+      {
+        "name": "Mala of Entrails",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "blackflux",
     "displayName": "Black Flux",
     "albums": [
@@ -2903,11 +2919,22 @@
           "Doom Metal",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Goin' Blind",
+        "year": "2026",
+        "genres": [
+          "Heavy Rock",
+          "Doom Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Hard Rock"
+      "Hard Rock",
+      "Heavy Rock",
+      "Rock"
     ]
   },
   {
@@ -3685,6 +3712,22 @@
       "Atmospheric Doom Metal",
       "Atmospheric Sludge Metal",
       "Post-Metal"
+    ]
+  },
+  {
+    "normalizedName": "serigala",
+    "displayName": "Serigala",
+    "albums": [
+      {
+        "name": "Sunyaruri (Homeward Part II)",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal"
     ]
   },
   {

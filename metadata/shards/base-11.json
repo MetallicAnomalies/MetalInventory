@@ -569,6 +569,22 @@
     ]
   },
   {
+    "normalizedName": "ceremoniamortifera",
+    "displayName": "Ceremonia Mortífera",
+    "albums": [
+      {
+        "name": "Ego, Consvmatio Temporvm",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "civerous",
     "displayName": "Civerous",
     "albums": [
@@ -1179,6 +1195,13 @@
       {
         "name": "Pestilence",
         "year": "2023",
+        "genres": [
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "We are Tyrants",
+        "year": "2026",
         "genres": [
           "Power Metal"
         ]

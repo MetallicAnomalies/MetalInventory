@@ -1203,6 +1203,22 @@
     ]
   },
   {
+    "normalizedName": "dismalconstruct",
+    "displayName": "Dismal Construct",
+    "albums": [
+      {
+        "name": "Dismal Construct",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "dogfacedgods",
     "displayName": "Dog Faced Gods",
     "albums": [
@@ -4417,6 +4433,24 @@
     "tags": [
       "Groove Heavy Metal",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "stormingwarfare",
+    "displayName": "Storming Warfare",
+    "albums": [
+      {
+        "name": "The Storms of War",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

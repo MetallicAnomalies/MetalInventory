@@ -638,6 +638,24 @@
     ]
   },
   {
+    "normalizedName": "birushanah",
+    "displayName": "Birushanah",
+    "albums": [
+      {
+        "name": "対極ノ戯",
+        "year": "2026",
+        "genres": [
+          "Experimental Sludge Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Sludge Doom Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "brassagainst",
     "displayName": "Brass Against",
     "origin": "US",
@@ -737,6 +755,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "calvaryveineslikevines",
+    "displayName": "Calvary/Veines Like Vines",
+    "albums": [
+      {
+        "name": "Split",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "carbomb",

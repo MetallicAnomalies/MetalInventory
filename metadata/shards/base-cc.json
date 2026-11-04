@@ -1948,6 +1948,24 @@
     ]
   },
   {
+    "normalizedName": "greattrouble",
+    "displayName": "Great Trouble",
+    "albums": [
+      {
+        "name": "May No Green Thing Ever Grow Where You Rot",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "grindminded",
     "displayName": "Grind Minded",
     "albums": [
@@ -2661,6 +2679,22 @@
     ],
     "tags": [
       "Experimental Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "pestverseuchung",
+    "displayName": "Pestverseuchung",
+    "albums": [
+      {
+        "name": "Live Thuringia 2026",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

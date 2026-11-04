@@ -3588,6 +3588,14 @@
           "Black Metal",
           "Dark Ambient"
         ]
+      },
+      {
+        "name": "Dead to the World",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dark Ambient"
+        ]
       }
     ],
     "tags": [
@@ -4055,6 +4063,24 @@
       }
     ],
     "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "soregh",
+    "displayName": "Soregh",
+    "albums": [
+      {
+        "name": "The Circle",
+        "year": "2026",
+        "genres": [
+          "Drone Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Drone Doom Metal",
       "Doom Metal"
     ]
   },

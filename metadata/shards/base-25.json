@@ -1829,6 +1829,24 @@
     ]
   },
   {
+    "normalizedName": "hardtension",
+    "displayName": "Hard Tension",
+    "albums": [
+      {
+        "name": "Fear & Guilt (Revamp 2026)",
+        "year": "2026",
+        "genres": [
+          "Neoclassical Power Metal",
+          "Shred"
+        ]
+      }
+    ],
+    "tags": [
+      "Neoclassical Power Metal",
+      "Shred"
+    ]
+  },
+  {
     "normalizedName": "headline",
     "displayName": "Headline",
     "albums": [
@@ -3175,6 +3193,24 @@
     ],
     "tags": [
       "Gothic Metal"
+    ]
+  },
+  {
+    "normalizedName": "shatterstone",
+    "displayName": "Shatterstone",
+    "albums": [
+      {
+        "name": "Rehearsal Tape #1 - 31/10/2026",
+        "year": "2026",
+        "genres": [
+          "Sludge Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Death Metal",
+      "Death Metal"
     ]
   },
   {

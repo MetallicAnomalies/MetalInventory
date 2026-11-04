@@ -163,6 +163,24 @@
     ]
   },
   {
+    "normalizedName": "aisa",
+    "displayName": "AISA",
+    "albums": [
+      {
+        "name": "Back in the Street",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "akoma",
     "displayName": "Akoma",
     "origin": "DK",
@@ -2598,6 +2616,29 @@
       }
     ],
     "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "infernalien",
+    "displayName": "Infernalien",
+    "albums": [
+      {
+        "name": "Escathology Of Abduction",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Eschatology of Abduction",
+        "year": "2026",
+        "genres": [
+          "Death Black Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Black Metal",
       "Black Metal"
     ]
   },

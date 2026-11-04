@@ -4898,6 +4898,22 @@
     ]
   },
   {
+    "normalizedName": "victimarumalkemisti",
+    "displayName": "Victimarum/Alkemisti",
+    "albums": [
+      {
+        "name": "Ylistys",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "vionkonger",
     "displayName": "Vion Konger",
     "origin": "RU",
@@ -5240,6 +5256,24 @@
     "tags": [
       "Melodic Death Metal",
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "психоз448",
+    "displayName": "Психоз 4.48",
+    "albums": [
+      {
+        "name": "Быть или не быть",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Doom Metal",
+      "Doom Metal"
     ]
   }
 ]

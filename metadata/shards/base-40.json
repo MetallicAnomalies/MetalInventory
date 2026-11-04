@@ -730,6 +730,24 @@
     ]
   },
   {
+    "normalizedName": "bloodsip",
+    "displayName": "Bloodsip",
+    "albums": [
+      {
+        "name": "Self Decay",
+        "year": "2026",
+        "genres": [
+          "Doom Sludge Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Sludge Metal",
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "bossedenage",
     "displayName": "Bosse-de-nage",
     "albums": [
@@ -1825,6 +1843,24 @@
     ],
     "tags": [
       "Atmospheric Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "forbiddenhymn",
+    "displayName": "Forbidden Hymn",
+    "albums": [
+      {
+        "name": "Wells of Salvation",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -4476,6 +4512,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "ssatanikkommando",
+    "displayName": "SSatanikKommando",
+    "albums": [
+      {
+        "name": "Journey of Damnation",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

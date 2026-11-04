@@ -2062,6 +2062,22 @@
     ]
   },
   {
+    "normalizedName": "lonegunmen",
+    "displayName": "Lone Gunmen",
+    "albums": [
+      {
+        "name": "Adrift",
+        "year": "2026",
+        "genres": [
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "maledictus",
     "displayName": "Maledictus",
     "albums": [
@@ -4263,9 +4279,18 @@
         "name": "Violence Only EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Violence Only",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Brutal Death Metal"
+    ]
   },
   {
     "normalizedName": "wildwest",

@@ -2827,6 +2827,22 @@
     ]
   },
   {
+    "normalizedName": "nix",
+    "displayName": "Nix",
+    "albums": [
+      {
+        "name": "Escape from Darkness",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "omegamassif",
     "displayName": "Omega Massif",
     "albums": [
@@ -3110,10 +3126,20 @@
         "genres": [
           "Blackened Thrash Metal"
         ]
+      },
+      {
+        "name": "Possessed and Drunk",
+        "year": "2026",
+        "genres": [
+          "Speed Black Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Blackened Thrash Metal"
+      "Blackened Thrash Metal",
+      "Speed Black Metal",
+      "Black Metal"
     ]
   },
   {

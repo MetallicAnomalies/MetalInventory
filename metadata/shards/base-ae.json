@@ -149,6 +149,22 @@
     ]
   },
   {
+    "normalizedName": "amrasnumenesse",
+    "displayName": "Amras Numenesse",
+    "albums": [
+      {
+        "name": "Human.exe",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "astar",
     "displayName": "Astar",
     "albums": [
@@ -3699,6 +3715,22 @@
     "tags": [
       "Technical Death Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "sotabosc",
+    "displayName": "Sotabosc",
+    "albums": [
+      {
+        "name": "Cims de plom i cendra",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal"
     ]
   },
   {

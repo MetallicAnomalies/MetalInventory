@@ -2497,6 +2497,22 @@
     ]
   },
   {
+    "normalizedName": "karakul",
+    "displayName": "Karakul",
+    "albums": [
+      {
+        "name": "Karakul",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "karybdis",
     "displayName": "Karybdis",
     "origin": "GB",
@@ -4635,6 +4651,13 @@
       {
         "name": "Keres",
         "year": "2023",
+        "genres": [
+          "Deathcore"
+        ]
+      },
+      {
+        "name": "Squeeze",
+        "year": "2026",
         "genres": [
           "Deathcore"
         ]

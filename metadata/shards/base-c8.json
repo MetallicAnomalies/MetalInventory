@@ -1801,6 +1801,24 @@
     "tags": []
   },
   {
+    "normalizedName": "lifelessone",
+    "displayName": "Lifelessone",
+    "albums": [
+      {
+        "name": "If You Won't Leave My Dreams I'll Sleep Forever",
+        "year": "2026",
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Death Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "lotuseater",
     "displayName": "Lotus Eater",
     "albums": [
@@ -2149,6 +2167,18 @@
       "Stoner Metal",
       "Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "obscurite",
+    "displayName": "Obscurite",
+    "albums": [
+      {
+        "name": "Contemplation III",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "oceanofanother",

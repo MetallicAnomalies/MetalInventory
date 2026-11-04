@@ -749,6 +749,22 @@
     ]
   },
   {
+    "normalizedName": "colossusb",
+    "displayName": "Colossus B",
+    "albums": [
+      {
+        "name": "Woods",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "conceptofgod",
     "displayName": "Concept Of God",
     "albums": [
@@ -4718,6 +4734,42 @@
       },
       {
         "name": "Bach's Badinerie",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Korobeiniki",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Old Dan Tucker",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Dionisio Aguado Fandango Varie",
+        "year": "2026",
+        "genres": [
+          "Speed Thrash Metal",
+          "Shred",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Fandango Bolero Zapateado",
         "year": "2026",
         "genres": [
           "Speed Thrash Metal",

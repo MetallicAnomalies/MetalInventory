@@ -330,6 +330,29 @@
     ]
   },
   {
+    "normalizedName": "angeloflight",
+    "displayName": "Angel of Light",
+    "albums": [
+      {
+        "name": "Fire In Your Soul",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "Moonlight",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "antihope",
     "displayName": "Antihope",
     "origin": "SE",
@@ -1186,6 +1209,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "cosmiceve",
+    "displayName": "Cosmic Eve",
+    "albums": [
+      {
+        "name": "Poppy Field of Dreams",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Epic Doom Metal",
+          "Epic Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Psychedelic Epic Doom Metal",
+      "Epic Doom Metal"
     ]
   },
   {
@@ -4615,6 +4656,22 @@
     ]
   },
   {
+    "normalizedName": "thetemple",
+    "displayName": "The Temple",
+    "albums": [
+      {
+        "name": "Liturgies",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "thirdeyefra",
     "displayName": "Third Eye (Fra)",
     "albums": [
@@ -4756,6 +4813,13 @@
       },
       {
         "name": "Die Ewige Kälte (Demo II)",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "Autumn...",
         "year": "2026",
         "genres": [
           "Atmospheric Black Metal"
