@@ -1357,6 +1357,7 @@
   {
     "normalizedName": "fjord",
     "displayName": "Fjord",
+    "origin": "SE",
     "albums": [
       {
         "name": "On Icy Shores",
@@ -1866,6 +1867,30 @@
       "Blues",
       "Indie Rock",
       "Pop"
+    ]
+  },
+  {
+    "normalizedName": "killersouls",
+    "displayName": "Killer Souls",
+    "origin": "CR",
+    "albums": [
+      {
+        "name": "Reckoning",
+        "year": "2021",
+        "genres": [
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Revenge of Souls",
+        "year": "2018",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {

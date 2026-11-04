@@ -4379,12 +4379,20 @@
   {
     "normalizedName": "solnegre",
     "displayName": "Solnegre",
+    "origin": "ES",
     "albums": [
       {
         "name": "The Spiral Labyrinth",
         "year": "2023",
         "genres": [
           "Death Doom Metal"
+        ]
+      },
+      {
+        "name": "Anthems For The Grand Collapse",
+        "year": "2026",
+        "genres": [
+          "Doom Death Metal"
         ]
       }
     ],

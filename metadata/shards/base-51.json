@@ -4148,8 +4148,26 @@
     ]
   },
   {
+    "normalizedName": "teufelnacht",
+    "displayName": "Teufelnacht",
+    "origin": "DE",
+    "albums": [
+      {
+        "name": "Ausnahmeverbrechen",
+        "year": "2021",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "thebiscuitmerchant",
     "displayName": "The Biscuit Merchant",
+    "origin": "US",
     "albums": [
       {
         "name": "Knucklewalker",

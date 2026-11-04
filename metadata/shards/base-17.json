@@ -132,6 +132,7 @@
   {
     "normalizedName": "altarsofrebellion",
     "displayName": "Altars Of Rebellion",
+    "origin": "CO",
     "albums": [
       {
         "name": "Capital Phase Of Karma",
@@ -156,6 +157,23 @@
       "Death Metal",
       "Progressive Metal",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "amnessiaeterna",
+    "displayName": "Amnessia Eterna",
+    "origin": "CL",
+    "albums": [
+      {
+        "name": "Malditos",
+        "year": "2021",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {

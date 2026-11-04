@@ -3790,6 +3790,25 @@
     ]
   },
   {
+    "normalizedName": "slumbercloud",
+    "displayName": "Slumbercloud",
+    "origin": "NL",
+    "albums": [
+      {
+        "name": "SLC",
+        "year": "2024",
+        "genres": [
+          "Grunge",
+          "Psychedelic Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Grunge",
+      "Psychedelic Rock"
+    ]
+  },
+  {
     "normalizedName": "solution45",
     "displayName": "Solution .45",
     "origin": "SE",

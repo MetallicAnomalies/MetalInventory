@@ -192,6 +192,7 @@
   {
     "normalizedName": "antrisch",
     "displayName": "Antrisch",
+    "origin": "DE",
     "albums": [
       {
         "name": "Expedition I : Dissonanzgrat",
@@ -203,6 +204,13 @@
       {
         "name": "Expedition Ii: Die Passage",
         "year": "2023",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "Expedition III : Renitenzpfad",
+        "year": "2026",
         "genres": [
           "Atmospheric Black Metal"
         ]
