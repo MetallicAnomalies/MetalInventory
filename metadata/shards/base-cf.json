@@ -318,11 +318,21 @@
           "Progressive Metal",
           "Groove Metal"
         ]
+      },
+      {
+        "name": "To The Surface",
+        "year": "2026",
+        "genres": [
+          "Djent",
+          "Progressive Metal",
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Groove Metal"
+      "Groove Metal",
+      "Djent"
     ],
     "origin": "US"
   },

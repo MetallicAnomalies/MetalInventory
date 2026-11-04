@@ -772,6 +772,13 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Engines Of Demolition",
+        "year": "2026",
+        "genres": [
+          "Southern Metal"
+        ]
       }
     ],
     "tags": [
@@ -781,7 +788,8 @@
       "Stoner Rock",
       "Sludge Metal",
       "Acoustic",
-      "Rock"
+      "Rock",
+      "Southern Metal"
     ]
   },
   {
@@ -865,6 +873,13 @@
           "Alternative",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Vindicate",
+        "year": "2026",
+        "genres": [
+          "Cd"
+        ]
       }
     ],
     "tags": [
@@ -873,7 +888,8 @@
       "Alternative Rock",
       "Hard Rock",
       "Glam Metal",
-      "Rock"
+      "Rock",
+      "Cd"
     ]
   },
   {

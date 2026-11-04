@@ -677,13 +677,29 @@
         "year": "1988",
         "genres": [
           "Neoclassical Power Metal",
-          "Progressive Metal"
+          "Progressive Metal",
+          "Speed Metal",
+          "80s",
+          "Cd I Own",
+          "Masterpiece",
+          "Produced By Steve Fontano",
+          "Shrapnel",
+          "Produced By Jason Becker",
+          "Produced By Marty Friedman"
         ]
       }
     ],
     "tags": [
       "Neoclassical Power Metal",
-      "Progressive Metal"
+      "Progressive Metal",
+      "Speed Metal",
+      "80s",
+      "Cd I Own",
+      "Masterpiece",
+      "Produced By Steve Fontano",
+      "Shrapnel",
+      "Produced By Jason Becker",
+      "Produced By Marty Friedman"
     ]
   },
   {
@@ -1220,12 +1236,16 @@
         "name": "Ashes Over Tomorrow",
         "year": "2026",
         "genres": [
-          "Power Metal"
+          "Power Metal",
+          "Symphonic Metal",
+          "Gothic Metal"
         ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Symphonic Metal",
+      "Gothic Metal"
     ]
   },
   {

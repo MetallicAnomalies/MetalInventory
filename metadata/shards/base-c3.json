@@ -1776,13 +1776,29 @@
         "name": "Modern Life Is Lonely",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Holding Absence",
+        "year": "2019",
+        "genres": [
+          "Post-Hardcore",
+          "Melodic Hardcore",
+          "Alternative",
+          "Teardrop Core",
+          "Taste-like-saline Core",
+          "Tastes-like-saline Core"
+        ]
       }
     ],
     "tags": [
       "Post-Hardcore",
       "Melodic Hardcore",
       "Metalcore",
-      "Emo"
+      "Emo",
+      "Alternative",
+      "Teardrop Core",
+      "Taste-like-saline Core",
+      "Tastes-like-saline Core"
     ]
   },
   {

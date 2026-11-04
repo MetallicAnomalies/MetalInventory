@@ -4787,6 +4787,19 @@
     ]
   },
   {
+    "normalizedName": "thehighpriestess",
+    "displayName": "The High Priestess",
+    "albums": [
+      {
+        "name": "Set The World On Fire",
+        "year": "2025",
+        "genres": []
+      }
+    ],
+    "tags": [],
+    "origin": "PT"
+  },
+  {
     "normalizedName": "theoryofadeadman",
     "displayName": "Theory of a Deadman",
     "origin": "CA",
@@ -5422,10 +5435,19 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Where Dreamers Die",
+        "year": "2024",
+        "genres": [
+          "Melodic Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Death Metal"
     ]
   },
   {

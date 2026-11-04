@@ -1758,7 +1758,9 @@
         "name": "Agony",
         "year": "2024",
         "genres": [
-          "Gothic Metal"
+          "Gothic Metal",
+          "Melodic Death Metal",
+          "Doom Metal"
         ]
       },
       {
@@ -1783,8 +1785,11 @@
     ],
     "tags": [
       "Gothic Metal",
-      "Progressive Gothic Metal"
-    ]
+      "Progressive Gothic Metal",
+      "Melodic Death Metal",
+      "Doom Metal"
+    ],
+    "origin": "MM"
   },
   {
     "normalizedName": "fehler",
@@ -4737,12 +4742,44 @@
           "Post-Rock",
           "Progressive Rock"
         ]
+      },
+      {
+        "name": "Neon Theatre",
+        "year": "2017",
+        "genres": [
+          "Djent",
+          "Progressive Metal",
+          "Math Rock",
+          "Progressive Rock"
+        ]
+      },
+      {
+        "name": "The Painter",
+        "year": "2026",
+        "genres": [
+          "Djent",
+          "Progressive Metal",
+          "Math Rock",
+          "Progressive Rock"
+        ]
+      },
+      {
+        "name": "Volantis",
+        "year": "2026",
+        "genres": [
+          "Djent",
+          "Progressive Metal",
+          "Math Rock",
+          "Progressive Rock"
+        ]
       }
     ],
     "tags": [
       "Post-Rock",
       "Progressive Metal",
-      "Progressive Rock"
+      "Progressive Rock",
+      "Djent",
+      "Math Rock"
     ]
   },
   {

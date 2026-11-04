@@ -693,7 +693,32 @@
       {
         "name": "Cursum Perficio",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Everybodys Got A Plan",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Speed Metal",
+          "Heavy Metal",
+          "Groove Metal",
+          "Rap Metal"
+        ]
+      },
+      {
+        "name": "The Edge Of Perfection",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Speed Metal",
+          "Heavy Metal",
+          "Groove Metal",
+          "Rap Metal"
+        ]
       }
     ],
     "tags": [
@@ -703,7 +728,9 @@
       "Speed Metal",
       "Funk Metal",
       "Hard Rock",
-      "Acoustic"
+      "Acoustic",
+      "Groove Metal",
+      "Rap Metal"
     ]
   },
   {
@@ -955,6 +982,81 @@
           "Southern Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Celebrate",
+        "year": "2026",
+        "genres": [
+          "Southern Rock",
+          "Post-Grunge",
+          "Hard Rock"
+        ]
+      },
+      {
+        "name": "Dont You (Forget About Me) (Feat. Tyler Connolly Of Theory Of A Deadman)",
+        "year": "2026",
+        "genres": [
+          "Southern Rock",
+          "Post-Grunge",
+          "Hard Rock",
+          "Alternative Metal"
+        ]
+      },
+      {
+        "name": "Family Tree",
+        "year": "2018",
+        "genres": [
+          "Hard Rock",
+          "Albums",
+          "2010s",
+          "2018 Albums"
+        ]
+      },
+      {
+        "name": "Neon Eyes",
+        "year": "2025",
+        "genres": [
+          "Southern Rock",
+          "Post-Grunge",
+          "Hard Rock"
+        ]
+      },
+      {
+        "name": "Out Of Pocket (Feat. Jesse Leach Of Killswitch Engage)",
+        "year": "2024",
+        "genres": [
+          "Southern Rock",
+          "Post-Grunge",
+          "Hard Rock",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Screamin At The Sky",
+        "year": "2023",
+        "genres": [
+          "Southern Rock",
+          "Post-Grunge",
+          "Hard Rock"
+        ]
+      },
+      {
+        "name": "The Human Condition",
+        "year": "2020",
+        "genres": [
+          "Southern Rock",
+          "Rock",
+          "Hard Rock"
+        ]
+      },
+      {
+        "name": "Whats Love Got To Do With It",
+        "year": "2023",
+        "genres": [
+          "Southern Rock",
+          "Post-Grunge",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
@@ -962,7 +1064,13 @@
       "Heavy Metal",
       "Hard Rock",
       "Stoner Rock",
-      "Rock"
+      "Rock",
+      "Post-Grunge",
+      "Alternative Metal",
+      "Albums",
+      "2010s",
+      "2018 Albums",
+      "Metalcore"
     ]
   },
   {
@@ -1991,7 +2099,9 @@
         "name": "Malignancy",
         "year": "2018",
         "genres": [
-          "Technical Death Metal"
+          "Technical Death Metal",
+          "Death Metal",
+          "Melodic Death Metal"
         ]
       },
       {
@@ -2021,10 +2131,20 @@
         "genres": [
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "Demo",
+        "year": "2017",
+        "genres": [
+          "Death Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Technical Death Metal"
+      "Technical Death Metal",
+      "Death Metal",
+      "Melodic Death Metal"
     ]
   },
   {
@@ -2441,6 +2561,27 @@
           "Melodic Death Metalcore",
           "Power Metal",
           "Metalcore"
+        ]
+      },
+      {
+        "name": "Death Row",
+        "year": "2025",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Death Row (Radio Edit)",
+        "year": "2025",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Part Of The Ocean",
+        "year": "2025",
+        "genres": [
+          "Melodic Death Metal"
         ]
       }
     ],
@@ -3647,6 +3788,16 @@
           "Groove Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Nuclear God",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Groove Metal",
+          "Deathcore",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3655,7 +3806,8 @@
       "Groove Metal",
       "Industrial Metal",
       "Thrash Metal",
-      "Death Metal"
+      "Death Metal",
+      "Deathcore"
     ]
   },
   {
@@ -4164,12 +4316,20 @@
           "Metalcore",
           "Post-Hardcore"
         ]
+      },
+      {
+        "name": "Labyrinth",
+        "year": "2025",
+        "genres": [
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
       "Metalcore",
       "Post-Hardcore"
-    ]
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "siaskel",

@@ -657,6 +657,22 @@
     ]
   },
   {
+    "normalizedName": "augur",
+    "displayName": "augur",
+    "albums": [
+      {
+        "name": "Beyond The Threshold",
+        "year": "2021",
+        "genres": [
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Speed Metal"
+    ]
+  },
+  {
     "normalizedName": "bezerker",
     "displayName": "Bezerker",
     "albums": [
@@ -3597,6 +3613,30 @@
           "Indie Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Cryogen",
+        "year": "2026",
+        "genres": [
+          "Progressive Rock",
+          "Space Rock",
+          "Art Rock"
+        ]
+      },
+      {
+        "name": "The Wow! Signal",
+        "year": "2026",
+        "genres": [
+          "Alternative Rock",
+          "Symphonic Rock",
+          "Progressive Rock",
+          "Art Rock",
+          "Space Rock",
+          "Rock",
+          "Alternative Medal",
+          "Spotify - Release Radar",
+          "2020s"
+        ]
       }
     ],
     "tags": [
@@ -3615,7 +3655,12 @@
       "Tech House",
       "Indie Rock",
       "Heavy Metal",
-      "Rock"
+      "Rock",
+      "Art Rock",
+      "Symphonic Rock",
+      "Alternative Medal",
+      "Spotify - Release Radar",
+      "2020s"
     ]
   },
   {
@@ -4529,6 +4574,19 @@
     "tags": [
       "Raw Black Metal"
     ]
+  },
+  {
+    "normalizedName": "stentorian",
+    "displayName": "Stentorian",
+    "albums": [
+      {
+        "name": "Agontuk 3",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": [],
+    "origin": "NL"
   },
   {
     "normalizedName": "stonehealer",

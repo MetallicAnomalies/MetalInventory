@@ -1723,6 +1723,66 @@
     ]
   },
   {
+    "normalizedName": "fateshand",
+    "displayName": "Fate's Hand",
+    "origin": "AU",
+    "albums": [
+      {
+        "name": "Steel, Fire & Ice",
+        "year": "2025",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "Fates Hand",
+        "year": "2003",
+        "genres": [
+          "Americana",
+          "Outlaw Country",
+          "Alt Country",
+          "Rockabilly"
+        ]
+      },
+      {
+        "name": "Fire Reigns Once More",
+        "year": "2025",
+        "genres": [
+          "Speed Metal",
+          "Heavy Metal",
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "The Cosmic Ash",
+        "year": "2025",
+        "genres": [
+          "Speed Metal",
+          "Heavy Metal",
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "The Quest Spirit",
+        "year": "2025",
+        "genres": [
+          "Speed Metal",
+          "Heavy Metal",
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Americana",
+      "Outlaw Country",
+      "Alt Country",
+      "Rockabilly",
+      "Speed Metal",
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "filth",
     "displayName": "Filth",
     "albums": [
@@ -2734,6 +2794,13 @@
         "genres": [
           "Nu Metal",
           "Alternative"
+        ]
+      },
+      {
+        "name": "Reward The Scars",
+        "year": "2026",
+        "genres": [
+          "Nu Metal"
         ]
       }
     ],
@@ -5298,5 +5365,22 @@
     "tags": [
       "Children's"
     ]
+  },
+  {
+    "normalizedName": "הפילהכחול",
+    "displayName": "הפיל הכחול",
+    "albums": [
+      {
+        "name": "הופעת 20 שנה",
+        "year": "2026",
+        "genres": [
+          "Mizrahi"
+        ]
+      }
+    ],
+    "tags": [
+      "Mizrahi"
+    ],
+    "origin": "IL"
   }
 ]

@@ -1812,11 +1812,37 @@
           "Jazz",
           "Contemporary Jazz"
         ]
+      },
+      {
+        "name": "Jazz Sabbath",
+        "year": "2020",
+        "genres": [
+          "Post-bop",
+          "Jazz"
+        ]
+      },
+      {
+        "name": "Jazz Sabbath Live",
+        "year": "2026",
+        "genres": [
+          "Jazz",
+          "Jazz Fusion"
+        ]
+      },
+      {
+        "name": "The 1968 Tapes",
+        "year": "2026",
+        "genres": [
+          "Jazz",
+          "Jazz Fusion"
+        ]
       }
     ],
     "tags": [
       "Jazz",
-      "Contemporary Jazz"
+      "Contemporary Jazz",
+      "Post-bop",
+      "Jazz Fusion"
     ]
   },
   {

@@ -232,12 +232,33 @@
       {
         "name": "The Allfather Awakens",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Death Metal",
+          "Folk Metal",
+          "Death Metal",
+          "Heavy Metal",
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "Put Your Back Into The Oar",
+        "year": "2022",
+        "genres": [
+          "Melodic Death Metal",
+          "Folk Metal",
+          "Death Metal",
+          "Heavy Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Viking Metal"
+      "Viking Metal",
+      "Folk Metal",
+      "Death Metal",
+      "Heavy Metal",
+      "Power Metal"
     ]
   },
   {
@@ -1795,6 +1816,14 @@
           "Pop",
           "House"
         ]
+      },
+      {
+        "name": "Insomnia",
+        "year": "2005",
+        "genres": [
+          "Electronica",
+          "Progressive House"
+        ]
       }
     ],
     "tags": [
@@ -1810,7 +1839,8 @@
       "Trip Hop",
       "Progressive Trance",
       "Trance",
-      "Drum & Bass"
+      "Drum & Bass",
+      "Electronica"
     ]
   },
   {
@@ -3114,6 +3144,18 @@
       "Extreme Folk Metal",
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "nexuslives",
+    "displayName": "Nexus Lives",
+    "albums": [
+      {
+        "name": "Heartless\\soulless",
+        "year": "2022",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "nightofsuicide",

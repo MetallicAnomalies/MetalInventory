@@ -1673,6 +1673,11 @@
         "genres": [
           "Mizrahi"
         ]
+      },
+      {
+        "name": "5 Years (In The Memory Of Meir Ariel)",
+        "year": "2025",
+        "genres": []
       }
     ],
     "tags": [
@@ -3962,14 +3967,17 @@
         "year": "2026",
         "genres": [
           "Death Doom Metal",
-          "Doom Metal"
+          "Doom Metal",
+          "Drone Metal"
         ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Death Doom Metal"
-    ]
+      "Death Doom Metal",
+      "Drone Metal"
+    ],
+    "origin": "CL"
   },
   {
     "normalizedName": "rageoflight",

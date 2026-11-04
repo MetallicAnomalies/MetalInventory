@@ -1855,6 +1855,23 @@
     ]
   },
   {
+    "normalizedName": "itzikkala",
+    "displayName": "Itzik Kala",
+    "albums": [
+      {
+        "name": "מחפש את הדרך",
+        "year": "2002",
+        "genres": [
+          "Mizrahi"
+        ]
+      }
+    ],
+    "tags": [
+      "Mizrahi"
+    ],
+    "origin": "IL"
+  },
+  {
     "normalizedName": "jonhopkins",
     "displayName": "Jon Hopkins",
     "origin": "GB",
@@ -3917,6 +3934,29 @@
         "name": "Solaris",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Belligerence",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Sludge Metal",
+          "Djent",
+          "Post-Rock",
+          "Progressive Rock",
+          "Drone Metal"
+        ]
+      },
+      {
+        "name": "Ultima Esperanza",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Sludge Metal",
+          "Djent",
+          "Post-Rock",
+          "Progressive Rock"
+        ]
       }
     ],
     "tags": [
@@ -3926,7 +3966,10 @@
       "Hardcore",
       "Sludge Metal",
       "Post-Rock",
-      "Rock"
+      "Rock",
+      "Djent",
+      "Progressive Rock",
+      "Drone Metal"
     ]
   },
   {
@@ -4260,6 +4303,13 @@
       {
         "name": "Secrets",
         "year": "2023",
+        "genres": [
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Journey To The Sun",
+        "year": "2025",
         "genres": [
           "Metalcore"
         ]

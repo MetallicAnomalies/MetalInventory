@@ -1160,6 +1160,13 @@
         "genres": [
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "When Dream & Day Unite",
+        "year": "1989",
+        "genres": [
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
@@ -1426,6 +1433,23 @@
       "Hard Rock",
       "Rock"
     ]
+  },
+  {
+    "normalizedName": "forceofdarkness",
+    "displayName": "Force of Darkness",
+    "albums": [
+      {
+        "name": "Force Of Darkness",
+        "year": "2025",
+        "genres": [
+          "Blackened Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Thrash Metal"
+    ],
+    "origin": "CL"
   },
   {
     "normalizedName": "fuzzmanta",
@@ -2423,7 +2447,8 @@
     ],
     "tags": [
       "Heavy Metal"
-    ]
+    ],
+    "origin": "RU"
   },
   {
     "normalizedName": "lividity",
@@ -4258,7 +4283,9 @@
       {
         "name": "The Immaculate Sin",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [

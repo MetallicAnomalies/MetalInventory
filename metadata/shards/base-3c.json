@@ -2203,6 +2203,17 @@
           "Pop Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Greatest Hits 1985-1995",
+        "year": "2000",
+        "genres": [
+          "80s",
+          "Rock",
+          "Research",
+          "Queued",
+          "Heart"
+        ]
       }
     ],
     "tags": [
@@ -2211,7 +2222,11 @@
       "Pop Rock",
       "Rock",
       "Rock & Roll",
-      "Folk Rock"
+      "Folk Rock",
+      "80s",
+      "Research",
+      "Queued",
+      "Heart"
     ]
   },
   {

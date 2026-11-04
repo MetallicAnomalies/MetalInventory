@@ -5506,14 +5506,18 @@
         "year": "2025",
         "genres": [
           "Metalcore",
-          "Post-Hardcore"
+          "Post-Hardcore",
+          "Chaotic Hardcore",
+          "Mathcore"
         ]
       }
     ],
     "tags": [
       "Metalcore",
       "Post-Hardcore",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Chaotic Hardcore",
+      "Mathcore"
     ]
   },
   {
@@ -5969,6 +5973,22 @@
     "tags": [
       "Speed Metal",
       "US Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "headgear",
+    "displayName": "Headgear",
+    "albums": [
+      {
+        "name": "Eden Fire",
+        "year": "2020",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
     ]
   },
   {
@@ -8142,14 +8162,20 @@
       {
         "name": "Arcani",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Symphonic Metal",
+          "Power Metal",
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
       "Symphonic Metal",
       "Heavy Metal",
       "Acoustic",
-      "Rock"
+      "Rock",
+      "Power Metal",
+      "Gothic Metal"
     ]
   },
   {
@@ -8645,6 +8671,13 @@
       {
         "name": "Nephilim",
         "year": "2022",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "The Secrets Of The Black Sun",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]

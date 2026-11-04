@@ -57,6 +57,20 @@
           "Pop",
           "Disco"
         ]
+      },
+      {
+        "name": "Voulez-vous",
+        "year": "1979",
+        "genres": [
+          "Abba",
+          "Pop",
+          "70s",
+          "Disco",
+          "Europop",
+          "Dance-pop",
+          "Euro Disco",
+          "1970s"
+        ]
       }
     ],
     "tags": [
@@ -68,7 +82,12 @@
       "Ballad",
       "Vocal",
       "Rock",
-      "Synth-pop"
+      "Synth-pop",
+      "Abba",
+      "70s",
+      "Dance-pop",
+      "Euro Disco",
+      "1970s"
     ]
   },
   {
@@ -3034,14 +3053,16 @@
         "name": "Power Train",
         "year": "2025",
         "genres": [
-          "Power Metal"
+          "Power Metal",
+          "Symphonic Power Metal"
         ]
       }
     ],
     "tags": [
       "Power Metal",
       "Symphonic Metal",
-      "Holiday"
+      "Holiday",
+      "Symphonic Power Metal"
     ]
   },
   {
@@ -4779,11 +4800,24 @@
           "Death Doom Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Mycodeath & Rebirth In The Outer Clusters",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Doom Metal",
+          "Sludge Metal",
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
       "Death Doom Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Death Metal",
+      "Sludge Metal",
+      "Grindcore"
     ]
   },
   {

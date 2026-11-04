@@ -215,6 +215,11 @@
           "Pop Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "מישהו",
+        "year": "2016",
+        "genres": []
       }
     ],
     "tags": [
@@ -423,6 +428,18 @@
     "tags": [
       "Progressive Power Metal"
     ]
+  },
+  {
+    "normalizedName": "bluekaiju",
+    "displayName": "Blue Kaiju",
+    "albums": [
+      {
+        "name": "All Things In Between",
+        "year": "2024",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "bombwalk",
@@ -3153,7 +3170,8 @@
     ],
     "tags": [
       "Melodic Death Metal"
-    ]
+    ],
+    "origin": "CA"
   },
   {
     "normalizedName": "projectalcazar",
@@ -3454,6 +3472,19 @@
       "Heavy Metal",
       "Doom Metal"
     ]
+  },
+  {
+    "normalizedName": "sevenblood",
+    "displayName": "Seven Blood",
+    "albums": [
+      {
+        "name": "Life Is Just A Phase",
+        "year": "2025",
+        "genres": []
+      }
+    ],
+    "tags": [],
+    "origin": "DE"
   },
   {
     "normalizedName": "shadowhost",

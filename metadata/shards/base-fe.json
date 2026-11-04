@@ -832,11 +832,24 @@
         "genres": [
           "Symphonic Power Metal"
         ]
+      },
+      {
+        "name": "Dig Down",
+        "year": "2025",
+        "genres": [
+          "Post-Grunge",
+          "Grunge",
+          "Southern Gothic Metal"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Power Metal"
-    ]
+      "Symphonic Power Metal",
+      "Post-Grunge",
+      "Grunge",
+      "Southern Gothic Metal"
+    ],
+    "origin": "CN"
   },
   {
     "normalizedName": "day40",
@@ -3903,11 +3916,16 @@
       {
         "name": "The Pulse Of Annihilation",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Technical Death Metal"
+      "Technical Death Metal",
+      "Death Metal",
+      "Melodic Death Metal"
     ]
   },
   {
@@ -4060,13 +4078,15 @@
         "name": "Flesh for the Kult of Death",
         "year": "2026",
         "genres": [
-          "Death Metal"
+          "Death Metal",
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Death Metal"
+      "Death Metal",
+      "Melodic Death Metal"
     ]
   },
   {

@@ -2714,7 +2714,21 @@
         "genres": [
           "Groove Thrash Metal",
           "Nu Metal",
-          "Thrash Metal"
+          "Thrash Metal",
+          "Groove Metal",
+          "Hard Rock",
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "Circle The Drain (Acoustic)",
+        "year": "2020",
+        "genres": [
+          "Groove Metal",
+          "Nu Metal",
+          "Thrash Metal",
+          "Hard Rock",
+          "Heavy Metal"
         ]
       }
     ],
@@ -2730,7 +2744,8 @@
       "Hardcore",
       "Industrial Metal",
       "Electronic",
-      "Rock"
+      "Rock",
+      "Hard Rock"
     ]
   },
   {

@@ -628,7 +628,10 @@
       {
         "name": "Nordic Embryogenesis",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
       },
       {
         "name": "Eminence In Putrescence 2026 Redux",
@@ -640,7 +643,8 @@
       "Brutal Death Metal",
       "Electronic",
       "Techno",
-      "Death Metal"
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {
@@ -3940,6 +3944,13 @@
       {
         "name": "5 בום!",
         "year": "2019",
+        "genres": [
+          "Mizrahi"
+        ]
+      },
+      {
+        "name": "יש מישהו ששר לך",
+        "year": "2025",
         "genres": [
           "Mizrahi"
         ]

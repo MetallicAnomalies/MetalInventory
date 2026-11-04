@@ -1050,13 +1050,18 @@
       {
         "name": "Vyraj",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Post-Metal"
-    ]
+      "Post-Metal",
+      "Black Metal"
+    ],
+    "origin": "BY"
   },
   {
     "normalizedName": "dystrophy",
@@ -1520,12 +1525,24 @@
           "Progressive Metalcore",
           "Djent"
         ]
+      },
+      {
+        "name": "One-way Wasteland",
+        "year": "2026",
+        "genres": [
+          "Djent",
+          "Progressive Metal",
+          "Metalcore",
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
       "Progressive Metalcore",
       "Djent",
-      "Metalcore"
+      "Metalcore",
+      "Progressive Metal",
+      "Deathcore"
     ]
   },
   {
@@ -2664,7 +2681,12 @@
       {
         "name": "The Light That Keeps Us",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom Metal",
+          "Melodic Death Metal",
+          "Death Metal",
+          "Sludge Metal"
+        ]
       },
       {
         "name": "A Terrible Famine of Words",
@@ -2678,7 +2700,10 @@
     "tags": [
       "Death Doom Metal",
       "Melodic Death Doom Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Melodic Death Metal",
+      "Death Metal",
+      "Sludge Metal"
     ]
   },
   {

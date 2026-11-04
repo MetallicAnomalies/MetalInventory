@@ -1543,13 +1543,23 @@
         "name": "Psychedelic Selection",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "There Is No Space For Us",
+        "year": "2025",
+        "genres": [
+          "New Release",
+          "Spotify - Release Radar"
+        ]
       }
     ],
     "tags": [
       "Hard Rock",
       "Space Rock",
       "Progressive Rock",
-      "Rock"
+      "Rock",
+      "New Release",
+      "Spotify - Release Radar"
     ]
   },
   {

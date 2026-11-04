@@ -1811,6 +1811,23 @@
     ]
   },
   {
+    "normalizedName": "foreignobjects",
+    "displayName": "Foreign Objects",
+    "albums": [
+      {
+        "name": "Galactic Prey",
+        "year": "2015",
+        "genres": [
+          "Mathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Mathcore"
+    ],
+    "origin": "US"
+  },
+  {
     "normalizedName": "foreverinterror",
     "displayName": "Forever in Terror",
     "origin": "US",
@@ -2315,6 +2332,43 @@
     "tags": [
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "inceptionoffall",
+    "displayName": "INCEPTION OF FALL",
+    "albums": [
+      {
+        "name": "Builders Of The World",
+        "year": "2020",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Ruin",
+        "year": "2025",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Technological Genocide",
+        "year": "2023",
+        "genres": [
+          "Progressive Metal",
+          "Death Metal",
+          "Progressive Death Metal",
+          "Technical Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Progressive Metal",
+      "Progressive Death Metal",
+      "Technical Death Metal"
+    ],
+    "origin": "CZ"
   },
   {
     "normalizedName": "inmyembrace",
@@ -4824,6 +4878,23 @@
       "Death Doom Metal",
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "wrongler",
+    "displayName": "wrongler",
+    "albums": [
+      {
+        "name": "Crawler From Beneath",
+        "year": "2024",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ],
+    "origin": "FI"
   },
   {
     "normalizedName": "wuldor",

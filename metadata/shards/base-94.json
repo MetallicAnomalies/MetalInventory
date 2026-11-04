@@ -1177,6 +1177,50 @@
     ]
   },
   {
+    "normalizedName": "crepusculodosidolos",
+    "displayName": "Crepúsculo dos Ídolos",
+    "albums": [
+      {
+        "name": "Apophanestai",
+        "year": "2022",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Daath",
+        "year": "2014",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Eremita",
+        "year": "2023",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Pax",
+        "year": "2023",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Thoth",
+        "year": "2009",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "crescent",
     "displayName": "Crescent",
     "origin": "GB",
@@ -1222,11 +1266,21 @@
         "genres": [
           "Blackened Death Metal"
         ]
+      },
+      {
+        "name": "As Nu Enshrines Death",
+        "year": "2021",
+        "genres": [
+          "Death Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Blackened Death Metal",
-      "Rock"
+      "Rock",
+      "Death Metal",
+      "Black Metal"
     ]
   },
   {
@@ -1934,11 +1988,17 @@
       {
         "name": "The Legend Of The Six Kings",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Power Metal",
+          "Symphonic Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Symphonic Metal",
+      "Speed Metal"
     ]
   },
   {
@@ -4105,6 +4165,18 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Veneficus Aeternus",
+        "year": "2021",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      },
+      {
+        "name": "Optimal Evolution",
+        "year": "2023",
+        "genres": []
       }
     ],
     "tags": [
@@ -4112,7 +4184,8 @@
       "Electronic",
       "Progressive Metal",
       "Deathcore",
-      "Death Metal"
+      "Death Metal",
+      "Progressive Death Metal"
     ]
   },
   {
@@ -4147,10 +4220,20 @@
         "genres": [
           "Symphonic Deathcore"
         ]
+      },
+      {
+        "name": "The Poetic Edda (Singles)",
+        "year": "2023",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Deathcore"
+      "Symphonic Deathcore",
+      "Deathcore",
+      "Death Metal"
     ]
   },
   {

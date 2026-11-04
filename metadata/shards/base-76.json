@@ -912,6 +912,31 @@
     ]
   },
   {
+    "normalizedName": "demichron",
+    "displayName": "Demichron",
+    "origin": "NL",
+    "albums": [
+      {
+        "name": "Merge Conflict",
+        "year": "2026",
+        "genres": [
+          "Djent"
+        ]
+      },
+      {
+        "name": "Taken By The Tide",
+        "year": "2026",
+        "genres": [
+          "Djent"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal",
+      "Djent"
+    ]
+  },
+  {
     "normalizedName": "depechemode",
     "displayName": "Depeche Mode",
     "origin": "GB",

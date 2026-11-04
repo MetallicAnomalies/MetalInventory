@@ -705,12 +705,23 @@
         "name": "Painstream",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Into The Void (Feat. Aaron Pauley Of Of Mice & Men)",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Post-Hardcore",
+          "Screamo"
+        ]
       }
     ],
     "tags": [
       "Alternative Rock",
       "Nu Metal",
-      "Post-Hardcore"
+      "Post-Hardcore",
+      "Metalcore",
+      "Screamo"
     ]
   },
   {
@@ -4650,6 +4661,11 @@
       {
         "name": "שיר לניר",
         "year": "2025",
+        "genres": []
+      },
+      {
+        "name": "נקודת תורפה",
+        "year": "2026",
         "genres": []
       }
     ],

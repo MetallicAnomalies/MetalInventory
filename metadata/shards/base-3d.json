@@ -965,7 +965,11 @@
         "name": "Afterworld",
         "year": "2023",
         "genres": [
-          "Technical Death Metal"
+          "Technical Death Metal",
+          "Melodic Death Metal",
+          "Death Metal",
+          "Speed Metal",
+          "Progressive Metal"
         ]
       },
       {
@@ -979,7 +983,9 @@
     "tags": [
       "Technical Death Metal",
       "Death Metal",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Speed Metal",
+      "Progressive Metal"
     ]
   },
   {
@@ -3240,11 +3246,47 @@
           "Progressive Death Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Alive At Romaphonic Studios",
+        "year": "2023",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Centuries Of Darkness",
+        "year": "2021",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Made Manifest",
+        "year": "2021",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Underneath",
+        "year": "2021",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Yūrei",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Death Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Death Metal"
     ]
   },
   {
@@ -3517,8 +3559,18 @@
   {
     "normalizedName": "salos",
     "displayName": "SALOS",
-    "albums": [],
-    "tags": [],
+    "albums": [
+      {
+        "name": "A Slaughter For The Empire",
+        "year": "2026",
+        "genres": [
+          "Post-Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Rock"
+    ],
     "origin": "GR"
   },
   {

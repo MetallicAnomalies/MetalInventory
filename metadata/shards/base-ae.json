@@ -1453,12 +1453,28 @@
           "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Smoke & Shadows",
+        "year": "2019",
+        "genres": [
+          "Black Metal",
+          "Doom Metal",
+          "Death Metal",
+          "Melodic Death Metal",
+          "Atmospheric"
+        ]
       }
     ],
     "tags": [
       "Melodic Doom Metal",
-      "Melodic Death Metal"
-    ]
+      "Melodic Death Metal",
+      "Black Metal",
+      "Doom Metal",
+      "Death Metal",
+      "Atmospheric"
+    ],
+    "origin": "BE"
   },
   {
     "normalizedName": "evan",

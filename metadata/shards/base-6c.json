@@ -1922,6 +1922,13 @@
           "Deathcore",
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "Surviving",
+        "year": "2025",
+        "genres": [
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
@@ -3693,10 +3700,40 @@
         "genres": [
           "Progressive Death Metal"
         ]
+      },
+      {
+        "name": "On The Wings Of Phoenix: Life Is A Phoenix",
+        "year": "2001",
+        "genres": [
+          "Melodic Death Metal",
+          "Avant-garde Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "On The Wings Of Phoenix: Phoenix Ashes",
+        "year": "2005",
+        "genres": [
+          "Melodic Death Metal",
+          "Avant-garde Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Voyager",
+        "year": "2015",
+        "genres": [
+          "Melodic Death Metal",
+          "Avant-garde Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Death Metal"
+      "Progressive Death Metal",
+      "Melodic Death Metal",
+      "Avant-garde Metal",
+      "Death Metal"
     ]
   },
   {

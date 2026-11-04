@@ -2423,12 +2423,20 @@
       {
         "name": "No Place For Me",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Metalcore",
+          "Post-Hardcore",
+          "Deathcore",
+          "Screamo"
+        ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Post-Hardcore",
+      "Deathcore",
+      "Screamo"
     ]
   },
   {
@@ -2799,6 +2807,34 @@
       {
         "name": "The Lost & The Broken",
         "year": "2024",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "A Moment Of Void",
+        "year": "2025",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Farewell Dear World",
+        "year": "2025",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Hell Let Loose",
+        "year": "2025",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Ikigai",
+        "year": "2025",
         "genres": [
           "Melodic Death Metal"
         ]

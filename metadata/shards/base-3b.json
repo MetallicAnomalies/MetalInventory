@@ -66,6 +66,14 @@
           "Progressive Metal",
           "Progressive Rock"
         ]
+      },
+      {
+        "name": "Faiths Window",
+        "year": "2026",
+        "genres": [
+          "Progressive Rock",
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
@@ -2809,6 +2817,38 @@
     ]
   },
   {
+    "normalizedName": "kuhmora",
+    "displayName": "Kuhmora",
+    "albums": [
+      {
+        "name": "Error In Creation",
+        "year": "2025",
+        "genres": []
+      },
+      {
+        "name": "Lost In Delusion",
+        "year": "2022",
+        "genres": []
+      },
+      {
+        "name": "Mannequin",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Purge America",
+        "year": "2025",
+        "genres": []
+      },
+      {
+        "name": "Self Harm",
+        "year": "2024",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "loathsome",
     "displayName": "Loathsome",
     "albums": [
@@ -3773,14 +3813,19 @@
       {
         "name": "Prisoner",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Death Metal",
+          "Industrial Metal",
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
       "Alternative",
       "Industrial Metal",
       "Melodic Death Metal",
-      "Hardcore"
+      "Hardcore",
+      "Groove Metal"
     ]
   },
   {

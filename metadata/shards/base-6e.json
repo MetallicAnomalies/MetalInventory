@@ -690,14 +690,18 @@
         "name": "Will You Haunt Me, With That Same Patience",
         "year": "2025",
         "genres": [
-          "Melodic Metalcore"
+          "Melodic Metalcore",
+          "Bury Tomorrow",
+          "New Release"
         ]
       }
     ],
     "tags": [
       "Melodic Metalcore",
       "Metalcore",
-      "Melodic Hardcore"
+      "Melodic Hardcore",
+      "Bury Tomorrow",
+      "New Release"
     ]
   },
   {
@@ -3818,11 +3822,19 @@
           "Pop Punk",
           "Rock"
         ]
+      },
+      {
+        "name": "The Story So Far / Stick To Your Guns Split",
+        "year": "2013",
+        "genres": [
+          "The Story So Far"
+        ]
       }
     ],
     "tags": [
       "Pop Punk",
-      "Rock"
+      "Rock",
+      "The Story So Far"
     ]
   },
   {
@@ -4435,12 +4447,16 @@
       {
         "name": "Estuary",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal",
+          "Drone Metal"
+        ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Drone Metal"
+      "Drone Metal",
+      "Black Metal"
     ]
   },
   {

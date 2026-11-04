@@ -1808,12 +1808,34 @@
           "Progressive Metal",
           "Instrumental"
         ]
+      },
+      {
+        "name": "Chrysalis - The Early Demos",
+        "year": "2017",
+        "genres": [
+          "Death Metal",
+          "Progressive Metal",
+          "Chill",
+          "Progressive Death Metal",
+          "Fusion",
+          "Technical Death Metal",
+          "Jazz Fusion",
+          "Fusion Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Instrumental"
-    ]
+      "Instrumental",
+      "Death Metal",
+      "Chill",
+      "Progressive Death Metal",
+      "Fusion",
+      "Technical Death Metal",
+      "Jazz Fusion",
+      "Fusion Metal"
+    ],
+    "origin": "NL"
   },
   {
     "normalizedName": "finalerror",

@@ -3919,13 +3919,42 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Revolt Iii",
+        "year": "2012",
+        "genres": [
+          "Melodic Death Metal",
+          "Death Metal",
+          "Folk Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
       "Death Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Folk Metal"
     ]
+  },
+  {
+    "normalizedName": "soulofanubis",
+    "displayName": "Soul of Anubis",
+    "albums": [
+      {
+        "name": "Ritual",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Doom Metal"
+    ],
+    "origin": "PT"
   },
   {
     "normalizedName": "stephanforte",

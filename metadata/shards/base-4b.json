@@ -794,6 +794,19 @@
     ]
   },
   {
+    "normalizedName": "coreytaylor",
+    "displayName": "Corey Taylor",
+    "albums": [
+      {
+        "name": "Cmf2b... Or Not 2b",
+        "year": "2024",
+        "genres": []
+      }
+    ],
+    "tags": [],
+    "origin": "US"
+  },
+  {
     "normalizedName": "couchslut",
     "displayName": "Couch Slut",
     "albums": [
@@ -1461,6 +1474,23 @@
     ]
   },
   {
+    "normalizedName": "earthbound",
+    "displayName": "Earthbound.",
+    "albums": [
+      {
+        "name": "Chronos",
+        "year": "2024",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ],
+    "origin": "SE"
+  },
+  {
     "normalizedName": "elder",
     "displayName": "Elder",
     "origin": "US",
@@ -1557,14 +1587,29 @@
       {
         "name": "Through Zero",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Psychedelic Rock",
+          "Progressive Rock",
+          "Progressive Metal",
+          "Psychedelic",
+          "Heavy Psych",
+          "Aoty",
+          "2020s",
+          "2026 Albums"
+        ]
       }
     ],
     "tags": [
       "Psychedelic Rock",
       "Stoner Metal",
       "Stoner Rock",
-      "Progressive Metal"
+      "Progressive Metal",
+      "Progressive Rock",
+      "Psychedelic",
+      "Heavy Psych",
+      "Aoty",
+      "2020s",
+      "2026 Albums"
     ]
   },
   {

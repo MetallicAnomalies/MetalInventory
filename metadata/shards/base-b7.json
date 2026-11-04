@@ -1153,10 +1153,23 @@
         "name": "Lonely God Deluxe Edition",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Blood Pact",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Christian Rock",
+          "Deathcore",
+          "Djent"
+        ]
       }
     ],
     "tags": [
-      "Metalcore"
+      "Metalcore",
+      "Christian Rock",
+      "Deathcore",
+      "Djent"
     ]
   },
   {

@@ -2966,7 +2966,9 @@
         "year": "2020",
         "genres": [
           "Doom Metal",
-          "Psychedelic Rock"
+          "Psychedelic Rock",
+          "Disco House",
+          "Funky House"
         ]
       },
       {
@@ -2982,14 +2984,27 @@
         "year": "2025",
         "genres": [
           "Doom Metal",
-          "Psychedelic Rock"
+          "Psychedelic Rock",
+          "Stoner Rock",
+          "Stoner Metal",
+          "Space Rock",
+          "Norsk Rock",
+          "Sludge Metal"
         ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Psychedelic Rock"
-    ]
+      "Psychedelic Rock",
+      "Disco House",
+      "Funky House",
+      "Stoner Rock",
+      "Stoner Metal",
+      "Space Rock",
+      "Norsk Rock",
+      "Sludge Metal"
+    ],
+    "origin": "NO"
   },
   {
     "normalizedName": "legrandguignol",

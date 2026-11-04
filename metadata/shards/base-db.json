@@ -2574,6 +2574,13 @@
         "genres": [
           "Children's"
         ]
+      },
+      {
+        "name": "אצא לי השוקה",
+        "year": "2005",
+        "genres": [
+          "Children's"
+        ]
       }
     ],
     "tags": [
@@ -3468,14 +3475,19 @@
       {
         "name": "Echoes Of A Forlorn Land",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
       },
       {
         "name": "Frost",
         "year": "2026",
         "genres": [
           "Brutal Deathcore",
-          "Symphonic Deathcore"
+          "Symphonic Deathcore",
+          "Deathcore",
+          "Death Metal"
         ]
       },
       {
@@ -3483,7 +3495,25 @@
         "year": "2026",
         "genres": [
           "Brutal Deathcore",
-          "Symphonic Blackened Deathcore"
+          "Symphonic Blackened Deathcore",
+          "Deathcore",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Raise The Raven Banner",
+        "year": "2026",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "The Serpent Of Midgard",
+        "year": "2026",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
         ]
       }
     ],
@@ -3491,7 +3521,8 @@
       "Deathcore",
       "Brutal Deathcore",
       "Symphonic Deathcore",
-      "Symphonic Blackened Deathcore"
+      "Symphonic Blackened Deathcore",
+      "Death Metal"
     ]
   },
   {

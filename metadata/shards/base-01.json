@@ -2419,13 +2419,41 @@
           "Progressive Metal",
           "Rock"
         ]
+      },
+      {
+        "name": "Bleeding Sky",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Progressive Rock",
+          "Djent"
+        ]
+      },
+      {
+        "name": "Delirium",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Progressive Rock",
+          "Djent"
+        ]
+      },
+      {
+        "name": "In A Fever Dream - Ep",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Progressive Rock",
+          "Djent"
+        ]
       }
     ],
     "tags": [
       "Progressive Metal",
       "Heavy Metal",
       "Progressive Rock",
-      "Rock"
+      "Rock",
+      "Djent"
     ]
   },
   {
@@ -4445,6 +4473,41 @@
     ],
     "tags": [
       "Gothic Rock"
+    ]
+  },
+  {
+    "normalizedName": "ursus",
+    "displayName": "Ursus",
+    "origin": "CO",
+    "albums": [
+      {
+        "name": "Fuerza Metal",
+        "year": "2011",
+        "genres": [
+          "Thrash Metal",
+          "Speed Metal"
+        ]
+      },
+      {
+        "name": "Garra De Acero",
+        "year": "2021",
+        "genres": [
+          "Thrash Metal",
+          "Speed Metal"
+        ]
+      },
+      {
+        "name": "Hijos Del Metal",
+        "year": "2008",
+        "genres": [
+          "Thrash Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Speed Metal"
     ]
   },
   {

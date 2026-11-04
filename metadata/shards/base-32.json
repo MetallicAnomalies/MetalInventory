@@ -1829,7 +1829,12 @@
       {
         "name": "Prophecies",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Power Metal",
+          "Symphonic Metal",
+          "Speed Metal",
+          "Folk Metal"
+        ]
       },
       {
         "name": "Rolling Waves",
@@ -1841,7 +1846,10 @@
     ],
     "tags": [
       "Symphonic Power Metal",
-      "Power Metal"
+      "Power Metal",
+      "Symphonic Metal",
+      "Speed Metal",
+      "Folk Metal"
     ]
   },
   {
@@ -3909,6 +3917,15 @@
         "name": "The Greatest 30 Years On Earth",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "The Sound Of Nightwish Reborn",
+        "year": "2008",
+        "genres": [
+          "Symphonic Metal",
+          "Power Metal",
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
@@ -3916,7 +3933,8 @@
       "Symphonic Metal",
       "Folk Metal",
       "Power Metal",
-      "Rock"
+      "Rock",
+      "Gothic Metal"
     ]
   },
   {
@@ -5191,7 +5209,9 @@
       {
         "name": "Dreadspawn Dominion",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [

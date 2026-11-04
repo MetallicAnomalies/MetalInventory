@@ -894,11 +894,23 @@
         "name": "Our Fates Lie In Tandem",
         "year": "2027",
         "genres": []
+      },
+      {
+        "name": "Worlds Away",
+        "year": "2026",
+        "genres": [
+          "Chill",
+          "Acoustic",
+          "Orchestral"
+        ]
       }
     ],
     "tags": [
       "Djent",
-      "Metalcore"
+      "Metalcore",
+      "Chill",
+      "Acoustic",
+      "Orchestral"
     ]
   },
   {
@@ -1631,7 +1643,11 @@
       {
         "name": "Indecent Idols",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom Metal",
+          "Sludge Metal",
+          "Gothic Metal"
+        ]
       },
       {
         "name": "The Beasts of Speyer",
@@ -1642,7 +1658,10 @@
       }
     ],
     "tags": [
-      "Epic Doom Metal"
+      "Epic Doom Metal",
+      "Doom Metal",
+      "Sludge Metal",
+      "Gothic Metal"
     ]
   },
   {
@@ -4344,10 +4363,15 @@
       {
         "name": "Grave Seeker",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Melodic Death Metal"
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "ultimatium",

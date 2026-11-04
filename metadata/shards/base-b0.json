@@ -472,6 +472,13 @@
           "Black Death Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Origin Bonus Tracks",
+        "year": "2017",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2449,7 +2456,20 @@
       {
         "name": "Monumental",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Symphonic Metal",
+          "Folk Metal",
+          "Gothic Metal"
+        ]
+      },
+      {
+        "name": "Darkness",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Folk Metal",
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
@@ -2457,7 +2477,8 @@
       "Progressive Metal",
       "Oriental Folk Metal",
       "Folk Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Gothic Metal"
     ]
   },
   {
@@ -3038,6 +3059,62 @@
         "genres": [
           "Children's",
           "Pop"
+        ]
+      },
+      {
+        "name": "5 Dagen Weekend",
+        "year": "2026",
+        "genres": [
+          "Children's"
+        ]
+      },
+      {
+        "name": "Als Een Vis In Het Water",
+        "year": "2026",
+        "genres": [
+          "Children's"
+        ]
+      },
+      {
+        "name": "Geen Cadeau",
+        "year": "2025",
+        "genres": [
+          "Children's"
+        ]
+      },
+      {
+        "name": "Geen Kind Alleen",
+        "year": "2026",
+        "genres": [
+          "Children's"
+        ]
+      },
+      {
+        "name": "Op De Boerderij",
+        "year": "2026",
+        "genres": [
+          "Children's"
+        ]
+      },
+      {
+        "name": "P.h.o.n.e. (Nxt)",
+        "year": "2025",
+        "genres": [
+          "Children's"
+        ]
+      },
+      {
+        "name": "Samen Alleen (Nxt)",
+        "year": "2025",
+        "genres": [
+          "Children's"
+        ]
+      },
+      {
+        "name": "Spot Aan",
+        "year": "2026",
+        "genres": [
+          "Children's"
         ]
       }
     ],
@@ -4373,7 +4450,10 @@
         "year": "2017",
         "genres": [
           "Power Metal",
-          "Symphonic Metal"
+          "Symphonic Metal",
+          "Progressive Metal",
+          "Melodic Metal",
+          "Female-fronted"
         ]
       },
       {
@@ -4400,12 +4480,23 @@
           "Progressive Metal",
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Of Sin & Ruin",
+        "year": "2026",
+        "genres": [
+          "Power Metal",
+          "Progressive Metal",
+          "Symphonic Metal"
+        ]
       }
     ],
     "tags": [
       "Power Metal",
       "Progressive Metal",
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Melodic Metal",
+      "Female-fronted"
     ]
   },
   {
@@ -4815,6 +4906,16 @@
           "Melodic Death Metal",
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "As Above, So Below Ep",
+        "year": "2017",
+        "genres": []
+      },
+      {
+        "name": "Fight For The Lost",
+        "year": "2016",
+        "genres": []
       }
     ],
     "tags": [

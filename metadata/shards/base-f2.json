@@ -1969,6 +1969,17 @@
           "Progressive Metal",
           "Rock"
         ]
+      },
+      {
+        "name": "Green Carnation - A Dark Poem, Pt. Iii: The Messiah Complex",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Gothic Metal",
+          "Progressive Rock",
+          "Doom Metal",
+          "Norsk Rock"
+        ]
       }
     ],
     "tags": [
@@ -3536,7 +3547,8 @@
     "tags": [
       "Hard Rock",
       "Psychedelic Rock"
-    ]
+    ],
+    "origin": "NO"
   },
   {
     "normalizedName": "surai",

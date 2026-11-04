@@ -1950,7 +1950,9 @@
         "name": "Zerfall",
         "year": "2026",
         "genres": [
-          "Post-Black"
+          "Post-Black",
+          "Post-Black Metal",
+          "Atmospheric Black Metal"
         ]
       }
     ],
@@ -1958,7 +1960,8 @@
       "Post-Black",
       "Atmospheric Black Metal",
       "Ambient Black Metal",
-      "Black Metal"
+      "Black Metal",
+      "Post-Black Metal"
     ]
   },
   {
@@ -2257,7 +2260,11 @@
       {
         "name": "Legacy",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Groove Metal",
+          "Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [

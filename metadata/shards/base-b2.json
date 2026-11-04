@@ -2542,7 +2542,26 @@
       {
         "name": "Dark Asylum",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Power Metal",
+          "Symphonic Metal",
+          "Gothic Metal",
+          "Progressive Metal",
+          "Speed Metal",
+          "Folk Metal"
+        ]
+      },
+      {
+        "name": "Ashen World (Feat. Ignacia Fernández)",
+        "year": "2026",
+        "genres": [
+          "Power Metal",
+          "Symphonic Metal",
+          "Gothic Metal",
+          "Progressive Metal",
+          "Speed Metal",
+          "Folk Metal"
+        ]
       }
     ],
     "tags": [
@@ -2553,7 +2572,10 @@
       "Folk Rock",
       "Folk, World, & Country",
       "Heavy Metal",
-      "Rock"
+      "Rock",
+      "Gothic Metal",
+      "Speed Metal",
+      "Folk Metal"
     ]
   },
   {
@@ -3744,7 +3766,13 @@
       {
         "name": "Satanic Chaos Legions",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Black Metal",
+          "Grindcore",
+          "Thrash Metal",
+          "Speed Metal"
+        ]
       },
       {
         "name": "Undead Melody",
@@ -3756,7 +3784,11 @@
     ],
     "tags": [
       "Death Metal",
-      "Old School Death Metal"
+      "Old School Death Metal",
+      "Black Metal",
+      "Grindcore",
+      "Thrash Metal",
+      "Speed Metal"
     ],
     "origin": "US"
   },

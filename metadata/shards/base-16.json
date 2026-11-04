@@ -3451,11 +3451,20 @@
         "name": "Edge Of Destruction",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Martyr",
+        "year": "2025",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Groove Thrash Metal"
-    ]
+      "Groove Thrash Metal",
+      "Thrash Metal"
+    ],
+    "origin": "NL"
   },
   {
     "normalizedName": "michalurbaniak",
@@ -3758,6 +3767,19 @@
         "genres": [
           "Post-Metal"
         ]
+      },
+      {
+        "name": "An Undying Love For A Burning World",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Sludge Metal",
+          "2020s",
+          "Progressive Metal",
+          "Post-Metal",
+          "Doom Metal",
+          "Sludge Metal",
+          "Industrial Metal"
+        ]
       }
     ],
     "tags": [
@@ -3766,7 +3788,11 @@
       "Post-Metal",
       "Experimental Metal",
       "Sludge Metal",
-      "Hardcore Punk"
+      "Hardcore Punk",
+      "2020s",
+      "Progressive Metal",
+      "Doom Metal",
+      "Industrial Metal"
     ]
   },
   {

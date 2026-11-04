@@ -1023,11 +1023,23 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "The Window",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Power Metal",
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Metal"
-    ]
+      "Symphonic Metal",
+      "Power Metal",
+      "Gothic Metal"
+    ],
+    "origin": "CN"
   },
   {
     "normalizedName": "defenestraitor",
@@ -1926,12 +1938,22 @@
           "Progressive Metal",
           "Groove Metal"
         ]
+      },
+      {
+        "name": "The Snake Devours The Wolf",
+        "year": "2025",
+        "genres": [
+          "Groove Metal",
+          "Djent",
+          "Progressive Metal"
+        ]
       }
     ],
     "origin": "GR",
     "tags": [
       "Progressive Metal",
-      "Groove Metal"
+      "Groove Metal",
+      "Djent"
     ]
   },
   {

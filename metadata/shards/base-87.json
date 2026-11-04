@@ -1755,6 +1755,19 @@
     ]
   },
   {
+    "normalizedName": "flowersonthegrave",
+    "displayName": "Flowers on the grave",
+    "albums": [
+      {
+        "name": "Through The Glass",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": [],
+    "origin": "US"
+  },
+  {
     "normalizedName": "frostusa",
     "displayName": "Frost (Usa)",
     "albums": [
@@ -1920,11 +1933,21 @@
           "Melodic Doom Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Behind Us All",
+        "year": "2026",
+        "genres": [
+          "Doom Metal",
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Doom Metal",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Doom Metal",
+      "Gothic Metal"
     ]
   },
   {
@@ -2072,12 +2095,21 @@
       {
         "name": "Guillotine",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Groove Metal",
+          "Thrash Metal",
+          "Melodic Death Metal",
+          "Speed Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Groove Metal",
+      "Melodic Death Metal",
+      "Speed Metal"
     ]
   },
   {

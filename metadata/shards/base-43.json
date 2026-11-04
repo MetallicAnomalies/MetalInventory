@@ -1568,13 +1568,19 @@
       {
         "name": "Forbidden",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Thrash Metal",
+          "Speed Metal",
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
       "Bay Area Thrash Metal",
       "Groove Thrash Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Speed Metal",
+      "Groove Metal"
     ]
   },
   {
@@ -4457,7 +4463,12 @@
       {
         "name": "Descending Into Madness",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Death Metal",
+          "Symphonic Metal",
+          "Black Metal",
+          "Death Metal"
+        ]
       },
       {
         "name": "Deus Rex",

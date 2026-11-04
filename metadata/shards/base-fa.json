@@ -28,12 +28,22 @@
           "Hard Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "As Ghosts",
+        "year": "2018",
+        "genres": [
+          "Albums",
+          "10 Years"
+        ]
       }
     ],
     "tags": [
       "Alternative Rock",
       "Rock",
-      "Hard Rock"
+      "Hard Rock",
+      "Albums",
+      "10 Years"
     ]
   },
   {

@@ -329,6 +329,27 @@
     ]
   },
   {
+    "normalizedName": "atthecross",
+    "displayName": "At The Cross",
+    "albums": [
+      {
+        "name": "Sword Of The Spirit",
+        "year": "2024",
+        "genres": [
+          "Doom Metal",
+          "Symphonic Metal",
+          "Christian Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal",
+      "Symphonic Metal",
+      "Christian Rock"
+    ],
+    "origin": "GB"
+  },
+  {
     "normalizedName": "axisofadvance",
     "displayName": "Axis Of Advance",
     "albums": [
@@ -3461,6 +3482,15 @@
         "name": "Part Lies Part Heart Part Truth Part Garbage 1982-2011",
         "year": "2011",
         "genres": [
+          "Alternative Rock",
+          "Rock"
+        ]
+      },
+      {
+        "name": "Document -",
+        "year": "1987",
+        "genres": [
+          "Jangle Pop",
           "Alternative Rock",
           "Rock"
         ]

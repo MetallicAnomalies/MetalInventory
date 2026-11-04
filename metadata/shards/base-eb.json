@@ -533,11 +533,29 @@
         "genres": [
           "Hardcore"
         ]
+      },
+      {
+        "name": "6 Days...and A Crushed Chest",
+        "year": "2007",
+        "genres": [
+          "Deathcore",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Behind Every Treason",
+        "year": "2006",
+        "genres": [
+          "Deathcore",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
       "Hardcore",
-      "Rock"
+      "Rock",
+      "Deathcore",
+      "Metalcore"
     ]
   },
   {
@@ -3869,6 +3887,23 @@
     "tags": [
       "Progressive Rock"
     ]
+  },
+  {
+    "normalizedName": "orphic",
+    "displayName": "Orphic",
+    "albums": [
+      {
+        "name": "Memory In Frost",
+        "year": "2024",
+        "genres": []
+      },
+      {
+        "name": "No Orpheus",
+        "year": "2025",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "pervyperkin",

@@ -2848,6 +2848,19 @@
     ]
   },
   {
+    "normalizedName": "mitski",
+    "displayName": "Mitski",
+    "albums": [
+      {
+        "name": "Nothings About To Happen To Me",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": [],
+    "origin": "US"
+  },
+  {
     "normalizedName": "moribundoblivion",
     "displayName": "Moribund Oblivion",
     "albums": [
@@ -4954,7 +4967,11 @@
       {
         "name": "Honorbound",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Death Metal",
+          "Folk Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [

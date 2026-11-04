@@ -308,15 +308,19 @@
         "year": "2026",
         "genres": [
           "Doom Stoner Metal",
-          "Stoner Metal"
+          "Stoner Metal",
+          "Doom Metal",
+          "Sludge Metal"
         ]
       }
     ],
     "tags": [
       "Doom Metal",
       "Stoner Metal",
-      "Doom Stoner Metal"
-    ]
+      "Doom Stoner Metal",
+      "Sludge Metal"
+    ],
+    "origin": "FR"
   },
   {
     "normalizedName": "barrencross",
@@ -972,6 +976,58 @@
       "Progressive Metal",
       "Experimental Jazz"
     ]
+  },
+  {
+    "normalizedName": "darkdesires",
+    "displayName": "Dark Desires",
+    "albums": [
+      {
+        "name": "Black Hearts",
+        "year": "2019",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Old Evil",
+        "year": "2019",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Storm",
+        "year": "2021",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "The Great Mountain Of Torments",
+        "year": "2023",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "The Mighty Dark & Frozen Mountains",
+        "year": "2021",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "The Wanderer & His Shadows",
+        "year": "2020",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "demoledor",

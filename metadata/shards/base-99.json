@@ -1929,11 +1929,19 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Northwind Chronicles",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
       }
     ],
     "tags": [
       "Symphonic Metal"
-    ]
+    ],
+    "origin": "DE"
   },
   {
     "normalizedName": "hostilebreed",

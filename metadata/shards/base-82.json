@@ -3388,7 +3388,8 @@
         "year": "2002",
         "genres": [
           "Death Metal",
-          "Thrash Metal"
+          "Thrash Metal",
+          "Old School Death Metal"
         ]
       },
       {
@@ -3420,7 +3421,8 @@
         "year": "2014",
         "genres": [
           "Death Metal",
-          "Thrash Metal"
+          "Thrash Metal",
+          "Best Of 2014"
         ]
       },
       {
@@ -3436,13 +3438,39 @@
         "year": "2020",
         "genres": [
           "Death Metal",
-          "Thrash Metal"
+          "Thrash Metal",
+          "Death Thrash Metal",
+          "Deathrash"
+        ]
+      },
+      {
+        "name": "Four Decades Of Death",
+        "year": "2024",
+        "genres": [
+          "Death Metal",
+          "Thrash Metal",
+          "Deathrash",
+          "Death Thrash Metal"
+        ]
+      },
+      {
+        "name": "Putrid Existence",
+        "year": "2024",
+        "genres": [
+          "Death Metal",
+          "Thrash Metal",
+          "Speed Metal"
         ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Old School Death Metal",
+      "Deathrash",
+      "Death Thrash Metal",
+      "Best Of 2014",
+      "Speed Metal"
     ]
   },
   {
@@ -3824,11 +3852,25 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Graveyard Thunder",
+        "year": "2024",
+        "genres": [
+          "Doom Metal",
+          "Stoner Metal",
+          "Sludge Metal",
+          "Stoner Rock"
+        ]
       }
     ],
     "tags": [
-      "Doom Metal"
-    ]
+      "Doom Metal",
+      "Stoner Metal",
+      "Sludge Metal",
+      "Stoner Rock"
+    ],
+    "origin": "BR"
   },
   {
     "normalizedName": "xythlia",
@@ -4062,5 +4104,18 @@
       "Black Metal"
     ],
     "origin": "RU"
+  },
+  {
+    "normalizedName": "רוניברהדס",
+    "displayName": "רוני בר הדס",
+    "albums": [
+      {
+        "name": "עד שתצא הקשת",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": [],
+    "origin": "IL"
   }
 ]

@@ -285,6 +285,15 @@
         "name": "A Death-Grip On Yesterday Re-Release",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "The End Is Not The End",
+        "year": "2026",
+        "genres": [
+          "Atreyu",
+          "New Release",
+          "Spotify - Release Radar"
+        ]
       }
     ],
     "tags": [
@@ -293,7 +302,10 @@
       "Screamo",
       "Metalcore",
       "Heavy Metal",
-      "Hardcore"
+      "Hardcore",
+      "Atreyu",
+      "New Release",
+      "Spotify - Release Radar"
     ]
   },
   {

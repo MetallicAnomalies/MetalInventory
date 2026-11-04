@@ -866,6 +866,20 @@
           "Pop Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "היסטוריה של תאונות",
+        "year": "2025",
+        "genres": [
+          "Mizrahi"
+        ]
+      },
+      {
+        "name": "מנגינת הלב",
+        "year": "2026",
+        "genres": [
+          "Mizrahi"
+        ]
       }
     ],
     "tags": [
@@ -874,7 +888,8 @@
       "Rock",
       "Grime",
       "Pop",
-      "Pop Rock"
+      "Pop Rock",
+      "Mizrahi"
     ]
   },
   {

@@ -1257,11 +1257,98 @@
           "Deathcore",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Aberrant Waltz",
+        "year": "2024",
+        "genres": [
+          "Deathcore",
+          "Progressive Deathcore",
+          "Symphonic Deathcore",
+          "Blackened Deathcore"
+        ]
+      },
+      {
+        "name": "Eclipse, Pt. 1",
+        "year": "2021",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Limbo",
+        "year": "2021",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Lust",
+        "year": "2021",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Ov Brimstone & Fire",
+        "year": "2022",
+        "genres": [
+          "Deathcore",
+          "Technical Deathcore",
+          "Blackened Deathcore",
+          "Progressive Deathcore",
+          "Symphonic Deathcore"
+        ]
+      },
+      {
+        "name": "Reincarnate",
+        "year": "2022",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "The Divine Stigmata",
+        "year": "2022",
+        "genres": [
+          "Deathcore",
+          "Technical Deathcore",
+          "Blackened Deathcore",
+          "Progressive Deathcore",
+          "Symphonic Deathcore"
+        ]
+      },
+      {
+        "name": "The Tower: Part One",
+        "year": "2024",
+        "genres": [
+          "Deathcore",
+          "Technical Deathcore",
+          "Progressive Deathcore",
+          "Blackened Deathcore",
+          "Symphonic Deathcore"
+        ]
+      },
+      {
+        "name": "Wrath",
+        "year": "2021",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Deathcore",
-      "Death Metal"
+      "Death Metal",
+      "Technical Deathcore",
+      "Blackened Deathcore",
+      "Progressive Deathcore",
+      "Symphonic Deathcore"
     ]
   },
   {
@@ -2466,6 +2553,16 @@
       {
         "name": "Alive",
         "year": "2017",
+        "genres": []
+      },
+      {
+        "name": "Like A Bird",
+        "year": "2020",
+        "genres": []
+      },
+      {
+        "name": "Under Pressure",
+        "year": "2021",
         "genres": []
       }
     ],

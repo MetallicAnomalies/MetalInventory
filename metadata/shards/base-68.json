@@ -1033,13 +1033,105 @@
           "Progressive Metal",
           "Beat"
         ]
+      },
+      {
+        "name": "Agony",
+        "year": "2024",
+        "genres": [
+          "Deathcore",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Einsam",
+        "year": "2025",
+        "genres": [
+          "Deathcore",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Frvst",
+        "year": "2024",
+        "genres": [
+          "Deathcore",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Frvst (Drum N Bass Remix)",
+        "year": "2025",
+        "genres": [
+          "Deathcore",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Konstrukt",
+        "year": "2026",
+        "genres": [
+          "Deathcore",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Krieg",
+        "year": "2026",
+        "genres": [
+          "Deathcore",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Parasit",
+        "year": "2023",
+        "genres": [
+          "Deathcore",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Perfekt",
+        "year": "2023",
+        "genres": [
+          "Deathcore",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Stimmen",
+        "year": "2022",
+        "genres": [
+          "Deathcore",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Sucht",
+        "year": "2026",
+        "genres": [
+          "Deathcore",
+          "Metalcore",
+          "Death Metal",
+          "Grindcore"
+        ]
+      },
+      {
+        "name": "Verlangen (Mintage Edit)",
+        "year": "2025",
+        "genres": [
+          "Deathcore",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
       "Deathcore",
       "Metalcore",
       "Progressive Metal",
-      "Beat"
+      "Beat",
+      "Death Metal",
+      "Grindcore"
     ],
     "origin": "DE"
   },

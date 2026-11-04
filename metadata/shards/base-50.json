@@ -5031,11 +5031,24 @@
           "Deathcore",
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "Fleshbound Reliquary",
+        "year": "2025",
+        "genres": [
+          "Death Metal",
+          "Deathcore",
+          "Djent",
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
       "Technical Death Metal",
-      "Deathcore"
+      "Deathcore",
+      "Death Metal",
+      "Djent",
+      "Progressive Metal"
     ]
   },
   {

@@ -497,13 +497,18 @@
       {
         "name": "Nightbloom",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Groove Metal",
+          "Christian Rock"
+        ]
       }
     ],
     "tags": [
       "Metalcore",
       "Nu Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Groove Metal",
+      "Christian Rock"
     ]
   },
   {
@@ -3143,10 +3148,20 @@
         "genres": [
           "Symphonic Progressive Metal"
         ]
+      },
+      {
+        "name": "Crossroads",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Progressive Metal"
+      "Symphonic Progressive Metal",
+      "Symphonic Metal",
+      "Progressive Metal"
     ]
   },
   {

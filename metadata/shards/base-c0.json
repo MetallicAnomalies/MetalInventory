@@ -66,12 +66,21 @@
           "Death Metal",
           "Metalcore"
         ]
+      },
+      {
+        "name": "Nothingman",
+        "year": "2025",
+        "genres": [
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
       "Thrash Metal",
       "Death Metal",
-      "Metalcore"
+      "Metalcore",
+      "Melodic Death Metal"
     ]
   },
   {
@@ -1843,11 +1852,20 @@
           "Alternative Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "For Those Who Wait",
+        "year": "2010",
+        "genres": [
+          "Rock",
+          "Christian Rock"
+        ]
       }
     ],
     "tags": [
       "Alternative Rock",
-      "Rock"
+      "Rock",
+      "Christian Rock"
     ]
   },
   {

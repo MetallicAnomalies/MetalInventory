@@ -4045,6 +4045,43 @@
     ]
   },
   {
+    "normalizedName": "theresnosavior",
+    "displayName": "There's No Savior",
+    "albums": [
+      {
+        "name": "Ex(sins)tence",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Greed",
+        "year": "2025",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Regret",
+        "year": "2020",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "The Conflagration",
+        "year": "2022",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "theworstcasescenario",
     "displayName": "the Worst Case Scenario",
     "origin": "DE",
@@ -4473,6 +4510,13 @@
         "genres": [
           "Progressive Metal",
           "Progressive Rock"
+        ]
+      },
+      {
+        "name": "Maybe In Another Life (Radio Edit)",
+        "year": "2025",
+        "genres": [
+          "Progressive Metal"
         ]
       }
     ],

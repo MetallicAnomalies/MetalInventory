@@ -4063,6 +4063,15 @@
         "name": "Ashes",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Cry For The Fallen",
+        "year": "2025",
+        "genres": [
+          "Power Metal",
+          "Symphonic Metal",
+          "Folk Metal"
+        ]
       }
     ],
     "tags": [
@@ -4072,7 +4081,8 @@
       "Industrial Metal",
       "Folk Metal",
       "Power Metal",
-      "Rock"
+      "Rock",
+      "Symphonic Metal"
     ]
   },
   {

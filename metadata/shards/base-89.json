@@ -1877,12 +1877,20 @@
           "Melodic Death Metal",
           "Metalcore"
         ]
+      },
+      {
+        "name": "Of Static Slumber",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
       "Metalcore"
-    ]
+    ],
+    "origin": "FI"
   },
   {
     "normalizedName": "headlessmonarch",
@@ -3267,7 +3275,8 @@
     ],
     "tags": [
       "Black Metal"
-    ]
+    ],
+    "origin": "SE"
   },
   {
     "normalizedName": "nazoranai",

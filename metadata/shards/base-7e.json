@@ -3342,10 +3342,14 @@
       {
         "name": "Enter The Realm Of Fire",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Speed Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Speed Metal"
+    ]
   },
   {
     "normalizedName": "reigninferno",
@@ -4006,11 +4010,16 @@
       {
         "name": "Null Crowned The Infinite",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Melodic Black Metal"
+      "Melodic Black Metal",
+      "Black Metal",
+      "Melodic Death Metal"
     ]
   },
   {

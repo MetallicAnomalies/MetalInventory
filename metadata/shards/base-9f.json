@@ -1700,6 +1700,30 @@
           "Black Metal",
           "Punk"
         ]
+      },
+      {
+        "name": "Death Anthem",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Deathrock"
+        ]
+      },
+      {
+        "name": "Desperate Shadow",
+        "year": "2019",
+        "genres": [
+          "Black Metal",
+          "Deathrock"
+        ]
+      },
+      {
+        "name": "Sex With Succubus",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Deathrock"
+        ]
       }
     ],
     "tags": [
@@ -4331,11 +4355,17 @@
       {
         "name": "Sono Sola",
         "year": "2027",
-        "genres": []
+        "genres": [
+          "Power Metal",
+          "Symphonic Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Symphonic Metal",
+      "Thrash Metal"
     ]
   },
   {

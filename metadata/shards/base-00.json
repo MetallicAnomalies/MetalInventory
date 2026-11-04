@@ -639,6 +639,26 @@
     ]
   },
   {
+    "normalizedName": "aworldwithout",
+    "displayName": "A World Without",
+    "albums": [
+      {
+        "name": "We All Die Alone",
+        "year": "2020",
+        "genres": [
+          "Deathcore",
+          "Mathcore",
+          "Djent"
+        ]
+      }
+    ],
+    "tags": [
+      "Deathcore",
+      "Mathcore",
+      "Djent"
+    ]
+  },
+  {
     "normalizedName": "bartłomiejkrysiuksbatushka",
     "displayName": "Bartłomiej Krysiuk's Batushka",
     "albums": [
@@ -1173,7 +1193,13 @@
         "year": "2026",
         "genres": [
           "Symphonic Metal",
-          "Rock"
+          "Rock",
+          "Gothic Metal",
+          "Power Metal",
+          "Gothic Rock",
+          "Medieval Metal",
+          "Medieval",
+          "Folk Metal"
         ]
       }
     ],
@@ -1182,7 +1208,12 @@
       "Gothic Metal",
       "Heavy Metal",
       "Symphonic Rock",
-      "Rock"
+      "Rock",
+      "Power Metal",
+      "Gothic Rock",
+      "Medieval Metal",
+      "Medieval",
+      "Folk Metal"
     ]
   },
   {

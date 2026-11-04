@@ -2806,11 +2806,24 @@
         "genres": [
           "Progressive Power Metal"
         ]
+      },
+      {
+        "name": "Ancient Gods",
+        "year": "2021",
+        "genres": [
+          "Symphonic Metal",
+          "Power Metal",
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Power Metal"
-    ]
+      "Progressive Power Metal",
+      "Symphonic Metal",
+      "Power Metal",
+      "Progressive Metal"
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "loruhamah",
@@ -3522,6 +3535,23 @@
     "tags": [
       "Heavy Metal"
     ]
+  },
+  {
+    "normalizedName": "nxt",
+    "displayName": "NXT",
+    "albums": [
+      {
+        "name": "We Are Nxt",
+        "year": "2026",
+        "genres": [
+          "Children's"
+        ]
+      }
+    ],
+    "tags": [
+      "Children's"
+    ],
+    "origin": "KR"
   },
   {
     "normalizedName": "oathsc",

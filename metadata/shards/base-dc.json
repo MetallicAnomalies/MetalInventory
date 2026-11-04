@@ -806,11 +806,79 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Ash",
+        "year": "2021",
+        "genres": [
+          "Doom Metal",
+          "Stoner Metal",
+          "Sludge Metal"
+        ]
+      },
+      {
+        "name": "Centuries Asleep",
+        "year": "2021",
+        "genres": [
+          "Doom Metal",
+          "Stoner Metal",
+          "Sludge Metal"
+        ]
+      },
+      {
+        "name": "Graveyard Thunder",
+        "year": "2024",
+        "genres": [
+          "Doom Metal",
+          "Stoner Metal",
+          "Sludge Metal",
+          "Stoner Rock"
+        ]
+      },
+      {
+        "name": "Lightning In The Realms Of Death",
+        "year": "2024",
+        "genres": [
+          "Doom Metal",
+          "Stoner Metal",
+          "Sludge Metal"
+        ]
+      },
+      {
+        "name": "Monastery",
+        "year": "2021",
+        "genres": [
+          "Doom Metal",
+          "Stoner Metal",
+          "Sludge Metal"
+        ]
+      },
+      {
+        "name": "Stand In The Dimming Light",
+        "year": "2023",
+        "genres": [
+          "Doom Metal",
+          "Stoner Metal",
+          "Sludge Metal"
+        ]
+      },
+      {
+        "name": "The Great Unknown",
+        "year": "2023",
+        "genres": [
+          "Doom Metal",
+          "Stoner Metal",
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
-      "Doom Metal"
-    ]
+      "Doom Metal",
+      "Stoner Metal",
+      "Sludge Metal",
+      "Stoner Rock"
+    ],
+    "origin": "IT"
   },
   {
     "normalizedName": "brii",

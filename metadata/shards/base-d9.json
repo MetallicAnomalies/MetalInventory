@@ -2012,6 +2012,19 @@
     ]
   },
   {
+    "normalizedName": "jadetelegraph",
+    "displayName": "Jade Telegraph",
+    "albums": [
+      {
+        "name": "Death Mask Singularity",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": [],
+    "origin": "US"
+  },
+  {
     "normalizedName": "jeffloomis",
     "displayName": "Jeff Loomis",
     "origin": "US",
@@ -3308,6 +3321,22 @@
     "tags": [
       "Heavy Metal",
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "parispaloma",
+    "displayName": "Paris Paloma",
+    "origin": "GB",
+    "albums": [
+      {
+        "name": "Notre Dame",
+        "year": "2023",
+        "genres": []
+      }
+    ],
+    "tags": [
+      "Singer-Songwriter",
+      "Alternative"
     ]
   },
   {

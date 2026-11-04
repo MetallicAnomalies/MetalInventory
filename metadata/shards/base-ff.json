@@ -2165,6 +2165,24 @@
     ]
   },
   {
+    "normalizedName": "jacknoble",
+    "displayName": "Jack Noble",
+    "origin": "GB",
+    "albums": [
+      {
+        "name": "This Is What The Edge Of Your Seat Was Made For: Repented",
+        "year": "2026",
+        "genres": [
+          "Djent"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal",
+      "Djent"
+    ]
+  },
+  {
     "normalizedName": "juniorsenior",
     "displayName": "Junior Senior",
     "origin": "DK",
@@ -2501,6 +2519,11 @@
           "Heavy Metal",
           "Nu Metal"
         ]
+      },
+      {
+        "name": "Lower",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -3798,7 +3821,11 @@
         "year": "2026",
         "genres": [
           "Melodic Doom Death Metal",
-          "Death Metal"
+          "Death Metal",
+          "Doom Metal",
+          "Drone Metal",
+          "Melodic Death Metal",
+          "Gothic Metal"
         ]
       }
     ],
@@ -3806,7 +3833,10 @@
       "Death Doom Metal",
       "Death Metal",
       "Doom Metal",
-      "Melodic Doom Death Metal"
+      "Melodic Doom Death Metal",
+      "Drone Metal",
+      "Melodic Death Metal",
+      "Gothic Metal"
     ]
   },
   {

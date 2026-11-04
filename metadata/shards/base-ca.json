@@ -2393,6 +2393,13 @@
           "Death Metal",
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Digital Plague",
+        "year": "2025",
+        "genres": [
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
@@ -4153,6 +4160,23 @@
     "tags": [
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "themateria",
+    "displayName": "The Materia",
+    "albums": [
+      {
+        "name": "1984",
+        "year": "2026",
+        "genres": [
+          "Djent"
+        ]
+      }
+    ],
+    "tags": [
+      "Djent"
+    ],
+    "origin": "AT"
   },
   {
     "normalizedName": "thempest",

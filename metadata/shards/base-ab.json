@@ -6592,11 +6592,20 @@
           "Death Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Slaves Of Time",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Melodic Death Metal"
     ]
   },
   {

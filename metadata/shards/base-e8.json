@@ -4372,14 +4372,41 @@
         "year": "2026",
         "genres": [
           "Melodic Death Progressive Metal",
-          "Progressive Metal"
+          "Progressive Metal",
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Etna",
+        "year": "2024",
+        "genres": [
+          "Progressive Metal",
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Skywards",
+        "year": "2019",
+        "genres": [
+          "Progressive Metal",
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "The Lead Heavens",
+        "year": "2015",
+        "genres": [
+          "Progressive Metal",
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
       "Melodic Death Progressive Metal",
-      "Progressive Metal"
-    ]
+      "Progressive Metal",
+      "Melodic Death Metal"
+    ],
+    "origin": "FI"
   },
   {
     "normalizedName": "vvondogmai",

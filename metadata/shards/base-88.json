@@ -2386,14 +2386,51 @@
       {
         "name": "Netherworlds",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Death Metal",
+          "Death Metal",
+          "Doom Metal",
+          "Folk Metal"
+        ]
+      },
+      {
+        "name": "Arch Of The Sky",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Death Metal",
+          "Folk Metal",
+          "Doom Metal"
+        ]
+      },
+      {
+        "name": "Gleam In The Black",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Death Metal",
+          "Doom Metal",
+          "Folk Metal"
+        ]
+      },
+      {
+        "name": "Shadowlife",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Death Metal",
+          "Doom Metal",
+          "Folk Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
       "Heavy Metal",
       "Death Metal",
-      "Rock"
+      "Rock",
+      "Doom Metal",
+      "Folk Metal"
     ]
   },
   {
@@ -4866,5 +4903,22 @@
       "Pagan Black Metal",
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "אופירהגלוסקא",
+    "displayName": "אופירה גלוסקא",
+    "albums": [
+      {
+        "name": "ח.נ. ביאליק - שירים ופזמונות",
+        "year": "1969",
+        "genres": [
+          "Mizrahi"
+        ]
+      }
+    ],
+    "tags": [
+      "Mizrahi"
+    ],
+    "origin": "IL"
   }
 ]

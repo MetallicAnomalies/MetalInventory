@@ -622,6 +622,15 @@
           "Metalcore",
           "Djent"
         ]
+      },
+      {
+        "name": "Bittersleep",
+        "year": "2026",
+        "genres": [
+          "Djent",
+          "Metalcore",
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
@@ -4504,12 +4513,32 @@
           "Drone Doom Metal",
           "Dark Ambient"
         ]
+      },
+      {
+        "name": "The Grimm Robe Demos",
+        "year": "1999",
+        "genres": [
+          "Drone",
+          "Drone Doom Metal",
+          "Drone Metal",
+          "Demo",
+          "Get",
+          "Cd",
+          "Southern Lord"
+        ]
       }
     ],
     "tags": [
       "Drone Doom Metal",
-      "Dark Ambient"
-    ]
+      "Dark Ambient",
+      "Drone",
+      "Drone Metal",
+      "Demo",
+      "Get",
+      "Cd",
+      "Southern Lord"
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "superhappystorytimeland",

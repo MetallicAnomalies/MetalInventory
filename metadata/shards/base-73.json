@@ -1994,7 +1994,8 @@
         "year": "2017",
         "genres": [
           "Melodic Death Metal",
-          "Extreme Progressive Metal"
+          "Extreme Progressive Metal",
+          "Progressive Metal"
         ]
       },
       {
@@ -2008,12 +2009,18 @@
       {
         "name": "The Mother Void",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Metal",
+          "Melodic Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Extreme Progressive Metal"
+      "Extreme Progressive Metal",
+      "Progressive Metal",
+      "Death Metal"
     ]
   },
   {
@@ -2525,25 +2532,31 @@
         "name": "Iota",
         "year": "2021",
         "genres": [
-          "Atmospheric Black Metal"
+          "Atmospheric Black Metal",
+          "Black Metal"
         ]
       },
       {
         "name": "Death Poems",
         "year": "2023",
         "genres": [
-          "Atmospheric Black Metal"
+          "Atmospheric Black Metal",
+          "Black Metal"
         ]
       },
       {
         "name": "Shouts From The Cliffs Of Heterodoxy",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Atmospheric Black Metal"
-    ]
+      "Atmospheric Black Metal",
+      "Black Metal"
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "metaprism",

@@ -182,6 +182,11 @@
           "Reggae",
           "Pop"
         ]
+      },
+      {
+        "name": "Amy",
+        "year": "2015",
+        "genres": []
       }
     ],
     "tags": [
@@ -2822,7 +2827,8 @@
         "name": "Neverending",
         "year": "2026",
         "genres": [
-          "Doom Metal"
+          "Doom Metal",
+          "Stoner Doom Metal"
         ]
       }
     ],
@@ -2830,7 +2836,8 @@
       "Stoner Metal",
       "Doom Metal",
       "Sludge Metal",
-      "Psychedelic Rock"
+      "Psychedelic Rock",
+      "Stoner Doom Metal"
     ]
   },
   {
@@ -6851,6 +6858,34 @@
     "tags": [
       "Atmospheric Black Metal"
     ]
+  },
+  {
+    "normalizedName": "twisted",
+    "displayName": "Twisted",
+    "albums": [
+      {
+        "name": "Minds",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Svalbard",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Trilogía De La Muerte Verde",
+        "year": "2024",
+        "genres": []
+      },
+      {
+        "name": "Womanizer",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": [],
+    "origin": "US"
   },
   {
     "normalizedName": "underdark",

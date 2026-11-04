@@ -3520,6 +3520,13 @@
         "genres": [
           "Melodic Hardcore"
         ]
+      },
+      {
+        "name": "Lappel Du Vide",
+        "year": "2026",
+        "genres": [
+          "Melodic Hardcore"
+        ]
       }
     ],
     "tags": [
@@ -4565,7 +4572,9 @@
       {
         "name": "Graceless",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Deathcore"
+        ]
       }
     ],
     "tags": [

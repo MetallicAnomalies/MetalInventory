@@ -2895,9 +2895,18 @@
         "name": "The Hanging Tree",
         "year": "2022",
         "genres": []
+      },
+      {
+        "name": "One Summer Day",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Symphonic Metal"
+    ]
   },
   {
     "normalizedName": "menace",

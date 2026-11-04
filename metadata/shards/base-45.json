@@ -1413,11 +1413,20 @@
           "Metalcore",
           "Hardcore"
         ]
+      },
+      {
+        "name": "Opportunist",
+        "year": "2023",
+        "genres": [
+          "Deathcore",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
       "Metalcore",
-      "Hardcore"
+      "Hardcore",
+      "Deathcore"
     ],
     "origin": "DE"
   },
@@ -1440,6 +1449,23 @@
       "Alternative Rock",
       "Progressive Rock",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "elfika",
+    "displayName": "elFika",
+    "origin": "FR",
+    "albums": [
+      {
+        "name": "Secretum Secretorum",
+        "year": "2020",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Metal"
     ]
   },
   {
@@ -1681,6 +1707,13 @@
         "name": "Helios",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Kalikas Tongue",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2077,7 +2110,16 @@
       {
         "name": "Axis Mundi",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Heaven Shall Burn",
+        "year": "2023",
+        "genres": [
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
@@ -2660,6 +2702,25 @@
       "Grindcore",
       "Goregrind",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "nemra",
+    "displayName": "Nemra",
+    "origin": "AM",
+    "albums": [
+      {
+        "name": "Hmm",
+        "year": "2019",
+        "genres": [
+          "Alternative Rock",
+          "Indie Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Alternative Rock",
+      "Indie Rock"
     ]
   },
   {

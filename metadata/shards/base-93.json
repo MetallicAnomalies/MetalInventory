@@ -1762,13 +1762,25 @@
         "genres": [
           "Djent"
         ]
+      },
+      {
+        "name": "The Most Negative Day Of The Year",
+        "year": "2026",
+        "genres": [
+          "Djent",
+          "Progressive Metal",
+          "Post-Hardcore",
+          "Math Rock"
+        ]
       }
     ],
     "tags": [
       "Djent",
       "Alternative Rock",
       "Progressive Metal",
-      "Rock"
+      "Rock",
+      "Post-Hardcore",
+      "Math Rock"
     ]
   },
   {

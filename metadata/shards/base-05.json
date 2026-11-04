@@ -1215,12 +1215,62 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "All Light Swallowed",
+        "year": "2018",
+        "genres": [
+          "Melodic Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Dawnbringer",
+        "year": "2025",
+        "genres": [
+          "Melodic Death Metal",
+          "Death Metal",
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Dismal",
+        "year": "2018",
+        "genres": [
+          "Melodic Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "In Times Of Doom",
+        "year": "2025",
+        "genres": [
+          "Melodic Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "The Everhaunting Past",
+        "year": "2009",
+        "genres": [
+          "Melodic Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "To Everyone & None",
+        "year": "2025",
+        "genres": [
+          "Melodic Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
       "Death Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Black Metal"
     ]
   },
   {
@@ -1540,6 +1590,15 @@
         "genres": [
           "Extreme Gothic Metal"
         ]
+      },
+      {
+        "name": "Melkins Tale",
+        "year": "2025",
+        "genres": [
+          "Melodic Death Metal",
+          "Symphonic Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -1547,7 +1606,8 @@
       "Black Metal",
       "Symphonic Metal",
       "Groove Metal",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Power Metal"
     ]
   },
   {
@@ -2517,12 +2577,22 @@
         "name": "Nothing Left to Kill",
         "year": "2026",
         "genres": [
-          "Groove Metal"
+          "Groove Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "The Sinking",
+        "year": "2022",
+        "genres": [
+          "Groove Metal",
+          "Thrash Metal"
         ]
       }
     ],
     "tags": [
-      "Groove Metal"
+      "Groove Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -4508,13 +4578,35 @@
           "Indie Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Lost In The Dream",
+        "year": "2014",
+        "genres": [
+          "Best Of 2014",
+          "Indie Rock",
+          "Rock",
+          "Vinyl",
+          "2010s",
+          "Indie",
+          "Folk Rock",
+          "Heartland Rock",
+          "Secretly Canadian"
+        ]
       }
     ],
     "tags": [
       "Pop",
       "Electronic",
       "Indie Rock",
-      "Rock"
+      "Rock",
+      "Best Of 2014",
+      "Vinyl",
+      "2010s",
+      "Indie",
+      "Folk Rock",
+      "Heartland Rock",
+      "Secretly Canadian"
     ]
   },
   {

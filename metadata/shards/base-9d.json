@@ -1218,7 +1218,8 @@
         "name": "23",
         "year": "2001",
         "genres": [
-          "Melodic Death Metal"
+          "Melodic Death Metal",
+          "Metalcore"
         ]
       },
       {
@@ -1253,12 +1254,15 @@
         "name": "Isolation",
         "year": "2008",
         "genres": [
-          "Melodic Death Metal"
+          "Melodic Death Metal",
+          "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Metalcore",
+      "Progressive Metal"
     ]
   },
   {

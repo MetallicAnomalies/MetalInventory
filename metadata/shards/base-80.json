@@ -2153,11 +2153,15 @@
       {
         "name": "Godslave",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Thrash Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Speed Metal"
     ]
   },
   {
@@ -2578,10 +2582,19 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Pizza Antichrist",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Speed Metal"
     ],
     "origin": "HU"
   },

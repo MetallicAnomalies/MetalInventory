@@ -121,6 +121,13 @@
           "Electronic",
           "Post-Hardcore"
         ]
+      },
+      {
+        "name": "The Host",
+        "year": "2025",
+        "genres": [
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
@@ -560,7 +567,10 @@
       {
         "name": "מעט פשטות",
         "year": "2014",
-        "genres": []
+        "genres": [
+          "Folk",
+          "World"
+        ]
       },
       {
         "name": "אביב בכר",
@@ -571,9 +581,17 @@
         "name": "תסלחי לי (אקוסטי)",
         "year": "2022",
         "genres": []
+      },
+      {
+        "name": "אמן",
+        "year": "2026",
+        "genres": []
       }
     ],
-    "tags": []
+    "tags": [
+      "Folk",
+      "World"
+    ]
   },
   {
     "normalizedName": "badfeeling",
@@ -2083,48 +2101,109 @@
         "name": "The Carrion Fields",
         "year": "2014",
         "genres": [
-          "Atmospheric Black Metal"
+          "Atmospheric Black Metal",
+          "Best Of 2014"
         ]
       },
       {
         "name": "Waves Of Degradation",
         "year": "2016",
         "genres": [
-          "Atmospheric Black Metal"
+          "Atmospheric Black Metal",
+          "Black Metal"
         ]
       },
       {
         "name": "Leave No Path To Follow",
         "year": "2018",
         "genres": [
-          "Atmospheric Black Metal"
+          "Atmospheric Black Metal",
+          "Black Metal"
         ]
       },
       {
         "name": "The Sundering",
         "year": "2021",
         "genres": [
-          "Atmospheric Black Metal"
+          "Atmospheric Black Metal",
+          "Black Metal"
         ]
       },
       {
         "name": "Fires In The Fall",
         "year": "2023",
         "genres": [
-          "Atmospheric Black Metal"
+          "Atmospheric Black Metal",
+          "Black Metal"
         ]
       },
       {
         "name": "Stormcaller",
         "year": "2025",
         "genres": [
-          "Atmospheric Black Metal"
+          "Atmospheric Black Metal",
+          "Metal Show",
+          "Rowing"
+        ]
+      },
+      {
+        "name": "An Everflowing Vessel",
+        "year": "2023",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Ghosts",
+        "year": "2025",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Huntress Of The Fire Moon",
+        "year": "2025",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "In Seas Of Perdition",
+        "year": "2023",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Queen Of The Waves",
+        "year": "2022",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "The Black Oak",
+        "year": "2023",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "The Sun No Longer Reaches Here",
+        "year": "2021",
+        "genres": [
+          "Black Metal"
         ]
       }
     ],
     "tags": [
-      "Atmospheric Black Metal"
-    ]
+      "Atmospheric Black Metal",
+      "Black Metal",
+      "Best Of 2014",
+      "Metal Show",
+      "Rowing"
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "kvele",

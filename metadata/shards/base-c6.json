@@ -404,20 +404,30 @@
         "name": "Greenferno",
         "year": "2015",
         "genres": [
-          "Stoner Metal"
+          "Stoner Metal",
+          "Stoner Rock",
+          "Instrumental",
+          "Doom Metal",
+          "Stoner Doom Metal"
         ]
       },
       {
         "name": "Light The Dankness",
         "year": "2018",
         "genres": [
-          "Stoner Metal"
+          "Stoner Metal",
+          "Stoner Doom Metal"
         ]
       }
     ],
     "tags": [
-      "Stoner Metal"
-    ]
+      "Stoner Metal",
+      "Stoner Rock",
+      "Instrumental",
+      "Doom Metal",
+      "Stoner Doom Metal"
+    ],
+    "origin": "PL"
   },
   {
     "normalizedName": "bestialsummoning",
@@ -3736,6 +3746,16 @@
           "Metalcore",
           "Deathcore"
         ]
+      },
+      {
+        "name": "Duat (Instrumental)",
+        "year": "2025",
+        "genres": [
+          "Djent",
+          "Progressive Metal",
+          "Deathcore",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
@@ -4474,6 +4494,13 @@
     ]
   },
   {
+    "normalizedName": "theklf",
+    "displayName": "The KLF",
+    "albums": [],
+    "tags": [],
+    "origin": "GB"
+  },
+  {
     "normalizedName": "theprodigy",
     "displayName": "The Prodigy",
     "origin": "GB",
@@ -4988,7 +5015,8 @@
         "year": "2024",
         "genres": [
           "Black Metal",
-          "Death Metal"
+          "Death Metal",
+          "Death Black Metal"
         ]
       },
       {
@@ -5006,12 +5034,20 @@
           "Technical Black Death Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Youre Weak & You Know Youre Weak",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
       "Death Metal",
-      "Technical Black Death Metal"
+      "Technical Black Death Metal",
+      "Death Black Metal"
     ]
   },
   {

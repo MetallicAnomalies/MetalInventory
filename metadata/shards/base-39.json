@@ -539,6 +539,23 @@
     ]
   },
   {
+    "normalizedName": "bloodvulture",
+    "displayName": "Blood Vulture",
+    "origin": "US",
+    "albums": [
+      {
+        "name": "Die Close",
+        "year": "2025",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "brainchoke",
     "displayName": "Brainchoke",
     "albums": [
@@ -1163,11 +1180,17 @@
       {
         "name": "Feed My Absurdity",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Grindcore",
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Grindcore",
+      "Deathcore"
     ]
   },
   {

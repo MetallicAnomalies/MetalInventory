@@ -211,6 +211,14 @@
         "genres": [
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Zona De Silencio Xx",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Mexican Rock"
+        ]
       }
     ],
     "tags": [
@@ -218,7 +226,8 @@
       "Heavy Metal",
       "Latin",
       "Progressive Rock",
-      "Hard Rock"
+      "Hard Rock",
+      "Mexican Rock"
     ]
   },
   {
@@ -2639,6 +2648,27 @@
       "Heavy Thrash Metal",
       "Thrash Metal"
     ]
+  },
+  {
+    "normalizedName": "ironjinn",
+    "displayName": "Iron Jinn",
+    "albums": [
+      {
+        "name": "Zeitgeist On The Run",
+        "year": "2026",
+        "genres": [
+          "Space Rock",
+          "Stoner Metal",
+          "Stoner Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Space Rock",
+      "Stoner Metal",
+      "Stoner Rock"
+    ],
+    "origin": "NL"
   },
   {
     "normalizedName": "ironwings",
@@ -6165,12 +6195,19 @@
       {
         "name": "Oceans Above, Stars Below",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Metal",
+          "Power Metal",
+          "Symphonic Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Power Metal"
+      "Power Metal",
+      "Symphonic Metal",
+      "Speed Metal"
     ]
   },
   {

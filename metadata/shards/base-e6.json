@@ -959,11 +959,20 @@
           "Melodic Death Metal",
           "Metalcore"
         ]
+      },
+      {
+        "name": "Endveiler",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Metalcore"
+      "Metalcore",
+      "Death Metal"
     ]
   },
   {
@@ -2420,7 +2429,16 @@
       {
         "name": "Nidus",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "The Horrors Unleashed",
+        "year": "2023",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [

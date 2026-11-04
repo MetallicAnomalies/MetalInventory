@@ -523,10 +523,24 @@
         "name": "The Aura Re-Release",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Reverence",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Progressive Metal",
+          "Melodic Death Metal",
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
-      "Progressive Death Metal"
+      "Progressive Death Metal",
+      "Death Metal",
+      "Progressive Metal",
+      "Melodic Death Metal",
+      "Deathcore"
     ]
   },
   {

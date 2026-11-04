@@ -1295,11 +1295,20 @@
           "Progressive Metal",
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Divergent Paradox",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Djent"
+        ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Djent"
     ]
   },
   {
@@ -3043,7 +3052,16 @@
         "year": "2003",
         "genres": [
           "Groove Thrash Metal",
-          "Comedy"
+          "Comedy",
+          "Hardcore",
+          "Heavy Metal",
+          "Metalcore",
+          "Alternative Metal",
+          "Nu Metal",
+          "Groove Metal",
+          "Parody",
+          "Comedy Metal",
+          "Funk Metal"
         ]
       },
       {
@@ -3101,7 +3119,14 @@
       "Groove Thrash Metal",
       "Comedy",
       "Heavy Metal",
-      "Parody"
+      "Parody",
+      "Hardcore",
+      "Metalcore",
+      "Alternative Metal",
+      "Nu Metal",
+      "Groove Metal",
+      "Comedy Metal",
+      "Funk Metal"
     ]
   },
   {

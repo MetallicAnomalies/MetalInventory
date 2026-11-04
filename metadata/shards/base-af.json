@@ -172,6 +172,32 @@
     ]
   },
   {
+    "normalizedName": "ashedwinter",
+    "displayName": "Ashed Winter",
+    "albums": [
+      {
+        "name": "Papa Legba",
+        "year": "2024",
+        "genres": [
+          "Thrash Metal",
+          "Death Metal",
+          "Groove Metal"
+        ]
+      },
+      {
+        "name": "The Prophecy",
+        "year": "2020",
+        "genres": []
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Death Metal",
+      "Groove Metal"
+    ],
+    "origin": "FR"
+  },
+  {
     "normalizedName": "ayakorem",
     "displayName": "Aya Korem",
     "origin": "FR",
@@ -199,11 +225,19 @@
           "Pop",
           "Rock"
         ]
+      },
+      {
+        "name": "Aya Korem",
+        "year": "2006",
+        "genres": [
+          "Mizrahi"
+        ]
       }
     ],
     "tags": [
       "Pop",
-      "Rock"
+      "Rock",
+      "Mizrahi"
     ]
   },
   {

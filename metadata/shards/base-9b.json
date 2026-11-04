@@ -608,6 +608,20 @@
           "Synth-pop",
           "Pop"
         ]
+      },
+      {
+        "name": "All My Demons Greeting Me As A Friend",
+        "year": "2016",
+        "genres": [
+          "Synth-pop",
+          "Alternative",
+          "Art Pop",
+          "Pop",
+          "Folk Metal",
+          "Chamber Pop",
+          "Ambient Pop",
+          "Indie Pop"
+        ]
       }
     ],
     "tags": [
@@ -618,7 +632,12 @@
       "Downtempo",
       "Electronic",
       "Ballad",
-      "Synth-pop"
+      "Synth-pop",
+      "Alternative",
+      "Art Pop",
+      "Folk Metal",
+      "Chamber Pop",
+      "Ambient Pop"
     ]
   },
   {
@@ -1890,6 +1909,16 @@
         "name": "Mið",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Tales Of Trees",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Progressive Metal",
+          "Folk Metal",
+          "Norsk Rock"
+        ]
       }
     ],
     "tags": [
@@ -1901,7 +1930,9 @@
       "Concert Film",
       "Stage & Screen",
       "Progressive Rock",
-      "Psychedelic Rock"
+      "Psychedelic Rock",
+      "Folk Metal",
+      "Norsk Rock"
     ]
   },
   {
@@ -3877,11 +3908,22 @@
         "genres": [
           "Blackened Death Metal"
         ]
+      },
+      {
+        "name": "Chthonic Malevolence",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Blackened Death Metal"
-    ]
+      "Blackened Death Metal",
+      "Death Metal",
+      "Black Metal"
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "stellartomb",
@@ -4548,9 +4590,40 @@
   {
     "normalizedName": "unfinished",
     "displayName": "Unfinished",
-    "albums": [],
+    "albums": [
+      {
+        "name": "Crow Bird",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "Daylight",
+        "year": "2025",
+        "genres": [
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "Lake Killer",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "Take My Leave",
+        "year": "2024",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
     "origin": "BE",
-    "tags": []
+    "tags": [
+      "Progressive Metal"
+    ]
   },
   {
     "normalizedName": "vyrmuk",

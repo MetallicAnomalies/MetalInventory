@@ -19,6 +19,18 @@
     ]
   },
   {
+    "normalizedName": "1f969798614bae7e",
+    "displayName": "･ ･－･ ･－ ･･･ ･ －･･",
+    "albums": [
+      {
+        "name": "･－･･ ･ － ･･ － －－･ －－－",
+        "year": "2020",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "agamendon",
     "displayName": "Agamendon",
     "origin": "DE",
@@ -1124,6 +1136,29 @@
     ]
   },
   {
+    "normalizedName": "deathmoth",
+    "displayName": "Death Möth",
+    "albums": [
+      {
+        "name": "Amongst The Rotten",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
+      },
+      {
+        "name": "Written In Blood",
+        "year": "2023",
+        "genres": [
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "deathseminence",
     "displayName": "Death's Eminence",
     "albums": [
@@ -2105,7 +2140,8 @@
     ],
     "tags": [
       "Thrash Metal"
-    ]
+    ],
+    "origin": "CA"
   },
   {
     "normalizedName": "lathe",

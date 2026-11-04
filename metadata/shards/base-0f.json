@@ -893,7 +893,10 @@
       {
         "name": "I, Scvlptor",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -985,12 +988,45 @@
           "Deathcore",
           "Metalcore"
         ]
+      },
+      {
+        "name": "Coming Home",
+        "year": "2021",
+        "genres": [
+          "Deathcore",
+          "Gothic Metal"
+        ]
+      },
+      {
+        "name": "Stillborn Hope",
+        "year": "2021",
+        "genres": [
+          "Deathcore",
+          "Gothic Metal"
+        ]
+      },
+      {
+        "name": "The Judgment Day",
+        "year": "2024",
+        "genres": [
+          "Deathcore",
+          "Gothic Metal"
+        ]
+      },
+      {
+        "name": "The Last Prayer",
+        "year": "2020",
+        "genres": [
+          "Deathcore",
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
       "Deathcore",
-      "Metalcore"
+      "Metalcore",
+      "Gothic Metal"
     ]
   },
   {

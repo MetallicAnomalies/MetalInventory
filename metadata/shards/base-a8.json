@@ -875,25 +875,109 @@
         "name": "Everything Bleeds",
         "year": "2023",
         "genres": [
-          "Technical Deathcore"
+          "Technical Deathcore",
+          "Deathcore"
         ]
       },
       {
         "name": "Punishment",
         "year": "2025",
         "genres": [
-          "Technical Deathcore"
+          "Technical Deathcore",
+          "Deathcore"
         ]
       },
       {
         "name": "The Hollowing Of Godlesh",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Barbed Wire Noose",
+        "year": "2025",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Bringer Of Dead Light",
+        "year": "2025",
+        "genres": [
+          "Boobs On Cover"
+        ]
+      },
+      {
+        "name": "Dead Crown",
+        "year": "2026",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Decapitation Ritual",
+        "year": "2024",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Desecrate Infinite",
+        "year": "2025",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Godkiller",
+        "year": "2026",
+        "genres": [
+          "Deathcore"
+        ]
+      },
+      {
+        "name": "Impaled Genesis",
+        "year": "2026",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Shut Up & Bleed",
+        "year": "2026",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "The Hollowing Of Godflesh",
+        "year": "2026",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "The Prophet Of Disgust (Redux)",
+        "year": "2024",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Technical Deathcore"
-    ]
+      "Technical Deathcore",
+      "Deathcore",
+      "Death Metal",
+      "Boobs On Cover"
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "crusade",
@@ -2879,10 +2963,19 @@
         "name": "Bitter Harvest",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Iron Maiden",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Death Metal"
     ]
   },
   {

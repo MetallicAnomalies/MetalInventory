@@ -2412,7 +2412,8 @@
     ],
     "tags": [
       "Atmospheric Black Metal"
-    ]
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "habanotnechama",
@@ -2655,12 +2656,24 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "Broken Again",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Post-Hardcore",
+          "Djent",
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
       "Electronic",
       "Metalcore",
-      "Post-Hardcore"
+      "Post-Hardcore",
+      "Djent",
+      "Deathcore"
     ]
   },
   {

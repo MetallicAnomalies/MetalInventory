@@ -1437,6 +1437,27 @@
     ]
   },
   {
+    "normalizedName": "era",
+    "displayName": "Era",
+    "albums": [
+      {
+        "name": "Era Viii",
+        "year": "2026",
+        "genres": [
+          "New Age",
+          "Gregorian Chant",
+          "Celtic"
+        ]
+      }
+    ],
+    "tags": [
+      "New Age",
+      "Gregorian Chant",
+      "Celtic"
+    ],
+    "origin": "FR"
+  },
+  {
     "normalizedName": "exa",
     "displayName": "Exa",
     "albums": [
@@ -1650,6 +1671,19 @@
         "genres": [
           "Bay Area Thrash Metal"
         ]
+      },
+      {
+        "name": "Goliath",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Groove Metal",
+          "Heavy Metal",
+          "American",
+          "New Release",
+          "Male Vocalists",
+          "Exodus"
+        ]
       }
     ],
     "tags": [
@@ -1658,7 +1692,12 @@
       "Electronic",
       "Thrash Metal",
       "Heavy Metal",
-      "Speed Metal"
+      "Speed Metal",
+      "Groove Metal",
+      "American",
+      "New Release",
+      "Male Vocalists",
+      "Exodus"
     ]
   },
   {

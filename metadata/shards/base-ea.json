@@ -277,6 +277,31 @@
     ]
   },
   {
+    "normalizedName": "alanlomax",
+    "displayName": "Alan Lomax",
+    "albums": [
+      {
+        "name": "Negro Prison Blues & Songs",
+        "year": "1990",
+        "genres": [
+          "Folk",
+          "Folk Usa",
+          "Like Lots",
+          "A Lomax",
+          "Lomax"
+        ]
+      }
+    ],
+    "tags": [
+      "Folk",
+      "Folk Usa",
+      "Like Lots",
+      "A Lomax",
+      "Lomax"
+    ],
+    "origin": "US"
+  },
+  {
     "normalizedName": "allagainst",
     "displayName": "All Against",
     "origin": "US",
@@ -1172,6 +1197,19 @@
           "Synth-pop",
           "Pop"
         ]
+      },
+      {
+        "name": "Rio",
+        "year": "1982",
+        "genres": [
+          "80s",
+          "New Wave",
+          "Synth-pop",
+          "1001 Albums You Must Hear Before You Die",
+          "Pop",
+          "1982 Albums",
+          "Duran"
+        ]
       }
     ],
     "tags": [
@@ -1179,7 +1217,11 @@
       "Synth-pop",
       "Pop",
       "Rock",
-      "Electronic"
+      "Electronic",
+      "80s",
+      "1001 Albums You Must Hear Before You Die",
+      "1982 Albums",
+      "Duran"
     ]
   },
   {
@@ -4159,10 +4201,30 @@
         "genres": [
           "Rock"
         ]
+      },
+      {
+        "name": "Ignoranz",
+        "year": "2024",
+        "genres": [
+          "Metalcore",
+          "Djent",
+          "Deathcore"
+        ]
+      },
+      {
+        "name": "Overpowered",
+        "year": "2024",
+        "genres": [
+          "Metalcore",
+          "Djent"
+        ]
       }
     ],
     "tags": [
-      "Rock"
+      "Rock",
+      "Metalcore",
+      "Djent",
+      "Deathcore"
     ]
   },
   {

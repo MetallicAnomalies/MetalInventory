@@ -3427,11 +3427,22 @@
           "Progressive Metal",
           "Rock"
         ]
+      },
+      {
+        "name": "Open",
+        "year": "2021",
+        "genres": [
+          "Djent",
+          "Progressive Metal",
+          "Math Rock"
+        ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Rock"
+      "Rock",
+      "Djent",
+      "Math Rock"
     ],
     "origin": "GB"
   },

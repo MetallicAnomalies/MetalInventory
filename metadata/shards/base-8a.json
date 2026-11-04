@@ -1,5 +1,18 @@
 [
   {
+    "normalizedName": "3pillmorning",
+    "displayName": "3 Pill Morning",
+    "albums": [
+      {
+        "name": "The Side Effects Of Chronic Ambition",
+        "year": "2007",
+        "genres": []
+      }
+    ],
+    "tags": [],
+    "origin": "US"
+  },
+  {
     "normalizedName": "abstractvoid",
     "displayName": "Abstract Void",
     "albums": [
@@ -145,6 +158,23 @@
       "Psychedelic Rock",
       "Sludge Metal",
       "Stoner Rock"
+    ]
+  },
+  {
+    "normalizedName": "aethyriem",
+    "displayName": "Aethyriem",
+    "origin": "US",
+    "albums": [
+      {
+        "name": "Ritual Solace",
+        "year": "2025",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
     ]
   },
   {
@@ -771,12 +801,21 @@
         "genres": [
           "Symphonic Death Metal"
         ]
+      },
+      {
+        "name": "One With The Machine",
+        "year": "2025",
+        "genres": [
+          "Melodic Death Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Symphonic Death Metal",
       "Melodic Death Metal",
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Doom Metal"
     ]
   },
   {

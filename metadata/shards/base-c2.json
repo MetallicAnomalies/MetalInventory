@@ -1883,6 +1883,17 @@
           "Folk, World, & Country",
           "Folk"
         ]
+      },
+      {
+        "name": "Appaloosa Bones",
+        "year": "2023",
+        "genres": [
+          "Folk",
+          "Country",
+          "Americana",
+          "Singer-songwriter",
+          "Vinyl"
+        ]
       }
     ],
     "tags": [
@@ -1890,7 +1901,11 @@
       "Folk, World, & Country",
       "Folk",
       "Folk Rock",
-      "Rock"
+      "Rock",
+      "Country",
+      "Americana",
+      "Singer-songwriter",
+      "Vinyl"
     ]
   },
   {
@@ -3241,14 +3256,38 @@
       {
         "name": "Decades",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Another Life / Eternally Yours: Motion Picture Collection",
+        "year": "2020",
+        "genres": [
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Slaughterhouse (Feat. Bryan Garris Of Knocked Loose)",
+        "year": "2022",
+        "genres": [
+          "Metalcore",
+          "Hardcore",
+          "Deathcore",
+          "Hardcore Punk",
+          "Mathcore"
+        ]
       }
     ],
     "tags": [
       "Melodic Metalcore",
       "Metalcore",
       "Industrial Metal",
-      "Gothic Rock"
+      "Gothic Rock",
+      "Hardcore",
+      "Deathcore",
+      "Hardcore Punk",
+      "Mathcore"
     ]
   },
   {

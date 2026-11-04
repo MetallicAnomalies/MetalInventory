@@ -164,7 +164,11 @@
       {
         "name": "When The Lions Leave Their Den",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Metal",
+          "Folk Metal",
+          "Symphonic Metal"
+        ]
       },
       {
         "name": "When the Lions Leave Their Den (Exodus Part II)",
@@ -181,7 +185,8 @@
       "Heavy Metal",
       "Progressive Rock",
       "Progressive Folk Metal",
-      "Folk Metal"
+      "Folk Metal",
+      "Symphonic Metal"
     ]
   },
   {
@@ -3305,12 +3310,18 @@
       {
         "name": "Just Live Loud!",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Arena Rock",
+          "Hard Rock",
+          "AOR"
+        ]
       }
     ],
     "tags": [
       "Hard Rock",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Arena Rock",
+      "AOR"
     ]
   },
   {

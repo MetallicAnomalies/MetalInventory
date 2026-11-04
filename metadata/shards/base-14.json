@@ -2822,6 +2822,25 @@
     ]
   },
   {
+    "normalizedName": "iridium",
+    "displayName": "Iridium",
+    "albums": [
+      {
+        "name": "Hell Is Just A Halfway House",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Djent"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Djent"
+    ],
+    "origin": "FR"
+  },
+  {
     "normalizedName": "ixion",
     "displayName": "Ixion",
     "origin": "FR",

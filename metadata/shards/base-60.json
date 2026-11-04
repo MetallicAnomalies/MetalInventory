@@ -6497,7 +6497,8 @@
     "tags": [
       "Heavy Metal",
       "Hard Rock"
-    ]
+    ],
+    "origin": "DE"
   },
   {
     "normalizedName": "titiniti",
@@ -6836,13 +6837,19 @@
         "year": "2025",
         "genres": [
           "Blackened Heavy Metal",
-          "Black Metal"
+          "Black Metal",
+          "Melodic Black Metal",
+          "Hellenic Black Metal",
+          "2020s"
         ]
       }
     ],
     "tags": [
       "Blackened Heavy Metal",
-      "Black Metal"
+      "Black Metal",
+      "Melodic Black Metal",
+      "Hellenic Black Metal",
+      "2020s"
     ]
   }
 ]

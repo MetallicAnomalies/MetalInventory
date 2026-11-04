@@ -308,6 +308,23 @@
     "tags": []
   },
   {
+    "normalizedName": "avikaplan",
+    "displayName": "Avi Kaplan",
+    "albums": [
+      {
+        "name": "Peace Somehow",
+        "year": "2025",
+        "genres": [
+          "Southern Gothic"
+        ]
+      }
+    ],
+    "tags": [
+      "Southern Gothic"
+    ],
+    "origin": "US"
+  },
+  {
     "normalizedName": "axegrinder",
     "displayName": "Axegrinder",
     "albums": [
@@ -578,6 +595,13 @@
           "Post-Hardcore",
           "Metalcore",
           "Emo"
+        ]
+      },
+      {
+        "name": "Count Your Blessings | Repented",
+        "year": "2026",
+        "genres": [
+          "Deathcore"
         ]
       }
     ],
@@ -2134,6 +2158,33 @@
     ],
     "tags": [
       "Death Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "guzarat",
+    "displayName": "GUZARAT",
+    "origin": "ID",
+    "albums": [
+      {
+        "name": "Algoritma",
+        "year": "2021",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      },
+      {
+        "name": "Antagonis",
+        "year": "2020",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {

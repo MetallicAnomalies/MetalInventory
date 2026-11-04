@@ -2255,6 +2255,20 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "01.09.2015",
+        "year": "2022",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Sisyphus",
+        "year": "2021",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -3697,6 +3711,44 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "sexmag",
+    "displayName": "SexMag",
+    "albums": [
+      {
+        "name": "Sex Metal",
+        "year": "2021",
+        "genres": [
+          "Poland",
+          "Polish Thrash Metal"
+        ]
+      },
+      {
+        "name": "Sexorcyzm",
+        "year": "2025",
+        "genres": [
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "żElazna Dziewica",
+        "year": "2022",
+        "genres": [
+          "Speed Metal",
+          "Thrash Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Poland",
+      "Polish Thrash Metal",
+      "Thrash Metal",
+      "Speed Metal",
+      "Black Metal"
+    ],
+    "origin": "PL"
   },
   {
     "normalizedName": "shadowofintent",

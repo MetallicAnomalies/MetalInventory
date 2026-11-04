@@ -1902,7 +1902,9 @@
         "name": "Fossegrimens Pant",
         "year": "2018",
         "genres": [
-          "Black Metal"
+          "Black Metal",
+          "Melodic Black Metal",
+          "Norwegian Black Metal"
         ]
       },
       {
@@ -1921,8 +1923,11 @@
       }
     ],
     "tags": [
-      "Black Metal"
-    ]
+      "Black Metal",
+      "Melodic Black Metal",
+      "Norwegian Black Metal"
+    ],
+    "origin": "NO"
   },
   {
     "normalizedName": "kaos",
@@ -3443,6 +3448,11 @@
         "genres": [
           "Post-Hardcore"
         ]
+      },
+      {
+        "name": "Shine & Fade",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [

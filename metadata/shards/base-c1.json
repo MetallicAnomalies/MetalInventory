@@ -189,11 +189,25 @@
         "name": "Teutonic Titans 1976-2026",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Balls To The Wall (Feat. Rob Halford, Matthias Jabs, Rex Brown, Jason Bowld)",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Speed Metal",
+          "Thrash Metal",
+          "Hard Rock",
+          "Glam Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Hard Rock"
+      "Hard Rock",
+      "Speed Metal",
+      "Thrash Metal",
+      "Glam Metal"
     ]
   },
   {

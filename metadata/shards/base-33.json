@@ -287,6 +287,11 @@
           "Progressive Rock",
           "Acoustic"
         ]
+      },
+      {
+        "name": "A Martian Winter",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -4371,9 +4376,17 @@
         "name": "Hush",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Recognize You",
+        "year": "2025",
+        "genres": []
       }
     ],
-    "tags": []
+    "tags": [
+      "Indie Rock"
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "psionicmadness",

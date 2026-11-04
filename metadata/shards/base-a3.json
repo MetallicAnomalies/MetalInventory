@@ -1069,13 +1069,42 @@
           "Hard Rock",
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Everything Is Moving On",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Gothic Metal",
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "Paragon",
+        "year": "2023",
+        "genres": [
+          "3-5"
+        ]
+      },
+      {
+        "name": "Remagine: The Album",
+        "year": "2005",
+        "genres": [
+          "Symphonic Metal",
+          "Gothic Metal",
+          "Power Metal",
+          "Gothic Rock"
+        ]
       }
     ],
     "tags": [
       "Progressive Metal",
       "Hard Rock",
       "Symphonic Metal",
-      "Power Metal"
+      "Power Metal",
+      "Gothic Metal",
+      "3-5",
+      "Gothic Rock"
     ]
   },
   {

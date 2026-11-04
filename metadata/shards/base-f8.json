@@ -966,6 +966,13 @@
         "genres": [
           "Deathcore"
         ]
+      },
+      {
+        "name": "Between Soil & Sun",
+        "year": "2026",
+        "genres": [
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
@@ -3169,6 +3176,18 @@
         "genres": [
           "Alternative Rock"
         ]
+      },
+      {
+        "name": "Mnemosynean",
+        "year": "2021",
+        "genres": [
+          "Progressive Metal",
+          "Doom Metal",
+          "Progressive Rock",
+          "Gothic Metal",
+          "Depressive Rock",
+          "Compilation Album"
+        ]
       }
     ],
     "tags": [
@@ -3185,7 +3204,9 @@
       "Doom Metal",
       "Acoustic",
       "Gothic Rock",
-      "Rock"
+      "Rock",
+      "Depressive Rock",
+      "Compilation Album"
     ]
   },
   {
@@ -4093,6 +4114,42 @@
           "Deathcore",
           "Post-Hardcore"
         ]
+      },
+      {
+        "name": "Dante",
+        "year": "2023",
+        "genres": [
+          "Djent",
+          "Metalcore",
+          "Progressive Metal",
+          "Deathcore",
+          "Post-Hardcore"
+        ]
+      },
+      {
+        "name": "Deathwish",
+        "year": "2026",
+        "genres": [
+          "Djent",
+          "Metalcore",
+          "Progressive Metal",
+          "Deathcore",
+          "Post-Hardcore"
+        ]
+      },
+      {
+        "name": "Equinox",
+        "year": "2016",
+        "genres": [
+          "Djent",
+          "Metalcore",
+          "Progressive Metal",
+          "Alternative Metal",
+          "Post-Hardcore",
+          "Australian",
+          "Progressive Metalcore",
+          "Melodic Metalcore"
+        ]
       }
     ],
     "tags": [
@@ -4108,7 +4165,9 @@
       "Nu Metal",
       "Electro",
       "Industrial Metal",
-      "Alternative Metal"
+      "Alternative Metal",
+      "Australian",
+      "Melodic Metalcore"
     ]
   },
   {
@@ -4810,6 +4869,33 @@
       "Art Rock",
       "Post-Rock",
       "Folk, World, & Country"
+    ]
+  },
+  {
+    "normalizedName": "spellofniriti",
+    "displayName": "Spell Of Niriti",
+    "origin": "MX",
+    "albums": [
+      {
+        "name": "Hell Awaits",
+        "year": "2025",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Watch Under Your Bed",
+        "year": "2021",
+        "genres": [
+          "Deathcore",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Deathcore"
     ]
   },
   {

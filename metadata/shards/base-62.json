@@ -760,11 +760,35 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Dogmatic Beliefs",
+        "year": "2023",
+        "genres": [
+          "Melodic Death Metal",
+          "Visual Kei",
+          "Neoclassical",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Vaginal Fluid Harvester",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Visual Kei",
+          "Neoclassical",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Melodic Death Metal"
-    ]
+      "Melodic Death Metal",
+      "Visual Kei",
+      "Neoclassical",
+      "Death Metal"
+    ],
+    "origin": "JP"
   },
   {
     "normalizedName": "brightstorm",
@@ -5077,6 +5101,18 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "wailingbanshee",
+    "displayName": "Wailing Banshee",
+    "albums": [
+      {
+        "name": "Tempest",
+        "year": "2025",
+        "genres": []
+      }
+    ],
+    "tags": []
   },
   {
     "normalizedName": "warbreed",

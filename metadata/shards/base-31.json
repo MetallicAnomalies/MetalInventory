@@ -364,6 +364,19 @@
     ]
   },
   {
+    "normalizedName": "blacksteam",
+    "displayName": "Black Steam",
+    "albums": [
+      {
+        "name": "Higher",
+        "year": "2026",
+        "genres": []
+      }
+    ],
+    "tags": [],
+    "origin": "SE"
+  },
+  {
     "normalizedName": "boneym",
     "displayName": "Boney M.",
     "origin": "DE",
@@ -1684,12 +1697,27 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Hubris",
+        "year": "2026",
+        "genres": [
+          "Doom Metal",
+          "Gothic Metal",
+          "Melodic Death Metal",
+          "Sludge Metal",
+          "Stoner Metal"
+        ]
       }
     ],
     "tags": [
       "Death Doom Metal",
       "Death Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Gothic Metal",
+      "Melodic Death Metal",
+      "Sludge Metal",
+      "Stoner Metal"
     ]
   },
   {
@@ -4398,6 +4426,21 @@
           "Soft Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Falling In Between",
+        "year": "2006",
+        "genres": [
+          "AOR",
+          "Rock",
+          "Jazz Rock",
+          "Simon Phillips",
+          "Fusion",
+          "Jazz Fusion",
+          "Great Albums",
+          "2006 Albums",
+          "Album Rock"
+        ]
       }
     ],
     "tags": [
@@ -4407,7 +4450,14 @@
       "Rock",
       "Electronic",
       "Synth-pop",
-      "Pop"
+      "Pop",
+      "Jazz Rock",
+      "Simon Phillips",
+      "Fusion",
+      "Jazz Fusion",
+      "Great Albums",
+      "2006 Albums",
+      "Album Rock"
     ]
   },
   {

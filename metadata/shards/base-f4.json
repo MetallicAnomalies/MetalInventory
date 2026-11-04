@@ -3073,13 +3073,27 @@
         "genres": [
           "Nu Metal"
         ]
+      },
+      {
+        "name": "Hell Is A State Of Mind",
+        "year": "2026",
+        "genres": [
+          "Alternative Metal",
+          "Metalcore",
+          "Nu Metal",
+          "Symphonic Metal",
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
       "Thrash Metal",
       "Metalcore",
       "Groove Thrash Metal",
-      "Nu Metal"
+      "Nu Metal",
+      "Alternative Metal",
+      "Symphonic Metal",
+      "Groove Metal"
     ]
   },
   {

@@ -2528,11 +2528,23 @@
       {
         "name": "Becoming After",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Metal",
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "Convicted To Rise",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Progressive Metal"
     ]
   },
   {
@@ -3543,6 +3555,24 @@
       "Blackened Death Metal",
       "Folk, World, & Country",
       "Celtic Metal"
+    ]
+  },
+  {
+    "normalizedName": "sebastiside",
+    "displayName": "SebastiSide",
+    "albums": [
+      {
+        "name": "Negative Four",
+        "year": "2025",
+        "genres": [
+          "Djent",
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Djent",
+      "Progressive Metal"
     ]
   },
   {

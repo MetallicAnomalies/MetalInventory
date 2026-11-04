@@ -1185,6 +1185,13 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "In Shadows Lies Utopia",
+        "year": "2008",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2053,11 +2060,17 @@
       {
         "name": "A Mythmaker’s Demise",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Metal",
+          "Progressive Rock",
+          "Arena Rock"
+        ]
       }
     ],
     "tags": [
-      "Progressive Metal"
+      "Progressive Metal",
+      "Progressive Rock",
+      "Arena Rock"
     ]
   },
   {

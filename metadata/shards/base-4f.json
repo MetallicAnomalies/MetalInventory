@@ -2850,7 +2850,8 @@
     "tags": [
       "Alternative",
       "Melodic Metalcore"
-    ]
+    ],
+    "origin": "SE"
   },
   {
     "normalizedName": "mournfulgust",
@@ -2996,14 +2997,18 @@
         "year": "2026",
         "genres": [
           "Melodic Black Death Metal",
-          "Death Metal"
+          "Death Metal",
+          "Melodic Death Metal",
+          "Deathcore"
         ]
       }
     ],
     "tags": [
       "Blackened Death Metal",
       "Melodic Black Death Metal",
-      "Death Metal"
+      "Death Metal",
+      "Melodic Death Metal",
+      "Deathcore"
     ]
   },
   {

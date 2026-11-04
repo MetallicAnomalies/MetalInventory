@@ -3528,11 +3528,19 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Et Mortui Resurgent",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal"
-    ]
+    ],
+    "origin": "NL"
   },
   {
     "normalizedName": "negativeplane",
@@ -4089,6 +4097,21 @@
           "Pop Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "This Is Why",
+        "year": "2023",
+        "genres": [
+          "Post-Punk Revival",
+          "Dance-punk",
+          "New Wave",
+          "Indie Rock",
+          "Post-Punk",
+          "Rock",
+          "Pop",
+          "Dance Punk",
+          "2020s"
+        ]
       }
     ],
     "tags": [
@@ -4097,7 +4120,14 @@
       "Rock",
       "Alternative Rock",
       "Indie Rock",
-      "Emo"
+      "Emo",
+      "Post-Punk Revival",
+      "Dance-punk",
+      "New Wave",
+      "Post-Punk",
+      "Pop",
+      "Dance Punk",
+      "2020s"
     ]
   },
   {

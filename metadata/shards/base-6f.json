@@ -1256,11 +1256,20 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "D.n.r",
+        "year": "2025",
+        "genres": [
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
-    ]
+      "Death Metal",
+      "Deathcore"
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "deadlyheretic",
@@ -1698,11 +1707,22 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "In Dreams",
+        "year": "2020",
+        "genres": [
+          "Progressive Metal",
+          "Progressive Rock"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
-    ]
+      "Black Metal",
+      "Progressive Metal",
+      "Progressive Rock"
+    ],
+    "origin": "GB"
   },
   {
     "normalizedName": "eternalarmageddon",
@@ -3290,7 +3310,8 @@
         "year": "2025",
         "genres": [
           "Melodic Doom Metal",
-          "Melodic Death Metal"
+          "Melodic Death Metal",
+          "Funeral Doom Metal"
         ]
       }
     ],

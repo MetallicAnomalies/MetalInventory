@@ -1302,7 +1302,11 @@
       {
         "name": "Suffer Divine",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Metalcore",
+          "Melodic Death Metal",
+          "Deathcore"
+        ]
       },
       {
         "name": "Warrior",
@@ -1319,7 +1323,8 @@
       "Thrash Metal",
       "Heavy Metal",
       "Hardcore",
-      "Atmospheric Black Metal"
+      "Atmospheric Black Metal",
+      "Deathcore"
     ]
   },
   {
@@ -2867,7 +2872,9 @@
         "name": "Peace Was Never An Option",
         "year": "2013",
         "genres": [
-          "Technical Death Metal"
+          "Technical Death Metal",
+          "Death Metal",
+          "Best Albums 2013"
         ]
       },
       {
@@ -2881,12 +2888,18 @@
         "name": "The Pain Behind It All",
         "year": "2023",
         "genres": [
-          "Technical Death Metal"
+          "Technical Death Metal",
+          "Technical Melodic Death Metal",
+          "Best Albums 2023"
         ]
       }
     ],
     "tags": [
-      "Technical Death Metal"
+      "Technical Death Metal",
+      "Death Metal",
+      "Best Albums 2013",
+      "Technical Melodic Death Metal",
+      "Best Albums 2023"
     ]
   },
   {

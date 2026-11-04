@@ -382,12 +382,35 @@
           "Hard Rock",
           "Progressive Rock"
         ]
+      },
+      {
+        "name": "Asia",
+        "year": "1982",
+        "genres": [
+          "Progressive Rock",
+          "Classic Rock",
+          "80s",
+          "Asia",
+          "Hard Rock",
+          "Rock",
+          "AOR",
+          "Kingdom Of Desire",
+          "Arena Rock"
+        ]
       }
     ],
     "tags": [
       "Hard Rock",
-      "Progressive Rock"
-    ]
+      "Progressive Rock",
+      "Classic Rock",
+      "80s",
+      "Asia",
+      "Rock",
+      "AOR",
+      "Kingdom Of Desire",
+      "Arena Rock"
+    ],
+    "origin": "GB"
   },
   {
     "normalizedName": "assemblethechariots",
@@ -3042,6 +3065,13 @@
       },
       {
         "name": "Far Out And Beyond",
+        "year": "2025",
+        "genres": [
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Far Out & Beyond",
         "year": "2025",
         "genres": [
           "Metalcore"

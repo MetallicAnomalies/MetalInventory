@@ -201,7 +201,10 @@
         "name": "Dehumanization By Supremacy",
         "year": "2015",
         "genres": [
-          "Brutal Death Metal"
+          "Brutal Death Metal",
+          "Slamming Brutal Death Metal",
+          "Death Metal",
+          "Slam Death Metal"
         ]
       },
       {
@@ -215,7 +218,8 @@
         "name": "Quiescence",
         "year": "2022",
         "genres": [
-          "Brutal Death Metal"
+          "Brutal Death Metal",
+          "Slamming Brutal Death Metal"
         ]
       },
       {
@@ -223,13 +227,57 @@
         "year": "2026",
         "genres": [
           "Slam Brutal Death Metal",
-          "Brutal Death Metal"
+          "Brutal Death Metal",
+          "Death Metal",
+          "Deathcore",
+          "Grindcore"
+        ]
+      },
+      {
+        "name": "Cryogenic Rebirth",
+        "year": "2025",
+        "genres": [
+          "Death Metal",
+          "Deathcore",
+          "Grindcore"
+        ]
+      },
+      {
+        "name": "Doomsday Protocol",
+        "year": "2025",
+        "genres": [
+          "Death Metal",
+          "Deathcore",
+          "Grindcore"
+        ]
+      },
+      {
+        "name": "Genetic Mutations",
+        "year": "2014",
+        "genres": [
+          "Death Metal",
+          "Deathcore",
+          "Grindcore"
+        ]
+      },
+      {
+        "name": "Sentient Decay",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Deathcore",
+          "Grindcore"
         ]
       }
     ],
     "tags": [
       "Brutal Death Metal",
-      "Slam Brutal Death Metal"
+      "Slam Brutal Death Metal",
+      "Death Metal",
+      "Deathcore",
+      "Grindcore",
+      "Slamming Brutal Death Metal",
+      "Slam Death Metal"
     ]
   },
   {

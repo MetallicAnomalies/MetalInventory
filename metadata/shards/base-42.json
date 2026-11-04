@@ -1377,6 +1377,69 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "Artificial Light",
+        "year": "2014",
+        "genres": [
+          "Christian Rock",
+          "Metalcore",
+          "Christian Alternative Rock"
+        ]
+      },
+      {
+        "name": "Freedom Is Dead",
+        "year": "2022",
+        "genres": [
+          "Christian Rock",
+          "Metalcore",
+          "Christian Alternative Rock"
+        ]
+      },
+      {
+        "name": "Loneliness (Resurrected)",
+        "year": "2021",
+        "genres": [
+          "Christian Rock",
+          "Metalcore",
+          "Christian Alternative Rock"
+        ]
+      },
+      {
+        "name": "More Than Bones",
+        "year": "2019",
+        "genres": [
+          "Christian Rock",
+          "Metalcore",
+          "Christian Alternative Rock"
+        ]
+      },
+      {
+        "name": "Music From The Film \"45 Days\"",
+        "year": "2008",
+        "genres": [
+          "Christian Rock",
+          "Metalcore",
+          "Christian Alternative Rock"
+        ]
+      },
+      {
+        "name": "Recuse Myself",
+        "year": "2019",
+        "genres": [
+          "Christian Rock",
+          "Metalcore",
+          "Christian Alternative Rock"
+        ]
+      },
+      {
+        "name": "Songs Of Death & Resurrection",
+        "year": "2021",
+        "genres": [
+          "Christian Rock",
+          "Metalcore",
+          "Christian Alternative Rock"
+        ]
       }
     ],
     "tags": [
@@ -1385,7 +1448,9 @@
       "Heavy Metal",
       "Nu Metal",
       "Alternative Metal",
-      "Rock"
+      "Rock",
+      "Christian Rock",
+      "Christian Alternative Rock"
     ]
   },
   {
@@ -3165,6 +3230,13 @@
         "year": "2024",
         "genres": [
           "Metalcore"
+        ]
+      },
+      {
+        "name": "Doomswitch",
+        "year": "2022",
+        "genres": [
+          "Deathcore"
         ]
       }
     ],

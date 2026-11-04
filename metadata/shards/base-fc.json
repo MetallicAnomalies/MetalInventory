@@ -2435,12 +2435,25 @@
         "genres": [
           "Symphonic Black Metal"
         ]
+      },
+      {
+        "name": "Waltzing Mephisto: 20th Anniversary",
+        "year": "2023",
+        "genres": [
+          "Avant-garde Metal",
+          "Black Metal",
+          "Progressive Metal",
+          "Mathcore"
+        ]
       }
     ],
     "tags": [
       "Symphonic Black Metal",
       "Black Metal",
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Avant-garde Metal",
+      "Progressive Metal",
+      "Mathcore"
     ]
   },
   {
@@ -3349,6 +3362,22 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Black & White",
+        "year": "2020",
+        "genres": [
+          "Melodic Death Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Dont Stop",
+        "year": "2023",
+        "genres": [
+          "Melodic Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3904,12 +3933,21 @@
           "Death Metal",
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "The Augur Calls",
+        "year": "2024",
+        "genres": [
+          "Djent",
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
       "Deathcore",
       "Death Metal",
-      "Progressive Metal"
+      "Progressive Metal",
+      "Djent"
     ]
   },
   {

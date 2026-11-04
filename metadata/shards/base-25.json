@@ -818,14 +818,23 @@
       {
         "name": "What We Leave Behind",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Death Metal",
+          "Folk Metal",
+          "Symphonic Metal",
+          "Death Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Extreme Folk Metal",
       "Folk Metal",
       "Melodic Death Metal",
-      "Rock"
+      "Rock",
+      "Symphonic Metal",
+      "Death Metal",
+      "Power Metal"
     ]
   },
   {
@@ -973,11 +982,47 @@
           "Groove Metal",
           "Metalcore"
         ]
+      },
+      {
+        "name": "El Monstruo De Los Andes",
+        "year": "2021",
+        "genres": [
+          "Deathcore"
+        ]
+      },
+      {
+        "name": "El Ritual De La Sangre",
+        "year": "2020",
+        "genres": [
+          "Deathcore"
+        ]
+      },
+      {
+        "name": "La Casa Del Horror",
+        "year": "2021",
+        "genres": [
+          "Deathcore"
+        ]
+      },
+      {
+        "name": "Psicopata",
+        "year": "2017",
+        "genres": [
+          "Deathcore"
+        ]
+      },
+      {
+        "name": "Psicópata Ii: El Momento De La Muerte",
+        "year": "2021",
+        "genres": [
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
       "Groove Metal",
-      "Metalcore"
+      "Metalcore",
+      "Deathcore"
     ]
   },
   {

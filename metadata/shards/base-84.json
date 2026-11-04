@@ -283,6 +283,13 @@
           "Death Metal",
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "2008 Ep",
+        "year": "2008",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -1492,7 +1499,9 @@
         "name": "Watch As We Rise",
         "year": "2026",
         "genres": [
-          "Symphonic Metal"
+          "Symphonic Metal",
+          "Gothic Metal",
+          "Power Metal"
         ]
       },
       {
@@ -1504,14 +1513,36 @@
         "name": "Liars Linger",
         "year": "2026",
         "genres": [
-          "Symphonic Metal"
+          "Symphonic Metal",
+          "Gothic Metal",
+          "Power Metal"
         ]
       },
       {
         "name": "Ich Sehe Dich",
         "year": "2026",
         "genres": [
-          "Symphonic Metal"
+          "Symphonic Metal",
+          "Gothic Metal",
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "Empire Of Lies",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Gothic Metal",
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "We March",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Gothic Metal",
+          "Power Metal"
         ]
       }
     ],
@@ -1520,7 +1551,8 @@
       "Gothic Metal",
       "Thrash Metal",
       "Hard Rock",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Power Metal"
     ]
   },
   {
@@ -3458,10 +3490,20 @@
         "genres": [
           "Rock"
         ]
+      },
+      {
+        "name": "Have A Cigar",
+        "year": "2025",
+        "genres": [
+          "Progressive Rock",
+          "Art Rock"
+        ]
       }
     ],
     "tags": [
-      "Rock"
+      "Rock",
+      "Progressive Rock",
+      "Art Rock"
     ]
   },
   {

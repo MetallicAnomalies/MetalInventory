@@ -475,6 +475,13 @@
           "Powerviolence Death Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Chain Pain",
+        "year": "2021",
+        "genres": [
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
@@ -482,7 +489,8 @@
       "Grindcore Death Metal",
       "Powerviolence Death Metal",
       "Death Metal"
-    ]
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "callthemothership",
@@ -705,6 +713,13 @@
         "genres": [
           "Black Metal",
           "Post-Metal"
+        ]
+      },
+      {
+        "name": "You Are Just A Ghost",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
         ]
       }
     ],
@@ -1601,6 +1616,23 @@
     "tags": [
       "Death Metal"
     ]
+  },
+  {
+    "normalizedName": "finalstage",
+    "displayName": "Final Stage",
+    "albums": [
+      {
+        "name": "Answers For Nobody",
+        "year": "2026",
+        "genres": [
+          "Medieval Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Medieval Metal"
+    ],
+    "origin": "CA"
   },
   {
     "normalizedName": "fromthedepth",

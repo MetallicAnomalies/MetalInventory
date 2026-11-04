@@ -1070,11 +1070,23 @@
         "genres": [
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Binary Garden",
+        "year": "2019",
+        "genres": [
+          "Djent",
+          "Progressive Metal",
+          "Metalcore",
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Metalcore"
+      "Metalcore",
+      "Djent",
+      "Deathcore"
     ]
   },
   {

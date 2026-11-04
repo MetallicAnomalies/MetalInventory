@@ -1008,7 +1008,9 @@
         "year": "2026",
         "genres": [
           "Stoner Rock",
-          "Metal"
+          "Stoner Metal",
+          "Sludge Metal",
+          "Space Rock"
         ]
       },
       {
@@ -1024,7 +1026,9 @@
       "Hard Rock",
       "Stoner Rock",
       "Rock",
-      "Metal"
+      "Stoner Metal",
+      "Sludge Metal",
+      "Space Rock"
     ]
   },
   {
@@ -2298,6 +2302,19 @@
         "name": "Notion",
         "year": "2009",
         "genres": []
+      },
+      {
+        "name": "Can We Please Have Fun",
+        "year": "2024",
+        "genres": [
+          "Dad Rock",
+          "Fatherhood",
+          "Aoty",
+          "Dadcore",
+          "Cool Dad Rock",
+          "3-5",
+          "Modern Dad Rock"
+        ]
       }
     ],
     "tags": [
@@ -2308,7 +2325,14 @@
       "Rock & Roll",
       "Alternative Rock",
       "Blues Rock",
-      "Pop Rock"
+      "Pop Rock",
+      "Dad Rock",
+      "Fatherhood",
+      "Aoty",
+      "Dadcore",
+      "Cool Dad Rock",
+      "3-5",
+      "Modern Dad Rock"
     ]
   },
   {

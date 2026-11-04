@@ -3703,7 +3703,11 @@
       {
         "name": "Homesick",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom Metal",
+          "Gothic Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3712,7 +3716,8 @@
       "Gothic Metal",
       "Death Metal",
       "Acoustic",
-      "Melodic Death Doom Metal"
+      "Melodic Death Doom Metal",
+      "Melodic Death Metal"
     ]
   },
   {
@@ -4483,7 +4488,9 @@
       {
         "name": "Line Before The Event Horizon",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [

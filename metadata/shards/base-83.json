@@ -2246,10 +2246,27 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Death To The Crooked",
+        "year": "2021",
+        "genres": [
+          "Thrash Metal",
+          "Speed Metal"
+        ]
+      },
+      {
+        "name": "Divide By Design",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Speed Metal"
     ],
     "origin": "IN"
   },
@@ -3777,12 +3794,31 @@
         "name": "The Volumes Series",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "The Plot In You",
+        "year": "2026",
+        "genres": [
+          "Alternative",
+          "Metalcore",
+          "Pop Rock",
+          "Nu Metalcore",
+          "Modern Metal",
+          "Electronicore",
+          "New Release"
+        ]
       }
     ],
     "tags": [
       "Metalcore",
       "Hardcore",
-      "Post-Hardcore"
+      "Post-Hardcore",
+      "Alternative",
+      "Pop Rock",
+      "Nu Metalcore",
+      "Modern Metal",
+      "Electronicore",
+      "New Release"
     ]
   },
   {

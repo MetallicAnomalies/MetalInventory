@@ -3668,9 +3668,19 @@
         "name": "Is This Letting Go",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Die For Nothing",
+        "year": "2025",
+        "genres": [
+          "Metalcore"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Metalcore"
+    ],
+    "origin": "AU"
   },
   {
     "normalizedName": "ovoo",

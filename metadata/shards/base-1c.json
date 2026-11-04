@@ -1591,12 +1591,20 @@
         "genres": [
           "Alternative Rock"
         ]
+      },
+      {
+        "name": "Severance Mmxx",
+        "year": "2020",
+        "genres": [
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
       "Atmospheric Gothic Metal",
       "Doom Metal",
-      "Alternative Rock"
+      "Alternative Rock",
+      "Gothic Metal"
     ]
   },
   {
@@ -3895,6 +3903,21 @@
           "Euro House",
           "Hip-house"
         ]
+      },
+      {
+        "name": "The Power",
+        "year": "2009",
+        "genres": [
+          "Oldies",
+          "Dance",
+          "Disco",
+          "Male Vocalists",
+          "Electronic",
+          "Techno",
+          "German",
+          "Snap",
+          "Euro-house"
+        ]
       }
     ],
     "tags": [
@@ -3903,7 +3926,15 @@
       "Hip Hop",
       "Electronic",
       "Downtempo",
-      "Hip-house"
+      "Hip-house",
+      "Oldies",
+      "Dance",
+      "Disco",
+      "Male Vocalists",
+      "Techno",
+      "German",
+      "Snap",
+      "Euro-house"
     ]
   },
   {

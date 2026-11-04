@@ -980,7 +980,23 @@
       {
         "name": "Escaping Depravity",
         "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "Demos & Oddities",
+        "year": "2026",
         "genres": []
+      },
+      {
+        "name": "To Perceive Is To Suffer (Remix)",
+        "year": "2024",
+        "genres": [
+          "Death Metal",
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
@@ -2641,8 +2657,27 @@
   {
     "normalizedName": "margincode",
     "displayName": "Margin Code",
-    "albums": [],
-    "tags": [],
+    "albums": [
+      {
+        "name": "Awaken",
+        "year": "2026",
+        "genres": [
+          "Djent",
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "Cult Of Mantis",
+        "year": "2026",
+        "genres": [
+          "Djent"
+        ]
+      }
+    ],
+    "tags": [
+      "Djent",
+      "Progressive Metal"
+    ],
     "origin": "GB"
   },
   {
@@ -3062,7 +3097,12 @@
         "name": "O Solitude",
         "year": "2003",
         "genres": [
-          "Funeral Doom Metal"
+          "Funeral Doom Metal",
+          "Doom Metal",
+          "Death Doom Metal",
+          "Atmospheric Doom Metal",
+          "Atmospheric",
+          "Ddgmetal"
         ]
       },
       {
@@ -3121,7 +3161,12 @@
       }
     ],
     "tags": [
-      "Funeral Doom Metal"
+      "Funeral Doom Metal",
+      "Doom Metal",
+      "Death Doom Metal",
+      "Atmospheric Doom Metal",
+      "Atmospheric",
+      "Ddgmetal"
     ]
   },
   {

@@ -3453,6 +3453,15 @@
           "Metalcore",
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Mourning The Dawn",
+        "year": "2023",
+        "genres": [
+          "Djent",
+          "Metalcore",
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
@@ -4543,6 +4552,38 @@
           "Avant-garde Black Metal",
           "Black Metal"
         ]
+      },
+      {
+        "name": "A Tribute To Venom",
+        "year": "2008",
+        "genres": [
+          "Black Metal",
+          "Thrash Metal",
+          "Venom"
+        ]
+      },
+      {
+        "name": "Hangmans Hymn",
+        "year": "2007",
+        "genres": [
+          "Black Metal",
+          "Symphonic Black Metal",
+          "Symphonic Metal",
+          "Symphonic Blackened Thrash Metal",
+          "Thrash Metal",
+          "Epic Win",
+          "Progressive Metal",
+          "Progressive Black Metal"
+        ]
+      },
+      {
+        "name": "The Eastern Forces Of Evil 2022",
+        "year": "2023",
+        "genres": [
+          "Black Metal",
+          "Avant-garde Metal",
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
@@ -4551,7 +4592,13 @@
       "Thrash Metal",
       "Death Metal",
       "Progressive Metal",
-      "Avant-garde Black Metal"
+      "Avant-garde Black Metal",
+      "Venom",
+      "Symphonic Black Metal",
+      "Symphonic Metal",
+      "Symphonic Blackened Thrash Metal",
+      "Epic Win",
+      "Progressive Black Metal"
     ]
   },
   {
@@ -5003,11 +5050,31 @@
           "Indie Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "Trouble Will Find Me",
+        "year": "2013",
+        "genres": [
+          "Best Of 2013",
+          "Indie Rock",
+          "10s",
+          "4ad",
+          "Indie",
+          "Post-Punk Revival",
+          "Mixtaperoom",
+          "Rock"
+        ]
       }
     ],
     "tags": [
       "Indie Rock",
-      "Rock"
+      "Rock",
+      "Best Of 2013",
+      "10s",
+      "4ad",
+      "Indie",
+      "Post-Punk Revival",
+      "Mixtaperoom"
     ]
   },
   {

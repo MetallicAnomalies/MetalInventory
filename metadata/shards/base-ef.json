@@ -731,11 +731,24 @@
           "Hard Rock",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Siren",
+        "year": "2026",
+        "genres": [
+          "Doom Metal",
+          "Stoner Metal",
+          "Sludge Metal",
+          "Stoner Rock"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Hard Rock"
+      "Hard Rock",
+      "Stoner Metal",
+      "Sludge Metal",
+      "Stoner Rock"
     ]
   },
   {
@@ -3061,11 +3074,19 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "Last Of Me",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
       "Metalcore"
-    ]
+    ],
+    "origin": "US"
   },
   {
     "normalizedName": "scarletrequiem",

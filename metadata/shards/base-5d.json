@@ -881,6 +881,24 @@
     ]
   },
   {
+    "normalizedName": "deathofadream",
+    "displayName": "Death of a Dream",
+    "origin": "US",
+    "albums": [
+      {
+        "name": "Sentenced To Suffering",
+        "year": "2021",
+        "genres": []
+      },
+      {
+        "name": "Birth of a Nightmare",
+        "year": "2016",
+        "genres": []
+      }
+    ],
+    "tags": []
+  },
+  {
     "normalizedName": "demoted",
     "displayName": "Demoted",
     "albums": [
@@ -1200,6 +1218,26 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Devolution Series #1 - Acoustically Inclined, Live In Leeds",
+        "year": "2021",
+        "genres": [
+          "Progressive Rock",
+          "Acoustic",
+          "Calm",
+          "Acoustic Rock",
+          "Soothing"
+        ]
+      },
+      {
+        "name": "War Beyond Words",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Progressive Rock",
+          "Djent"
+        ]
       }
     ],
     "tags": [
@@ -1208,7 +1246,13 @@
       "Country Rock",
       "New Age",
       "Experimental Metal",
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Progressive Rock",
+      "Djent",
+      "Acoustic",
+      "Calm",
+      "Acoustic Rock",
+      "Soothing"
     ]
   },
   {
@@ -2643,7 +2687,8 @@
     ],
     "tags": [
       "Brutal Death Metal"
-    ]
+    ],
+    "origin": "IT"
   },
   {
     "normalizedName": "negativacan",

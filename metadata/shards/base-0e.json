@@ -1012,7 +1012,8 @@
     "tags": [
       "Black Metal",
       "Atmospheric Doom Metal"
-    ]
+    ],
+    "origin": "IT"
   },
   {
     "normalizedName": "dearthe",
@@ -1436,12 +1437,20 @@
           "Heavy Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "Defying Gravity",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
       "Power Metal"
-    ]
+    ],
+    "origin": "FI"
   },
   {
     "normalizedName": "eels",
@@ -2426,7 +2435,11 @@
         "year": "2021",
         "genres": [
           "Black Metal",
-          "Death Metal"
+          "Death Metal",
+          "German Black Metal",
+          "Vinyl",
+          "Soundcave",
+          "The Best Debut Album"
         ]
       },
       {
@@ -2460,11 +2473,71 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Der Füsilier I (2025)",
+        "year": "2025",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Der Maulwurf",
+        "year": "2024",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Kanonenfieber Live At Dark Easter Metal Meeting",
+        "year": "2023",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Live In Oberhausen",
+        "year": "2025",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Soldatenschicksale",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Sturmtrupp",
+        "year": "2025",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Waffenbrüder",
+        "year": "2024",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "German Black Metal",
+      "Vinyl",
+      "Soundcave",
+      "The Best Debut Album"
     ]
   },
   {
@@ -2881,6 +2954,11 @@
         "genres": [
           "Rock"
         ]
+      },
+      {
+        "name": "Bernard & Louise",
+        "year": "1997",
+        "genres": []
       }
     ],
     "tags": [

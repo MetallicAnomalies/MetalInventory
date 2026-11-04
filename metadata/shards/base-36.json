@@ -1281,6 +1281,36 @@
           "Pop Rock",
           "Rock"
         ]
+      },
+      {
+        "name": "On The Third Day",
+        "year": "1973",
+        "genres": [
+          "Progressive Rock",
+          "Symphonic Rock",
+          "70s",
+          "Classic Rock",
+          "Rock",
+          "Art Rock",
+          "Symphonic Prog",
+          "Elo",
+          "Time"
+        ]
+      },
+      {
+        "name": "Time",
+        "year": "1981",
+        "genres": [
+          "Symphonic Rock",
+          "Electric Light Orchestra",
+          "80s",
+          "Synth-pop",
+          "Classic Rock",
+          "Rock",
+          "New Wave",
+          "Pop",
+          "Progressive Rock"
+        ]
       }
     ],
     "tags": [
@@ -1290,7 +1320,16 @@
       "Rock",
       "Pop Rock",
       "Alternative Rock",
-      "Classic Rock"
+      "Classic Rock",
+      "70s",
+      "Art Rock",
+      "Symphonic Prog",
+      "Elo",
+      "Time",
+      "Electric Light Orchestra",
+      "80s",
+      "Synth-pop",
+      "New Wave"
     ]
   },
   {
@@ -4120,8 +4159,11 @@
     "tags": [
       "Groove Death Metal",
       "Death Metal",
-      "Technical Groove Death Metal"
-    ]
+      "Technical Groove Death Metal",
+      "Technical Death Metal",
+      "Groove Metal"
+    ],
+    "origin": "AU"
   },
   {
     "normalizedName": "theenchanted",

@@ -867,12 +867,14 @@
         "name": "Whispers Of War",
         "year": "2025",
         "genres": [
-          "Extreme Power Metal"
+          "Extreme Power Metal",
+          "Best Albums 2025"
         ]
       }
     ],
     "tags": [
-      "Extreme Power Metal"
+      "Extreme Power Metal",
+      "Best Albums 2025"
     ]
   },
   {
@@ -1196,7 +1198,12 @@
         "genres": [
           "Atmospheric Black Metal",
           "Post-Metal",
-          "Shoegaze"
+          "Shoegaze",
+          "Black Metal",
+          "Blackgaze",
+          "Best Of 2025",
+          "Screamo",
+          "Post-Black Metal"
         ]
       },
       {
@@ -1213,7 +1220,9 @@
         "genres": [
           "Black Metal",
           "Post-Metal",
-          "Blackgaze"
+          "Blackgaze",
+          "Shoegaze",
+          "Post-Rock"
         ]
       }
     ],
@@ -1223,7 +1232,10 @@
       "Shoegaze",
       "Black Metal",
       "Post-Black Metal",
-      "Blackgaze"
+      "Blackgaze",
+      "Post-Rock",
+      "Best Of 2025",
+      "Screamo"
     ]
   },
   {
@@ -3792,6 +3804,27 @@
       },
       {
         "name": "Dimsvall",
+        "year": "2025",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Bakom Blekna Skuggor",
+        "year": "2025",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Sign Of An Open Eye",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Svartsyn",
         "year": "2025",
         "genres": [
           "Black Metal"

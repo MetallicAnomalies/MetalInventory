@@ -1105,13 +1105,19 @@
       {
         "name": "Tears Painted Sky",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom Metal",
+          "Gothic Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Blackened Doom Metal",
       "Gothic Rock",
-      "Doom Metal"
+      "Doom Metal",
+      "Gothic Metal",
+      "Black Metal"
     ]
   },
   {
@@ -4986,6 +4992,24 @@
     "tags": [
       "Blackened Death Metal"
     ]
+  },
+  {
+    "normalizedName": "svartr",
+    "displayName": "Svartr",
+    "albums": [
+      {
+        "name": "Chants Of A Delusional Mind",
+        "year": "2021",
+        "genres": []
+      },
+      {
+        "name": "The Great Filter",
+        "year": "2021",
+        "genres": []
+      }
+    ],
+    "tags": [],
+    "origin": "CA"
   },
   {
     "normalizedName": "tank",
