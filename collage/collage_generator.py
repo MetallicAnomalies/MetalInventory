@@ -7,7 +7,7 @@ import time
 from PIL import Image, ImageDraw, ImageFont
 
 # --- CONFIGURATION ---
-INPUT_FILE = "collage_metadata.json"
+INPUT_FILE = "collage_metadata_2026_10.json"
 OUTPUT_FILE = "scrobex_collage.jpg"
 CACHE_DIR = "downloaded_images"  # Folder to store downloaded images
 

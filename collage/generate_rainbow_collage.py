@@ -8,12 +8,12 @@ import colorsys
 from PIL import Image, ImageDraw, ImageFont, ImageStat
 
 # --- CONFIGURATION ---
-INPUT_FILE = "collage_metadata_albums.json"
-OUTPUT_FILE = "scrobex_collage.albums.jpg"
+INPUT_FILE = "collage_metadata recent albums.json"
+OUTPUT_FILE = "scrobex_collage_2026_10.albums.jpg"
 CACHE_DIR = "downloaded_images_albums"  # Folder to store downloaded images
 
 # Grid Settings
-GRID_SIZE = 10     # 10x10 grid
+GRID_SIZE = 20     # 10x10 grid
 CELL_SIZE = 300    # 300px per image
 GRID_PIXELS = GRID_SIZE * CELL_SIZE # 3000px
 
@@ -224,21 +224,28 @@ def main():
     except IOError:
         font = ImageFont.load_default()
 
+    # >>> CHANGED: number each item by its actual grid cell (row-major, 1-based),
+    # >>> then list the legend in that reading order.
+    numbered = []
     for index, item in enumerate(items):
-        rank = item.get('rank', index + 1)
+        row, col = grid_positions[index]
+        numbered.append((row * GRID_SIZE + col + 1, item))
+    numbered.sort(key=lambda pair: pair[0])
+
+    for line, (grid_num, item) in enumerate(numbered):
         artist = item.get('artist', 'Unknown')
         album = item.get('album', 'Unknown')
-        
-        collage_position = index + 1
-        text = f"{collage_position}. {artist} - {album}"
-        y = index * line_height
+
+        text = f"{grid_num}. {artist} - {album}"
+        y = line * line_height
         y_padding = (line_height - font_size) // 2
-        
+
         max_chars = 60
         if len(text) > max_chars:
             text = text[:max_chars] + "..."
-            
+
         draw.text((30, y + y_padding), text, fill=TEXT_COLOR, font=font)
+    # <<< END CHANGED
 
     # --- PHASE 4: SAVE ---
     print("Combining Grid and Legend...")

@@ -34,7 +34,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python scripts/metal_releases.py
-          python scripts/heavy_metal_calendar.py
+          : # python scripts/heavy_metal_calendar.py
           python scripts/cleanup_old_releases.py
 
       - name: 5. Fetch Metal Archives Releases
