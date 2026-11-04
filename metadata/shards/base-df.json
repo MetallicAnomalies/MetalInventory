@@ -3053,29 +3053,40 @@
   {
     "normalizedName": "lasovejasdeerebo",
     "displayName": "Las Ovejas de Erebo",
+    "origin": "AR",
     "albums": [
       {
         "name": "El Comienzo De Un Fin",
         "year": "2017",
-        "genres": []
+        "genres": [
+          "Groove Metal"
+        ]
       },
       {
         "name": "Oscura Libertad",
         "year": "2013",
-        "genres": []
+        "genres": [
+          "Groove Metal"
+        ]
       },
       {
         "name": "Pesadilla",
         "year": "2021",
-        "genres": []
+        "genres": [
+          "Groove Metal"
+        ]
       },
       {
         "name": "Profecía",
         "year": "2020",
-        "genres": []
+        "genres": [
+          "Groove Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Groove Metal"
+    ]
   },
   {
     "normalizedName": "levellers",

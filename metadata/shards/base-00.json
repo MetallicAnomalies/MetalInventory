@@ -641,6 +641,7 @@
   {
     "normalizedName": "aworldwithout",
     "displayName": "A World Without",
+    "origin": "US",
     "albums": [
       {
         "name": "We All Die Alone",
@@ -3859,6 +3860,23 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "velvetrush",
+    "displayName": "Velvet Rush",
+    "origin": "DE",
+    "albums": [
+      {
+        "name": "Trail of Gold",
+        "year": "2025",
+        "genres": [
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Hard Rock"
     ]
   },
   {

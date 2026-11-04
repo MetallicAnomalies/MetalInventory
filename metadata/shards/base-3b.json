@@ -2819,6 +2819,7 @@
   {
     "normalizedName": "kuhmora",
     "displayName": "Kuhmora",
+    "origin": "US",
     "albums": [
       {
         "name": "Error In Creation",
@@ -2846,7 +2847,9 @@
         "genres": []
       }
     ],
-    "tags": []
+    "tags": [
+      "Deathcore"
+    ]
   },
   {
     "normalizedName": "loathsome",

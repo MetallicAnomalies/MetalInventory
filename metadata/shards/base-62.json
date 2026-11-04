@@ -5105,14 +5105,19 @@
   {
     "normalizedName": "wailingbanshee",
     "displayName": "Wailing Banshee",
+    "origin": "GB",
     "albums": [
       {
         "name": "Tempest",
         "year": "2025",
-        "genres": []
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Heavy Metal"
+    ]
   },
   {
     "normalizedName": "warbreed",

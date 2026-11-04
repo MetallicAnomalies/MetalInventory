@@ -2854,10 +2854,16 @@
       {
         "name": "Nothings About To Happen To Me",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Indie Rock",
+          "Alternative Rock"
+        ]
       }
     ],
-    "tags": [],
+    "tags": [
+      "Indie Rock",
+      "Alternative Rock"
+    ],
     "origin": "US"
   },
   {
