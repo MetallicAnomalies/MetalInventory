@@ -1276,6 +1276,25 @@
     ]
   },
   {
+    "normalizedName": "divinethreat",
+    "displayName": "Divine Threat",
+    "origin": "US",
+    "albums": [
+      {
+        "name": "Pillar of Agony",
+        "year": "2026",
+        "genres": [
+          "Groove Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "dryrot",
     "displayName": "Dryrot",
     "albums": [
@@ -1835,6 +1854,7 @@
   {
     "normalizedName": "hanry",
     "displayName": "Hanry",
+    "origin": "FR",
     "albums": [
       {
         "name": "What Came From Silence",
@@ -1842,7 +1862,9 @@
         "genres": []
       }
     ],
-    "tags": []
+    "tags": [
+      "Post-Rock"
+    ]
   },
   {
     "normalizedName": "hellfuck",

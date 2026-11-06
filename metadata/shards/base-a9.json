@@ -1488,6 +1488,13 @@
           "Post-Rock",
           "Progressive Rock"
         ]
+      },
+      {
+        "name": "Sceaduhelm",
+        "year": "2026",
+        "genres": [
+          "Post-Rock"
+        ]
       }
     ],
     "tags": [
@@ -5800,6 +5807,22 @@
         "genres": [
           "Groove Metal",
           "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Checkmate",
+        "year": "2023",
+        "genres": [
+          "Melodic Death Metal",
+          "Groove Metal"
+        ]
+      },
+      {
+        "name": "Judgement",
+        "year": "",
+        "genres": [
+          "Melodic Death Metal",
+          "Groove Metal"
         ]
       }
     ],

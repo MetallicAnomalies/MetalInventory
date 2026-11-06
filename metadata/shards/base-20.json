@@ -585,15 +585,32 @@
       {
         "name": "Closure",
         "year": "2020",
-        "genres": []
+        "genres": [
+          "Progressive Metal",
+          "Alternative Metal"
+        ]
       },
       {
         "name": "Prequel",
         "year": "2021",
-        "genres": []
+        "genres": [
+          "Progressive Metal",
+          "Alternative Metal"
+        ]
+      },
+      {
+        "name": "Home",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Alternative Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Progressive Metal",
+      "Alternative Metal"
+    ]
   },
   {
     "normalizedName": "boa",

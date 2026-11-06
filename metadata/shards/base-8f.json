@@ -2140,10 +2140,16 @@
       {
         "name": "Days Of Odd",
         "year": "2023",
-        "genres": []
+        "genres": [
+          "Alternative Rock",
+          "Alternative Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Alternative Rock",
+      "Alternative Metal"
+    ]
   },
   {
     "normalizedName": "jupitersociety",

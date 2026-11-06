@@ -4281,6 +4281,7 @@
   {
     "normalizedName": "splendidula",
     "displayName": "Splendidula",
+    "origin": "BE",
     "albums": [
       {
         "name": "Splendidula",
@@ -4304,6 +4305,14 @@
         "genres": [
           "Doom Metal",
           "Sludge Metal"
+        ]
+      },
+      {
+        "name": "Absentia",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Doom Metal"
         ]
       }
     ],

@@ -151,6 +151,7 @@
   {
     "normalizedName": "amrasnumenesse",
     "displayName": "Amras Numenesse",
+    "origin": "TR",
     "albums": [
       {
         "name": "Human.exe",
@@ -1466,6 +1467,14 @@
           "Death Metal",
           "Melodic Death Metal",
           "Atmospheric"
+        ]
+      },
+      {
+        "name": "Echoes",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Death Doom Metal"
         ]
       }
     ],

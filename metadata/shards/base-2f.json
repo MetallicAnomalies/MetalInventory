@@ -1100,6 +1100,7 @@
   {
     "normalizedName": "distantdream",
     "displayName": "Distant Dream",
+    "origin": "PL",
     "albums": [
       {
         "name": "It All Starts From Pieces",
@@ -4922,6 +4923,13 @@
           "Metalcore",
           "Melodic Death Metal",
           "Groove Metal"
+        ]
+      },
+      {
+        "name": "Revelations",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
         ]
       }
     ],

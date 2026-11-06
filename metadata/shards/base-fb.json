@@ -1357,6 +1357,7 @@
   {
     "normalizedName": "deimler",
     "displayName": "Deimler",
+    "origin": "ES",
     "albums": [
       {
         "name": "Zero One",
@@ -1375,6 +1376,13 @@
       {
         "name": "Immortalized",
         "year": "2023",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Darkness Falls",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]

@@ -2133,6 +2133,7 @@
   {
     "normalizedName": "gutvoid",
     "displayName": "Gutvoid",
+    "origin": "CA",
     "albums": [
       {
         "name": "Astral Bestiary",
@@ -2153,6 +2154,13 @@
         "year": "2024",
         "genres": [
           "Death Doom Metal"
+        ]
+      },
+      {
+        "name": "Liminal Shrines",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
         ]
       }
     ],
