@@ -4871,10 +4871,16 @@
       {
         "name": "The Hand That Reigns",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Stoner Metal",
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Stoner Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "sore",

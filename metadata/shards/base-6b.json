@@ -3079,12 +3079,17 @@
       {
         "name": "Ark Of Cosmic Resonance",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Speed Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Speed Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Progressive Speed Metal",
+      "Power Metal"
     ]
   },
   {
@@ -3597,11 +3602,23 @@
         "name": "Dominion",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Tempest",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Doom Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Crust Punk"
+      "Crust Punk",
+      "Stoner Metal",
+      "Doom Metal",
+      "Rock"
     ]
   },
   {

@@ -2120,7 +2120,9 @@
       {
         "name": "Graviton",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Blackened Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -4677,6 +4679,22 @@
       "Progressive Metal",
       "Math Rock",
       "Hardcore"
+    ]
+  },
+  {
+    "normalizedName": "visceracrown",
+    "displayName": "Viscera Crown",
+    "albums": [
+      {
+        "name": "We All Know",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {

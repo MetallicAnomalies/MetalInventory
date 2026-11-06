@@ -1851,11 +1851,16 @@
       {
         "name": "Lord Of The Strings",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal",
+          "Shred"
+        ]
       }
     ],
     "tags": [
-      "Neoclassical Power Metal"
+      "Neoclassical Power Metal",
+      "Heavy Metal",
+      "Shred"
     ]
   },
   {
@@ -4012,10 +4017,14 @@
       {
         "name": "A Féreg Pusztulása",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "visceral",

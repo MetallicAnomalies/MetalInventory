@@ -708,6 +708,24 @@
     ]
   },
   {
+    "normalizedName": "buatkopijangantambahgula",
+    "displayName": "Buat Kopi Jangan Tambah Gula",
+    "albums": [
+      {
+        "name": "Fogbound Ruins",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "carpatica",
     "displayName": "Carpatica",
     "albums": [
@@ -3494,10 +3512,16 @@
       {
         "name": "From Dark Dimensions An Unspeakable Presence Awakens",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Sludge Metal",
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Sludge Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "tangorodream",

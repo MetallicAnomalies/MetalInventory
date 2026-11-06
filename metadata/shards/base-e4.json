@@ -2797,105 +2797,105 @@
         "name": "C:\\chkdsk /F",
         "year": "2016",
         "genres": [
-          "Instrumental Industrial"
+          "Instrumental Industrial Metal"
         ]
       },
       {
         "name": "C:\\edit Autoexec.bat",
         "year": "2016",
         "genres": [
-          "Instrumental Industrial"
+          "Instrumental Industrial Metal"
         ]
       },
       {
         "name": "C:\\edit Config.sys",
         "year": "2016",
         "genres": [
-          "Instrumental Industrial"
+          "Instrumental Industrial Metal"
         ]
       },
       {
         "name": "C:\\fixmbr",
         "year": "2016",
         "genres": [
-          "Instrumental Industrial"
+          "Instrumental Industrial Metal"
         ]
       },
       {
         "name": "486dx",
         "year": "2017",
         "genres": [
-          "Instrumental Industrial"
+          "Instrumental Industrial Metal"
         ]
       },
       {
         "name": "C:\\>copy *.* A: /V",
         "year": "2017",
         "genres": [
-          "Instrumental Industrial"
+          "Instrumental Industrial Metal"
         ]
       },
       {
         "name": "Interrupt Request",
         "year": "2017",
         "genres": [
-          "Instrumental Industrial"
+          "Instrumental Industrial Metal"
         ]
       },
       {
         "name": "Direct Memory Access",
         "year": "2018",
         "genres": [
-          "Instrumental Industrial"
+          "Instrumental Industrial Metal"
         ]
       },
       {
         "name": "Virus.dos",
         "year": "2018",
         "genres": [
-          "Instrumental Industrial"
+          "Instrumental Industrial Metal"
         ]
       },
       {
         "name": "Internet Protocol",
         "year": "2019",
         "genres": [
-          "Instrumental Industrial"
+          "Instrumental Industrial Metal"
         ]
       },
       {
         "name": "C:\\>defrag",
         "year": "2020",
         "genres": [
-          "Instrumental Industrial"
+          "Instrumental Industrial Metal"
         ]
       },
       {
         "name": "Floppy Disk Overdrive",
         "year": "2020",
         "genres": [
-          "Instrumental Industrial"
+          "Instrumental Industrial Metal"
         ]
       },
       {
         "name": "Virtuaverse Ost",
         "year": "2020",
         "genres": [
-          "Instrumental Industrial"
+          "Instrumental Industrial Metal"
         ]
       },
       {
         "name": "Personal Computer",
         "year": "2022",
         "genres": [
-          "Instrumental Industrial"
+          "Instrumental Industrial Metal"
         ]
       },
       {
         "name": "Hardwarez",
         "year": "2024",
         "genres": [
-          "Instrumental Industrial"
+          "Instrumental Industrial Metal"
         ]
       },
       {
@@ -2911,15 +2911,21 @@
       {
         "name": "Computer Metal",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Industrial",
+          "Electronic Metal, Synthwave Chiptune",
+          "Chiptune"
+        ]
       }
     ],
     "tags": [
-      "Instrumental Industrial",
+      "Instrumental Industrial Metal",
       "Industrial Chiptune",
       "Electronic",
       "Synthwave Chiptune",
-      "Chiptune"
+      "Chiptune",
+      "Industrial",
+      "Electronic Metal, Synthwave Chiptune"
     ]
   },
   {
@@ -3320,7 +3326,9 @@
       {
         "name": "The Last Dawn",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       },
       {
         "name": "Peremptory Sentence",
@@ -4459,10 +4467,16 @@
       {
         "name": "Cesspool",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Sludge Stoner Metal",
+          "Stoner Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Sludge Stoner Metal",
+      "Stoner Metal"
+    ]
   },
   {
     "normalizedName": "ten",

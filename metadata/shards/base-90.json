@@ -1696,7 +1696,10 @@
       {
         "name": "Volume V",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Southern Metal",
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
@@ -1706,7 +1709,8 @@
       "Hard Rock",
       "Southern Rock",
       "Stoner Rock",
-      "Rock"
+      "Rock",
+      "Southern Metal"
     ]
   },
   {

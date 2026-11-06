@@ -4352,7 +4352,9 @@
       {
         "name": "Lucid Nightmares",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       },
       {
         "name": "The Strangulation",
@@ -4839,10 +4841,14 @@
       {
         "name": "Unbound And Unforgiving",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Epic Heavy Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Epic Heavy Metal"
+    ]
   },
   {
     "normalizedName": "unidadtrauma",

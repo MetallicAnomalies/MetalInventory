@@ -437,7 +437,9 @@
       {
         "name": "Echoes Of Extinction",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -4973,9 +4975,15 @@
       {
         "name": "Pillars Of Eternal Dusk",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Doom Metal",
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Doom Metal",
+      "Death Metal"
+    ]
   }
 ]

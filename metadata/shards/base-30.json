@@ -1638,12 +1638,17 @@
       {
         "name": "Night Songs",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Stoner Metal",
+          "Sludge Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Sludge Metal",
-      "Stoner Metal"
+      "Stoner Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -3068,10 +3073,16 @@
       {
         "name": "Farewell To All We’ve Lost",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Stoner Doom Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "ozzyosbourneblacksabbath",
@@ -3157,7 +3168,10 @@
       {
         "name": "Uncanny Times",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Funeral Doom Metal",
+          "Progressive Doom Metal"
+        ]
       }
     ],
     "tags": [
@@ -3166,7 +3180,8 @@
       "Death Doom Metal",
       "Atmospheric Doom Metal",
       "Atmospheric",
-      "Ddgmetal"
+      "Ddgmetal",
+      "Progressive Doom Metal"
     ]
   },
   {

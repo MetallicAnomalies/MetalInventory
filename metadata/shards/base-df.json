@@ -2095,7 +2095,9 @@
       {
         "name": "Triskelion",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -4428,6 +4430,15 @@
           "Dungeon Synth Noise",
           "Noise"
         ]
+      },
+      {
+        "name": "Timeless Armour (Curta'n Wall Cover)",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Dungeon Synth Noise",
+          "Noise"
+        ]
       }
     ],
     "tags": [
@@ -5191,7 +5202,9 @@
       {
         "name": "Allied With The Enemy",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [

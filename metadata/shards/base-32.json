@@ -2470,6 +2470,20 @@
         "genres": [
           "Depressive Black Metal"
         ]
+      },
+      {
+        "name": "Part 4: Escape from Life",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "Stíny (Trist cover)",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -3915,7 +3929,10 @@
       {
         "name": "The Greatest 30 Years On Earth",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Symphonic Power Metal",
+          "Symphonic Metal"
+        ]
       },
       {
         "name": "The Sound Of Nightwish Reborn",
@@ -5847,11 +5864,14 @@
       {
         "name": "Mac Tire – Son Of The Land",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Celtic Folk Metal"
+        ]
       }
     ],
     "tags": [
-      "Celtic Folk"
+      "Celtic Folk",
+      "Celtic Folk Metal"
     ]
   },
   {

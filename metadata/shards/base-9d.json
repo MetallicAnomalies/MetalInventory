@@ -381,10 +381,14 @@
       {
         "name": "Des Crevettes Sans Tete",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "bewareofgods",
@@ -1965,11 +1969,16 @@
       {
         "name": "Back To Primal Sludge",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Death Thrash Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -2088,10 +2097,16 @@
       {
         "name": "Lazarvs",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Gothic Metal",
+          "Progressive Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Gothic Metal",
+      "Progressive Metal"
+    ]
   },
   {
     "normalizedName": "mastabah",

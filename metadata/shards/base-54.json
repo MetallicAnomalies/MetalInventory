@@ -2991,13 +2991,21 @@
       {
         "name": "Death Is Not Enough",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Black Metal",
+          "Speed Black Metal",
+          "Black Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
       "Speed Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Heavy Black Metal",
+      "Speed Black Metal",
+      "Black Metal"
     ]
   },
   {

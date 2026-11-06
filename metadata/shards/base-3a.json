@@ -2783,7 +2783,11 @@
       {
         "name": "In Metal",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Power Metal",
+          "Speed Metal",
+          "Thrash Metal"
+        ]
       },
       {
         "name": "Angels Are Falling",
@@ -2799,7 +2803,8 @@
       "Power Metal",
       "Power Thrash Metal",
       "Speed Thrash Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Speed Metal"
     ]
   },
   {

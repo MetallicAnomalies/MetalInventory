@@ -580,10 +580,14 @@
       {
         "name": "River Of Slumber",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "caveat",
@@ -3035,6 +3039,24 @@
     ]
   },
   {
+    "normalizedName": "nourishment",
+    "displayName": "Nourishment",
+    "albums": [
+      {
+        "name": "Cryptic Sundial Worship",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Punk"
+    ]
+  },
+  {
     "normalizedName": "operaix",
     "displayName": "Opera IX",
     "origin": "IT",
@@ -4295,7 +4317,9 @@
       {
         "name": "Silverlake",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Black Metal"
+        ]
       },
       {
         "name": "Blackened Roses Fall",

@@ -2844,6 +2844,22 @@
     ]
   },
   {
+    "normalizedName": "oratorio",
+    "displayName": "Oratorio",
+    "albums": [
+      {
+        "name": "Seconds to May",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "pablogsoler",
     "displayName": "Pablo G. Soler",
     "albums": [
@@ -3813,6 +3829,13 @@
         "name": "No Human Contact",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Thuggee",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
@@ -3976,11 +3999,14 @@
       {
         "name": "Morning Nautical Twilight",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Melodic Black Metal"
     ]
   },
   {
@@ -4208,10 +4234,14 @@
       {
         "name": "Thomas Miller’s Lazarus Effect",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Progressive Metal"
+    ]
   },
   {
     "normalizedName": "thosewholiveindeath",

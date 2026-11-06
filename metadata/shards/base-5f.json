@@ -1766,7 +1766,9 @@
       {
         "name": "Nothingness",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Gothic Metal"
+        ]
       },
       {
         "name": "Down",
@@ -2159,6 +2161,14 @@
       },
       {
         "name": "Onschuldig Bloed",
+        "year": "2026",
+        "genres": [
+          "Experimental Black Metal",
+          "Techno"
+        ]
+      },
+      {
+        "name": "Nachtangst",
         "year": "2026",
         "genres": [
           "Experimental Black Metal",
@@ -3650,6 +3660,22 @@
     ]
   },
   {
+    "normalizedName": "overvald",
+    "displayName": "Övervåld",
+    "albums": [
+      {
+        "name": "I förbund med omoralen",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "painful",
     "displayName": "Painful",
     "albums": [
@@ -3963,10 +3989,16 @@
       {
         "name": "Voidmass",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Sludge Post-Metal",
+          "Post-Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Sludge Post-Metal",
+      "Post-Metal"
+    ]
   },
   {
     "normalizedName": "sacrilegioussword",

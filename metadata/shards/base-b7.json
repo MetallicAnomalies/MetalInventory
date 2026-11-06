@@ -227,10 +227,14 @@
       {
         "name": "Desperate Necromancy",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "blackendhorizon",
@@ -1344,6 +1348,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "highvoltage",
+    "displayName": "High Voltage",
+    "albums": [
+      {
+        "name": "Substansi Kekerasan",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore"
     ]
   },
   {

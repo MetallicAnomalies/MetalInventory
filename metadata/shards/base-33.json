@@ -119,7 +119,9 @@
       {
         "name": "Treason",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Power Metal"
+        ]
       },
       {
         "name": "All Has Read",
@@ -1259,6 +1261,24 @@
     "tags": [
       "Melodic Death Metal",
       "Gothic Metal"
+    ]
+  },
+  {
+    "normalizedName": "deadcrown",
+    "displayName": "Dead Crown",
+    "albums": [
+      {
+        "name": "The Pathwarden Chronicles: Act I & II",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Ambient"
     ]
   },
   {

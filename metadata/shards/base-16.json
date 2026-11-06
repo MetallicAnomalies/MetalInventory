@@ -1695,10 +1695,18 @@
         "genres": [
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Canto Inferno",
+        "year": "2026",
+        "genres": [
+          "Progressive Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Metal"
+      "Progressive Metal",
+      "Progressive Thrash Metal"
     ]
   },
   {
@@ -2080,10 +2088,14 @@
       {
         "name": "Death Sermon",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "fleshgodapocalypse",
@@ -4195,6 +4207,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "rosacroce",
+    "displayName": "Rosacroce✝",
+    "albums": [
+      {
+        "name": "Chronicles of Rebis vol. I",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Metal",
+      "Black Metal"
     ]
   },
   {

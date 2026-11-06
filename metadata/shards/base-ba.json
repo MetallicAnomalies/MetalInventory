@@ -1406,7 +1406,9 @@
       {
         "name": "(dis)harmony",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -5444,6 +5446,13 @@
       {
         "name": "Stories To Forget",
         "year": "2024",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "On Borrowed Wings",
+        "year": "2026",
         "genres": [
           "Melodic Death Metal"
         ]

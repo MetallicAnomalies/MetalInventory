@@ -1238,7 +1238,9 @@
       {
         "name": "Lamentations Of The Shadowkingdoms",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -1634,12 +1636,18 @@
       {
         "name": "Death Comes Twice",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom Rock",
+          "Stoner Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
       "Stoner Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Doom Rock",
+      "Rock"
     ]
   },
   {
@@ -3246,11 +3254,15 @@
       {
         "name": "Retaliate",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Groove Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
-      "Metalcore"
+      "Metalcore",
+      "Melodic Groove Metal"
     ]
   },
   {

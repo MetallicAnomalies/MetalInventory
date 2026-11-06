@@ -529,11 +529,17 @@
       {
         "name": "The Shapes Of Hidden Malice",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Brutal Death Metal",
+          "Death Metal",
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
-      "Brutal Death Metal"
+      "Brutal Death Metal",
+      "Death Metal",
+      "Deathcore"
     ]
   },
   {
@@ -4052,10 +4058,20 @@
       {
         "name": "Time Obliteration",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock",
+          "Groove Stoner Metal",
+          "Stoner Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock",
+      "Groove Stoner Metal",
+      "Stoner Metal"
+    ]
   },
   {
     "normalizedName": "thepointersisters",

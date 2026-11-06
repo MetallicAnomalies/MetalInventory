@@ -3223,13 +3223,18 @@
       {
         "name": "The Pit And The Pendulum",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
       "Thrash Heavy Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Death Metal",
+      "Thrash Metal"
     ]
   },
   {

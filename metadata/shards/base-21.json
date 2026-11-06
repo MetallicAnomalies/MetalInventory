@@ -1875,14 +1875,18 @@
       {
         "name": "Annochiül Xar Sorthïlazur",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Avant-garde Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
       "Progressive Metal",
       "Atmospheric Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "Avant-garde Black Death Metal"
     ]
   },
   {
@@ -4428,12 +4432,16 @@
       {
         "name": "Eremition",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Symphonic Power Metal"
+      "Symphonic Power Metal",
+      "Power Metal"
     ]
   },
   {

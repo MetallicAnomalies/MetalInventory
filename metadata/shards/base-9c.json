@@ -69,10 +69,14 @@
       {
         "name": "An Heir To All The Ills Of Flesh",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Technical Melodic Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Technical Melodic Death Metal"
+    ]
   },
   {
     "normalizedName": "allthatremains",
@@ -1321,11 +1325,16 @@
       {
         "name": "Certain Uncertainties",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Atmospheric Doom Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Atmospheric Doom Metal",
+      "Death Metal"
     ]
   },
   {
@@ -2051,7 +2060,9 @@
       {
         "name": "The Curse Of Khamun",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Thrash Metal"
+        ]
       },
       {
         "name": "Escape from Hell",

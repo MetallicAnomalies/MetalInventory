@@ -24,7 +24,9 @@
       {
         "name": "Beyond Eternity",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Power Metal"
+        ]
       },
       {
         "name": "Whisper in the Air",
@@ -1602,9 +1604,22 @@
         "name": "Demo EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Demo",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal",
+          "Hardcore",
+          "Screamo"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Post-Black Metal",
+      "Hardcore",
+      "Screamo"
+    ]
   },
   {
     "normalizedName": "ecthirion",
@@ -1908,7 +1923,10 @@
       {
         "name": "Mið",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Black Metal",
+          "Viking Metal"
+        ]
       },
       {
         "name": "Tales Of Trees",
@@ -3771,10 +3789,20 @@
         "genres": [
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Hot Hits, Heavy Hooves",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Stoner Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Stoner Metal"
+      "Stoner Metal",
+      "Psychedelic Stoner Metal",
+      "Doom Metal"
     ]
   },
   {

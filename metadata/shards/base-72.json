@@ -703,7 +703,9 @@
       {
         "name": "The Complex Permutation",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
@@ -4219,7 +4221,9 @@
       {
         "name": "Live In Latin America",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -4991,6 +4995,22 @@
       "Downtempo",
       "Trip Hop",
       "Ambient"
+    ]
+  },
+  {
+    "normalizedName": "zweihander",
+    "displayName": "Zweihänder",
+    "albums": [
+      {
+        "name": "Aventure",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
     ]
   },
   {

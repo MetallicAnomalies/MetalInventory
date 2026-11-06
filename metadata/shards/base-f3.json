@@ -1045,7 +1045,9 @@
       {
         "name": "Echoes",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Post-Black Metal"
+        ]
       },
       {
         "name": "Veritas",
@@ -1923,6 +1925,14 @@
       {
         "name": "Hesitating Lights",
         "year": "2025",
+        "genres": [
+          "Progressive Death Metal",
+          "Post-Punk"
+        ]
+      },
+      {
+        "name": "Hands of Hunger",
+        "year": "2026",
         "genres": [
           "Progressive Death Metal",
           "Post-Punk"
@@ -3700,6 +3710,22 @@
     ]
   },
   {
+    "normalizedName": "tardor",
+    "displayName": "Tardor",
+    "albums": [
+      {
+        "name": "La mort de l'esperança",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal"
+    ]
+  },
+  {
     "normalizedName": "terminalfunction",
     "displayName": "Terminal Function",
     "origin": "SE",
@@ -4131,6 +4157,22 @@
     ],
     "tags": [
       "Funeral Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "velipyr",
+    "displayName": "Velipyr",
+    "albums": [
+      {
+        "name": "True Misanthropy",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

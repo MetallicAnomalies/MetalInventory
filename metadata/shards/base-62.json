@@ -5064,10 +5064,16 @@
       {
         "name": "Dead Space Enigma",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Metal",
+          "Technical Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Progressive Metal",
+      "Technical Thrash Metal"
+    ]
   },
   {
     "normalizedName": "votov",

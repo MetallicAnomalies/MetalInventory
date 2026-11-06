@@ -3210,7 +3210,9 @@
       {
         "name": "Beware The Dark Future",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -3749,10 +3751,14 @@
       {
         "name": "When The Mist Falls…",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "rainbowgrave",

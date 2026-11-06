@@ -2018,10 +2018,14 @@
       {
         "name": "Mugwort",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "hjel",
@@ -2044,6 +2048,22 @@
       {
         "name": "Ein Letzter Winter",
         "year": "2019",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "houre",
+    "displayName": "Houre",
+    "albums": [
+      {
+        "name": "Viimeinen riitti",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

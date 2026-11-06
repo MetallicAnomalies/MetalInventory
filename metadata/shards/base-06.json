@@ -1411,6 +1411,22 @@
     ]
   },
   {
+    "normalizedName": "hellsent",
+    "displayName": "Hellsent",
+    "albums": [
+      {
+        "name": "Graveyard Harvest",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "hexicon",
     "displayName": "Hexicon",
     "albums": [
@@ -3038,6 +3054,24 @@
     ]
   },
   {
+    "normalizedName": "potvor",
+    "displayName": "Potvor",
+    "albums": [
+      {
+        "name": "Сострадание и гниение",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "profecium",
     "displayName": "Profecium",
     "albums": [
@@ -4062,7 +4096,10 @@
       {
         "name": "Ashes",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Power Metal",
+          "Heavy Metal"
+        ]
       },
       {
         "name": "Cry For The Fallen",

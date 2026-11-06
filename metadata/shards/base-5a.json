@@ -890,10 +890,16 @@
       {
         "name": "Awakening Of Ancient Evil",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal",
+          "Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal",
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "doomsilla",
@@ -2372,12 +2378,22 @@
           "Brutal Death Metal",
           "Goregrind"
         ]
+      },
+      {
+        "name": "Escharotomy / Maggot Vomit",
+        "year": "2026",
+        "genres": [
+          "Slam Metal",
+          "Brutal Death Metal",
+          "Goregrind"
+        ]
       }
     ],
     "tags": [
       "Slam Goregrind",
       "Brutal Death Metal",
-      "Goregrind"
+      "Goregrind",
+      "Slam Metal"
     ]
   },
   {

@@ -593,11 +593,16 @@
       {
         "name": "Chemical Poetry",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Symphonic Power Metal",
+          "Melodic Heavy Metal"
+        ]
       }
     ],
     "tags": [
-      "Operatic Power Metal"
+      "Operatic Power Metal",
+      "Symphonic Power Metal",
+      "Melodic Heavy Metal"
     ]
   },
   {
@@ -902,7 +907,10 @@
       {
         "name": "Drac",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Metal",
+          "Melodic Death Metal"
+        ]
       },
       {
         "name": "Dämmerlicht",
@@ -916,7 +924,8 @@
     "tags": [
       "Black Metal",
       "Progressive Melodic Death Metal",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Progressive Metal"
     ]
   },
   {
@@ -4077,12 +4086,17 @@
       {
         "name": "All That Glimmers Is Gloam",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Death Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Experimental Black Metal",
-      "Blackened Death Metal"
+      "Blackened Death Metal",
+      "Black Death Metal",
+      "Death Metal"
     ]
   },
   {

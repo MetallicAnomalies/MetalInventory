@@ -1247,7 +1247,11 @@
       {
         "name": "The Age Of Quarrel: 40 Years Of Quarrel",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Thrash Metal",
+          "Crossover Punk",
+          "Hardcore Punk"
+        ]
       }
     ],
     "tags": [
@@ -1256,7 +1260,8 @@
       "Punk",
       "Thrash Metal",
       "Crossover Hardcore Punk",
-      "Hardcore Punk"
+      "Hardcore Punk",
+      "Crossover Punk"
     ]
   },
   {
@@ -3333,10 +3338,16 @@
       {
         "name": "The Sourceless Scourge",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Experimental Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Experimental Death Thrash Metal",
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "okkultist",
@@ -3537,10 +3548,14 @@
       {
         "name": "Klaagliederen",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
   },
   {
     "normalizedName": "prophilax",

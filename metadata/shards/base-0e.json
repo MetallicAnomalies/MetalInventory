@@ -3122,7 +3122,11 @@
       {
         "name": "Hate To Go (Take Out Or Delivery)",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "New Wave, Industrial Metal",
+          "Electronic",
+          "Industrial Rock"
+        ]
       }
     ],
     "tags": [
@@ -3130,7 +3134,9 @@
       "Synth-pop",
       "Heavy Metal",
       "Electronic",
-      "Hard Rock"
+      "Hard Rock",
+      "New Wave, Industrial Metal",
+      "Industrial Rock"
     ]
   },
   {
@@ -5572,11 +5578,16 @@
       {
         "name": "Serpent Hordes",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Blackened Thrash Metal"
+      "Blackened Thrash Metal",
+      "Black Metal",
+      "Thrash Metal"
     ]
   },
   {

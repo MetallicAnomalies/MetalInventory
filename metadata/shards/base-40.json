@@ -1359,6 +1359,22 @@
     ]
   },
   {
+    "normalizedName": "devouringfamine",
+    "displayName": "Devouring Famine",
+    "albums": [
+      {
+        "name": "A Testament to Nothing",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "digitalsummer",
     "displayName": "Digital Summer",
     "origin": "US",
@@ -3844,10 +3860,14 @@
       {
         "name": "Empires Of Ash",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
   },
   {
     "normalizedName": "oblivionmachine",

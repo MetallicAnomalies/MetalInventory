@@ -362,7 +362,10 @@
       {
         "name": "The Ashes Where Our Hopes Lie",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Speed Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -2234,10 +2237,14 @@
       {
         "name": "Heaven’s Bloated Corpse",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "legacyofalostaeon",
@@ -4085,7 +4092,10 @@
       {
         "name": "Ozymandias",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Gothic Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [

@@ -2379,11 +2379,15 @@
       {
         "name": "Deathbringer",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Speed Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Speed Metal"
     ]
   },
   {

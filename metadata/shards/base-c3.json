@@ -2068,10 +2068,16 @@
       {
         "name": "Aavan Suon Tuolle Puolen",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal",
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Heavy Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "kinbeneathchorus",
@@ -3336,11 +3342,20 @@
         "genres": [
           "Melodic Black Metal"
         ]
+      },
+      {
+        "name": "Murder Machine",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
       "Melodic Black Metal",
-      "Black Metal"
+      "Black Metal",
+      "Metalcore"
     ]
   },
   {

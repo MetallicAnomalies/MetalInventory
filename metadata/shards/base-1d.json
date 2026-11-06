@@ -3307,6 +3307,13 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "The Curse of Neck Cemetery",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -3531,7 +3538,9 @@
       {
         "name": "Abyss",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       },
       {
         "name": "Dishonored Death",

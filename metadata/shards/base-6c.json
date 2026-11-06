@@ -2568,10 +2568,14 @@
       {
         "name": "The Burden Of Storms",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Melodic Doom Metal"
+    ]
   },
   {
     "normalizedName": "opusarise",
@@ -4253,6 +4257,22 @@
     ],
     "tags": [
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "veganal",
+    "displayName": "Veganal",
+    "albums": [
+      {
+        "name": "Veganal",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

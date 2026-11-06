@@ -353,7 +353,9 @@
       {
         "name": "Live At Hellfest 2022",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Post-Black Metal, Shoegaze"
+        ]
       }
     ],
     "tags": [
@@ -364,7 +366,8 @@
       "Post-Rock",
       "Indie Rock",
       "Black Metal",
-      "Rock"
+      "Rock",
+      "Post-Black Metal, Shoegaze"
     ]
   },
   {
@@ -859,10 +862,16 @@
       {
         "name": "Addicted To Any Kind Of Rot",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Brutal Death Metal",
+          "Grindcore"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Brutal Death Metal",
+      "Grindcore"
+    ]
   },
   {
     "normalizedName": "barukkhazad",
@@ -1609,10 +1618,14 @@
       {
         "name": "Misères",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "dreadnought",
@@ -2557,6 +2570,13 @@
     "albums": [
       {
         "name": "Tales from the Underworld Part 2",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal"
+        ]
+      },
+      {
+        "name": "Troublemaker",
         "year": "2026",
         "genres": [
           "Stoner Metal"

@@ -1,5 +1,21 @@
 [
   {
+    "normalizedName": "23",
+    "displayName": "23",
+    "albums": [
+      {
+        "name": "Something Wicked",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "aciddrinkers",
     "displayName": "Acid Drinkers",
     "albums": [

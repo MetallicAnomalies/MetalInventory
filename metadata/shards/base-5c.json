@@ -714,10 +714,16 @@
       {
         "name": "-I- The Forge",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom Metal",
+          "Heavy Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Doom Metal",
+      "Heavy Metal"
+    ]
   },
   {
     "normalizedName": "cristalnegro",
@@ -2468,7 +2474,9 @@
       {
         "name": "Osyron",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [

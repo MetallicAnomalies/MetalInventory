@@ -1831,11 +1831,14 @@
       {
         "name": "Turmoil",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal, Grindcore"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Death Metal, Grindcore"
     ]
   },
   {
@@ -2226,10 +2229,18 @@
       {
         "name": "One Eye Opens",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Stoner Metal",
+          "Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Stoner Metal",
+      "Heavy Metal",
+      "Hard Rock"
+    ]
   },
   {
     "normalizedName": "katari",
@@ -3123,6 +3134,22 @@
     ],
     "tags": [
       "Symphonic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "nist",
+    "displayName": "Ništ",
+    "albums": [
+      {
+        "name": "Last Winter",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -6852,7 +6879,9 @@
       {
         "name": "Tronen",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -6918,12 +6947,15 @@
       {
         "name": "O Come Forth Annihilation",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Post-Black Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Post-Metal"
+      "Post-Metal",
+      "Post-Black Metal"
     ]
   },
   {

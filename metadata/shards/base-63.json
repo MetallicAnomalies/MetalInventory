@@ -4127,11 +4127,22 @@
           "Progressive Metal",
           "Instrumental"
         ]
+      },
+      {
+        "name": "Blast Squad Obos",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Stoner Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Instrumental"
+      "Instrumental",
+      "Stoner Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -5013,6 +5024,32 @@
     "tags": [
       "Heavy Metal",
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "velh",
+    "displayName": "Vëlh",
+    "albums": [
+      {
+        "name": "Dream I",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Metal",
+          "Raw Black Metal"
+        ]
+      },
+      {
+        "name": "L'evanescenza dell'essere",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Metal",
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Metal",
+      "Raw Black Metal"
     ]
   },
   {

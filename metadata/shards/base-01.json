@@ -1547,7 +1547,9 @@
       {
         "name": "Desacralization",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2832,6 +2834,26 @@
     ]
   },
   {
+    "normalizedName": "leiyunli",
+    "displayName": "LeiYunLi",
+    "albums": [
+      {
+        "name": "Insomnia",
+        "year": "2026",
+        "genres": [
+          "Symphonic Ambient",
+          "Folk Ambient",
+          "Power Metal, Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Ambient",
+      "Folk Ambient",
+      "Power Metal, Ambient"
+    ]
+  },
+  {
     "normalizedName": "lightning",
     "displayName": "Lightning",
     "albums": [
@@ -3856,10 +3878,18 @@
       {
         "name": "Simulacron",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Sludge Metal",
+          "Doom Metal",
+          "Post-Rock"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Sludge Metal",
+      "Doom Metal",
+      "Post-Rock"
+    ]
   },
   {
     "normalizedName": "shukidorit",
@@ -4314,7 +4344,9 @@
       {
         "name": "Slay Kill Erase",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [

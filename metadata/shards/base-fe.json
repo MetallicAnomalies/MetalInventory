@@ -1183,11 +1183,15 @@
       {
         "name": "Reflect To Rewind: A Rarities Collection",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Stoner Rock",
+          "Metal"
+        ]
       }
     ],
     "tags": [
-      "Stoner Metal"
+      "Stoner Metal",
+      "Stoner Rock"
     ]
   },
   {
@@ -1459,7 +1463,9 @@
       {
         "name": "Cosmic Heavy Doom",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom Metal"
+        ]
       },
       {
         "name": "Old Master",

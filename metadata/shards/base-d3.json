@@ -1677,12 +1677,17 @@
       {
         "name": "Time Of Danger",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
       "Deathgrind",
-      "Sludge Metal"
+      "Sludge Metal",
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {
@@ -2695,13 +2700,16 @@
       {
         "name": "Esoteric Order Of Debauchery",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Electronic",
       "Noise",
-      "Punk"
+      "Punk",
+      "Death Metal"
     ]
   },
   {
@@ -3836,7 +3844,9 @@
       {
         "name": "Nychta Psychis",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Avant-garde Black Metal"
+        ]
       },
       {
         "name": "Dødheimsgard",

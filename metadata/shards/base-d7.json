@@ -41,7 +41,9 @@
       {
         "name": "Needs Must When The Devil Drives",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -3511,10 +3513,14 @@
       {
         "name": "Mud Teeth",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "seeker",

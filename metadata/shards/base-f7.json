@@ -360,6 +360,22 @@
     ]
   },
   {
+    "normalizedName": "badatlife",
+    "displayName": "Bad at Life",
+    "albums": [
+      {
+        "name": "Live in Prison",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "bansidh",
     "displayName": "Bansidh",
     "albums": [
@@ -721,10 +737,14 @@
       {
         "name": "The Explorer",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Melodic Death Metal"
+    ]
   },
   {
     "normalizedName": "calltheparamedics",
@@ -1087,10 +1107,16 @@
       {
         "name": "Perverse Craving For Rotting Corpses",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
+    ]
   },
   {
     "normalizedName": "crownshift",
@@ -7087,7 +7113,9 @@
       {
         "name": "Hour Of The Wolf",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [

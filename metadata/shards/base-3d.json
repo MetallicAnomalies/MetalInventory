@@ -481,7 +481,9 @@
       {
         "name": "Beswærilsin",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       },
       {
         "name": "Mz Fianda Raþi",
@@ -2529,12 +2531,16 @@
       {
         "name": "Into Your Nightmare",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Blackened Speed Metal",
+          "Punk"
+        ]
       }
     ],
     "tags": [
       "Speed Metal",
-      "Punk"
+      "Punk",
+      "Blackened Speed Metal"
     ]
   },
   {

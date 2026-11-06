@@ -1060,11 +1060,16 @@
       {
         "name": "Reset",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Heavy Metal",
+      "Hard Rock"
     ]
   },
   {
@@ -2401,7 +2406,9 @@
       {
         "name": "Korplish Sedamon",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3251,6 +3258,24 @@
     ]
   },
   {
+    "normalizedName": "mortuaire",
+    "displayName": "Mortuaire",
+    "albums": [
+      {
+        "name": "Fléau du cosmos",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "motorsister",
     "displayName": "Motor Sister",
     "albums": [
@@ -3982,7 +4007,9 @@
       {
         "name": "Against",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [

@@ -326,6 +326,22 @@
     ]
   },
   {
+    "normalizedName": "apocalypseconspiracy",
+    "displayName": "Apocalypse Conspiracy",
+    "albums": [
+      {
+        "name": "Relentless",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "apotheosis",
     "displayName": "Apotheosis",
     "albums": [
@@ -1507,7 +1523,9 @@
       {
         "name": "The Water Taste Of Blood",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Symphonic Metal"
+        ]
       },
       {
         "name": "Liars Linger",
@@ -3113,13 +3131,22 @@
           "Folk Black Metal",
           "Black Metal"
         ]
+      },
+      {
+        "name": "Metsän ruhtinas",
+        "year": "2026",
+        "genres": [
+          "Folk Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
       "Power Metal",
       "Folk Black Metal",
-      "Black Metal"
+      "Black Metal",
+      "Folk Metal"
     ]
   },
   {
@@ -3566,10 +3593,14 @@
       {
         "name": "Gloria ad Inferi",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "sinful",
@@ -4038,7 +4069,9 @@
       {
         "name": "XIII: Sárga erdő",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Avant-garde Metal"
+        ]
       },
       {
         "name": "Búcsú a piros madártól",
