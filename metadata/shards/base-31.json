@@ -1509,7 +1509,10 @@
       {
         "name": "For The World Of The Obsolete",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Death Metal",
+          "Heavy Metal"
+        ]
       },
       {
         "name": "Red Giraffe",
@@ -1518,11 +1521,20 @@
           "Melodic Death Heavy Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Satumaa-tango",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Heavy Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Melodic Death Metal"
     ]
   },
   {
@@ -3698,12 +3710,18 @@
       {
         "name": "Songs To Moon",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom Rock",
+          "Stoner Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Stoner Metal"
+      "Stoner Metal",
+      "Doom Rock",
+      "Rock"
     ]
   },
   {
@@ -4727,6 +4745,22 @@
     "tags": [
       "Industrial Black Metal",
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "veroocktiaz",
+    "displayName": "Veröocktiaz",
+    "albums": [
+      {
+        "name": "Symbols in the Winter Night",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

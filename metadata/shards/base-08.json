@@ -1737,12 +1737,17 @@
       {
         "name": "Titanblood",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Power Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Power Metal"
+      "Power Metal",
+      "Progressive Power Metal",
+      "Speed Metal"
     ]
   },
   {
@@ -1824,13 +1829,18 @@
       {
         "name": "Forty Miles Of Bad Road",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal",
+          "Doom Metal",
+          "Punk"
+        ]
       }
     ],
     "tags": [
       "Heavy Punk",
       "Doom Metal",
-      "Punk"
+      "Punk",
+      "Heavy Metal"
     ]
   },
   {
@@ -3488,7 +3498,9 @@
       {
         "name": "Immortality Through Ashes",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Blackened Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3560,11 +3572,16 @@
       {
         "name": "Encased In Deathlike Layers",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Death Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -3937,13 +3954,16 @@
       {
         "name": "Malignant Reveries",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "NWOBHM",
       "Heavy Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Death Metal"
     ]
   },
   {

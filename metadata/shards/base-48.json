@@ -5661,10 +5661,16 @@
       {
         "name": "Vision Beyond Form",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom",
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Doom",
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "wretchedpath",

@@ -609,11 +609,16 @@
       {
         "name": "Antillia",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Technical Metal",
+          "Progressive Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Technical Death Metal"
+      "Technical Death Metal",
+      "Technical Metal",
+      "Progressive Death Metal"
     ]
   },
   {
@@ -2158,7 +2163,10 @@
       {
         "name": "Where Foxes Say Goodnight",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Post-Black Metal",
+          "Dark Ambient"
+        ]
       }
     ],
     "tags": [

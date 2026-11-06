@@ -972,10 +972,14 @@
       {
         "name": "Galactic Pain",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Epic Heavy Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Epic Heavy Metal"
+    ]
   },
   {
     "normalizedName": "darkincognito",
@@ -1304,7 +1308,11 @@
       {
         "name": "Aura Of Decay",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Technical Death Metal",
+          "Progressive Death Rock",
+          "Thrash Metal, Alternative Rock"
+        ]
       },
       {
         "name": "Disintegrate",
@@ -1340,7 +1348,9 @@
       "Progressive Death Thrash Metal",
       "Christian Rock",
       "Progressive Metal",
-      "Norsk Rock"
+      "Norsk Rock",
+      "Progressive Death Rock",
+      "Thrash Metal, Alternative Rock"
     ]
   },
   {

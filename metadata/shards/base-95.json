@@ -1878,11 +1878,15 @@
       {
         "name": "Atropa",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Atmospheric Doom Metal",
+          "Post-Metal"
+        ]
       }
     ],
     "tags": [
-      "Post-Metal"
+      "Post-Metal",
+      "Atmospheric Doom Metal"
     ]
   },
   {

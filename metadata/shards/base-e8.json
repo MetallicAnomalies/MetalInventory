@@ -367,10 +367,16 @@
       {
         "name": "The Spider’s Code",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Thrash Metal",
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Thrash Metal",
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "apophasis",
@@ -1483,6 +1489,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "emetropia",
+    "displayName": "Emetropia",
+    "albums": [
+      {
+        "name": "Determination / Passions",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Metal"
     ]
   },
   {
@@ -2947,11 +2969,20 @@
           "Death Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Petrol and Spark",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Thrash Metal"
     ]
   },
   {

@@ -1238,6 +1238,14 @@
           "Progressive Rock",
           "Djent"
         ]
+      },
+      {
+        "name": "The Moth (The War - Live in Groningen)",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Rock, Ambient"
+        ]
       }
     ],
     "tags": [
@@ -1252,7 +1260,8 @@
       "Acoustic",
       "Calm",
       "Acoustic Rock",
-      "Soothing"
+      "Soothing",
+      "Rock, Ambient"
     ]
   },
   {
@@ -2276,6 +2285,22 @@
     ]
   },
   {
+    "normalizedName": "isivred",
+    "displayName": "Isivred",
+    "albums": [
+      {
+        "name": "Vitreous Delirium",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "jade",
     "displayName": "Jade",
     "origin": "US",
@@ -2961,10 +2986,16 @@
       {
         "name": "White Mourning",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom",
+          "Post-Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Doom",
+      "Post-Metal"
+    ]
   },
   {
     "normalizedName": "paralyzed",
@@ -4387,6 +4418,22 @@
     ],
     "tags": [
       "Atmospheric Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "wolvendaughter",
+    "displayName": "Wolven Daughter",
+    "albums": [
+      {
+        "name": "Carved by Satan's Blade",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

@@ -2078,10 +2078,16 @@
       {
         "name": "Abysses Of Melancholia",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom Post-Metal",
+          "Post-Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Doom Post-Metal",
+      "Post-Metal"
+    ]
   },
   {
     "normalizedName": "michellebranch",
@@ -3177,6 +3183,24 @@
       "Alternative Rock",
       "Rock",
       "Grunge"
+    ]
+  },
+  {
+    "normalizedName": "termiinuslight",
+    "displayName": "Termiinus Light",
+    "albums": [
+      {
+        "name": "Light Shattered Torn Within",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Black Metal"
     ]
   },
   {

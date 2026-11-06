@@ -1284,6 +1284,24 @@
     ]
   },
   {
+    "normalizedName": "dissentomy",
+    "displayName": "Dissentomy",
+    "albums": [
+      {
+        "name": "Devourer of the Forgotten",
+        "year": "2026",
+        "genres": [
+          "Slam Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Metal",
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "doro",
     "displayName": "Doro",
     "albums": [
@@ -1502,7 +1520,9 @@
       {
         "name": "Wild At Heart",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal"
+        ]
       },
       {
         "name": "You R Not Alone",
@@ -2269,12 +2289,20 @@
           "Black Metal",
           "Post-Metal"
         ]
+      },
+      {
+        "name": "Reliving the Trauma - Live at Theater Akzent Vienna",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
       "Post-Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Post-Black Metal"
     ]
   },
   {

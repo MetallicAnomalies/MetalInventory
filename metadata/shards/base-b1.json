@@ -4597,12 +4597,16 @@
       {
         "name": "The Great Jihad",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Funeral Doom Metal",
+          "Funeral Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Funeral Doom Metal"
+      "Funeral Doom Metal",
+      "Black Funeral Doom Metal"
     ]
   },
   {
@@ -4689,12 +4693,16 @@
       {
         "name": "Demons Left To Roam",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Stoner Metal"
+      "Stoner Metal",
+      "Stoner Doom Metal"
     ]
   },
   {

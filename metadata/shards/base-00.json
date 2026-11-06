@@ -804,10 +804,16 @@
       {
         "name": "Burnt Witch",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Stoner Metal",
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Stoner Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "causticsui",
@@ -4138,10 +4144,14 @@
       {
         "name": "Wyrm Chasm",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "xazraug",

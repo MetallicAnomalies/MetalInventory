@@ -369,7 +369,9 @@
       {
         "name": "Khamsin",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -4230,6 +4232,22 @@
     "tags": [
       "Death Doom Metal",
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "skandalum",
+    "displayName": "Skandalum",
+    "albums": [
+      {
+        "name": "Odium Deificatum",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

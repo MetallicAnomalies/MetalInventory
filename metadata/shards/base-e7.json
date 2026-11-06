@@ -378,7 +378,9 @@
       {
         "name": "Echoes Of The Astrolith",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
@@ -4507,12 +4509,15 @@
       {
         "name": "Consecration",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Post-Black Metal"
+        ]
       }
     ],
     "tags": [
       "Post-Metal",
-      "Black Metal"
+      "Black Metal",
+      "Post-Black Metal"
     ]
   },
   {

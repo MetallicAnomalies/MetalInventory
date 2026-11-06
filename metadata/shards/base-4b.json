@@ -2663,10 +2663,21 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Shattered Past",
+        "year": "2026",
+        "genres": [
+          "Alternative Rock",
+          "Industrial",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Alternative Rock",
+      "Industrial"
     ]
   },
   {
@@ -4187,12 +4198,22 @@
         "name": "Valcata",
         "year": "2019",
         "genres": [
-          "Symphonic Progressive"
+          "Symphonic Progressive Metal"
+        ]
+      },
+      {
+        "name": "The Dark Past the Stars",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Progressive Metal"
         ]
       }
     ],
     "tags": [
-      "Symphonic Progressive"
+      "Symphonic Progressive Metal",
+      "Symphonic Metal",
+      "Progressive Metal"
     ]
   },
   {

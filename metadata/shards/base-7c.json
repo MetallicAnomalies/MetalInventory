@@ -1,5 +1,23 @@
 [
   {
+    "normalizedName": "absolutism",
+    "displayName": "Absolutism",
+    "albums": [
+      {
+        "name": "Cosmic Engines",
+        "year": "2026",
+        "genres": [
+          "Technical Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Technical Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "accessdenied",
     "displayName": "Access Denied",
     "albums": [
@@ -2640,11 +2658,20 @@
         "genres": [
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "At the Spirals End",
+        "year": "2026",
+        "genres": [
+          "Technical Thrash Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
       "Technical Thrash Metal",
-      "Progressive Metal"
+      "Progressive Metal",
+      "Speed Metal"
     ]
   },
   {

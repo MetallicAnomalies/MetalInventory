@@ -1112,10 +1112,14 @@
       {
         "name": "Desecration",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Brutal Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Brutal Death Metal"
+    ]
   },
   {
     "normalizedName": "crystallion",
@@ -3219,7 +3223,9 @@
       {
         "name": "Ruin",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -3465,7 +3471,11 @@
       {
         "name": "Peeling Flesh",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Slam Metal",
+          "Brutal Death Metal",
+          "Hardcore"
+        ]
       },
       {
         "name": "Crackology",
@@ -3481,7 +3491,8 @@
       "Brutal Death Metal",
       "Deathcore",
       "Slam Hardcore",
-      "Hardcore"
+      "Hardcore",
+      "Slam Metal"
     ]
   },
   {
@@ -4155,7 +4166,10 @@
       {
         "name": "Beyond Spacetime",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Metal",
+          "Power Metal"
+        ]
       },
       {
         "name": "Time to Pay",
@@ -4774,6 +4788,22 @@
       "Stage & Screen",
       "Soundtrack",
       "Modern Classical"
+    ]
+  },
+  {
+    "normalizedName": "yua",
+    "displayName": "Yua",
+    "albums": [
+      {
+        "name": "Srostlice",
+        "year": "2026",
+        "genres": [
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Metal"
     ]
   },
   {

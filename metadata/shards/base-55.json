@@ -1931,7 +1931,10 @@
       {
         "name": "Blood Of The Innocent",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -3275,6 +3278,22 @@
     "tags": [
       "Brutal Death Metal",
       "Technical Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "pennycoffin",
+    "displayName": "Penny Coffin",
+    "albums": [
+      {
+        "name": "Transitory Fragmentation",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

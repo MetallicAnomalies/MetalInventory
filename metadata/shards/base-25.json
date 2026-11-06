@@ -2618,13 +2618,20 @@
       {
         "name": "Einsemda",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Folk",
+          "Rock, Folk Rock",
+          "Progressive Rock"
+        ]
       }
     ],
     "tags": [
       "Viking Folk",
       "Neofolk",
-      "Folk Rock"
+      "Folk Rock",
+      "Folk",
+      "Rock, Folk Rock",
+      "Progressive Rock"
     ]
   },
   {

@@ -439,6 +439,22 @@
     "tags": []
   },
   {
+    "normalizedName": "cał",
+    "displayName": "~ CAŁ● ~",
+    "albums": [
+      {
+        "name": "Zanim Minie Ciemność",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Avant-garde Black Metal"
+    ]
+  },
+  {
     "normalizedName": "cellgraft",
     "displayName": "Cellgraft",
     "albums": [
@@ -1084,10 +1100,18 @@
       {
         "name": "Songs For The Rain God Pt. 2",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Sludge Metal",
+          "Progressive Metal",
+          "Stoner Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Sludge Metal",
+      "Progressive Metal",
+      "Stoner Metal"
+    ]
   },
   {
     "normalizedName": "embraze",

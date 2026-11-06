@@ -1894,6 +1894,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Chainsaw Cult",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2838,12 +2845,17 @@
       {
         "name": "Satanic Attack Live!",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
       "Black 'n' Roll",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Black Metal",
+      "Speed Metal"
     ]
   },
   {

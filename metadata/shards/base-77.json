@@ -36,7 +36,9 @@
       {
         "name": "Call Of The Abyss",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -2802,10 +2804,14 @@
       {
         "name": "The Harlot’s Wake",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "manstrand",

@@ -1217,10 +1217,16 @@
       {
         "name": "Realms Of Sin",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal",
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "demiurg",

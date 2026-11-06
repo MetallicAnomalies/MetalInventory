@@ -1549,6 +1549,26 @@
     ]
   },
   {
+    "normalizedName": "drawnfromichor",
+    "displayName": "Drawn from Ichor",
+    "albums": [
+      {
+        "name": "A Tithe to Hell",
+        "year": "2026",
+        "genres": [
+          "Sludge Industrial Metal",
+          "Industrial",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Industrial Metal",
+      "Industrial",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "drengskapur",
     "displayName": "Drengskapur",
     "albums": [
@@ -5054,9 +5074,15 @@
       {
         "name": "Turn It Off",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Metal",
+          "Heavy Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Progressive Metal",
+      "Heavy Metal"
+    ]
   }
 ]

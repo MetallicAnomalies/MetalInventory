@@ -3093,12 +3093,18 @@
       {
         "name": "To Burn Is To Shine",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal",
+          "Avant-garde Electronic",
+          "Electronic"
+        ]
       }
     ],
     "tags": [
       "Electro Avant-garde",
-      "Black Metal"
+      "Black Metal",
+      "Avant-garde Electronic",
+      "Electronic"
     ]
   },
   {
@@ -3476,10 +3482,16 @@
       {
         "name": "Across",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Technical Metal",
+          "Progressive Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Technical Metal",
+      "Progressive Death Metal"
+    ]
   },
   {
     "normalizedName": "nattefrost",
@@ -4696,10 +4708,14 @@
       {
         "name": "Drachenkreuz",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "seidr",

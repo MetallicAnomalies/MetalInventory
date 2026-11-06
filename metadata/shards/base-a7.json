@@ -423,7 +423,9 @@
       {
         "name": "Solips",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2683,11 +2685,20 @@
         "genres": [
           "Avant-garde Metal"
         ]
+      },
+      {
+        "name": "Rotting Away",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Metal",
+          "Electronic"
+        ]
       }
     ],
     "tags": [
       "Avant-garde Metal",
-      "Black Metal"
+      "Black Metal",
+      "Electronic"
     ]
   },
   {
@@ -4653,6 +4664,24 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "slowrot",
+    "displayName": "Slowrot",
+    "albums": [
+      {
+        "name": "Ripe for the Guillotine",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {

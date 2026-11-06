@@ -3093,6 +3093,22 @@
     ]
   },
   {
+    "normalizedName": "mirrorofdeceptionmortajas",
+    "displayName": "Mirror of Deception/Mortajas",
+    "albums": [
+      {
+        "name": "Mirror of Deception & Mortajas",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "misery",
     "displayName": "Misery",
     "albums": [
@@ -3165,10 +3181,16 @@
       {
         "name": "Perceptions From A Dark Earth",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Stoner Metal",
+      "Rock"
+    ]
   },
   {
     "normalizedName": "moyra",

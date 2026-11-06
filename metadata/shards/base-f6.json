@@ -240,10 +240,14 @@
       {
         "name": "The Dead Sea Scrolls",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Progressive Death Metal"
+    ]
   },
   {
     "normalizedName": "anthem",
@@ -4483,7 +4487,10 @@
       {
         "name": "De-Extinction",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Hardcore"
+        ]
       },
       {
         "name": "Dissection by Design",

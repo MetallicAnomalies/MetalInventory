@@ -6,10 +6,16 @@
       {
         "name": "Witness To A Dying World",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Thrash Metal",
+          "Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Thrash Metal",
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "acheron",
@@ -1919,7 +1925,9 @@
       {
         "name": "Sphärenschänder: Echoes Of An Old Belief – Part I",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Pagan Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2347,11 +2355,30 @@
       {
         "name": "Liminal",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Death Metal"
+      "Progressive Death Metal",
+      "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "krucifixionwoodskangastus",
+    "displayName": "Krucifixion Woods/Kangastus",
+    "albums": [
+      {
+        "name": "Krucifixion Woods / Kangastus",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3650,7 +3677,11 @@
       {
         "name": "Chronophage",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal",
+          "Thrash Metal",
+          "Crust Punk"
+        ]
       }
     ],
     "tags": [

@@ -1387,6 +1387,22 @@
     ]
   },
   {
+    "normalizedName": "frostgoroth",
+    "displayName": "Frostgoroth",
+    "albums": [
+      {
+        "name": "Frost Landscapes",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "ghostatlas",
     "displayName": "Ghost Atlas",
     "origin": "SE",
@@ -1509,6 +1525,22 @@
       "Classic Rock",
       "Rock & Roll",
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "grunk",
+    "displayName": "Grunk",
+    "albums": [
+      {
+        "name": "Ctrl Alt Blstbt",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore"
     ]
   },
   {
@@ -1788,7 +1820,9 @@
       {
         "name": "Caustic Maelstrom",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2969,7 +3003,9 @@
       {
         "name": "Bitter Harvest",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Death Metal"
+        ]
       },
       {
         "name": "Iron Maiden",

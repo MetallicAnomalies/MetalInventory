@@ -466,10 +466,16 @@
       {
         "name": "Eye Of The Monolithicrypt",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "blindguardian",
@@ -1558,11 +1564,16 @@
       {
         "name": "Vitriolic Baptism",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Slam Brutal Death Metal",
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Slam Brutal Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {
@@ -3452,10 +3463,16 @@
       {
         "name": "King Of Nothing",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal",
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "robledo",

@@ -999,6 +999,22 @@
     ]
   },
   {
+    "normalizedName": "balberskult",
+    "displayName": "Balberskult",
+    "albums": [
+      {
+        "name": "Kunneschdouch",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "barcode",
     "displayName": "Barcode",
     "albums": [
@@ -1696,7 +1712,10 @@
       {
         "name": "Volume V",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Southern Metal",
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
@@ -1706,7 +1725,8 @@
       "Hard Rock",
       "Southern Rock",
       "Stoner Rock",
-      "Rock"
+      "Rock",
+      "Southern Metal"
     ]
   },
   {

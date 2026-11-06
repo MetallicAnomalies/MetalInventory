@@ -449,11 +449,16 @@
       {
         "name": "Paradox Of The Arrow",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Doom",
+      "Death Metal"
     ]
   },
   {
@@ -616,6 +621,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "aztecvampires",
+    "displayName": "Aztec Vampires",
+    "albums": [
+      {
+        "name": "Macabre Tales of Death and Darkness",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {
@@ -2697,6 +2718,22 @@
     ],
     "tags": [
       "Gothic Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "lucernehammer",
+    "displayName": "Lucerne Hammer",
+    "albums": [
+      {
+        "name": "Spell of Rain",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

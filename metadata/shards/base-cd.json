@@ -3730,6 +3730,22 @@
     "tags": []
   },
   {
+    "normalizedName": "stormking",
+    "displayName": "Storm King",
+    "albums": [
+      {
+        "name": "Lands Beyond the Light",
+        "year": "2026",
+        "genres": [
+          "Black Metal, Dark Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal, Dark Ambient"
+    ]
+  },
+  {
     "normalizedName": "strikemaster",
     "displayName": "Strike Master",
     "albums": [
@@ -4087,10 +4103,16 @@
       {
         "name": "A Tale For Two",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Stoner Metal",
+          "Sludge Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Stoner Metal",
+      "Sludge Metal"
+    ]
   },
   {
     "normalizedName": "undying",

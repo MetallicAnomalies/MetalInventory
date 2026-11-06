@@ -1085,6 +1085,29 @@
     "tags": []
   },
   {
+    "normalizedName": "dorssa",
+    "displayName": "Dorssa",
+    "albums": [
+      {
+        "name": "Dorssa",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "It Does Not End Here",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "drownedinsilver",
     "displayName": "Drowned In Silver",
     "albums": [
@@ -2477,7 +2500,12 @@
       {
         "name": "Black Magick Abraxas",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Industrial Rock",
+          "EBM",
+          "Electronic",
+          "Melodic Groove Metal"
+        ]
       },
       {
         "name": "Abraxas Rising",
@@ -2498,7 +2526,8 @@
       "Hard Rock",
       "Industrial Rock",
       "Electronic Industrial Rock",
-      "Melodic Groove Metal"
+      "Melodic Groove Metal",
+      "Electronic"
     ]
   },
   {
@@ -4727,6 +4756,14 @@
       {
         "name": "Lick The Flesh",
         "year": "2022",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Pleasure Drive",
+        "year": "2026",
         "genres": [
           "Black Metal",
           "Death Metal"

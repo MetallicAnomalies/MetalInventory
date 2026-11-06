@@ -1761,14 +1761,17 @@
       {
         "name": "Trame Noire",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
       "Experimental Progressive Metal",
       "Math Metal",
       "Metalcore",
-      "Post-Metal"
+      "Post-Metal",
+      "Progressive Metal"
     ]
   },
   {
@@ -4612,11 +4615,20 @@
           "Death Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "I Never Forget (Variation 2026)",
+        "year": "2026",
+        "genres": [
+          "Industrial Thrash Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Industrial Thrash Metal"
     ]
   }
 ]

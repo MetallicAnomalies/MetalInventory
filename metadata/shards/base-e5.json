@@ -589,10 +589,14 @@
       {
         "name": "Equilibrium",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "bloodygoatkommando",
@@ -600,6 +604,13 @@
     "albums": [
       {
         "name": "Supernova Tenebrae",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      },
+      {
+        "name": "The Return of LSSAH",
         "year": "2026",
         "genres": [
           "Raw Black Metal"

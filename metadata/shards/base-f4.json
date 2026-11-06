@@ -3235,6 +3235,14 @@
           "Heavy Power Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "Rebuilt by Force",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -4698,11 +4706,20 @@
           "Doom Metal",
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "Slough of Despond",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Sludge Metal"
+      "Sludge Metal",
+      "Doom"
     ]
   },
   {
@@ -5401,10 +5418,18 @@
         "genres": [
           "Depressive Black Metal"
         ]
+      },
+      {
+        "name": "Frostbound Inferno",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Depressive Black Metal"
+      "Depressive Black Metal",
+      "Melodic Black Metal"
     ]
   },
   {

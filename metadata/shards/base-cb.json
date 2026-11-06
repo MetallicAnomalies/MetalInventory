@@ -2678,12 +2678,16 @@
       {
         "name": "The Void Of Time",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Black Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Progressive Black Metal"
     ]
   },
   {
@@ -3215,10 +3219,18 @@
         "genres": [
           "Symphonic Black Metal"
         ]
+      },
+      {
+        "name": "Ceremonial Death",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Black Metal"
+      "Symphonic Black Metal",
+      "Atmospheric Black Metal"
     ]
   },
   {

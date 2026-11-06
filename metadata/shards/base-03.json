@@ -242,11 +242,16 @@
       {
         "name": "Beyond The Grave",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal",
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Heavy Metal"
+      "Progressive Heavy Metal",
+      "Heavy Metal",
+      "Progressive Metal"
     ]
   },
   {
@@ -1801,7 +1806,10 @@
       {
         "name": "Halla",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Death Metal",
+          "Black Metal"
+        ]
       },
       {
         "name": "Päätösmatka",
@@ -3192,6 +3200,22 @@
     "tags": [
       "Black Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "pryne",
+    "displayName": "Pryne",
+    "albums": [
+      {
+        "name": "In Reap",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
     ]
   },
   {

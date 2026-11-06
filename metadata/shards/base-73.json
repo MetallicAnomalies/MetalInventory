@@ -2461,7 +2461,9 @@
       {
         "name": "Mercy To The Miserable",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2857,12 +2859,17 @@
       {
         "name": "The Annihilation Chalice",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal",
+          "Death Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -3554,10 +3561,14 @@
       {
         "name": "Disciples Of Void & Fire",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "solacelost",

@@ -890,6 +890,22 @@
     "origin": "FR"
   },
   {
+    "normalizedName": "cematarium",
+    "displayName": "Cematarium",
+    "albums": [
+      {
+        "name": "Endless Oblivion",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "charingcross",
     "displayName": "Charing Cross",
     "albums": [
@@ -5967,7 +5983,11 @@
       {
         "name": "Descent Into Darkness",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Blackened Speed Metal",
+          "Thrash Metal",
+          "Punk"
+        ]
       },
       {
         "name": "Final Warning",
@@ -5983,7 +6003,8 @@
       "Blackened Thrash Metal",
       "Blackened Speed Punk",
       "Thrash Metal",
-      "Punk"
+      "Punk",
+      "Blackened Speed Metal"
     ]
   },
   {

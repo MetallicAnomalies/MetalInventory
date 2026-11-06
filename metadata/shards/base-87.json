@@ -384,6 +384,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Live Apocalypse",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -1418,7 +1425,10 @@
       {
         "name": "Hellbound & Hammered",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black 'n' Roll Punk",
+          "Punk"
+        ]
       }
     ],
     "tags": [
@@ -2806,6 +2816,24 @@
     ]
   },
   {
+    "normalizedName": "lobeznator",
+    "displayName": "Lobeznator",
+    "albums": [
+      {
+        "name": "T.S.O.L.",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "macmiller",
     "displayName": "Mac Miller",
     "origin": "GB",
@@ -2870,12 +2898,16 @@
       {
         "name": "A Caress Of Autumn For All The Lost",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Atmospheric Black Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Atmospheric Black Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Atmospheric Black Doom Metal"
     ]
   },
   {
@@ -3875,13 +3907,24 @@
           "Shoegaze Post-Black Metal",
           "Post-Black Metal"
         ]
+      },
+      {
+        "name": "Paradise of Wilderness",
+        "year": "2026",
+        "genres": [
+          "Post-Rock Metal",
+          "Shoegaze Metal",
+          "Post-Black Metal"
+        ]
       }
     ],
     "tags": [
       "Post-Black Metal",
       "Post-Rock",
       "Post-Rock Post-Black Metal",
-      "Shoegaze Post-Black Metal"
+      "Shoegaze Post-Black Metal",
+      "Post-Rock Metal",
+      "Shoegaze Metal"
     ]
   },
   {

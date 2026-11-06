@@ -1988,7 +1988,9 @@
       {
         "name": "Ici Meurt ma Joie",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2218,10 +2220,14 @@
       {
         "name": "Summoning Eternity",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
   },
   {
     "normalizedName": "mysleepingkarma",
@@ -3109,12 +3115,16 @@
       {
         "name": "The Interpretation Of Nightmares",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom",
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Doom"
     ]
   },
   {

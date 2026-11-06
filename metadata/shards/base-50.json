@@ -3383,7 +3383,9 @@
       {
         "name": "Man Or God",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -4794,7 +4796,9 @@
       {
         "name": "Answered Prayers",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Black Metal"
+        ]
       },
       {
         "name": "The Mosaic Window",
@@ -5544,6 +5548,13 @@
         "genres": [
           "Blackened Metalcore",
           "Blackened Hardcore"
+        ]
+      },
+      {
+        "name": "The Spell Within Tragic Nightmares",
+        "year": "2026",
+        "genres": [
+          "Blackened Metalcore"
         ]
       }
     ],

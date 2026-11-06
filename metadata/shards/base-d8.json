@@ -1209,7 +1209,9 @@
       {
         "name": "Dimensions Of Chaos",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Funeral Doom Metal"
+        ]
       }
     ],
     "tags": [
@@ -1723,10 +1725,14 @@
       {
         "name": "Wellness Plan",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Experimental Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Experimental Black Metal"
+    ]
   },
   {
     "normalizedName": "godmacabre",

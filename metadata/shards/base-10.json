@@ -4888,10 +4888,16 @@
       {
         "name": "Munich City Nights",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
+    ]
   },
   {
     "normalizedName": "visceralabnormality",

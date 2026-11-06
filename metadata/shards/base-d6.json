@@ -816,7 +816,11 @@
       {
         "name": "Abyssian",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal",
+          "Stoner Metal",
+          "Death Metal"
+        ]
       },
       {
         "name": "Extremophiles",
@@ -833,7 +837,8 @@
       "Sludge Metal",
       "Death Metal",
       "Heavy Death Metal",
-      "Stoner Death Metal"
+      "Stoner Death Metal",
+      "Heavy Metal"
     ]
   },
   {
@@ -843,7 +848,10 @@
       {
         "name": "Ataque Diabólico a Sacralidade Brasileira",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal",
+          "Thrash Metal"
+        ]
       },
       {
         "name": "Ataque Diabólico a Sacralidade",
@@ -851,7 +859,10 @@
         "genres": []
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal",
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "bones",
@@ -1520,7 +1531,10 @@
       {
         "name": "Cult",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Sludge Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
@@ -2488,11 +2502,15 @@
       {
         "name": "Elysia",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Black Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Melodic Black Metal"
+      "Melodic Black Metal",
+      "Death Metal"
     ]
   },
   {
@@ -3803,7 +3821,9 @@
       {
         "name": "Drangsal",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [

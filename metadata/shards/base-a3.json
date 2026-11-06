@@ -1493,10 +1493,18 @@
       {
         "name": "Transcend",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Sludge Hardcore",
+          "Post-Metal Hardcore",
+          "Hardcore"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Sludge Hardcore",
+      "Post-Metal Hardcore",
+      "Hardcore"
+    ]
   },
   {
     "normalizedName": "konquest",
@@ -3991,6 +3999,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "wrathhammer",
+    "displayName": "Wräthhammer",
+    "albums": [
+      {
+        "name": "Live in Sofia",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Speed Metal"
     ]
   },
   {

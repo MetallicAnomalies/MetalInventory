@@ -663,6 +663,32 @@
     ]
   },
   {
+    "normalizedName": "baase",
+    "displayName": "Baase",
+    "albums": [
+      {
+        "name": "Numeri Nigri",
+        "year": "2026",
+        "genres": [
+          "Ambient",
+          "Atmospheric Raw Black Metal"
+        ]
+      },
+      {
+        "name": "A Carrion Wont",
+        "year": "2026",
+        "genres": [
+          "Ambient",
+          "Atmospheric Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Ambient",
+      "Atmospheric Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "bellfast",
     "displayName": "Bellfast",
     "albums": [
@@ -6117,10 +6143,14 @@
       {
         "name": "Labyrinths Of Pain",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "munruthel",
@@ -7039,6 +7069,22 @@
     ],
     "tags": [
       "Progressive Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "terrorsatan",
+    "displayName": "Terror Satan",
+    "albums": [
+      {
+        "name": "V.D.I.T.E.L.",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

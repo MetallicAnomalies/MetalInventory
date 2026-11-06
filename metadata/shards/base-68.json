@@ -2815,6 +2815,14 @@
           "Heavy Metal",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Kraken I Resurrección",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
@@ -4578,6 +4586,22 @@
     "tags": [
       "Funeral Doom Metal",
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "vicesabyss",
+    "displayName": "Vices Abyss",
+    "albums": [
+      {
+        "name": "Totentanz",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
     ]
   },
   {

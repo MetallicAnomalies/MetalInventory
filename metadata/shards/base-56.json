@@ -852,11 +852,14 @@
       {
         "name": "Birds Of Steel",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Neoclassical Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Neoclassical Power Metal"
     ]
   },
   {
@@ -4390,12 +4393,16 @@
       {
         "name": "Witch Wife In An Alien World",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Epic Heavy Doom Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Epic Heavy Doom Metal"
     ]
   },
   {

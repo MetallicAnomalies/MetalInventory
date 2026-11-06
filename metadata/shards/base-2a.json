@@ -2035,6 +2035,22 @@
     ]
   },
   {
+    "normalizedName": "finalsilence",
+    "displayName": "Final Silence",
+    "albums": [
+      {
+        "name": "Flesh to Nothing",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "forgery",
     "displayName": "Forgery",
     "albums": [
@@ -2794,6 +2810,24 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "manicaggression",
+    "displayName": "Manic Aggression",
+    "albums": [
+      {
+        "name": "Reality Disconnect",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Crossover"
     ]
   },
   {

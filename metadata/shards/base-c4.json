@@ -1616,7 +1616,9 @@
       {
         "name": "The Spell Of A New Dawn",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Symphonic Black Metal"
+        ]
       },
       {
         "name": "Poltergeist",
@@ -4098,6 +4100,13 @@
       {
         "name": "The Hilt Of Forking Tongues",
         "year": "2025",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "Involuntary Existence",
+        "year": "2026",
         "genres": [
           "Depressive Black Metal"
         ]

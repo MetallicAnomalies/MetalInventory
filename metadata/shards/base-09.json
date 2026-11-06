@@ -898,12 +898,16 @@
       {
         "name": "All The Shadows",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Epic Heavy Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Epic Heavy Metal"
     ]
   },
   {
@@ -2568,7 +2572,11 @@
       {
         "name": "Architects Of Mayhem",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Heavy Metal",
+          "Thrash Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -2578,7 +2586,9 @@
       "Avant-garde Metal",
       "Heavy Metal",
       "Black Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Thrash Metal",
+      "Power Metal"
     ]
   },
   {

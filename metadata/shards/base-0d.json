@@ -954,6 +954,11 @@
           "Drone Doom Metal",
           "Psychedelic Stoner Metal"
         ]
+      },
+      {
+        "name": "Farewell -Halloween 2026-",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": [
@@ -5035,10 +5040,14 @@
       {
         "name": "Waar Alle Hoop Verzuipt",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "voodookungfu",

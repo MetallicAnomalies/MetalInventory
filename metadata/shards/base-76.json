@@ -2178,6 +2178,22 @@
     ]
   },
   {
+    "normalizedName": "marrowgarden",
+    "displayName": "Marrow Garden",
+    "albums": [
+      {
+        "name": "Return to Precious Soil",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "masterspy",
     "displayName": "Master Spy",
     "albums": [
@@ -3282,7 +3298,12 @@
       {
         "name": "Prong",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Crossover Metal",
+          "Thrash Metal",
+          "Groove Metal",
+          "Industrial Metal"
+        ]
       }
     ],
     "tags": [
@@ -3290,7 +3311,9 @@
       "Industrial Metal",
       "Crossover Thrash",
       "Heavy Metal",
-      "Groove Metal"
+      "Groove Metal",
+      "Crossover Metal",
+      "Thrash Metal"
     ]
   },
   {
