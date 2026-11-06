@@ -2727,8 +2727,8 @@
           "Groove Metal",
           "Nu Metal",
           "Thrash Metal",
-          "Hard Rock",
-          "Heavy Metal"
+          "Heavy Metal",
+          "Acoustic"
         ]
       }
     ],
@@ -5819,7 +5819,7 @@
         "name": "The Brotherhood Of The Blade",
         "year": "2015",
         "genres": [
-          "Rock"
+          "Deathcore"
         ]
       },
       {
@@ -5908,8 +5908,7 @@
       }
     ],
     "tags": [
-      "Deathcore",
-      "Rock"
+      "Deathcore"
     ]
   },
   {

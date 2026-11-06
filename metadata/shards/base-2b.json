@@ -4767,7 +4767,6 @@
         "year": "1964",
         "genres": [
           "Rhythm & Blues",
-          "Pop",
           "Rock & Roll",
           "Rock"
         ]
@@ -4817,7 +4816,6 @@
         "year": "1964",
         "genres": [
           "Rhythm & Blues",
-          "Pop",
           "Rock & Roll",
           "Rock"
         ]
@@ -4969,7 +4967,6 @@
         "name": "Voodoo Lounge",
         "year": "1994",
         "genres": [
-          "Alternative Rock",
           "Classic Rock",
           "Rock"
         ]
@@ -5055,7 +5052,6 @@
           "Electronic",
           "Rock & Roll",
           "Rock",
-          "House",
           "Disco",
           "Funk"
         ]
@@ -5127,12 +5123,10 @@
       "Funk / Soul",
       "Soul",
       "Electronic",
-      "House",
       "Disco",
       "Funk",
       "Country Rock",
-      "Hard Rock",
-      "Alternative Rock"
+      "Hard Rock"
     ]
   },
   {
