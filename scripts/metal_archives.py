@@ -5,10 +5,18 @@ Fetches upcoming metal releases from the Metal Archives AJAX endpoint
 and merges them into the existing metal_releases.json file.
 
 Modes:
-    pipeline (default) – today -7 days → +60 days.  Used in CI; avoids
-                                             hammering the site for older historical data.
+  pipeline (default) – today -7 days → +60 days.  Used in CI; avoids
+                       hammering the site for older historical data.
   backfill           – today -14 days → +60 days.  Run locally once to
                        seed the JSON with recently-released albums.
+
+Robustness:
+  - Transient failures (timeouts, connection errors, 429, 5xx, non-JSON
+    challenge pages) are retried with exponential backoff.
+  - If a page still fails, the pages fetched so far are merged (merging is
+    additive) and the script exits 1 so CI / npm see the failure.
+  - A corrupt metal_releases.json is never treated as empty, and writes are
+    atomic (temp file + rename), so a crash can't truncate the file.
 
 Usage:
   python metal_archives.py                  # pipeline mode
@@ -16,13 +24,16 @@ Usage:
 """
 
 import argparse
-import sys
 import json
-import time
+import os
 import re
-import unicodedata
-import requests
+import sys
+import tempfile
+import time
 from datetime import datetime, timedelta, timezone
+from typing import Optional
+
+import requests
 from bs4 import BeautifulSoup
 
 # ---------------------------------------------------------------------------
@@ -40,15 +51,56 @@ MA_HEADERS = {
     "Referer": "https://www.metal-archives.com/",
 }
 
-OUTPUT_FILE = "metal_releases.json"
+# Anchored to the repo root so the script works from any working directory.
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+OUTPUT_FILE = os.path.join(REPO_ROOT, "metal_releases.json")
 
 # Pagination: MA returns at most 100 rows per request
 PAGE_SIZE = 100
+MAX_PAGES = 200                # hard stop against a runaway pagination loop
+PAGE_DELAY = 5                 # polite delay between pages (seconds)
+
+# Retry policy for transient failures
+MAX_ATTEMPTS = 4
+RETRY_BASE_DELAY = 10          # seconds; doubles each attempt
+REQUEST_TIMEOUT = (10, 45)     # (connect, read) seconds
+
+# Refuse to write if the merged file would lose more than half its entries
+MIN_KEEP_RATIO = 0.5
+
+
+class FetchError(Exception):
+    """A non-recoverable error while fetching from Metal Archives."""
 
 
 # ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
+
+def _safe_console() -> None:
+    """Avoid UnicodeEncodeError on non-UTF-8 consoles (e.g. Windows cp1252 pipes)."""
+    for stream in (sys.stdout, sys.stderr):
+        try:
+            stream.reconfigure(errors="replace")
+        except (AttributeError, ValueError):
+            pass
+
+
+def atomic_write_json(path: str, data, indent: int = 4) -> None:
+    """Write JSON to a temp file in the same directory, then atomically replace."""
+    directory = os.path.dirname(os.path.abspath(path))
+    fd, tmp = tempfile.mkstemp(prefix=".tmp-", suffix=".json", dir=directory)
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=indent, ensure_ascii=False)
+        os.replace(tmp, path)
+    except BaseException:
+        try:
+            os.remove(tmp)
+        except OSError:
+            pass
+        raise
+
 
 # Matches a trailing parenthetical suffix, e.g. " (Heresies Against the Flow of Time)"
 _TRAILING_PAREN_RE = re.compile(r"\s*\([^)]*\)\s*$")
@@ -68,16 +120,26 @@ def _normalize_album_key(title: str) -> str:
     return key or title.strip().lower()
 
 
-def _strip_html(raw: str) -> str:
+def _strip_html(raw) -> str:
     """Remove HTML tags from a Metal Archives cell value."""
+    if not isinstance(raw, str):
+        return ""
     return BeautifulSoup(raw, "html.parser").get_text(strip=True)
 
 
-def _extract_ma_link(raw: str) -> str:
+def _extract_ma_link(raw) -> str:
     """Pull the href out of an anchor tag, or return empty string."""
+    if not isinstance(raw, str):
+        return ""
     soup = BeautifulSoup(raw, "html.parser")
     tag = soup.find("a")
     return tag["href"] if tag and tag.get("href") else ""
+
+
+_GENRE_NOUNS = {
+    "metal", "core", "grind", "grindcore", "punk", "rock", "djent", "metalcore",
+    "deathcore", "hardcore", "crust", "noise", "ambient", "industrial", "doom",
+}
 
 
 def _parse_genres(raw: str) -> list[str]:
@@ -104,28 +166,20 @@ def _parse_genres(raw: str) -> list[str]:
         parts = [p.strip() for p in phrase.split('/') if p.strip()]
 
         if len(parts) == 1:
-            # No slash — keep as-is
             genres.append(parts[0])
         else:
-            # Re-attach trailing shared word(s) to each prefix.
-            # e.g. "Gothic/Doom Metal" -> parts = ["Gothic", "Doom Metal"]
-            # The last part already carries the suffix; prepend it to earlier parts.
-            suffix_words = parts[-1].split()
-            # Find how many trailing words are shared by inspecting the last segment
-            # Strategy: the last segment is already the full genre name;
-            # for earlier segments that lack a noun, append the suffix from the last.
+            # A bare-adjective part borrows the head noun (last word) of the
+            # next part: "Gothic/Doom Metal" -> "Gothic Metal", "Doom Metal";
+            # "Black/Death Metal/Grindcore" -> "Black Metal", "Death Metal", "Grindcore".
             for i, part in enumerate(parts):
-                if i == len(parts) - 1:
-                    # Last part: use as-is (e.g. "Doom Metal")
+                words = part.split()
+                if i == len(parts) - 1 or words[-1].lower() in _GENRE_NOUNS:
                     genres.append(part)
-                else:
-                    # Earlier parts: if they look like a bare adjective (no 'Metal'
-                    # or known noun at the end), append the suffix from the last part.
-                    last_word = part.split()[-1] if part.split() else ""
-                    if last_word.lower() not in ('metal', 'core', 'grind', 'punk', 'rock', 'djent'):
-                        genres.append(f"{part} {' '.join(suffix_words)}")
-                    else:
-                        genres.append(part)
+                    continue
+                noun = next((parts[j].split()[-1] for j in range(i + 1, len(parts))
+                             if parts[j].split()[-1].lower() in _GENRE_NOUNS),
+                            parts[i + 1].split()[-1])
+                genres.append(f"{part} {noun}")
 
     # Deduplicate while preserving order
     seen: set[str] = set()
@@ -147,17 +201,30 @@ def _build_date_range(mode: str = "pipeline") -> tuple[str, str]:
     backfill  – today -14 days → +60 days (local seeding run)
     """
     today = datetime.now(timezone.utc)
-    if mode == "backfill":
-        from_date = (today - timedelta(days=14)).strftime("%Y-%m-%d")
-    else:
-        from_date = (today - timedelta(days=7)).strftime("%Y-%m-%d")
+    back = 14 if mode == "backfill" else 7
+    from_date = (today - timedelta(days=back)).strftime("%Y-%m-%d")
     to_date = (today + timedelta(days=60)).strftime("%Y-%m-%d")
     return from_date, to_date
 
 
+def _snippet(text: str, limit: int = 500) -> str:
+    text = (text or "").strip()
+    return text if len(text) <= limit else text[:limit] + f"... [{len(text) - limit} more chars]"
+
+
+def _wait_before_retry(attempt: int, reason: str, retry_after: Optional[str] = None) -> None:
+    if attempt >= MAX_ATTEMPTS:
+        return
+    delay = RETRY_BASE_DELAY * (2 ** (attempt - 1))
+    if retry_after and retry_after.strip().isdigit():
+        delay = max(delay, min(int(retry_after), 300))
+    print(f"\n[MetalArchives] {reason} - retry {attempt}/{MAX_ATTEMPTS - 1} in {delay}s")
+    time.sleep(delay)
+
+
 def _fetch_page(session: requests.Session, from_date: str, to_date: str,
                 offset: int, echo: int) -> dict:
-    """Fetch a single page from the Metal Archives AJAX endpoint."""
+    """Fetch a single page from the Metal Archives AJAX endpoint, with retries."""
     params = {
         "sEcho":          echo,
         "iColumns":       6,
@@ -185,16 +252,46 @@ def _fetch_page(session: requests.Session, from_date: str, to_date: str,
         "_":              int(datetime.now(timezone.utc).timestamp() * 1000),
     }
 
-    req = requests.Request("GET", MA_AJAX_URL, headers=MA_HEADERS, params=params)
-    prepared = session.prepare_request(req)
-    print(f"[MetalArchives] Full URL: {prepared.url}")
+    last_error = "unknown error"
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        try:
+            resp = session.get(MA_AJAX_URL, headers=MA_HEADERS, params=params,
+                               timeout=REQUEST_TIMEOUT)
+        except (requests.ConnectionError, requests.Timeout) as exc:
+            last_error = f"network error: {exc}"
+            _wait_before_retry(attempt, last_error)
+            continue
 
-    resp = session.send(prepared, timeout=20)
-    resp.raise_for_status()
-    return resp.json()
+        status = resp.status_code
+        if status == 403 and "cf-mitigated" in resp.headers:
+            # Cloudflare challenge: datacenter IP blocked, retrying won't help.
+            raise FetchError(
+                "Cloudflare bot-fight-mode challenge detected (403). Requests must "
+                "originate from a residential IP (self-hosted runner)."
+            )
+        if status == 429 or status >= 500:
+            last_error = f"HTTP {status}"
+            _wait_before_retry(attempt, last_error, resp.headers.get("Retry-After"))
+            continue
+        if status >= 400:
+            raise FetchError(f"HTTP {status} for {resp.url}\n{_snippet(resp.text)}")
+
+        try:
+            data = resp.json()
+        except ValueError:
+            # Usually an HTML challenge / maintenance page served with 200.
+            last_error = f"non-JSON response: {_snippet(resp.text, 200)}"
+            _wait_before_retry(attempt, "non-JSON response")
+            continue
+
+        if not isinstance(data, dict) or not isinstance(data.get("aaData"), list):
+            raise FetchError(f"Unexpected payload shape: {_snippet(str(data))}")
+        return data
+
+    raise FetchError(f"giving up after {MAX_ATTEMPTS} attempts ({last_error})")
 
 
-def _parse_rows(rows: list[list]) -> list[dict]:
+def _parse_rows(rows: list) -> list[dict]:
     """
     Convert raw MA row data into normalised release dicts.
 
@@ -207,6 +304,7 @@ def _parse_rows(rows: list[list]) -> list[dict]:
       5 – Added-on    (timestamp string, e.g. "2026-01-16 04:45:43") – NOT a label
     """
     results = []
+    skipped_dates = 0
     for row in rows:
         try:
             artist      = _strip_html(row[0])
@@ -214,35 +312,40 @@ def _parse_rows(rows: list[list]) -> list[dict]:
             rel_type    = _strip_html(row[2])
             genre       = _strip_html(row[3])
             date_raw    = _strip_html(row[4])
-            added_on    = row[5].strip() if isinstance(row[5], str) else ""
+            added_on    = row[5].strip() if len(row) > 5 and isinstance(row[5], str) else ""
             artist_url  = _extract_ma_link(row[0])
             album_url   = _extract_ma_link(row[1])
-
-            # Parse date like "May 8th, 2026"
-            clean_date = re.sub(r'(\d+)(st|nd|rd|th)', r'\1', date_raw).strip()
-            try:
-                rel_date = datetime.strptime(clean_date, "%B %d, %Y")
-                date_str = rel_date.strftime("%Y-%m-%d")
-            except ValueError:
-                # If date is ambiguous (e.g. only year), skip
-                continue
-
-            genre_list = _parse_genres(genre)
-
-            results.append({
-                "artist":       artist,
-                "album":        album,
-                "release_date": date_str,
-                "genre":        ", ".join(genre_list),
-                "genre_list":   genre_list,
-                "type":         rel_type,
-                "added_on":     added_on,
-                "url":          album_url or artist_url,
-                "source":       "MetalArchives",
-            })
         except (IndexError, KeyError, TypeError):
             continue
 
+        if not artist or not album:
+            continue
+
+        # Parse date like "May 8th, 2026"
+        clean_date = re.sub(r'(\d+)(st|nd|rd|th)', r'\1', date_raw).strip()
+        try:
+            date_str = datetime.strptime(clean_date, "%B %d, %Y").strftime("%Y-%m-%d")
+        except ValueError:
+            # Ambiguous date (e.g. "May 2026" or "2026") - skip
+            skipped_dates += 1
+            continue
+
+        genre_list = _parse_genres(genre)
+
+        results.append({
+            "artist":       artist,
+            "album":        album,
+            "release_date": date_str,
+            "genre":        ", ".join(genre_list),
+            "genre_list":   genre_list,
+            "type":         rel_type,
+            "added_on":     added_on,
+            "url":          album_url or artist_url,
+            "source":       "MetalArchives",
+        })
+
+    if skipped_dates:
+        print(f"\n[MetalArchives] Skipped {skipped_dates} rows with incomplete dates.")
     return results
 
 
@@ -250,51 +353,53 @@ def _parse_rows(rows: list[list]) -> list[dict]:
 # Main
 # ---------------------------------------------------------------------------
 
-def fetch_metal_archives_releases(mode: str = "pipeline") -> list[dict]:
+def fetch_metal_archives_releases(mode: str = "pipeline") -> tuple[list[dict], bool]:
     """
-    Paginate through the Metal Archives upcoming-releases endpoint and
-    return a list of normalised release dicts.
+    Paginate through the Metal Archives upcoming-releases endpoint.
+
+    Returns (releases, complete). If a page fails after retries, the pages
+    fetched so far are still returned with complete=False.
     """
     from_date, to_date = _build_date_range(mode)
-    print(f"[MetalArchives] Mode: {mode} | Date range: {from_date} → {to_date}")
+    print(f"[MetalArchives] Mode: {mode} | Date range: {from_date} -> {to_date}")
 
     session = requests.Session()
     all_releases: list[dict] = []
     offset = 0
     echo   = 1
+    complete = True
 
-    while True:
-        print(f"[MetalArchives] Fetching offset={offset} …", end="\r")
+    for _ in range(MAX_PAGES):
+        print(f"[MetalArchives] Fetching offset={offset} ...", end="\r")
         try:
             data = _fetch_page(session, from_date, to_date, offset, echo)
-        except requests.RequestException as exc:
+        except FetchError as exc:
             print(f"\n[MetalArchives] Request failed at offset={offset}: {exc}")
-            if exc.response is not None:
-                print(f"[MetalArchives] Response status : {exc.response.status_code}")
-                print(f"[MetalArchives] Response headers: {dict(exc.response.headers)}")
-                print(f"[MetalArchives] Response body   :\n{exc.response.text}")
-                # Cloudflare challenge — datacenter IP blocked, not a transient error
-                if exc.response.status_code == 403 and "cf-mitigated" in exc.response.headers:
-                    print("[MetalArchives] Cloudflare bot-fight-mode challenge detected. "
-                          "Requests must originate from a residential IP (self-hosted runner).")
-            sys.exit(1)
+            complete = False
+            break
 
-        rows        = data.get("aaData", [])
-        total       = data.get("iTotalRecords", 0)
-        page_releases = _parse_rows(rows)
-        all_releases.extend(page_releases)
+        rows = data["aaData"]
+        # In DataTables, iTotalDisplayRecords is the count after the date filter.
+        try:
+            total = int(data.get("iTotalDisplayRecords") or data.get("iTotalRecords") or 0)
+        except (TypeError, ValueError):
+            total = 0
+        all_releases.extend(_parse_rows(rows))
 
         offset += PAGE_SIZE
         echo   += 1
 
-        if offset >= total or not rows:
+        if not rows or (total and offset >= total):
             break
 
-        # Be polite – Metal Archives rate-limits aggressively
-        time.sleep(5)
+        # Be polite - Metal Archives rate-limits aggressively
+        time.sleep(PAGE_DELAY)
+    else:
+        print(f"\n[MetalArchives] Stopped after {MAX_PAGES} pages (safety limit).")
 
-    print(f"\n[MetalArchives] Fetched {len(all_releases)} releases.")
-    return all_releases
+    print(f"\n[MetalArchives] Fetched {len(all_releases)} releases"
+          f"{'' if complete else ' (INCOMPLETE)'}.")
+    return all_releases, complete
 
 
 def merge_into_output(new_releases: list[dict]) -> None:
@@ -309,53 +414,56 @@ def merge_into_output(new_releases: list[dict]) -> None:
         "THE VIOLENCE OF TIME (Heresies Against the Flow of Time)".
       - When a match is found, the Metal Archives entry wins: it carries
         the canonical title, genre, type, URL, and source.
-      - The storage map is re-keyed on the normalised title after a merge
-        so the updated entry is found correctly by future lookups.
     """
-    # Load existing data
+    # A missing file is fine; a corrupt one is NOT - treating it as empty
+    # would silently wipe every other source's entries (and CI commits it).
     try:
         with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
             existing = json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError):
+    except FileNotFoundError:
         existing = []
+    except json.JSONDecodeError as exc:
+        raise SystemExit(f"[MetalArchives] {OUTPUT_FILE} is not valid JSON ({exc}); "
+                         "refusing to overwrite it.")
+    if not isinstance(existing, list):
+        raise SystemExit(f"[MetalArchives] {OUTPUT_FILE} is not a JSON array; refusing to overwrite it.")
 
-    # Build dedup map keyed on (lower artist, normalised album)
-    # The normalised album key strips trailing parenthetical suffixes.
     albums_map: dict[tuple, dict] = {}
+    unkeyed: list = []   # entries we can't key are kept verbatim, never dropped
     for item in existing:
-        artist_key = item["artist"].strip().lower()
-        album_key  = _normalize_album_key(item["album"])
-        albums_map[(artist_key, album_key)] = item
+        if not isinstance(item, dict) or not item.get("artist") or not item.get("album"):
+            unkeyed.append(item)
+            continue
+        key = (str(item["artist"]).strip().lower(), _normalize_album_key(str(item["album"])))
+        albums_map[key] = item
 
     added = 0
     for rel in new_releases:
-        artist_key = rel["artist"].strip().lower()
-        album_key  = _normalize_album_key(rel["album"])
-        key = (artist_key, album_key)
-
+        key = (rel["artist"].strip().lower(), _normalize_album_key(rel["album"]))
         if key not in albums_map:
-            albums_map[key] = rel
             added += 1
-        else:
-            # Metal Archives wins: replace the entry entirely with the MA version
-            # (canonical title, genre, URL, type, added_on …).
-            # Source credit goes exclusively to MetalArchives.
-            albums_map[key] = rel
+        # Metal Archives wins: replace the entry entirely with the MA version.
+        albums_map[key] = rel
 
     final = sorted(
         albums_map.values(),
-        key=lambda x: x.get("release_date", ""),
+        key=lambda x: str(x.get("release_date") or ""),
         reverse=True,
-    )
+    ) + unkeyed
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(final, f, indent=4, ensure_ascii=False)
+    if existing and len(final) < len(existing) * MIN_KEEP_RATIO:
+        raise SystemExit(f"[MetalArchives] Merge would shrink {OUTPUT_FILE} from "
+                         f"{len(existing)} to {len(final)} entries; refusing to write.")
 
-    print(f"[MetalArchives] Merged {added} new entries → {OUTPUT_FILE} "
+    atomic_write_json(OUTPUT_FILE, final, indent=4)
+
+    print(f"[MetalArchives] Merged {added} new entries -> {OUTPUT_FILE} "
           f"({len(final)} total).")
 
 
 if __name__ == "__main__":
+    _safe_console()
+
     parser = argparse.ArgumentParser(description="Metal Archives release scraper")
     parser.add_argument(
         "--mode",
@@ -365,8 +473,12 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    releases = fetch_metal_archives_releases(mode=args.mode)
+    releases, complete = fetch_metal_archives_releases(mode=args.mode)
     if releases:
         merge_into_output(releases)
     else:
-        print("[MetalArchives] No releases fetched – nothing to merge.")
+        print("[MetalArchives] No releases fetched - nothing to merge.")
+
+    if not complete:
+        # Partial results (if any) were merged, but signal failure to CI / npm.
+        sys.exit(1)

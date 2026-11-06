@@ -96,7 +96,10 @@ python collage_generator.py
 
 ```bash
 python generate_rainbow_collage.py
+python generate_rainbow_collage.py --input other.json --output other.jpg --grid-size 10 --yes
 ```
+
+The rainbow script accepts command-line overrides for every constant (`--help` lists them); relative paths resolve against the script's folder. Pass `--yes` to skip the "continue with missing images?" prompt (required when stdin isn't a terminal).
 
 Both scripts are interactive only when images are missing — otherwise they run to completion automatically.
 
@@ -106,22 +109,22 @@ Both scripts are interactive only when images are missing — otherwise they run
 
 ### Phase 1 — Download & Cache
 
-The script iterates over your JSON entries and downloads each artwork image into `CACHE_DIR/`. Files are named `001_Artist_Name.jpg` so re-runs skip already-downloaded images, saving bandwidth and time.
+The script iterates over your JSON entries and downloads each artwork image into `CACHE_DIR/`. The rainbow script names files `Artist Name_<url-hash>.jpg`, so a cached file always belongs to exactly one image URL (no stale covers when the input changes) and re-runs skip already-downloaded images. Cached and downloaded files are verified as real images; corrupt ones are re-downloaded, and failed downloads retry with backoff. (`collage_generator.py` still uses `001_Artist_Name.jpg`.)
 
 If a download fails, the entry is skipped and logged. If fewer than 100 images are available you'll be prompted whether to continue (missing slots become black placeholders).
 
 ### Phase 1.5 — Rainbow Sort *(rainbow script only)*
 
-After downloading, each image is resized to 50×50 px and its **average color is extracted** using `ImageStat`. Colors are converted to HSV and sorted by:
+After downloading, each image is resized to 64×64 px and its **dominant hue** is computed as a saturation-weighted circular mean (so a red logo on black reads as red, not muddy brown). Covers whose colourfulness is below `GREY_THRESHOLD` are treated as greyscale. Images are sorted by:
 
-- **Hue** — produces a classic rainbow spectrum across the grid
+- **Hue** — colourful covers form a rainbow spectrum; greyscale covers follow, light to dark
 - **Brightness** — produces a light-to-dark or dark-to-light gradient
 
 If more than 100 images were downloaded, the script **sub-samples evenly** across the sorted spectrum so the color gradient remains smooth.
 
 ### Phase 2 — Build the Grid
 
-Each image is resized to `CELL_SIZE × CELL_SIZE` px and pasted onto a `3000×3000 px` canvas. Fill order is either:
+Each image is centre-cropped to `CELL_SIZE × CELL_SIZE` px and pasted onto a `3000×3000 px` canvas. Fill order is either:
 
 - **Horizontal** — left-to-right, top-to-bottom (row by row)
 - **Diagonal** — sweeps diagonally from the top-left corner
