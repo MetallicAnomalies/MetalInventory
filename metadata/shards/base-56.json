@@ -3326,6 +3326,14 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Veil of Ashes",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -5603,6 +5611,7 @@
   {
     "normalizedName": "vended",
     "displayName": "Vended",
+    "origin": "US",
     "albums": [
       {
         "name": "What Is It // Kill It",

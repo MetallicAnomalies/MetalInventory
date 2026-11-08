@@ -1818,6 +1818,7 @@
   {
     "normalizedName": "fadingaeon",
     "displayName": "Fading Aeon",
+    "origin": "DE",
     "albums": [
       {
         "name": "A Warrior's Tale",
@@ -1829,6 +1830,13 @@
       {
         "name": "The Voices Within",
         "year": "2021",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Fading Aeon",
+        "year": "2026",
         "genres": [
           "Melodic Death Metal"
         ]

@@ -832,7 +832,10 @@
       {
         "name": "Father Grigori",
         "year": "2020",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
       },
       {
         "name": "отец григорий",
@@ -850,7 +853,10 @@
       {
         "name": "Black Friday Bedlam",
         "year": "2021",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
       },
       {
         "name": "Lifting The Veil",
@@ -895,7 +901,8 @@
     ],
     "tags": [
       "Death Metal",
-      "Groove Metal"
+      "Groove Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -3430,6 +3437,7 @@
   {
     "normalizedName": "postpulse",
     "displayName": "Post Pulse",
+    "origin": "FI",
     "albums": [
       {
         "name": "Halls Of The Damned",
@@ -4682,7 +4690,10 @@
       {
         "name": "Power Lines",
         "year": "2016",
-        "genres": []
+        "genres": [
+          "Alternative Rock",
+          "Pop Punk"
+        ]
       },
       {
         "name": "Pura Vida",

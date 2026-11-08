@@ -2219,6 +2219,7 @@
   {
     "normalizedName": "ilænder",
     "displayName": "ILÆNDER",
+    "origin": "NL",
     "albums": [
       {
         "name": "I Know Nothing",
@@ -2237,7 +2238,9 @@
       {
         "name": "Inside My Head",
         "year": "2025",
-        "genres": []
+        "genres": [
+          "Alternative Metal"
+        ]
       }
     ],
     "tags": [

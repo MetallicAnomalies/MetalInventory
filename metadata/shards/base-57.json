@@ -50,6 +50,7 @@
   {
     "normalizedName": "akemmanah",
     "displayName": "Akem Manah",
+    "origin": "BE",
     "albums": [
       {
         "name": "The Testament Of Sealant Mound",
@@ -5542,6 +5543,13 @@
       {
         "name": "Hybridized",
         "year": "2025",
+        "genres": [
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Dissecting the Leech",
+        "year": "2026",
         "genres": [
           "Thrash Metal"
         ]

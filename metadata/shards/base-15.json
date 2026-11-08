@@ -2025,6 +2025,7 @@
   {
     "normalizedName": "immortalforce",
     "displayName": "Immortal Force",
+    "origin": "CA",
     "albums": [],
     "tags": [
       "Metal"
@@ -4137,6 +4138,13 @@
         "year": "2022",
         "genres": [
           "Nu Metal",
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Royal Discordance",
+        "year": "2026",
+        "genres": [
           "Metalcore"
         ]
       }

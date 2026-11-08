@@ -678,7 +678,10 @@
       {
         "name": "The Deadly Rhythm",
         "year": "2024",
-        "genres": []
+        "genres": [
+          "Post-Hardcore",
+          "Post-Rock"
+        ]
       }
     ],
     "tags": [
@@ -3461,10 +3464,14 @@
       {
         "name": "Rising",
         "year": "2025",
-        "genres": []
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Heavy Metal"
+    ]
   },
   {
     "normalizedName": "orenlavie",

@@ -1890,15 +1890,24 @@
       {
         "name": "Your Pain Tastes Good",
         "year": "2020",
-        "genres": []
+        "genres": [
+          "Power Metal",
+          "Thrash Metal"
+        ]
       },
       {
         "name": "Road To Ecstasy",
         "year": "2023",
-        "genres": []
+        "genres": [
+          "Power Metal",
+          "Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Power Metal",
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "helia",
@@ -3045,10 +3054,16 @@
       {
         "name": "The Huntress",
         "year": "2025",
-        "genres": []
+        "genres": [
+          "Melodic Death Metal",
+          "Progressive Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Melodic Death Metal",
+      "Progressive Death Metal"
+    ]
   },
   {
     "normalizedName": "rexdevs",

@@ -1205,7 +1205,9 @@
       {
         "name": "Sorrow",
         "year": "2025",
-        "genres": []
+        "genres": [
+          "Symphonic Metal"
+        ]
       }
     ],
     "tags": [
@@ -2524,6 +2526,23 @@
     ]
   },
   {
+    "normalizedName": "mastersword",
+    "displayName": "Master Sword",
+    "origin": "US",
+    "albums": [
+      {
+        "name": "Toying With Time",
+        "year": "2025",
+        "genres": [
+          "Progressive Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Power Metal"
+    ]
+  },
+  {
     "normalizedName": "medusaschild",
     "displayName": "Medusa's Child",
     "albums": [
@@ -2678,6 +2697,7 @@
   {
     "normalizedName": "miserereluminis",
     "displayName": "Miserere Luminis",
+    "origin": "CA",
     "albums": [
       {
         "name": "Miserere Luminis",

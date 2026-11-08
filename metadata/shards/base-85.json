@@ -3055,6 +3055,13 @@
           "Groove Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Into Oblivion",
+        "year": "2026",
+        "genres": [
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
@@ -3512,10 +3519,18 @@
   {
     "normalizedName": "nefastis",
     "displayName": "Nefastis",
+    "origin": "IT",
     "albums": [
       {
         "name": "De Diebus Fastis Nefastis Infaustis",
         "year": "2014",
+        "genres": [
+          "Symphonic Death Metal"
+        ]
+      },
+      {
+        "name": "Shadows at the Light of Dawn",
+        "year": "2026",
         "genres": [
           "Symphonic Death Metal"
         ]

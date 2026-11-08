@@ -1785,6 +1785,7 @@
   {
     "normalizedName": "filth",
     "displayName": "Filth",
+    "origin": "US",
     "albums": [
       {
         "name": "Death Exhibiton",
@@ -1799,6 +1800,13 @@
         "genres": [
           "Death Metal",
           "Grindcore"
+        ]
+      },
+      {
+        "name": "Welcome to Shell Town",
+        "year": "2026",
+        "genres": [
+          "Deathcore"
         ]
       }
     ],

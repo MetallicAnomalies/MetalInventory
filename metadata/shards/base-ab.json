@@ -2503,10 +2503,14 @@
       {
         "name": "Calma",
         "year": "2020",
-        "genres": []
+        "genres": [
+          "Rap"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Rap"
+    ]
   },
   {
     "normalizedName": "katafalk",

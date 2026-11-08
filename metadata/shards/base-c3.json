@@ -434,10 +434,18 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Death",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
-      "Doom Metal"
+      "Doom Metal",
+      "Gothic Metal"
     ]
   },
   {

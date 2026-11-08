@@ -76,10 +76,18 @@
   {
     "normalizedName": "alkhemia",
     "displayName": "Alkhemia",
+    "origin": "FR",
     "albums": [
       {
         "name": "Abraxas",
         "year": "2024",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Häxen",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

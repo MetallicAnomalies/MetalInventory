@@ -46,6 +46,7 @@
   {
     "normalizedName": "abyssius",
     "displayName": "Abyssius",
+    "origin": "TW",
     "albums": [
       {
         "name": "Abyssius",
@@ -1363,7 +1364,9 @@
       {
         "name": "Exsanguination",
         "year": "2020",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       },
       {
         "name": "Blood Ocean",

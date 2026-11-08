@@ -316,10 +316,16 @@
       {
         "name": "Legacy",
         "year": "2024",
-        "genres": []
+        "genres": [
+          "Thrash Metal",
+          "Speed Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Thrash Metal",
+      "Speed Metal"
+    ]
   },
   {
     "normalizedName": "atemporal",

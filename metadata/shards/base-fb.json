@@ -1015,7 +1015,9 @@
       {
         "name": "Petrichor",
         "year": "2022",
-        "genres": []
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -1698,6 +1700,7 @@
   {
     "normalizedName": "fetidzombie",
     "displayName": "Fetid Zombie",
+    "origin": "US",
     "albums": [
       {
         "name": "Pleasures Of The Scalpel",
@@ -3487,6 +3490,13 @@
         "year": "2022",
         "genres": [
           "Technical Death Metal"
+        ]
+      },
+      {
+        "name": "The Pinnacle of Violence",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
         ]
       }
     ],

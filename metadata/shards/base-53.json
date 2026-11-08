@@ -647,6 +647,23 @@
     ]
   },
   {
+    "normalizedName": "burningpath",
+    "displayName": "Burning Path",
+    "origin": "CL",
+    "albums": [
+      {
+        "name": "Burning Path",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "burymealive",
     "displayName": "Bury Me Alive",
     "origin": "AT",
@@ -1214,6 +1231,7 @@
   {
     "normalizedName": "ectovoid",
     "displayName": "Ectovoid",
+    "origin": "US",
     "albums": [
       {
         "name": "Fractured In The Timeless Abyss",
@@ -4187,7 +4205,9 @@
       {
         "name": "Stuck",
         "year": "2023",
-        "genres": []
+        "genres": [
+          "Electropop"
+        ]
       }
     ],
     "tags": [
@@ -4198,7 +4218,8 @@
       "Electronic",
       "Pop",
       "Alternative Metal",
-      "Rock"
+      "Rock",
+      "Electropop"
     ]
   },
   {

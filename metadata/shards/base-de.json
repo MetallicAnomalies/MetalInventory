@@ -424,6 +424,23 @@
     ]
   },
   {
+    "normalizedName": "angelicforces",
+    "displayName": "Angelic Forces",
+    "origin": "NL",
+    "albums": [
+      {
+        "name": "Arise",
+        "year": "2022",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "angelrubin",
     "displayName": "Angel Rubin",
     "albums": [
@@ -3306,7 +3323,9 @@
       {
         "name": "Collossus The Blasphemy",
         "year": "2009",
-        "genres": []
+        "genres": [
+          "Brutal Death Metal"
+        ]
       },
       {
         "name": "Apocalyptic",
@@ -3374,7 +3393,9 @@
         "genres": []
       }
     ],
-    "tags": []
+    "tags": [
+      "Brutal Death Metal"
+    ]
   },
   {
     "normalizedName": "traciiguns",

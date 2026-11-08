@@ -613,10 +613,14 @@
       {
         "name": "Soil",
         "year": "2025",
-        "genres": []
+        "genres": [
+          "Alternative Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Alternative Metal"
+    ]
   },
   {
     "normalizedName": "beyondthepale",
@@ -2543,25 +2547,35 @@
       {
         "name": "Valiant Visions Dawn Ep",
         "year": "2008",
-        "genres": []
+        "genres": [
+          "Rock"
+        ]
       },
       {
         "name": "Goodmorning Restrained",
         "year": "2009",
-        "genres": []
+        "genres": [
+          "Rock"
+        ]
       },
       {
         "name": "Savantgarde",
         "year": "2022",
-        "genres": []
+        "genres": [
+          "Rock"
+        ]
       },
       {
         "name": "The Dying Option",
         "year": "2022",
-        "genres": []
+        "genres": [
+          "Rock"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Rock"
+    ]
   },
   {
     "normalizedName": "megingiord",

@@ -3513,6 +3513,7 @@
   {
     "normalizedName": "nagusame",
     "displayName": "Nagusame",
+    "origin": "NL",
     "albums": [
       {
         "name": "You Should Get Out More",
@@ -4244,10 +4245,16 @@
       {
         "name": "Sea Of Consciousnes",
         "year": "2024",
-        "genres": []
+        "genres": [
+          "Technical Death Metal",
+          "Progressive Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Technical Death Metal",
+      "Progressive Metal"
+    ]
   },
   {
     "normalizedName": "shaarimoth",

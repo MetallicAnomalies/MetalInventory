@@ -1559,6 +1559,7 @@
   {
     "normalizedName": "desertstorm",
     "displayName": "Desert Storm",
+    "origin": "GB",
     "albums": [
       {
         "name": "Desert Storm",
@@ -1621,6 +1622,14 @@
           "Blues Rock",
           "Stoner Metal",
           "Psychedelic Hard Rock"
+        ]
+      },
+      {
+        "name": "Buried Under The Weight Of Reason",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Doom Metal"
         ]
       }
     ],
