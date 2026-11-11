@@ -894,8 +894,16 @@
           "Black Metal",
           "Thrash Metal"
         ]
+        "genres": [
+          "Black Metal",
+          "Thrash Metal"
+        ]
       }
     ],
+    "tags": [
+      "Black Metal",
+      "Thrash Metal"
+    ]
     "tags": [
       "Black Metal",
       "Thrash Metal"
@@ -2392,6 +2400,8 @@
     "tags": [
       "Slam Goregrind",
       "Brutal Death Metal",
+      "Goregrind",
+      "Slam Metal"
       "Goregrind",
       "Slam Metal"
     ]

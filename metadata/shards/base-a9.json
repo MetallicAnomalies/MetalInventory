@@ -1099,10 +1099,14 @@
       {
         "name": "This Is Our Style",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Stoner Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Stoner Metal"
+    ]
   },
   {
     "normalizedName": "caverndeep",

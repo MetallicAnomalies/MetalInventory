@@ -39,10 +39,16 @@
       {
         "name": "A House No One Could Live In",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "acidcøma",
@@ -2678,6 +2684,24 @@
     "tags": [
       "Doom Metal",
       "Stoner Metal"
+    ]
+  },
+  {
+    "normalizedName": "mossvalley",
+    "displayName": "Moss Valley",
+    "albums": [
+      {
+        "name": "Faraway",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Grunge"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Grunge"
     ]
   },
   {

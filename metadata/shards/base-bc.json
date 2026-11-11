@@ -1854,6 +1854,24 @@
     ]
   },
   {
+    "normalizedName": "immortalsun",
+    "displayName": "Immortal Sun",
+    "albums": [
+      {
+        "name": "Scrolls of the Immortal Sun",
+        "year": "2026",
+        "genres": [
+          "Djent",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Djent",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "incognitotheory",
     "displayName": "Incognito Theory",
     "albums": [
@@ -2603,6 +2621,14 @@
           "Middle Eastern Folk Progressive Metal",
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Still the Dawn Will Come",
+        "year": "2026",
+        "genres": [
+          "Middle Eastern Folk Metal",
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
@@ -2611,7 +2637,8 @@
       "Heavy Metal",
       "Power Metal",
       "Symphonic Metal",
-      "Middle Eastern Folk Progressive Metal"
+      "Middle Eastern Folk Progressive Metal",
+      "Middle Eastern Folk Metal"
     ]
   },
   {

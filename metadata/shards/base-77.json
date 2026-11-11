@@ -4281,6 +4281,22 @@
     ]
   },
   {
+    "normalizedName": "shroudweaver",
+    "displayName": "Shroudweaver",
+    "albums": [
+      {
+        "name": "Lingua Funebris",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal"
+    ]
+  },
+  {
     "normalizedName": "sia",
     "displayName": "Sia",
     "origin": "AU",
@@ -5010,6 +5026,24 @@
     "tags": [
       "Atmospheric Sludge Metal",
       "Post-Metal"
+    ]
+  },
+  {
+    "normalizedName": "梦灵",
+    "displayName": "梦灵",
+    "albums": [
+      {
+        "name": "山奈 (Summer Shanh)",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Folk Metal"
     ]
   }
 ]

@@ -5152,10 +5152,16 @@
       {
         "name": "Gates To The Unknown",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom",
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Doom",
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "thecivilwars",

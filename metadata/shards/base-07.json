@@ -350,10 +350,19 @@
         "genres": [
           "Grindcore"
         ]
+      },
+      {
+        "name": "Alcohol",
+        "year": "2026",
+        "genres": [
+          "Grindcore",
+          "Crossover"
+        ]
       }
     ],
     "tags": [
-      "Grindcore"
+      "Grindcore",
+      "Crossover"
     ]
   },
   {

@@ -3441,6 +3441,22 @@
     ]
   },
   {
+    "normalizedName": "sambat",
+    "displayName": "Sambat",
+    "albums": [
+      {
+        "name": "Barbarian King",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "sardonic",
     "displayName": "Sardonic",
     "albums": [
@@ -3589,11 +3605,19 @@
           "Black Metal",
           "Dungeon Synth"
         ]
+      },
+      {
+        "name": "Where Shadows Guard the Stronghold",
+        "year": "2026",
+        "genres": [
+          "Dungeon Synth, Symphonic Black Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Dungeon Synth"
+      "Dungeon Synth",
+      "Dungeon Synth, Symphonic Black Metal"
     ]
   },
   {

@@ -416,6 +416,24 @@
     ]
   },
   {
+    "normalizedName": "blindherd",
+    "displayName": "Blindherd",
+    "albums": [
+      {
+        "name": "Hubris",
+        "year": "2026",
+        "genres": [
+          "Melodic Metal",
+          "Blackened Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Metal",
+      "Blackened Death Metal"
+    ]
+  },
+  {
     "normalizedName": "blownout",
     "displayName": "Blown Out",
     "albums": [
@@ -4553,6 +4571,22 @@
     ],
     "tags": [
       "Progressive Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "wizardsofwiznan",
+    "displayName": "Wizards of Wiznan",
+    "albums": [
+      {
+        "name": "The Death of What Could Have Been",
+        "year": "2026",
+        "genres": [
+          "Blackened Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Sludge Metal"
     ]
   },
   {

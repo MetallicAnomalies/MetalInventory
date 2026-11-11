@@ -4727,12 +4727,23 @@
           "Doom Stoner Metal",
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Force of Damnation",
+        "year": "2027",
+        "genres": [
+          "Drone Doom Metal",
+          "Doom",
+          "Stoner Metal"
+        ]
       }
     ],
     "tags": [
       "Drone Stoner Metal",
       "Doom Stoner Metal",
-      "Stoner Metal"
+      "Stoner Metal",
+      "Drone Doom Metal",
+      "Doom"
     ]
   },
   {

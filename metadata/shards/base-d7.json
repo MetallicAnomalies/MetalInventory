@@ -2015,7 +2015,10 @@
       {
         "name": "Fatal Paradox",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Hardcore",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
@@ -2564,6 +2567,22 @@
     "tags": [
       "Progressive Metal",
       "Progressive Rock"
+    ]
+  },
+  {
+    "normalizedName": "molbol",
+    "displayName": "Molbol",
+    "albums": [
+      {
+        "name": "VII",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

@@ -3833,6 +3833,24 @@
     ]
   },
   {
+    "normalizedName": "pohjolacore",
+    "displayName": "Pohjolacore",
+    "albums": [
+      {
+        "name": "Jäljet",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "primes",
     "displayName": "Primes",
     "origin": "GB",
@@ -4533,10 +4551,16 @@
       {
         "name": "Degrade",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Blackened Sludge Metal",
+          "Sludge Metal, Noise Rock"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Blackened Sludge Metal",
+      "Sludge Metal, Noise Rock"
+    ]
   },
   {
     "normalizedName": "tanner",

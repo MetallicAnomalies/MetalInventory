@@ -3938,6 +3938,28 @@
     ]
   },
   {
+    "normalizedName": "salisbury",
+    "displayName": "Salisbury",
+    "albums": [
+      {
+        "name": "Salisbury",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Hardcore",
+          "Crust Punk",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Hardcore",
+      "Crust Punk",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "sapremia",
     "displayName": "Sapremia",
     "albums": [
@@ -4730,6 +4752,13 @@
     "albums": [
       {
         "name": "Pessimistic Realism",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Death in the Emptiness",
         "year": "2026",
         "genres": [
           "Metalcore"

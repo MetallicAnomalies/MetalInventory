@@ -2031,6 +2031,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "All Hail the Rotten Flesh",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2360,6 +2367,26 @@
       "Punk",
       "Hardcore",
       "Crossover Thrash"
+    ]
+  },
+  {
+    "normalizedName": "lordship",
+    "displayName": "Lordship",
+    "albums": [
+      {
+        "name": "The Killing Fields",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Sludge Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Sludge Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -3303,6 +3330,13 @@
       {
         "name": "Facing The Fallout",
         "year": "2015",
+        "genres": [
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "Bound by Shadowbane",
+        "year": "2026",
         "genres": [
           "Power Metal"
         ]

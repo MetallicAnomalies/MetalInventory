@@ -3743,6 +3743,22 @@
     ]
   },
   {
+    "normalizedName": "rabujos",
+    "displayName": "Rabujos",
+    "albums": [
+      {
+        "name": "Febre",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "rainburn",
     "displayName": "Rainburn",
     "albums": [
@@ -4395,6 +4411,22 @@
       "Thrash Metal",
       "Speed Metal",
       "Groove Metal"
+    ]
+  },
+  {
+    "normalizedName": "specthro",
+    "displayName": "Specthro",
+    "albums": [
+      {
+        "name": "Moral Collapse",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {
@@ -5226,6 +5258,13 @@
       {
         "name": "Nigredine Mundi",
         "year": "2022",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "The Shine of Thagirion",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

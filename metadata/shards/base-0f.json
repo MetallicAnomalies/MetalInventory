@@ -1585,6 +1585,26 @@
     ]
   },
   {
+    "normalizedName": "connectingpieces",
+    "displayName": "Connecting Pieces",
+    "albums": [
+      {
+        "name": "Vitruvian",
+        "year": "2026",
+        "genres": [
+          "Melodic Heavy Metal",
+          "Power Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Heavy Metal",
+      "Power Metal",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "contaminated",
     "displayName": "Contaminated",
     "origin": "AU",
@@ -2889,6 +2909,13 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Thou Will Suffer",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3645,6 +3672,22 @@
     ],
     "tags": [
       "Drone Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "mortastra",
+    "displayName": "Mortastra",
+    "albums": [
+      {
+        "name": "Intoxicated by Emptyness",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

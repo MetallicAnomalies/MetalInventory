@@ -2879,6 +2879,13 @@
         "name": "From Hell I Rise: Extended Deluxe Edition",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "My War",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -5404,6 +5411,22 @@
     ]
   },
   {
+    "normalizedName": "tyrlorn",
+    "displayName": "Tyrlorn",
+    "albums": [
+      {
+        "name": "Enemies of My Comrades",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "unbornsuffer",
     "displayName": "Unborn Suffer",
     "albums": [
@@ -5695,12 +5718,18 @@
       {
         "name": "Live At Hallowed Halls",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom",
+          "Stoner Metal",
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Stoner Metal"
+      "Stoner Metal",
+      "Doom",
+      "Sludge Metal"
     ]
   },
   {

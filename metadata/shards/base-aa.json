@@ -3306,10 +3306,18 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Demo 2026",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Black Metal"
     ]
   },
   {
@@ -4804,6 +4812,54 @@
           "Shred",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Handel's Passacaglia",
+        "year": "2026",
+        "genres": [
+          "Speed Shred",
+          "Thrash Metal, Shred"
+        ]
+      },
+      {
+        "name": "Stephen Foster's Old Dog Tray",
+        "year": "2026",
+        "genres": [
+          "Speed Shred",
+          "Thrash Metal, Shred"
+        ]
+      },
+      {
+        "name": "Sanz Folias",
+        "year": "2026",
+        "genres": [
+          "Speed Shred",
+          "Thrash Metal, Shred"
+        ]
+      },
+      {
+        "name": "Moscow Metal",
+        "year": "2026",
+        "genres": [
+          "Speed Shred",
+          "Thrash Metal, Shred"
+        ]
+      },
+      {
+        "name": "Boccherini's Musica Notturna delle Strade di Madrid Passa Calle",
+        "year": "2026",
+        "genres": [
+          "Speed Shred",
+          "Thrash Metal, Shred"
+        ]
+      },
+      {
+        "name": "Our Cat has had Kittens",
+        "year": "2026",
+        "genres": [
+          "Speed Shred",
+          "Thrash Metal, Shred"
+        ]
       }
     ],
     "tags": [
@@ -4811,7 +4867,9 @@
       "Speed Metal",
       "Thrash Metal",
       "Speed Thrash Metal",
-      "Shred"
+      "Shred",
+      "Speed Shred",
+      "Thrash Metal, Shred"
     ]
   },
   {

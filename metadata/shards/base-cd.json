@@ -3382,6 +3382,22 @@
     ]
   },
   {
+    "normalizedName": "sarnatheternal",
+    "displayName": "Sarnath Eternal",
+    "albums": [
+      {
+        "name": "Hymns of the Darker Paths",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "scenteria",
     "displayName": "Scenteria",
     "albums": [
@@ -3729,6 +3745,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "stormking",
+    "displayName": "Storm King",
+    "albums": [
+      {
+        "name": "Lands Beyond the Light",
+        "year": "2026",
+        "genres": [
+          "Black Metal, Dark Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal, Dark Ambient"
+    ]
   },
   {
     "normalizedName": "strikemaster",

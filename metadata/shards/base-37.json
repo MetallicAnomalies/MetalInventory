@@ -2954,6 +2954,26 @@
     ]
   },
   {
+    "normalizedName": "mordortruckers",
+    "displayName": "Mordor Truckers",
+    "albums": [
+      {
+        "name": "Drowning Light",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Doom Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Doom Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "morkgrim",
     "displayName": "Morkgrim",
     "albums": [
@@ -4002,6 +4022,24 @@
     ],
     "tags": [
       "Post-Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "spiritofthemagus",
+    "displayName": "Spirit of the Magus",
+    "albums": [
+      {
+        "name": "The Lament of Gilles de Rais",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dungeon Synth"
     ]
   },
   {

@@ -557,10 +557,18 @@
       {
         "name": "Autumn Tomb",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Sludge Metal",
+          "Stoner Metal",
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Sludge Metal",
+      "Stoner Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "baphometger",

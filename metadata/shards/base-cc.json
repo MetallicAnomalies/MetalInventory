@@ -2290,6 +2290,22 @@
     ]
   },
   {
+    "normalizedName": "kalpea",
+    "displayName": "Kalpea",
+    "albums": [
+      {
+        "name": "Uskosi piina",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "kolapzo",
     "displayName": "Kolapzo",
     "origin": "MX",
@@ -2631,6 +2647,22 @@
     "tags": [
       "Hardcore",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "noroth",
+    "displayName": "Noroth",
+    "albums": [
+      {
+        "name": "Noroth / Mortual",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

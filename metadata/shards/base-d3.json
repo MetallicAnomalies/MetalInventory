@@ -352,6 +352,22 @@
     ]
   },
   {
+    "normalizedName": "blessedchild",
+    "displayName": "Blessed Child",
+    "albums": [
+      {
+        "name": "Kingdom of Storms",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "blindedbyfaith",
     "displayName": "Blinded By Faith",
     "albums": [
@@ -2719,10 +2735,16 @@
       {
         "name": "Still(Leben)",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Gothic Metal",
+          "Rock"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Gothic Metal",
+      "Rock"
+    ]
   },
   {
     "normalizedName": "nachtheem",

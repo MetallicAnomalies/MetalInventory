@@ -1436,6 +1436,22 @@
     ]
   },
   {
+    "normalizedName": "głod",
+    "displayName": "Głód",
+    "albums": [
+      {
+        "name": "Synteza z odpryskami głodu",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "hammerhead",
     "displayName": "Hämmerhead",
     "aliases": [
@@ -2668,6 +2684,24 @@
       }
     ],
     "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "linhamorta",
+    "displayName": "Linha Morta",
+    "albums": [
+      {
+        "name": "Eterno Sufoco",
+        "year": "2026",
+        "genres": [
+          "Dungeon Synth, Ambient",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Dungeon Synth, Ambient",
       "Black Metal"
     ]
   },

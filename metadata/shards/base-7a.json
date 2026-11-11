@@ -2127,10 +2127,16 @@
       {
         "name": "Wiccan Moon",
         "year": "2027",
-        "genres": []
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Stoner Metal",
+      "Rock"
+    ]
   },
   {
     "normalizedName": "lunacy",
@@ -2444,6 +2450,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "O Pai dos Horrores Cósmicos",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2648,6 +2661,22 @@
       {
         "name": "Själv",
         "year": "2014",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "overdosedepresiva",
+    "displayName": "Overdose: Depresiva",
+    "albums": [
+      {
+        "name": "Automisotomy",
+        "year": "2026",
         "genres": [
           "Depressive Black Metal"
         ]

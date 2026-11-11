@@ -1123,6 +1123,22 @@
     ]
   },
   {
+    "normalizedName": "darkdivination",
+    "displayName": "Dark Divination",
+    "albums": [
+      {
+        "name": "Tuhonsaaton täyttymys",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "desolation",
     "displayName": "Desolation",
     "albums": [
@@ -3095,6 +3111,14 @@
     "albums": [
       {
         "name": "Sigorwuldor (Demo III)",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Dungeon Synth"
+        ]
+      },
+      {
+        "name": "Niðhete Promo",
         "year": "2026",
         "genres": [
           "Raw Black Metal",
@@ -5097,6 +5121,13 @@
         "year": "2025",
         "genres": [
           "Heavy Metal"
+        ]
+      },
+      {
+        "name": "Recollections of Entropy: Live Anti-Worship",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
         ]
       }
     ],

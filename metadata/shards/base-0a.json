@@ -132,6 +132,24 @@
     ]
   },
   {
+    "normalizedName": "akrosh",
+    "displayName": "Akrosh",
+    "albums": [
+      {
+        "name": "Till They Suffer",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Hardcore"
+    ]
+  },
+  {
     "normalizedName": "andyburrows",
     "displayName": "Andy Burrows",
     "origin": "US",
@@ -913,10 +931,19 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Among Shadows and Roots",
+        "year": "2027",
+        "genres": [
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Metalcore"
     ]
   },
   {
@@ -1933,6 +1960,14 @@
         "name": "Gods, Myths & Titans",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Firegod",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -3279,6 +3314,22 @@
     "tags": [
       "Gothic Metal",
       "Black Metal",
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "oreamnos",
+    "displayName": "Oreamnos",
+    "albums": [
+      {
+        "name": "In Ruins",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
       "Death Metal"
     ]
   },

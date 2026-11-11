@@ -2313,10 +2313,18 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Krüxcömp: Definitive Discography",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
-      "Doom Metal"
+      "Doom Metal",
+      "Sludge Metal"
     ]
   },
   {
@@ -2461,6 +2469,9 @@
       {
         "name": "Mercy To The Miserable",
         "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
         "genres": [
           "Death Metal"
         ]
@@ -2864,10 +2875,17 @@
           "Death Metal",
           "Thrash Metal"
         ]
+        "genres": [
+          "Black Metal",
+          "Death Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
+      "Death Metal",
+      "Thrash Metal"
       "Death Metal",
       "Thrash Metal"
     ]
@@ -3333,6 +3351,22 @@
     "tags": [
       "Folk Metal",
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "purgatio",
+    "displayName": "Purgatio",
+    "albums": [
+      {
+        "name": "Echoes of a Fallen World",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {

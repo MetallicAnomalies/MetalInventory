@@ -696,6 +696,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Jacket Full of Malice",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -1124,6 +1131,24 @@
     "tags": [
       "Crossover Thrash",
       "Hardcore"
+    ]
+  },
+  {
+    "normalizedName": "deadlikegod",
+    "displayName": "Dead like God",
+    "albums": [
+      {
+        "name": "Albtraum",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal"
     ]
   },
   {
@@ -1638,6 +1663,22 @@
     ]
   },
   {
+    "normalizedName": "ezrabrooks",
+    "displayName": "Ezra Brooks",
+    "albums": [
+      {
+        "name": "Tales from the Ezra Brooks Cycle",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "facegrinder",
     "displayName": "Facegrinder",
     "origin": "AU",
@@ -1766,6 +1807,22 @@
     ],
     "tags": [
       "Atmospheric Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "genestealer",
+    "displayName": "Genestealer",
+    "albums": [
+      {
+        "name": "Reciprocating Malevolence",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore"
     ]
   },
   {
@@ -4571,6 +4628,13 @@
       {
         "name": "Om Hundre åR Er Allting Brennt!!!",
         "year": "2022",
+        "genres": [
+          "Grindcore"
+        ]
+      },
+      {
+        "name": "Mareritt",
+        "year": "2026",
         "genres": [
           "Grindcore"
         ]

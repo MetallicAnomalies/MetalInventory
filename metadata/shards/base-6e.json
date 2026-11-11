@@ -74,6 +74,22 @@
     ]
   },
   {
+    "normalizedName": "akromusto",
+    "displayName": "Akromusto",
+    "albums": [
+      {
+        "name": "Second Wind",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "alandavey",
     "displayName": "Alan Davey",
     "albums": [
@@ -1932,6 +1948,26 @@
     ]
   },
   {
+    "normalizedName": "genocidiodelinfierno",
+    "displayName": "Genocidio del Infierno",
+    "albums": [
+      {
+        "name": "Wearing Out Our Welcome",
+        "year": "2026",
+        "genres": [
+          "Speed Metal",
+          "Thrash Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Speed Metal",
+      "Thrash Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "gorepunch",
     "displayName": "Gorepunch",
     "albums": [
@@ -2823,6 +2859,22 @@
     ]
   },
   {
+    "normalizedName": "methnweapons",
+    "displayName": "Meth 'n' Weapons",
+    "albums": [
+      {
+        "name": "Amok",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "monocluster",
     "displayName": "Monocluster",
     "albums": [
@@ -3406,6 +3458,22 @@
     ]
   },
   {
+    "normalizedName": "sidequest",
+    "displayName": "SideQuest",
+    "albums": [
+      {
+        "name": "Our Dying Last Notes",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Power Metal"
+    ]
+  },
+  {
     "normalizedName": "sirenscry",
     "displayName": "Siren's Cry",
     "albums": [
@@ -3860,6 +3928,22 @@
     "tags": [
       "Pop",
       "Pop Rock"
+    ]
+  },
+  {
+    "normalizedName": "torpedo",
+    "displayName": "Torpedo",
+    "albums": [
+      {
+        "name": "Danger Zone",
+        "year": "2026",
+        "genres": [
+          "Blackened Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Speed Metal"
     ]
   },
   {

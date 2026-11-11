@@ -2627,6 +2627,24 @@
     ]
   },
   {
+    "normalizedName": "highpainthreshold",
+    "displayName": "High Pain Threshold",
+    "albums": [
+      {
+        "name": "Painful Demos... Real Painful",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "hocculta",
     "displayName": "Hocculta",
     "albums": [
@@ -3792,6 +3810,24 @@
     "tags": [
       "Stoner Rock",
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "plosive",
+    "displayName": "Plosive",
+    "albums": [
+      {
+        "name": "Plosive",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Sludge Metal"
     ]
   },
   {

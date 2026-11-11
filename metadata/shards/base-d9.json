@@ -4438,6 +4438,14 @@
           "Melodic Death Metal",
           "Deathcore"
         ]
+      },
+      {
+        "name": "Cerebral Plague",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
@@ -4676,6 +4684,24 @@
       "Rock",
       "Dream Pop",
       "Alt-pop"
+    ]
+  },
+  {
+    "normalizedName": "trephination",
+    "displayName": "Trephination",
+    "albums": [
+      {
+        "name": "DEMOS",
+        "year": "2026",
+        "genres": [
+          "Slam Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Metal",
+      "Brutal Death Metal"
     ]
   },
   {

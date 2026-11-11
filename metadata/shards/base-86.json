@@ -1183,10 +1183,16 @@
       {
         "name": "Chaos",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Thrash Metal",
+          "Heavy Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Thrash Metal",
+      "Heavy Metal"
+    ]
   },
   {
     "normalizedName": "dementor",

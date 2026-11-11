@@ -3933,6 +3933,10 @@
           "Symphonic Power Metal",
           "Symphonic Metal"
         ]
+        "genres": [
+          "Symphonic Power Metal",
+          "Symphonic Metal"
+        ]
       },
       {
         "name": "The Sound Of Nightwish Reborn",
@@ -4340,11 +4344,20 @@
           "Stoner Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "To Serve Man",
+        "year": "2027",
+        "genres": [
+          "Southern Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Stoner Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Southern Metal"
     ]
   },
   {
@@ -5867,9 +5880,14 @@
         "genres": [
           "Celtic Folk Metal"
         ]
+        "genres": [
+          "Celtic Folk Metal"
+        ]
       }
     ],
     "tags": [
+      "Celtic Folk",
+      "Celtic Folk Metal"
       "Celtic Folk",
       "Celtic Folk Metal"
     ]

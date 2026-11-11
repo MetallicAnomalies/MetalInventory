@@ -3672,6 +3672,24 @@
     ]
   },
   {
+    "normalizedName": "proletariandeathhammer",
+    "displayName": "Proletarian Death Hammer",
+    "albums": [
+      {
+        "name": "Storm Over Asia",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "pyrithe",
     "displayName": "Pyrithe",
     "albums": [
@@ -4903,6 +4921,24 @@
       "Rock"
     ],
     "origin": "BR"
+  },
+  {
+    "normalizedName": "thermonuclear",
+    "displayName": "Thermonuclear",
+    "albums": [
+      {
+        "name": "Multipolarity",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
+    ]
   },
   {
     "normalizedName": "thescourge",

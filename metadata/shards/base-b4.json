@@ -570,6 +570,24 @@
     ]
   },
   {
+    "normalizedName": "bloodofheroes",
+    "displayName": "Blood of Heroes",
+    "albums": [
+      {
+        "name": "Blood of Heroes",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "bulb",
     "displayName": "Bulb",
     "albums": [
@@ -1993,6 +2011,35 @@
     ]
   },
   {
+    "normalizedName": "infernalsteel",
+    "displayName": "Infernal Steel",
+    "albums": [
+      {
+        "name": "Into Battle with Malice and Might",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Heavy Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Doomed to Eternal Fire",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Heavy Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Heavy Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "insidiatormorbi",
     "displayName": "Insidiator Morbi",
     "albums": [
@@ -2867,6 +2914,22 @@
       "Technical Death Metal",
       "Instrumental",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "ordrewampyrica",
+    "displayName": "Ordre Wampyrica",
+    "albums": [
+      {
+        "name": "Martyrdom of a Vampyre",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

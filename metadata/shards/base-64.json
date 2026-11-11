@@ -2937,6 +2937,22 @@
     ]
   },
   {
+    "normalizedName": "malastre",
+    "displayName": "Malastre",
+    "albums": [
+      {
+        "name": "Into the Unknown",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "manasplague",
     "displayName": "Man As Plague",
     "origin": "NL",
@@ -3090,6 +3106,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "mirrorofdeceptionmortajas",
+    "displayName": "Mirror of Deception/Mortajas",
+    "albums": [
+      {
+        "name": "Mirror of Deception & Mortajas",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
     ]
   },
   {

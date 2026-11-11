@@ -946,6 +946,13 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "Beyond Repair",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
@@ -1487,6 +1494,26 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "fetishisticdreams",
+    "displayName": "Fetishistic Dreams",
+    "albums": [
+      {
+        "name": "#Room 101",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {
@@ -3440,6 +3467,24 @@
     "tags": [
       "Heavy Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "satanicterror",
+    "displayName": "Satanic Terror",
+    "albums": [
+      {
+        "name": "From the Rotten Womb of Man to the Absolute Erasure of Being",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal"
     ]
   },
   {

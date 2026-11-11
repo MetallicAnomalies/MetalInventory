@@ -193,6 +193,26 @@
     ]
   },
   {
+    "normalizedName": "antikisser",
+    "displayName": "Antikisser",
+    "albums": [
+      {
+        "name": "This Is Our Riffs",
+        "year": "2026",
+        "genres": [
+          "Grindcore",
+          "Death Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore",
+      "Death Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "apothesary",
     "displayName": "Apothesary",
     "albums": [
@@ -4321,6 +4341,22 @@
       "Pop Rock",
       "Rock",
       "Soft Rock"
+    ]
+  },
+  {
+    "normalizedName": "threeknucklesdeep",
+    "displayName": "Three Knuckles Deep",
+    "albums": [
+      {
+        "name": "Three Knuckles Deep",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

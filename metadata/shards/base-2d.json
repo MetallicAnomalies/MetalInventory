@@ -992,6 +992,14 @@
           "Depressive Black Metal",
           "Post-Punk"
         ]
+      },
+      {
+        "name": "Seduced to Fall",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal",
+          "Post-Punk"
+        ]
       }
     ],
     "tags": [
@@ -2184,6 +2192,24 @@
       "Rock",
       "Jazz",
       "Folk, World, & Country"
+    ]
+  },
+  {
+    "normalizedName": "killingtwins",
+    "displayName": "Killing Twins",
+    "albums": [
+      {
+        "name": "Killing Twins",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Death Metal"
     ]
   },
   {

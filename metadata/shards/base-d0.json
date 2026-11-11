@@ -2063,6 +2063,22 @@
     ]
   },
   {
+    "normalizedName": "layad",
+    "displayName": "Layad",
+    "albums": [
+      {
+        "name": "Iblis Penghasut",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "lifehouse",
     "displayName": "Lifehouse",
     "origin": "US",
@@ -4479,6 +4495,22 @@
       "Heavy Metal",
       "Nu Metal",
       "Deathcore"
+    ]
+  },
+  {
+    "normalizedName": "thevoidcathedral",
+    "displayName": "The Void Cathedral",
+    "albums": [
+      {
+        "name": "Cults",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
