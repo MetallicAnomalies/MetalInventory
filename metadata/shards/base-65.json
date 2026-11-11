@@ -918,6 +918,14 @@
           "Doom Metal",
           "Black Metal"
         ]
+      },
+      {
+        "name": "Inevitable Path",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
@@ -3287,6 +3295,22 @@
     ],
     "tags": [
       "Hip Hop"
+    ]
+  },
+  {
+    "normalizedName": "patricide",
+    "displayName": "Patricide",
+    "albums": [
+      {
+        "name": "Zrodzeni z otchłani",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

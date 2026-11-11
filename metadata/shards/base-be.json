@@ -617,6 +617,24 @@
     "tags": []
   },
   {
+    "normalizedName": "clavaferrea",
+    "displayName": "Clava Ferrea",
+    "albums": [
+      {
+        "name": "Fantasy Battles of the Past and Future",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dungeon Synth"
+    ]
+  },
+  {
     "normalizedName": "closer",
     "displayName": "Closer",
     "origin": "GR",
@@ -2421,6 +2439,13 @@
     "albums": [
       {
         "name": "The Emptiness Within",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      },
+      {
+        "name": "Obsessed with Darkness and Hatred",
         "year": "2026",
         "genres": [
           "Raw Black Metal"

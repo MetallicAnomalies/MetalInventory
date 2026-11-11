@@ -1560,6 +1560,24 @@
     ]
   },
   {
+    "normalizedName": "denovo",
+    "displayName": "De Novo",
+    "albums": [
+      {
+        "name": "The Flowers That Bloom in Winter",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "depravation",
     "displayName": "Depravation",
     "albums": [
@@ -4315,10 +4333,14 @@
       {
         "name": "Echoes Of The Past",
         "year": "2027",
-        "genres": []
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "scuorn",
@@ -4429,6 +4451,24 @@
     ],
     "tags": [
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "succumbence",
+    "displayName": "Succumbence",
+    "albums": [
+      {
+        "name": "The Absence of Grace",
+        "year": "2026",
+        "genres": [
+          "Black Metal, Folk Ambient",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal, Folk Ambient",
+      "Ambient"
     ]
   },
   {

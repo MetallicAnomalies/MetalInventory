@@ -248,6 +248,13 @@
         "genres": [
           "Symphonic Black Metal"
         ]
+      },
+      {
+        "name": "Sincere Repentance",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -1911,6 +1918,22 @@
     ]
   },
   {
+    "normalizedName": "forbannelse",
+    "displayName": "Forbannelse",
+    "albums": [
+      {
+        "name": "Demω MMXXVI",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "funeralopolis",
     "displayName": "Funeralopolis",
     "albums": [
@@ -3307,6 +3330,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Enyo",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -4291,6 +4321,26 @@
     "tags": [
       "Alternative Rock",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "tristram",
+    "displayName": "Tristram",
+    "albums": [
+      {
+        "name": "Ur ångest född",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Doom Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Doom Metal",
+      "Ambient"
     ]
   },
   {

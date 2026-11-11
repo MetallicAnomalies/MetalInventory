@@ -79,6 +79,24 @@
     ]
   },
   {
+    "normalizedName": "abyssalworm",
+    "displayName": "Abyssal Worm",
+    "albums": [
+      {
+        "name": "Human Cull",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "acolddeadbody",
     "displayName": "A Cold Dead Body",
     "albums": [
@@ -3323,6 +3341,24 @@
     ],
     "tags": [
       "Glam Metal"
+    ]
+  },
+  {
+    "normalizedName": "lunatii",
+    "displayName": "Lunatii",
+    "albums": [
+      {
+        "name": "No Retentance No Redemption No Salvation No Reflections",
+        "year": "2026",
+        "genres": [
+          "Depressive Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Metal",
+      "Post-Black Metal"
     ]
   },
   {

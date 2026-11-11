@@ -1868,6 +1868,22 @@
     ]
   },
   {
+    "normalizedName": "endsembrace",
+    "displayName": "Ends Embrace",
+    "albums": [
+      {
+        "name": "Perseverance",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "esperoza",
     "displayName": "Esperoza",
     "albums": [
@@ -3493,6 +3509,22 @@
     ]
   },
   {
+    "normalizedName": "phasm",
+    "displayName": "Phasm",
+    "albums": [
+      {
+        "name": "Diabolic Power",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "projectmishram",
     "displayName": "Project MishraM",
     "origin": "IN",
@@ -3896,6 +3928,11 @@
         "name": "Fuck Around Find Out",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Wreedheden",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": []
@@ -4262,6 +4299,13 @@
     "albums": [
       {
         "name": "Passio into inferno e inviti mortis",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Orgasmic Rites",
         "year": "2026",
         "genres": [
           "Black Metal"

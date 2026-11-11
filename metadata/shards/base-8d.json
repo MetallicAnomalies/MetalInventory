@@ -3057,10 +3057,27 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Sonnets of Salvation",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      },
+      {
+        "name": "Discovering What Remains",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Metalcore",
+      "Melodic Death Metal"
     ]
   },
   {

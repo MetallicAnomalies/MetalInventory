@@ -455,6 +455,26 @@
     ]
   },
   {
+    "normalizedName": "asalto",
+    "displayName": "Asalto",
+    "albums": [
+      {
+        "name": "El botin",
+        "year": "2026",
+        "genres": [
+          "Crossover Hardcore",
+          "Hardcore",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Crossover Hardcore",
+      "Hardcore",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "belphegor",
     "displayName": "Belphegor",
     "origin": "AT",
@@ -2081,6 +2101,13 @@
       {
         "name": "Ruination",
         "year": "2023",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "The Dominion of the Fallen Star",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]
@@ -4878,6 +4905,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "yarekovich",
+    "displayName": "Yarek Ovich",
+    "albums": [
+      {
+        "name": "Cinders",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {

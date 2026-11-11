@@ -2721,6 +2721,22 @@
     ]
   },
   {
+    "normalizedName": "junkout",
+    "displayName": "Junkout",
+    "albums": [
+      {
+        "name": "The Epic of The Black Swamps",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Avant-garde Black Metal"
+    ]
+  },
+  {
     "normalizedName": "kambrium",
     "displayName": "Kambrium",
     "origin": "DE",
@@ -3023,6 +3039,26 @@
     ],
     "tags": [
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "leszek",
+    "displayName": "Leszek",
+    "albums": [
+      {
+        "name": "Ewige Verdammnis",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal",
+      "Noise"
     ]
   },
   {

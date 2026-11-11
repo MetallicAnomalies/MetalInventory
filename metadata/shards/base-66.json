@@ -1646,6 +1646,24 @@
     ]
   },
   {
+    "normalizedName": "extensiveslaughter",
+    "displayName": "Extensive Slaughter",
+    "albums": [
+      {
+        "name": "Demo",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Crust Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Crust Punk"
+    ]
+  },
+  {
     "normalizedName": "fireforce",
     "displayName": "FireForce",
     "origin": "BE",
@@ -3628,6 +3646,24 @@
     ],
     "tags": [
       "Raw Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "southgate",
+    "displayName": "SouthGate",
+    "albums": [
+      {
+        "name": "Roots of Evil",
+        "year": "2026",
+        "genres": [
+          "Groove Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal",
+      "Heavy Metal"
     ]
   },
   {

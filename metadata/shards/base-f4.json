@@ -1987,6 +1987,24 @@
     ]
   },
   {
+    "normalizedName": "idealusmaximus",
+    "displayName": "Idealus Maximus",
+    "albums": [
+      {
+        "name": "Side A",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "idoloffear",
     "displayName": "Idol Of Fear",
     "albums": [
@@ -2251,6 +2269,24 @@
     ],
     "tags": [
       "Blackened Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "kathexis",
+    "displayName": "Kathexis",
+    "albums": [
+      {
+        "name": "Stillborn Light",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal"
     ]
   },
   {

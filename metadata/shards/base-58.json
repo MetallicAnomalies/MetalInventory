@@ -276,6 +276,13 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Mistaken",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -1716,6 +1723,13 @@
         "genres": [
           "Depressive Black Metal"
         ]
+      },
+      {
+        "name": "Loneliness and Sadness",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2059,6 +2073,22 @@
     "tags": [
       "Post-Metal",
       "Post-Hardcore"
+    ]
+  },
+  {
+    "normalizedName": "goldenchamber",
+    "displayName": "Golden Chamber",
+    "albums": [
+      {
+        "name": "Effloresce",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

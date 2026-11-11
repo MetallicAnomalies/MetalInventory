@@ -1626,6 +1626,13 @@
         "genres": [
           "Symphonic Black Metal"
         ]
+      },
+      {
+        "name": "Far Away from the Stars",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -3641,6 +3648,22 @@
     "tags": [
       "Heavy Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "paraklit",
+    "displayName": "Paraklit",
+    "albums": [
+      {
+        "name": "The Screams of a Sinful Christian",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

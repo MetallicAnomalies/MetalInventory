@@ -2547,6 +2547,13 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Bring Out the Dead",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
@@ -3677,6 +3684,22 @@
       {
         "name": "Güneş Hükmü",
         "year": "2025",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "rugged",
+    "displayName": "Rugged",
+    "albums": [
+      {
+        "name": "Deeper than Blood",
+        "year": "2026",
         "genres": [
           "Metalcore"
         ]

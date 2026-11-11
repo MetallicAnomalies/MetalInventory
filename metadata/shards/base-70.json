@@ -2620,12 +2620,22 @@
         "name": "Infernus",
         "year": "2019",
         "genres": [
-          "Neoclassical Symphonic"
+          "Neoclassical Symphonic Metal"
+        ]
+      },
+      {
+        "name": "Desiderium",
+        "year": "2026",
+        "genres": [
+          "Neoclassical Metal",
+          "Symphonic Metal"
         ]
       }
     ],
     "tags": [
-      "Neoclassical Symphonic"
+      "Neoclassical Symphonic Metal",
+      "Neoclassical Metal",
+      "Symphonic Metal"
     ]
   },
   {

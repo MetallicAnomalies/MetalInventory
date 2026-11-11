@@ -2149,10 +2149,20 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Ergot",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Atmospheric Black Metal"
+      "Atmospheric Black Metal",
+      "Black Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -2315,6 +2325,22 @@
       "Hardcore",
       "Nu Metal",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "flyingbattery",
+    "displayName": "Flying Battery",
+    "albums": [
+      {
+        "name": "Visions",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
     ]
   },
   {
@@ -3472,6 +3498,22 @@
     ]
   },
   {
+    "normalizedName": "kald",
+    "displayName": "Kald",
+    "albums": [
+      {
+        "name": "Zeitentod",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "kapitur",
     "displayName": "Kapitur",
     "origin": "CA",
@@ -4065,6 +4107,24 @@
       "Hard Rock",
       "Pop Rock",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "people",
+    "displayName": "People",
+    "albums": [
+      {
+        "name": "Supernothing Hero",
+        "year": "2026",
+        "genres": [
+          "Experimental Funk Grindcore",
+          "Groove Metal, Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Experimental Funk Grindcore",
+      "Groove Metal, Grindcore"
     ]
   },
   {

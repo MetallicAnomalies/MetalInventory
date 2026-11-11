@@ -1091,6 +1091,13 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Dați drumul la cer",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
@@ -1542,6 +1549,22 @@
       {
         "name": "Infervm Bellvm Hymnvs",
         "year": "2020",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "iisnaahi",
+    "displayName": "'Iisnááhí",
+    "albums": [
+      {
+        "name": "Lost Kingdom of a Dying Wolf",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]
@@ -2345,6 +2368,24 @@
     ],
     "tags": [
       "Industrial Metal"
+    ]
+  },
+  {
+    "normalizedName": "osmic",
+    "displayName": "Osmic",
+    "albums": [
+      {
+        "name": "I",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Doom Metal"
     ]
   },
   {

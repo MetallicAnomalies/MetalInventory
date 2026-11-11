@@ -2005,6 +2005,24 @@
     ]
   },
   {
+    "normalizedName": "fanderiket",
+    "displayName": "Fanderiket",
+    "albums": [
+      {
+        "name": "Bonfire",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Ambient"
+    ]
+  },
+  {
     "normalizedName": "fatjoe",
     "displayName": "Fat Joe",
     "origin": "US",
@@ -3969,10 +3987,18 @@
         "genres": [
           "Gorenoise"
         ]
+      },
+      {
+        "name": "Amphibians Performing Surgery: Oovulian Septics",
+        "year": "2026",
+        "genres": [
+          "Gorenoise, Various"
+        ]
       }
     ],
     "tags": [
-      "Gorenoise"
+      "Gorenoise",
+      "Gorenoise, Various"
     ]
   },
   {

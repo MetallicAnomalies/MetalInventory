@@ -1,5 +1,23 @@
 [
   {
+    "normalizedName": "acromancer",
+    "displayName": "Acromancer",
+    "albums": [
+      {
+        "name": "Live at Delta Doom",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "adversarial",
     "displayName": "Adversarial",
     "albums": [
@@ -1025,6 +1043,22 @@
     ]
   },
   {
+    "normalizedName": "demiurgia",
+    "displayName": "Demiurgia",
+    "albums": [
+      {
+        "name": "Nécrogenèse",
+        "year": "2026",
+        "genres": [
+          "Industrial Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Industrial Death Metal"
+    ]
+  },
+  {
     "normalizedName": "desiderium",
     "displayName": "Desiderium",
     "albums": [
@@ -1941,6 +1975,22 @@
     "tags": [
       "Brutal Death Metal",
       "Goregrind"
+    ]
+  },
+  {
+    "normalizedName": "hunged",
+    "displayName": "Hunged",
+    "albums": [
+      {
+        "name": "Hunged",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {
@@ -3699,12 +3749,22 @@
           "Death Metal",
           "Post-Hardcore"
         ]
+      },
+      {
+        "name": "Ciphers and Teeth",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Death Metal",
+          "Post-Hardcore"
+        ]
       }
     ],
     "tags": [
       "Sludge Post-Hardcore",
       "Death Metal",
-      "Post-Hardcore"
+      "Post-Hardcore",
+      "Sludge Metal"
     ]
   },
   {

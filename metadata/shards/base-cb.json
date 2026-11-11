@@ -1581,6 +1581,11 @@
         "name": "Satanic Deathcult",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "HxGxHx // Genophobic Perversion",
+        "year": "2026",
+        "genres": []
       }
     ],
     "tags": []
@@ -4791,7 +4796,9 @@
       {
         "name": "Voodoo Ranger",
         "year": "2027",
-        "genres": []
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [

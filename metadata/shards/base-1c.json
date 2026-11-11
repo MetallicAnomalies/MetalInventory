@@ -594,11 +594,21 @@
           "Stoner Metal",
           "Psychedelic Doom Metal"
         ]
+      },
+      {
+        "name": "Megacelestial",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Stoner Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Stoner Metal",
-      "Psychedelic Doom Metal"
+      "Psychedelic Doom Metal",
+      "Psychedelic Stoner Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -1855,11 +1865,29 @@
           "Avant-garde Progressive Death Metal",
           "Progressive Death Metal"
         ]
+      },
+      {
+        "name": "The Keepers of the Gate",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Various",
+          "Progressive Death Metal, Various"
+        ]
+      },
+      {
+        "name": "On a Plane to Oz",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Various",
+          "Progressive Death Metal, Various"
+        ]
       }
     ],
     "tags": [
       "Avant-garde Progressive Death Metal",
-      "Progressive Death Metal"
+      "Progressive Death Metal",
+      "Avant-garde Various",
+      "Progressive Death Metal, Various"
     ]
   },
   {
@@ -4098,6 +4126,22 @@
     "tags": [
       "Thrash Metal",
       "Hardcore Punk"
+    ]
+  },
+  {
+    "normalizedName": "svækling",
+    "displayName": "Svækling",
+    "albums": [
+      {
+        "name": "Det som trives i mørket",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

@@ -778,6 +778,22 @@
     ]
   },
   {
+    "normalizedName": "distantacheron",
+    "displayName": "Distant Acheron",
+    "albums": [
+      {
+        "name": "Distant Acheron",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "dreamtheater",
     "displayName": "Dream Theater",
     "origin": "US",
@@ -4580,6 +4596,22 @@
     ],
     "tags": [
       "Suomi"
+    ]
+  },
+  {
+    "normalizedName": "theotokos",
+    "displayName": "Theotokos",
+    "albums": [
+      {
+        "name": "Uncreated Light",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

@@ -2313,10 +2313,18 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Krüxcömp: Definitive Discography",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
-      "Doom Metal"
+      "Doom Metal",
+      "Sludge Metal"
     ]
   },
   {
@@ -3336,6 +3344,22 @@
     ]
   },
   {
+    "normalizedName": "purgatio",
+    "displayName": "Purgatio",
+    "albums": [
+      {
+        "name": "Echoes of a Fallen World",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "relicpoint",
     "displayName": "Relic Point",
     "albums": [
@@ -3568,6 +3592,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "sodtheearth",
+    "displayName": "Sod the Earth",
+    "albums": [
+      {
+        "name": "Touch Grass",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Rock"
     ]
   },
   {

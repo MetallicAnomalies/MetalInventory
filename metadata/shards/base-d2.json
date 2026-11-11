@@ -1384,6 +1384,26 @@
     ]
   },
   {
+    "normalizedName": "electricdeathbeat",
+    "displayName": "Electric Deathbeat",
+    "albums": [
+      {
+        "name": "Quicksilver Dreams",
+        "year": "2026",
+        "genres": [
+          "Electronic",
+          "Melodic Groove Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Electronic",
+      "Melodic Groove Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "elfforerroiakhyver",
     "displayName": "Elffor/Erroiak/Hyver",
     "albums": [
@@ -5123,6 +5143,26 @@
     ],
     "tags": [
       "Pagan Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "xog",
+    "displayName": "XOG",
+    "albums": [
+      {
+        "name": "Dirty Swamp Witches",
+        "year": "2026",
+        "genres": [
+          "Death Doom Metal",
+          "Doom",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Doom Metal",
+      "Doom",
+      "Stoner Metal"
     ]
   },
   {

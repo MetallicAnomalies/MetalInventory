@@ -1062,6 +1062,14 @@
           "Heavy Metal",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Identical",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
@@ -3996,6 +4004,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "solarhammer",
+    "displayName": "Solar Hammer",
+    "albums": [
+      {
+        "name": "Outlawed",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Rock"
     ]
   },
   {

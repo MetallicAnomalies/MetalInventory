@@ -16,6 +16,24 @@
     ]
   },
   {
+    "normalizedName": "alpamysh",
+    "displayName": "Alpamysh",
+    "albums": [
+      {
+        "name": "Storie dal regno d'amore e miseria",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Ambient"
+    ]
+  },
+  {
     "normalizedName": "alterusama",
     "displayName": "Alter (Usa-ma)",
     "albums": [
@@ -698,6 +716,26 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "caesiveiante",
+    "displayName": "Caesivei Ante",
+    "albums": [
+      {
+        "name": "The Mysteries of the Night",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Dark Ambient",
+          "Drone"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal",
+      "Dark Ambient",
+      "Drone"
     ]
   },
   {

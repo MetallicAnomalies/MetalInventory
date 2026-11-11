@@ -1263,11 +1263,20 @@
           "Doom Sludge Metal",
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "Death Lies Deep Within Beauty",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Sludge Metal",
-      "Sludge Metal"
+      "Sludge Metal",
+      "Doom"
     ]
   },
   {
@@ -2551,6 +2560,22 @@
     ],
     "tags": [
       "Symphonic Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "kulterer",
+    "displayName": "Kulterer",
+    "albums": [
+      {
+        "name": "A Lifetime of Fucking Disgust",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

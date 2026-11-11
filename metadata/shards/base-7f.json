@@ -3289,11 +3289,23 @@
           "Stoner Rock",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "White Sands",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Stoner Metal",
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
       "Stoner Rock",
-      "Doom Metal"
+      "Doom Metal",
+      "Doom",
+      "Stoner Metal",
+      "Sludge Metal"
     ]
   },
   {
@@ -4379,6 +4391,26 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "wolfsystem",
+    "displayName": "Wolf System",
+    "albums": [
+      {
+        "name": "Eat the Coward",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Heavy Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Heavy Metal",
+      "Doom Metal"
     ]
   },
   {

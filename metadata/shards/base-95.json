@@ -105,6 +105,24 @@
     ]
   },
   {
+    "normalizedName": "aloof",
+    "displayName": "Aloof",
+    "albums": [
+      {
+        "name": "Flourish in Famine",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "altarsofgrief",
     "displayName": "Altars of Grief",
     "origin": "CA",
@@ -1906,6 +1924,22 @@
     ]
   },
   {
+    "normalizedName": "erosivevision",
+    "displayName": "Erosive Vision",
+    "albums": [
+      {
+        "name": "True to Itself",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Metal"
+    ]
+  },
+  {
     "normalizedName": "esogenesi",
     "displayName": "Esogenesi",
     "albums": [
@@ -3512,6 +3546,24 @@
       "Thrash Metal",
       "Hardcore",
       "Punk"
+    ]
+  },
+  {
+    "normalizedName": "pulsadinura",
+    "displayName": "Pulsa di Nura",
+    "albums": [
+      {
+        "name": "Decade of Hopeless",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal",
+      "Metalcore"
     ]
   },
   {

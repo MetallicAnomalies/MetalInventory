@@ -3248,6 +3248,22 @@
     ]
   },
   {
+    "normalizedName": "nosfero",
+    "displayName": "Nosfero",
+    "albums": [
+      {
+        "name": "The Witches Dance",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "nucleartomb",
     "displayName": "Nuclear Tomb",
     "origin": "US",
@@ -3856,6 +3872,13 @@
         "genres": [
           "Death Metal",
           "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Sepulchral Spore",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
         ]
       }
     ],

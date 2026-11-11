@@ -3743,11 +3743,20 @@
           "Symphonic Melodic Heavy Metal",
           "Melodic Heavy Metal"
         ]
+      },
+      {
+        "name": "Mirage of Love",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Melodic Heavy Metal"
+        ]
       }
     ],
     "tags": [
       "Symphonic Melodic Heavy Metal",
-      "Melodic Heavy Metal"
+      "Melodic Heavy Metal",
+      "Symphonic Metal"
     ]
   },
   {
@@ -3840,11 +3849,20 @@
           "Black Doom Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Baharodzica",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Black Doom Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Black Metal"
     ]
   },
   {

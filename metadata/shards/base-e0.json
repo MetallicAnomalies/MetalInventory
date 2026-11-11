@@ -3265,6 +3265,22 @@
     ]
   },
   {
+    "normalizedName": "ryan",
+    "displayName": "Ryan",
+    "albums": [
+      {
+        "name": "Demo I",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "scarofthesun",
     "displayName": "Scar Of The Sun",
     "origin": "AU",
@@ -4464,6 +4480,22 @@
       "Black Noise",
       "Death Metal",
       "Noise"
+    ]
+  },
+  {
+    "normalizedName": "wampyrkult",
+    "displayName": "WampyrKult",
+    "albums": [
+      {
+        "name": "Obsesión alcohólica",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

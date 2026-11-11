@@ -2735,10 +2735,16 @@
       {
         "name": "Still(Leben)",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Gothic Metal",
+          "Rock"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Gothic Metal",
+      "Rock"
+    ]
   },
   {
     "normalizedName": "nachtheem",

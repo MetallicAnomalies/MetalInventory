@@ -1078,6 +1078,22 @@
     ]
   },
   {
+    "normalizedName": "cryonix",
+    "displayName": "Cryonix",
+    "albums": [
+      {
+        "name": "Fear. Obey. Repeat.",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "darkcastle",
     "displayName": "Dark Castle",
     "origin": "SE",
@@ -5242,6 +5258,22 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "valknir",
+    "displayName": "Valknir",
+    "albums": [
+      {
+        "name": "Tales of Origin",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

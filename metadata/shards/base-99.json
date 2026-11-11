@@ -537,6 +537,14 @@
           "Ambient",
           "Black Metal"
         ]
+      },
+      {
+        "name": "Dance of Forgotten Souls",
+        "year": "2026",
+        "genres": [
+          "Ambient",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -1849,6 +1857,13 @@
       },
       {
         "name": "Doom Is Rising",
+        "year": "2026",
+        "genres": [
+          "Epic Doom Metal"
+        ]
+      },
+      {
+        "name": "Haze of Doom",
         "year": "2026",
         "genres": [
           "Epic Doom Metal"

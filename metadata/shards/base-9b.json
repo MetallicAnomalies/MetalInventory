@@ -4654,6 +4654,22 @@
     ]
   },
   {
+    "normalizedName": "vinterkult",
+    "displayName": "Vinterkult",
+    "albums": [
+      {
+        "name": "Det kalde riket",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "vyrmuk",
     "displayName": "Vyr Muk",
     "albums": [
@@ -4738,6 +4754,13 @@
       {
         "name": "öRöklét",
         "year": "2025",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "Suttogó",
+        "year": "2026",
         "genres": [
           "Atmospheric Black Metal"
         ]
