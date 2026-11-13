@@ -980,12 +980,21 @@
           "Black Speed Metal",
           "Speed Metal"
         ]
+      },
+      {
+        "name": "Hollowed in Phantasm - Embraced by Death",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
       "Blackened Speed Metal",
       "Black Speed Metal",
-      "Speed Metal"
+      "Speed Metal",
+      "Black Metal"
     ]
   },
   {
@@ -2693,6 +2702,14 @@
     "albums": [
       {
         "name": "Eterno Sufoco",
+        "year": "2026",
+        "genres": [
+          "Dungeon Synth, Ambient",
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Mínimos Fracassos Me Destruíram",
         "year": "2026",
         "genres": [
           "Dungeon Synth, Ambient",

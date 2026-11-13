@@ -3330,11 +3330,23 @@
           "Death Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Downpour",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Thrash Metal",
+          "Symphonic Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Symphonic Metal",
+      "Melodic Death Metal"
     ]
   },
   {

@@ -1881,11 +1881,20 @@
           "Sludge Metal",
           "Post-Hardcore"
         ]
+      },
+      {
+        "name": "Skinripper",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Hardcore"
+        ]
       }
     ],
     "tags": [
       "Sludge Metal",
-      "Post-Hardcore"
+      "Post-Hardcore",
+      "Hardcore"
     ]
   },
   {
@@ -3129,11 +3138,16 @@
       {
         "name": "Sankalpa",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Progressive Metal",
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Sludge Metal"
+      "Progressive Sludge Metal",
+      "Progressive Metal",
+      "Sludge Metal"
     ]
   },
   {

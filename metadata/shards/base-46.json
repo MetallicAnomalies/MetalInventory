@@ -787,6 +787,22 @@
     ]
   },
   {
+    "normalizedName": "catacombvoices",
+    "displayName": "Catacomb Voices",
+    "albums": [
+      {
+        "name": "Rotten Flesh",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "cervus",
     "displayName": "Cervus",
     "albums": [
@@ -2807,6 +2823,13 @@
       },
       {
         "name": "Cold Dead Hands / Ripped Up Existence",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Excising The Amygala",
         "year": "2026",
         "genres": [
           "Death Metal"

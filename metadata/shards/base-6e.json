@@ -4585,5 +4585,23 @@
       "Punk",
       "Black Metal"
     ]
+  },
+  {
+    "normalizedName": "wreaker",
+    "displayName": "Wreaker",
+    "albums": [
+      {
+        "name": "Creep Stew",
+        "year": "2026",
+        "genres": [
+          "Blackened Grindcore",
+          "Crust Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Grindcore",
+      "Crust Punk"
+    ]
   }
 ]

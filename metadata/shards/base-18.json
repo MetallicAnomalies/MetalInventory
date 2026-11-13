@@ -4268,10 +4268,21 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Serpentine",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Symphonic Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Progressive Metal",
+      "Rock"
     ]
   },
   {

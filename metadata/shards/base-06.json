@@ -4210,6 +4210,22 @@
     ]
   },
   {
+    "normalizedName": "utopyca",
+    "displayName": "Utopyca",
+    "albums": [
+      {
+        "name": "La lourdeur du socle",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "uvkir",
     "displayName": "Uvkir",
     "albums": [
@@ -4818,6 +4834,15 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Through Fire & Ashes",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Symphonic Rock",
+          "Alternative Rock"
+        ]
       }
     ],
     "tags": [
@@ -4828,7 +4853,9 @@
       "Gothic Rock",
       "Power Metal",
       "Alternative Metal",
-      "Rock"
+      "Rock",
+      "Symphonic Rock",
+      "Alternative Rock"
     ]
   },
   {

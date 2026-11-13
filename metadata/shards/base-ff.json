@@ -1363,6 +1363,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Apocalyptic Trauma",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3950,6 +3957,22 @@
     ],
     "tags": [
       "Gothic Metal"
+    ]
+  },
+  {
+    "normalizedName": "svora",
+    "displayName": "Svora",
+    "albums": [
+      {
+        "name": "Angel of Sacred Havoc",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

@@ -1037,6 +1037,24 @@
     ]
   },
   {
+    "normalizedName": "bonanza",
+    "displayName": "Bonanza",
+    "albums": [
+      {
+        "name": "Cult Trip / Wizard Berserk",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "borninexile",
     "displayName": "Born In Exile",
     "origin": "ES",

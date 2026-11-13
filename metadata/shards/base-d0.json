@@ -165,11 +165,20 @@
           "Death Thrash Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Artillery",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Death Thrash Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Death Metal"
     ]
   },
   {

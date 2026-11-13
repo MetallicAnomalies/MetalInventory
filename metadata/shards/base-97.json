@@ -2274,11 +2274,20 @@
           "Black Metal",
           "Gothic Rock"
         ]
+      },
+      {
+        "name": "Antropophagus",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Gothic Rock"
+      "Gothic Rock",
+      "Death Metal"
     ]
   },
   {
@@ -3457,11 +3466,21 @@
         "genres": [
           "Groove Thrash Metal"
         ]
+      },
+      {
+        "name": "We Are Deathless",
+        "year": "2026",
+        "genres": [
+          "Groove Nu Metal",
+          "Thrash Metal, Nu Metal"
+        ]
       }
     ],
     "tags": [
       "Groove Thrash Metal",
-      "Nu Metal"
+      "Nu Metal",
+      "Groove Nu Metal",
+      "Thrash Metal, Nu Metal"
     ]
   },
   {

@@ -2477,6 +2477,13 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Open",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
@@ -4926,6 +4933,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "thornwhipped",
+    "displayName": "Thornwhipped",
+    "albums": [
+      {
+        "name": "Tactus Viperae",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {

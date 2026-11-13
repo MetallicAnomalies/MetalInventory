@@ -3601,7 +3601,11 @@
       {
         "name": "Dominion",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Stoner Metal",
+          "Doom Metal",
+          "Rock"
+        ]
       },
       {
         "name": "Tempest",

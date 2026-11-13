@@ -3367,6 +3367,22 @@
     ]
   },
   {
+    "normalizedName": "madrigal",
+    "displayName": "Madrigal",
+    "albums": [
+      {
+        "name": "Rite of Initiation",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "malacath",
     "displayName": "Malacath",
     "albums": [
@@ -3432,6 +3448,13 @@
         "genres": [
           "Black Metal",
           "Ambient"
+        ]
+      },
+      {
+        "name": "Funerary Echoes",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
         ]
       }
     ],
@@ -3850,6 +3873,24 @@
     ],
     "tags": [
       "Mizrahi"
+    ]
+  },
+  {
+    "normalizedName": "noisgoroth",
+    "displayName": "Noisgoroth",
+    "albums": [
+      {
+        "name": "Chaotic Madness",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Noise"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Noise"
     ]
   },
   {

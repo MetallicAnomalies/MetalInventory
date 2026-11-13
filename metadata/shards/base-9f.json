@@ -1196,6 +1196,22 @@
     ]
   },
   {
+    "normalizedName": "cappelapromisccua",
+    "displayName": "Cappela Promisccua",
+    "albums": [
+      {
+        "name": "Empire the Black Flame",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "cemeterywildlife",
     "displayName": "Cemetery Wildlife",
     "albums": [
@@ -1233,6 +1249,14 @@
       },
       {
         "name": "Skullbird",
+        "year": "2026",
+        "genres": [
+          "Electronic",
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "Cat Ghosts",
         "year": "2026",
         "genres": [
           "Electronic",

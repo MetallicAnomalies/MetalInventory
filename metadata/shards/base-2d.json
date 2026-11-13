@@ -401,6 +401,24 @@
     ]
   },
   {
+    "normalizedName": "atavum",
+    "displayName": "Atavum",
+    "albums": [
+      {
+        "name": "Forsaken Sanctum",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Shoegaze"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Shoegaze"
+    ]
+  },
+  {
     "normalizedName": "atmoran",
     "displayName": "Atmoran",
     "albums": [
@@ -4669,6 +4687,22 @@
     ],
     "tags": [
       "Progressive Rock"
+    ]
+  },
+  {
+    "normalizedName": "sheglapes",
+    "displayName": "Sheglapes",
+    "albums": [
+      {
+        "name": "Nexus",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
     ]
   },
   {

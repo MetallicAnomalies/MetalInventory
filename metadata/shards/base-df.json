@@ -1812,6 +1812,13 @@
         "name": "Dragonforce",
         "year": "2027",
         "genres": []
+      },
+      {
+        "name": "Neverending Nightmare",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -4464,6 +4471,24 @@
       "Raw Black Metal",
       "Dungeon Synth Noise",
       "Noise"
+    ]
+  },
+  {
+    "normalizedName": "stympade",
+    "displayName": "Stympade",
+    "albums": [
+      {
+        "name": "Att överge sitt eget människovärde",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Doom Metal"
     ]
   },
   {

@@ -1388,6 +1388,24 @@
     ]
   },
   {
+    "normalizedName": "deteriorationputridstu",
+    "displayName": "Deterioration/Putrid Stu",
+    "albums": [
+      {
+        "name": "Don't Cross The Boss",
+        "year": "2026",
+        "genres": [
+          "Grindcore",
+          "Goregrind, Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore",
+      "Goregrind, Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "dishumane",
     "displayName": "Dishumane",
     "albums": [
@@ -4211,6 +4229,22 @@
     ],
     "tags": [
       "Depressive Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "stagecoachinferno",
+    "displayName": "Stagecoach Inferno",
+    "albums": [
+      {
+        "name": "The House of the Wind",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {

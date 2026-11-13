@@ -1509,6 +1509,22 @@
     ]
   },
   {
+    "normalizedName": "distantmorning",
+    "displayName": "Distant Morning",
+    "albums": [
+      {
+        "name": "Once Lost",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Metal"
+    ]
+  },
+  {
     "normalizedName": "dreamweaver",
     "displayName": "Dream Weaver",
     "albums": [
@@ -2256,6 +2272,13 @@
       {
         "name": "Towards The Light",
         "year": "2025",
+        "genres": [
+          "Deathcore"
+        ]
+      },
+      {
+        "name": "At the Throne of God",
+        "year": "2026",
         "genres": [
           "Deathcore"
         ]

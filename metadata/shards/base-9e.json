@@ -1782,6 +1782,22 @@
     ]
   },
   {
+    "normalizedName": "festeringwound",
+    "displayName": "Festering Wound",
+    "albums": [
+      {
+        "name": "Interdimensional Mutations of Animated Flesh",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "formingthevoid",
     "displayName": "Forming the Void",
     "origin": "US",
@@ -3049,6 +3065,14 @@
     "albums": [
       {
         "name": "Er tegenin",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Drill"
+        ]
+      },
+      {
+        "name": "Teloorgang",
         "year": "2026",
         "genres": [
           "Black Metal",

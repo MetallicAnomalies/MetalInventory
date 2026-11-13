@@ -3228,10 +3228,20 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Verslemez",
+        "year": "2026",
+        "genres": [
+          "Power Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
-      "Heavy Metal"
+      "Heavy Metal",
+      "Power Metal",
+      "Speed Metal"
     ]
   },
   {
@@ -4922,6 +4932,13 @@
       },
       {
         "name": "Sludgegaze",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      },
+      {
+        "name": "Big Skies",
         "year": "2026",
         "genres": [
           "Doom Metal"

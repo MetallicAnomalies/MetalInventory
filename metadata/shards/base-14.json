@@ -156,10 +156,19 @@
         "genres": [
           "Funeral Doom Metal"
         ]
+      },
+      {
+        "name": "Aeolian Winds",
+        "year": "2026",
+        "genres": [
+          "Funeral Doom Metal",
+          "Death Metal, Classical"
+        ]
       }
     ],
     "tags": [
-      "Funeral Doom Metal"
+      "Funeral Doom Metal",
+      "Death Metal, Classical"
     ]
   },
   {
@@ -3747,11 +3756,20 @@
           "Death Thrash Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Eternal Putrefaction",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Death Thrash Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Death Metal"
     ]
   },
   {

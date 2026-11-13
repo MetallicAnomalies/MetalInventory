@@ -1577,6 +1577,22 @@
     ]
   },
   {
+    "normalizedName": "demenciaextrema",
+    "displayName": "Demencia Extrema",
+    "albums": [
+      {
+        "name": "Puñal de los Debiles",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "demonangels",
     "displayName": "Demon Angels",
     "albums": [
@@ -2279,11 +2295,20 @@
           "Black Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Volume Dealer - Live Sessions",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "Progressive Metal"
     ]
   },
   {
