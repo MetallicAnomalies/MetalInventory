@@ -712,6 +712,24 @@
     ]
   },
   {
+    "normalizedName": "bongfist",
+    "displayName": "Bongfist",
+    "albums": [
+      {
+        "name": "Bongfist",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Stoner Metal"
+    ]
+  },
+  {
     "normalizedName": "breathofnibiru",
     "displayName": "Breath of Nibiru",
     "origin": "IT",
@@ -3750,6 +3768,24 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "skelm",
+    "displayName": "Skelm",
+    "albums": [
+      {
+        "name": "Endowed with Nocturnal Enchantment",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dungeon Synth"
     ]
   },
   {

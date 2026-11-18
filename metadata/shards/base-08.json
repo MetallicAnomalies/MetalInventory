@@ -868,6 +868,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Sacramental",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2833,6 +2840,26 @@
     "tags": [
       "Melodic Death Metal",
       "Viking Metal"
+    ]
+  },
+  {
+    "normalizedName": "lethalmace",
+    "displayName": "Lethal Mace",
+    "albums": [
+      {
+        "name": "Lethal Mace",
+        "year": "2026",
+        "genres": [
+          "Speed Metal",
+          "Thrash Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Speed Metal",
+      "Thrash Metal",
+      "Punk"
     ]
   },
   {

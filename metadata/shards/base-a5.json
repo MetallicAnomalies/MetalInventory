@@ -2317,11 +2317,26 @@
           "Post-Metal",
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Artifacts of a Bygone Era",
+        "year": "2026",
+        "genres": [
+          "Post-Rock Metalcore",
+          "Metalcore",
+          "Post-Hardcore",
+          "Black Post-Metal",
+          "Post-Metal"
+        ]
       }
     ],
     "tags": [
       "Post-Metal",
-      "Atmospheric Black Metal"
+      "Atmospheric Black Metal",
+      "Post-Rock Metalcore",
+      "Metalcore",
+      "Post-Hardcore",
+      "Black Post-Metal"
     ]
   },
   {

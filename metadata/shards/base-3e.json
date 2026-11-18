@@ -1,5 +1,25 @@
 [
   {
+    "normalizedName": "acidfog",
+    "displayName": "Acid Fog",
+    "albums": [
+      {
+        "name": "Doomed Visions",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom",
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "adele",
     "displayName": "Adele",
     "origin": "GB",

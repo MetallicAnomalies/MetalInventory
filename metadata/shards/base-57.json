@@ -1513,6 +1513,13 @@
         "genres": [
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Ghost in Every Room",
+        "year": "2027",
+        "genres": [
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
@@ -4186,6 +4193,22 @@
     ],
     "tags": [
       "Groove Metal"
+    ]
+  },
+  {
+    "normalizedName": "sainteddeceiver",
+    "displayName": "Sainted Deceiver",
+    "albums": [
+      {
+        "name": "Krampusnacht",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Metal"
     ]
   },
   {

@@ -2228,6 +2228,13 @@
         "genres": [
           "Depressive Black Metal"
         ]
+      },
+      {
+        "name": "Last Hope Diary: Mental Disorders",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -2931,6 +2938,14 @@
           "Depressive Black Metal",
           "Rock"
         ]
+      },
+      {
+        "name": "В капкане былых лет",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
@@ -3255,6 +3270,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "orkanen",
+    "displayName": "Orkanen",
+    "albums": [
+      {
+        "name": "Foretold Signs",
+        "year": "2026",
+        "genres": [
+          "Folk Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Folk Metal"
+    ]
   },
   {
     "normalizedName": "pandemiaesp",

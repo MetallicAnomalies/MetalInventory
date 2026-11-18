@@ -1231,6 +1231,22 @@
     "tags": []
   },
   {
+    "normalizedName": "eeriehorizon",
+    "displayName": "Eerie Horizon",
+    "albums": [
+      {
+        "name": "Fractured Beast",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "embraceofthornsinvocation",
     "displayName": "Embrace Of Thorns/Invocation",
     "albums": [
@@ -2690,6 +2706,22 @@
     ]
   },
   {
+    "normalizedName": "kolossos",
+    "displayName": "Kolossos",
+    "albums": [
+      {
+        "name": "Heads or Tails / Game Law Metal",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "kosmokrator",
     "displayName": "Kosmokrator",
     "albums": [
@@ -3298,6 +3330,13 @@
       {
         "name": "Nailien Invasion",
         "year": "2024",
+        "genres": [
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Mission: Extermination",
+        "year": "2026",
         "genres": [
           "Thrash Metal"
         ]

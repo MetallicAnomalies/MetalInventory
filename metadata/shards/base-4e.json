@@ -1196,6 +1196,22 @@
     "tags": []
   },
   {
+    "normalizedName": "eleusis",
+    "displayName": "Eleusis",
+    "albums": [
+      {
+        "name": "The Old Ways",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "embalmingtheatre",
     "displayName": "Embalming Theatre",
     "origin": "CH",
@@ -3467,6 +3483,22 @@
     ]
   },
   {
+    "normalizedName": "romantik",
+    "displayName": "Romantik",
+    "albums": [
+      {
+        "name": "As All Sins Are Equal in the Eyes of the Lord",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "sanctifyingritual",
     "displayName": "Sanctifying Ritual",
     "origin": "DE",
@@ -3520,6 +3552,22 @@
     "tags": [
       "Suomi",
       "Alternative Metal"
+    ]
+  },
+  {
+    "normalizedName": "segmentia",
+    "displayName": "Segmentia",
+    "albums": [
+      {
+        "name": "Drop of Light",
+        "year": "2026",
+        "genres": [
+          "Melodic Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Heavy Metal"
     ]
   },
   {

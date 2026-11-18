@@ -4064,12 +4064,18 @@
       {
         "name": "Fetid Existence",
         "year": "2027",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Sludge Metal",
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
       "Deathgrind",
-      "Sludge Metal"
+      "Sludge Metal",
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {

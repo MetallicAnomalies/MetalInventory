@@ -707,6 +707,24 @@
     ]
   },
   {
+    "normalizedName": "borncold",
+    "displayName": "Born Cold",
+    "albums": [
+      {
+        "name": "Unrelenting Night",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Crossover"
+    ]
+  },
+  {
     "normalizedName": "breakdownofsanity",
     "displayName": "Breakdown of Sanity",
     "origin": "CH",
@@ -2447,6 +2465,29 @@
     ]
   },
   {
+    "normalizedName": "leichenfeuer",
+    "displayName": "Leichenfeuer",
+    "albums": [
+      {
+        "name": "1996",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Temple of the Goat",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "licantropia",
     "displayName": "Licantropia",
     "origin": "CO",
@@ -4125,6 +4166,24 @@
     ]
   },
   {
+    "normalizedName": "scorpifera",
+    "displayName": "Scorpifera",
+    "albums": [
+      {
+        "name": "Veneno y gloria",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "searchingforreason",
     "displayName": "Searching For Reason",
     "albums": [
@@ -5055,12 +5114,20 @@
           "Power Metal",
           "Folk Metal"
         ]
+      },
+      {
+        "name": "I",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
       "Gothic Metal",
       "Power Metal",
-      "Folk Metal"
+      "Folk Metal",
+      "Black Metal"
     ]
   },
   {

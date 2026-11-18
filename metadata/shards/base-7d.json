@@ -2190,6 +2190,14 @@
           "Atmospheric Black Metal",
           "Ambient"
         ]
+      },
+      {
+        "name": "Transience in Autumn",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal",
+          "Ambient"
+        ]
       }
     ],
     "tags": [
@@ -2494,7 +2502,11 @@
       {
         "name": "Faces Of Pain",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Speed Metal",
+          "Heavy Metal",
+          "Power Metal"
+        ]
       },
       {
         "name": "The Number",
@@ -2536,6 +2548,24 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "grume",
+    "displayName": "Grume",
+    "albums": [
+      {
+        "name": "Perishing Within Infinite Misery",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Death Metal"
     ]
   },
   {
@@ -5493,6 +5523,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "tombofminerva",
+    "displayName": "Tomb of Minerva",
+    "albums": [
+      {
+        "name": "The Wake of All Reason",
+        "year": "2027",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

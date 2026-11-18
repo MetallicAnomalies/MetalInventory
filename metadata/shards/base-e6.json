@@ -3140,6 +3140,22 @@
     ]
   },
   {
+    "normalizedName": "lostdawning",
+    "displayName": "Lost Dawning",
+    "albums": [
+      {
+        "name": "Lost Dawning",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Power Metal"
+    ]
+  },
+  {
     "normalizedName": "lunafield",
     "displayName": "Luna Field",
     "albums": [
@@ -3225,6 +3241,14 @@
       },
       {
         "name": "Ectoplasm",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Groove Metal"
+        ]
+      },
+      {
+        "name": "Treachery",
         "year": "2026",
         "genres": [
           "Heavy Metal",

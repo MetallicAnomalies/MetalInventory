@@ -3452,6 +3452,16 @@
           "Progressive Death Metal",
           "Djent"
         ]
+      },
+      {
+        "name": "Obey No Illusion",
+        "year": "2027",
+        "genres": [
+          "Progressive Metal",
+          "Djent",
+          "Metalcore",
+          "Alternative Rock"
+        ]
       }
     ],
     "tags": [
@@ -3460,7 +3470,8 @@
       "Death Metal",
       "Progressive Metal",
       "Metalcore",
-      "Alternative Metal"
+      "Alternative Metal",
+      "Alternative Rock"
     ]
   },
   {
@@ -3570,10 +3581,18 @@
         "genres": [
           "Extreme Progressive Metal"
         ]
+      },
+      {
+        "name": "Sanguine Gaze",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Extreme Progressive Metal"
+      "Extreme Progressive Metal",
+      "Progressive Death Metal"
     ]
   },
   {
@@ -3700,10 +3719,14 @@
       {
         "name": "Echoes Of Elysium Part I",
         "year": "2027",
-        "genres": []
+        "genres": [
+          "Power Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Power Metal"
+    ]
   },
   {
     "normalizedName": "powerpaladin",
@@ -5530,6 +5553,13 @@
     "albums": [
       {
         "name": "ˈwa.le | ˈspe.ro te ˈom.ni.a kwei̯ meˈre.ris ak.kepˈtu.rum ˈes.se in pʰoˈneː.tɪk",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "ˈʊnʔɛʁviːdɐt",
         "year": "2026",
         "genres": [
           "Atmospheric Black Metal"

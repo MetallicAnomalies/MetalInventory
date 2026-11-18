@@ -332,6 +332,22 @@
     ]
   },
   {
+    "normalizedName": "anglesmorts",
+    "displayName": "Angles Morts",
+    "albums": [
+      {
+        "name": "Piece of Me",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "anonymus",
     "displayName": "Anonymus",
     "origin": "CA",
@@ -455,7 +471,9 @@
       {
         "name": "Unfairy Tales",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Symphonic Metal"
+        ]
       },
       {
         "name": "Unfairy Tale",

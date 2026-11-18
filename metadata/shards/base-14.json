@@ -1161,10 +1161,16 @@
       {
         "name": "Echoes Of The Dead World",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "crippledfingers",

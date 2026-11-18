@@ -860,6 +860,22 @@
     ]
   },
   {
+    "normalizedName": "cutlass",
+    "displayName": "Cutlass",
+    "albums": [
+      {
+        "name": "Rum & Ruin",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "dam",
     "displayName": "D.A.M.",
     "origin": "US",
@@ -4374,6 +4390,13 @@
       },
       {
         "name": "Enūma Eliš",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      },
+      {
+        "name": "La maledicaria",
         "year": "2026",
         "genres": [
           "Raw Black Metal"

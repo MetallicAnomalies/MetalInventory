@@ -1889,6 +1889,24 @@
     ]
   },
   {
+    "normalizedName": "grist",
+    "displayName": "Grist",
+    "albums": [
+      {
+        "name": "Der einsame Pfad",
+        "year": "2026",
+        "genres": [
+          "Black Metal, Dark Ambient",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal, Dark Ambient",
+      "Dungeon Synth"
+    ]
+  },
+  {
     "normalizedName": "hadean",
     "displayName": "Hadean",
     "albums": [
@@ -2173,6 +2191,14 @@
         "year": "2026",
         "genres": [
           "Raw Black Metal"
+        ]
+      },
+      {
+        "name": "Ancient Sin",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
         ]
       }
     ],
@@ -4312,6 +4338,22 @@
     "tags": [
       "Melodic Hardcore",
       "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "thelastmessiah",
+    "displayName": "The Last Messiah",
+    "albums": [
+      {
+        "name": "Isolation",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
     ]
   },
   {

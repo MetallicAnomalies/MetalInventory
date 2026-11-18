@@ -2307,6 +2307,22 @@
     ]
   },
   {
+    "normalizedName": "himmelfahrt",
+    "displayName": "Himmelfahrt",
+    "albums": [
+      {
+        "name": "We Are All Just God's Experiment",
+        "year": "2026",
+        "genres": [
+          "Raw Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "horselung",
     "displayName": "Horse Lung",
     "albums": [
@@ -2625,13 +2641,23 @@
           "Progressive Stoner Rock",
           "Stoner Rock"
         ]
+      },
+      {
+        "name": "Infinite Fields (Re-Wired)",
+        "year": "2027",
+        "genres": [
+          "Progressive Death Metal",
+          "Progressive Rock",
+          "Stoner Rock"
+        ]
       }
     ],
     "tags": [
       "Symphonic Death Metal",
       "Progressive Death Metal",
       "Progressive Stoner Rock",
-      "Stoner Rock"
+      "Stoner Rock",
+      "Progressive Rock"
     ]
   },
   {

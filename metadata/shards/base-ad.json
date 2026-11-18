@@ -475,6 +475,24 @@
     ]
   },
   {
+    "normalizedName": "believeinnothing",
+    "displayName": "Believe in Nothing",
+    "albums": [
+      {
+        "name": "Carcosa",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "belowasilentsky",
     "displayName": "Below A Silent Sky",
     "albums": [
@@ -2768,6 +2786,22 @@
     ],
     "tags": [
       "Progressive Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "helkist",
+    "displayName": "Helkist",
+    "albums": [
+      {
+        "name": "Let White Flags Burn Slow",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

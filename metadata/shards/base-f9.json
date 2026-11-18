@@ -833,13 +833,24 @@
           "Grindcore Goregrind",
           "Goregrind"
         ]
+      },
+      {
+        "name": "Dirthead",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal, Dark Ambient",
+          "Grindcore",
+          "Goregrind"
+        ]
       }
     ],
     "tags": [
       "Raw Black Metal",
       "Dark Ambient",
       "Grindcore Goregrind",
-      "Goregrind"
+      "Goregrind",
+      "Raw Black Metal, Dark Ambient",
+      "Grindcore"
     ]
   },
   {
@@ -2476,6 +2487,26 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "ogyda",
+    "displayName": "Ogyda",
+    "albums": [
+      {
+        "name": "Tysk",
+        "year": "2026",
+        "genres": [
+          "Stoner Doom Metal",
+          "Doom",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Doom Metal",
+      "Doom",
+      "Sludge Metal"
     ]
   },
   {

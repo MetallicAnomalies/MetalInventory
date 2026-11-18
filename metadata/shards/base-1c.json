@@ -2171,6 +2171,13 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Heropass",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
@@ -2227,6 +2234,26 @@
     "tags": [
       "Thrash Metal",
       "Speed Metal"
+    ]
+  },
+  {
+    "normalizedName": "impetus",
+    "displayName": "Impetus",
+    "albums": [
+      {
+        "name": "To Heave the Outer Rim",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Thrash Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Thrash Metal",
+      "Groove Metal"
     ]
   },
   {
@@ -2347,6 +2374,22 @@
     "tags": [
       "Conscious",
       "Hip Hop"
+    ]
+  },
+  {
+    "normalizedName": "joxeankoret",
+    "displayName": "Joxean Koret",
+    "albums": [
+      {
+        "name": "Hope",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {

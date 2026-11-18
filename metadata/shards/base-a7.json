@@ -449,6 +449,22 @@
     ]
   },
   {
+    "normalizedName": "aterra",
+    "displayName": "Aterra",
+    "albums": [
+      {
+        "name": "Crashing Upon Profane Shores",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "atone",
     "displayName": "Atone",
     "albums": [
@@ -4665,6 +4681,13 @@
       },
       {
         "name": "Midnight Call",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      },
+      {
+        "name": "Together We'll Win",
         "year": "2026",
         "genres": [
           "Heavy Metal"

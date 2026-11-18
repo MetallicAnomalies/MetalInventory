@@ -196,10 +196,14 @@
       {
         "name": "New Beginnings",
         "year": "2027",
-        "genres": []
+        "genres": [
+          "Progressive Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Progressive Metal"
+    ]
   },
   {
     "normalizedName": "anifernyen",
@@ -3017,6 +3021,14 @@
           "Post-Rock",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Królestwo we krwi",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -3523,6 +3535,16 @@
       },
       {
         "name": "Passage Through Air",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Chrome and Plastic",
+        "year": "2026",
+        "genres": []
+      },
+      {
+        "name": "Manhattan Red",
         "year": "2026",
         "genres": []
       }

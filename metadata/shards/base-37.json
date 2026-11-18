@@ -42,6 +42,22 @@
     ]
   },
   {
+    "normalizedName": "aaveivnightveil",
+    "displayName": "Aaveiv/Nightveil",
+    "albums": [
+      {
+        "name": "Maiden's Tears of Strife",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "abominableputridity",
     "displayName": "Abominable Putridity",
     "origin": "RU",
@@ -4030,6 +4046,14 @@
     "albums": [
       {
         "name": "The Lament of Gilles de Rais",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      },
+      {
+        "name": "The Triumph of the Death",
         "year": "2026",
         "genres": [
           "Black Metal",

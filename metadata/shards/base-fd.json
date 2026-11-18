@@ -2902,6 +2902,24 @@
     ]
   },
   {
+    "normalizedName": "loomingoverourminds",
+    "displayName": "Looming over Our Minds",
+    "albums": [
+      {
+        "name": "The 2026 Demos",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "lucisabsentia",
     "displayName": "Lucis Absentia",
     "albums": [
@@ -3499,6 +3517,24 @@
     "tags": [
       "Melodic Death Metal",
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "onset",
+    "displayName": "Onset",
+    "albums": [
+      {
+        "name": "The Observation of Death",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom",
+      "Post-Metal"
     ]
   },
   {

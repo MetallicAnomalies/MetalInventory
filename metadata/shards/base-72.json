@@ -2341,10 +2341,22 @@
         "genres": [
           "Ambient Black Metal"
         ]
+      },
+      {
+        "name": "Wonder",
+        "year": "2026",
+        "genres": [
+          "Epic Metal",
+          "Atmospheric Black Metal",
+          "Dungeon Synth"
+        ]
       }
     ],
     "tags": [
-      "Ambient Black Metal"
+      "Ambient Black Metal",
+      "Epic Metal",
+      "Atmospheric Black Metal",
+      "Dungeon Synth"
     ]
   },
   {

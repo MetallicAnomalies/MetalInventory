@@ -1493,10 +1493,20 @@
         "genres": [
           "Crossover Thrash"
         ]
+      },
+      {
+        "name": "Peasant Dreams",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Hardcore"
+        ]
       }
     ],
     "tags": [
-      "Crossover Thrash"
+      "Crossover Thrash",
+      "Thrash Metal",
+      "Hardcore"
     ]
   },
   {

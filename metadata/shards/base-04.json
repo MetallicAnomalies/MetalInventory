@@ -1112,6 +1112,22 @@
     ]
   },
   {
+    "normalizedName": "dozem",
+    "displayName": "Dozem",
+    "albums": [
+      {
+        "name": "Revelations",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "dreamer",
     "displayName": "Dreamer",
     "albums": [
@@ -2866,6 +2882,22 @@
       "Doom Metal",
       "Progressive Metal",
       "Funeral Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "myhandsweretied",
+    "displayName": "My Hands Were Tied",
+    "albums": [
+      {
+        "name": "The Gathering",
+        "year": "2026",
+        "genres": [
+          "Melodic Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Metalcore"
     ]
   },
   {

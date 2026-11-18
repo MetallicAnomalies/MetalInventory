@@ -70,6 +70,24 @@
     ]
   },
   {
+    "normalizedName": "ageofimpiety",
+    "displayName": "Age of Impiety",
+    "albums": [
+      {
+        "name": "The Downfall",
+        "year": "2026",
+        "genres": [
+          "Raw Metal",
+          "Melodic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Metal",
+      "Melodic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "alchemyst",
     "displayName": "Alchemyst",
     "albums": [
@@ -3644,6 +3662,22 @@
     ]
   },
   {
+    "normalizedName": "nekyian",
+    "displayName": "Nekyian",
+    "albums": [
+      {
+        "name": "Impure Stargazing",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "noisehunter",
     "displayName": "Noisehunter",
     "albums": [
@@ -5921,6 +5955,22 @@
     "tags": [
       "Heavy Metal",
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "լացողուռենի",
+    "displayName": "Լացող Ուռենի",
+    "albums": [
+      {
+        "name": "Descent into Madness",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {

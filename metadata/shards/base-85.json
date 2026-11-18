@@ -962,11 +962,19 @@
           "Grindcore",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Rebirthed Revived Rekilled",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
       "Grindcore",
-      "Death Metal"
+      "Death Metal",
+      "Brutal Death Metal"
     ]
   },
   {
@@ -4428,6 +4436,16 @@
           "Alternative Rock",
           "Punk"
         ]
+      },
+      {
+        "name": "Adolescence",
+        "year": "2027",
+        "genres": [
+          "Doom",
+          "Death Metal",
+          "Gothic Metal, Alternative Rock",
+          "Punk"
+        ]
       }
     ],
     "tags": [
@@ -4437,7 +4455,9 @@
       "Death Doom Metal",
       "Gothic Metal",
       "Alternative Rock",
-      "Punk"
+      "Punk",
+      "Doom",
+      "Gothic Metal, Alternative Rock"
     ]
   },
   {

@@ -302,6 +302,24 @@
     ]
   },
   {
+    "normalizedName": "anteinfierno",
+    "displayName": "Anteinfierno",
+    "albums": [
+      {
+        "name": "Hearken! Dominion of Blight, Ere I Swallowed the Dead Mist…",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "apostolica",
     "displayName": "Apostolica",
     "albums": [
@@ -2739,11 +2757,21 @@
           "Neoclassical Heavy Metal",
           "Hard Rock"
         ]
+      },
+      {
+        "name": "Spiriting",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Shred, Hard Rock"
+        ]
       }
     ],
     "tags": [
       "Neoclassical Heavy Metal",
-      "Hard Rock"
+      "Hard Rock",
+      "Progressive Metal",
+      "Shred, Hard Rock"
     ]
   },
   {

@@ -276,6 +276,24 @@
     ]
   },
   {
+    "normalizedName": "artificialghost",
+    "displayName": "Artificial Ghost",
+    "albums": [
+      {
+        "name": "Saudade",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom",
+      "Post-Metal"
+    ]
+  },
+  {
     "normalizedName": "astarshamir",
     "displayName": "ASTAR SHAMIR",
     "origin": "US",
@@ -1755,6 +1773,24 @@
     ]
   },
   {
+    "normalizedName": "gatetoinfinity",
+    "displayName": "Gate to Infinity",
+    "albums": [
+      {
+        "name": "Atomic Beauty",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "grimmstine",
     "displayName": "Grimmstine",
     "origin": "US",
@@ -2010,6 +2046,26 @@
       "Grindcore",
       "Goregrind",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "iamdisease",
+    "displayName": "Iamdisease",
+    "albums": [
+      {
+        "name": "Krater",
+        "year": "2026",
+        "genres": [
+          "Hardcore",
+          "Thrash Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Hardcore",
+      "Thrash Metal",
+      "Sludge Metal"
     ]
   },
   {
@@ -2605,6 +2661,22 @@
     "tags": [
       "Groove Metal",
       "Industrial Metal"
+    ]
+  },
+  {
+    "normalizedName": "myfrisson",
+    "displayName": "My Frisson",
+    "albums": [
+      {
+        "name": "Chapter I",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Metal"
     ]
   },
   {

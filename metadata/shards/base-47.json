@@ -3376,6 +3376,24 @@
     ]
   },
   {
+    "normalizedName": "prayforpeace",
+    "displayName": "PrayForPeace",
+    "albums": [
+      {
+        "name": "Embrace",
+        "year": "2026",
+        "genres": [
+          "Metalcore",
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore",
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "psalmfra",
     "displayName": "Psalm (Fra)",
     "albums": [
@@ -3558,6 +3576,13 @@
     "albums": [
       {
         "name": "III: Of Swan And Children",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "III: Of Swans and Children",
         "year": "2026",
         "genres": [
           "Black Metal"
@@ -4141,6 +4166,24 @@
     ],
     "tags": [
       "Melodic Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "theheadlessgod",
+    "displayName": "The Headless God",
+    "albums": [
+      {
+        "name": "Neither Sword, Nor Shield",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Doom Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Doom Metal",
+      "Sludge Metal"
     ]
   },
   {

@@ -606,6 +606,24 @@
     ]
   },
   {
+    "normalizedName": "avada",
+    "displayName": "Avada",
+    "albums": [
+      {
+        "name": "Jesus Cries",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "avatarusa",
     "displayName": "Avatar (Usa)",
     "albums": [
@@ -2506,6 +2524,22 @@
     ]
   },
   {
+    "normalizedName": "inpurge",
+    "displayName": "Inpurge",
+    "albums": [
+      {
+        "name": "O Lamento de Gaia (Drowned)",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "ishayribo",
     "displayName": "Ishay Ribo",
     "origin": "IL",
@@ -3910,6 +3944,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "nothing3000",
+    "displayName": "Nothing 3000",
+    "albums": [
+      {
+        "name": "Hypnosis Hologram",
+        "year": "2026",
+        "genres": [
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Metal"
     ]
   },
   {

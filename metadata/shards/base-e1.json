@@ -377,6 +377,13 @@
         "genres": [
           "Depressive Black Metal"
         ]
+      },
+      {
+        "name": "Alone Until Dawn",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -3208,10 +3215,20 @@
         "genres": [
           "Gothic Metal"
         ]
+      },
+      {
+        "name": "Velocity",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Gothic Metal, Progressive Metal"
+        ]
       }
     ],
     "tags": [
-      "Gothic Metal"
+      "Gothic Metal",
+      "Doom",
+      "Gothic Metal, Progressive Metal"
     ]
   },
   {
@@ -3639,6 +3656,13 @@
       {
         "name": "Ravishing Funerals",
         "year": "2022",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "The Return of Wintershadows",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

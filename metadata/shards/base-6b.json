@@ -376,12 +376,21 @@
           "Heavy Power Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "El augurio",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Power Metal",
       "Heavy Power Metal",
-      "Power Metal"
+      "Power Metal",
+      "Heavy Metal"
     ]
   },
   {

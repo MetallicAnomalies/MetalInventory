@@ -1529,6 +1529,22 @@
     ]
   },
   {
+    "normalizedName": "galghanger",
+    "displayName": "Galg Hanger",
+    "albums": [
+      {
+        "name": "Cursed",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "ghost",
     "displayName": "Ghost",
     "origin": "SE",
@@ -4880,6 +4896,28 @@
     "tags": [
       "Black Metal",
       "Hardcore Punk"
+    ]
+  },
+  {
+    "normalizedName": "wretchedblessing",
+    "displayName": "Wretched Blessing",
+    "albums": [
+      {
+        "name": "Live in Nagoya",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Black Metal",
+          "Hardcore",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Black Metal",
+      "Hardcore",
+      "Punk"
     ]
   },
   {

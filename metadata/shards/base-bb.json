@@ -1594,11 +1594,19 @@
           "Symphonic Metal",
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Kali",
+        "year": "2027",
+        "genres": [
+          "Progressive Symphonic Metal"
+        ]
       }
     ],
     "tags": [
       "Symphonic Metal",
-      "Progressive Metal"
+      "Progressive Metal",
+      "Progressive Symphonic Metal"
     ]
   },
   {

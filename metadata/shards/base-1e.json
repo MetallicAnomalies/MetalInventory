@@ -2506,6 +2506,24 @@
     ]
   },
   {
+    "normalizedName": "insanir",
+    "displayName": "Insanir",
+    "albums": [
+      {
+        "name": "Deus Belli",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "jonolivaspain",
     "displayName": "Jon Oliva's Pain",
     "albums": [
@@ -4183,6 +4201,29 @@
     ]
   },
   {
+    "normalizedName": "starthemotion",
+    "displayName": "Star the Motion",
+    "albums": [
+      {
+        "name": "Suit of Swords",
+        "year": "2026",
+        "genres": [
+          "Melodic Metalcore"
+        ]
+      },
+      {
+        "name": "Silent Scream",
+        "year": "2026",
+        "genres": [
+          "Melodic Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Metalcore"
+    ]
+  },
+  {
     "normalizedName": "strainsofbellum",
     "displayName": "Strains of Bellum",
     "origin": "US",
@@ -5297,6 +5338,24 @@
     "tags": [
       "Black Viking Metal",
       "Viking Metal"
+    ]
+  },
+  {
+    "normalizedName": "unharvested",
+    "displayName": "Unharvested",
+    "albums": [
+      {
+        "name": "One Hell Of An Angel",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Metalcore"
     ]
   },
   {

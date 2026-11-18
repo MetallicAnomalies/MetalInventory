@@ -1402,6 +1402,22 @@
     ]
   },
   {
+    "normalizedName": "fortiden",
+    "displayName": "Fortiden",
+    "albums": [
+      {
+        "name": "Restless Hearts",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "fourinacage",
     "displayName": "Four In A Cage",
     "origin": "DE",
@@ -4286,6 +4302,22 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "sylegj",
+    "displayName": "Sylegj",
+    "albums": [
+      {
+        "name": "Eternity I",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

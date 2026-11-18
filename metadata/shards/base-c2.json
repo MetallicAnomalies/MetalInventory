@@ -1087,6 +1087,24 @@
     ]
   },
   {
+    "normalizedName": "cowboysaliens",
+    "displayName": "Cowboys & Aliens",
+    "albums": [
+      {
+        "name": "Asteroid Blast",
+        "year": "2026",
+        "genres": [
+          "Stoner Rock",
+          "Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Rock",
+      "Metal"
+    ]
+  },
+  {
     "normalizedName": "cromonic",
     "displayName": "Cromonic",
     "albums": [
@@ -1988,11 +2006,20 @@
           "Symphonic Power Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "The Alchemists",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Symphonic Power Metal",
-      "Power Metal"
+      "Power Metal",
+      "Symphonic Metal"
     ]
   },
   {
@@ -4538,6 +4565,22 @@
     ],
     "tags": [
       "Deathcore"
+    ]
+  },
+  {
+    "normalizedName": "sorrowfeld",
+    "displayName": "Sorrowfeld",
+    "albums": [
+      {
+        "name": "Of Woe and Melancholia",
+        "year": "2026",
+        "genres": [
+          "Epic Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Epic Doom Metal"
     ]
   },
   {

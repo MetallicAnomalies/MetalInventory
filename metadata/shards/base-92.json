@@ -95,6 +95,24 @@
     ]
   },
   {
+    "normalizedName": "argue",
+    "displayName": "Argue",
+    "albums": [
+      {
+        "name": "Architect of My Own End",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal",
+      "Deathcore"
+    ]
+  },
+  {
     "normalizedName": "asylum8",
     "displayName": "Asylum 8",
     "albums": [
@@ -2904,6 +2922,24 @@
     "tags": [
       "Drone Doom Metal",
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "necrology",
+    "displayName": "Necrology",
+    "albums": [
+      {
+        "name": "Collision",
+        "year": "2026",
+        "genres": [
+          "Groove Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal",
+      "Death Metal"
     ]
   },
   {

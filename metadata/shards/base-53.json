@@ -731,6 +731,22 @@
     ]
   },
   {
+    "normalizedName": "certaindemise",
+    "displayName": "Certain Demise",
+    "albums": [
+      {
+        "name": "Undawned",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "chefspecial",
     "displayName": "Chef'Special",
     "origin": "NL",
@@ -1659,10 +1675,19 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Slaughtered from Beyond",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {
@@ -1726,6 +1751,22 @@
     ],
     "tags": [
       "US Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "forsakensanctity",
+    "displayName": "Forsaken Sanctity",
+    "albums": [
+      {
+        "name": "The Temple Shall Be Buried",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

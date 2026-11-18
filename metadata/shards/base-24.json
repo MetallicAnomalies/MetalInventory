@@ -1855,6 +1855,24 @@
     ]
   },
   {
+    "normalizedName": "infernalstrife",
+    "displayName": "Infernal Strife",
+    "albums": [
+      {
+        "name": "Splendour of Pagan Triumph",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Punk"
+    ]
+  },
+  {
     "normalizedName": "innersphere",
     "displayName": "Inner Sphere",
     "aliases": [
@@ -4034,6 +4052,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "soulsnare",
+    "displayName": "Soul Snare",
+    "albums": [
+      {
+        "name": "Howls from the Womb of Night",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

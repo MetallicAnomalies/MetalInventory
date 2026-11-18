@@ -55,6 +55,22 @@
     ]
   },
   {
+    "normalizedName": "ajatonna",
+    "displayName": "Ajatonna",
+    "albums": [
+      {
+        "name": "Kuolematon",
+        "year": "2026",
+        "genres": [
+          "Progressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "alastis",
     "displayName": "Alastis",
     "albums": [
@@ -703,6 +719,13 @@
     "albums": [
       {
         "name": "Deceiving Illusions of Gamaliel",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
+      },
+      {
+        "name": "Burning Memories in Golachab",
         "year": "2026",
         "genres": [
           "Symphonic Black Metal"
@@ -1419,10 +1442,18 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Útgarðr",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Melodic Black Metal"
     ]
   },
   {
@@ -3186,6 +3217,24 @@
     ]
   },
   {
+    "normalizedName": "magmaone",
+    "displayName": "Magma One",
+    "albums": [
+      {
+        "name": "Magma One",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "malakhim",
     "displayName": "Malakhim",
     "albums": [
@@ -4614,11 +4663,20 @@
           "Progressive Stoner Doom Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Doomsday Clock",
+        "year": "2026",
+        "genres": [
+          "Progressive Stoner Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Stoner Doom Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Progressive Stoner Metal"
     ]
   },
   {
@@ -5642,6 +5700,22 @@
       "Religious",
       "Folk, World, & Country",
       "Soundtrack"
+    ]
+  },
+  {
+    "normalizedName": "yhorm",
+    "displayName": "Yhorm",
+    "albums": [
+      {
+        "name": "Quiet Places",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

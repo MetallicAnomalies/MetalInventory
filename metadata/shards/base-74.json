@@ -1156,6 +1156,22 @@
     ]
   },
   {
+    "normalizedName": "deathweaver",
+    "displayName": "Deathweaver",
+    "albums": [
+      {
+        "name": "Dead Souls",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "demised",
     "displayName": "Demised",
     "albums": [
@@ -3501,6 +3517,22 @@
     ],
     "tags": [
       "Alternative"
+    ]
+  },
+  {
+    "normalizedName": "olddeath",
+    "displayName": "Old Death",
+    "albums": [
+      {
+        "name": "Sombras eternas",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

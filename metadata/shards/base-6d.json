@@ -2171,6 +2171,22 @@
     ]
   },
   {
+    "normalizedName": "legrandrustre",
+    "displayName": "Le Grand Rustre",
+    "albums": [
+      {
+        "name": "La cabale!",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "lethargicdecay",
     "displayName": "Lethargic Decay",
     "albums": [
@@ -3846,7 +3862,9 @@
       {
         "name": "No Human Contact",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom Metal"
+        ]
       },
       {
         "name": "Thuggee",

@@ -1,5 +1,21 @@
 [
   {
+    "normalizedName": "1310m",
+    "displayName": "1310M",
+    "albums": [
+      {
+        "name": "Рейвах",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "3dstas",
     "displayName": "3D Stas",
     "origin": "UA",
@@ -4730,6 +4746,15 @@
       },
       {
         "name": "Force of Damnation",
+        "year": "2027",
+        "genres": [
+          "Drone Doom Metal",
+          "Doom",
+          "Stoner Metal"
+        ]
+      },
+      {
+        "name": "Swan Messiah 3",
         "year": "2027",
         "genres": [
           "Drone Doom Metal",

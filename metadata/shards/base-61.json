@@ -442,11 +442,21 @@
           "Heavy Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "Pantheon of the Fallen",
+        "year": "2027",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Power Metal"
+      "Power Metal",
+      "Thrash Metal",
+      "Crossover"
     ]
   },
   {
@@ -1712,6 +1722,22 @@
     ],
     "tags": [
       "Gothic Metal"
+    ]
+  },
+  {
+    "normalizedName": "isenblast",
+    "displayName": "Isenblåst",
+    "albums": [
+      {
+        "name": "Destructing the Constraints of Time",
+        "year": "2027",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

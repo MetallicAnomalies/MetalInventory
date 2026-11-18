@@ -2927,6 +2927,22 @@
     ]
   },
   {
+    "normalizedName": "oldhagonthemountain",
+    "displayName": "Old Hag on the Mountain",
+    "albums": [
+      {
+        "name": "Ancient Ulairi",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "pennywise",
     "displayName": "Pennywise",
     "origin": "US",
@@ -4395,10 +4411,16 @@
       {
         "name": "den evige lengsel",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal",
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "морок",

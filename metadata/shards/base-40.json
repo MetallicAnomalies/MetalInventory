@@ -746,6 +746,24 @@
     ]
   },
   {
+    "normalizedName": "blackward",
+    "displayName": "Blackward",
+    "albums": [
+      {
+        "name": "Blood of the Beast",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Punk"
+    ]
+  },
+  {
     "normalizedName": "bloodsip",
     "displayName": "Bloodsip",
     "albums": [
@@ -4589,6 +4607,13 @@
         "genres": [
           "Raw Black Metal"
         ]
+      },
+      {
+        "name": "1488",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -5335,6 +5360,24 @@
     "albums": [
       {
         "name": "Lute, Filho da Puta! Lute!!!",
+        "year": "2026",
+        "genres": [
+          "Blackened Grindcore",
+          "Slam Metal",
+          "Brutal Death Metal"
+        ]
+      },
+      {
+        "name": "Brutal by Nature",
+        "year": "2026",
+        "genres": [
+          "Blackened Grindcore",
+          "Slam Metal",
+          "Brutal Death Metal"
+        ]
+      },
+      {
+        "name": "Martírio Desgraça",
         "year": "2026",
         "genres": [
           "Blackened Grindcore",

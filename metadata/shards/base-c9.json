@@ -3683,6 +3683,22 @@
     ]
   },
   {
+    "normalizedName": "mictian",
+    "displayName": "Mictian",
+    "albums": [
+      {
+        "name": "Lost in Hallucinations",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "midnightspell",
     "displayName": "Midnight Spell",
     "albums": [
@@ -3984,6 +4000,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "nekrowulf",
+    "displayName": "Nekrowulf",
+    "albums": [
+      {
+        "name": "Demon Castle Dracula",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Speed Metal"
     ]
   },
   {

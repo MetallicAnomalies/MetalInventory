@@ -1708,11 +1708,36 @@
         "genres": [
           "Blackened Death Metal"
         ]
+      },
+      {
+        "name": "Vile",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
       "Blackened Death Metal",
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "funeralfuzz",
+    "displayName": "Funeral Fuzz",
+    "albums": [
+      {
+        "name": "Unclaimed",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Rock"
     ]
   },
   {

@@ -1786,6 +1786,22 @@
     ]
   },
   {
+    "normalizedName": "foam",
+    "displayName": "Foam",
+    "albums": [
+      {
+        "name": "Where Our Thoughts Collide",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal"
+    ]
+  },
+  {
     "normalizedName": "folkheim",
     "displayName": "Folkheim",
     "albums": [
@@ -3331,6 +3347,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "mendiant",
+    "displayName": "Mendiant",
+    "albums": [
+      {
+        "name": "Demo MMXXVI",
+        "year": "2026",
+        "genres": [
+          "Speed Metal",
+          "Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Speed Metal",
+      "Punk"
     ]
   },
   {

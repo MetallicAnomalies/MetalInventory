@@ -108,6 +108,22 @@
     ]
   },
   {
+    "normalizedName": "6kserenade",
+    "displayName": "6kSerenade",
+    "albums": [
+      {
+        "name": "A Constant Attempt",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "abanoch",
     "displayName": "Abanoch",
     "origin": "QA",
@@ -1457,10 +1473,19 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "Skin of Your God",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
-      "Metalcore"
+      "Metalcore",
+      "Death Metal"
     ]
   },
   {
@@ -2409,6 +2434,26 @@
     "tags": [
       "Electronic Black Metal",
       "Synthwave"
+    ]
+  },
+  {
+    "normalizedName": "karakazan",
+    "displayName": "Karakazan",
+    "albums": [
+      {
+        "name": "Karakazan",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Sludge Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom",
+      "Sludge Metal",
+      "Stoner Metal"
     ]
   },
   {
@@ -4317,6 +4362,24 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "thelonely",
+    "displayName": "The Lonely",
+    "albums": [
+      {
+        "name": "Magical Machine",
+        "year": "2026",
+        "genres": [
+          "Depressive Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Metal",
+      "Post-Black Metal"
+    ]
   },
   {
     "normalizedName": "thenearlydeads",

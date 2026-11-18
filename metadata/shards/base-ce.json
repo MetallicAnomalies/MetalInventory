@@ -4881,12 +4881,25 @@
         "genres": [
           "Hardcore Punk"
         ]
+      },
+      {
+        "name": "Dirty Blues Scream",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Black Metal",
+          "Thrash Metal",
+          "Hardcore Punk",
+          "Psychobilly"
+        ]
       }
     ],
     "tags": [
       "Hardcore Punk",
       "Black Metal",
-      "Death Metal"
+      "Death Metal",
+      "Thrash Metal",
+      "Psychobilly"
     ]
   },
   {

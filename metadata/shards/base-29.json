@@ -5273,11 +5273,20 @@
           "Stoner Doom Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Warp Riders",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Stoner Doom Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Stoner Metal"
     ]
   },
   {

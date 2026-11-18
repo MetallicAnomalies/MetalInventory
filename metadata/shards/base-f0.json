@@ -982,11 +982,20 @@
           "Heavy Thrash Metal",
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Merciless Existence",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Thrash Metal",
-      "Thrash Metal"
+      "Thrash Metal",
+      "Heavy Metal"
     ]
   },
   {
@@ -1617,10 +1626,40 @@
         "genres": [
           "Death Doom Metal"
         ]
+      },
+      {
+        "name": "Slaved",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Death Metal",
+          "Stoner Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Doom Metal"
+      "Death Doom Metal",
+      "Doom",
+      "Death Metal",
+      "Stoner Metal"
+    ]
+  },
+  {
+    "normalizedName": "grollheimnocturnalempyrean",
+    "displayName": "Grollheim/Nocturnal Empyrean",
+    "albums": [
+      {
+        "name": "Engraved by Lugubrious Torment",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal, Dungeon Synth",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal, Dungeon Synth",
+      "Black Metal"
     ]
   },
   {

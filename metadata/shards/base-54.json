@@ -1679,10 +1679,14 @@
       {
         "name": "Wasteland Empire",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Melodic Death Metal"
+    ]
   },
   {
     "normalizedName": "elkhunter",
@@ -4077,6 +4081,13 @@
       {
         "name": "Onwards The Mystic Paths Of The Dead",
         "year": "2020",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Skullbath Monolith",
+        "year": "2026",
         "genres": [
           "Death Metal"
         ]

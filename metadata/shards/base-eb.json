@@ -1394,6 +1394,22 @@
     ]
   },
   {
+    "normalizedName": "devouringvoid",
+    "displayName": "Devouring Void",
+    "albums": [
+      {
+        "name": "Live in Leipzig",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "diamondhead",
     "displayName": "Diamond Head",
     "origin": "GB",
@@ -2799,6 +2815,24 @@
     ],
     "tags": [
       "Atmospheric Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "ksuren",
+    "displayName": "Ksuren",
+    "albums": [
+      {
+        "name": "Part I: Home Is Wherever You Are",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal",
+          "Shoegaze"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal",
+      "Shoegaze"
     ]
   },
   {
@@ -5418,6 +5452,22 @@
     ],
     "tags": [
       "Melodic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "voidspire",
+    "displayName": "Voidspire",
+    "albums": [
+      {
+        "name": "Swallowed by the Jaws of the Abyss",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Death Metal"
     ]
   },
   {

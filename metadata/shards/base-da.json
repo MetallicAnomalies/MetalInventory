@@ -972,6 +972,22 @@
     ]
   },
   {
+    "normalizedName": "ayvu",
+    "displayName": "Ayvu",
+    "albums": [
+      {
+        "name": "Tetã Ñorairõhára",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "barenakedladies",
     "displayName": "Barenaked Ladies",
     "origin": "CA",
@@ -2649,6 +2665,22 @@
     ],
     "tags": [
       "Symphonic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "evildjinn",
+    "displayName": "Evil Djinn",
+    "albums": [
+      {
+        "name": "Echoes of the Unholy",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

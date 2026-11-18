@@ -839,6 +839,26 @@
     ]
   },
   {
+    "normalizedName": "devilsharvest",
+    "displayName": "DevilsHarvest",
+    "albums": [
+      {
+        "name": "'Murder' Legendre",
+        "year": "2026",
+        "genres": [
+          "Drone Doom Metal",
+          "Doom",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Drone Doom Metal",
+      "Doom",
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "djjazzyjeffthefreshprince",
     "displayName": "DJ Jazzy Jeff & The Fresh Prince",
     "origin": "US",
@@ -1258,6 +1278,22 @@
     ],
     "tags": [
       "Progressive Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "greatbadsatan",
+    "displayName": "Great Bad Satan",
+    "albums": [
+      {
+        "name": "United Satanic Devils",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind"
     ]
   },
   {
@@ -2076,6 +2112,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "mortyrdom",
+    "displayName": "Mortyrdom",
+    "albums": [
+      {
+        "name": "Mortyrdom",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

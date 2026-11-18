@@ -2860,11 +2860,21 @@
         "name": "The Century Of The Self EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "The Century Of The Self",
+        "year": "2026",
+        "genres": [
+          "Melodic Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Melodic Heavy Metal",
+      "Hard Rock"
     ]
   },
   {

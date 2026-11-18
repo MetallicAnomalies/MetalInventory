@@ -25,10 +25,17 @@
         "genres": [
           "Metal"
         ]
+      },
+      {
+        "name": "Demos Vol. 1",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
-      "Metal"
+      "Doom Metal"
     ]
   },
   {
@@ -2640,6 +2647,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "ksiezycwojnyvollstreckerghashgulslavonia",
+    "displayName": "Księżyc Wojny/Vollstrecker/Ghâsh-gûl/Slavonia",
+    "albums": [
+      {
+        "name": "Barbarian Propaganda Vol.1",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -5506,10 +5531,19 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Frozen Darkness",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Death Metal"
     ]
   },
   {

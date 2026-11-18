@@ -3434,6 +3434,22 @@
     ]
   },
   {
+    "normalizedName": "metalyzed",
+    "displayName": "Metalyzed",
+    "albums": [
+      {
+        "name": "Metalyzed Power Maniacs",
+        "year": "2026",
+        "genres": [
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Speed Metal"
+    ]
+  },
+  {
     "normalizedName": "metsatoll",
     "displayName": "Metsatöll",
     "origin": "EE",
@@ -4908,6 +4924,13 @@
       },
       {
         "name": "Trister kobold",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      },
+      {
+        "name": "Kobold im Schnee",
         "year": "2026",
         "genres": [
           "Raw Black Metal"

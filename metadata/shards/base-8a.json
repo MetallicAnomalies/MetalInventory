@@ -1369,6 +1369,24 @@
     ]
   },
   {
+    "normalizedName": "cuethesun",
+    "displayName": "Cue the Sun",
+    "albums": [
+      {
+        "name": "The Word for World Is Forest",
+        "year": "2026",
+        "genres": [
+          "Blackened Sludge Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Sludge Metal",
+      "Stoner Metal"
+    ]
+  },
+  {
     "normalizedName": "damonsystema",
     "displayName": "Damon Systema",
     "albums": [
@@ -4781,6 +4799,13 @@
       {
         "name": "Disharmonic Revelations",
         "year": "2022",
+        "genres": [
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Hammer of Justice",
+        "year": "2026",
         "genres": [
           "Thrash Metal"
         ]

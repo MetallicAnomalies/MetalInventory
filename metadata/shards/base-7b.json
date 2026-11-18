@@ -1303,6 +1303,22 @@
     ]
   },
   {
+    "normalizedName": "funeraal",
+    "displayName": "Funeraal",
+    "albums": [
+      {
+        "name": "Ceremonie",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "funeralwinds",
     "displayName": "Funeral Winds",
     "albums": [
@@ -3226,6 +3242,14 @@
       {
         "name": "Król",
         "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      },
+      {
+        "name": "Po drugiej stronie słońca",
+        "year": "2027",
         "genres": [
           "Heavy Metal",
           "Hard Rock"

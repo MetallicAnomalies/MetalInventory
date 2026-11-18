@@ -1398,6 +1398,22 @@
     ]
   },
   {
+    "normalizedName": "deadreef",
+    "displayName": "Dead Reef",
+    "albums": [
+      {
+        "name": "Dead Reef",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Psychedelic Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "deception",
     "displayName": "Deception",
     "origin": "NO",
@@ -2013,6 +2029,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "grindcrime",
+    "displayName": "Grindcrime",
+    "albums": [
+      {
+        "name": "Hunting for Submissive Minds",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

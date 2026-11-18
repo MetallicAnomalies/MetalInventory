@@ -1819,6 +1819,22 @@
     ]
   },
   {
+    "normalizedName": "forbannet",
+    "displayName": "Forbannet",
+    "albums": [
+      {
+        "name": "Excavating the Minerals of Esoterica",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "fromfirsttolast",
     "displayName": "From First to Last",
     "origin": "US",
@@ -2877,6 +2893,13 @@
       {
         "name": "Liernes",
         "year": "2024",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      },
+      {
+        "name": "Litanies",
+        "year": "2027",
         "genres": [
           "Atmospheric Black Metal"
         ]

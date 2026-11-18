@@ -4590,11 +4590,20 @@
         "genres": [
           "Deathcore"
         ]
+      },
+      {
+        "name": "To Love, to Hate",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Deathcore"
+        ]
       }
     ],
     "tags": [
       "Deathcore",
-      "Metalcore"
+      "Metalcore",
+      "Death Metal"
     ]
   },
   {
@@ -4637,10 +4646,19 @@
         "genres": [
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "Livid",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
-      "Sludge Metal"
+      "Sludge Metal",
+      "Groove Metal"
     ]
   },
   {

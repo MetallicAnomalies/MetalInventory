@@ -4663,11 +4663,20 @@
           "Deathcore Metalcore",
           "Metalcore"
         ]
+      },
+      {
+        "name": "Scum for Life",
+        "year": "2026",
+        "genres": [
+          "Deathcore",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
       "Deathcore Metalcore",
-      "Metalcore"
+      "Metalcore",
+      "Deathcore"
     ]
   },
   {
@@ -4856,11 +4865,20 @@
           "Melodic Black Death Metal",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Punainen maa",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Black Death Metal",
-      "Death Metal"
+      "Death Metal",
+      "Melodic Black Metal"
     ]
   },
   {

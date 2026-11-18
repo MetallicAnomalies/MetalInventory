@@ -1,5 +1,23 @@
 [
   {
+    "normalizedName": "abhorvm",
+    "displayName": "Abhorvm",
+    "albums": [
+      {
+        "name": "Exhumationes II",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "absolva",
     "displayName": "Absolva",
     "albums": [
@@ -156,6 +174,24 @@
       }
     ],
     "tags": [
+      "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "anchoritic",
+    "displayName": "Anchoritic",
+    "albums": [
+      {
+        "name": "Peretloata",
+        "year": "2026",
+        "genres": [
+          "Funeral Doom Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Funeral Doom Metal",
       "Death Metal"
     ]
   },
@@ -876,6 +912,22 @@
     ],
     "tags": [
       "Folk Metal"
+    ]
+  },
+  {
+    "normalizedName": "cursedbody",
+    "displayName": "Cursed Body",
+    "albums": [
+      {
+        "name": "There Is a Hole in the Center of Everything",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal"
     ]
   },
   {

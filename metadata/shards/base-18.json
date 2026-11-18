@@ -440,6 +440,22 @@
     ]
   },
   {
+    "normalizedName": "blackbirch",
+    "displayName": "Black Birch",
+    "albums": [
+      {
+        "name": "Grief",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "blackness",
     "displayName": "Blackness",
     "albums": [
@@ -2059,10 +2075,20 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Ultraterrestrial Flesh Destruction",
+        "year": "2026",
+        "genres": [
+          "Slam Metal",
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Slam Metal",
+      "Brutal Death Metal"
     ]
   },
   {
@@ -4555,6 +4581,24 @@
     "tags": [
       "Crossover Thrash",
       "Hardcore"
+    ]
+  },
+  {
+    "normalizedName": "volupta",
+    "displayName": "Volupta",
+    "albums": [
+      {
+        "name": "Vestal",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Doom Metal"
     ]
   },
   {

@@ -2233,10 +2233,20 @@
         "genres": [
           "Pagan Black Metal"
         ]
+      },
+      {
+        "name": "Unholy War",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Pagan Black Metal"
+      "Pagan Black Metal",
+      "Heavy Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -3641,11 +3651,20 @@
           "Black Doom Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Apocalyptic Sunstroke",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Black Doom Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Black Metal"
     ]
   },
   {
@@ -4653,6 +4672,22 @@
     ]
   },
   {
+    "normalizedName": "thegrigori",
+    "displayName": "The Grigori",
+    "albums": [
+      {
+        "name": "Exegesis",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "thewailers",
     "displayName": "The Wailers",
     "origin": "JM",
@@ -5277,6 +5312,28 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "wizardbloodywizardjuehring",
+    "displayName": "Wizard Bloody Wizard/Juehring",
+    "albums": [
+      {
+        "name": "Warp Riders/Cheap Novocaine/Good or God",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Doom Metal",
+          "Heavy Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Doom Metal",
+      "Heavy Metal",
+      "Thrash Metal"
     ]
   },
   {

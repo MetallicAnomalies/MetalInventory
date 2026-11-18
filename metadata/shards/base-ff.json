@@ -1920,6 +1920,24 @@
     ]
   },
   {
+    "normalizedName": "hadesinc",
+    "displayName": "Hades Inc.",
+    "albums": [
+      {
+        "name": "Sesión en vivo vol. 2",
+        "year": "2026",
+        "genres": [
+          "Power Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "halcyondays",
     "displayName": "Halcyon Days",
     "albums": [
@@ -3039,6 +3057,22 @@
     ],
     "tags": [
       "Progressive Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "nocturnalharvest",
+    "displayName": "Nocturnal Harvest",
+    "albums": [
+      {
+        "name": "The Forest of Lonely Spirits",
+        "year": "2026",
+        "genres": [
+          "Black Metal, Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal, Ambient"
     ]
   },
   {

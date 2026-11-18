@@ -2501,12 +2501,17 @@
       {
         "name": "Toxic",
         "year": "2027",
-        "genres": []
+        "genres": [
+          "AOR",
+          "Melodic Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
       "Hard Rock",
-      "Melodic Heavy Metal"
+      "Melodic Heavy Metal",
+      "AOR"
     ]
   },
   {

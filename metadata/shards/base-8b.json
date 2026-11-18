@@ -1535,6 +1535,22 @@
     ]
   },
   {
+    "normalizedName": "gormel",
+    "displayName": "Görmel",
+    "albums": [
+      {
+        "name": "Live in OldSkulls: 10.04.26",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "groteskh",
     "displayName": "Groteskh",
     "albums": [
@@ -4446,6 +4462,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "turncold",
+    "displayName": "Turn Cold",
+    "albums": [
+      {
+        "name": "Disaster Recipe",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Crossover"
     ]
   },
   {

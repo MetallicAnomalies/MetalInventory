@@ -100,9 +100,18 @@
         "name": "Angelic Doomology",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "River of Blood",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "ancientsettlers",
@@ -2100,6 +2109,24 @@
     ]
   },
   {
+    "normalizedName": "gethen",
+    "displayName": "Gethen",
+    "albums": [
+      {
+        "name": "Gethen",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "gillmore",
     "displayName": "Gillmore",
     "albums": [
@@ -2824,10 +2851,16 @@
       {
         "name": "Light Eater",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Epic Heavy Metal",
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Epic Heavy Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "malconfort",
@@ -4860,6 +4893,30 @@
           "Speed Shred",
           "Thrash Metal, Shred"
         ]
+      },
+      {
+        "name": "Viola Bach's Brandenburg Concerto No. 6 for Viola",
+        "year": "2026",
+        "genres": [
+          "Speed Shred",
+          "Thrash Metal, Shred"
+        ]
+      },
+      {
+        "name": "Cello Beethoven's Razumovsky Quartet No. 3 for Cello and Guitar",
+        "year": "2026",
+        "genres": [
+          "Speed Shred",
+          "Thrash Metal, Shred"
+        ]
+      },
+      {
+        "name": "Paganini's Centone Di Sonate for Violin and Guitar",
+        "year": "2026",
+        "genres": [
+          "Speed Shred",
+          "Thrash Metal, Shred"
+        ]
       }
     ],
     "tags": [
@@ -5534,6 +5591,22 @@
     "tags": [
       "Melodic Death Metal",
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "wolfsturm",
+    "displayName": "Wolfsturm",
+    "albums": [
+      {
+        "name": "Shamilian Coven",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

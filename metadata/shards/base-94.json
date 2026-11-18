@@ -904,6 +904,22 @@
     ]
   },
   {
+    "normalizedName": "barbarianaxe",
+    "displayName": "Barbarian Axe",
+    "albums": [
+      {
+        "name": "Barbaric Wrath",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "betrayel",
     "displayName": "Betrayel",
     "albums": [
@@ -3043,6 +3059,22 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "mournyre",
+    "displayName": "Mournyre",
+    "albums": [
+      {
+        "name": "Battle in the Stars",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Black Metal"
     ]
   },
   {

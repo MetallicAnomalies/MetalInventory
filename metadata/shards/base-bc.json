@@ -1947,10 +1947,20 @@
         "genres": [
           "Alternative"
         ]
+      },
+      {
+        "name": "Monster Skank",
+        "year": "2026",
+        "genres": [
+          "Funk Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
-      "Alternative"
+      "Alternative",
+      "Funk Metal",
+      "Rock"
     ]
   },
   {
@@ -4069,10 +4079,16 @@
       {
         "name": "Walk The Winds",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal",
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "texastoastchainsawmassacre",

@@ -2028,6 +2028,22 @@
     ]
   },
   {
+    "normalizedName": "gloomheim",
+    "displayName": "Gloomheim",
+    "albums": [
+      {
+        "name": "At the End of My Everlasting Longing",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "gram",
     "displayName": "Gram",
     "albums": [
@@ -3662,10 +3678,16 @@
       {
         "name": "Melodies Of A Dying Dawn",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom",
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Doom",
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "seamosquito",

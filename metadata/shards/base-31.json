@@ -1898,6 +1898,22 @@
     ]
   },
   {
+    "normalizedName": "independenttrucking",
+    "displayName": "Independent Trucking",
+    "albums": [
+      {
+        "name": "Tricera",
+        "year": "2026",
+        "genres": [
+          "Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Metal"
+    ]
+  },
+  {
     "normalizedName": "institute",
     "displayName": "Institute",
     "origin": "US",
@@ -4893,6 +4909,22 @@
       {
         "name": "Oklahoma",
         "year": "2015",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
+    ]
+  },
+  {
+    "normalizedName": "withpaperwings",
+    "displayName": "Withpaperwings",
+    "albums": [
+      {
+        "name": "Luxuries of Depravity",
+        "year": "2026",
         "genres": [
           "Metalcore"
         ]

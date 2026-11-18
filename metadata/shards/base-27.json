@@ -4750,6 +4750,24 @@
     ]
   },
   {
+    "normalizedName": "sodoma120",
+    "displayName": "Sodoma 120",
+    "albums": [
+      {
+        "name": "Ikuinen yö",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "sonance",
     "displayName": "Sonance",
     "albums": [
@@ -4879,6 +4897,32 @@
     "tags": [
       "Stoner Metal",
       "Stoner Rock"
+    ]
+  },
+  {
+    "normalizedName": "swordfront",
+    "displayName": "SwordFront",
+    "albums": [
+      {
+        "name": "Hordes of Anguish & Depravity",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      },
+      {
+        "name": "Stygian Ritual",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Dungeon Synth"
     ]
   },
   {

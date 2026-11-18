@@ -21,6 +21,22 @@
     ]
   },
   {
+    "normalizedName": "abysmalsummonings",
+    "displayName": "Abysmal Summonings",
+    "albums": [
+      {
+        "name": "Throne of the Crimson Eclipse",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
+    ]
+  },
+  {
     "normalizedName": "alexanderpaulblake",
     "displayName": "Alexander Paul Blake",
     "albums": [
@@ -3343,6 +3359,30 @@
     ],
     "tags": [
       "Nu Metal"
+    ]
+  },
+  {
+    "normalizedName": "riffanahebikatana",
+    "displayName": "Riffana/Hebi Katana",
+    "albums": [
+      {
+        "name": "Riff Katana -蛇ノ巣穴-",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Stoner Doom Metal",
+          "Doom",
+          "Heavy Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Stoner Doom Metal",
+      "Doom",
+      "Heavy Metal",
+      "Rock"
     ]
   },
   {

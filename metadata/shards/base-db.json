@@ -2021,10 +2021,18 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Requiem",
+        "year": "2026",
+        "genres": [
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Groove Metal"
     ]
   },
   {

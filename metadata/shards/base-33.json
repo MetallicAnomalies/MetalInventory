@@ -4246,6 +4246,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Live in Denmark",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -5692,6 +5699,22 @@
     ],
     "tags": [
       "Folk Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "zaias",
+    "displayName": "Zaias",
+    "albums": [
+      {
+        "name": "Dissanctified Dominion",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   }
 ]

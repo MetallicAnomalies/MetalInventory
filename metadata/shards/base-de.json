@@ -838,6 +838,14 @@
           "Blackened Death Metal",
           "Crust Punk"
         ]
+      },
+      {
+        "name": "Never Forget",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Metal",
+          "Crust Punk"
+        ]
       }
     ],
     "tags": [
@@ -2830,6 +2838,24 @@
     "tags": [
       "Avant-garde Metal",
       "Experimental Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "sequestrum",
+    "displayName": "Sequestrum",
+    "albums": [
+      {
+        "name": "Rehearsal Dissection infection (2022-2025)",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Goregrind"
     ]
   },
   {

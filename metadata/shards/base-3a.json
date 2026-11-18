@@ -157,10 +157,21 @@
       {
         "name": "Utterances For The Dead",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "The Calling of Amentet",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "amethista",
@@ -220,6 +231,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "anaphylaxie",
+    "displayName": "Anaphylaxie",
+    "albums": [
+      {
+        "name": "Temperamente",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -4122,10 +4149,16 @@
       {
         "name": "I Hope This Hurts",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Sludge Post-Metal",
+          "Post-Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Sludge Post-Metal",
+      "Post-Metal"
+    ]
   },
   {
     "normalizedName": "temnein",
@@ -4939,6 +4972,13 @@
       },
       {
         "name": "Big Skies",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      },
+      {
+        "name": "In the Foothills",
         "year": "2026",
         "genres": [
           "Doom Metal"

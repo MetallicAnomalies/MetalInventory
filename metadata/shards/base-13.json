@@ -171,10 +171,16 @@
       {
         "name": "Blasfemia Austral",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Avant-garde Black Metal",
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Avant-garde Black Metal",
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "anthropophagy",
@@ -4589,6 +4595,22 @@
     ],
     "tags": [
       "Funeral Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "xeropolis",
+    "displayName": "Xeropolis",
+    "albums": [
+      {
+        "name": "Promo 2026",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

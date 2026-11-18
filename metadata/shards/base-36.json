@@ -2153,6 +2153,26 @@
     ]
   },
   {
+    "normalizedName": "inpeccatvm",
+    "displayName": "In Peccatvm",
+    "albums": [
+      {
+        "name": "In Perpetuum Nobis",
+        "year": "2026",
+        "genres": [
+          "Heavy Doom Metal",
+          "Progressive Metal, Doom Metal",
+          "Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Doom Metal",
+      "Progressive Metal, Doom Metal",
+      "Gothic Metal"
+    ]
+  },
+  {
     "normalizedName": "isolation",
     "displayName": "Isolation",
     "albums": [
@@ -3000,6 +3020,13 @@
     "albums": [
       {
         "name": "Fields of Ertsukhi",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      },
+      {
+        "name": "Dreams of the Highlander",
         "year": "2026",
         "genres": [
           "Raw Black Metal"

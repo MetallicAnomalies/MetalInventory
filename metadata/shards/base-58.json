@@ -3201,9 +3201,20 @@
         "name": "Murskaus EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Murskaus",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Doom Metal",
+          "Stoner Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Atmospheric Doom Metal",
+      "Stoner Metal"
+    ]
   },
   {
     "normalizedName": "nebukadnezza",

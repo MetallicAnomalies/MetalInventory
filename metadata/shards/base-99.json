@@ -414,6 +414,14 @@
           "Symphonic Metal",
           "Rock"
         ]
+      },
+      {
+        "name": "Tidal Wave",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
@@ -4475,6 +4483,22 @@
     "tags": [
       "Melodic Death Metal",
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "tillhygge",
+    "displayName": "Tillhygge",
+    "albums": [
+      {
+        "name": "Morbida Väsen",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
