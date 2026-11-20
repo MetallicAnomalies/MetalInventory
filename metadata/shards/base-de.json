@@ -2546,10 +2546,20 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Thou Shalt not Kill",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
-      "Doom Metal"
+      "Doom Metal",
+      "Death Metal",
+      "Groove Metal"
     ]
   },
   {

@@ -4591,6 +4591,32 @@
     ]
   },
   {
+    "normalizedName": "vrisak",
+    "displayName": "Vrisak",
+    "albums": [
+      {
+        "name": "Hir",
+        "year": "2026",
+        "genres": [
+          "Folk Metal",
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Brodolom",
+        "year": "2026",
+        "genres": [
+          "Folk Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Folk Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "warhaus",
     "displayName": "Warhaus",
     "origin": "BE",

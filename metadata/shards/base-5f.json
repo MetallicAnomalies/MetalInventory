@@ -1522,11 +1522,19 @@
           "Thrash Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Monster Truck",
+        "year": "2026",
+        "genres": [
+          "Melodic Heavy Metal"
+        ]
       }
     ],
     "tags": [
       "Thrash Metal",
-      "Heavy Metal"
+      "Heavy Metal",
+      "Melodic Heavy Metal"
     ]
   },
   {

@@ -401,10 +401,20 @@
         "genres": [
           "Progressive Power Metal"
         ]
+      },
+      {
+        "name": "Thanatos",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Power Metal"
+      "Progressive Power Metal",
+      "Progressive Metal",
+      "Power Metal"
     ]
   },
   {
@@ -3956,6 +3966,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "sacrotorsus",
+    "displayName": "Sacrotorsus",
+    "albums": [
+      {
+        "name": "Divine Wisdom",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Doom Metal"
     ]
   },
   {

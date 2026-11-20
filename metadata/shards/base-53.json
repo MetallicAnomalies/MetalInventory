@@ -497,10 +497,18 @@
       {
         "name": "Noctis Monstrum",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Deathcore",
+          "Sludge Post-Metal",
+          "Post-Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Deathcore",
+      "Sludge Post-Metal",
+      "Post-Metal"
+    ]
   },
   {
     "normalizedName": "blackstone",

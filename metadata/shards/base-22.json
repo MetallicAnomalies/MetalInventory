@@ -440,10 +440,24 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "This Will Not Save You",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Experimental Black Metal",
+          "Doom Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
-      "Atmospheric Black Metal"
+      "Atmospheric Black Metal",
+      "Black Metal",
+      "Experimental Black Metal",
+      "Doom Metal",
+      "Rock"
     ]
   },
   {

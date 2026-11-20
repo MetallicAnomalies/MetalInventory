@@ -2300,6 +2300,22 @@
     ]
   },
   {
+    "normalizedName": "hostianegrasadokult",
+    "displayName": "Hóstia Negra/Sadokult",
+    "albums": [
+      {
+        "name": "Flagelo & Agonia",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "humaniac",
     "displayName": "Humaniac",
     "origin": "RU",
@@ -3316,6 +3332,26 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "obsidianurn",
+    "displayName": "Obsidian Urn",
+    "albums": [
+      {
+        "name": "Barren Paths Towards the Unlight",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Death Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Death Metal",
+      "Doom Metal"
     ]
   },
   {

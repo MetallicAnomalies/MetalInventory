@@ -1292,10 +1292,19 @@
         "genres": [
           "Symphonic Metal"
         ]
+      },
+      {
+        "name": "Wayfaring Stranger",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal",
+          "Symphonic Metal"
+        ]
       }
     ],
     "tags": [
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Gothic Metal"
     ]
   },
   {
@@ -4930,6 +4939,22 @@
     "tags": [
       "Melodic Death Metal",
       "Melodic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "supercolony",
+    "displayName": "Supercolony",
+    "albums": [
+      {
+        "name": "SUPERCOLONY",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
     ]
   },
   {

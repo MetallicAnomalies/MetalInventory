@@ -1141,6 +1141,13 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Midnight Sun",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -2625,6 +2632,15 @@
         "year": "2025",
         "genres": [
           "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Foregods",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Power Metal",
+          "Metalcore"
         ]
       }
     ],

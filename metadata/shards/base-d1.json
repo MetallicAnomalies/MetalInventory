@@ -2593,6 +2593,26 @@
     ]
   },
   {
+    "normalizedName": "hamburguesadepanerola",
+    "displayName": "Hamburgüesa de Panerola",
+    "albums": [
+      {
+        "name": "Últim món culinari",
+        "year": "2026",
+        "genres": [
+          "Gorenoise, Harsh Noise",
+          "Goregrind Grindcore",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Gorenoise, Harsh Noise",
+      "Goregrind Grindcore",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "hazael",
     "displayName": "Hazael",
     "albums": [
@@ -3624,12 +3644,27 @@
         "genres": [
           "Industrial Metal"
         ]
+      },
+      {
+        "name": "Axiom I",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal",
+          "Death Metal",
+          "Industrial",
+          "Groove Nu Metal",
+          "Nu Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
       "Death Metal",
-      "Industrial Metal"
+      "Industrial Metal",
+      "Melodic Black Metal",
+      "Industrial",
+      "Groove Nu Metal",
+      "Nu Metal"
     ]
   },
   {

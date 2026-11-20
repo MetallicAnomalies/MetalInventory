@@ -2395,6 +2395,50 @@
     ]
   },
   {
+    "normalizedName": "myashes",
+    "displayName": "My Ashes",
+    "albums": [
+      {
+        "name": "In the Arms of Oblivion",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "Exhaustion of a Pale Soul",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "When Hope Leaves Us",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "Final Reflections (Demo)",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "From Existence to Ashes",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "mylament",
     "displayName": "My Lament",
     "origin": "BE",

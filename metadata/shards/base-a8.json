@@ -1537,6 +1537,13 @@
         "genres": [
           "Grindcore"
         ]
+      },
+      {
+        "name": "Blood Filled Inhaler",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
       }
     ],
     "tags": [
@@ -3209,6 +3216,24 @@
       "Nu Metal",
       "Heavy Metal",
       "Funk Metal"
+    ]
+  },
+  {
+    "normalizedName": "orate",
+    "displayName": "Orate",
+    "albums": [
+      {
+        "name": "Tempore et lokus",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Black Metal"
     ]
   },
   {

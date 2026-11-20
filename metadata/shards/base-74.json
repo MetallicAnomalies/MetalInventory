@@ -766,6 +766,24 @@
     ]
   },
   {
+    "normalizedName": "boltcross",
+    "displayName": "Bolt Cross",
+    "albums": [
+      {
+        "name": "Promo '26",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Crossover"
+    ]
+  },
+  {
     "normalizedName": "botanist",
     "displayName": "Botanist",
     "albums": [
@@ -2248,6 +2266,14 @@
       {
         "name": "Martyrium",
         "year": "2024",
+        "genres": [
+          "Black Metal",
+          "Funeral Doom Metal"
+        ]
+      },
+      {
+        "name": "Hora Tenebrarvm",
+        "year": "2026",
         "genres": [
           "Black Metal",
           "Funeral Doom Metal"

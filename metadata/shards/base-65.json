@@ -4216,10 +4216,14 @@
       {
         "name": "Hollow Crown",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Melodic Death Metal"
+    ]
   },
   {
     "normalizedName": "siebenburgen",
@@ -5197,10 +5201,24 @@
         "genres": [
           "Stoner Metal"
         ]
+      },
+      {
+        "name": "Я исчезаю",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Gothic Metal",
+          "Gothic Rock",
+          "Alternative Rock"
+        ]
       }
     ],
     "tags": [
-      "Stoner Metal"
+      "Stoner Metal",
+      "Progressive Metal",
+      "Gothic Metal",
+      "Gothic Rock",
+      "Alternative Rock"
     ]
   },
   {

@@ -5310,11 +5310,19 @@
           "Death Metal",
           "Grindcore"
         ]
+      },
+      {
+        "name": "Loputon virta",
+        "year": "2026",
+        "genres": [
+          "Death Metal, Grindcore"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Grindcore"
+      "Grindcore",
+      "Death Metal, Grindcore"
     ]
   },
   {
@@ -5468,5 +5476,21 @@
       "Mizrahi"
     ],
     "origin": "IL"
+  },
+  {
+    "normalizedName": "צינוק",
+    "displayName": "צִינוֹק",
+    "albums": [
+      {
+        "name": "שָׁלוֹם // Friede",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
   }
 ]

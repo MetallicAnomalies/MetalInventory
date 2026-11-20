@@ -4651,6 +4651,15 @@
           "Folk Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Ylimieli",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal",
+          "Pagan Metal",
+          "Folk Metal"
+        ]
       }
     ],
     "tags": [
@@ -4658,7 +4667,8 @@
       "Pagan Folk Metal",
       "Black Metal",
       "Folk Metal",
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Pagan Metal"
     ]
   },
   {

@@ -1084,6 +1084,24 @@
     ]
   },
   {
+    "normalizedName": "deathwinds",
+    "displayName": "Deathwinds",
+    "albums": [
+      {
+        "name": "Gates to Inferno",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "demonicmanifestation",
     "displayName": "Demonic Manifestation",
     "albums": [
@@ -5052,6 +5070,14 @@
     "albums": [
       {
         "name": "山奈 (Summer Shanh)",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Folk Metal"
+        ]
+      },
+      {
+        "name": "四氣五行 (Nine Elements)",
         "year": "2026",
         "genres": [
           "Heavy Metal",

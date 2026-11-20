@@ -817,6 +817,22 @@
     ]
   },
   {
+    "normalizedName": "breakker",
+    "displayName": "Breakker",
+    "albums": [
+      {
+        "name": "Do Not Right",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "byconquestorconsent",
     "displayName": "By Conquest or Consent",
     "origin": "US",
@@ -2644,11 +2660,20 @@
           "Melodic Death Gothic Metal",
           "Gothic Metal"
         ]
+      },
+      {
+        "name": "Puzzle of Life",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
       "Melodic Death Gothic Metal",
-      "Gothic Metal"
+      "Gothic Metal",
+      "Melodic Death Metal"
     ]
   },
   {

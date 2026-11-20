@@ -415,10 +415,20 @@
         "genres": [
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Cím nélkül",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Metal",
+          "Post-Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Atmospheric Black Metal"
+      "Atmospheric Black Metal",
+      "Atmospheric Metal",
+      "Post-Black Metal"
     ]
   },
   {

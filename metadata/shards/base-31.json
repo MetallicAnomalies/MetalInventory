@@ -196,6 +196,24 @@
     ]
   },
   {
+    "normalizedName": "azulturquesa",
+    "displayName": "Azul Turquesa",
+    "albums": [
+      {
+        "name": "Trevo",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "beholdthemonolith",
     "displayName": "Behold! the Monolith",
     "origin": "US",
@@ -1816,11 +1834,28 @@
           "Folk Rock",
           "Folk"
         ]
+      },
+      {
+        "name": "Oro y Penumbra",
+        "year": "2026",
+        "genres": [
+          "Folk Rock",
+          "Metal"
+        ]
+      },
+      {
+        "name": "La montaña solitaria",
+        "year": "2026",
+        "genres": [
+          "Folk Rock",
+          "Metal"
+        ]
       }
     ],
     "tags": [
       "Folk Rock",
-      "Folk"
+      "Folk",
+      "Metal"
     ]
   },
   {

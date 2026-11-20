@@ -1180,6 +1180,24 @@
     ]
   },
   {
+    "normalizedName": "dreamweb",
+    "displayName": "Dreamweb",
+    "albums": [
+      {
+        "name": "Hurry, Hurry My Children... Hurry",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Post-Metal",
+          "Blackened Post-Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Avant-garde Post-Metal",
+      "Blackened Post-Metal"
+    ]
+  },
+  {
     "normalizedName": "druids",
     "displayName": "Druids",
     "albums": [
@@ -3927,12 +3945,22 @@
         "name": "Nordavind",
         "year": "1995",
         "genres": [
-          "Blackened Folk"
+          "Blackened Folk Metal"
+        ]
+      },
+      {
+        "name": "Night Marchers",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal",
+          "Power Metal"
         ]
       }
     ],
     "tags": [
-      "Blackened Folk"
+      "Blackened Folk Metal",
+      "Gothic Metal",
+      "Power Metal"
     ]
   },
   {

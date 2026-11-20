@@ -3254,6 +3254,14 @@
           "Heavy Metal",
           "Groove Metal"
         ]
+      },
+      {
+        "name": "Demonology",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
@@ -4666,6 +4674,26 @@
     "tags": [
       "Atmospheric Black Metal",
       "Dark Ambient"
+    ]
+  },
+  {
+    "normalizedName": "spellforger",
+    "displayName": "Spellforger",
+    "albums": [
+      {
+        "name": "Sanguis Et Magia",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Black Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Black Metal",
+      "Speed Metal"
     ]
   },
   {

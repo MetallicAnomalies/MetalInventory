@@ -5173,11 +5173,20 @@
         "genres": [
           "Rock"
         ]
+      },
+      {
+        "name": "Bad Romance",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
       "Avant-garde",
-      "Rock"
+      "Rock",
+      "Progressive Metal"
     ]
   },
   {

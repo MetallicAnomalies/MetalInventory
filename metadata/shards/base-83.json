@@ -151,6 +151,22 @@
     ]
   },
   {
+    "normalizedName": "aldheorte",
+    "displayName": "Aldheorte",
+    "albums": [
+      {
+        "name": "Rituals of Bereavement",
+        "year": "2027",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "allhailtheyeti",
     "displayName": "All Hail The Yeti",
     "origin": "US",
@@ -1364,6 +1380,13 @@
       {
         "name": "Eternal Eclipse",
         "year": "2027",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Ordo Luciferi",
+        "year": "2026",
         "genres": [
           "Melodic Death Metal"
         ]
@@ -4211,6 +4234,24 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "walkalone",
+    "displayName": "Walk Alone",
+    "albums": [
+      {
+        "name": "Throes of Misery",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Crossover"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Crossover"
+    ]
   },
   {
     "normalizedName": "wickedminds",

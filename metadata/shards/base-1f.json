@@ -3373,12 +3373,22 @@
           "Stoner Metal",
           "Rock"
         ]
+      },
+      {
+        "name": "Devil's Flood",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Stoner Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
       "Doom Rock",
       "Stoner Metal",
-      "Rock"
+      "Rock",
+      "Doom"
     ]
   },
   {

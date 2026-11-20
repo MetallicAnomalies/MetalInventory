@@ -354,6 +354,22 @@
     ]
   },
   {
+    "normalizedName": "attalu",
+    "displayName": "Attalû",
+    "albums": [
+      {
+        "name": "Inner Chasm",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "azeroth",
     "displayName": "Azeroth",
     "albums": [
@@ -4912,6 +4928,30 @@
       },
       {
         "name": "Paganini's Centone Di Sonate for Violin and Guitar",
+        "year": "2026",
+        "genres": [
+          "Speed Shred",
+          "Thrash Metal, Shred"
+        ]
+      },
+      {
+        "name": "Beethoven Quartets 9, 11, 13, 16",
+        "year": "2026",
+        "genres": [
+          "Speed Shred",
+          "Thrash Metal, Shred"
+        ]
+      },
+      {
+        "name": "Paganini Sonatas Opus 3, 39, 64",
+        "year": "2026",
+        "genres": [
+          "Speed Shred",
+          "Thrash Metal, Shred"
+        ]
+      },
+      {
+        "name": "Bach Brandenburg Concertos 3, 6",
         "year": "2026",
         "genres": [
           "Speed Shred",

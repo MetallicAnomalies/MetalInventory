@@ -3434,6 +3434,22 @@
     ]
   },
   {
+    "normalizedName": "niovel",
+    "displayName": "Niovel",
+    "albums": [
+      {
+        "name": "The Detail",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Power Metal"
+    ]
+  },
+  {
     "normalizedName": "noxdoloris",
     "displayName": "Nox Doloris",
     "origin": "RU",
@@ -4076,6 +4092,30 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "runtuhputridvomitchrist",
+    "displayName": "Runtuh/Putrid Vomit Christ",
+    "albums": [
+      {
+        "name": "Machination of Euphoria",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Sludge Metal",
+          "Post-Metal",
+          "Death Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom",
+      "Sludge Metal",
+      "Post-Metal",
+      "Death Metal",
+      "Doom Metal"
     ]
   },
   {

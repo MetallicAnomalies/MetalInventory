@@ -828,6 +828,22 @@
     ]
   },
   {
+    "normalizedName": "blackrider",
+    "displayName": "BlackRider",
+    "albums": [
+      {
+        "name": "Adorers of the Serpent",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "brightcurse",
     "displayName": "Bright Curse",
     "albums": [
@@ -3583,6 +3599,26 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "riseinrage",
+    "displayName": "Rise in Rage",
+    "albums": [
+      {
+        "name": "Сонца больш не ўзыдзе",
+        "year": "2026",
+        "genres": [
+          "Groove Metal",
+          "Death Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal",
+      "Death Metal",
+      "Metalcore"
     ]
   },
   {

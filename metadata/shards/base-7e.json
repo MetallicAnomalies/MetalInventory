@@ -871,6 +871,22 @@
     ]
   },
   {
+    "normalizedName": "carrionbride",
+    "displayName": "Carrion Bride",
+    "albums": [
+      {
+        "name": "Kingdom of the Worm - Rehearsal Demo '26",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "circusofdamnation",
     "displayName": "Circus of Damnation",
     "origin": "IT",
@@ -1578,6 +1594,22 @@
     ],
     "tags": [
       "Symphonic Progressive"
+    ]
+  },
+  {
+    "normalizedName": "egata",
+    "displayName": "Egata",
+    "albums": [
+      {
+        "name": "Nightwail",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

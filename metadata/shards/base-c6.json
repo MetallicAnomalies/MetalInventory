@@ -648,6 +648,24 @@
     "tags": []
   },
   {
+    "normalizedName": "crossborns",
+    "displayName": "Cross Borns",
+    "albums": [
+      {
+        "name": "Tesla akták",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "danswano",
     "displayName": "Dan Swanö",
     "origin": "US",

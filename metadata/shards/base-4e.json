@@ -672,10 +672,18 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "New Dark Century",
+        "year": "2026",
+        "genres": [
+          "Melodic Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Power Metal"
+      "Power Metal",
+      "Melodic Power Metal"
     ]
   },
   {

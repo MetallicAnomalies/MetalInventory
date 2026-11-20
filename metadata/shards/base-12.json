@@ -3225,6 +3225,22 @@
     ]
   },
   {
+    "normalizedName": "protooort",
+    "displayName": "ProtoOort",
+    "albums": [
+      {
+        "name": "Tapestry of Celestial Threads",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Metal"
+    ]
+  },
+  {
     "normalizedName": "ravagemachinery",
     "displayName": "Ravage Machinery",
     "albums": [
@@ -3440,6 +3456,13 @@
       },
       {
         "name": "Black Winter Forest Mystery",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      },
+      {
+        "name": "Ex Nebula Dispersa...",
         "year": "2026",
         "genres": [
           "Raw Black Metal"

@@ -1893,6 +1893,26 @@
     ]
   },
   {
+    "normalizedName": "fracturedspine",
+    "displayName": "Fractured Spine",
+    "albums": [
+      {
+        "name": "Leita",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal",
+          "Death Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Metal",
+      "Death Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "frequencytheater",
     "displayName": "Frequency Theater",
     "origin": "US",
@@ -3300,6 +3320,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "petalsofsorrow",
+    "displayName": "Petals of Sorrow",
+    "albums": [
+      {
+        "name": "Songs of Bitter End",
+        "year": "2026",
+        "genres": [
+          "Progressive Groove Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Groove Metal",
+      "Thrash Metal"
     ]
   },
   {

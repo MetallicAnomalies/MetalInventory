@@ -672,6 +672,24 @@
     ]
   },
   {
+    "normalizedName": "brutusmaximus",
+    "displayName": "Brutus Maximus",
+    "albums": [
+      {
+        "name": "Your Fear Is the Disease",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal",
+      "Deathcore"
+    ]
+  },
+  {
     "normalizedName": "cainites",
     "displayName": "Cainites",
     "albums": [
@@ -2144,6 +2162,24 @@
       "Hip Hop",
       "Contemporary R&B",
       "Pop Rap"
+    ]
+  },
+  {
+    "normalizedName": "killed",
+    "displayName": "Killed",
+    "albums": [
+      {
+        "name": "Victims of the Present",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Sludge Metal"
     ]
   },
   {
@@ -4911,6 +4947,22 @@
     "tags": [
       "Alternative",
       "Fusion"
+    ]
+  },
+  {
+    "normalizedName": "yagmorth",
+    "displayName": "Yagmorth",
+    "albums": [
+      {
+        "name": "Demo 2026",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {
