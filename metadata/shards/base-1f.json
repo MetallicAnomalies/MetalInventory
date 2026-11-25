@@ -1187,6 +1187,22 @@
     ]
   },
   {
+    "normalizedName": "eradicateddesecration",
+    "displayName": "Eradicated Desecration",
+    "albums": [
+      {
+        "name": "Winterbane Ashes of Existence",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "everfrost",
     "displayName": "Ever-frost",
     "aliases": [
@@ -3376,6 +3392,15 @@
       },
       {
         "name": "Devil's Flood",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Stoner Metal",
+          "Rock"
+        ]
+      },
+      {
+        "name": "Black with Regret",
         "year": "2026",
         "genres": [
           "Doom",

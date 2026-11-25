@@ -1284,10 +1284,20 @@
         "genres": [
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "A Quiet Unrest",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Metal",
+          "Post-Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Progressive Metal"
+      "Progressive Metal",
+      "Atmospheric Metal",
+      "Post-Black Metal"
     ]
   },
   {
@@ -1445,6 +1455,22 @@
     ],
     "tags": [
       "Post-Metal"
+    ]
+  },
+  {
+    "normalizedName": "gnosisabaddon",
+    "displayName": "Gnosis Abaddon",
+    "albums": [
+      {
+        "name": "Monologue for the Larvae of Jehovah",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

@@ -1828,6 +1828,24 @@
     ]
   },
   {
+    "normalizedName": "heathenheretic",
+    "displayName": "Heathen Heretic",
+    "albums": [
+      {
+        "name": "Swallowed by the Night",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Black Metal",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "heian",
     "displayName": "Hei'An",
     "origin": "SI",
@@ -4637,6 +4655,22 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "wavecollider",
+    "displayName": "Wave-Collider",
+    "albums": [
+      {
+        "name": "Wave-Collider V",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore"
     ]
   },
   {

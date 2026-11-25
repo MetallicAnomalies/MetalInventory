@@ -1333,6 +1333,24 @@
     ]
   },
   {
+    "normalizedName": "cruzada",
+    "displayName": "Cruzada",
+    "albums": [
+      {
+        "name": "Leyendas",
+        "year": "2027",
+        "genres": [
+          "Heavy Metal",
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Power Metal"
+    ]
+  },
+  {
     "normalizedName": "darkavenger",
     "displayName": "Dark Avenger",
     "origin": "BR",

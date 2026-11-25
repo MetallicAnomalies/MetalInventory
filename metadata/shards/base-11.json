@@ -3737,6 +3737,26 @@
     ]
   },
   {
+    "normalizedName": "ravenpath",
+    "displayName": "Ravenpath",
+    "albums": [
+      {
+        "name": "Wasted World",
+        "year": "2026",
+        "genres": [
+          "Symphonic Death Metal",
+          "Black Metal",
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Death Metal",
+      "Black Metal",
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "rezidentex",
     "displayName": "Rezident Ex",
     "albums": [
@@ -5312,6 +5332,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "windwraith",
+    "displayName": "Wind Wraith",
+    "albums": [
+      {
+        "name": "The Devil's Songbook",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Power Metal"
     ]
   },
   {

@@ -3515,6 +3515,24 @@
     ]
   },
   {
+    "normalizedName": "nordichate",
+    "displayName": "Nordic Hate",
+    "albums": [
+      {
+        "name": "Cios zemsty",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Speed Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Speed Metal"
+    ]
+  },
+  {
     "normalizedName": "nothingisreal",
     "displayName": "Nothing Is Real",
     "albums": [
@@ -3997,6 +4015,22 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "relicmoon",
+    "displayName": "Relic Moon",
+    "albums": [
+      {
+        "name": "Relic Moon",
+        "year": "2026",
+        "genres": [
+          "Blackened Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Heavy Metal"
     ]
   },
   {

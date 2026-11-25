@@ -1593,9 +1593,18 @@
         "name": "Dothe EP",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Dothe",
+        "year": "2026",
+        "genres": [
+          "Blackened Post-Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Blackened Post-Metal"
+    ]
   },
   {
     "normalizedName": "dressedinstreams",
@@ -3659,6 +3668,24 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "samianttila",
+    "displayName": "Sami Anttila",
+    "albums": [
+      {
+        "name": "SkullBlade",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal",
+      "Groove Metal"
     ]
   },
   {

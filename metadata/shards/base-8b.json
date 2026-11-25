@@ -124,6 +124,26 @@
     ]
   },
   {
+    "normalizedName": "angst",
+    "displayName": "Angst",
+    "albums": [
+      {
+        "name": "Maw ov Hell",
+        "year": "2026",
+        "genres": [
+          "Industrial",
+          "Blackened Doom Metal",
+          "Electronic"
+        ]
+      }
+    ],
+    "tags": [
+      "Industrial",
+      "Blackened Doom Metal",
+      "Electronic"
+    ]
+  },
+  {
     "normalizedName": "annatar",
     "displayName": "Annatar",
     "albums": [
@@ -3776,6 +3796,13 @@
       {
         "name": "On The Advancement Of Decay",
         "year": "2023",
+        "genres": [
+          "Technical Death Metal"
+        ]
+      },
+      {
+        "name": "A Silence Grows",
+        "year": "2027",
         "genres": [
           "Technical Death Metal"
         ]

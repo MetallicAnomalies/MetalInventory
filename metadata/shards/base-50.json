@@ -1591,6 +1591,22 @@
     ]
   },
   {
+    "normalizedName": "drastictimes",
+    "displayName": "Drastic Times",
+    "albums": [
+      {
+        "name": "Érkezés",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Gothic Metal"
+    ]
+  },
+  {
     "normalizedName": "dunbarrow",
     "displayName": "Dunbarrow",
     "albums": [
@@ -2246,6 +2262,26 @@
     ]
   },
   {
+    "normalizedName": "ghostpipe",
+    "displayName": "Ghost Pipe",
+    "albums": [
+      {
+        "name": "The Awakening",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom",
+      "Stoner Metal",
+      "Rock"
+    ]
+  },
+  {
     "normalizedName": "ghostsofglaciers",
     "displayName": "Ghosts Of Glaciers",
     "albums": [
@@ -2572,10 +2608,20 @@
         "name": "Lifetime In Hell",
         "year": "2027",
         "genres": []
+      },
+      {
+        "name": "Goddess of the Light",
+        "year": "2026",
+        "genres": [
+          "Technical Speed Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Bay Area Thrash Metal"
+      "Bay Area Thrash Metal",
+      "Technical Speed Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -3492,6 +3538,22 @@
       "Brutal Death Metal",
       "Death Metal",
       "Technical Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "mortemomnium",
+    "displayName": "Mortem Omnium",
+    "albums": [
+      {
+        "name": "In Nomine Satanae",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

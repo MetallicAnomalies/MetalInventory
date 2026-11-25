@@ -4612,6 +4612,22 @@
     ]
   },
   {
+    "normalizedName": "shrineofeligos",
+    "displayName": "Shrine of Eligos",
+    "albums": [
+      {
+        "name": "...and You Shall Find Him Beneath",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "slaughterhouse",
     "displayName": "Slaughter House",
     "albums": [
@@ -5840,6 +5856,29 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "volfdrag",
+    "displayName": "Volfdrag",
+    "albums": [
+      {
+        "name": "Imitation of Truth",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "All Seen, All Said",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

@@ -1997,6 +1997,24 @@
     ]
   },
   {
+    "normalizedName": "fluidsoftorments",
+    "displayName": "Fluids of Torments",
+    "albums": [
+      {
+        "name": "Thanatomorphose",
+        "year": "2026",
+        "genres": [
+          "Slam Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Metal",
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "ghouls",
     "displayName": "Ghouls",
     "albums": [
@@ -2474,10 +2492,16 @@
       {
         "name": "Sublunar Attunement",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Sludge Metal",
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Sludge Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "inriarch",

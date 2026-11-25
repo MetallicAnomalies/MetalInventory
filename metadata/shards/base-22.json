@@ -450,6 +450,16 @@
           "Doom Metal",
           "Rock"
         ]
+      },
+      {
+        "name": "Deathbed Epiphany",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Experimental Black Metal",
+          "Doom Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
@@ -629,6 +639,24 @@
     ],
     "tags": [
       "Groove Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "bleedinpeace",
+    "displayName": "Bleed in Peace",
+    "albums": [
+      {
+        "name": "Controlled Implosion",
+        "year": "2026",
+        "genres": [
+          "Groove Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal",
+      "Death Metal"
     ]
   },
   {
@@ -1047,6 +1075,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "cyberpunch",
+    "displayName": "Cyberpunch",
+    "albums": [
+      {
+        "name": "Chromefall",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Thrash Metal"
     ]
   },
   {
@@ -1939,6 +1985,24 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "greeneyes",
+    "displayName": "Green Eyes",
+    "albums": [
+      {
+        "name": "Reconexión",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Horror Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Horror Punk"
     ]
   },
   {

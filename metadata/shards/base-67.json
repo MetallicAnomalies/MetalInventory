@@ -1254,6 +1254,22 @@
     ]
   },
   {
+    "normalizedName": "desahuciadolapida",
+    "displayName": "Desahuciado/Lápida",
+    "albums": [
+      {
+        "name": "Culto a la inexistencia",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "devotion",
     "displayName": "Devotion",
     "albums": [
@@ -2172,6 +2188,24 @@
     ],
     "tags": [
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "grievinggeneva",
+    "displayName": "Grieving Geneva",
+    "albums": [
+      {
+        "name": "Bonefarm",
+        "year": "2026",
+        "genres": [
+          "Groove Metal",
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal",
+      "Sludge Metal"
     ]
   },
   {

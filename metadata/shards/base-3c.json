@@ -1232,6 +1232,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Cysgod",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -3052,6 +3059,22 @@
     "tags": [
       "Metalcore",
       "Mathcore"
+    ]
+  },
+  {
+    "normalizedName": "mutatedinfection",
+    "displayName": "Mutated Infection",
+    "albums": [
+      {
+        "name": "You",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Death Metal"
     ]
   },
   {

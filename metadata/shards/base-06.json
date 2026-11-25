@@ -153,6 +153,26 @@
     ]
   },
   {
+    "normalizedName": "antestorcrushevil",
+    "displayName": "Antestor/Crush Evil",
+    "albums": [
+      {
+        "name": "Despair/The Defeat of Satan",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Doom Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Doom Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "anti",
     "displayName": "A.n.t.i.",
     "aliases": [
@@ -403,7 +423,9 @@
       {
         "name": "Cradle Of The Rotten, Shrine To Those Most Foul",
         "year": "2027",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [

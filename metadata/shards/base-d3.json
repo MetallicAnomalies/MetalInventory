@@ -2793,6 +2793,24 @@
     ]
   },
   {
+    "normalizedName": "nykuma",
+    "displayName": "Nykuma",
+    "albums": [
+      {
+        "name": "Nocturnal Possession",
+        "year": "2026",
+        "genres": [
+          "Black 'n' Roll",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black 'n' Roll",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "obsession",
     "displayName": "Obsession",
     "albums": [
@@ -3310,13 +3328,18 @@
       {
         "name": "Volume III",
         "year": "2027",
-        "genres": []
+        "genres": [
+          "Stoner Metal",
+          "Doom Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
       "Stoner Metal",
       "Stoner Rock",
-      "Doom Metal"
+      "Doom Metal",
+      "Rock"
     ]
   },
   {

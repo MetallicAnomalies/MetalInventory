@@ -1480,6 +1480,24 @@
     ]
   },
   {
+    "normalizedName": "foray",
+    "displayName": "Foray",
+    "albums": [
+      {
+        "name": "Reaching for the Darkness",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom",
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "furtherdimension",
     "displayName": "Further Dimension",
     "albums": [
@@ -5015,6 +5033,22 @@
       "Groove Metal",
       "Rock",
       "Thrash Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "uxormortem",
+    "displayName": "Uxor Mortem",
+    "albums": [
+      {
+        "name": "Juegos de Guerra (Re-Edit 2026)",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Death Metal"
     ]
   },
   {

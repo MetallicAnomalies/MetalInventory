@@ -2862,6 +2862,22 @@
     ]
   },
   {
+    "normalizedName": "leadhate",
+    "displayName": "Leadhate",
+    "albums": [
+      {
+        "name": "Tar",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal"
+    ]
+  },
+  {
     "normalizedName": "lifer",
     "displayName": "Lifer",
     "origin": "US",
@@ -5471,6 +5487,13 @@
       {
         "name": "Swallowed by the Jaws of the Abyss",
         "year": "2026",
+        "genres": [
+          "Atmospheric Death Metal"
+        ]
+      },
+      {
+        "name": "The Endless Loss",
+        "year": "2027",
         "genres": [
           "Atmospheric Death Metal"
         ]

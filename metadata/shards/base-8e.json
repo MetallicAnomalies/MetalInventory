@@ -591,10 +591,21 @@
         "name": "Fathers Of The Sky",
         "year": "2027",
         "genres": []
+      },
+      {
+        "name": "Fathers in the Sky",
+        "year": "2027",
+        "genres": [
+          "Hard Rock",
+          "Stoner Rock",
+          "Metal"
+        ]
       }
     ],
     "tags": [
-      "Stoner Metal"
+      "Stoner Metal",
+      "Hard Rock",
+      "Stoner Rock"
     ]
   },
   {
@@ -1787,6 +1798,22 @@
       "Post-Metal",
       "Avant-garde Metal",
       "Jazz"
+    ]
+  },
+  {
+    "normalizedName": "fran",
+    "displayName": "Från",
+    "albums": [
+      {
+        "name": "Held...",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
     ]
   },
   {

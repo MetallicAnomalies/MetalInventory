@@ -2143,6 +2143,22 @@
     ]
   },
   {
+    "normalizedName": "goatrocity",
+    "displayName": "Goatrocity",
+    "albums": [
+      {
+        "name": "The Countess of Blood",
+        "year": "2026",
+        "genres": [
+          "Blackened Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "god",
     "displayName": "God",
     "albums": [
@@ -5648,6 +5664,26 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "мертваявера",
+    "displayName": "Мёртвая Вера",
+    "albums": [
+      {
+        "name": "Не жили богато - нехуй начинать",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal",
+      "Hardcore"
+    ]
   },
   {
     "normalizedName": "小雨",

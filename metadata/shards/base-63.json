@@ -1430,12 +1430,37 @@
     ]
   },
   {
+    "normalizedName": "fleshfeast",
+    "displayName": "Fleshfeast",
+    "albums": [
+      {
+        "name": "4 Traxxx",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Goregrind"
+    ]
+  },
+  {
     "normalizedName": "fortuneteller",
     "displayName": "Fortune Teller",
     "origin": "GB",
     "albums": [
       {
         "name": "Familiar",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal"
+        ]
+      },
+      {
+        "name": "Wildfire",
         "year": "2026",
         "genres": [
           "Symphonic Power Metal"
@@ -1881,6 +1906,22 @@
       "Hardcore",
       "Crossover Thrash",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "hollowshroud",
+    "displayName": "Hollow Shroud",
+    "albums": [
+      {
+        "name": "Rotten to the Core",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
     ]
   },
   {

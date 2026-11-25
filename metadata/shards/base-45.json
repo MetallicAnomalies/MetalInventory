@@ -4963,6 +4963,18 @@
         "genres": [
           "Electronic Avant-garde"
         ]
+      },
+      {
+        "name": "Neverland II",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Folk Metal",
+          "Ambient",
+          "Avant-garde Wave",
+          "Electronica, New Wave Synthpop",
+          "Synth-pop"
+        ]
       }
     ],
     "tags": [
@@ -4983,7 +4995,9 @@
       "Drone Metal",
       "Stage & Screen",
       "Modern Classical",
-      "Rock"
+      "Rock",
+      "Avant-garde Wave",
+      "Electronica, New Wave Synthpop"
     ]
   },
   {

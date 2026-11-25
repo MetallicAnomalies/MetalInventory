@@ -2939,6 +2939,22 @@
     ]
   },
   {
+    "normalizedName": "lunarie",
+    "displayName": "Lunarie",
+    "albums": [
+      {
+        "name": "Sepulchral Devotion",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "lupe",
     "displayName": "Lupe",
     "origin": "US",
@@ -3550,10 +3566,18 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Chains of Eternal Bondage",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Heavy Metal"
+      "Heavy Metal",
+      "Black Metal"
     ]
   },
   {

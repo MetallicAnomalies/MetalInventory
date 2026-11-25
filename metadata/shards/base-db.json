@@ -1378,6 +1378,13 @@
         "genres": [
           "Depressive Black Metal"
         ]
+      },
+      {
+        "name": "why",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -6067,6 +6074,22 @@
     ],
     "tags": [
       "Hip Hop"
+    ]
+  },
+  {
+    "normalizedName": "ynyswydryn",
+    "displayName": "Ynys Wydryn",
+    "albums": [
+      {
+        "name": "Absorbing the Existence",
+        "year": "2026",
+        "genres": [
+          "Symphonic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Death Metal"
     ]
   }
 ]

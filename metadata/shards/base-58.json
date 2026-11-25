@@ -2673,6 +2673,30 @@
     ]
   },
   {
+    "normalizedName": "invertedpsalm",
+    "displayName": "Inverted Psalm",
+    "albums": [
+      {
+        "name": "Émotions Fragmentées",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Doom Metal",
+          "Dungeon Synth",
+          "Post-Black Metal",
+          "Shoegaze"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Doom Metal",
+      "Dungeon Synth",
+      "Post-Black Metal",
+      "Shoegaze"
+    ]
+  },
+  {
     "normalizedName": "isiliel",
     "displayName": "Isiliel",
     "albums": [
@@ -5610,11 +5634,20 @@
           "Post-Metal",
           "Atmospheric Sludge Metal"
         ]
+      },
+      {
+        "name": "Hypoxia",
+        "year": "2026",
+        "genres": [
+          "Sludge Post-Metal",
+          "Post-Metal"
+        ]
       }
     ],
     "tags": [
       "Post-Metal",
-      "Atmospheric Sludge Metal"
+      "Atmospheric Sludge Metal",
+      "Sludge Post-Metal"
     ]
   },
   {

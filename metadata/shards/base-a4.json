@@ -804,10 +804,18 @@
       {
         "name": "The Weight Of Nothingness",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Groove Metal",
+          "Death Metal",
+          "Metalcore"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Groove Metal",
+      "Death Metal",
+      "Metalcore"
+    ]
   },
   {
     "normalizedName": "catuvolcus",

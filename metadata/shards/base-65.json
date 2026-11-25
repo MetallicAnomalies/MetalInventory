@@ -4154,6 +4154,15 @@
           "Industrial Metal",
           "Gothic Metal"
         ]
+      },
+      {
+        "name": "Europa",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Electronic",
+          "Industrial Metal"
+        ]
       }
     ],
     "tags": [
@@ -4162,7 +4171,8 @@
       "Electro-Industrial",
       "Industrial Metal",
       "Dark Metal",
-      "Gothic Metal"
+      "Gothic Metal",
+      "Electronic"
     ]
   },
   {

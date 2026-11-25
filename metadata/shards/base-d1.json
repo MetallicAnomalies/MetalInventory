@@ -246,10 +246,18 @@
         "genres": [
           "Melodic Power Metal"
         ]
+      },
+      {
+        "name": "Destiny",
+        "year": "2026",
+        "genres": [
+          "Progressive Power Metal"
+        ]
       }
     ],
     "tags": [
-      "Melodic Power Metal"
+      "Melodic Power Metal",
+      "Progressive Power Metal"
     ]
   },
   {
@@ -2112,6 +2120,22 @@
     ]
   },
   {
+    "normalizedName": "enterthevillain",
+    "displayName": "Enter the Villain",
+    "albums": [
+      {
+        "name": "The Judas Cradle",
+        "year": "2026",
+        "genres": [
+          "Deathcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Deathcore"
+    ]
+  },
+  {
     "normalizedName": "erottica",
     "displayName": "Erottica",
     "albums": [
@@ -3655,6 +3679,17 @@
           "Groove Nu Metal",
           "Nu Metal"
         ]
+      },
+      {
+        "name": "Decoronation",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal",
+          "Death Metal",
+          "Industrial",
+          "Groove Nu Metal",
+          "Nu Metal"
+        ]
       }
     ],
     "tags": [
@@ -4099,10 +4134,19 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Demo '26",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Thrash Metal"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Black Metal"
     ]
   },
   {

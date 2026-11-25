@@ -2552,6 +2552,22 @@
     ]
   },
   {
+    "normalizedName": "galle",
+    "displayName": "Galle",
+    "albums": [
+      {
+        "name": "Synechie",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Post-Black Metal"
+    ]
+  },
+  {
     "normalizedName": "gexerott",
     "displayName": "Gexerott",
     "origin": "CO",
@@ -2915,6 +2931,22 @@
       {
         "name": "En Enfer, J'ai Régné",
         "year": "2023",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "heartbreak",
+    "displayName": "Heartbreak",
+    "albums": [
+      {
+        "name": "Our Farewell...",
+        "year": "2026",
         "genres": [
           "Depressive Black Metal"
         ]

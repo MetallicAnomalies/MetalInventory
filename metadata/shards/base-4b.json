@@ -674,6 +674,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Darkest Effigy of Anathemic Desires",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -2787,6 +2794,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "osculumserpentis",
+    "displayName": "Osculum Serpentis",
+    "albums": [
+      {
+        "name": "Lycanthropia",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
   },
   {
     "normalizedName": "ourlastnight",

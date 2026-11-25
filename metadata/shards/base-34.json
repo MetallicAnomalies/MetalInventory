@@ -2080,6 +2080,29 @@
     "tags": []
   },
   {
+    "normalizedName": "lichensclerosus",
+    "displayName": "Lichen Sclerosus",
+    "albums": [
+      {
+        "name": "Violently Mangled",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
+      },
+      {
+        "name": "Lichen Sclerosus",
+        "year": "2026",
+        "genres": [
+          "Goregrind"
+        ]
+      }
+    ],
+    "tags": [
+      "Goregrind"
+    ]
+  },
+  {
     "normalizedName": "livingmachines",
     "displayName": "Living Machines",
     "origin": "US",
@@ -2504,6 +2527,13 @@
       {
         "name": "Age Of Excuse",
         "year": "2019",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Traitors to the Human Cause",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]

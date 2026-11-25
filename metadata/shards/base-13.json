@@ -1571,40 +1571,50 @@
         "name": "Ynys Mön",
         "year": "2008",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "Horn Triskelion",
         "year": "2010",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "Veteran",
         "year": "2013",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "Thirteen",
         "year": "2018",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
         ]
       },
       {
         "name": "Gwydion",
         "year": "2020",
         "genres": [
-          "Viking Folk"
+          "Viking Folk Metal"
+        ]
+      },
+      {
+        "name": "Eldric Stormbringer",
+        "year": "2026",
+        "genres": [
+          "Symphonic Folk Metal",
+          "Melodic Death Metal"
         ]
       }
     ],
     "tags": [
-      "Viking Folk"
+      "Viking Folk Metal",
+      "Symphonic Folk Metal",
+      "Melodic Death Metal"
     ]
   },
   {

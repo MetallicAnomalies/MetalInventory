@@ -378,11 +378,19 @@
           "Heavy Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "Macedonia Revisited - the EP",
+        "year": "2026",
+        "genres": [
+          "Epic Power Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Metal",
-      "Power Metal"
+      "Power Metal",
+      "Epic Power Metal"
     ]
   },
   {
@@ -2992,6 +3000,22 @@
     ]
   },
   {
+    "normalizedName": "marquisdesade",
+    "displayName": "Marquis de Sade",
+    "albums": [
+      {
+        "name": "Tainted Sanctuaries",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "miasmic",
     "displayName": "Miasmic",
     "albums": [
@@ -3086,10 +3110,18 @@
         "genres": [
           "Groove Thrash Metal"
         ]
+      },
+      {
+        "name": "The Witch's Voice",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
       }
     ],
     "tags": [
-      "Groove Thrash Metal"
+      "Groove Thrash Metal",
+      "Symphonic Metal"
     ]
   },
   {
@@ -5020,6 +5052,22 @@
       "Atmospheric Black Metal"
     ],
     "origin": "RU"
+  },
+  {
+    "normalizedName": "пламеньмрака",
+    "displayName": "Пламень Мрака",
+    "albums": [
+      {
+        "name": "В урагане аддикций",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "〇",

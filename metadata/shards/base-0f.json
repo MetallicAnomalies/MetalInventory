@@ -1622,10 +1622,19 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Megalomaniac",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Death Metal"
+      "Death Metal",
+      "Melodic Death Metal"
     ]
   },
   {

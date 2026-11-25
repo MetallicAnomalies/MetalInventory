@@ -3505,10 +3505,18 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Per Velum Mortis",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Symphonic Black Metal"
     ]
   },
   {
@@ -3690,6 +3698,13 @@
       {
         "name": "Bad Omens",
         "year": "2022",
+        "genres": [
+          "Progressive Metal"
+        ]
+      },
+      {
+        "name": "Desecrated",
+        "year": "2026",
         "genres": [
           "Progressive Metal"
         ]

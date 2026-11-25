@@ -1107,6 +1107,22 @@
     ]
   },
   {
+    "normalizedName": "clinicaltorturement",
+    "displayName": "Clinical Torturement",
+    "albums": [
+      {
+        "name": "Low Affect Individuals",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "comediemacabre",
     "displayName": "Comédie Macabre",
     "albums": [
@@ -1708,10 +1724,14 @@
       {
         "name": "When They Return",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Death Metal"
+    ]
   },
   {
     "normalizedName": "facelessburial",

@@ -196,6 +196,13 @@
         "genres": [
           "Power Metal"
         ]
+      },
+      {
+        "name": "Of Ice and Snow",
+        "year": "2026",
+        "genres": [
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
@@ -2362,6 +2369,24 @@
       "Black Thrash Metal",
       "Death Thrash Metal",
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "lesjournauxdunlypemane",
+    "displayName": "Les Journaux d'un Lypémane",
+    "albums": [
+      {
+        "name": "...et pour les siècles des siècles",
+        "year": "2026",
+        "genres": [
+          "Depressive Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Metal",
+      "Post-Black Metal"
     ]
   },
   {

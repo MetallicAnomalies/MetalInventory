@@ -1207,6 +1207,24 @@
     ]
   },
   {
+    "normalizedName": "dragonthorn",
+    "displayName": "Dragonthorn",
+    "albums": [
+      {
+        "name": "Mysteries of the North",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Metal",
+          "Symphonic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Metal",
+      "Symphonic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "draugsol",
     "displayName": "Draugsól",
     "albums": [
@@ -1795,6 +1813,24 @@
       "Hard Rock",
       "Heavy Metal",
       "Blues Rock"
+    ]
+  },
+  {
+    "normalizedName": "ghega",
+    "displayName": "Ghega",
+    "albums": [
+      {
+        "name": "Almost Like Them",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Groove Metal"
     ]
   },
   {
@@ -3889,6 +3925,26 @@
       "Death Metal",
       "Grindcore Goregrind",
       "Goregrind"
+    ]
+  },
+  {
+    "normalizedName": "osmazomesadoghoul",
+    "displayName": "Osmazome/Sadoghoul",
+    "albums": [
+      {
+        "name": "Sodomitic Protovagrancy",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {

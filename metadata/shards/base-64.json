@@ -1345,6 +1345,24 @@
     ]
   },
   {
+    "normalizedName": "bubblegumreligion",
+    "displayName": "Bubblegum Religion",
+    "albums": [
+      {
+        "name": "Legion For We Are Many",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "canvassolaris",
     "displayName": "Canvas Solaris",
     "albums": [
@@ -1454,6 +1472,24 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "chemicalology",
+    "displayName": "Chemicalology",
+    "albums": [
+      {
+        "name": "Vaporous Reptilian Transmutation",
+        "year": "2026",
+        "genres": [
+          "Slam Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Metal",
+      "Brutal Death Metal"
     ]
   },
   {

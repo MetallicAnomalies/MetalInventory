@@ -826,6 +826,13 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Do No Right",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -877,11 +884,19 @@
         "genres": [
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "1838",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
       }
     ],
     "tags": [
       "Brutal Death Metal",
-      "Death Metal"
+      "Death Metal",
+      "Raw Black Metal"
     ]
   },
   {
@@ -2391,6 +2406,22 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "innominatam",
+    "displayName": "Innominatam",
+    "albums": [
+      {
+        "name": "Incipit Black Flame",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -4588,6 +4619,24 @@
     "tags": []
   },
   {
+    "normalizedName": "spaceman",
+    "displayName": "Spaceman",
+    "albums": [
+      {
+        "name": "Spacenet.Online",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Metal",
+          "Progressive Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Avant-garde Metal",
+      "Progressive Metal"
+    ]
+  },
+  {
     "normalizedName": "spectralmortuary",
     "displayName": "Spectral Mortuary",
     "albums": [
@@ -5496,6 +5545,13 @@
       {
         "name": "On Borrowed Wings",
         "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      },
+      {
+        "name": "Heirs to Apathy",
+        "year": "2027",
         "genres": [
           "Melodic Death Metal"
         ]

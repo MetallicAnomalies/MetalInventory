@@ -340,6 +340,22 @@
     ]
   },
   {
+    "normalizedName": "blazebearer",
+    "displayName": "Blazebearer",
+    "albums": [
+      {
+        "name": "The Chalice Rite",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "bonesaw",
     "displayName": "Bonesaw",
     "albums": [
@@ -1686,6 +1702,24 @@
     ],
     "tags": [
       "Power Metal"
+    ]
+  },
+  {
+    "normalizedName": "funeralceremony",
+    "displayName": "Funeral Ceremony",
+    "albums": [
+      {
+        "name": "Hung on the Hook",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal",
+      "Grindcore"
     ]
   },
   {

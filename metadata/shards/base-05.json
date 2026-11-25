@@ -3833,6 +3833,13 @@
         "genres": [
           "Melodic Heavy Metal"
         ]
+      },
+      {
+        "name": "Simbiosis",
+        "year": "2026",
+        "genres": [
+          "Melodic Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -5265,6 +5272,24 @@
     "tags": [
       "Space Rock",
       "Post-Metal"
+    ]
+  },
+  {
+    "normalizedName": "zeromortalplan",
+    "displayName": "Zero Mortal Plan",
+    "albums": [
+      {
+        "name": "Daemonculaba",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Doom Metal"
     ]
   },
   {

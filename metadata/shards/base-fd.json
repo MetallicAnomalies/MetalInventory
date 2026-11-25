@@ -1883,6 +1883,22 @@
     ]
   },
   {
+    "normalizedName": "dilgelynas",
+    "displayName": "Dilgėlynas",
+    "albums": [
+      {
+        "name": "Elegantiškai Sninga",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "disowning",
     "displayName": "Disowning",
     "albums": [
@@ -4107,6 +4123,24 @@
       "Heavy Metal",
       "Electronic",
       "Rock"
+    ]
+  },
+  {
+    "normalizedName": "ravenswarm",
+    "displayName": "Ravenswarm",
+    "albums": [
+      {
+        "name": "Echoes of Ruin",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Doom Metal"
     ]
   },
   {

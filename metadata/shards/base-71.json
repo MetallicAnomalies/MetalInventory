@@ -90,6 +90,13 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Fall of Civilization",
+        "year": "2027",
+        "genres": [
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -4063,6 +4070,24 @@
     "tags": [
       "Grindcore",
       "Deathgrind"
+    ]
+  },
+  {
+    "normalizedName": "sumlights",
+    "displayName": "Sum Lights",
+    "albums": [
+      {
+        "name": "Obverting Polarity",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal"
     ]
   },
   {

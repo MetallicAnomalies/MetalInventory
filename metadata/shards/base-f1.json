@@ -364,6 +364,22 @@
     ]
   },
   {
+    "normalizedName": "avliden",
+    "displayName": "Avliden",
+    "albums": [
+      {
+        "name": "Rapacious Monstrosity",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "bladeofsurtr",
     "displayName": "Blade of Surtr",
     "origin": "US",
@@ -426,6 +442,13 @@
       {
         "name": "Lux Tenebris I: Shadow Harvest",
         "year": "2020",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Lux Tenebris III: Exalted Dimensions",
+        "year": "2026",
         "genres": [
           "Black Metal"
         ]
@@ -3521,6 +3544,13 @@
       },
       {
         "name": "Abyssmal Funeral",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "There Will Be Wrath",
         "year": "2026",
         "genres": [
           "Black Metal"

@@ -1444,10 +1444,22 @@
         "genres": [
           "Thrash Metal"
         ]
+      },
+      {
+        "name": "Heinous Depredations",
+        "year": "2026",
+        "genres": [
+          "Blackened Crust Punk",
+          "Grindcore",
+          "Sludge Metal"
+        ]
       }
     ],
     "tags": [
-      "Thrash Metal"
+      "Thrash Metal",
+      "Blackened Crust Punk",
+      "Grindcore",
+      "Sludge Metal"
     ]
   },
   {
@@ -1893,6 +1905,22 @@
     ],
     "tags": [
       "Screamo"
+    ]
+  },
+  {
+    "normalizedName": "goyim",
+    "displayName": "Goyim",
+    "albums": [
+      {
+        "name": "Annihilate All Islam",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {
@@ -3372,13 +3400,21 @@
           "Folk Metal",
           "Atmospheric Black Metal"
         ]
+      },
+      {
+        "name": "Печаль марены",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
       "Folk Metal",
       "Atmospheric Black Metal",
-      "Symphonic Metal"
+      "Symphonic Metal",
+      "Symphonic Black Metal"
     ]
   },
   {
@@ -3786,6 +3822,22 @@
     "tags": [
       "Black Metal",
       "Dungeon Synth"
+    ]
+  },
+  {
+    "normalizedName": "skookum",
+    "displayName": "Skookum",
+    "albums": [
+      {
+        "name": "Chapter II - Tales of the Wildmen",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

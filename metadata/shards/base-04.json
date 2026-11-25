@@ -2419,12 +2419,21 @@
           "Doom Heavy Metal",
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Terminal Decay",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
       "Heavy Metal",
-      "Doom Heavy Metal"
+      "Doom Heavy Metal",
+      "Doom"
     ]
   },
   {
@@ -2876,12 +2885,22 @@
         "genres": [
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Agalma",
+        "year": "2027",
+        "genres": [
+          "Funeral Doom Metal",
+          "Melodic Death Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
       "Progressive Metal",
-      "Funeral Doom Metal"
+      "Funeral Doom Metal",
+      "Melodic Death Metal"
     ]
   },
   {

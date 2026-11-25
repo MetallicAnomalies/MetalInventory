@@ -5141,12 +5141,22 @@
           "Folk Metal",
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Drottens Fald",
+        "year": "2026",
+        "genres": [
+          "Viking Metal",
+          "Folk Metal",
+          "Melodic Death Metal"
+        ]
       }
     ],
     "tags": [
       "Viking Folk Metal",
       "Melodic Death Metal",
-      "Folk Metal"
+      "Folk Metal",
+      "Viking Metal"
     ]
   },
   {

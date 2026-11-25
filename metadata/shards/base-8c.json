@@ -654,6 +654,24 @@
     ]
   },
   {
+    "normalizedName": "cortezainhumana",
+    "displayName": "Corteza Inhumana",
+    "albums": [
+      {
+        "name": "Criatura ilóxica",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "crimsonwind",
     "displayName": "Crimson Wind",
     "origin": "GB",
@@ -4059,6 +4077,14 @@
         "genres": [
           "Heavy Metal",
           "Power Metal"
+        ]
+      },
+      {
+        "name": "Luz vindicta",
+        "year": "2026",
+        "genres": [
+          "Power Metal",
+          "Heavy Metal"
         ]
       }
     ],

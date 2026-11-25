@@ -517,6 +517,13 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Breaking the Chains of Hell",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -2627,6 +2634,22 @@
     ]
   },
   {
+    "normalizedName": "helvthre",
+    "displayName": "Helvthre",
+    "albums": [
+      {
+        "name": "The First Hatred",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "hessian",
     "displayName": "Hessian",
     "albums": [
@@ -2698,6 +2721,22 @@
       "Electronic",
       "Death Metal",
       "Avant-garde Metal"
+    ]
+  },
+  {
+    "normalizedName": "ildganger",
+    "displayName": "Ildganger",
+    "albums": [
+      {
+        "name": "Hringaz",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

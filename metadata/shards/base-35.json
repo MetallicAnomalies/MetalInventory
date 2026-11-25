@@ -3157,11 +3157,21 @@
           "Blackened Death Metal",
           "Grindcore"
         ]
+      },
+      {
+        "name": "The Scouring",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
       "Blackened Death Metal",
-      "Grindcore"
+      "Grindcore",
+      "Black Metal",
+      "Death Metal"
     ]
   },
   {
@@ -4329,6 +4339,13 @@
       },
       {
         "name": "Fortidens essens",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Jupiterrr / Ukuelig",
         "year": "2026",
         "genres": [
           "Black Metal"

@@ -152,6 +152,24 @@
     ]
   },
   {
+    "normalizedName": "aneantix",
+    "displayName": "Anéantix",
+    "albums": [
+      {
+        "name": "Domination d'une terre condamnée",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Crust Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Crust Punk"
+    ]
+  },
+  {
     "normalizedName": "angelinedelaunay",
     "displayName": "Angeline Delaunay",
     "origin": "SE",
@@ -1479,6 +1497,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "ergi",
+    "displayName": "Ergi",
+    "albums": [
+      {
+        "name": "Tallowed Candle",
+        "year": "2027",
+        "genres": [
+          "Blackened Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Doom Metal"
     ]
   },
   {
@@ -4385,6 +4419,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "theweepingabyss",
+    "displayName": "The Weeping Abyss",
+    "albums": [
+      {
+        "name": "End Me",
+        "year": "2026",
+        "genres": [
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "thunderstorm",

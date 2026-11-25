@@ -1509,6 +1509,22 @@
     ]
   },
   {
+    "normalizedName": "electricbanshee",
+    "displayName": "Electric Banshee",
+    "albums": [
+      {
+        "name": "Burning Wizard",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "embodied",
     "displayName": "Embodied",
     "albums": [
@@ -3149,6 +3165,22 @@
     ]
   },
   {
+    "normalizedName": "shadowsofbeyond",
+    "displayName": "Shadows of Beyond",
+    "albums": [
+      {
+        "name": "Tales of a Dying Light",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal"
+    ]
+  },
+  {
     "normalizedName": "silentpath",
     "displayName": "Silent Path",
     "albums": [
@@ -3369,6 +3401,24 @@
       "Atmospheric Black Metal",
       "Shoegaze",
       "Neofolk"
+    ]
+  },
+  {
+    "normalizedName": "tentateur",
+    "displayName": "Tentateur",
+    "albums": [
+      {
+        "name": "Mirrors & Reflections",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Shoegaze"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Shoegaze"
     ]
   },
   {

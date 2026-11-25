@@ -1302,11 +1302,20 @@
           "Gothic Doom Metal",
           "Doom Metal"
         ]
+      },
+      {
+        "name": "Lake of Glass",
+        "year": "2026",
+        "genres": [
+          "Gothic Metal",
+          "Doom Metal"
+        ]
       }
     ],
     "tags": [
       "Gothic Doom Metal",
-      "Doom Metal"
+      "Doom Metal",
+      "Gothic Metal"
     ]
   },
   {

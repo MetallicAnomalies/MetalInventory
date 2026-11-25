@@ -3341,6 +3341,24 @@
     ]
   },
   {
+    "normalizedName": "oceanlord",
+    "displayName": "Oceanlord",
+    "albums": [
+      {
+        "name": "Eternal Tragedy",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Stoner Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Psychedelic Stoner Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "octavium",
     "displayName": "Octavium",
     "albums": [
@@ -3958,6 +3976,22 @@
     ],
     "tags": [
       "Groove Metal"
+    ]
+  },
+  {
+    "normalizedName": "sailorhunter",
+    "displayName": "Sailor Hunter",
+    "albums": [
+      {
+        "name": "Buried Light",
+        "year": "2026",
+        "genres": [
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Metalcore"
     ]
   },
   {

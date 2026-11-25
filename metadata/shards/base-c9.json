@@ -669,6 +669,22 @@
     ]
   },
   {
+    "normalizedName": "battleofeylau",
+    "displayName": "Battle of Eylau",
+    "albums": [
+      {
+        "name": "Arcole",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "bbking",
     "displayName": "B.B. King",
     "origin": "US",
@@ -2223,6 +2239,24 @@
     ],
     "tags": [
       "Technical Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "extremenightmareterror",
+    "displayName": "Extreme Nightmare Terror",
+    "albums": [
+      {
+        "name": "Endless Carnage",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Crust Punk"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Crust Punk"
     ]
   },
   {

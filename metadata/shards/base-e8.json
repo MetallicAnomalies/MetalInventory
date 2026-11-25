@@ -1795,10 +1795,18 @@
       {
         "name": "Insoluble",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Doom",
+          "Stoner Metal",
+          "Post-Rock"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Doom",
+      "Stoner Metal",
+      "Post-Rock"
+    ]
   },
   {
     "normalizedName": "grimomen",
@@ -3433,6 +3441,13 @@
     "albums": [
       {
         "name": "Neurophage",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      },
+      {
+        "name": "Where Nothing Grows",
         "year": "2026",
         "genres": [
           "Brutal Death Metal"

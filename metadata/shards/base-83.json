@@ -151,6 +151,24 @@
     ]
   },
   {
+    "normalizedName": "afterdeathart",
+    "displayName": "After Death Art",
+    "albums": [
+      {
+        "name": "After Death Art",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "aldheorte",
     "displayName": "Aldheorte",
     "albums": [
@@ -3981,6 +3999,24 @@
     ]
   },
   {
+    "normalizedName": "titanscream",
+    "displayName": "Titan Scream",
+    "albums": [
+      {
+        "name": "Ocean of Corn: Midwest Gothic Vol. II",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "tornado",
     "displayName": "Tornado",
     "albums": [
@@ -4366,6 +4402,22 @@
     ],
     "tags": [
       "Blackened Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "wydrazony",
+    "displayName": "Wydrążony",
+    "albums": [
+      {
+        "name": "Demo II",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

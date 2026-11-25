@@ -5089,10 +5089,18 @@
         "genres": [
           "Melodic Death Metal"
         ]
+      },
+      {
+        "name": "Il Castigo di Talassa",
+        "year": "2026",
+        "genres": [
+          "Progressive Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Melodic Death Metal"
+      "Melodic Death Metal",
+      "Progressive Death Metal"
     ]
   },
   {
@@ -5472,6 +5480,24 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "einsamkeit",
+    "displayName": "Einsamkeit",
+    "albums": [
+      {
+        "name": "The Memory of the Land",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Ambient"
     ]
   },
   {
@@ -8533,6 +8559,24 @@
       "Death Metal",
       "Thrash Metal",
       "Grindcore"
+    ]
+  },
+  {
+    "normalizedName": "vanthory",
+    "displayName": "Vanthory",
+    "albums": [
+      {
+        "name": "Perpetual Tales of Infernal Darkness",
+        "year": "2026",
+        "genres": [
+          "Blackened Death Metal",
+          "Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Blackened Death Metal",
+      "Gothic Metal"
     ]
   },
   {

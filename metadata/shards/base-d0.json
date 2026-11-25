@@ -868,6 +868,22 @@
     ]
   },
   {
+    "normalizedName": "devilsnite",
+    "displayName": "Devilsnite",
+    "albums": [
+      {
+        "name": "Escape from Hell",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "diehard",
     "displayName": "Die Hard",
     "albums": [
@@ -4215,6 +4231,24 @@
     ],
     "tags": [
       "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "srenhlinmrews",
+    "displayName": "SrenHlinMrews",
+    "albums": [
+      {
+        "name": "永日",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Metal",
+      "Post-Black Metal"
     ]
   },
   {

@@ -855,6 +855,13 @@
         "genres": [
           "Progressive Metal"
         ]
+      },
+      {
+        "name": "Litanies Against Fear",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal"
+        ]
       }
     ],
     "tags": [
@@ -2813,6 +2820,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "imflawed",
+    "displayName": "Imflawed",
+    "albums": [
+      {
+        "name": "Rise of Evil",
+        "year": "2026",
+        "genres": [
+          "Groove Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal",
+      "Thrash Metal"
     ]
   },
   {

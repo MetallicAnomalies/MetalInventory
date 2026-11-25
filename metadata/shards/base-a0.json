@@ -1380,6 +1380,14 @@
           "Hardcore",
           "Death Metal"
         ]
+      },
+      {
+        "name": "Rotting Heart",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Metalcore"
+        ]
       }
     ],
     "tags": [
@@ -1953,6 +1961,13 @@
       },
       {
         "name": "Ifernach / Goëmon",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      },
+      {
+        "name": "Farewell Humanity I + II",
         "year": "2026",
         "genres": [
           "Black Metal"

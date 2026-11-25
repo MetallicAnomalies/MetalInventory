@@ -3939,10 +3939,24 @@
         "genres": [
           "Industrial Metal"
         ]
+      },
+      {
+        "name": "4 AM",
+        "year": "2026",
+        "genres": [
+          "Industrial Groove Metal",
+          "Death Metal",
+          "Industrial",
+          "Electronic Rock"
+        ]
       }
     ],
     "tags": [
-      "Industrial Metal"
+      "Industrial Metal",
+      "Industrial Groove Metal",
+      "Death Metal",
+      "Industrial",
+      "Electronic Rock"
     ]
   },
   {

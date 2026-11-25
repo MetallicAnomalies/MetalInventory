@@ -2709,6 +2709,24 @@
     ]
   },
   {
+    "normalizedName": "mezen",
+    "displayName": "MeZen",
+    "albums": [
+      {
+        "name": "Deep Rot",
+        "year": "2026",
+        "genres": [
+          "Groove Metal",
+          "Metalcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Groove Metal",
+      "Metalcore"
+    ]
+  },
+  {
     "normalizedName": "murderone",
     "displayName": "Murder One",
     "albums": [
@@ -2868,6 +2886,24 @@
     ],
     "tags": [
       "Melodic Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "novemberfire",
+    "displayName": "November Fire",
+    "albums": [
+      {
+        "name": "Doom Blues",
+        "year": "2027",
+        "genres": [
+          "Psychedelic Doom Metal",
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Psychedelic Doom Metal",
+      "Stoner Metal"
     ]
   },
   {

@@ -654,6 +654,24 @@
     ]
   },
   {
+    "normalizedName": "colonialist",
+    "displayName": "Colonialist",
+    "albums": [
+      {
+        "name": "Physical Removal",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "comadivine",
     "displayName": "Coma Divine",
     "albums": [
@@ -1072,6 +1090,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "deadvoices",
+    "displayName": "DeadVoices",
+    "albums": [
+      {
+        "name": "Bludgeoning System",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
     ]
   },
   {
@@ -3547,10 +3583,20 @@
         "genres": [
           "Technical Death Metal"
         ]
+      },
+      {
+        "name": "Maps of Ancient Light",
+        "year": "2026",
+        "genres": [
+          "Technical Metal",
+          "Progressive Death Metal"
+        ]
       }
     ],
     "tags": [
-      "Technical Death Metal"
+      "Technical Death Metal",
+      "Technical Metal",
+      "Progressive Death Metal"
     ]
   },
   {

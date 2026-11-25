@@ -3186,6 +3186,24 @@
     ]
   },
   {
+    "normalizedName": "occultmountain",
+    "displayName": "Occult Mountain",
+    "albums": [
+      {
+        "name": "Through Fields of Blood and Snow",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Dungeon Synth"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Dungeon Synth"
+    ]
+  },
+  {
     "normalizedName": "orderofisaz",
     "displayName": "Order Of Isaz",
     "albums": [
@@ -3286,6 +3304,26 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "primalrot",
+    "displayName": "Primal Rot",
+    "albums": [
+      {
+        "name": "Demo MMXXVI",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore",
+          "Powerviolence"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore",
+      "Powerviolence"
     ]
   },
   {
@@ -4481,6 +4519,22 @@
     ],
     "tags": [
       "Progressive Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "vileremains",
+    "displayName": "Vile Remains",
+    "albums": [
+      {
+        "name": "Skywards, Our Eternal Gaze",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

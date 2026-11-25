@@ -1142,6 +1142,13 @@
         "genres": [
           "Heavy Metal"
         ]
+      },
+      {
+        "name": "Unraveling",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
       }
     ],
     "tags": [
@@ -1436,6 +1443,22 @@
     ],
     "tags": [
       "Heavy Metal"
+    ]
+  },
+  {
+    "normalizedName": "fatalys",
+    "displayName": "Fatalys",
+    "albums": [
+      {
+        "name": "Innato del vacío",
+        "year": "2027",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {
@@ -2416,6 +2439,15 @@
         "genres": [
           "Thrash Groove Metal",
           "Death Groove Metal",
+          "Groove Metal"
+        ]
+      },
+      {
+        "name": "In Blood and Filth They Bathe",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Death Metal",
           "Groove Metal"
         ]
       }

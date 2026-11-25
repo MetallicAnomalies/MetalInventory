@@ -3157,6 +3157,48 @@
     ]
   },
   {
+    "normalizedName": "onvrede",
+    "displayName": "Onvrede",
+    "albums": [
+      {
+        "name": "Wanbeleid",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Metal",
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "Funeral Machine",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Metal",
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "Bijwerkingen",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Metal",
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "Lijdensweg",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Metal",
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Metal",
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "panzerballett",
     "displayName": "Panzerballett",
     "origin": "DE",
@@ -4952,6 +4994,14 @@
       },
       {
         "name": "Bach Brandenburg Concertos 3, 6",
+        "year": "2026",
+        "genres": [
+          "Speed Shred",
+          "Thrash Metal, Shred"
+        ]
+      },
+      {
+        "name": "Bass Metal Guitar Insanity",
         "year": "2026",
         "genres": [
           "Speed Shred",

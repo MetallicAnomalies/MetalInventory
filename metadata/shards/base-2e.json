@@ -964,6 +964,24 @@
     ]
   },
   {
+    "normalizedName": "causticcadaver",
+    "displayName": "Caustic Cadaver",
+    "albums": [
+      {
+        "name": "Catastrophic Structural Trauma",
+        "year": "2026",
+        "genres": [
+          "Brutal Metal",
+          "Technical Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Metal",
+      "Technical Death Metal"
+    ]
+  },
+  {
     "normalizedName": "cecilemclorinsalvant",
     "displayName": "Cécile McLorin Salvant",
     "origin": "FR",
@@ -4297,11 +4315,20 @@
           "Heavy Power Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "Sverdlore",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Heavy Power Metal",
-      "Power Metal"
+      "Power Metal",
+      "Heavy Metal"
     ]
   },
   {
@@ -4709,7 +4736,9 @@
       {
         "name": "Gods Of Thunder",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "NWOBHM, Heavy Metal"
+        ]
       },
       {
         "name": "Medusa",
@@ -4722,7 +4751,8 @@
     ],
     "tags": [
       "Heavy Metal",
-      "NWOBHM"
+      "NWOBHM",
+      "NWOBHM, Heavy Metal"
     ]
   },
   {

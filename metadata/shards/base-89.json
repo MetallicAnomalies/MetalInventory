@@ -1201,11 +1201,22 @@
           "Death Metal",
           "Deathcore"
         ]
+      },
+      {
+        "name": "Faceless",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Thrash Metal",
+          "Groove Metal"
+        ]
       }
     ],
     "tags": [
       "Death Metal",
-      "Deathcore"
+      "Deathcore",
+      "Thrash Metal",
+      "Groove Metal"
     ]
   },
   {

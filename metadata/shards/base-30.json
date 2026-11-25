@@ -2770,10 +2770,20 @@
         "genres": [
           "Raw Black Metal"
         ]
+      },
+      {
+        "name": "Old World Shadows",
+        "year": "2027",
+        "genres": [
+          "Raw Metal",
+          "Atmospheric Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Raw Black Metal"
+      "Raw Black Metal",
+      "Raw Metal",
+      "Atmospheric Black Metal"
     ]
   },
   {

@@ -4244,12 +4244,20 @@
           "Rock",
           "Grunge"
         ]
+      },
+      {
+        "name": "Shapeless Void of the Deep",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
       }
     ],
     "tags": [
       "Alternative Rock",
       "Rock",
-      "Grunge"
+      "Grunge",
+      "Raw Black Metal"
     ]
   },
   {
@@ -4584,6 +4592,22 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "toothandnail",
+    "displayName": "Tooth and Nail",
+    "albums": [
+      {
+        "name": "In The Face Of God",
+        "year": "2026",
+        "genres": [
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Grindcore"
     ]
   },
   {

@@ -2443,6 +2443,24 @@
     ]
   },
   {
+    "normalizedName": "hasturizm",
+    "displayName": "Hasturizm",
+    "albums": [
+      {
+        "name": "Abyssmal Rehersal",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal",
+          "Ambient"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal",
+      "Ambient"
+    ]
+  },
+  {
     "normalizedName": "henningpauly",
     "displayName": "Henning Pauly",
     "albums": [
@@ -5695,6 +5713,24 @@
     ],
     "tags": [
       "Thrash Metal"
+    ]
+  },
+  {
+    "normalizedName": "wolfsplitter",
+    "displayName": "Wolfsplitter",
+    "albums": [
+      {
+        "name": "Wolfsplitter",
+        "year": "2026",
+        "genres": [
+          "Melodic Thrash Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Thrash Metal",
+      "Heavy Metal"
     ]
   },
   {

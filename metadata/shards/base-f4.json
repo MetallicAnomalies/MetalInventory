@@ -117,6 +117,40 @@
     ]
   },
   {
+    "normalizedName": "alizam",
+    "displayName": "Alizam",
+    "albums": [
+      {
+        "name": "Movement I: Descensus Veneris (EN)",
+        "year": "2026",
+        "genres": [
+          "Folk Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Folk Metal",
+      "Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "almagalaxia",
+    "displayName": "Almagalaxia",
+    "albums": [
+      {
+        "name": "La trilogía del fuego",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal"
+    ]
+  },
+  {
     "normalizedName": "amebix",
     "displayName": "Amebix",
     "albums": [
@@ -3281,6 +3315,24 @@
     ]
   },
   {
+    "normalizedName": "markkheim",
+    "displayName": "Markkheim",
+    "albums": [
+      {
+        "name": "Supernal Mystery",
+        "year": "2026",
+        "genres": [
+          "Death Metal",
+          "Grindcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal",
+      "Grindcore"
+    ]
+  },
+  {
     "normalizedName": "masseti",
     "displayName": "Masseti",
     "albums": [
@@ -3342,6 +3394,14 @@
       },
       {
         "name": "Rebuilt by Force",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Power Metal"
+        ]
+      },
+      {
+        "name": "Krohm's Cruel Law",
         "year": "2026",
         "genres": [
           "Heavy Metal",
@@ -4238,6 +4298,29 @@
     "tags": [
       "Heavy Metal",
       "Speed Metal"
+    ]
+  },
+  {
+    "normalizedName": "redsyndicate",
+    "displayName": "Red Syndicate",
+    "albums": [
+      {
+        "name": "The Goriest Experiences",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      },
+      {
+        "name": "Embraced By Madness",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
     ]
   },
   {

@@ -1851,6 +1851,22 @@
     ]
   },
   {
+    "normalizedName": "kernhell",
+    "displayName": "Kernhell",
+    "albums": [
+      {
+        "name": "Arimaren sua",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "killinkind",
     "displayName": "Killin' Kind",
     "albums": [
@@ -4346,6 +4362,24 @@
     ],
     "tags": [
       "Brutal Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "waxwizard",
+    "displayName": "Wax Wizard",
+    "albums": [
+      {
+        "name": "Void Until Abyss Forever",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Doom Metal"
     ]
   },
   {

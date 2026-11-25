@@ -895,10 +895,14 @@
       {
         "name": "Black Pilgrimage",
         "year": "2027",
-        "genres": []
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "blasphemousfire",

@@ -2054,7 +2054,9 @@
       {
         "name": "Murder The Light",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Melodic Death Metal"
+        ]
       },
       {
         "name": "Ghosts",
@@ -4942,6 +4944,22 @@
     ],
     "tags": [
       "Technical Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "viscerialis",
+    "displayName": "Viscerialis",
+    "albums": [
+      {
+        "name": "Pakkasukko",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

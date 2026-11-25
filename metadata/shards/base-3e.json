@@ -224,6 +224,22 @@
     ]
   },
   {
+    "normalizedName": "amarteya",
+    "displayName": "Amarteya",
+    "albums": [
+      {
+        "name": "Incandescence of Seething Antiquity",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "anchorbraille",
     "displayName": "Anchor & Braille",
     "origin": "US",
@@ -3970,10 +3986,18 @@
       {
         "name": "Abiram",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Crust Punk",
+          "Progressive Sludge Metal",
+          "Groove Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Crust Punk",
+      "Progressive Sludge Metal",
+      "Groove Metal"
+    ]
   },
   {
     "normalizedName": "satanica",
