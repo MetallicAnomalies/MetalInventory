@@ -3928,12 +3928,7 @@
       },
       {
         "name": "The Greatest 30 Years On Earth",
-        "year": "2026",
-        "genres": [
-          "Symphonic Power Metal",
-          "Symphonic Metal"
-        ]
-        "genres": [
+        "year": "2026","genres": [
           "Symphonic Power Metal",
           "Symphonic Metal"
         ]
@@ -5876,18 +5871,14 @@
       },
       {
         "name": "Mac Tire – Son Of The Land",
-        "year": "2026",
-        "genres": [
-          "Celtic Folk Metal"
-        ]
-        "genres": [
+        "year": "2026","genres": [
           "Celtic Folk Metal"
         ]
       }
     ],
     "tags": [
       "Celtic Folk",
-      "Celtic Folk Metal"
+      "Celtic Folk Metal",
       "Celtic Folk",
       "Celtic Folk Metal"
     ]

@@ -889,22 +889,12 @@
     "albums": [
       {
         "name": "Awakening Of Ancient Evil",
-        "year": "2026",
-        "genres": [
-          "Black Metal",
-          "Thrash Metal"
-        ]
-        "genres": [
+        "year": "2026","genres": [
           "Black Metal",
           "Thrash Metal"
         ]
       }
-    ],
-    "tags": [
-      "Black Metal",
-      "Thrash Metal"
-    ]
-    "tags": [
+    ],"tags": [
       "Black Metal",
       "Thrash Metal"
     ]
@@ -2401,7 +2391,7 @@
       "Slam Goregrind",
       "Brutal Death Metal",
       "Goregrind",
-      "Slam Metal"
+      "Slam Metal",
       "Goregrind",
       "Slam Metal"
     ]

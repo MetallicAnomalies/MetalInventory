@@ -2468,11 +2468,7 @@
       },
       {
         "name": "Mercy To The Miserable",
-        "year": "2026",
-        "genres": [
-          "Death Metal"
-        ]
-        "genres": [
+        "year": "2026","genres": [
           "Death Metal"
         ]
       }
@@ -2869,13 +2865,7 @@
       },
       {
         "name": "The Annihilation Chalice",
-        "year": "2026",
-        "genres": [
-          "Black Metal",
-          "Death Metal",
-          "Thrash Metal"
-        ]
-        "genres": [
+        "year": "2026","genres": [
           "Black Metal",
           "Death Metal",
           "Thrash Metal"
@@ -2885,7 +2875,7 @@
     "tags": [
       "Black Metal",
       "Death Metal",
-      "Thrash Metal"
+      "Thrash Metal",
       "Death Metal",
       "Thrash Metal"
     ]
