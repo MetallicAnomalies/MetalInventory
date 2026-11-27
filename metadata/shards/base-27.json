@@ -1863,10 +1863,14 @@
       {
         "name": "Older Than Fire And Prayer",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Gothic Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Gothic Metal"
+    ]
   },
   {
     "normalizedName": "eevee",
@@ -5485,6 +5489,22 @@
       "Reggae",
       "Funk / Soul",
       "Pop"
+    ]
+  },
+  {
+    "normalizedName": "tuhottu",
+    "displayName": "Tuhottu",
+    "albums": [
+      {
+        "name": "Olkoon Suomi Ikuinen",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

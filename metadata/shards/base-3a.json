@@ -759,6 +759,22 @@
     ]
   },
   {
+    "normalizedName": "beyondaveilofmourning",
+    "displayName": "Beyond a Veil of Mourning",
+    "albums": [
+      {
+        "name": "Midwinter Sorrow",
+        "year": "2026",
+        "genres": [
+          "Funeral Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Funeral Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "blackcoast",
     "displayName": "black coast",
     "origin": "GB",
@@ -3782,10 +3798,20 @@
         "genres": [
           "Gothic Doom Metal"
         ]
+      },
+      {
+        "name": "The Blood Fiountain ( Run For the Hills)",
+        "year": "2026",
+        "genres": [
+          "Funeral Doom Metal",
+          "Gothic Metal"
+        ]
       }
     ],
     "tags": [
-      "Gothic Doom Metal"
+      "Gothic Doom Metal",
+      "Funeral Doom Metal",
+      "Gothic Metal"
     ]
   },
   {

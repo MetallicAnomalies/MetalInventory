@@ -335,6 +335,24 @@
     ]
   },
   {
+    "normalizedName": "animalectra",
+    "displayName": "AnimaLectra",
+    "albums": [
+      {
+        "name": "Burn New Moon",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Groove Metal"
+    ]
+  },
+  {
     "normalizedName": "annickeshireen",
     "displayName": "Annicke Shireen",
     "albums": [
@@ -4877,6 +4895,29 @@
     "tags": [
       "Blackened Death Metal",
       "Melodic Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "underrot",
+    "displayName": "UnderRot",
+    "albums": [
+      {
+        "name": "How to Slam: For Dumbasses.",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      },
+      {
+        "name": "Introduction to Slamology 101",
+        "year": "2026",
+        "genres": [
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Brutal Death Metal"
     ]
   },
   {

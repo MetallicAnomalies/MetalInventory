@@ -384,6 +384,19 @@
         "source": "Heavy Music HQ"
     },
     {
+        "artist": "Mulyfication",
+        "album": "Hopeless Realm of Phobosapiens",
+        "release_date": "2027-01-25",
+        "genre": "Death Metal",
+        "genre_list": [
+            "Death Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-16 06:15:52",
+        "url": "https://www.metal-archives.com/albums/Mulyfication/Hopeless_Realm_of_Phobosapiens/1491653",
+        "source": "MetalArchives"
+    },
+    {
         "artist": "Sublation",
         "album": "A Silence Grows",
         "release_date": "2027-01-24",
@@ -1628,6 +1641,20 @@
         "source": "MetalArchives"
     },
     {
+        "artist": "Lifeblood",
+        "album": "Per Aspera Ad Astra",
+        "release_date": "2026-12-23",
+        "genre": "Depressive Black Metal, Doom Metal",
+        "genre_list": [
+            "Depressive Black Metal",
+            "Doom Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-26 14:01:21",
+        "url": "https://www.metal-archives.com/albums/Lifeblood/Per_Aspera_Ad_Astra/1495229",
+        "source": "MetalArchives"
+    },
+    {
         "artist": "Skagos",
         "album": "Stricken",
         "release_date": "2026-12-21",
@@ -1667,6 +1694,21 @@
         "type": "Full-length",
         "added_on": "2026-10-22 10:56:46",
         "url": "https://www.metal-archives.com/albums/Bloody_Invasion/Schattenmemoiren/1483989",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Sage",
+        "album": "THE BLACKENED BLOOM",
+        "release_date": "2026-12-19",
+        "genre": "Doom, Groove Metal, Stoner Metal",
+        "genre_list": [
+            "Doom",
+            "Groove Metal",
+            "Stoner Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-27 07:17:20",
+        "url": "https://www.metal-archives.com/albums/Sage/THE_BLACKENED_BLOOM/1495436",
         "source": "MetalArchives"
     },
     {
@@ -1977,6 +2019,19 @@
         "type": "Full-length",
         "added_on": "2026-11-22 06:53:31",
         "url": "https://www.metal-archives.com/albums/Wind_Wraith/The_Devil%27s_Songbook/1493929",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Goliath",
+        "album": "Simiarchy",
+        "release_date": "2026-12-18",
+        "genre": "Sludge Metal",
+        "genre_list": [
+            "Sludge Metal"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-27 04:51:50",
+        "url": "https://www.metal-archives.com/albums/Goliath/Simiarchy/1495400",
         "source": "MetalArchives"
     },
     {
@@ -2906,6 +2961,33 @@
         "source": "MetalArchives"
     },
     {
+        "artist": "Excruciations",
+        "album": "Eucharist of Ash",
+        "release_date": "2026-12-11",
+        "genre": "Brutal Death Metal",
+        "genre_list": [
+            "Brutal Death Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-25 19:14:24",
+        "url": "https://www.metal-archives.com/albums/Excruciations/Eucharist_of_Ash/1495047",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Poacher",
+        "album": "Predatory Mutation",
+        "release_date": "2026-12-11",
+        "genre": "Death Metal, Hardcore",
+        "genre_list": [
+            "Death Metal",
+            "Hardcore"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-27 05:16:19",
+        "url": "https://www.metal-archives.com/albums/Poacher/Predatory_Mutation/1495406",
+        "source": "MetalArchives"
+    },
+    {
         "artist": "Gates Open",
         "album": "Beyond the Black Gates",
         "release_date": "2026-12-10",
@@ -3110,6 +3192,19 @@
         "source": "MetalArchives"
     },
     {
+        "artist": "Tuhottu",
+        "album": "Olkoon Suomi Ikuinen",
+        "release_date": "2026-12-06",
+        "genre": "Black Metal",
+        "genre_list": [
+            "Black Metal"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-27 08:14:54",
+        "url": "https://www.metal-archives.com/albums/Tuhottu/Olkoon_Suomi_Ikuinen/1495442",
+        "source": "MetalArchives"
+    },
+    {
         "artist": "Ferndal",
         "album": "Asuras",
         "release_date": "2026-12-05",
@@ -3173,6 +3268,21 @@
         "type": "EP",
         "added_on": "2026-11-22 03:13:48",
         "url": "https://www.metal-archives.com/albums/Aralack/Ecos/1493868",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Sage",
+        "album": "NO MORE LIGHT",
+        "release_date": "2026-12-05",
+        "genre": "Doom, Groove Metal, Stoner Metal",
+        "genre_list": [
+            "Doom",
+            "Groove Metal",
+            "Stoner Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-27 07:14:41",
+        "url": "https://www.metal-archives.com/albums/Sage/NO_MORE_LIGHT/1495435",
         "source": "MetalArchives"
     },
     {
@@ -4333,7 +4443,7 @@
     },
     {
         "artist": "Red Syndicate",
-        "album": "Embraced By Madness",
+        "album": "Embraced by Madness",
         "release_date": "2026-12-01",
         "genre": "Death Metal",
         "genre_list": [
@@ -4341,7 +4451,7 @@
         ],
         "type": "Full-length",
         "added_on": "2026-11-21 11:29:46",
-        "url": "https://www.metal-archives.com/albums/Red_Syndicate/Embraced_By_Madness/1493473",
+        "url": "https://www.metal-archives.com/albums/Red_Syndicate/Embraced_by_Madness/1493473",
         "source": "MetalArchives"
     },
     {
@@ -4544,19 +4654,6 @@
         "source": "MetalArchives"
     },
     {
-        "artist": "Anticlockwise",
-        "album": "Litanies Against Fear",
-        "release_date": "2026-11-28",
-        "genre": "Progressive Metal",
-        "genre_list": [
-            "Progressive Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-11-24 07:55:42",
-        "url": "https://www.metal-archives.com/albums/Anticlockwise/Litanies_Against_Fear/1494583",
-        "source": "MetalArchives"
-    },
-    {
         "artist": "Jack Slamer",
         "album": "Mask Of Broken Glass",
         "release_date": "2026-11-27",
@@ -4580,11 +4677,16 @@
     },
     {
         "artist": "Eeuwig",
-        "album": "Older Than Fire And Prayer",
+        "album": "Older than Fire and Prayer",
         "release_date": "2026-11-27",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
+        "genre": "Gothic Metal",
+        "genre_list": [
+            "Gothic Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-25 12:02:50",
+        "url": "https://www.metal-archives.com/albums/Eeuwig/Older_than_Fire_and_Prayer/1494949",
+        "source": "MetalArchives"
     },
     {
         "artist": "King 810",
@@ -4598,9 +4700,15 @@
         "artist": "The Aeons Torn",
         "album": "Void Artefakkts",
         "release_date": "2026-11-27",
-        "genre": "",
-        "url": "",
-        "source": "Heavy Music HQ"
+        "genre": "Black Metal, Doom Metal",
+        "genre_list": [
+            "Black Metal",
+            "Doom Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-26 02:08:54",
+        "url": "https://www.metal-archives.com/albums/The_Aeons_Torn/Void_Artefakkts/1495099",
+        "source": "MetalArchives"
     },
     {
         "artist": "Mystic Prophecy",
@@ -5731,7 +5839,7 @@
     },
     {
         "artist": "Kings Winter",
-        "album": "The Century Of The Self",
+        "album": "The Century of the Self",
         "release_date": "2026-11-27",
         "genre": "Melodic Heavy Metal, Hard Rock",
         "genre_list": [
@@ -5740,7 +5848,7 @@
         ],
         "type": "EP",
         "added_on": "2026-11-16 09:18:21",
-        "url": "https://www.metal-archives.com/albums/Kings_Winter/The_Century_Of_The_Self/1491667",
+        "url": "https://www.metal-archives.com/albums/Kings_Winter/The_Century_of_the_Self/1491667",
         "source": "MetalArchives"
     },
     {
@@ -5771,7 +5879,7 @@
     },
     {
         "artist": "Coram Lethe",
-        "album": "Il Castigo di Talassa",
+        "album": "Il castigo di Talassa",
         "release_date": "2026-11-27",
         "genre": "Progressive Death Metal",
         "genre_list": [
@@ -5779,7 +5887,365 @@
         ],
         "type": "EP",
         "added_on": "2026-11-25 07:45:36",
-        "url": "https://www.metal-archives.com/albums/Coram_Lethe/Il_Castigo_di_Talassa/1494893",
+        "url": "https://www.metal-archives.com/albums/Coram_Lethe/Il_castigo_di_Talassa/1494893",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Moonbather",
+        "album": "Heavy As the Sun",
+        "release_date": "2026-11-27",
+        "genre": "Stoner Metal, Rock",
+        "genre_list": [
+            "Stoner Metal",
+            "Rock"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-19 01:12:37",
+        "url": "https://www.metal-archives.com/albums/Moonbather/Heavy_As_the_Sun/1492584",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Harlots",
+        "album": "Irgendwie, irgendwo, irgendwann",
+        "release_date": "2026-11-27",
+        "genre": "Gothic Metal, Heavy Metal",
+        "genre_list": [
+            "Gothic Metal",
+            "Heavy Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 02:28:14",
+        "url": "https://www.metal-archives.com/albums/Harlots/Irgendwie%2C_irgendwo%2C_irgendwann/1495101",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Folkheim",
+        "album": "Wayra",
+        "release_date": "2026-11-27",
+        "genre": "Folk Metal, Black Metal",
+        "genre_list": [
+            "Folk Metal",
+            "Black Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 08:45:03",
+        "url": "https://www.metal-archives.com/albums/Folkheim/Wayra/1495155",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Knightress",
+        "album": "The Sentient Condition",
+        "release_date": "2026-11-27",
+        "genre": "Progressive Doom, Groove Metal",
+        "genre_list": [
+            "Progressive Doom",
+            "Groove Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-26 11:44:41",
+        "url": "https://www.metal-archives.com/albums/Knightress/The_Sentient_Condition/1495197",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Death Warden",
+        "album": "Slave to the Algorithm",
+        "release_date": "2026-11-27",
+        "genre": "Death Metal",
+        "genre_list": [
+            "Death Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 14:24:33",
+        "url": "https://www.metal-archives.com/albums/Death_Warden/Slave_to_the_Algorithm/1495231",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Will of Reason",
+        "album": "In Aeternum",
+        "release_date": "2026-11-27",
+        "genre": "Atmospheric Black Metal",
+        "genre_list": [
+            "Atmospheric Black Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-26 18:11:43",
+        "url": "https://www.metal-archives.com/albums/Will_of_Reason/In_Aeternum/1495278",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Rose Heaven",
+        "album": "Whisper",
+        "release_date": "2026-11-27",
+        "genre": "Symphonic Metal",
+        "genre_list": [
+            "Symphonic Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 19:51:49",
+        "url": "https://www.metal-archives.com/albums/Rose_Heaven/Whisper/1495293",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Dying Sun",
+        "album": "On the Eve of Conquest",
+        "release_date": "2026-11-27",
+        "genre": "Doom, Heavy Metal, Hard Rock",
+        "genre_list": [
+            "Doom",
+            "Heavy Metal",
+            "Hard Rock"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 21:25:26",
+        "url": "https://www.metal-archives.com/albums/Dying_Sun/On_the_Eve_of_Conquest/1495314",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Dying Sun",
+        "album": "My Body My Soul",
+        "release_date": "2026-11-27",
+        "genre": "Doom, Heavy Metal, Hard Rock",
+        "genre_list": [
+            "Doom",
+            "Heavy Metal",
+            "Hard Rock"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 21:26:22",
+        "url": "https://www.metal-archives.com/albums/Dying_Sun/My_Body_My_Soul/1495315",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Vision of Terror",
+        "album": "History Repeats",
+        "release_date": "2026-11-27",
+        "genre": "Grindcore",
+        "genre_list": [
+            "Grindcore"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-27 00:18:35",
+        "url": "https://www.metal-archives.com/albums/Vision_of_Terror/History_Repeats/1495353",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Mortom",
+        "album": "Wretched World",
+        "release_date": "2026-11-27",
+        "genre": "Thrash Metal, Groove Metal",
+        "genre_list": [
+            "Thrash Metal",
+            "Groove Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-27 02:02:31",
+        "url": "https://www.metal-archives.com/albums/Mortom/Wretched_World/1495373",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Wind of Eternity",
+        "album": "Aboulic Convivium",
+        "release_date": "2026-11-27",
+        "genre": "Depressive Black Metal",
+        "genre_list": [
+            "Depressive Black Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-27 02:04:41",
+        "url": "https://www.metal-archives.com/albums/Wind_of_Eternity/Aboulic_Convivium/1495374",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Naska",
+        "album": "Epochs II",
+        "release_date": "2026-11-27",
+        "genre": "Post-Black Metal",
+        "genre_list": [
+            "Post-Black Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-27 02:10:17",
+        "url": "https://www.metal-archives.com/albums/Naska/Epochs_II/1495375",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Keeper of Dreams",
+        "album": "Elemental",
+        "release_date": "2026-11-27",
+        "genre": "Technical Death Metal, Thrash Metal",
+        "genre_list": [
+            "Technical Death Metal",
+            "Thrash Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-27 02:14:06",
+        "url": "https://www.metal-archives.com/albums/Keeper_of_Dreams/Elemental/1495378",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Invoker",
+        "album": "Demonology",
+        "release_date": "2026-11-27",
+        "genre": "Thrash Metal",
+        "genre_list": [
+            "Thrash Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-27 03:00:10",
+        "url": "https://www.metal-archives.com/albums/Invoker/Demonology/1495382",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Spit for the Masses",
+        "album": "Mind-Body-Disconnect",
+        "release_date": "2026-11-27",
+        "genre": "Black Metal, Hardcore",
+        "genre_list": [
+            "Black Metal",
+            "Hardcore"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-27 04:14:10",
+        "url": "https://www.metal-archives.com/albums/Spit_for_the_Masses/Mind-Body-Disconnect/1495387",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Latzen",
+        "album": "KoNTz30 - Elkar Studio Sessions",
+        "release_date": "2026-11-27",
+        "genre": "Power Metal, Thrash Metal",
+        "genre_list": [
+            "Power Metal",
+            "Thrash Metal"
+        ],
+        "type": "Live album",
+        "added_on": "2026-11-27 04:26:21",
+        "url": "https://www.metal-archives.com/albums/Latzen/KoNTz30_-_Elkar_Studio_Sessions/1495390",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Xenomorphic Autopsy",
+        "album": "Absolute Zero Termination",
+        "release_date": "2026-11-27",
+        "genre": "Slam Metal, Brutal Death Metal",
+        "genre_list": [
+            "Slam Metal",
+            "Brutal Death Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-27 05:25:53",
+        "url": "https://www.metal-archives.com/albums/Xenomorphic_Autopsy/Absolute_Zero_Termination/1495409",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Black Pilgrimage",
+        "album": "Alchemical Process",
+        "release_date": "2026-11-27",
+        "genre": "Black Metal",
+        "genre_list": [
+            "Black Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-27 05:44:29",
+        "url": "https://www.metal-archives.com/albums/Black_Pilgrimage/Alchemical_Process/1495415",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Boot",
+        "album": "Bleed Your Heart Out",
+        "release_date": "2026-11-27",
+        "genre": "Thrash Metal, Heavy Metal",
+        "genre_list": [
+            "Thrash Metal",
+            "Heavy Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-27 05:58:42",
+        "url": "https://www.metal-archives.com/albums/Boot/Bleed_Your_Heart_Out/1495419",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Gourmetal",
+        "album": "Si, Chef!",
+        "release_date": "2026-11-27",
+        "genre": "Symphonic Power Metal",
+        "genre_list": [
+            "Symphonic Power Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-27 08:40:53",
+        "url": "https://www.metal-archives.com/albums/Gourmetal/Si%2C_Chef%21/1495446",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Mortemare",
+        "album": "To Heal The Lost",
+        "release_date": "2026-11-27",
+        "genre": "Symphonic Black Metal",
+        "genre_list": [
+            "Symphonic Black Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-27 09:33:34",
+        "url": "https://www.metal-archives.com/albums/Mortemare/To_Heal_The_Lost/1495461",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Pyogenesis",
+        "album": "I Fear the Dark",
+        "release_date": "2026-11-27",
+        "genre": "Doom, Death Metal, Gothic Metal, Alternative Rock, Punk",
+        "genre_list": [
+            "Doom",
+            "Death Metal",
+            "Gothic Metal, Alternative Rock",
+            "Punk"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-27 09:56:51",
+        "url": "https://www.metal-archives.com/albums/Pyogenesis/I_Fear_the_Dark/1495473",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Madness Blues",
+        "album": "Oceans",
+        "release_date": "2026-11-27",
+        "genre": "Blackened Funeral Doom Metal, Drone",
+        "genre_list": [
+            "Blackened Funeral Doom Metal",
+            "Drone"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-27 10:12:21",
+        "url": "https://www.metal-archives.com/albums/Madness_Blues/Oceans/1495475",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Suidakra",
+        "album": "Dawnbringer",
+        "release_date": "2026-11-27",
+        "genre": "Melodic Black Metal, Death Metal, Folk Metal",
+        "genre_list": [
+            "Melodic Black Metal",
+            "Death Metal",
+            "Folk Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-27 10:17:13",
+        "url": "https://www.metal-archives.com/albums/Suidakra/Dawnbringer/1495477",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Rygel",
+        "album": "404",
+        "release_date": "2026-11-27",
+        "genre": "Melodic Heavy Metal",
+        "genre_list": [
+            "Melodic Heavy Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-27 11:11:57",
+        "url": "https://www.metal-archives.com/albums/Rygel/404/1495493",
         "source": "MetalArchives"
     },
     {
@@ -5861,6 +6327,421 @@
         "type": "Single",
         "added_on": "2026-11-20 06:02:36",
         "url": "https://www.metal-archives.com/albums/Ars_Nova/Thanatos/1493037",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Ordo Karnivorum",
+        "album": "Old World, New Victims",
+        "release_date": "2026-11-26",
+        "genre": "Black Metal",
+        "genre_list": [
+            "Black Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-26 02:54:10",
+        "url": "https://www.metal-archives.com/albums/Ordo_Karnivorum/Old_World%2C_New_Victims/1495104",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Paula Teles",
+        "album": "Mátria",
+        "release_date": "2026-11-26",
+        "genre": "Symphonic Metal",
+        "genre_list": [
+            "Symphonic Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-26 03:03:14",
+        "url": "https://www.metal-archives.com/albums/Paula_Teles/M%C3%A1tria/1495108",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Koagulerade",
+        "album": "Narbentage",
+        "release_date": "2026-11-26",
+        "genre": "Raw Metal, Depressive Black Metal",
+        "genre_list": [
+            "Raw Metal",
+            "Depressive Black Metal"
+        ],
+        "type": "Split",
+        "added_on": "2026-11-26 04:23:57",
+        "url": "https://www.metal-archives.com/albums/Koagulerade/Narbentage/1495120",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Mortivorum",
+        "album": "Sepulchral Mutilation",
+        "release_date": "2026-11-26",
+        "genre": "Death Metal, Thrash Metal",
+        "genre_list": [
+            "Death Metal",
+            "Thrash Metal"
+        ],
+        "type": "Demo",
+        "added_on": "2026-11-26 06:01:03",
+        "url": "https://www.metal-archives.com/albums/Mortivorum/Sepulchral_Mutilation/1495129",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Gormoth",
+        "album": "Dérvirág",
+        "release_date": "2026-11-26",
+        "genre": "Atmospheric Black Metal, Ambient",
+        "genre_list": [
+            "Atmospheric Black Metal",
+            "Ambient"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-26 06:09:07",
+        "url": "https://www.metal-archives.com/albums/Gormoth/D%C3%A9rvir%C3%A1g/1495131",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Zenobia",
+        "album": "Agua (XX Aniversario)",
+        "release_date": "2026-11-26",
+        "genre": "Heavy Metal, Power Metal",
+        "genre_list": [
+            "Heavy Metal",
+            "Power Metal"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-26 09:11:19",
+        "url": "https://www.metal-archives.com/albums/Zenobia/Agua_%28XX_Aniversario%29/1495165",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Dying Sun",
+        "album": "A Blasphemy Rises",
+        "release_date": "2026-11-26",
+        "genre": "Doom, Heavy Metal, Hard Rock",
+        "genre_list": [
+            "Doom",
+            "Heavy Metal",
+            "Hard Rock"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 10:13:21",
+        "url": "https://www.metal-archives.com/albums/Dying_Sun/A_Blasphemy_Rises/1495177",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Dying Sun",
+        "album": "Into the Grave",
+        "release_date": "2026-11-26",
+        "genre": "Doom, Heavy Metal, Hard Rock",
+        "genre_list": [
+            "Doom",
+            "Heavy Metal",
+            "Hard Rock"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 10:14:23",
+        "url": "https://www.metal-archives.com/albums/Dying_Sun/Into_the_Grave/1495178",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Triumphal Vengeance",
+        "album": "Phosphoressence Triad",
+        "release_date": "2026-11-26",
+        "genre": "Black Metal",
+        "genre_list": [
+            "Black Metal"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-26 11:14:56",
+        "url": "https://www.metal-archives.com/albums/Triumphal_Vengeance/Phosphoressence_Triad/1495187",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Deikapitation",
+        "album": "Ordo Ab Chao",
+        "release_date": "2026-11-26",
+        "genre": "Black Metal, Death Metal, War Metal",
+        "genre_list": [
+            "Black Metal",
+            "Death Metal",
+            "War Metal"
+        ],
+        "type": "Demo",
+        "added_on": "2026-11-26 11:27:05",
+        "url": "https://www.metal-archives.com/albums/Deikapitation/Ordo_Ab_Chao/1495190",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Helpless Agony",
+        "album": "Apathetic Existence",
+        "release_date": "2026-11-26",
+        "genre": "Death Metal",
+        "genre_list": [
+            "Death Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 13:04:14",
+        "url": "https://www.metal-archives.com/albums/Helpless_Agony/Apathetic_Existence/1495215",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Anantakaal",
+        "album": "Mezistavy",
+        "release_date": "2026-11-26",
+        "genre": "Funeral Doom Metal, Dark Ambient, Drone",
+        "genre_list": [
+            "Funeral Doom Metal",
+            "Dark Ambient",
+            "Drone"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-26 13:11:41",
+        "url": "https://www.metal-archives.com/albums/Anantakaal/Mezistavy/1495216",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Apostasy",
+        "album": "Almighty Rise",
+        "release_date": "2026-11-26",
+        "genre": "Thrash Metal, Black Metal",
+        "genre_list": [
+            "Thrash Metal",
+            "Black Metal"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-26 14:38:59",
+        "url": "https://www.metal-archives.com/albums/Apostasy/Almighty_Rise/1495235",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Lights to Remain",
+        "album": "Remnants of a Lost Soul",
+        "release_date": "2026-11-26",
+        "genre": "Melodic Death Metal",
+        "genre_list": [
+            "Melodic Death Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 14:47:19",
+        "url": "https://www.metal-archives.com/albums/Lights_to_Remain/Remnants_of_a_Lost_Soul/1495239",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Pulsar",
+        "album": "EP",
+        "release_date": "2026-11-26",
+        "genre": "Atmospheric Black Metal",
+        "genre_list": [
+            "Atmospheric Black Metal"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-26 14:58:15",
+        "url": "https://www.metal-archives.com/albums/Pulsar/EP/1495242",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Tygers of Pan Tang",
+        "album": "The Fight Goes On (80s Mix)",
+        "release_date": "2026-11-26",
+        "genre": "NWOBHM Metal, Heavy Metal, Hard Rock, AOR",
+        "genre_list": [
+            "NWOBHM Metal",
+            "Heavy Metal",
+            "Hard Rock",
+            "AOR"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 15:57:05",
+        "url": "https://www.metal-archives.com/albums/Tygers_of_Pan_Tang/The_Fight_Goes_On_%2880s_Mix%29/1495254",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Insanidade Sonora",
+        "album": "Insanidade Sonora",
+        "release_date": "2026-11-26",
+        "genre": "Black Metal",
+        "genre_list": [
+            "Black Metal"
+        ],
+        "type": "Demo",
+        "added_on": "2026-11-26 16:52:12",
+        "url": "https://www.metal-archives.com/albums/Insanidade_Sonora/Insanidade_Sonora/1495268",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Livets Smärta",
+        "album": "Tröst mitt i entropin",
+        "release_date": "2026-11-26",
+        "genre": "Raw Black Metal",
+        "genre_list": [
+            "Raw Black Metal"
+        ],
+        "type": "Demo",
+        "added_on": "2026-11-26 18:09:12",
+        "url": "https://www.metal-archives.com/albums/Livets_Sm%C3%A4rta/Tr%C3%B6st_mitt_i_entropin/1495276",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "AbyssvMoon",
+        "album": "Lead Spirits Beyond Darkened",
+        "release_date": "2026-11-26",
+        "genre": "Black Metal",
+        "genre_list": [
+            "Black Metal"
+        ],
+        "type": "Demo",
+        "added_on": "2026-11-26 18:10:43",
+        "url": "https://www.metal-archives.com/albums/AbyssvMoon/Lead_Spirits_Beyond_Darkened/1495277",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Bragging Rights",
+        "album": "The Rub",
+        "release_date": "2026-11-26",
+        "genre": "Groove Metal, Metalcore",
+        "genre_list": [
+            "Groove Metal",
+            "Metalcore"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-26 18:13:06",
+        "url": "https://www.metal-archives.com/albums/Bragging_Rights/The_Rub/1495279",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Baleful Rot",
+        "album": "Naturally Compulsed to Dismember Worthless Rapist Scum",
+        "release_date": "2026-11-26",
+        "genre": "Slam Metal, Brutal Death Metal",
+        "genre_list": [
+            "Slam Metal",
+            "Brutal Death Metal"
+        ],
+        "type": "Demo",
+        "added_on": "2026-11-26 18:28:24",
+        "url": "https://www.metal-archives.com/albums/Baleful_Rot/Naturally_Compulsed_to_Dismember_Worthless_Rapist_Scum/1495281",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Extermination Dismemberment",
+        "album": "Death Itself",
+        "release_date": "2026-11-26",
+        "genre": "Slam Metal, Brutal Death Metal",
+        "genre_list": [
+            "Slam Metal",
+            "Brutal Death Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 19:35:42",
+        "url": "https://www.metal-archives.com/albums/Extermination_Dismemberment/Death_Itself/1495291",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Silent Deep Ocean",
+        "album": "The Blood Fiountain ( Run For the Hills)",
+        "release_date": "2026-11-26",
+        "genre": "Funeral Doom, Gothic Metal",
+        "genre_list": [
+            "Funeral Doom",
+            "Gothic Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 22:55:34",
+        "url": "https://www.metal-archives.com/albums/Silent_Deep_Ocean/The_Blood_Fiountain_%28_Run_For_the_Hills%29/1495332",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Torleum",
+        "album": "Schiltrons",
+        "release_date": "2026-11-26",
+        "genre": "Raw Atmospheric Black Metal",
+        "genre_list": [
+            "Raw Atmospheric Black Metal"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-27 04:36:38",
+        "url": "https://www.metal-archives.com/albums/Torleum/Schiltrons/1495392",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Asthenia",
+        "album": "Limerence",
+        "release_date": "2026-11-26",
+        "genre": "Post-Black Metal, Shoegaze",
+        "genre_list": [
+            "Post-Black Metal",
+            "Shoegaze"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-27 04:43:56",
+        "url": "https://www.metal-archives.com/albums/Asthenia/Limerence/1495394",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Beyond a Veil of Mourning",
+        "album": "Midwinter Sorrow",
+        "release_date": "2026-11-26",
+        "genre": "Funeral Doom Metal",
+        "genre_list": [
+            "Funeral Doom Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-27 04:48:19",
+        "url": "https://www.metal-archives.com/albums/Beyond_a_Veil_of_Mourning/Midwinter_Sorrow/1495397",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Syrkander",
+        "album": "Oratoria",
+        "release_date": "2026-11-26",
+        "genre": "Progressive Metal, Symphonic Metal",
+        "genre_list": [
+            "Progressive Metal",
+            "Symphonic Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-27 05:06:54",
+        "url": "https://www.metal-archives.com/albums/Syrkander/Oratoria/1495405",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "New Devilry",
+        "album": "The Owl Cult",
+        "release_date": "2026-11-26",
+        "genre": "Stoner Metal, Heavy Metal, Hard Rock",
+        "genre_list": [
+            "Stoner Metal",
+            "Heavy Metal",
+            "Hard Rock"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-27 05:20:48",
+        "url": "https://www.metal-archives.com/albums/New_Devilry/The_Owl_Cult/1495407",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Xenomorphic Autopsy",
+        "album": "Pathological Amputation",
+        "release_date": "2026-11-26",
+        "genre": "Slam Metal, Brutal Death Metal",
+        "genre_list": [
+            "Slam Metal",
+            "Brutal Death Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-27 05:30:16",
+        "url": "https://www.metal-archives.com/albums/Xenomorphic_Autopsy/Pathological_Amputation/1495412",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Anticlockwise",
+        "album": "Litanies Against Fear",
+        "release_date": "2026-11-25",
+        "genre": "Progressive Metal",
+        "genre_list": [
+            "Progressive Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-24 07:55:42",
+        "url": "https://www.metal-archives.com/albums/Anticlockwise/Litanies_Against_Fear/1494583",
         "source": "MetalArchives"
     },
     {
@@ -6099,6 +6980,376 @@
         "type": "Single",
         "added_on": "2026-11-25 11:26:22",
         "url": "https://www.metal-archives.com/albums/Beatrix/Death_Masks_Gaze/1494942",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Regenoth",
+        "album": "Regenoth:The Hellish Army Of Mordor",
+        "release_date": "2026-11-25",
+        "genre": "Raw Black Metal",
+        "genre_list": [
+            "Raw Black Metal"
+        ],
+        "type": "Compilation",
+        "added_on": "2026-11-21 07:02:50",
+        "url": "https://www.metal-archives.com/albums/Regenoth/Regenoth%3AThe_Hellish_Army_Of_Mordor/1493416",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Germán Pascual",
+        "album": "O Helga Natt",
+        "release_date": "2026-11-25",
+        "genre": "Heavy Metal, Power Metal",
+        "genre_list": [
+            "Heavy Metal",
+            "Power Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-25 13:08:10",
+        "url": "https://www.metal-archives.com/albums/Germ%C3%A1n_Pascual/O_Helga_Natt/1494963",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Evil Invaders",
+        "album": "Bloodstains",
+        "release_date": "2026-11-25",
+        "genre": "Thrash Metal, Speed Metal",
+        "genre_list": [
+            "Thrash Metal",
+            "Speed Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-25 13:09:32",
+        "url": "https://www.metal-archives.com/albums/Evil_Invaders/Bloodstains/1494964",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Veil of Maya",
+        "album": "All Things Set Aside XX",
+        "release_date": "2026-11-25",
+        "genre": "Technical Deathcore, Djent, Technical Metalcore",
+        "genre_list": [
+            "Technical Deathcore",
+            "Djent",
+            "Technical Metalcore"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-25 14:08:16",
+        "url": "https://www.metal-archives.com/albums/Veil_of_Maya/All_Things_Set_Aside_XX/1494971",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Maldoror",
+        "album": "Chantacruel",
+        "release_date": "2026-11-25",
+        "genre": "Raw Black Metal",
+        "genre_list": [
+            "Raw Black Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-25 17:09:36",
+        "url": "https://www.metal-archives.com/albums/Maldoror/Chantacruel/1494999",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Mysterium",
+        "album": "Perpetualist as Chaos",
+        "release_date": "2026-11-25",
+        "genre": "Black Metal",
+        "genre_list": [
+            "Black Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-25 18:25:13",
+        "url": "https://www.metal-archives.com/albums/Mysterium/Perpetualist_as_Chaos/1495021",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Deep Agony",
+        "album": "And Metal for All",
+        "release_date": "2026-11-25",
+        "genre": "Black Metal, Doom Metal",
+        "genre_list": [
+            "Black Metal",
+            "Doom Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-25 18:26:58",
+        "url": "https://www.metal-archives.com/albums/Deep_Agony/And_Metal_for_All/1495023",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Trollmoon",
+        "album": "Drinking the Dripping Ichor of the Trollmoon's Dooming Dusk",
+        "release_date": "2026-11-25",
+        "genre": "Atmospheric Black Metal",
+        "genre_list": [
+            "Atmospheric Black Metal"
+        ],
+        "type": "Demo",
+        "added_on": "2026-11-25 18:28:35",
+        "url": "https://www.metal-archives.com/albums/Trollmoon/Drinking_the_Dripping_Ichor_of_the_Trollmoon%27s_Dooming_Dusk/1495025",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Tired of Life",
+        "album": "Demo 2026",
+        "release_date": "2026-11-25",
+        "genre": "Depressive Black Metal",
+        "genre_list": [
+            "Depressive Black Metal"
+        ],
+        "type": "Demo",
+        "added_on": "2026-11-25 18:41:40",
+        "url": "https://www.metal-archives.com/albums/Tired_of_Life/Demo_2026/1495029",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Nocturnal Abbey",
+        "album": "Winter Story",
+        "release_date": "2026-11-25",
+        "genre": "Gothic Metal, Doom Metal",
+        "genre_list": [
+            "Gothic Metal",
+            "Doom Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-25 18:50:11",
+        "url": "https://www.metal-archives.com/albums/Nocturnal_Abbey/Winter_Story/1495034",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Mauf",
+        "album": "Ambahut",
+        "release_date": "2026-11-25",
+        "genre": "Black Metal, Punk",
+        "genre_list": [
+            "Black Metal",
+            "Punk"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-25 18:59:34",
+        "url": "https://www.metal-archives.com/albums/Mauf/Ambahut/1495040",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Solerian",
+        "album": "With Good Grace",
+        "release_date": "2026-11-25",
+        "genre": "Progressive Metal, Rock",
+        "genre_list": [
+            "Progressive Metal",
+            "Rock"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-25 19:06:30",
+        "url": "https://www.metal-archives.com/albums/Solerian/With_Good_Grace/1495045",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Sythe",
+        "album": "Leechbirth",
+        "release_date": "2026-11-25",
+        "genre": "Progressive Black Metal, Death Metal",
+        "genre_list": [
+            "Progressive Black Metal",
+            "Death Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-25 19:23:00",
+        "url": "https://www.metal-archives.com/albums/Sythe/Leechbirth/1495050",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Total Vandal",
+        "album": "Total Vandal",
+        "release_date": "2026-11-25",
+        "genre": "Thrash Metal, Crossover",
+        "genre_list": [
+            "Thrash Metal",
+            "Crossover"
+        ],
+        "type": "Demo",
+        "added_on": "2026-11-25 22:13:16",
+        "url": "https://www.metal-archives.com/albums/Total_Vandal/Total_Vandal/1495073",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Bronkos Delight",
+        "album": "Bronkos Delight",
+        "release_date": "2026-11-25",
+        "genre": "Progressive Stoner Metal, Groove Metal",
+        "genre_list": [
+            "Progressive Stoner Metal",
+            "Groove Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-25 22:25:56",
+        "url": "https://www.metal-archives.com/albums/Bronkos_Delight/Bronkos_Delight/1495075",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Deól Fola",
+        "album": "Of Morbid Earth",
+        "release_date": "2026-11-25",
+        "genre": "Black Metal",
+        "genre_list": [
+            "Black Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-26 00:09:36",
+        "url": "https://www.metal-archives.com/albums/De%C3%B3l_Fola/Of_Morbid_Earth/1495085",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Twisted Escape",
+        "album": "Old World New Victims",
+        "release_date": "2026-11-25",
+        "genre": "Heavy Metal, Speed Metal, Thrash Metal",
+        "genre_list": [
+            "Heavy Metal",
+            "Speed Metal",
+            "Thrash Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-26 02:52:27",
+        "url": "https://www.metal-archives.com/albums/Twisted_Escape/Old_World_New_Victims/1495103",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Abandon All Light",
+        "album": "Abandon All Light",
+        "release_date": "2026-11-25",
+        "genre": "Black Metal, Ambient",
+        "genre_list": [
+            "Black Metal",
+            "Ambient"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-26 04:27:35",
+        "url": "https://www.metal-archives.com/albums/Abandon_All_Light/Abandon_All_Light/1495122",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Mazout",
+        "album": "Larva Migrans",
+        "release_date": "2026-11-25",
+        "genre": "Stoner Metal, Doom Metal",
+        "genre_list": [
+            "Stoner Metal",
+            "Doom Metal"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-26 04:35:51",
+        "url": "https://www.metal-archives.com/albums/Mazout/Larva_Migrans/1495123",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "UnderRot",
+        "album": "How to Slam: For Dumbasses.",
+        "release_date": "2026-11-25",
+        "genre": "Brutal Death Metal",
+        "genre_list": [
+            "Brutal Death Metal"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-26 04:50:24",
+        "url": "https://www.metal-archives.com/albums/UnderRot/How_to_Slam%3A_For_Dumbasses./1495125",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Tosco",
+        "album": "Tosco EP",
+        "release_date": "2026-11-25",
+        "genre": "Thrash Metal, Crossover",
+        "genre_list": [
+            "Thrash Metal",
+            "Crossover"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-26 07:01:34",
+        "url": "https://www.metal-archives.com/albums/Tosco/Tosco_EP/1495140",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Towers Below",
+        "album": "We, the Wolves",
+        "release_date": "2026-11-25",
+        "genre": "Deathcore",
+        "genre_list": [
+            "Deathcore"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 07:48:07",
+        "url": "https://www.metal-archives.com/albums/Towers_Below/We%2C_the_Wolves/1495147",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Sombretour",
+        "album": "Lake of Lost Magic",
+        "release_date": "2026-11-25",
+        "genre": "Melodic Doom, Death Metal",
+        "genre_list": [
+            "Melodic Doom",
+            "Death Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 08:10:17",
+        "url": "https://www.metal-archives.com/albums/Sombretour/Lake_of_Lost_Magic/1495152",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Dreadsight",
+        "album": "From Below",
+        "release_date": "2026-11-25",
+        "genre": "Heavy Metal",
+        "genre_list": [
+            "Heavy Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 09:15:54",
+        "url": "https://www.metal-archives.com/albums/Dreadsight/From_Below/1495166",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Velodensity",
+        "album": "O.C.D.",
+        "release_date": "2026-11-25",
+        "genre": "Brutal Death Metal",
+        "genre_list": [
+            "Brutal Death Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-26 12:06:19",
+        "url": "https://www.metal-archives.com/albums/Velodensity/O.C.D./1495198",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Carnaby Christ",
+        "album": "Dogboy",
+        "release_date": "2026-11-25",
+        "genre": "Doom, Black Metal",
+        "genre_list": [
+            "Doom",
+            "Black Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 23:15:50",
+        "url": "https://www.metal-archives.com/albums/Carnaby_Christ/Dogboy/1495337",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Shed My Skin",
+        "album": "Pandora's Box",
+        "release_date": "2026-11-25",
+        "genre": "Symphonic Metal, Progressive Metal",
+        "genre_list": [
+            "Symphonic Metal",
+            "Progressive Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-27 05:01:00",
+        "url": "https://www.metal-archives.com/albums/Shed_My_Skin/Pandora%27s_Box/1495404",
         "source": "MetalArchives"
     },
     {
@@ -6591,6 +7842,102 @@
         "source": "MetalArchives"
     },
     {
+        "artist": "Shithomunculus",
+        "album": "Shithomunculus EP",
+        "release_date": "2026-11-24",
+        "genre": "Grindcore, Goregrind",
+        "genre_list": [
+            "Grindcore",
+            "Goregrind"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-24 10:15:06",
+        "url": "https://www.metal-archives.com/albums/Shithomunculus/Shithomunculus_EP/1494629",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Ikuinen Totuus",
+        "album": "Demo II",
+        "release_date": "2026-11-24",
+        "genre": "Raw Black Metal",
+        "genre_list": [
+            "Raw Black Metal"
+        ],
+        "type": "Demo",
+        "added_on": "2026-11-25 19:01:30",
+        "url": "https://www.metal-archives.com/albums/Ikuinen_Totuus/Demo_II/1495041",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Blasphemous Command",
+        "album": "Ritual.Iniciación.Profanación",
+        "release_date": "2026-11-24",
+        "genre": "Death Metal, Black Metal",
+        "genre_list": [
+            "Death Metal",
+            "Black Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-25 20:45:02",
+        "url": "https://www.metal-archives.com/albums/Blasphemous_Command/Ritual.Iniciaci%C3%B3n.Profanaci%C3%B3n/1495061",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Manson Lamps",
+        "album": "The Gabagool EP",
+        "release_date": "2026-11-24",
+        "genre": "Sludge Metal, Doom Metal",
+        "genre_list": [
+            "Sludge Metal",
+            "Doom Metal"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-26 06:56:34",
+        "url": "https://www.metal-archives.com/albums/Manson_Lamps/The_Gabagool_EP/1495138",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Pensées Nocturnes",
+        "album": "Tremble Carcasse !",
+        "release_date": "2026-11-24",
+        "genre": "Avant-garde Black Metal",
+        "genre_list": [
+            "Avant-garde Black Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 09:06:13",
+        "url": "https://www.metal-archives.com/albums/Pens%C3%A9es_Nocturnes/Tremble_Carcasse_%21/1495164",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "AnimaLectra",
+        "album": "Burn New Moon",
+        "release_date": "2026-11-24",
+        "genre": "Sludge Metal, Groove Metal",
+        "genre_list": [
+            "Sludge Metal",
+            "Groove Metal"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-26 12:31:52",
+        "url": "https://www.metal-archives.com/albums/AnimaLectra/Burn_New_Moon/1495201",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Wings of Thanatos",
+        "album": "Absolution",
+        "release_date": "2026-11-24",
+        "genre": "Symphonic Metal, Progressive Death Metal",
+        "genre_list": [
+            "Symphonic Metal",
+            "Progressive Death Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 21:31:00",
+        "url": "https://www.metal-archives.com/albums/Wings_of_Thanatos/Absolution/1495317",
+        "source": "MetalArchives"
+    },
+    {
         "artist": "Burnt Witch",
         "album": "Burnt Witch",
         "release_date": "2026-11-23",
@@ -6772,9 +8119,9 @@
         "artist": "Pooyan Ahmadi",
         "album": "Where Nothing Grows",
         "release_date": "2026-11-23",
-        "genre": "Brutal Death Metal",
+        "genre": "Goregrind, Various",
         "genre_list": [
-            "Brutal Death Metal"
+            "Goregrind, Various"
         ],
         "type": "Split",
         "added_on": "2026-11-23 14:19:38",
@@ -6997,6 +8344,128 @@
         "type": "Full-length",
         "added_on": "2026-11-24 05:01:00",
         "url": "https://www.metal-archives.com/albums/Dethotica/As_the_Guiding_Light_Fades_Away/1494544",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Funeral Fumes",
+        "album": "Self-Parasite",
+        "release_date": "2026-11-23",
+        "genre": "Grindcore",
+        "genre_list": [
+            "Grindcore"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-22 17:48:15",
+        "url": "https://www.metal-archives.com/albums/Funeral_Fumes/Self-Parasite/1494161",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Mészárlás",
+        "album": "Mészárlás EP",
+        "release_date": "2026-11-23",
+        "genre": "Black Metal, Heavy Metal, Punk",
+        "genre_list": [
+            "Black Metal",
+            "Heavy Metal",
+            "Punk"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-23 11:50:29",
+        "url": "https://www.metal-archives.com/albums/M%C3%A9sz%C3%A1rl%C3%A1s/M%C3%A9sz%C3%A1rl%C3%A1s_EP/1494335",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Zokguano",
+        "album": "Vástagos del abismo",
+        "release_date": "2026-11-23",
+        "genre": "Death Metal",
+        "genre_list": [
+            "Death Metal"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-24 11:51:43",
+        "url": "https://www.metal-archives.com/albums/Zokguano/V%C3%A1stagos_del_abismo/1494650",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Santa Sativa",
+        "album": "Comunión cannábica",
+        "release_date": "2026-11-23",
+        "genre": "Doom, Stoner Metal, Rock",
+        "genre_list": [
+            "Doom",
+            "Stoner Metal",
+            "Rock"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-24 12:11:27",
+        "url": "https://www.metal-archives.com/albums/Santa_Sativa/Comuni%C3%B3n_cann%C3%A1bica/1494653",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Darchaic",
+        "album": "Comrade of Blood",
+        "release_date": "2026-11-23",
+        "genre": "Melodic Death Metal",
+        "genre_list": [
+            "Melodic Death Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-25 19:29:22",
+        "url": "https://www.metal-archives.com/albums/Darchaic/Comrade_of_Blood/1495053",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Sikiatric",
+        "album": "Cosmic Horror",
+        "release_date": "2026-11-23",
+        "genre": "Thrash Metal",
+        "genre_list": [
+            "Thrash Metal"
+        ],
+        "type": "Demo",
+        "added_on": "2026-11-26 04:14:54",
+        "url": "https://www.metal-archives.com/albums/Sikiatric/Cosmic_Horror/1495118",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Bolgar",
+        "album": "The Putrefaction Of The Soul",
+        "release_date": "2026-11-23",
+        "genre": "Black Metal",
+        "genre_list": [
+            "Black Metal"
+        ],
+        "type": "Demo",
+        "added_on": "2026-11-26 09:01:04",
+        "url": "https://www.metal-archives.com/albums/Bolgar/The_Putrefaction_Of_The_Soul/1495162",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Saturnian Gateways",
+        "album": "Sanguine Tribute to the Sixth Sphere",
+        "release_date": "2026-11-23",
+        "genre": "Death Metal",
+        "genre_list": [
+            "Death Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 10:17:11",
+        "url": "https://www.metal-archives.com/albums/Saturnian_Gateways/Sanguine_Tribute_to_the_Sixth_Sphere/1495180",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "The Nightspirit",
+        "album": "When Feathers Turn to Ashes",
+        "release_date": "2026-11-23",
+        "genre": "Symphonic Death Metal, Black Metal",
+        "genre_list": [
+            "Symphonic Death Metal",
+            "Black Metal"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-27 08:51:40",
+        "url": "https://www.metal-archives.com/albums/The_Nightspirit/When_Feathers_Turn_to_Ashes/1495449",
         "source": "MetalArchives"
     },
     {
@@ -7297,7 +8766,7 @@
     },
     {
         "artist": "Days Gone",
-        "album": "why",
+        "album": "Why",
         "release_date": "2026-11-22",
         "genre": "Depressive Black Metal",
         "genre_list": [
@@ -7305,7 +8774,7 @@
         ],
         "type": "Collaboration",
         "added_on": "2026-11-23 15:18:12",
-        "url": "https://www.metal-archives.com/albums/Days_Gone/why/1494369",
+        "url": "https://www.metal-archives.com/albums/Days_Gone/Why/1494369",
         "source": "MetalArchives"
     },
     {
@@ -7416,6 +8885,21 @@
         "type": "Full-length",
         "added_on": "2026-11-24 18:36:21",
         "url": "https://www.metal-archives.com/albums/Markkheim/Supernal_Mystery/1494726",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Crü",
+        "album": "The Anguish Within",
+        "release_date": "2026-11-22",
+        "genre": "Doom, Death Metal, Gothic Metal",
+        "genre_list": [
+            "Doom",
+            "Death Metal",
+            "Gothic Metal"
+        ],
+        "type": "Demo",
+        "added_on": "2026-11-23 01:22:09",
+        "url": "https://www.metal-archives.com/albums/Cr%C3%BC/The_Anguish_Within/1494247",
         "source": "MetalArchives"
     },
     {
@@ -8039,6 +9523,21 @@
         "type": "Single",
         "added_on": "2026-11-24 19:24:53",
         "url": "https://www.metal-archives.com/albums/Goatrocity/The_Countess_of_Blood/1494744",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Dethrone the Necrowizard",
+        "album": "EP 2026",
+        "release_date": "2026-11-21",
+        "genre": "Melodic Death Metal, Black Metal, Heavy Metal",
+        "genre_list": [
+            "Melodic Death Metal",
+            "Black Metal",
+            "Heavy Metal"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-20 23:11:54",
+        "url": "https://www.metal-archives.com/albums/Dethrone_the_Necrowizard/EP_2026/1493311",
         "source": "MetalArchives"
     },
     {
@@ -10239,21 +11738,6 @@
         "source": "MetalArchives"
     },
     {
-        "artist": "Dethrone the Necrowizard",
-        "album": "EP 2026",
-        "release_date": "2026-11-20",
-        "genre": "Melodic Death Metal, Black Metal, Heavy Metal",
-        "genre_list": [
-            "Melodic Death Metal",
-            "Black Metal",
-            "Heavy Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-11-20 23:11:54",
-        "url": "https://www.metal-archives.com/albums/Dethrone_the_Necrowizard/EP_2026/1493311",
-        "source": "MetalArchives"
-    },
-    {
         "artist": "The Weeping Abyss",
         "album": "End Me",
         "release_date": "2026-11-20",
@@ -10405,7 +11889,7 @@
     },
     {
         "artist": "Ghega",
-        "album": "Almost Like Them",
+        "album": "Almost like Them",
         "release_date": "2026-11-20",
         "genre": "Stoner Metal, Groove Metal",
         "genre_list": [
@@ -10414,7 +11898,7 @@
         ],
         "type": "Full-length",
         "added_on": "2026-11-21 07:08:16",
-        "url": "https://www.metal-archives.com/albums/Ghega/Almost_Like_Them/1493420",
+        "url": "https://www.metal-archives.com/albums/Ghega/Almost_like_Them/1493420",
         "source": "MetalArchives"
     },
     {
@@ -10545,7 +12029,7 @@
     },
     {
         "artist": "Tooth and Nail",
-        "album": "In The Face Of God",
+        "album": "In the Face of God",
         "release_date": "2026-11-20",
         "genre": "Grindcore",
         "genre_list": [
@@ -10553,7 +12037,7 @@
         ],
         "type": "Single",
         "added_on": "2026-11-22 13:48:13",
-        "url": "https://www.metal-archives.com/albums/Tooth_and_Nail/In_The_Face_Of_God/1494065",
+        "url": "https://www.metal-archives.com/albums/Tooth_and_Nail/In_the_Face_of_God/1494065",
         "source": "MetalArchives"
     },
     {
@@ -10744,6 +12228,75 @@
         "type": "Single",
         "added_on": "2026-11-24 21:17:46",
         "url": "https://www.metal-archives.com/albums/WarWolf/Deep_Level_Shelter/1494782",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Mortivorum",
+        "album": "Cursed in  the Grave",
+        "release_date": "2026-11-20",
+        "genre": "Death Metal, Thrash Metal",
+        "genre_list": [
+            "Death Metal",
+            "Thrash Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-20 10:39:32",
+        "url": "https://www.metal-archives.com/albums/Mortivorum/Cursed_in__the_Grave/1493114",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Katedraali",
+        "album": "...and Strength We Will Not Hide",
+        "release_date": "2026-11-20",
+        "genre": "Black Metal",
+        "genre_list": [
+            "Black Metal"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-24 15:33:48",
+        "url": "https://www.metal-archives.com/albums/Katedraali/...and_Strength_We_Will_Not_Hide/1494689",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "UnderRot",
+        "album": "Introduction to Slamology 101",
+        "release_date": "2026-11-20",
+        "genre": "Brutal Death Metal",
+        "genre_list": [
+            "Brutal Death Metal"
+        ],
+        "type": "EP",
+        "added_on": "2026-11-26 04:48:39",
+        "url": "https://www.metal-archives.com/albums/UnderRot/Introduction_to_Slamology_101/1495124",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Symfobia",
+        "album": "Night Will Bury",
+        "release_date": "2026-11-20",
+        "genre": "Symphonic Metal",
+        "genre_list": [
+            "Symphonic Metal"
+        ],
+        "type": "Single",
+        "added_on": "2026-11-26 19:54:19",
+        "url": "https://www.metal-archives.com/albums/Symfobia/Night_Will_Bury/1495294",
+        "source": "MetalArchives"
+    },
+    {
+        "artist": "Herba Mate",
+        "album": "Boldie I & II",
+        "release_date": "2026-11-20",
+        "genre": "Psychedelic Stoner Metal, Folk Metal, Noise, Alternative Rock",
+        "genre_list": [
+            "Psychedelic Stoner Metal",
+            "Folk Metal",
+            "Noise",
+            "Alternative Rock"
+        ],
+        "type": "Full-length",
+        "added_on": "2026-11-27 09:51:28",
+        "url": "https://www.metal-archives.com/albums/Herba_Mate/Boldie_I_%26_II/1495468",
         "source": "MetalArchives"
     },
     {
@@ -11450,14 +13003,9 @@
         "artist": "Perihelion Ship",
         "album": "Sanguine Gaze",
         "release_date": "2026-11-18",
-        "genre": "Progressive Death Metal",
-        "genre_list": [
-            "Progressive Death Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-11-17 18:25:03",
-        "url": "https://www.metal-archives.com/albums/Perihelion_Ship/Sanguine_Gaze/1492170",
-        "source": "MetalArchives"
+        "genre": "Death Metal, Progressive Metal",
+        "url": "https://musicbrainz.org/release/ef08ee13-30e8-4b1b-9b34-a4d01403ee68",
+        "source": "MusicBrainz"
     },
     {
         "artist": "Freedom of Fear",
@@ -18589,14 +20137,9 @@
         "artist": "Genestealer",
         "album": "Reciprocating Malevolence",
         "release_date": "2026-11-11",
-        "genre": "Grindcore",
-        "genre_list": [
-            "Grindcore"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-11-11 05:31:28",
-        "url": "https://www.metal-archives.com/albums/Genestealer/Reciprocating_Malevolence/1490262",
-        "source": "MetalArchives"
+        "genre": "Death Metal",
+        "url": "https://musicbrainz.org/release/dcac31ac-b94b-462f-af2c-5bff4652c5c5",
+        "source": "MusicBrainz"
     },
     {
         "artist": "Mortal Dismay",
@@ -20529,7 +22072,7 @@
         "artist": "Cave Sermon",
         "album": "Deeply Personal Sounds",
         "release_date": "2026-11-07",
-        "genre": "Black Metal, Death Metal, Progressive Metal",
+        "genre": "Death Metal, Progressive Metal, Post-Metal",
         "url": "https://musicbrainz.org/release/417b8ffb-5538-4345-b67d-1b315f0a7ee4",
         "source": "MusicBrainz"
     },
@@ -21037,7 +22580,7 @@
         "artist": "I Helvete",
         "album": "Halla",
         "release_date": "2026-11-06",
-        "genre": "Black Metal, Death Metal, Melodic Death Metal",
+        "genre": "Death Metal, Melodic Death Metal",
         "url": "https://musicbrainz.org/release/a802f318-9901-4fae-9e70-55b4d80d42b1",
         "source": "MusicBrainz"
     },
@@ -22409,7 +23952,7 @@
         "artist": "Övervåld",
         "album": "I Förbund Med Omoralen",
         "release_date": "2026-11-06",
-        "genre": "Black Metal, Death Metal",
+        "genre": "Death Metal",
         "url": "https://musicbrainz.org/release/9aeb51b2-9681-4514-a9c1-d41048aae9b4",
         "source": "MusicBrainz"
     },
@@ -29123,7 +30666,7 @@
         "artist": "Haintgrove",
         "album": "Haintgrove",
         "release_date": "2026-10-31",
-        "genre": "Black Metal, Blackened Death Metal, Death Metal",
+        "genre": "Death Metal",
         "url": "https://musicbrainz.org/release/bea1707f-4705-48c4-9513-a6222d897131",
         "source": "MusicBrainz"
     },
@@ -30295,7 +31838,7 @@
         "artist": "Genital Shame",
         "album": "Wellness Plan",
         "release_date": "2026-10-30",
-        "genre": "Black Metal, Death Metal",
+        "genre": "Death Metal",
         "url": "https://musicbrainz.org/release/564bdf33-3097-4b75-be0e-c580da846175",
         "source": "MusicBrainz"
     },
@@ -30347,7 +31890,7 @@
         "artist": "Deathwards",
         "album": "Realms of Sin",
         "release_date": "2026-10-30",
-        "genre": "Black Metal, Death Metal, Thrash Metal",
+        "genre": "Death Metal, Thrash Metal",
         "url": "https://musicbrainz.org/release/41165e1c-5558-4909-8f89-86d20035ce96",
         "source": "MusicBrainz"
     },
@@ -30905,7 +32448,7 @@
         "artist": "MASTER BOOT RECORD",
         "album": "COMPUTER METAL",
         "release_date": "2026-10-30",
-        "genre": "Black Metal, Death Metal, Progressive Metal, Thrash Metal",
+        "genre": "Death Metal, Progressive Metal, Thrash Metal",
         "url": "https://musicbrainz.org/release/8f1f72ac-b774-422a-8efb-4530c4939519",
         "source": "MusicBrainz"
     },
@@ -33708,7 +35251,7 @@
         "artist": "Haul",
         "album": "Magna Kalahar",
         "release_date": "2026-10-29",
-        "genre": "Blackened Death Metal, Death Metal",
+        "genre": "Death Metal",
         "url": "https://musicbrainz.org/release/11ced9e5-8aed-47b7-8bca-cf100763f87d",
         "source": "MusicBrainz"
     },
@@ -34384,1216 +35927,6 @@
         "type": "Split",
         "added_on": "2026-11-02 10:38:33",
         "url": "https://www.metal-archives.com/albums/Frakturmentory/Frakturmentory_-_Desmorrhexis/1487463",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Sledeon",
-        "album": "Sovereign",
-        "release_date": "2026-10-28",
-        "genre": "Symphonic Metal",
-        "genre_list": [
-            "Symphonic Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-21 16:17:05",
-        "url": "https://www.metal-archives.com/albums/Sledeon/Sovereign/1483751",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Acidosis",
-        "album": "They Live!",
-        "release_date": "2026-10-28",
-        "genre": "Thrash Metal",
-        "genre_list": [
-            "Thrash Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-02-03 14:32:44",
-        "url": "https://www.metal-archives.com/albums/Acidosis/They_Live%21/1406744",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Soulers",
-        "album": "Ascension I",
-        "release_date": "2026-10-28",
-        "genre": "Drone Stoner Metal, Doom Stoner Metal, Stoner Metal",
-        "genre_list": [
-            "Drone Stoner Metal",
-            "Doom Stoner Metal",
-            "Stoner Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-07-31 00:03:52",
-        "url": "https://www.metal-archives.com/albums/Soulers/Ascension_I/1459591",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Valkyrie Zero",
-        "album": "Last Way Forward",
-        "release_date": "2026-10-28",
-        "genre": "Thrash Metal",
-        "genre_list": [
-            "Thrash Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-09-15 05:42:12",
-        "url": "https://www.metal-archives.com/albums/Valkyrie_Zero/Last_Way_Forward/1472378",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Backbone",
-        "album": "Ama Nesciri",
-        "release_date": "2026-10-28",
-        "genre": "Doom Post-Metal, Post-Metal",
-        "genre_list": [
-            "Doom Post-Metal",
-            "Post-Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-01 20:31:41",
-        "url": "https://www.metal-archives.com/albums/Backbone/Ama_Nesciri/1477928",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": ":Kælte:",
-        "album": "Im ewigen Frost",
-        "release_date": "2026-10-28",
-        "genre": "Atmospheric Black Metal, Dungeon Synth",
-        "genre_list": [
-            "Atmospheric Black Metal",
-            "Dungeon Synth"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-19 14:16:21",
-        "url": "https://www.metal-archives.com/albums/%3AK%C3%A6lte%3A/Im_ewigen_Frost/1483093",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Grey Sky Bleed",
-        "album": "Thoughts & Prayers",
-        "release_date": "2026-10-28",
-        "genre": "Melodic Heavy Metal",
-        "genre_list": [
-            "Melodic Heavy Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-21 14:36:39",
-        "url": "https://www.metal-archives.com/albums/Grey_Sky_Bleed/Thoughts_%26_Prayers/1483696",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Organectomy",
-        "album": "Retinal Scars",
-        "release_date": "2026-10-28",
-        "genre": "Slam Brutal Death Metal, Brutal Death Metal",
-        "genre_list": [
-            "Slam Brutal Death Metal",
-            "Brutal Death Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-27 20:16:17",
-        "url": "https://www.metal-archives.com/albums/Organectomy/Retinal_Scars/1485753",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Wyrd from Runa's Stream",
-        "album": "Compendium II: Reversing the Curse",
-        "release_date": "2026-10-28",
-        "genre": "Raw Pagan Black Metal, Ambient",
-        "genre_list": [
-            "Raw Pagan Black Metal, Ambient"
-        ],
-        "type": "Compilation",
-        "added_on": "2026-10-28 00:19:45",
-        "url": "https://www.metal-archives.com/albums/Wyrd_from_Runa%27s_Stream/Compendium_II%3A_Reversing_the_Curse/1485806",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Rytual",
-        "album": "Lithopedion's Calvary",
-        "release_date": "2026-10-28",
-        "genre": "Thrash Death Metal, Death Metal",
-        "genre_list": [
-            "Thrash Death Metal",
-            "Death Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-28 02:03:19",
-        "url": "https://www.metal-archives.com/albums/Rytual/Lithopedion%27s_Calvary/1485818",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Gaerea",
-        "album": "Shallow",
-        "release_date": "2026-10-28",
-        "genre": "Black Metal, Post-Black Alternative Metal, Alternative Metal",
-        "genre_list": [
-            "Black Metal",
-            "Post-Black Alternative Metal",
-            "Alternative Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 03:59:24",
-        "url": "https://www.metal-archives.com/albums/Gaerea/Shallow/1485837",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Mystic Prophecy",
-        "album": "Angels Are Falling",
-        "release_date": "2026-10-28",
-        "genre": "Power Thrash Metal, Speed Thrash Metal, Thrash Metal",
-        "genre_list": [
-            "Power Thrash Metal",
-            "Speed Thrash Metal",
-            "Thrash Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-28 04:11:57",
-        "url": "https://www.metal-archives.com/albums/Mystic_Prophecy/Angels_Are_Falling/1485841",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Black Saga",
-        "album": "Those Who Have Forgotten the Horror (The War)",
-        "release_date": "2026-10-28",
-        "genre": "Melodic Black Metal",
-        "genre_list": [
-            "Melodic Black Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 06:01:50",
-        "url": "https://www.metal-archives.com/albums/Black_Saga/Those_Who_Have_Forgotten_the_Horror_%28The_War%29/1485854",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Sculpting Atrocity",
-        "album": "A Throne Awaits Below",
-        "release_date": "2026-10-28",
-        "genre": "Brutal Death Metal",
-        "genre_list": [
-            "Brutal Death Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-28 06:28:14",
-        "url": "https://www.metal-archives.com/albums/Sculpting_Atrocity/A_Throne_Awaits_Below/1485859",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Aeronwen",
-        "album": "Perilous Dreams",
-        "release_date": "2026-10-28",
-        "genre": "Symphonic Progressive Metal",
-        "genre_list": [
-            "Symphonic Progressive Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 07:59:28",
-        "url": "https://www.metal-archives.com/albums/Aeronwen/Perilous_Dreams/1485875",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Master's Hammer",
-        "album": "Enviromental Grief",
-        "release_date": "2026-10-28",
-        "genre": "Black Metal, Experimental",
-        "genre_list": [
-            "Black Metal, Experimental"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-28 08:49:53",
-        "url": "https://www.metal-archives.com/albums/Master%27s_Hammer/Enviromental_Grief/1485880",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Eveale",
-        "album": "Livin' la Vida Loca",
-        "release_date": "2026-10-28",
-        "genre": "Black Metal",
-        "genre_list": [
-            "Black Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-28 10:13:47",
-        "url": "https://www.metal-archives.com/albums/Eveale/Livin%27_la_Vida_Loca/1485898",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Necrosectomy",
-        "album": "Live at the Roisin Dubh 27/10/26",
-        "release_date": "2026-10-28",
-        "genre": "Goregrind",
-        "genre_list": [
-            "Goregrind"
-        ],
-        "type": "Live album",
-        "added_on": "2026-10-28 10:19:09",
-        "url": "https://www.metal-archives.com/albums/Necrosectomy/Live_at_the_Roisin_Dubh_27-10-26/1485899",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Chrysolith",
-        "album": "Aporia",
-        "release_date": "2026-10-28",
-        "genre": "Thrash Death Metal, Death Metal",
-        "genre_list": [
-            "Thrash Death Metal",
-            "Death Metal"
-        ],
-        "type": "Demo",
-        "added_on": "2026-10-28 11:16:56",
-        "url": "https://www.metal-archives.com/albums/Chrysolith/Aporia/1485922",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Lethal Pursuer",
-        "album": "Lethal Pursuer",
-        "release_date": "2026-10-28",
-        "genre": "Brutal Death Metal",
-        "genre_list": [
-            "Brutal Death Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 12:17:47",
-        "url": "https://www.metal-archives.com/albums/Lethal_Pursuer/Lethal_Pursuer/1485928",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Phyllomedusa",
-        "album": "Yearning for the Gullet from Which I Came",
-        "release_date": "2026-10-28",
-        "genre": "Gorenoise, Various",
-        "genre_list": [
-            "Gorenoise, Various"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-28 13:13:17",
-        "url": "https://www.metal-archives.com/albums/Phyllomedusa/Yearning_for_the_Gullet_from_Which_I_Came/1485938",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Immersed in Darkness",
-        "album": "Black Forest Witch",
-        "release_date": "2026-10-28",
-        "genre": "Death Black Metal, Black Metal",
-        "genre_list": [
-            "Death Black Metal",
-            "Black Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-28 14:41:56",
-        "url": "https://www.metal-archives.com/albums/Immersed_in_Darkness/Black_Forest_Witch/1485957",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Kulturkampf",
-        "album": "Ride the Tiger",
-        "release_date": "2026-10-28",
-        "genre": "Raw Black Doom Metal, Doom Metal",
-        "genre_list": [
-            "Raw Black Doom Metal",
-            "Doom Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 16:06:19",
-        "url": "https://www.metal-archives.com/albums/Kulturkampf/Ride_the_Tiger/1485986",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Enchanted Forest",
-        "album": "A Passage to Unlight",
-        "release_date": "2026-10-28",
-        "genre": "Pagan Black Metal",
-        "genre_list": [
-            "Pagan Black Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-28 18:40:06",
-        "url": "https://www.metal-archives.com/albums/Enchanted_Forest/A_Passage_to_Unlight/1486012",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Dimend",
-        "album": "Cold Summer Depression",
-        "release_date": "2026-10-28",
-        "genre": "Death Black Metal, Black Metal, Melodic Death Metal",
-        "genre_list": [
-            "Death Black Metal",
-            "Black Metal",
-            "Melodic Death Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 20:01:46",
-        "url": "https://www.metal-archives.com/albums/Dimend/Cold_Summer_Depression/1486020",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Gog of Magog",
-        "album": "Spartoi Kthonos",
-        "release_date": "2026-10-28",
-        "genre": "Black Death Metal, Death Metal",
-        "genre_list": [
-            "Black Death Metal",
-            "Death Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 20:06:18",
-        "url": "https://www.metal-archives.com/albums/Gog_of_Magog/Spartoi_Kthonos/1486021",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Pure Darkness",
-        "album": "Mundo Morto",
-        "release_date": "2026-10-28",
-        "genre": "Black Metal",
-        "genre_list": [
-            "Black Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 20:08:40",
-        "url": "https://www.metal-archives.com/albums/Pure_Darkness/Mundo_Morto/1486022",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Gardens of Hell",
-        "album": "Shadows of the Old Faith",
-        "release_date": "2026-10-28",
-        "genre": "Death Metal",
-        "genre_list": [
-            "Death Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 20:12:25",
-        "url": "https://www.metal-archives.com/albums/Gardens_of_Hell/Shadows_of_the_Old_Faith/1486023",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Wolfsangel",
-        "album": "Solstice",
-        "release_date": "2026-10-28",
-        "genre": "Black Metal",
-        "genre_list": [
-            "Black Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 20:15:44",
-        "url": "https://www.metal-archives.com/albums/Wolfsangel/Solstice/1486025",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Сатано",
-        "album": "In the Dark Realm",
-        "release_date": "2026-10-28",
-        "genre": "Symphonic Black Metal",
-        "genre_list": [
-            "Symphonic Black Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-28 20:28:00",
-        "url": "https://www.metal-archives.com/albums/%D0%A1%D0%B0%D1%82%D0%B0%D0%BD%D0%BE/In_the_Dark_Realm/1486028",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Hatenoir",
-        "album": "Blood",
-        "release_date": "2026-10-28",
-        "genre": "Raw Black Metal",
-        "genre_list": [
-            "Raw Black Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-28 20:32:13",
-        "url": "https://www.metal-archives.com/albums/Hatenoir/Blood/1486030",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Moonwire",
-        "album": "Pumpking Hood",
-        "release_date": "2026-10-28",
-        "genre": "Doom Rock, Stoner Metal, Rock",
-        "genre_list": [
-            "Doom Rock",
-            "Stoner Metal",
-            "Rock"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-28 20:39:06",
-        "url": "https://www.metal-archives.com/albums/Moonwire/Pumpking_Hood/1486034",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Impermanent",
-        "album": "Foul Emission of a Decaying World",
-        "release_date": "2026-10-28",
-        "genre": "Slam Hardcore, Brutal Death Metal, Hardcore",
-        "genre_list": [
-            "Slam Hardcore",
-            "Brutal Death Metal",
-            "Hardcore"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 20:48:31",
-        "url": "https://www.metal-archives.com/albums/Impermanent/Foul_Emission_of_a_Decaying_World/1486040",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Hellake",
-        "album": "Aegritudo Perniciosa Sterquilinae",
-        "release_date": "2026-10-28",
-        "genre": "Death Metal",
-        "genre_list": [
-            "Death Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-28 20:57:59",
-        "url": "https://www.metal-archives.com/albums/Hellake/Aegritudo_Perniciosa_Sterquilinae/1486043",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Apocalyptic Remnants",
-        "album": "The Saw Is the Law",
-        "release_date": "2026-10-28",
-        "genre": "Death Thrash Metal, Thrash Metal",
-        "genre_list": [
-            "Death Thrash Metal",
-            "Thrash Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-28 21:00:06",
-        "url": "https://www.metal-archives.com/albums/Apocalyptic_Remnants/The_Saw_Is_the_Law/1486044",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Phyllomedusa",
-        "album": "Fijian Moondriez (D L C)",
-        "release_date": "2026-10-28",
-        "genre": "Gorenoise, Various",
-        "genre_list": [
-            "Gorenoise, Various"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-28 21:33:32",
-        "url": "https://www.metal-archives.com/albums/Phyllomedusa/Fijian_Moondriez_%28D_L_C%29/1486049",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Funeraria",
-        "album": "Live from the coffin",
-        "release_date": "2026-10-28",
-        "genre": "Depressive Black Metal",
-        "genre_list": [
-            "Depressive Black Metal"
-        ],
-        "type": "Live album",
-        "added_on": "2026-10-28 22:14:44",
-        "url": "https://www.metal-archives.com/albums/Funeraria/Live_from_the_coffin/1486052",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Arterial Wound",
-        "album": "Arterial Wound",
-        "release_date": "2026-10-28",
-        "genre": "Black Sludge Metal, Sludge Metal",
-        "genre_list": [
-            "Black Sludge Metal",
-            "Sludge Metal"
-        ],
-        "type": "Demo",
-        "added_on": "2026-10-29 01:11:40",
-        "url": "https://www.metal-archives.com/albums/Arterial_Wound/Arterial_Wound/1486063",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Forest Horse",
-        "album": "Botany",
-        "release_date": "2026-10-28",
-        "genre": "Psychedelic Doom Stoner Metal, Stoner Metal",
-        "genre_list": [
-            "Psychedelic Doom Stoner Metal",
-            "Stoner Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-29 02:21:17",
-        "url": "https://www.metal-archives.com/albums/Forest_Horse/Botany/1486072",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Gornographic",
-        "album": "Freshly Squeezed Giblet Juice",
-        "release_date": "2026-10-28",
-        "genre": "Goregrind",
-        "genre_list": [
-            "Goregrind"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-29 05:23:17",
-        "url": "https://www.metal-archives.com/albums/Gornographic/Freshly_Squeezed_Giblet_Juice/1486106",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Nemiga Massacre",
-        "album": "Retribution",
-        "release_date": "2026-10-28",
-        "genre": "Raw Black Metal",
-        "genre_list": [
-            "Raw Black Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-29 05:29:40",
-        "url": "https://www.metal-archives.com/albums/Nemiga_Massacre/Retribution/1486108",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "I Ate Everybody",
-        "album": "Farewell to the Flesh",
-        "release_date": "2026-10-28",
-        "genre": "Brutal Deathcore",
-        "genre_list": [
-            "Brutal Deathcore"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-29 21:32:19",
-        "url": "https://www.metal-archives.com/albums/I_Ate_Everybody/Farewell_to_the_Flesh/1486285",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Cadothus",
-        "album": "Age of Empathy",
-        "release_date": "2026-10-28",
-        "genre": "Progressive Power Metal, Power Metal",
-        "genre_list": [
-            "Progressive Power Metal",
-            "Power Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-30 07:24:25",
-        "url": "https://www.metal-archives.com/albums/Cadothus/Age_of_Empathy/1486404",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Złocień",
-        "album": "W bezkresie straty",
-        "release_date": "2026-10-28",
-        "genre": "Atmospheric Black Post-Metal, Post-Metal",
-        "genre_list": [
-            "Atmospheric Black Post-Metal",
-            "Post-Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-30 10:23:07",
-        "url": "https://www.metal-archives.com/albums/Z%C5%82ocie%C5%84/W_bezkresie_straty/1486477",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Other Maunder Plan",
-        "album": "The Occurrence",
-        "release_date": "2026-10-28",
-        "genre": "Doom Metal",
-        "genre_list": [
-            "Doom Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-31 11:35:21",
-        "url": "https://www.metal-archives.com/albums/Other_Maunder_Plan/The_Occurrence/1486824",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Sanguine Starspiral",
-        "album": "Charnel Ground Meditation",
-        "release_date": "2026-10-28",
-        "genre": "Sludge Post-Hardcore, Death Metal, Post-Hardcore",
-        "genre_list": [
-            "Sludge Post-Hardcore",
-            "Death Metal",
-            "Post-Hardcore"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-29 01:06:00",
-        "url": "https://www.metal-archives.com/albums/Sanguine_Starspiral/Charnel_Ground_Meditation/1486061",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Het Einde der Tijden",
-        "album": "Onschuldig Bloed",
-        "release_date": "2026-10-28",
-        "genre": "Experimental Black Metal, Techno",
-        "genre_list": [
-            "Experimental Black Metal",
-            "Techno"
-        ],
-        "type": "Single",
-        "added_on": "2026-11-02 02:12:06",
-        "url": "https://www.metal-archives.com/albums/Het_Einde_der_Tijden/Onschuldig_Bloed/1487358",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "虎落ブエ",
-        "album": "Brimstone",
-        "release_date": "2026-10-28",
-        "genre": "Metalcore Melodic Death Metal, Melodic Death Metal",
-        "genre_list": [
-            "Metalcore Melodic Death Metal",
-            "Melodic Death Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-11-02 19:50:58",
-        "url": "https://www.metal-archives.com/albums/%E8%99%8E%E8%90%BD%E3%83%96%E3%82%A8/Brimstone/1487610",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Conspiracy Beneath",
-        "album": "The Revelation",
-        "release_date": "2026-10-28",
-        "genre": "Heavy Thrash Metal, Thrash Metal",
-        "genre_list": [
-            "Heavy Thrash Metal",
-            "Thrash Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-11-04 01:51:45",
-        "url": "https://www.metal-archives.com/albums/Conspiracy_Beneath/The_Revelation/1488046",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Vermianaevus",
-        "album": "Vermianaevus",
-        "release_date": "2026-10-27",
-        "genre": "Death Black Metal, Black Metal",
-        "genre_list": [
-            "Death Black Metal",
-            "Black Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-09-30 08:36:08",
-        "url": "https://www.metal-archives.com/albums/Vermianaevus/Vermianaevus/1477462",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Bolt Thrower",
-        "album": "Overtures of War",
-        "release_date": "2026-10-27",
-        "genre": "Death Metal",
-        "genre_list": [
-            "Death Metal"
-        ],
-        "type": "Boxed set",
-        "added_on": "2026-03-28 22:45:43",
-        "url": "https://www.metal-archives.com/albums/Bolt_Thrower/Overtures_of_War/1423676",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Dethrashed",
-        "album": "The Weight of the Vortex",
-        "release_date": "2026-10-27",
-        "genre": "Thrash Death Metal, Death Metal",
-        "genre_list": [
-            "Thrash Death Metal",
-            "Death Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-02 14:51:16",
-        "url": "https://www.metal-archives.com/albums/Dethrashed/The_Weight_of_the_Vortex/1478277",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Reino de Hades",
-        "album": "El faro del tiempo",
-        "release_date": "2026-10-27",
-        "genre": "Melodic Heavy Metal",
-        "genre_list": [
-            "Melodic Heavy Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-23 22:29:34",
-        "url": "https://www.metal-archives.com/albums/Reino_de_Hades/El_faro_del_tiempo/1484481",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Throne of Selene",
-        "album": "Beneath the Dying Sun",
-        "release_date": "2026-10-27",
-        "genre": "Melodic Black Death Metal, Death Metal",
-        "genre_list": [
-            "Melodic Black Death Metal",
-            "Death Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-26 11:47:40",
-        "url": "https://www.metal-archives.com/albums/Throne_of_Selene/Beneath_the_Dying_Sun/1485351",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Voyager",
-        "album": "Secret",
-        "release_date": "2026-10-27",
-        "genre": "Melodic Progressive Metal",
-        "genre_list": [
-            "Melodic Progressive Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-26 21:23:03",
-        "url": "https://www.metal-archives.com/albums/Voyager/Secret/1485488",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Without Dreams",
-        "album": "Обнаженная вечность",
-        "release_date": "2026-10-27",
-        "genre": "Atmospheric Black Funeral Doom Metal, Funeral Doom Metal",
-        "genre_list": [
-            "Atmospheric Black Funeral Doom Metal",
-            "Funeral Doom Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-26 23:59:15",
-        "url": "https://www.metal-archives.com/albums/Without_Dreams/%D0%9E%D0%B1%D0%BD%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C/1485551",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Bat",
-        "album": "Live like an Angel (Die like a Devil)",
-        "release_date": "2026-10-27",
-        "genre": "Heavy Speed Metal, Speed Metal",
-        "genre_list": [
-            "Heavy Speed Metal",
-            "Speed Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-27 07:23:39",
-        "url": "https://www.metal-archives.com/albums/Bat/Live_like_an_Angel_%28Die_like_a_Devil%29/1485617",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Machukha",
-        "album": "Severing",
-        "release_date": "2026-10-27",
-        "genre": "Post-Black Metal",
-        "genre_list": [
-            "Post-Black Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-27 08:24:43",
-        "url": "https://www.metal-archives.com/albums/Machukha/Severing/1485623",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Antiapateonistis",
-        "album": "K.M.S.H (M.Y.A.G. FAHHHHHH)",
-        "release_date": "2026-10-27",
-        "genre": "Heavy Metal",
-        "genre_list": [
-            "Heavy Metal"
-        ],
-        "type": "Demo",
-        "added_on": "2026-10-27 08:57:30",
-        "url": "https://www.metal-archives.com/albums/Antiapateonistis/K.M.S.H_%28M.Y.A.G._FAHHHHHH%29/1485628",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Saxon",
-        "album": "Medusa",
-        "release_date": "2026-10-27",
-        "genre": "NWOBHM, Heavy Metal",
-        "genre_list": [
-            "NWOBHM, Heavy Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-27 09:20:31",
-        "url": "https://www.metal-archives.com/albums/Saxon/Medusa/1485630",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "CelticHammer",
-        "album": "A Miña Terra...",
-        "release_date": "2026-10-27",
-        "genre": "Raw Black Metal",
-        "genre_list": [
-            "Raw Black Metal"
-        ],
-        "type": "Demo",
-        "added_on": "2026-10-27 14:55:02",
-        "url": "https://www.metal-archives.com/albums/CelticHammer/A_Mi%C3%B1a_Terra.../1485695",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Suicidal Years",
-        "album": "Memento Mori",
-        "release_date": "2026-10-27",
-        "genre": "Depressive Black Metal",
-        "genre_list": [
-            "Depressive Black Metal"
-        ],
-        "type": "Compilation",
-        "added_on": "2026-10-27 16:32:47",
-        "url": "https://www.metal-archives.com/albums/Suicidal_Years/Memento_Mori/1485705",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Owl",
-        "album": "After You Are Gone",
-        "release_date": "2026-10-27",
-        "genre": "Death Ambient, Doom Metal, Ambient",
-        "genre_list": [
-            "Death Ambient",
-            "Doom Metal",
-            "Ambient"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-27 17:18:37",
-        "url": "https://www.metal-archives.com/albums/Owl/After_You_Are_Gone/1485708",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Toxic Intent",
-        "album": "Looking Forward...",
-        "release_date": "2026-10-27",
-        "genre": "Crossover Thrash Metal, Thrash Metal",
-        "genre_list": [
-            "Crossover Thrash Metal",
-            "Thrash Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-27 17:25:05",
-        "url": "https://www.metal-archives.com/albums/Toxic_Intent/Looking_Forward.../1485711",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Walakh",
-        "album": "A New Chapter (Demo)",
-        "release_date": "2026-10-27",
-        "genre": "Atmospheric Ambient, Depressive Black Metal, Ambient",
-        "genre_list": [
-            "Atmospheric Ambient",
-            "Depressive Black Metal",
-            "Ambient"
-        ],
-        "type": "Demo",
-        "added_on": "2026-10-27 18:26:46",
-        "url": "https://www.metal-archives.com/albums/Walakh/A_New_Chapter_%28Demo%29/1485720",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Nanking",
-        "album": "Strips of Viscera Torn from Hooks (Chains Pulling Flesh Off Bone)",
-        "release_date": "2026-10-27",
-        "genre": "Raw Black Death Metal, Death Metal",
-        "genre_list": [
-            "Raw Black Death Metal",
-            "Death Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-27 19:01:38",
-        "url": "https://www.metal-archives.com/albums/Nanking/Strips_of_Viscera_Torn_from_Hooks_%28Chains_Pulling_Flesh_Off_Bone%29/1485727",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Bestial",
-        "album": "Cosmic Holocaust",
-        "release_date": "2026-10-27",
-        "genre": "Black Death Metal, Death Metal",
-        "genre_list": [
-            "Black Death Metal",
-            "Death Metal"
-        ],
-        "type": "Demo",
-        "added_on": "2026-10-27 19:24:02",
-        "url": "https://www.metal-archives.com/albums/Bestial/Cosmic_Holocaust/1485733",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Dethelm",
-        "album": "Realm of Violence",
-        "release_date": "2026-10-27",
-        "genre": "Blackened Death Metal",
-        "genre_list": [
-            "Blackened Death Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-27 19:39:41",
-        "url": "https://www.metal-archives.com/albums/Dethelm/Realm_of_Violence/1485734",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Dread Wound",
-        "album": "No Tears in Heaven",
-        "release_date": "2026-10-27",
-        "genre": "Depressive Black Metal",
-        "genre_list": [
-            "Depressive Black Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-27 19:50:46",
-        "url": "https://www.metal-archives.com/albums/Dread_Wound/No_Tears_in_Heaven/1485738",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "The Lust",
-        "album": "No I Can't",
-        "release_date": "2026-10-27",
-        "genre": "Gothic Metal",
-        "genre_list": [
-            "Gothic Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-27 19:58:18",
-        "url": "https://www.metal-archives.com/albums/The_Lust/No_I_Can%27t/1485742",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Spiritual Deception",
-        "album": "The Void Below",
-        "release_date": "2026-10-27",
-        "genre": "Technical Brutal Death Metal, Brutal Death Metal",
-        "genre_list": [
-            "Technical Brutal Death Metal",
-            "Brutal Death Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-27 20:11:23",
-        "url": "https://www.metal-archives.com/albums/Spiritual_Deception/The_Void_Below/1485749",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Devilgoat",
-        "album": "May the Terror Save, Enslave, Destroy and Create",
-        "release_date": "2026-10-27",
-        "genre": "Raw Black Metal, Punk",
-        "genre_list": [
-            "Raw Black Metal",
-            "Punk"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-27 20:12:55",
-        "url": "https://www.metal-archives.com/albums/Devilgoat/May_the_Terror_Save%2C_Enslave%2C_Destroy_and_Create/1485751",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Yperit",
-        "album": "Hameln Havoc",
-        "release_date": "2026-10-27",
-        "genre": "Death Metal",
-        "genre_list": [
-            "Death Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-27 20:20:55",
-        "url": "https://www.metal-archives.com/albums/Yperit/Hameln_Havoc/1485755",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Phyllomedusa",
-        "album": "ScreenRecording_4",
-        "release_date": "2026-10-27",
-        "genre": "Gorenoise, Various",
-        "genre_list": [
-            "Gorenoise, Various"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-27 21:53:33",
-        "url": "https://www.metal-archives.com/albums/Phyllomedusa/ScreenRecording_4/1485784",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Wyrd from Runa's Stream",
-        "album": "Compendium I: Tapping the Tree",
-        "release_date": "2026-10-27",
-        "genre": "Raw Pagan Black Metal, Ambient",
-        "genre_list": [
-            "Raw Pagan Black Metal, Ambient"
-        ],
-        "type": "Compilation",
-        "added_on": "2026-10-28 00:12:59",
-        "url": "https://www.metal-archives.com/albums/Wyrd_from_Runa%27s_Stream/Compendium_I%3A_Tapping_the_Tree/1485804",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Cavernous Maw",
-        "album": "Ancestral Lands Beyond the Antarctic Ice Wall",
-        "release_date": "2026-10-27",
-        "genre": "Death Metal",
-        "genre_list": [
-            "Death Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 04:34:56",
-        "url": "https://www.metal-archives.com/albums/Cavernous_Maw/Ancestral_Lands_Beyond_the_Antarctic_Ice_Wall/1485847",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Dracoplasm",
-        "album": "Geist Demise",
-        "release_date": "2026-10-27",
-        "genre": "Black Death Metal, Death Metal",
-        "genre_list": [
-            "Black Death Metal",
-            "Death Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 05:53:55",
-        "url": "https://www.metal-archives.com/albums/Dracoplasm/Geist_Demise/1485850",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Reapers Wrath",
-        "album": "My Everlasting Suffering",
-        "release_date": "2026-10-27",
-        "genre": "Black Metal",
-        "genre_list": [
-            "Black Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-28 06:03:26",
-        "url": "https://www.metal-archives.com/albums/Reapers_Wrath/My_Everlasting_Suffering/1485855",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Forever Stuck on This Nightmare They Called Planet Earth",
-        "album": "Let Us Give Thanks for Blood",
-        "release_date": "2026-10-27",
-        "genre": "Avant-garde Progressive Death Metal, Various, Progressive Death Metal, Various",
-        "genre_list": [
-            "Avant-garde Progressive Death Metal, Various",
-            "Progressive Death Metal, Various"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 06:05:46",
-        "url": "https://www.metal-archives.com/albums/Forever_Stuck_on_This_Nightmare_They_Called_Planet_Earth/Let_Us_Give_Thanks_for_Blood/1485856",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Up 'U'ulul Itzamna",
-        "album": "La evolucion de una nueva raza",
-        "release_date": "2026-10-27",
-        "genre": "Black Metal",
-        "genre_list": [
-            "Black Metal"
-        ],
-        "type": "Demo",
-        "added_on": "2026-10-28 06:40:22",
-        "url": "https://www.metal-archives.com/albums/Up_%27U%27ulul_Itzamna/La_evolucion_de_una_nueva_raza/1485861",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Superlost",
-        "album": "Alter Vultus",
-        "release_date": "2026-10-27",
-        "genre": "Progressive Metal",
-        "genre_list": [
-            "Progressive Metal"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-28 06:43:00",
-        "url": "https://www.metal-archives.com/albums/Superlost/Alter_Vultus/1485864",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Neuronal Autolysis",
-        "album": "Necroputrefactive Desecration",
-        "release_date": "2026-10-27",
-        "genre": "Goregrind",
-        "genre_list": [
-            "Goregrind"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 06:43:56",
-        "url": "https://www.metal-archives.com/albums/Neuronal_Autolysis/Necroputrefactive_Desecration/1485865",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Defiant Body",
-        "album": "Pavement",
-        "release_date": "2026-10-27",
-        "genre": "Sludge Doom Metal, Doom Metal",
-        "genre_list": [
-            "Sludge Doom Metal",
-            "Doom Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 06:51:04",
-        "url": "https://www.metal-archives.com/albums/Defiant_Body/Pavement/1485867",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Skeletomb",
-        "album": "Hymns from the Dead Oasis",
-        "release_date": "2026-10-27",
-        "genre": "Doom Groove Metal, Groove Metal",
-        "genre_list": [
-            "Doom Groove Metal",
-            "Groove Metal"
-        ],
-        "type": "EP",
-        "added_on": "2026-10-28 07:02:52",
-        "url": "https://www.metal-archives.com/albums/Skeletomb/Hymns_from_the_Dead_Oasis/1485869",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "The Great Kat",
-        "album": "Der Leiermann Schubert's Winterreise",
-        "release_date": "2026-10-27",
-        "genre": "Speed Thrash Metal, Shred, Thrash Metal, Shred",
-        "genre_list": [
-            "Speed Thrash Metal, Shred",
-            "Thrash Metal, Shred"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-28 13:02:37",
-        "url": "https://www.metal-archives.com/albums/The_Great_Kat/Der_Leiermann_Schubert%27s_Winterreise/1485932",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "The Great Kat",
-        "album": "Flamenco Tango Fandango",
-        "release_date": "2026-10-27",
-        "genre": "Speed Thrash Metal, Shred, Thrash Metal, Shred",
-        "genre_list": [
-            "Speed Thrash Metal, Shred",
-            "Thrash Metal, Shred"
-        ],
-        "type": "Single",
-        "added_on": "2026-10-28 13:02:41",
-        "url": "https://www.metal-archives.com/albums/The_Great_Kat/Flamenco_Tango_Fandango/1485933",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Cryptic Aspergillosis",
-        "album": "Demo 2026",
-        "release_date": "2026-10-27",
-        "genre": "Brutal Death Metal",
-        "genre_list": [
-            "Brutal Death Metal"
-        ],
-        "type": "Demo",
-        "added_on": "2026-10-29 12:21:25",
-        "url": "https://www.metal-archives.com/albums/Cryptic_Aspergillosis/Demo_2026/1486172",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Erythrite Throne",
-        "album": "Enchanted Pyres of the Blackened Realm",
-        "release_date": "2026-10-27",
-        "genre": "Black Dungeon Synth, Doom Metal, Dungeon Synth",
-        "genre_list": [
-            "Black Dungeon Synth",
-            "Doom Metal",
-            "Dungeon Synth"
-        ],
-        "type": "Split",
-        "added_on": "2026-10-29 14:35:58",
-        "url": "https://www.metal-archives.com/albums/Erythrite_Throne/Enchanted_Pyres_of_the_Blackened_Realm/1486202",
-        "source": "MetalArchives"
-    },
-    {
-        "artist": "Savage Act",
-        "album": "The Black Abomination of Caverns",
-        "release_date": "2026-10-27",
-        "genre": "Black Death Metal, Death Metal",
-        "genre_list": [
-            "Black Death Metal",
-            "Death Metal"
-        ],
-        "type": "Full-length",
-        "added_on": "2026-10-30 16:55:43",
-        "url": "https://www.metal-archives.com/albums/Savage_Act/The_Black_Abomination_of_Caverns/1486567",
         "source": "MetalArchives"
     }
 ]

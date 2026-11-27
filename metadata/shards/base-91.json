@@ -4788,6 +4788,15 @@
           "Melodic Death Metal",
           "Folk Metal"
         ]
+      },
+      {
+        "name": "Dawnbringer",
+        "year": "2026",
+        "genres": [
+          "Melodic Black Metal",
+          "Death Metal",
+          "Folk Metal"
+        ]
       }
     ],
     "tags": [
@@ -4796,7 +4805,8 @@
       "Acoustic Folk",
       "Death Metal",
       "Viking Metal",
-      "Black Metal"
+      "Black Metal",
+      "Melodic Black Metal"
     ]
   },
   {

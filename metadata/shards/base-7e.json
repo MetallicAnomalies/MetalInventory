@@ -3619,11 +3619,32 @@
           "Progressive Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "THE BLACKENED BLOOM",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Groove Metal",
+          "Stoner Metal"
+        ]
+      },
+      {
+        "name": "NO MORE LIGHT",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Groove Metal",
+          "Stoner Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Power Metal"
+      "Power Metal",
+      "Doom",
+      "Groove Metal",
+      "Stoner Metal"
     ]
   },
   {

@@ -80,6 +80,22 @@
     "tags": []
   },
   {
+    "normalizedName": "ancientage",
+    "displayName": "Ancient Age",
+    "albums": [
+      {
+        "name": "A Eternidade",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "antiflesh",
     "displayName": "Anti-flesh",
     "albums": [
@@ -306,6 +322,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "avgrum",
+    "displayName": "Avgrum",
+    "albums": [
+      {
+        "name": "Womb of Death",
+        "year": "2027",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
+    ]
   },
   {
     "normalizedName": "avikaplan",
@@ -1131,6 +1163,22 @@
     ]
   },
   {
+    "normalizedName": "corpsecrator",
+    "displayName": "Corpsecrator",
+    "albums": [
+      {
+        "name": "Dehumanization Construction Line",
+        "year": "2026",
+        "genres": [
+          "Technical Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Technical Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "crossfirebel",
     "displayName": "Crossfire (Bel)",
     "albums": [
@@ -1874,7 +1922,8 @@
       },
       {
         "name": "Annochiül Xar Sorthïlazur",
-        "year": "2026","genres": [
+        "year": "2026",
+        "genres": [
           "Avant-garde Black Death Metal",
           "Death Metal"
         ]
@@ -2358,6 +2407,26 @@
       "Blues",
       "Rock",
       "Modern Electric Blues"
+    ]
+  },
+  {
+    "normalizedName": "konserwatorzabytkow",
+    "displayName": "Konserwator Zabytków",
+    "albums": [
+      {
+        "name": "Żegnam ciszę...",
+        "year": "2026",
+        "genres": [
+          "Sludge Metal",
+          "Thrash Metal",
+          "Crossover"
+        ]
+      }
+    ],
+    "tags": [
+      "Sludge Metal",
+      "Thrash Metal",
+      "Crossover"
     ]
   },
   {
@@ -4437,12 +4506,18 @@
           "Progressive Metal",
           "Power Metal"
         ]
+      },
+      {
+        "name": "The Faceless",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Power Metal"
+        ]
       }
     ],
     "tags": [
       "Progressive Metal",
-      "Symphonic Power Metal",
-      "Power Metal",
       "Symphonic Power Metal",
       "Power Metal"
     ]
@@ -4941,5 +5016,21 @@
       "Power Metal"
     ],
     "origin": "RU"
+  },
+  {
+    "normalizedName": "兀突骨",
+    "displayName": "兀突骨",
+    "albums": [
+      {
+        "name": "Live at WildSide Tokyo",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
   }
 ]

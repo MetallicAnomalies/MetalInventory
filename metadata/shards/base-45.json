@@ -607,6 +607,24 @@
     ]
   },
   {
+    "normalizedName": "boot",
+    "displayName": "Boot",
+    "albums": [
+      {
+        "name": "Bleed Your Heart Out",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Heavy Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal",
+      "Heavy Metal"
+    ]
+  },
+  {
     "normalizedName": "bruleurdusoir",
     "displayName": "Brûleur du Soir",
     "albums": [
@@ -4683,6 +4701,22 @@
     ],
     "tags": [
       "Sludge Metal"
+    ]
+  },
+  {
+    "normalizedName": "trollmoon",
+    "displayName": "Trollmoon",
+    "albums": [
+      {
+        "name": "Drinking the Dripping Ichor of the Trollmoon's Dooming Dusk",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {

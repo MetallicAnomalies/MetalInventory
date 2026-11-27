@@ -781,6 +781,22 @@
     "tags": []
   },
   {
+    "normalizedName": "deathwarden",
+    "displayName": "Death Warden",
+    "albums": [
+      {
+        "name": "Slave to the Algorithm",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Death Metal"
+    ]
+  },
+  {
     "normalizedName": "deifecation",
     "displayName": "Deifecation",
     "albums": [
@@ -3947,10 +3963,16 @@
       {
         "name": "Void Artefakkts",
         "year": "2026",
-        "genres": []
+        "genres": [
+          "Black Metal",
+          "Doom Metal"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Black Metal",
+      "Doom Metal"
+    ]
   },
   {
     "normalizedName": "thebodycelgenesis",

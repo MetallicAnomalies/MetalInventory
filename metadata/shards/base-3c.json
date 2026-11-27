@@ -2619,6 +2619,24 @@
     ]
   },
   {
+    "normalizedName": "koagulerade",
+    "displayName": "Koagulerade",
+    "albums": [
+      {
+        "name": "Narbentage",
+        "year": "2026",
+        "genres": [
+          "Raw Metal",
+          "Depressive Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Metal",
+      "Depressive Black Metal"
+    ]
+  },
+  {
     "normalizedName": "kysholic",
     "displayName": "Kysholic",
     "albums": [
@@ -4690,6 +4708,24 @@
     ],
     "tags": [
       "Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "spitforthemasses",
+    "displayName": "Spit for the Masses",
+    "albums": [
+      {
+        "name": "Mind-Body-Disconnect",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Hardcore"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Hardcore"
     ]
   },
   {

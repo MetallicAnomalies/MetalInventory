@@ -563,6 +563,24 @@
     ]
   },
   {
+    "normalizedName": "carnabychrist",
+    "displayName": "Carnaby Christ",
+    "albums": [
+      {
+        "name": "Dogboy",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Doom",
+      "Black Metal"
+    ]
+  },
+  {
     "normalizedName": "christopherlee",
     "displayName": "Christopher Lee",
     "albums": [
@@ -4186,6 +4204,13 @@
       {
         "name": "The Smog Of Tomorrow",
         "year": "2019",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      },
+      {
+        "name": "Night Will Bury",
+        "year": "2026",
         "genres": [
           "Symphonic Metal"
         ]

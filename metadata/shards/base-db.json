@@ -3794,6 +3794,26 @@
     ]
   },
   {
+    "normalizedName": "newdevilry",
+    "displayName": "New Devilry",
+    "albums": [
+      {
+        "name": "The Owl Cult",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Heavy Metal",
+      "Hard Rock"
+    ]
+  },
+  {
     "normalizedName": "nocturnalhollow",
     "displayName": "Nocturnal Hollow",
     "origin": "VE",
@@ -4157,6 +4177,22 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "paulateles",
+    "displayName": "Paula Teles",
+    "albums": [
+      {
+        "name": "Mátria",
+        "year": "2026",
+        "genres": [
+          "Symphonic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Metal"
     ]
   },
   {

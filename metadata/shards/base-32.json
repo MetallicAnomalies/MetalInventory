@@ -2484,6 +2484,20 @@
         "genres": [
           "Depressive Black Metal"
         ]
+      },
+      {
+        "name": "Life Is Bleak...",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
+      },
+      {
+        "name": "I Hate Myself / Bloodlet Devotion",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -3315,6 +3329,22 @@
     ]
   },
   {
+    "normalizedName": "maldoror",
+    "displayName": "Maldoror",
+    "albums": [
+      {
+        "name": "Chantacruel",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
+    ]
+  },
+  {
     "normalizedName": "mantas",
     "displayName": "Mantas",
     "origin": "US",
@@ -3928,7 +3958,8 @@
       },
       {
         "name": "The Greatest 30 Years On Earth",
-        "year": "2026","genres": [
+        "year": "2026",
+        "genres": [
           "Symphonic Power Metal",
           "Symphonic Metal"
         ]
@@ -3940,6 +3971,14 @@
           "Symphonic Metal",
           "Power Metal",
           "Gothic Metal"
+        ]
+      },
+      {
+        "name": "30 Years of Symphonic Metal",
+        "year": "2026",
+        "genres": [
+          "Symphonic Power Metal",
+          "Symphonic Metal"
         ]
       }
     ],
@@ -5871,7 +5910,8 @@
       },
       {
         "name": "Mac Tire – Son Of The Land",
-        "year": "2026","genres": [
+        "year": "2026",
+        "genres": [
           "Celtic Folk Metal"
         ]
       }

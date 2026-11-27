@@ -2784,6 +2784,22 @@
     ]
   },
   {
+    "normalizedName": "mortemare",
+    "displayName": "Mortemare",
+    "albums": [
+      {
+        "name": "To Heal The Lost",
+        "year": "2026",
+        "genres": [
+          "Symphonic Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Symphonic Black Metal"
+    ]
+  },
+  {
     "normalizedName": "mothership",
     "displayName": "Mothership",
     "origin": "US",
@@ -3333,6 +3349,13 @@
       },
       {
         "name": "Alignement Désastre",
+        "year": "2026",
+        "genres": [
+          "Avant-garde Black Metal"
+        ]
+      },
+      {
+        "name": "Tremble Carcasse !",
         "year": "2026",
         "genres": [
           "Avant-garde Black Metal"

@@ -614,6 +614,24 @@
     "tags": []
   },
   {
+    "normalizedName": "balefulrot",
+    "displayName": "Baleful Rot",
+    "albums": [
+      {
+        "name": "Naturally Compulsed to Dismember Worthless Rapist Scum",
+        "year": "2026",
+        "genres": [
+          "Slam Metal",
+          "Brutal Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Slam Metal",
+      "Brutal Death Metal"
+    ]
+  },
+  {
     "normalizedName": "bestiapol",
     "displayName": "Bestia (Pol)",
     "albums": [
@@ -682,6 +700,22 @@
     "tags": [
       "Heavy Metal",
       "Hard Rock"
+    ]
+  },
+  {
+    "normalizedName": "bolgar",
+    "displayName": "Bolgar",
+    "albums": [
+      {
+        "name": "The Putrefaction Of The Soul",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal"
     ]
   },
   {

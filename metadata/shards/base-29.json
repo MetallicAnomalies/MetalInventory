@@ -4150,6 +4150,13 @@
         "genres": [
           "Death Metal"
         ]
+      },
+      {
+        "name": "Sanguine Tribute to the Sixth Sphere",
+        "year": "2026",
+        "genres": [
+          "Death Metal"
+        ]
       }
     ],
     "tags": [
@@ -4380,6 +4387,24 @@
     ],
     "tags": [
       "Progressive Metal"
+    ]
+  },
+  {
+    "normalizedName": "sombretour",
+    "displayName": "Sombretour",
+    "albums": [
+      {
+        "name": "Lake of Lost Magic",
+        "year": "2026",
+        "genres": [
+          "Melodic Doom Metal",
+          "Death Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Doom Metal",
+      "Death Metal"
     ]
   },
   {

@@ -162,10 +162,19 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Almighty Rise",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
-      "Black Metal"
+      "Black Metal",
+      "Thrash Metal"
     ]
   },
   {

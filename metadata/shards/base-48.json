@@ -898,6 +898,13 @@
         "genres": [
           "Black Metal"
         ]
+      },
+      {
+        "name": "Alchemical Process",
+        "year": "2026",
+        "genres": [
+          "Black Metal"
+        ]
       }
     ],
     "tags": [
@@ -3475,6 +3482,24 @@
     "tags": [
       "Gothic Metal",
       "Gothic Rock"
+    ]
+  },
+  {
+    "normalizedName": "lifeblood",
+    "displayName": "Lifeblood",
+    "albums": [
+      {
+        "name": "Per Aspera Ad Astra",
+        "year": "2026",
+        "genres": [
+          "Depressive Black Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Depressive Black Metal",
+      "Doom Metal"
     ]
   },
   {

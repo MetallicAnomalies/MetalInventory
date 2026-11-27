@@ -1294,11 +1294,50 @@
           "Sludge Metal",
           "Post-Metal"
         ]
+      },
+      {
+        "name": "On the Eve of Conquest",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      },
+      {
+        "name": "My Body My Soul",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      },
+      {
+        "name": "A Blasphemy Rises",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Heavy Metal",
+          "Hard Rock"
+        ]
+      },
+      {
+        "name": "Into the Grave",
+        "year": "2026",
+        "genres": [
+          "Doom",
+          "Heavy Metal",
+          "Hard Rock"
+        ]
       }
     ],
     "tags": [
       "Sludge Metal",
-      "Post-Metal"
+      "Post-Metal",
+      "Doom",
+      "Heavy Metal",
+      "Hard Rock"
     ]
   },
   {
@@ -3749,6 +3788,22 @@
       }
     ],
     "tags": []
+  },
+  {
+    "normalizedName": "sikiatric",
+    "displayName": "Sikiatric",
+    "albums": [
+      {
+        "name": "Cosmic Horror",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Thrash Metal"
+    ]
   },
   {
     "normalizedName": "society1",

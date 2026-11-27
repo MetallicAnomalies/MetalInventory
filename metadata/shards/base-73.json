@@ -2468,7 +2468,8 @@
       },
       {
         "name": "Mercy To The Miserable",
-        "year": "2026","genres": [
+        "year": "2026",
+        "genres": [
           "Death Metal"
         ]
       }
@@ -2865,7 +2866,8 @@
       },
       {
         "name": "The Annihilation Chalice",
-        "year": "2026","genres": [
+        "year": "2026",
+        "genres": [
           "Black Metal",
           "Death Metal",
           "Thrash Metal"
@@ -3592,6 +3594,24 @@
     ],
     "tags": [
       "Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "sodtheearth",
+    "displayName": "Sod the Earth",
+    "albums": [
+      {
+        "name": "Touch Grass",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Rock"
     ]
   },
   {

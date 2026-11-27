@@ -992,6 +992,26 @@
     ]
   },
   {
+    "normalizedName": "deikapitation",
+    "displayName": "Deikapitation",
+    "albums": [
+      {
+        "name": "Ordo Ab Chao",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Death Metal",
+          "War Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Death Metal",
+      "War Metal"
+    ]
+  },
+  {
     "normalizedName": "dennershermann",
     "displayName": "Denner / Shermann",
     "origin": "DK",
@@ -3664,6 +3684,24 @@
     ],
     "tags": [
       "Death Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "solerian",
+    "displayName": "Solerian",
+    "albums": [
+      {
+        "name": "With Good Grace",
+        "year": "2026",
+        "genres": [
+          "Progressive Metal",
+          "Rock"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Metal",
+      "Rock"
     ]
   },
   {

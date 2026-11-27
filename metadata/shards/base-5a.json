@@ -884,17 +884,45 @@
     ]
   },
   {
+    "normalizedName": "diabology",
+    "displayName": "Diabology",
+    "albums": [
+      {
+        "name": "Them!",
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Black Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "disembody",
     "displayName": "Disembody",
     "albums": [
       {
         "name": "Awakening Of Ancient Evil",
-        "year": "2026","genres": [
+        "year": "2026",
+        "genres": [
+          "Black Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Samhain Rehearsal",
+        "year": "2026",
+        "genres": [
           "Black Metal",
           "Thrash Metal"
         ]
       }
-    ],"tags": [
+    ],
+    "tags": [
       "Black Metal",
       "Thrash Metal"
     ]
@@ -2385,13 +2413,20 @@
           "Brutal Death Metal",
           "Goregrind"
         ]
+      },
+      {
+        "name": "Maggot Vomit / Lombotomy",
+        "year": "2026",
+        "genres": [
+          "Slam Metal",
+          "Brutal Death Metal",
+          "Goregrind"
+        ]
       }
     ],
     "tags": [
       "Slam Goregrind",
       "Brutal Death Metal",
-      "Goregrind",
-      "Slam Metal",
       "Goregrind",
       "Slam Metal"
     ]
@@ -2757,6 +2792,24 @@
     "tags": [
       "Stoner Metal",
       "Psychedelic Doom Metal"
+    ]
+  },
+  {
+    "normalizedName": "mournfulsoil",
+    "displayName": "Mournful Soil",
+    "albums": [
+      {
+        "name": "The Greyest Path",
+        "year": "2026",
+        "genres": [
+          "Melodic Death Metal",
+          "Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Melodic Death Metal",
+      "Gothic Metal"
     ]
   },
   {
@@ -3851,6 +3904,24 @@
     "tags": [
       "Power Metal",
       "Comedy Rock"
+    ]
+  },
+  {
+    "normalizedName": "sorrm",
+    "displayName": "Sorrm",
+    "albums": [
+      {
+        "name": "Тоска по завтра, что было вчера",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Metal",
+          "Post-Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Metal",
+      "Post-Black Metal"
     ]
   },
   {

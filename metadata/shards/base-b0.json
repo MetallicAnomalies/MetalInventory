@@ -3442,6 +3442,24 @@
     ]
   },
   {
+    "normalizedName": "mazout",
+    "displayName": "Mazout",
+    "albums": [
+      {
+        "name": "Larva Migrans",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Stoner Metal",
+      "Doom Metal"
+    ]
+  },
+  {
     "normalizedName": "messiahforce",
     "displayName": "Messiah Force",
     "albums": [
@@ -5621,6 +5639,22 @@
     ],
     "tags": [
       "Depressive Black Metal"
+    ]
+  },
+  {
+    "normalizedName": "willofreason",
+    "displayName": "Will of Reason",
+    "albums": [
+      {
+        "name": "In Aeternum",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Atmospheric Black Metal"
     ]
   },
   {

@@ -1163,6 +1163,14 @@
         "name": "Weaponized Chaos",
         "year": "2027",
         "genres": []
+      },
+      {
+        "name": "Bloodstains",
+        "year": "2026",
+        "genres": [
+          "Thrash Metal",
+          "Speed Metal"
+        ]
       }
     ],
     "tags": [
@@ -3188,11 +3196,19 @@
           "Doom Metal",
           "Sludge Metal"
         ]
+      },
+      {
+        "name": "EP",
+        "year": "2026",
+        "genres": [
+          "Atmospheric Black Metal"
+        ]
       }
     ],
     "tags": [
       "Doom Metal",
-      "Sludge Metal"
+      "Sludge Metal",
+      "Atmospheric Black Metal"
     ]
   },
   {

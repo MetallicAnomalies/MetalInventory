@@ -461,6 +461,24 @@
     ]
   },
   {
+    "normalizedName": "blacktearsofthefallen",
+    "displayName": "Black Tears of the Fallen",
+    "albums": [
+      {
+        "name": "Synchro Path",
+        "year": "2027",
+        "genres": [
+          "Epic Doom Metal",
+          "Gothic Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Epic Doom Metal",
+      "Gothic Metal"
+    ]
+  },
+  {
     "normalizedName": "blackulla",
     "displayName": "Blackulla",
     "albums": [
@@ -2902,6 +2920,32 @@
     ]
   },
   {
+    "normalizedName": "juehring",
+    "displayName": "Juehring",
+    "albums": [
+      {
+        "name": "Good or God",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Thrash Metal"
+        ]
+      },
+      {
+        "name": "Cheap Novocaine",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Thrash Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Thrash Metal"
+    ]
+  },
+  {
     "normalizedName": "kaalakuma",
     "displayName": "KAAL AKUMA",
     "origin": "BD",
@@ -3192,6 +3236,24 @@
     "tags": [
       "Death Thrash Metal",
       "Speed Metal"
+    ]
+  },
+  {
+    "normalizedName": "meadthief",
+    "displayName": "Mead Thief",
+    "albums": [
+      {
+        "name": "Changing Times b/w Double Life",
+        "year": "2026",
+        "genres": [
+          "Heavy Metal",
+          "Doom Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Heavy Metal",
+      "Doom Metal"
     ]
   },
   {
@@ -5048,11 +5110,13 @@
     "albums": [
       {
         "name": "Waar Alle Hoop Verzuipt",
-        "year": "2026","genres": [
+        "year": "2026",
+        "genres": [
           "Black Metal"
         ]
       }
-    ],"tags": [
+    ],
+    "tags": [
       "Black Metal"
     ]
   },

@@ -2993,6 +2993,14 @@
           "Stoner Metal",
           "Rock"
         ]
+      },
+      {
+        "name": "Heavy As the Sun",
+        "year": "2026",
+        "genres": [
+          "Stoner Metal",
+          "Rock"
+        ]
       }
     ],
     "tags": [
@@ -3793,6 +3801,22 @@
     ],
     "tags": [
       "Technical Death Metal"
+    ]
+  },
+  {
+    "normalizedName": "regenoth",
+    "displayName": "Regenoth",
+    "albums": [
+      {
+        "name": "Regenoth:The Hellish Army Of Mordor",
+        "year": "2026",
+        "genres": [
+          "Raw Black Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Raw Black Metal"
     ]
   },
   {

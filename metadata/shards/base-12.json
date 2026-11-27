@@ -289,6 +289,26 @@
     ]
   },
   {
+    "normalizedName": "anantakaal",
+    "displayName": "Anantakaal",
+    "albums": [
+      {
+        "name": "Mezistavy",
+        "year": "2026",
+        "genres": [
+          "Funeral Doom Metal",
+          "Dark Ambient",
+          "Drone"
+        ]
+      }
+    ],
+    "tags": [
+      "Funeral Doom Metal",
+      "Dark Ambient",
+      "Drone"
+    ]
+  },
+  {
     "normalizedName": "anarion",
     "displayName": "Anarion",
     "albums": [
@@ -4435,11 +4455,28 @@
           "Slam Brutal Death Metal",
           "Brutal Death Metal"
         ]
+      },
+      {
+        "name": "Absolute Zero Termination",
+        "year": "2026",
+        "genres": [
+          "Slam Metal",
+          "Brutal Death Metal"
+        ]
+      },
+      {
+        "name": "Pathological Amputation",
+        "year": "2026",
+        "genres": [
+          "Slam Metal",
+          "Brutal Death Metal"
+        ]
       }
     ],
     "tags": [
       "Slam Brutal Death Metal",
-      "Brutal Death Metal"
+      "Brutal Death Metal",
+      "Slam Metal"
     ]
   },
   {

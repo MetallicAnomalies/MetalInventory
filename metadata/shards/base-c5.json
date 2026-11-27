@@ -4491,6 +4491,15 @@
         "genres": [
           "Metalcore"
         ]
+      },
+      {
+        "name": "All Things Set Aside XX",
+        "year": "2026",
+        "genres": [
+          "Technical Deathcore",
+          "Djent",
+          "Technical Metalcore"
+        ]
       }
     ],
     "tags": [
@@ -4499,7 +4508,9 @@
       "Progressive Metal",
       "Metalcore",
       "Djent",
-      "Mathcore"
+      "Mathcore",
+      "Technical Deathcore",
+      "Technical Metalcore"
     ]
   },
   {

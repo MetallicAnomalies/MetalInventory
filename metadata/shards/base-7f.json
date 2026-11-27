@@ -1926,9 +1926,24 @@
         "name": "Bolide I & II",
         "year": "2026",
         "genres": []
+      },
+      {
+        "name": "Boldie I & II",
+        "year": "2026",
+        "genres": [
+          "Psychedelic Stoner Metal",
+          "Folk Metal",
+          "Noise",
+          "Alternative Rock"
+        ]
       }
     ],
-    "tags": []
+    "tags": [
+      "Psychedelic Stoner Metal",
+      "Folk Metal",
+      "Noise",
+      "Alternative Rock"
+    ]
   },
   {
     "normalizedName": "highlandglory",
@@ -2136,6 +2151,24 @@
       "Melodic Death Metal",
       "Black Metal",
       "Deathcore"
+    ]
+  },
+  {
+    "normalizedName": "knightress",
+    "displayName": "Knightress",
+    "albums": [
+      {
+        "name": "The Sentient Condition",
+        "year": "2026",
+        "genres": [
+          "Progressive Doom Metal",
+          "Groove Metal"
+        ]
+      }
+    ],
+    "tags": [
+      "Progressive Doom Metal",
+      "Groove Metal"
     ]
   },
   {

@@ -342,11 +342,21 @@
           "Black Metal",
           "Post-Metal"
         ]
+      },
+      {
+        "name": "Limerence",
+        "year": "2026",
+        "genres": [
+          "Post-Black Metal",
+          "Shoegaze"
+        ]
       }
     ],
     "tags": [
       "Black Metal",
-      "Post-Metal"
+      "Post-Metal",
+      "Post-Black Metal",
+      "Shoegaze"
     ]
   },
   {
